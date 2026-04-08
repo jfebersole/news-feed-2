@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-08T21:31:35.125Z",
-  "fetchedAt": "2026-04-08T21:31:35.125Z",
+  "generatedAt": "2026-04-08T22:10:11.543Z",
+  "fetchedAt": "2026-04-08T22:10:11.543Z",
   "sourceCount": 18,
   "itemCount": 220,
   "totalItemCount": 229,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
+      "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
+      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "A look at a conflict without end and a constitution under pressure.",
+      "publishedAt": "2026-04-08T22:03:30.000Z",
+      "articleId": "f2b37f9291a3481f"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/build-baby-build",
+      "title": "Build, baby, build",
+      "url": "https://www.slowboring.com/p/build-baby-build",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The YIMBYs were right.",
+      "publishedAt": "2026-04-08T22:01:24.000Z",
+      "articleId": "3858b38416ebdfee"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
       "title": "The Idealism of the Space Program Isn’t Enough",
@@ -444,17 +466,6 @@
       "summary": "",
       "publishedAt": "2026-04-04T17:01:35.000Z",
       "articleId": "0d16c2842dbc76f8"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
-      "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
-      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "A look at a conflict without end and a constitution under pressure.",
-      "publishedAt": "2026-04-04T14:04:49.000Z",
-      "articleId": "f2b37f9291a3481f"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04042026",
@@ -928,17 +939,6 @@
       "summary": "The remote Indian Ocean islands roiling British politics and the U.S.-U.K. relationship",
       "publishedAt": "2026-03-29T22:02:09.000Z",
       "articleId": "1bdd4178422f1c25"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-45b",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-45b",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-03-29T17:01:28.000Z",
-      "articleId": "5597a4dfea5b8ed2"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
