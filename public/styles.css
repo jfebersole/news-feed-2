@@ -554,6 +554,40 @@ body.reader-open {
   background: rgba(255, 255, 255, 0.5);
 }
 
+.reader-body img[data-size="normal"] {
+  max-width: min(920px, 94%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reader-body img[data-size="small"] {
+  max-width: min(620px, 84%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reader-body .reader-image-row {
+  margin: 0 0 18px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  max-width: 100%;
+}
+
+.reader-body .reader-image-row[data-columns="3"] {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.reader-body .reader-image-row[data-columns="4"] {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.reader-body .reader-image-row img {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
 .reader-body figcaption {
   margin-top: 7px;
   color: #5d564a;
@@ -617,5 +651,11 @@ body.reader-open {
 
   .card-title {
     max-width: none;
+  }
+
+  .reader-body .reader-image-row,
+  .reader-body .reader-image-row[data-columns="3"],
+  .reader-body .reader-image-row[data-columns="4"] {
+    grid-template-columns: 1fr;
   }
 }

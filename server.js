@@ -741,6 +741,10 @@ function buildExcerptPayload({ url, sourceName, title, summary, reason, paywalle
 function extractArticleFromHtml({ html, url, sourceName }) {
   const $ = cheerio.load(html);
   const jsonLd = extractArticleJsonLd($);
+  const host = (safeHostname(url) || "").toLowerCase();
+  const source = (sourceName || "").toLowerCase();
+  const isSubstackStyle =
+    host.includes("substack.com") || host.includes("worksinprogress.news") || source.includes("substack");
 
   const ogTitle = cleanText($("meta[property='og:title']").attr("content") || "");
   const docTitle = cleanText($("title").first().text() || "");
@@ -755,7 +759,7 @@ function extractArticleFromHtml({ html, url, sourceName }) {
 
   const paywallSignal = detectPaywallSignals($, html);
   const bestContainer = findBestArticleContainer($, { url, sourceName });
-  let content = collectContentBlocks($, bestContainer, url);
+  let content = collectContentBlocks($, bestContainer, url, { preferSubstackMedia: isSubstackStyle });
   if (subtitle) {
     content = stripDuplicativeLeadHeading(content, subtitle);
   }
@@ -894,24 +898,19 @@ function findBestArticleContainer($, { url, sourceName }) {
     ".body-copy",
     ".post",
   ];
-  const selectors = [...preferred, ...generic];
+  const preferredResult = selectBestContainerFromSelectors($, preferred);
+  const preferredParagraphs = preferredResult.best?.find("p").length || 0;
+  const preferredImages = preferredResult.best?.find("img").length || 0;
+  if (
+    preferredResult.best &&
+    preferredResult.best.length &&
+    (preferredResult.score > 2200 || preferredParagraphs >= 6 || preferredImages >= 2)
+  ) {
+    return preferredResult.best;
+  }
 
-  let best = null;
-  let bestScore = 0;
-
-  selectors.forEach((selector) => {
-    $(selector)
-      .slice(0, 14)
-      .each((_idx, element) => {
-        const node = $(element);
-        const score = scoreContainer(node);
-
-        if (score > bestScore) {
-          best = node;
-          bestScore = score;
-        }
-      });
-  });
+  const genericResult = selectBestContainerFromSelectors($, generic);
+  let best = genericResult.best;
 
   if (!best || !best.length) {
     best = $("article").first();
@@ -926,6 +925,26 @@ function findBestArticleContainer($, { url, sourceName }) {
   }
 
   return best;
+}
+
+function selectBestContainerFromSelectors($, selectors) {
+  let best = null;
+  let score = 0;
+
+  selectors.forEach((selector) => {
+    $(selector)
+      .slice(0, 14)
+      .each((_idx, element) => {
+        const node = $(element);
+        const candidateScore = scoreContainer(node);
+        if (candidateScore > score) {
+          best = node;
+          score = candidateScore;
+        }
+      });
+  });
+
+  return { best, score };
 }
 
 function scoreContainer(node) {
@@ -949,7 +968,7 @@ function scoreContainer(node) {
   );
 }
 
-function collectContentBlocks($, container, baseUrl) {
+function collectContentBlocks($, container, baseUrl, options = {}) {
   if (!container || !container.length) {
     return {
       contentHtml: "",
@@ -959,12 +978,16 @@ function collectContentBlocks($, container, baseUrl) {
     };
   }
 
+  const blockSelector = options.preferSubstackMedia
+    ? "h2,h3,h4,p,ul,ol,figure,div[class*='imageRow'],img,blockquote,pre,hr"
+    : "h2,h3,h4,p,ul,ol,figure,img,blockquote,pre,hr";
+
   const blocks = [];
   container
-    .find("h2,h3,h4,p,ul,ol,figure,blockquote,pre,hr")
+    .find(blockSelector)
     .slice(0, 900)
     .each((_idx, element) => {
-      if (!shouldKeepContentBlock($, element)) {
+      if (!shouldKeepContentBlock($, element, options)) {
         return;
       }
 
@@ -997,10 +1020,22 @@ function collectContentBlocks($, container, baseUrl) {
   };
 }
 
-function shouldKeepContentBlock($, element) {
+function shouldKeepContentBlock($, element, options = {}) {
   const node = $(element);
   const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
   if (/(footnote|fnref|share|social|newsletter|related|comment|popup|cookie|paywall)/.test(marker)) {
+    return false;
+  }
+
+  if (
+    node.closest(
+      ".post-header,.byline-wrapper,.post-ufi,.author,.author-wrap,[data-testid='navbar'],.main-menu,.topBar-pIF0J1,.logoContainer-p12gJb"
+    ).length
+  ) {
+    return false;
+  }
+
+  if (node.closest(".footnote,[class*='footnote'],[id^='footnote']").length) {
     return false;
   }
 
@@ -1019,7 +1054,41 @@ function shouldKeepContentBlock($, element) {
 
   const text = cleanText(node.text());
   const hasLinks = node.find("a[href]").length > 0;
-  const hasImages = node.find("img").length > 0;
+  const hasImages = tag === "img" || node.find("img").length > 0;
+
+  if (tag === "div") {
+    return options.preferSubstackMedia && isSubstackImageRowMarker(marker) && node.find("img").length >= 2;
+  }
+
+  if (tag === "img") {
+    if (/(avatar|profile|author|byline|logo|icon|emoji|favicon)/.test(marker)) {
+      return false;
+    }
+
+    if (node.closest("figure").length) {
+      return false;
+    }
+
+    if (options.preferSubstackMedia && node.closest("div[class*='imageRow']").length) {
+      return false;
+    }
+
+    const src = node.attr("src") || node.attr("data-src") || node.attr("data-image-src") || "";
+    if (!cleanText(src)) {
+      return false;
+    }
+
+    const width = Number(node.attr("width") || 0);
+    const height = Number(node.attr("height") || 0);
+    if (width > 0 && height > 0 && width <= 6 && height <= 6) {
+      return false;
+    }
+    if (width > 0 && height > 0 && width <= 64 && height <= 64) {
+      return false;
+    }
+
+    return true;
+  }
 
   if (tag === "p" && text.length < 18 && !hasLinks && !hasImages) {
     return false;
@@ -1042,6 +1111,7 @@ function shouldKeepContentBlock($, element) {
 
 function sanitizeContentBlock($, element, baseUrl) {
   const allowedTags = new Set([
+    "div",
     "p",
     "ul",
     "ol",
@@ -1099,6 +1169,11 @@ function sanitizeContentBlock($, element, baseUrl) {
       return;
     }
 
+    if (tag === "div") {
+      normalizeDivElement($node, attrs);
+      return;
+    }
+
     if (tag === "img") {
       normalizeImageElement($node, attrs, baseUrl);
       return;
@@ -1131,7 +1206,7 @@ function sanitizeContentBlock($, element, baseUrl) {
 
 function isDisallowedWithinReaderNode(node) {
   const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
-  return /(share|social|signup|newsletter|related|comment|cookie|advert|promo|paywall|footer|nav|toolbar|footnote|fnref|popup)/.test(
+  return /(share|social|signup|newsletter|related|comment|cookie|advert|promo|paywall|footer|nav|toolbar|footnote|fnref|popup|byline|avatar|profile|author)/.test(
     marker
   );
 }
@@ -1149,6 +1224,12 @@ function normalizeLinkElement(node, attrs, baseUrl) {
 }
 
 function normalizeImageElement(node, attrs, baseUrl) {
+  const marker = `${attrs.class || ""} ${attrs.id || ""}`.toLowerCase();
+  if (/(avatar|profile|author|byline|favicon)/.test(marker)) {
+    node.remove();
+    return;
+  }
+
   const srcCandidate =
     attrs.src ||
     attrs["data-src"] ||
@@ -1163,7 +1244,28 @@ function normalizeImageElement(node, attrs, baseUrl) {
     return;
   }
 
+  const width = Number(attrs.width || 0);
+  const height = Number(attrs.height || 0);
+  if (width > 0 && height > 0 && width <= 64 && height <= 64) {
+    node.remove();
+    return;
+  }
+
   node.attr("src", src);
+  if (width > 0) {
+    node.attr("width", String(Math.round(width)));
+  }
+  if (height > 0) {
+    node.attr("height", String(Math.round(height)));
+  }
+
+  if (/\bsizing-large\b/.test(marker)) {
+    node.attr("data-size", "large");
+  } else if (/\bsizing-normal\b/.test(marker)) {
+    node.attr("data-size", "normal");
+  } else if (/\bmedium-/i.test(marker) || /\bsizing-small\b/.test(marker)) {
+    node.attr("data-size", "small");
+  }
 
   const alt = cleanText(attrs.alt || attrs.title || "");
   if (alt) {
@@ -1172,6 +1274,38 @@ function normalizeImageElement(node, attrs, baseUrl) {
 
   node.attr("loading", "lazy");
   node.attr("decoding", "async");
+}
+
+function normalizeDivElement(node, attrs) {
+  const marker = `${attrs.class || ""} ${attrs.id || ""}`.toLowerCase();
+  if (!isSubstackImageRowMarker(marker)) {
+    node.replaceWith(node.contents());
+    return;
+  }
+
+  node.attr("class", "reader-image-row");
+  const columns = extractSubstackImageRowColumns(marker);
+  if (columns > 1) {
+    node.attr("data-columns", String(columns));
+  }
+}
+
+function isSubstackImageRowMarker(marker) {
+  return /imagerow-|imagerow\b/.test(marker);
+}
+
+function extractSubstackImageRowColumns(marker) {
+  const match = marker.match(/length-(\d+)/);
+  if (!match || !match[1]) {
+    return 0;
+  }
+
+  const value = Number(match[1]);
+  if (!Number.isFinite(value)) {
+    return 0;
+  }
+
+  return Math.max(0, Math.min(4, Math.round(value)));
 }
 
 function extractFirstUrlFromSrcset(srcset) {
@@ -1248,15 +1382,36 @@ function dedupeHtmlBlocks(blocks) {
   const output = [];
 
   blocks.forEach((block) => {
-    const key = cleanText(block).toLowerCase();
+    const textKey = cleanText(block).toLowerCase();
+    let key = textKey;
+
+    if (!key) {
+      const imageSrc = extractFirstImageSrcFromHtml(block);
+      if (imageSrc) {
+        key = `img:${imageSrc}`;
+      } else {
+        key = block.replace(/\s+/g, " ").trim().toLowerCase();
+      }
+    }
+
     if (!key || seen.has(key)) {
       return;
     }
+
     seen.add(key);
     output.push(block);
   });
 
   return output;
+}
+
+function extractFirstImageSrcFromHtml(html) {
+  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (!match || !match[1]) {
+    return "";
+  }
+
+  return match[1].trim();
 }
 
 function detectPaywallSignals($, html) {
