@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NEWS FEED</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600&family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="masthead">
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <div>
+            <p class="issue-kicker">Issue 01 · Daily Build</p>
+            <h1><a href="#" id="homeLink" class="home-link">NEWS FEED</a></h1>
+            <p class="subhead">A single reading desk for your long-form internet.</p>
+          </div>
+        </div>
+        <div class="masthead-controls">
+          <button id="refreshBtn" class="refresh-btn" type="button">Refresh</button>
+          <span id="lastUpdated" class="last-updated">Loading...</span>
+        </div>
+      </header>
+
+      <section class="main-grid">
+        <section class="story-panel">
+          <div id="metaStrip" class="meta-strip"></div>
+          <section id="cardGrid" class="card-grid" aria-live="polite"></section>
+        </section>
+
+        <aside class="control-rail">
+          <label class="search-box" for="searchInput">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Title, source, keyword" />
+          </label>
+          <div id="sourceChips" class="source-chips" aria-label="Source filters"></div>
+        </aside>
+      </section>
+    </main>
+
+    <template id="cardTemplate">
+      <article class="feed-card">
+        <div class="card-topline">
+          <span class="rank-pill"></span>
+          <span class="source-pill"></span>
+          <span class="time-pill"></span>
+        </div>
+        <a class="card-title-link" target="_blank" rel="noopener noreferrer">
+          <h2 class="card-title"></h2>
+        </a>
+        <p class="card-summary"></p>
+        <div class="card-footer">
+          <a class="card-link" target="_blank" rel="noopener noreferrer">Open Story</a>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
