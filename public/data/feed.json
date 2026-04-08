@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-08T23:03:08.604Z",
-  "fetchedAt": "2026-04-08T23:03:08.604Z",
+  "generatedAt": "2026-04-08T23:50:51.699Z",
+  "fetchedAt": "2026-04-08T23:50:51.699Z",
   "sourceCount": 18,
-  "itemCount": 220,
-  "totalItemCount": 229,
+  "itemCount": 219,
+  "totalItemCount": 219,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/why-anthropic-believes-its-latest",
+      "title": "Why Anthropic believes its latest model is too dangerous to release",
+      "url": "https://www.understandingai.org/p/why-anthropic-believes-its-latest",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "“The language models we have now are probably the most significant thing to happen in security since we got the Internet.”",
+      "publishedAt": "2026-04-08T23:25:24.000Z",
+      "articleId": "4f9cdc3cc2d8820b"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
       "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
@@ -378,17 +389,6 @@
       "summary": "1. Distill your Chinese co-workers? (speculative) 2. Creating artificial gravity in space? 3. Good news for your testicles? 4. The contingencies of the South African economy. 5. AI aggregation and knowledge. 6. The real effects of nominal interest rates. 7. Might Venezuela grow twelve percent this year? The post Monday assorted links appeared first on Marginal REVOLUTION.",
       "publishedAt": "2026-04-06T16:18:52.000Z",
       "articleId": "1c2cd504b3a7912c"
-    },
-    {
-      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/wow-nepal/",
-      "title": "Wow Nepal",
-      "url": "https://tylercowensethnicdiningguide.com/index.php/wow-nepal/",
-      "source": "Tyler Cowen's Ethnic Dining Guide",
-      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
-      "access": "open",
-      "summary": "Wow Nepal, web site, 10728 Fairfax Blvd, Fairfax, VA, 703-880-9898. (Metro Trip Planner – opens in new window) [Google | Road Trippersr | FFX Now] The “Wow” here is exactly right, as it is wonderful to have a new great … Continue reading →",
-      "publishedAt": "2026-04-06T14:07:38.000Z",
-      "articleId": "f80f4c97304df0ac"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-creation-of-instant-coffee",
@@ -2206,17 +2206,6 @@
       "articleId": "4e544687a29a856f"
     },
     {
-      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/chef-tan/",
-      "title": "Chef Tan",
-      "url": "https://tylercowensethnicdiningguide.com/index.php/chef-tan/",
-      "source": "Tyler Cowen's Ethnic Dining Guide",
-      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
-      "access": "open",
-      "summary": "Chef Tan, 132 Branch St. SE, Vienna, VA,703-389-1733 (Metro Trip Planner – opens in new window) [Google | TripAdvisor | FFX Now | Restaurantji] Northern Virginia now has a real Hunanese restaurant! Most things are decent to good here, most … Continue reading →",
-      "publishedAt": "2026-01-03T15:07:54.000Z",
-      "articleId": "eea576bacc947f4d"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/17-predictions-for-ai-in-2026",
       "title": "17 predictions for AI in 2026",
       "url": "https://www.understandingai.org/p/17-predictions-for-ai-in-2026",
@@ -2272,17 +2261,6 @@
       "articleId": "25e1311ebd2ec7a4"
     },
     {
-      "id": "Understanding AI:https://www.understandingai.org/p/help-some-of-the-poorest-people-in",
-      "title": "Help some of the poorest people in Rwanda",
-      "url": "https://www.understandingai.org/p/help-some-of-the-poorest-people-in",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "If readers give $20,000 to GiveDirectly, my wife and I will give another $10,000.",
-      "publishedAt": "2025-12-02T12:06:13.000Z",
-      "articleId": "6bc98f0026b9cb45"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
       "title": "Three Years from GPT-3 to Gemini 3",
       "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
@@ -2316,17 +2294,6 @@
       "articleId": "0c505ad590275bfe"
     },
     {
-      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/mama-chang-cooked-for-me/",
-      "title": "Mama Chang cooked for me",
-      "url": "https://tylercowensethnicdiningguide.com/index.php/mama-chang-cooked-for-me/",
-      "source": "Tyler Cowen's Ethnic Dining Guide",
-      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
-      "access": "open",
-      "summary": "Chang Chang, web site, 1200 19th St NW, Washington, DC (Metro Trip Planner – opens in new window) [Google | Washingtonian | TripAdvisor | Michelin] Yes, the real Mama Chang, mother of Peter Chang, at 84 years old. They even … Continue reading →",
-      "publishedAt": "2025-09-30T14:07:04.000Z",
-      "articleId": "ca47b6c3877d8227"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/real-ai-agents-and-real-work",
       "title": "Real AI Agents and Real Work",
       "url": "https://www.oneusefulthing.org/p/real-ai-agents-and-real-work",
@@ -2347,28 +2314,6 @@
       "summary": "Verifying magic on the jagged frontier",
       "publishedAt": "2025-09-11T20:37:39.000Z",
       "articleId": "de3d23c61c046d5f"
-    },
-    {
-      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/mumbai-central/",
-      "title": "Mumbai Central",
-      "url": "https://tylercowensethnicdiningguide.com/index.php/mumbai-central/",
-      "source": "Tyler Cowen's Ethnic Dining Guide",
-      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
-      "access": "open",
-      "summary": "Mumbai Central, web site, 7505 Leesburg Pike, Falls Church, VA, 703-272-4551 (Metro Trip Planner – opens in new window) [Google | TripAdvisor | FFXNow | Restaurantji] In mall where the now-closed Falls Church Whole Foods used to be. Excellent Indian … Continue reading →",
-      "publishedAt": "2025-09-01T14:07:07.000Z",
-      "articleId": "3a51ace49f07620b"
-    },
-    {
-      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/one-night-in-bangkok/",
-      "title": "One Night in Bangkok",
-      "url": "https://tylercowensethnicdiningguide.com/index.php/one-night-in-bangkok/",
-      "source": "Tyler Cowen's Ethnic Dining Guide",
-      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
-      "access": "open",
-      "summary": "One Night in Bangkok at Duangrat’s, FB, web site, 5878 Leesburg Pike, Falls Church, VA, 703-820-5775 (Metro Trip Planner – opens in new window) [Google | Eater] On the second floor above Duangrat’s, in a pop-up kind of style. Very … Continue reading →",
-      "publishedAt": "2025-08-30T13:07:38.000Z",
-      "articleId": "c7ce6b0f176177da"
     },
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/mass-intelligence",
@@ -2424,6 +2369,50 @@
       "summary": "Which AIs to use, and how to use them",
       "publishedAt": "2025-06-23T16:12:17.000Z",
       "articleId": "b1981c16cafc6a0d"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters",
+      "title": "The recent history of AI in 32 otters",
+      "url": "https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Three years of progress as shown by marine mammals",
+      "publishedAt": "2025-06-01T22:17:53.000Z",
+      "articleId": "6da6748c74a8fbd6"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and",
+      "title": "Making AI Work: Leadership, Lab, and Crowd",
+      "url": "https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "A formula for AI in companies",
+      "publishedAt": "2025-05-22T11:00:44.000Z",
+      "articleId": "38d83c186d9b4552"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/personality-and-persuasion",
+      "title": "Personality and Persuasion",
+      "url": "https://www.oneusefulthing.org/p/personality-and-persuasion",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Learning from Sycophants",
+      "publishedAt": "2025-05-01T04:00:00.000Z",
+      "articleId": "ae45424e4c8a70fb"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything",
+      "title": "On Jagged AGI: o3, Gemini 2.5, and everything after",
+      "url": "https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "New models and new thresholds",
+      "publishedAt": "2025-04-20T11:17:54.000Z",
+      "articleId": "925d0c351bfa3d0c"
     }
   ],
   "sources": [
@@ -2438,10 +2427,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
-      "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "mode": "failed",
+      "itemCount": 0,
+      "feedUrl": null,
+      "error": "No parsable RSS feed or article links found."
     },
     {
       "name": "Astral Codex Ten",
