@@ -171,13 +171,37 @@ app.get("/api/article", async (req, res) => {
     return res.status(400).json({ error: "Missing or invalid article URL." });
   }
 
+  try {
+    const payload = await buildArticlePayload({
+      url,
+      sourceName,
+      fallbackTitle,
+      fallbackSummary,
+    });
+
+    return res.json(payload);
+  } catch (error) {
+    return res.status(500).json({
+      error: "Unable to build article payload.",
+      details: error instanceof Error ? error.message : "Unknown error",
+    });
+  }
+});
+
+if (process.env.NEWS_FEED_DISABLE_SERVER !== "1") {
+  app.listen(PORT, () => {
+    console.log(`News feed running at http://localhost:${PORT}`);
+  });
+}
+
+async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", fallbackSummary = "" }) {
   const access = inferAccessLevel(sourceName, url);
   const cacheKey = canonicalizeUrl(url);
   const cached = cacheKey ? articleCache.get(cacheKey) : null;
   const now = Date.now();
 
   if (cached && now - cached.fetchedAt < ARTICLE_CACHE_TTL_MS) {
-    return res.json({ ...cached.payload, cached: true });
+    return { ...cached.payload, cached: true };
   }
 
   if (access === "paywalled") {
@@ -194,7 +218,7 @@ app.get("/api/article", async (req, res) => {
       articleCache.set(cacheKey, { payload, fetchedAt: now });
     }
 
-    return res.json({ ...payload, cached: false });
+    return { ...payload, cached: false };
   }
 
   try {
@@ -219,7 +243,7 @@ app.get("/api/article", async (req, res) => {
         articleCache.set(cacheKey, { payload, fetchedAt: now });
       }
 
-      return res.json({ ...payload, cached: false });
+      return { ...payload, cached: false };
     }
 
     const payload = {
@@ -242,7 +266,7 @@ app.get("/api/article", async (req, res) => {
       articleCache.set(cacheKey, { payload, fetchedAt: now });
     }
 
-    return res.json({ ...payload, cached: false });
+    return { ...payload, cached: false };
   } catch (error) {
     const payload = buildExcerptPayload({
       url,
@@ -254,13 +278,9 @@ app.get("/api/article", async (req, res) => {
       paywalled: false,
     });
 
-    return res.json({ ...payload, cached: false });
+    return { ...payload, cached: false };
   }
-});
-
-app.listen(PORT, () => {
-  console.log(`News feed running at http://localhost:${PORT}`);
-});
+}
 
 async function aggregateSources() {
   const sourceResults = await Promise.all(SOURCES.map((source) => pullSource(source)));
@@ -1503,3 +1523,5 @@ function countWords(text) {
     .split(/\s+/)
     .filter(Boolean).length;
 }
+
+export { SOURCES, aggregateSources, buildArticlePayload, canonicalizeUrl, inferAccessLevel };

@@ -1,18 +1,16 @@
-# Signal Feed
+# NEWS FEED
 
-Custom news feed app that aggregates the requested blogs, Substacks, NYT/Athletic writers, and other sources into a single stream.
+Static-first personal news feed app that aggregates your configured sources and publishes to GitHub Pages.
 
-## Features
+## Architecture
 
-- Aggregates all configured sources through RSS first.
-- Auto-discovers feed links when possible.
-- Falls back to HTML scraping when RSS is unavailable.
-- De-duplicates stories by canonical URL.
-- Caches results for 10 minutes to keep load times fast.
-- Custom UI with source filters, keyword search, and one-click refresh.
-- In-app reader for open sources with paywalled fallback excerpts.
+- UI is static (`public/index.html`, `public/app.js`, `public/styles.css`).
+- Feed data is generated into `public/data/feed.json`.
+- Reader payloads are generated into `public/data/articles/*.json`.
+- A scheduled GitHub Actions workflow refreshes data every 15 minutes and commits updates.
+- A Pages workflow deploys the `public/` directory.
 
-## Run
+## Local Development
 
 If `npm` is missing, create a Node environment first:
 
@@ -21,8 +19,21 @@ conda create -y -n news-feed-node -c conda-forge nodejs=20
 conda activate news-feed-node
 ```
 
+Install deps:
+
 ```bash
 npm install
+```
+
+Build static data:
+
+```bash
+npm run build:data
+```
+
+Run locally:
+
+```bash
 npm run dev
 ```
 
@@ -30,20 +41,33 @@ Then open `http://localhost:3000`.
 
 Node.js `20+` is required.
 
-## Edit Sources
+## GitHub Pages Setup (Public Repo)
 
-Update the `SOURCES` array in [`server.js`](./server.js) to add/remove feeds or adjust names.
+1. Push this project to a public GitHub repository.
+2. In GitHub: `Settings -> Actions -> General -> Workflow permissions`
+   - Set to `Read and write permissions` (needed so scheduled workflow can commit `public/data` updates).
+3. In GitHub: `Settings -> Pages`
+   - Set `Build and deployment` source to `GitHub Actions`.
+4. In `Actions`, run `Update Static Feed` once manually.
+5. Confirm `Deploy GitHub Pages` succeeds.
+6. Open the Pages URL on laptop + phone.
 
-## API
+### Workflows Included
 
-- `GET /api/feed`
-  - Query params:
-    - `limit` (number): max stories returned (default `180`)
-    - `force=1`: bypass cache
-- `GET /api/sources`
-- `GET /api/article`
-  - Query params:
-    - `url` (required): article URL
-    - `source` (optional): source name
-    - `title` (optional): fallback title
-    - `summary` (optional): fallback excerpt
+- `.github/workflows/update-static-feed.yml`
+  - Runs on schedule (`7,22,37,52 * * * *`) and manual dispatch.
+  - Executes `npm run build:data`.
+  - Commits updated `public/data` files.
+
+- `.github/workflows/deploy-pages.yml`
+  - Deploys `public/` to GitHub Pages on `main` pushes.
+
+## Source Configuration
+
+Update the `SOURCES` array in [`server.js`](./server.js).
+
+## Notes
+
+- This setup is optimized for personal use and fast page loads.
+- Because the repo is public, generated feed/article JSON is public too.
+- Paywalled sources stay excerpt-only in generated reader payloads.

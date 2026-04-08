@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/04/interpreting-polygenic-prediction-of-cognitive-ability.html",
+  "source": "Marginal Revolution",
+  "title": "Interpreting Polygenic Prediction of Cognitive Ability",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-04-07T04:50:30.000Z",
+  "contentHtml": "<p>The subtitle is <a href=\"https://icajournal.scholasticahq.com/article/158459-interpreting-polygenic-prediction-of-cognitive-ability-evidence-for-direct-reliable-and-portable-genetic-effects\" target=\"_blank\" rel=\"noopener noreferrer\">Evidence for Direct, Reliable, and Portable Genetic Effects</a>, and the authors are Tobias Wolfam, et.al.&nbsp; The abstract:</p>\n<blockquote><p>The interpretation of polygenic scores (PGS) for general cognitive ability (GCA) remains contested, with concerns about indirect genetic effects, environmental confounding, cross-ancestry portability, and the gap between PGS prediction and twin heritability estimates. Relying on a newly constructed PGS using within-family designs in two independent sibling cohorts (UK Biobank, N=4,642 pairs; ABCD, N=736 pairs), we demonstrate that direct genetic effects account for the large majority of PGS prediction (within-family attenuation&nbsp;<span><span>\\delta / \\beta \\approx 0.88</span>).</span>&nbsp;Correcting for measurement error in brief cognitive assessments, the within-family association with latent general ability is approximately 0.45, substantially higher than observed-scale estimates. Cross-ancestry portability follows theoretical expectations (66% effect retention in African Americans). Within families, higher PGS predicts greater educational attainment, occupational status, and reduced cardiometabolic disease risk, with no evidence for gene-environment interactions or substantial adverse pleiotropy. These findings replicate using a benchmark predictor based on publicly available data, confirming they reflect properties of cognitive genetic architecture rather than idiosyncrasies of a particular score.</p></blockquote>\n<p>I expect results like this will hold up.&nbsp; Here is <a href=\"https://chatgpt.com/share/69d3fb19-86fc-832b-9630-9f33de876a68\" target=\"_blank\" rel=\"noopener noreferrer\">commentary from GPT Pro</a>.</p>",
+  "wordCount": 195,
+  "imageCount": 0,
+  "linkCount": 2
+}

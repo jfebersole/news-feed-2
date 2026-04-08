@@ -13,6 +13,8 @@ const state = {
   readerItem: null,
   readerArticle: null,
 };
+const FEED_DATA_URL = "./data/feed.json";
+const ARTICLES_DATA_DIR = "./data/articles";
 
 const cardGrid = document.querySelector("#cardGrid");
 const sourceChips = document.querySelector("#sourceChips");
@@ -91,9 +93,9 @@ async function loadFeed(force = false) {
   state.error = "";
   render();
 
-  const url = `/api/feed?limit=220${force ? "&force=1" : ""}`;
+  const url = `${FEED_DATA_URL}${force ? `?ts=${Date.now()}` : ""}`;
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, { cache: force ? "no-store" : "default" });
 
     if (!response.ok) {
       throw new Error(`Failed to load feed (HTTP ${response.status})`);
@@ -103,12 +105,12 @@ async function loadFeed(force = false) {
     state.items = payload.items || [];
     state.sources = payload.sources || [];
     state.generatedAt = payload.generatedAt || payload.fetchedAt || new Date().toISOString();
-    state.cached = Boolean(payload.cached);
+    state.cached = true;
   } catch (error) {
     state.error =
       error instanceof Error
         ? error.message
-        : "Feed request failed. Check the server logs and try again.";
+        : "Feed request failed. Static data may not be published yet.";
   } finally {
     state.loading = false;
   }
@@ -133,7 +135,7 @@ function renderMeta() {
     createMetaPill(`${visible.length} shown`),
     createMetaPill(`${state.sources.length} sources`),
     createMetaPill(sourceModes),
-    createMetaPill(state.cached ? "From cache" : "Live fetch")
+    createMetaPill("Static build")
   );
 }
 
@@ -341,16 +343,16 @@ async function openReader(item) {
   const requestId = ++readerRequestId;
 
   try {
-    const params = new URLSearchParams({
-      url: item.url,
-      source: item.source || "",
-      title: item.title || "",
-      summary: item.summary || "",
-    });
+    const articlePath = resolveArticlePath(item);
+    if (!articlePath) {
+      state.readerArticle = buildFallbackArticle(item, "Reader file missing for this story.");
+      return;
+    }
 
-    const response = await fetch(`/api/article?${params.toString()}`);
+    const response = await fetch(`${articlePath}?ts=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) {
-      throw new Error(`Reader request failed (HTTP ${response.status})`);
+      state.readerArticle = buildFallbackArticle(item, "Reader extract unavailable for this story.");
+      return;
     }
 
     const payload = await response.json();
@@ -358,14 +360,14 @@ async function openReader(item) {
       return;
     }
 
-    state.readerArticle = payload;
+    state.readerArticle = payload?.mode ? payload : buildFallbackArticle(item, "Reader file was invalid.");
   } catch (error) {
     if (requestId !== readerRequestId) {
       return;
     }
 
-    state.readerError =
-      error instanceof Error ? error.message : "Could not load this article in-app right now.";
+    state.readerError = error instanceof Error ? error.message : "Could not load this article in-app right now.";
+    state.readerArticle = buildFallbackArticle(item, state.readerError);
   } finally {
     if (requestId === readerRequestId) {
       state.readerLoading = false;
@@ -483,4 +485,32 @@ function inferItemAccess(item) {
   }
 
   return "open";
+}
+
+function resolveArticlePath(item) {
+  const rawId = typeof item?.articleId === "string" ? item.articleId : "";
+  if (!rawId) {
+    return "";
+  }
+
+  const safeId = rawId.replace(/[^a-z0-9_-]/gi, "");
+  if (!safeId) {
+    return "";
+  }
+
+  return `${ARTICLES_DATA_DIR}/${safeId}.json`;
+}
+
+function buildFallbackArticle(item, reason = "") {
+  const access = item.access || inferItemAccess(item);
+  return {
+    mode: "excerpt",
+    paywalled: access === "paywalled",
+    access,
+    url: item.url,
+    source: item.source,
+    title: item.title,
+    excerpt: item.summary || "Open the original article to continue reading.",
+    reason: reason || "Reader extract unavailable for this story.",
+  };
 }
