@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-04-08T20:39:33.715Z",
-  "fetchedAt": "2026-04-08T20:39:33.715Z",
+  "generatedAt": "2026-04-08T20:53:37.035Z",
+  "fetchedAt": "2026-04-08T20:53:37.035Z",
   "sourceCount": 18,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 229,
   "items": [
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/challengers-and-challenges",
-      "title": "Challengers and challenges",
-      "url": "https://neilpaine.substack.com/p/challengers-and-challenges",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-08T19:10:06.000Z",
-      "articleId": "31e42f3c449df213"
-    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
       "title": "The Idealism of the Space Program Isn’t Enough",
@@ -39,17 +28,6 @@
       "articleId": "38ed54628ef71933"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/nascar-live-neil-paine-joins-to-preview",
-      "title": "NASCAR Live: Neil Paine joins to preview Bristol",
-      "url": "https://neilpaine.substack.com/p/nascar-live-neil-paine-joins-to-preview",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A recording from Neil Paine and NASCAR's live video",
-      "publishedAt": "2026-04-08T18:01:18.000Z",
-      "articleId": "8d83a5e363469b78"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-548.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-548",
       "title": "Wednesday assorted links",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-548.html",
@@ -59,17 +37,6 @@
       "summary": "1. Waymo rollout in NYC is halted. 2. Back “plus” is the better answer (NYT). I am glad this is now settled, Alex T. can attest I have been insisting on this for a while. Note my earlier prediction. 3. Nicholas Decker on Ludwig Straub. 4. Crypto and quantum computing. Likely an important piece, here […] The post Wednesday assorted links appeared first on Marginal REVOLUTION.",
       "publishedAt": "2026-04-08T16:38:11.000Z",
       "articleId": "f23a39c3d527f462"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/my-seoul-girlfriends-and-the-korea",
-      "title": "My Seoul Girlfriends, and the Korea Most People Miss",
-      "url": "https://walkingtheworld.substack.com/p/my-seoul-girlfriends-and-the-korea",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "A conversation with Colin Marshall, who came to learn the language, and stayed for the jeong",
-      "publishedAt": "2026-04-08T15:14:22.000Z",
-      "articleId": "9ae045105da65d92"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/issue-23-egg-freezing-australian",
@@ -94,28 +61,6 @@
       "articleId": "546e4f29435a85ae"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2025-26-nba-elo-forecast-and-player",
-      "title": "🏀 2025-26 NBA Elo Forecast and Player Ratings 📈",
-      "url": "https://neilpaine.substack.com/p/2025-26-nba-elo-forecast-and-player",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Track how I'm forecasting every team’s chance to make — and win — the NBA Finals, all season long.",
-      "publishedAt": "2026-04-08T11:42:00.000Z",
-      "articleId": "d9a09ac3c87f82f5"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2026-mlb-elo-power-ratings-playoff",
-      "title": "⚾ 2026 MLB Elo Power Ratings, Playoff Odds & Wins Above Replacement (WAR) rankings 📈",
-      "url": "https://neilpaine.substack.com/p/2026-mlb-elo-power-ratings-playoff",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The following table is a list of MLB teams with their Elo ratings and their predicted wins throughout the 2026 season.",
-      "publishedAt": "2026-04-08T11:21:00.000Z",
-      "articleId": "1f2c5ff96a1ce464"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ai-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-risks",
       "title": "AI Risks",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ai-risks.html",
@@ -127,17 +72,6 @@
       "articleId": "ad896dfc7c0063dc"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2025-26-nhl-team-elo-power-rankings",
-      "title": "🏒 2025-26 NHL Team Elo Power Rankings & Goals Above Replacement Player Ratings 📉",
-      "url": "https://neilpaine.substack.com/p/2025-26-nhl-team-elo-power-rankings",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Power ratings and forecasts for every NHL team and player this season.",
-      "publishedAt": "2026-04-08T11:10:53.000Z",
-      "articleId": "204eb61bc271a46a"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/in-defense-of-the-girlboss",
       "title": "In defense of the \"girlboss\"",
       "url": "https://www.slowboring.com/p/in-defense-of-the-girlboss",
@@ -147,17 +81,6 @@
       "summary": "Feminism without anti-capitalism is good, actually",
       "publishedAt": "2026-04-08T10:03:42.000Z",
       "articleId": "4e8371bc31df59c3"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/home-again-at-the-trop-the-rays-are",
-      "title": "Home Again at The Trop, the Rays Are Back Where They Win",
-      "url": "https://neilpaine.substack.com/p/home-again-at-the-trop-the-rays-are",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "It may be MLB's least-loved ballpark, but the Tampa Bay Rays have turned Tropicana Field into a real home-field edge — one they sorely missed last year.",
-      "publishedAt": "2026-04-08T10:03:09.000Z",
-      "articleId": "45ee67fd8e13ec92"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/",
@@ -270,17 +193,6 @@
       "articleId": "b2b5cdf7fcf5de28"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/hail-hail-to-michigan",
-      "title": "Hail! Hail! to Michigan",
-      "url": "https://neilpaine.substack.com/p/hail-hail-to-michigan",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-07T16:46:03.000Z",
-      "articleId": "d0cbb472e13a3674"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-drama-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-drama-no-spoilers",
       "title": "*The Drama* (no real spoilers)",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-drama-no-spoilers.html",
@@ -325,17 +237,6 @@
       "articleId": "6766d212c6e369f8"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2026-ncaa-tournament-forecast",
-      "title": "🏀2026 NCAA Tournament Forecast 📊",
-      "url": "https://neilpaine.substack.com/p/2026-ncaa-tournament-forecast",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Track each Division I men's basketball team's odds to make (and, later, win) the 2025 NCAA basketball tourney.",
-      "publishedAt": "2026-04-07T09:56:00.000Z",
-      "articleId": "8056fd335152bf81"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
       "title": "I told you this would end badly",
       "url": "https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
@@ -378,17 +279,6 @@
       "summary": "Just one candle in the darkness.",
       "publishedAt": "2026-04-07T04:50:06.000Z",
       "articleId": "754d9b0bca7d7536"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/michigan-was-too-much-for-uconn-and",
-      "title": "Michigan Was Too Much For UConn — and Everyone Else",
-      "url": "https://neilpaine.substack.com/p/michigan-was-too-much-for-uconn-and",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Even on an off-night offensively, the Wolverines showed their championship DNA by leaning on defense to finish a dominant run.",
-      "publishedAt": "2026-04-07T03:38:06.000Z",
-      "articleId": "282cd34786c3c7b1"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/31/opinion/eza-klein-podcast-michael-pollan.html",
@@ -444,17 +334,6 @@
       "summary": "Wow Nepal, 10728 Fairfax Blvd, Fairfax, VA, 703-880-9898, open 11-9 every day. The “Wow” here is exactly right, as it is wonderful to have a new great restaurant around. Most Nepalese restaurants in America are variants on north Indian food with batches of half-hearted momos thrown in. This place is the real thing. The goat […] The post Wow Nepal appeared first on Marginal REVOLUTION.",
       "publishedAt": "2026-04-06T18:30:48.000Z",
       "articleId": "6c2a93136ebab074"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-dominators-and-the-dynasty",
-      "title": "The dominators and the dynasty",
-      "url": "https://neilpaine.substack.com/p/the-dominators-and-the-dynasty",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-06T17:38:37.000Z",
-      "articleId": "a665b6495227f471"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
@@ -523,17 +402,6 @@
       "articleId": "de3cc85ecee63e9d"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/michigans-final-championship-task",
-      "title": "Michigan's Final Championship Task: To Out-UConn UConn",
-      "url": "https://neilpaine.substack.com/p/michigans-final-championship-task",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The Wolverines are chasing one of the most dominant tournament runs ever — and the only thing standing in their way is the team that defined what dominance looks like in the first place.",
-      "publishedAt": "2026-04-06T09:02:23.000Z",
-      "articleId": "6b6cbf435df46d8e"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-428",
       "title": "Open Thread 428",
       "url": "https://www.astralcodexten.com/p/open-thread-428",
@@ -543,17 +411,6 @@
       "summary": "...",
       "publishedAt": "2026-04-06T09:01:19.000Z",
       "articleId": "4c67f1cf4d3d19d9"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/difficulty-increases-desire",
-      "title": "Difficulty increases desire",
-      "url": "https://scottsumner.substack.com/p/difficulty-increases-desire",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Where the NBA lost the plot",
-      "publishedAt": "2026-04-05T22:14:11.000Z",
-      "articleId": "b961aaf0d4fba770"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-85e",
@@ -622,17 +479,6 @@
       "articleId": "5cb2db5a8f20b3c1"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-march-30-april",
-      "title": "The Week That Was (March 30-April 3, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-march-30-april",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-04-04T10:00:52.000Z",
-      "articleId": "db0761b8c1973db6"
-    },
-    {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010821382/what-if-iran-wins-this-war.html",
       "title": "What if Iran Wins This War?",
       "url": "https://www.nytimes.com/video/opinion/100000010821382/what-if-iran-wins-this-war.html",
@@ -699,17 +545,6 @@
       "articleId": "4d23659b59cbc366"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/too-good-to-be-true",
-      "title": "Too good to be true",
-      "url": "https://scottsumner.substack.com/p/too-good-to-be-true",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "The CRFB's plan to save Social Security",
-      "publishedAt": "2026-04-03T15:41:34.000Z",
-      "articleId": "dd6d502d72a59276"
-    },
-    {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010812935/why-iran-believes-it-has-the-upper-hand.html",
       "title": "Why Iran Believes It Has the Upper Hand",
       "url": "https://www.nytimes.com/video/opinion/100000010812935/why-iran-believes-it-has-the-upper-hand.html",
@@ -741,17 +576,6 @@
       "summary": "Plus Rahm, Mamdani, and what to say about voters who might be bigoted",
       "publishedAt": "2026-04-03T10:03:12.000Z",
       "articleId": "769086f3a13efedb"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/how-mlbs-big-extension-bets-are-changing",
-      "title": "How MLB's Big Extension Bets Are Changing",
-      "url": "https://neilpaine.substack.com/p/how-mlbs-big-extension-bets-are-changing",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "No longer content to lock up young stars early in their MLB careers, teams are now making huge wagers on them before they've even arrived in the bigs.",
-      "publishedAt": "2026-04-03T10:02:48.000Z",
-      "articleId": "1167b3531b586424"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-pauseai-protest-a-photo-essay",
@@ -787,17 +611,6 @@
       "articleId": "0f2db451f7a81616"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/finally-four",
-      "title": "Finally Four",
-      "url": "https://neilpaine.substack.com/p/finally-four",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-02T16:53:53.000Z",
-      "articleId": "b0457798d53a311f"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/my-new-podcast",
       "title": "My new podcast",
       "url": "https://www.slowboring.com/p/my-new-podcast",
@@ -829,17 +642,6 @@
       "summary": "The most famous chart in AI might be obsolete soon.",
       "publishedAt": "2026-04-02T11:33:47.000Z",
       "articleId": "9e813c14cfeb8170"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/most-of-the-nhl-playoff-bracket-is",
-      "title": "Most of the NHL Playoff Bracket is Settled (Except For All the Parts That Aren't)",
-      "url": "https://neilpaine.substack.com/p/most-of-the-nhl-playoff-bracket-is",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "12 teams are virtual locks for the postseason — but that leaves one solid contender (in mid-crisis mode) and three completely wide-open spots for the rest of the league to fight over.",
-      "publishedAt": "2026-04-02T10:03:31.000Z",
-      "articleId": "f473e7eeb1306857"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-quest-for-a-straight-white-christian",
@@ -875,28 +677,6 @@
       "articleId": "32bda1591c4e1d36"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026-q1",
-      "title": "Films of 2026: Q1",
-      "url": "https://scottsumner.substack.com/p/films-of-2026-q1",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus random observations on TV and books",
-      "publishedAt": "2026-04-01T18:15:37.000Z",
-      "articleId": "4d8f6965357c82a9"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/no-foolin",
-      "title": "No foolin’",
-      "url": "https://neilpaine.substack.com/p/no-foolin",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-01T16:42:26.000Z",
-      "articleId": "0a2486f78c1ead82"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/how-japan-has-changed-in-the-last",
       "title": "How Japan has changed in the last 20 years",
       "url": "https://www.noahpinion.blog/p/how-japan-has-changed-in-the-last",
@@ -906,17 +686,6 @@
       "summary": "Reflections on a unique nation.",
       "publishedAt": "2026-04-01T10:29:51.000Z",
       "articleId": "20d81f3c8dcc1429"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-phillies-win-now-balancing-act",
-      "title": "The Phillies' Win-Now Balancing Act Is Already Being Tested",
-      "url": "https://neilpaine.substack.com/p/the-phillies-win-now-balancing-act",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "It's WAY too early to panic in Philadelphia. But MLB's oldest team is trying to thread a high-stakes needle — handing off to the future while still maximizing the chance to contend in the present.",
-      "publishedAt": "2026-04-01T10:03:45.000Z",
-      "articleId": "d2f110184739e673"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-real-problem-with-billionaires",
@@ -1018,17 +787,6 @@
       "articleId": "5c5288ca2922a094"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/oops-all-chalk",
-      "title": "Oops, all chalk",
-      "url": "https://neilpaine.substack.com/p/oops-all-chalk",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-03-31T16:31:30.000Z",
-      "articleId": "aaa76bbaaa9f791a"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-cruise-missiles-of-medicine",
       "title": "Microbubbles",
       "url": "https://www.worksinprogress.news/p/the-cruise-missiles-of-medicine",
@@ -1049,17 +807,6 @@
       "summary": "...",
       "publishedAt": "2026-03-31T11:32:53.000Z",
       "articleId": "b6695a621b2a60aa"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/vegas-coaching-change-was-certainly",
-      "title": "Vegas' Coaching Change Was Certainly Late — But Was It Also Too Little, or Just Right?",
-      "url": "https://neilpaine.substack.com/p/vegas-coaching-change-was-certainly",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The Golden Knights' Tortorella-for-Cassidy swap will test how much a change in coaching style can help an otherwise good team overcome bad goaltending at the 11th hour.",
-      "publishedAt": "2026-03-31T10:03:36.000Z",
-      "articleId": "db6871cc4d6a92e7"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/yelling-at-ambitious-young-women",
@@ -1115,17 +862,6 @@
       "summary": "Courts aren’t always the right answer to our digital problems.",
       "publishedAt": "2026-03-30T18:15:02.000Z",
       "articleId": "b8794aa7e8ea8597"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/a-shocker-sets-the-final-four",
-      "title": "A shocker sets the Final Four",
-      "url": "https://neilpaine.substack.com/p/a-shocker-sets-the-final-four",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-03-30T16:44:11.000Z",
-      "articleId": "11cade6368f92515"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/video/opinion/100000010801995/general-mcchrystal-on-the-myths-misleading-trump-in-iran.html",
@@ -1205,17 +941,6 @@
       "articleId": "5597a4dfea5b8ed2"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-end-of-economics",
-      "title": "The end of economics?",
-      "url": "https://scottsumner.substack.com/p/the-end-of-economics",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Tyler Cowen's requiem for Chicago price theory",
-      "publishedAt": "2026-03-28T17:05:13.000Z",
-      "articleId": "9d48c7745ca42ec9"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
       "title": "Is Religion Reviving or Declining? Both.",
       "url": "https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
@@ -1236,17 +961,6 @@
       "summary": "Plastic price jumps, crypto-backed mortgages, a proposed AI data center pause, US battery manufacturing, and more.",
       "publishedAt": "2026-03-28T12:02:28.000Z",
       "articleId": "3c1074a4cf3d28de"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/japan-americas-best-ally",
-      "title": "Japan: America's Best Ally?",
-      "url": "https://walkingtheworld.substack.com/p/japan-americas-best-ally",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "On happenstance, the perfect Japanese town, and why Japan appeals to the U.S.",
-      "publishedAt": "2026-03-28T10:11:27.000Z",
-      "articleId": "77fb59d27d165a23"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9",
@@ -1436,17 +1150,6 @@
       "articleId": "5465d6511e497ebd"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/paid-subscriptions",
-      "title": "Paid subscriptions",
-      "url": "https://scottsumner.substack.com/p/paid-subscriptions",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Time to pay the piper",
-      "publishedAt": "2026-03-25T16:40:34.000Z",
-      "articleId": "ae314b5280d34aa6"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/every-debate-on-pausing-ai",
       "title": "Every Debate On Pausing AI",
       "url": "https://www.astralcodexten.com/p/every-debate-on-pausing-ai",
@@ -1533,17 +1236,6 @@
       "summary": "In which a robot and I have a fun dorm-room chat about the future of science.",
       "publishedAt": "2026-03-22T14:57:49.000Z",
       "articleId": "110ca39f86b51d7e"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/when-the-dog-doesnt-bark",
-      "title": "When the dog doesn't bark",
-      "url": "https://scottsumner.substack.com/p/when-the-dog-doesnt-bark",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "How non-events bias our thinking",
-      "publishedAt": "2026-03-21T22:26:09.000Z",
-      "articleId": "991a560a1cc14337"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/03/21/opinion/trump-iran-save-act-reckless.html",
@@ -1656,17 +1348,6 @@
       "articleId": "b03c1d0fe4f6d55f"
     },
     {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/walking-kumamoto",
-      "title": "Walking Kumamoto",
-      "url": "https://walkingtheworld.substack.com/p/walking-kumamoto",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "The Nation as meaningful",
-      "publishedAt": "2026-03-18T14:38:01.000Z",
-      "articleId": "e37f0ef3b367c26c"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7126483/2026/03/18/new-york-giants-mock-draft-post-free-agency/",
       "title": "Giants mock draft: A needs-based projection as free agency winds down",
       "url": "https://www.nytimes.com/athletic/7126483/2026/03/18/new-york-giants-mock-draft-post-free-agency/",
@@ -1687,17 +1368,6 @@
       "summary": "...",
       "publishedAt": "2026-03-18T02:47:37.000Z",
       "articleId": "e7a41fce89ac7766"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/no-wait-and-see",
-      "title": "No “wait and see”",
-      "url": "https://scottsumner.substack.com/p/no-wait-and-see",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Using markets to evaluate public policies",
-      "publishedAt": "2026-03-17T15:43:57.000Z",
-      "articleId": "647c539f40c69299"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
@@ -1821,17 +1491,6 @@
       "articleId": "8249278faf0ea477"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/fiscal-shocks-inflation-and-the-lucas",
-      "title": "Fiscal shocks, inflation and the Lucas Critique",
-      "url": "https://scottsumner.substack.com/p/fiscal-shocks-inflation-and-the-lucas",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Why I'm skeptical of fiscal theories of inflation",
-      "publishedAt": "2026-03-13T00:08:06.000Z",
-      "articleId": "fb3f7d54b9c29d2c"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7095864/2026/03/12/calvin-austin-iii-giants-free-agency-2026/",
       "title": "Giants to sign former Steelers WR Calvin Austin III to 1-year deal: Sources",
       "url": "https://www.nytimes.com/athletic/7095864/2026/03/12/calvin-austin-iii-giants-free-agency-2026/",
@@ -1931,17 +1590,6 @@
       "articleId": "0b6499214aaae6d1"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/imagine-three-chinas",
-      "title": "Imagine three Chinas",
-      "url": "https://scottsumner.substack.com/p/imagine-three-chinas",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Revisiting \"India as #1\", 16 years later",
-      "publishedAt": "2026-03-09T19:45:52.000Z",
-      "articleId": "187e6216f83c8f0b"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7102270/2026/03/09/tremaine-edmunds-giants-free-agency-2026/",
       "title": "Giants to sign LB Tremaine Edmunds, former Bear, to 3-year deal: Sources",
       "url": "https://www.nytimes.com/athletic/7102270/2026/03/09/tremaine-edmunds-giants-free-agency-2026/",
@@ -1973,17 +1621,6 @@
       "summary": "How a single unappetizing shrub became dozens of different vegetables.",
       "publishedAt": "2026-03-09T14:25:17.000Z",
       "articleId": "c21054ead48d91bc"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/america-and-public-disorder",
-      "title": "America and Public Disorder",
-      "url": "https://walkingtheworld.substack.com/p/america-and-public-disorder",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Our biggest social flaw should be addressed",
-      "publishedAt": "2026-03-09T10:01:34.000Z",
-      "articleId": "9d67d30ab7327c4a"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7097993/2026/03/08/new-york-giants-free-agency-preview/",
@@ -2039,17 +1676,6 @@
       "summary": "Who's likely staying and who's likely on the way out with free agency a few days away.",
       "publishedAt": "2026-03-07T10:30:26.000Z",
       "articleId": "de2178a4cdddf1f7"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/freak-out",
-      "title": "Freak Out!",
-      "url": "https://scottsumner.substack.com/p/freak-out",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "When it's time to panic",
-      "publishedAt": "2026-03-06T19:22:57.000Z",
-      "articleId": "47ddc9b45df23a60"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/introducing-works-in-progress-out",
@@ -2173,17 +1799,6 @@
       "articleId": "b781143d61631ec2"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/a-scoundrels-last-refuge",
-      "title": "A scoundrel's last refuge",
-      "url": "https://scottsumner.substack.com/p/a-scoundrels-last-refuge",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Good and bad patriotism",
-      "publishedAt": "2026-03-01T18:04:35.000Z",
-      "articleId": "c2401801b4194eef"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-022826",
       "title": "Reading List 02/28/26",
       "url": "https://www.construction-physics.com/p/reading-list-022826",
@@ -2215,17 +1830,6 @@
       "summary": "Plus, why they might be in on a running back, out on tight ends, and a new candidate for the No. 5 pick emerges.",
       "publishedAt": "2026-02-28T10:30:01.000Z",
       "articleId": "8a986dc889ab2e3f"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/good-things-are-good",
-      "title": "Good things are good",
-      "url": "https://scottsumner.substack.com/p/good-things-are-good",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "No, overproduction did not cause the Great Depression",
-      "publishedAt": "2026-02-27T21:23:11.000Z",
-      "articleId": "a59b677413bb7149"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/sorry-skeptics-ai-really-is-changing",
@@ -2270,28 +1874,6 @@
       "summary": "How Africa Works by Joe Studwell is the sequel to one of the most influential books written on development in recent decades.",
       "publishedAt": "2026-02-26T12:31:08.000Z",
       "articleId": "194a6719199d90d8"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/some-like-it-hot",
-      "title": "Some like it hot",
-      "url": "https://scottsumner.substack.com/p/some-like-it-hot",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Our tropical future",
-      "publishedAt": "2026-02-25T22:02:13.000Z",
-      "articleId": "e9ebfeac23e59c6c"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/what-holds-america-together",
-      "title": "What Holds America Together?",
-      "url": "https://walkingtheworld.substack.com/p/what-holds-america-together",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "The importance of Place, the American Dream, and the under-rated Midwest",
-      "publishedAt": "2026-02-25T17:46:32.000Z",
-      "articleId": "15a37465cd10b3f3"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-europe-has-stagnated",
@@ -2360,17 +1942,6 @@
       "articleId": "658e53df84ad28d0"
     },
     {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/replacement-anxiety",
-      "title": "Replacement anxiety",
-      "url": "https://scottsumner.substack.com/p/replacement-anxiety",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Will \"they\" replace us, or will \"it\" replace us?",
-      "publishedAt": "2026-02-20T01:37:04.000Z",
-      "articleId": "7da7f6a535fad5ac"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
       "title": "Issue 22: Why Europe doesn’t have a Tesla",
       "url": "https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
@@ -2424,6 +1995,435 @@
       "summary": "It's not just chatbots anymore",
       "publishedAt": "2026-02-18T01:45:41.000Z",
       "articleId": "f0214b6795f1c055"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/a-volcano-scorched-hundreds-of-roman",
+      "title": "A volcano scorched hundreds of Roman scrolls — can AI recover their text?",
+      "url": "https://www.understandingai.org/p/a-volcano-scorched-hundreds-of-roman",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Despite early breakthroughs, it could take years to decode all the scrolls.",
+      "publishedAt": "2026-02-17T16:37:01.000Z",
+      "articleId": "7730a371ec494c1b"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-021426",
+      "title": "Reading list 02/14/26",
+      "url": "https://www.construction-physics.com/p/reading-list-021426",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Welcome to the reading list, a weekly list of news and links related to buildings, infrastructure, and industrial technology.",
+      "publishedAt": "2026-02-14T13:01:32.000Z",
+      "articleId": "0a242a90e5e2c733"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7043576/2026/02/13/new-york-giants-defensive-roster/",
+      "title": "One thought on every New York Giants defensive player ahead of free agency",
+      "url": "https://www.nytimes.com/athletic/7043576/2026/02/13/new-york-giants-defensive-roster/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Taking a look at the parts of what could be an elite defense in John Harbaugh's first season.",
+      "publishedAt": "2026-02-13T10:31:18.000Z",
+      "articleId": "4ea9f1f889565f78"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
+      "title": "Steve Tisch is embroiled in the Jeffrey Epstein scandal. What is his role with the Giants?",
+      "url": "https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The co-owner has been embroiled in controversy after being connected to Jeffrey Epstein.",
+      "publishedAt": "2026-02-13T10:30:08.000Z",
+      "articleId": "4be375a925b712fc"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/trends-in-us-construction-productivity",
+      "title": "Trends in US Construction Productivity",
+      "url": "https://www.construction-physics.com/p/trends-in-us-construction-productivity",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "(This is a chapter of a longer report I’m working on that summarizes and expands the last several years of my work on construction productivity.",
+      "publishedAt": "2026-02-12T13:03:20.000Z",
+      "articleId": "72d5b78f934bd116"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7038577/2026/02/11/brian-callahan-new-york-giants/",
+      "title": "Giants to hire former Titans head coach Brian Callahan as QBs coach: Sources",
+      "url": "https://www.nytimes.com/athletic/7038577/2026/02/11/brian-callahan-new-york-giants/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Callahan was also the Bengals' offensive coordinator for five seasons.",
+      "publishedAt": "2026-02-11T15:02:44.000Z",
+      "articleId": "5e76c794b28c1a53"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7037227/2026/02/11/new-york-giants-offensive-roster/",
+      "title": "One thought on every New York Giants offensive player ahead of free agency",
+      "url": "https://www.nytimes.com/athletic/7037227/2026/02/11/new-york-giants-offensive-roster/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Assessing 32 of John Harbaugh's new players, from Jaxson Dart to Bryan Hudson.",
+      "publishedAt": "2026-02-11T10:30:45.000Z",
+      "articleId": "baf4f5a3c65299be"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/the-many-masks-that-llms-wear",
+      "title": "The many masks LLMs wear",
+      "url": "https://www.understandingai.org/p/the-many-masks-that-llms-wear",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Why frontier labs struggle to keep their chatbots in character.",
+      "publishedAt": "2026-02-09T14:01:26.000Z",
+      "articleId": "6b633d2f3afe7ced"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-02062026",
+      "title": "Reading List 02/06/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-02062026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Welcome to the reading list, a look at what happened this week in infrastructure, buildings, and building things.",
+      "publishedAt": "2026-02-06T13:03:43.000Z",
+      "articleId": "f5dbc80af82ab25b"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-for-01312026",
+      "title": "Reading List for 01/31/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-for-01312026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Welcome to the Reading List, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology.",
+      "publishedAt": "2026-01-31T13:02:52.000Z",
+      "articleId": "14f183f182c74b5e"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/the-feds-are-probing-waymos-behavior",
+      "title": "The feds are probing Waymo's behavior around school children",
+      "url": "https://www.understandingai.org/p/the-feds-are-probing-waymos-behavior",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "It's not clear if Waymo was at fault for striking a child at 6 mph.",
+      "publishedAt": "2026-01-29T20:48:29.000Z",
+      "articleId": "31439ba635905dc8"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/on-technologies-vs-commodities",
+      "title": "On Technologies vs. Commodities",
+      "url": "https://www.construction-physics.com/p/on-technologies-vs-commodities",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A theory that has gained traction in the renewable energy space is that renewable energy sources like wind and solar are based on manufactured “technologies”, while fossil fuel energy sources like oil, coal, and natural gas are based on extracted “commodities”.",
+      "publishedAt": "2026-01-29T13:00:33.000Z",
+      "articleId": "3173c90fdbfeef02"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/an-unlikely-ally-for-open-source",
+      "title": "An unlikely ally for open-source protein-folding models: Big Pharma",
+      "url": "https://www.understandingai.org/p/an-unlikely-ally-for-open-source",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Drug companies are funding open-source AI to avoid depending on Google.",
+      "publishedAt": "2026-01-28T15:39:43.000Z",
+      "articleId": "71d39ba604d7aae1"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "title": "Management as AI superpower",
+      "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Thriving in a world of agents",
+      "publishedAt": "2026-01-27T16:55:55.000Z",
+      "articleId": "cc10a0c6660a4532"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-012426",
+      "title": "Reading List 01/24/26",
+      "url": "https://www.construction-physics.com/p/reading-list-012426",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Welcome to the reading list, a weekly list of news and links related to buildings, infrastructure, and industrial technology.",
+      "publishedAt": "2026-01-24T13:00:24.000Z",
+      "articleId": "ab01fa3185319a67"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/do-commodities-get-cheaper-over-time",
+      "title": "Do Commodities Get Cheaper Over Time?",
+      "url": "https://www.construction-physics.com/p/do-commodities-get-cheaper-over-time",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "This American Enterprise Institute chart, which breaks down how price changes for different types of goods and services in the consumer price index, has by now become very widely known.",
+      "publishedAt": "2026-01-22T13:02:46.000Z",
+      "articleId": "2982dd4a9c0a8c23"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
+      "title": "How shifting risk to users makes Claude Code more powerful",
+      "url": "https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "People are discovering that Claude Code isn’t just for code.",
+      "publishedAt": "2026-01-20T19:36:47.000Z",
+      "articleId": "f7313c77e717b650"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/ai-is-just-starting-to-change-the",
+      "title": "AI is just starting to change the legal profession",
+      "url": "https://www.understandingai.org/p/ai-is-just-starting-to-change-the",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "I talked to 10 lawyers about how they're using AI.",
+      "publishedAt": "2026-01-15T20:06:17.000Z",
+      "articleId": "b9ea123445154e58"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+      "title": "Claude Code and What Comes Next",
+      "url": "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "With the right tools, AI can accomplish impressive things",
+      "publishedAt": "2026-01-07T23:00:10.000Z",
+      "articleId": "4e544687a29a856f"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/chef-tan/",
+      "title": "Chef Tan",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/chef-tan/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Chef Tan, 132 Branch St. SE, Vienna, VA,703-389-1733 (Metro Trip Planner – opens in new window) [Google | TripAdvisor | FFX Now | Restaurantji] Northern Virginia now has a real Hunanese restaurant! Most things are decent to good here, most … Continue reading →",
+      "publishedAt": "2026-01-03T15:07:54.000Z",
+      "articleId": "eea576bacc947f4d"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/17-predictions-for-ai-in-2026",
+      "title": "17 predictions for AI in 2026",
+      "url": "https://www.understandingai.org/p/17-predictions-for-ai-in-2026",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "AI will continue improving rapidly, but real-world economic impacts will be modest.",
+      "publishedAt": "2025-12-31T17:41:20.000Z",
+      "articleId": "4fdfac781cfe1144"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+      "title": "The Shape of AI: Jaggedness, Bottlenecks and Salients",
+      "url": "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "And why Nano Banana Pro is such a big deal",
+      "publishedAt": "2025-12-20T17:32:02.000Z",
+      "articleId": "167e91d49058464f"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems",
+      "title": "Waymo and Tesla’s self-driving systems are more similar than people think",
+      "url": "https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Everyone is moving toward transformer-based, end-to-end architectures.",
+      "publishedAt": "2025-12-17T22:01:17.000Z",
+      "articleId": "9603709d33ca2795"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/the-best-chinese-open-weight-models",
+      "title": "The best Chinese open-weight models — and the strongest US rivals",
+      "url": "https://www.understandingai.org/p/the-best-chinese-open-weight-models",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "The Understanding AI guide to open-weight models.",
+      "publishedAt": "2025-12-15T15:58:12.000Z",
+      "articleId": "c54f38b481608ecb"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/google-and-anthropic-approach-llms",
+      "title": "Google and Anthropic approach LLMs differently",
+      "url": "https://www.understandingai.org/p/google-and-anthropic-approach-llms",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "The very different cultures of OpenAI's two most important rivals.",
+      "publishedAt": "2025-12-04T18:49:41.000Z",
+      "articleId": "25e1311ebd2ec7a4"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/help-some-of-the-poorest-people-in",
+      "title": "Help some of the poorest people in Rwanda",
+      "url": "https://www.understandingai.org/p/help-some-of-the-poorest-people-in",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "If readers give $20,000 to GiveDirectly, my wife and I will give another $10,000.",
+      "publishedAt": "2025-12-02T12:06:13.000Z",
+      "articleId": "6bc98f0026b9cb45"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "title": "Three Years from GPT-3 to Gemini 3",
+      "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "From chatbots to agents",
+      "publishedAt": "2025-11-18T16:55:07.000Z",
+      "articleId": "8f994faf80c53f5e"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview",
+      "title": "Giving your AI a Job Interview",
+      "url": "https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "As AI advice becomes more important, we are going to need to get better at assessing it",
+      "publishedAt": "2025-11-12T02:46:43.000Z",
+      "articleId": "e705e4b811f393ac"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai",
+      "title": "An Opinionated Guide to Using AI Right Now",
+      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "What AI to use in late 2025",
+      "publishedAt": "2025-10-19T18:45:34.000Z",
+      "articleId": "0c505ad590275bfe"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/mama-chang-cooked-for-me/",
+      "title": "Mama Chang cooked for me",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/mama-chang-cooked-for-me/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Chang Chang, web site, 1200 19th St NW, Washington, DC (Metro Trip Planner – opens in new window) [Google | Washingtonian | TripAdvisor | Michelin] Yes, the real Mama Chang, mother of Peter Chang, at 84 years old. They even … Continue reading →",
+      "publishedAt": "2025-09-30T14:07:04.000Z",
+      "articleId": "ca47b6c3877d8227"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/real-ai-agents-and-real-work",
+      "title": "Real AI Agents and Real Work",
+      "url": "https://www.oneusefulthing.org/p/real-ai-agents-and-real-work",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "The race between human-centered work and infinite PowerPoints",
+      "publishedAt": "2025-09-29T18:52:42.000Z",
+      "articleId": "1fc059ddcf5843a9"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/on-working-with-wizards",
+      "title": "On Working with Wizards",
+      "url": "https://www.oneusefulthing.org/p/on-working-with-wizards",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Verifying magic on the jagged frontier",
+      "publishedAt": "2025-09-11T20:37:39.000Z",
+      "articleId": "de3d23c61c046d5f"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/mumbai-central/",
+      "title": "Mumbai Central",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/mumbai-central/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Mumbai Central, web site, 7505 Leesburg Pike, Falls Church, VA, 703-272-4551 (Metro Trip Planner – opens in new window) [Google | TripAdvisor | FFXNow | Restaurantji] In mall where the now-closed Falls Church Whole Foods used to be. Excellent Indian … Continue reading →",
+      "publishedAt": "2025-09-01T14:07:07.000Z",
+      "articleId": "3a51ace49f07620b"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/one-night-in-bangkok/",
+      "title": "One Night in Bangkok",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/one-night-in-bangkok/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "One Night in Bangkok at Duangrat’s, FB, web site, 5878 Leesburg Pike, Falls Church, VA, 703-820-5775 (Metro Trip Planner – opens in new window) [Google | Eater] On the second floor above Duangrat’s, in a pop-up kind of style. Very … Continue reading →",
+      "publishedAt": "2025-08-30T13:07:38.000Z",
+      "articleId": "c7ce6b0f176177da"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/mass-intelligence",
+      "title": "Mass Intelligence",
+      "url": "https://www.oneusefulthing.org/p/mass-intelligence",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "From GPT-5 to nano banana: everyone is getting access to powerful AI",
+      "publishedAt": "2025-08-28T20:47:26.000Z",
+      "articleId": "9b0ded7eaa320399"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff",
+      "title": "GPT-5: It Just Does Stuff",
+      "url": "https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Putting the AI in Charge",
+      "publishedAt": "2025-08-07T17:02:18.000Z",
+      "articleId": "929bfb33f5a7ac6c"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage",
+      "title": "The Bitter Lesson versus The Garbage Can",
+      "url": "https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Does process matter? We are about to find out.",
+      "publishedAt": "2025-07-28T11:30:43.000Z",
+      "articleId": "ded9dc9984a6e570"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/against-brain-damage",
+      "title": "Against \"Brain Damage\"",
+      "url": "https://www.oneusefulthing.org/p/against-brain-damage",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "AI can help, or hurt, our thinking",
+      "publishedAt": "2025-07-07T19:02:38.000Z",
+      "articleId": "1ad25a1553b4f0d3"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide",
+      "title": "Using AI Right Now: A Quick Guide",
+      "url": "https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Which AIs to use, and how to use them",
+      "publishedAt": "2025-06-23T16:12:17.000Z",
+      "articleId": "b1981c16cafc6a0d"
     }
   ],
   "sources": [
@@ -2470,18 +2470,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
-      "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "mode": "failed",
+      "itemCount": 0,
+      "feedUrl": null,
+      "error": "HTTP 403"
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
-      "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "mode": "failed",
+      "itemCount": 0,
+      "feedUrl": null,
+      "error": "HTTP 403"
     },
     {
       "name": "One Useful Thing",
@@ -2502,10 +2502,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
-      "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "mode": "failed",
+      "itemCount": 0,
+      "feedUrl": null,
+      "error": "HTTP 403"
     },
     {
       "name": "Noahpinion",
