@@ -7,6 +7,11 @@ const state = {
   generatedAt: null,
   cached: false,
   error: "",
+  readerOpen: false,
+  readerLoading: false,
+  readerError: "",
+  readerItem: null,
+  readerArticle: null,
 };
 
 const cardGrid = document.querySelector("#cardGrid");
@@ -17,6 +22,17 @@ const searchInput = document.querySelector("#searchInput");
 const refreshBtn = document.querySelector("#refreshBtn");
 const lastUpdated = document.querySelector("#lastUpdated");
 const homeLink = document.querySelector("#homeLink");
+const readerOverlay = document.querySelector("#readerOverlay");
+const readerCloseBtn = document.querySelector("#readerCloseBtn");
+const readerExternalLink = document.querySelector("#readerExternalLink");
+const readerSource = document.querySelector("#readerSource");
+const readerAccess = document.querySelector("#readerAccess");
+const readerTitle = document.querySelector("#readerTitle");
+const readerSubtitle = document.querySelector("#readerSubtitle");
+const readerMeta = document.querySelector("#readerMeta");
+const readerReason = document.querySelector("#readerReason");
+const readerBody = document.querySelector("#readerBody");
+let readerRequestId = 0;
 
 searchInput.addEventListener("input", (event) => {
   state.searchText = event.target.value.trim().toLowerCase();
@@ -38,6 +54,11 @@ refreshBtn.addEventListener("click", async () => {
 });
 
 window.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && state.readerOpen) {
+    closeReader();
+    return;
+  }
+
   if (event.key === "/" && document.activeElement !== searchInput) {
     event.preventDefault();
     searchInput.focus();
@@ -49,8 +70,16 @@ homeLink.addEventListener("click", (event) => {
   state.selectedSource = "all";
   state.searchText = "";
   searchInput.value = "";
+  closeReader();
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+readerCloseBtn.addEventListener("click", closeReader);
+readerOverlay.addEventListener("click", (event) => {
+  if (event.target === readerOverlay) {
+    closeReader();
+  }
 });
 
 loadFeed().catch((error) => {
@@ -92,6 +121,7 @@ function render() {
   renderLastUpdated();
   renderSourceChips();
   renderCards();
+  renderReader();
 }
 
 function renderMeta() {
@@ -184,6 +214,14 @@ function renderCards() {
     timePill.textContent = item.publishedAt ? formatRelative(item.publishedAt) : "Date unknown";
     title.textContent = item.title;
     titleLink.href = item.url;
+    titleLink.addEventListener("click", (event) => {
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+        return;
+      }
+
+      event.preventDefault();
+      openReader(item);
+    });
     summary.textContent = truncateSummary(item.summary) || "Summary unavailable.";
     link.href = item.url;
     link.textContent = "Open Story";
@@ -290,4 +328,159 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+async function openReader(item) {
+  state.readerOpen = true;
+  state.readerLoading = true;
+  state.readerError = "";
+  state.readerItem = item;
+  state.readerArticle = null;
+  renderReader();
+
+  const requestId = ++readerRequestId;
+
+  try {
+    const params = new URLSearchParams({
+      url: item.url,
+      source: item.source || "",
+      title: item.title || "",
+      summary: item.summary || "",
+    });
+
+    const response = await fetch(`/api/article?${params.toString()}`);
+    if (!response.ok) {
+      throw new Error(`Reader request failed (HTTP ${response.status})`);
+    }
+
+    const payload = await response.json();
+    if (requestId !== readerRequestId) {
+      return;
+    }
+
+    state.readerArticle = payload;
+  } catch (error) {
+    if (requestId !== readerRequestId) {
+      return;
+    }
+
+    state.readerError =
+      error instanceof Error ? error.message : "Could not load this article in-app right now.";
+  } finally {
+    if (requestId === readerRequestId) {
+      state.readerLoading = false;
+      renderReader();
+    }
+  }
+}
+
+function closeReader() {
+  state.readerOpen = false;
+  state.readerLoading = false;
+  state.readerError = "";
+  state.readerItem = null;
+  state.readerArticle = null;
+  renderReader();
+}
+
+function renderReader() {
+  if (!state.readerOpen || !state.readerItem) {
+    readerOverlay.classList.remove("open");
+    readerOverlay.setAttribute("aria-hidden", "true");
+    document.body.classList.remove("reader-open");
+    return;
+  }
+
+  const item = state.readerItem;
+  const article = state.readerArticle;
+
+  readerOverlay.classList.add("open");
+  readerOverlay.setAttribute("aria-hidden", "false");
+  document.body.classList.add("reader-open");
+
+  readerExternalLink.href = item.url;
+  readerSource.textContent = item.source || "";
+
+  const access = article?.access || item.access || inferItemAccess(item);
+  readerAccess.textContent = access === "paywalled" ? "Excerpt" : "Full Text";
+
+  readerTitle.textContent = article?.title || item.title || "Article";
+  readerSubtitle.textContent = "";
+  readerSubtitle.classList.remove("visible");
+  const subtitle = article?.subtitle || "";
+  if (subtitle) {
+    readerSubtitle.textContent = subtitle;
+    readerSubtitle.classList.add("visible");
+  }
+  readerMeta.textContent = buildReaderMeta(article, item);
+  readerReason.textContent = "";
+  readerReason.classList.remove("visible");
+
+  if (state.readerLoading) {
+    readerBody.innerHTML = "<p>Loading article...</p>";
+    return;
+  }
+
+  if (state.readerError) {
+    readerBody.innerHTML = `<p>${escapeHtml(state.readerError)}</p>`;
+    return;
+  }
+
+  if (!article) {
+    readerBody.innerHTML = "<p>Article unavailable. Open the original link.</p>";
+    return;
+  }
+
+  if (article.mode === "excerpt") {
+    if (article.reason) {
+      readerReason.textContent = article.reason;
+      readerReason.classList.add("visible");
+    }
+
+    const excerpt = article.excerpt || item.summary || "Open the original article to keep reading.";
+    readerBody.innerHTML = `<p>${escapeHtml(excerpt)}</p>`;
+    return;
+  }
+
+  readerBody.innerHTML =
+    article.contentHtml || "<p>No extracted content was available for this story.</p>";
+}
+
+function buildReaderMeta(article, item) {
+  const parts = [];
+
+  if (article?.byline) {
+    parts.push(article.byline);
+  }
+
+  const publishedAt = article?.publishedAt || item?.publishedAt;
+  if (publishedAt) {
+    parts.push(new Date(publishedAt).toLocaleString());
+  }
+
+  if (article?.wordCount) {
+    parts.push(`${article.wordCount} words`);
+  }
+
+  return parts.join(" · ");
+}
+
+function inferItemAccess(item) {
+  const source = (item.source || "").toLowerCase();
+  const url = (item.url || "").toLowerCase();
+
+  if (
+    source.includes("nyt") ||
+    source.includes("athletic") ||
+    source.includes("bloomberg") ||
+    source.includes("stratechery") ||
+    url.includes("nytimes.com") ||
+    url.includes("bloomberg.com") ||
+    url.includes("theathletic.com") ||
+    url.includes("stratechery.com")
+  ) {
+    return "paywalled";
+  }
+
+  return "open";
 }

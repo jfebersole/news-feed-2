@@ -49,6 +49,35 @@
       </section>
     </main>
 
+    <section id="readerOverlay" class="reader-overlay" aria-hidden="true">
+      <article class="reader-shell" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
+        <header class="reader-header">
+          <button id="readerCloseBtn" class="reader-close" type="button" aria-label="Close reader">
+            Close
+          </button>
+          <a
+            id="readerExternalLink"
+            class="reader-external"
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Open Original
+          </a>
+        </header>
+
+        <p class="reader-source-row">
+          <span id="readerSource" class="reader-source"></span>
+          <span id="readerAccess" class="reader-access"></span>
+        </p>
+        <h2 id="readerTitle" class="reader-title"></h2>
+        <p id="readerSubtitle" class="reader-subtitle"></p>
+        <p id="readerMeta" class="reader-meta"></p>
+        <p id="readerReason" class="reader-reason"></p>
+        <div id="readerBody" class="reader-body"></div>
+      </article>
+    </section>
+
     <template id="cardTemplate">
       <article class="feed-card">
         <div class="card-topline">
@@ -56,7 +85,7 @@
           <span class="source-pill"></span>
           <span class="time-pill"></span>
         </div>
-        <a class="card-title-link" target="_blank" rel="noopener noreferrer">
+        <a class="card-title-link" href="#" target="_blank" rel="noopener noreferrer">
           <h2 class="card-title"></h2>
         </a>
         <p class="card-summary"></p>

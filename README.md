@@ -10,6 +10,7 @@ Custom news feed app that aggregates the requested blogs, Substacks, NYT/Athleti
 - De-duplicates stories by canonical URL.
 - Caches results for 10 minutes to keep load times fast.
 - Custom UI with source filters, keyword search, and one-click refresh.
+- In-app reader for open sources with paywalled fallback excerpts.
 
 ## Run
 
@@ -40,3 +41,9 @@ Update the `SOURCES` array in [`server.js`](./server.js) to add/remove feeds or 
     - `limit` (number): max stories returned (default `180`)
     - `force=1`: bypass cache
 - `GET /api/sources`
+- `GET /api/article`
+  - Query params:
+    - `url` (required): article URL
+    - `source` (optional): source name
+    - `title` (optional): fallback title
+    - `summary` (optional): fallback excerpt
