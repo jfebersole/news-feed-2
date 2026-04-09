@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-09T07:53:00.085Z",
-  "fetchedAt": "2026-04-09T07:53:00.083Z",
+  "generatedAt": "2026-04-09T09:21:42.518Z",
+  "fetchedAt": "2026-04-09T09:21:42.515Z",
   "sourceCount": 18,
   "itemCount": 220,
   "totalItemCount": 229,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/09/opinion/trump-iran-putin-war-crimes.html",
+      "title": "Trump Is Tearing at the Soul of the Military",
+      "url": "https://www.nytimes.com/2026/04/09/opinion/trump-iran-putin-war-crimes.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "If an unlawful order comes from the president himself, to whom does the soldier appeal?",
+      "publishedAt": "2026-04-09T09:04:21.000Z",
+      "articleId": "fb24114481235f24"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/lds-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=lds-fact-of-the-day",
       "title": "LDS fact of the day",
@@ -1412,17 +1423,6 @@
       "summary": "...",
       "publishedAt": "2026-03-16T20:25:24.000Z",
       "articleId": "1ff1ba351dd10785"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "title": "We Have Reached End-Stage Polarization",
-      "url": "https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The omnipresence of Trump should open our eyes.",
-      "publishedAt": "2026-03-16T16:20:50.000Z",
-      "articleId": "e6e939d57136f522"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/it-still-doesnt-look-like-theres",
