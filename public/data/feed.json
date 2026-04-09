@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-09T18:36:41.111Z",
-  "fetchedAt": "2026-04-09T18:36:41.108Z",
+  "generatedAt": "2026-04-09T19:48:47.579Z",
+  "fetchedAt": "2026-04-09T19:48:47.577Z",
   "sourceCount": 20,
   "itemCount": 220,
-  "totalItemCount": 275,
+  "totalItemCount": 270,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/new-emergent-ventures-tranche-on-science-policy-and-communication.html?utm_source=rss&utm_medium=rss&utm_campaign=new-emergent-ventures-tranche-on-science-policy-and-communication",
+      "title": "New Emergent Ventures tranche on science policy and communication",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/new-emergent-ventures-tranche-on-science-policy-and-communication.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "American science policy is now more important than at perhaps any previous point in history—how science is organized and funded (or not funded) in this country continues to rise in significance. I have also spoken about the undersupply of people who understand this and are trying to act on it in Washington. Unfortunately the career [&#8230;] The post New Emergent Ventures tranche on science policy and communication appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-09T18:46:54.000Z",
+      "articleId": "6a1387ca289db715"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/wsq1o6ulcz5wkcjcm524.html",
       "title": "Money Stuff: Buy Bitcoin at Night",
@@ -12,7 +23,7 @@
       "source": "Money Stuff (Bloomberg)",
       "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "access": "paywalled",
-      "summary": "Money Stuff a{text-decoration:none} body{width:100%;-webkit-font-smoothing:antialiased;font-family:Helvetica,Arial,sans-serif;font-size:16px;line-height:150%;margin:0;padding:0}img{max-width:550px}.body-component a:visited{color:#000;text-decoration:none!important;border-bottom:1px solid #000;background-color:#ccc}.body-component h1 a:visited{text-decoration:none;color:#000}@media only screen and (max-width:480px){.lihide{display:none!important}.lishow{display:block!important;width:auto!important;overflow:visible!important;float:none!important;max-height:inherit!important;line-height:inherit!important}.email-ssl-image{width:100%!important;height:auto!important}.body-image img{width:100%!important}.logo-image{width:100%!important}} Anomaly, Insta, venting, index, asymmetry, Satoshi. View in browser --> Bitcoin After Dark A famous financial anomaly is that the stock market mostly goes up when it’s closed: “Over at least the past three decades, investors have earned 100% or more of the return on a wide range of risky assets when the markets are closed, and, as sure as day follows night, have earned zero or negative returns for bearing the risk of owning those assets during the daytime, when markets are open,” as Victor Haghani, Vladimir Ragulin and Richard Dewey have put it. That is, stocks tend broadly to open higher than they closed the previous day, and then to go down a bit during the trading day. Nobody quite knows why. Bruce Knuteson has a famous theory, laid out in papers with titles like “Strikingly Suspicious Overnight and Intraday Returns,” “They Chose to Not Tell You,” “Nothing to See Here” and “They Still Haven’t Told You,” that quantitative trading firms conspire to inflate prices every morning and deflate them every evening. My own crude intuitive assumption is that, because US public companies try not to release information during market hours, most of the fundamental information that causes stocks to rise over the long run is in fact released and assimilated at night. But that is not very rigorous, and nobody else seems to believe it. The other famous fact about this anomaly is that, even if you know about it, you can’t make any money trading on it: The transaction costs of buying all the stocks every morning and selling them every afternoon would eat up all the profits. In 2022, two exchange-traded funds (“NightShares 500” and “NightShares 2000”) were launched to profit from the anomaly, but they lost money and closed after a year. Everyone talks about the overnight anomaly, but nobody does anything about it. But if your explanation for the anomaly has a form like “actually most global economic growth occurs when the US is sleeping,” then perhaps this is a temporary setback. Perhaps you can find some instrument that (1) reflects economic growth, (2) mostly goes up overnight and (3) has better liquidity and lower transaction costs than, you know, S&P 500 index futures. Anything’s possible. Bloomberg’s Isabelle Lee reports: The Nicholas Bitcoin and Treasuries AfterDark ETF, filed with the US Securities and Exchange Commission in December under the ticker NGHT, made its debut on Wednesday. The product is designed around a striking disconnect in Bitcoin’s return profile. Since BlackRock Inc.’s iShares Bitcoin Trust ETF (ticker IBIT) launched in January 2024, overnight price gaps — measured from the market close to the following day’s open — have generated a roughly 200% gain, according to Bespoke Investment Group, a figure that outpaces a buy-and-hold strategy that rose more than 40%. In contrast, the tactic that involves buying at the open and selling at the close a loss of more than 50%. The fund, managed by boutique wealth manager Nicholas Wealth, will take long Bitcoin exposure via swaps at 4 p.m. Eastern time and exit by 9:30 a.m. the following morning. During US trading hours, capital rotates into short-term Treasuries. It does not hold Bitcoin directly. I suppose the Bitcoin overnight anomaly doesn’t have to have the same explanation as the one for stocks: In Bitcoin’s case, analysts have pointed to several explanations for the effect: global crypto-native capital trading during Asian and European hours; thinner overnight liquidity amplifying moves; and US-session selling pressure tied to ETF hedging, rebalancing and derivatives positioning. According to calculations by Bloomberg Intelligence’s Athanasios Psarofagis, the average daily opening gap for IBIT clocks in at around 2%. It would be funny if all risk assets go up overnight, but for unrelated reasons. “Yet you participate in society” The way US … regulation? law? society? life? … works is that if something bad happens, plaintiffs’ lawyers find people who are harmed by the bad thing and recruit them to bring a class-action lawsuit against the company or person that did the bad thing. If the lawsuit succeeds, (1) the people who were harmed get something (maybe money, or maybe just, like, less harm going forward) and (2) the lawyers who recruited them get a lot of money. That is, the salient features of this system are: Regulation is done not by government regulators writing forward-looking rules, but by entrepreneurial plaintiffs’ lawyers suing companies for damages and thus setting precedents for what is not allowed; and The lawsuits are not brought by the victims, and the lawyers do not work for the victims in the traditional sense. The lawsuits are dreamed up by the lawyers, and the victims are more or less hired by the lawyers. This is exaggerated and not the only way that either regulation or lawsuits happen, but it’s an important and underrated part of how US law works. We often talk about it in the context of securities fraud lawsuits, because “everything is securities fraud” and bringing a securities-fraud lawsuit is a good way for a plaintiffs’ lawyer to punish bad actions and also make a lot of money. But there are other sorts of class-action lawsuits with a similar essential structure. So an important piece of US regulation/law/society is the market that matches entrepreneurial plaintiffs’ lawyers (who have a lawsuit idea) with victims of harm (who have standing to bring the lawsuit that the lawyers want to bring). I am not an expert on how this market works. I see a lot of law-firm press releases on Bloomberg (“Firm XYZ is investigating possible securities fraud by Company ABC, call us”) and I assume they work fine; being a securities-fraud plaintiff is actually an institutional business so presumably the repeat-player lawyers have repeat-player clients on speed dial. But if you are a lawyer suing social media companies for umpteen bajillion dollars for intentionally getting kids addicted to social media, where should you find clients? Well, you want clients who have been harmed by social media addiction. I suppose you could go look for clients at, like, silent meditation retreats and phone-addiction-rehab clinics. But pretty obviously the best place to find them is … Instagram? The Wall Street Journal reports: Law firms looking for potential clients to sue on Instagram can no longer find them using Instagram. In the wake of recent trial losses, Meta Platforms on Thursday began removing hundreds of advertisements from Facebook and Instagram that trial lawyers and marketing companies have been placing to recruit new clients. The ads seek to reach eligible plaintiffs to join mounting lawsuits against the social-media platform. “We’re actively defending ourselves against these lawsuits and are removing ads that attempt to recruit plaintiffs for them,” the company said. “We will not allow trial lawyers to profit from our platforms while simultaneously claiming they are harmful.” I mean, on the one hand, sure, fair play, I respect it. On the other hand that last sentence superficially sounds like a good argument — “you are profiting from our platform while saying it is harmful” — but obviously isn’t one. Of course the place to find the people who are most harmed by Instagram is on Instagram! Where else would they be? They’re addicted! Insider venting Okay here’s an insider trading hypothetical. You’re a senior executive at a US public company that is publicly negotiating to acquire another US public company. You don’t like the chief executive officer of the other company, and you are not shy about telling people that. You are talking to a guy, and you tell the guy that: The CEO of the target company is “incompetent and also … a ‘suck-up,’” and you plan to fire him when the deal closes; Your company is probably going to raise its bid for the other company to get the deal done; but You think you are overpaying, and “if we could just wait another year, we could get it a whole lot cheaper.” All of this information — your plans for executive succession, your plans to raise your bid, your view that the deal is misguided — is not public yet. Let us assume that it is also all material: If everyone did know this, stock prices would move. [1] Here’s the question: Are you allowed to do this? Is this all legal? Nothing here is legal advice, but I think the answer is “it depends.” If the guy you are venting to is your therapist, or your priest, or your company’s banker or lawyer, or probably your spouse, or maybe even your golf buddy, then you are allowed to tell him. [2] Those people all owe some duty of trust and confidence to you, and you can reasonably expect them to keep your venting secret. If the guy you are venting to is a hedge fund manager who owns your company’s stock, and if the conversation began with him saying “hey I am trying to decide what stock trades to make, what can you tell me about the state of your acquisition negotiations,” then that seems bad. In particular, a US rule — Regulation FD — prohibits a company from “disclos[ing] any material nonpublic information” to “a holder of the issuer’s securities, under circumstances in which it is reasonably foreseeable that the person will purchase or sell the issuer's securities on the basis of the information.” If you tell this hedge fund manager material nonpublic information, that seems like a Regulation FD violation. (If he trades stock, is it also insider trading? That is a more complicated question; basically if you got some “personal benefit” from his trading then it looks like insider trading. If you are telling him all this because he promises you a cut of his trading profits, that’s insider trading. If you’re telling him all this because you think it is in the best interests of your company and you get no personal benefit out of it, it probably isn’t. But it’s still a Regulation FD violation, so still don’t do it.) If the guy you are venting to is just some guy on the street, though … what? You don’t know if he’s a shareholder, you have no reason to think he will trade, and if he does you don’t expect any personal benefit. You’re not telling him for any reason relating to stock ownership, or stock trading, or the stock or the company at all. You are telling him because you like to vent. My impression is that this would not be insider trading, or a Regulation FD violation. It’s not, like, great. It might violate your company’s policies, which probably say “don’t go around telling everyone secret information about our business.” But it doesn’t seem like a securities-law violation. Not legal advice! My point here is mostly that US securities law about disclosure of nonpublic information is weird and unintuitive. People intuitively think “executives at public companies are not allowed to tell anyone material nonpublic information without disclosing it publicly,” but that’s not really right. Anyway: Jeff Shell is stepping down as president of Paramount Skydance Corp. following a contentious lawsuit by a high-stakes gambler who accused him of leaking inside information. ... Shell became the subject of a scandal in recent weeks after R.J. Cipriani sued him for $150 million over allegations that the executive failed to deliver on a promise to develop a TV show honoring his late mother in exchange for public-relations services. The suit, filed in Los Angeles Superior Court, also claims that Shell provided him with material nonpublic information about Paramount’s business, including that it was overpaying for Warner Bros. and its negotiations for a $7.7 billion TV contract the company signed with Ultimate Fighting Championship in August. Paramount said the board conducted “a complete and thorough review” of the allegations that Shell violated securities disclosure rules and said the facts demonstrated that they “do not establish a securities law violation.” Here is Cipriani’s complaint, which is mostly about Shell allegedly promising to make a TV show for him and not doing it, but also a little bit about disclosure: During [a meeting with Cipriani], Shell also disclosed to Plaintiff his disdain for David Zaslav, the Chief Executive Officer of Warner Bros. Discovery, Inc., and stated that Paramount’s senior leadership would not be retaining Zaslav in any post-merger capacity because they considered him to be incompetent and also to be a “suck-up,” overly enamored of Hollywood celebrities. ... Shell further disclosed at this meeting that Paramount intended to enhance and “sweeten” its pending hostile tender offer for Warner Bros. Discovery to $30 per share in cash, with additional financial commitments. This information was not publicly announced until February 10, 2026, eight days after Shell disclosed it to Plaintiff. ... Perhaps most remarkably, Shell then stated words to the effect: “We’re paying way too much for Warner Bros. If we could just wait another year, we could get it a whole lot cheaper.” … This admission by Shell constitutes a disclosure of material non-public information — specifically, the internal valuation assessment of Paramount’s own President and Director — to a non-insider with no duty of confidentiality, in violation of SEC Regulation FD. Yeah I’m with Paramount here, those claims are all a little embarrassing but “do not establish a securities law violation.” Concentration One popular worry about indexing is that index funds tend to buy high. The most popular indexes, like the S&P 500, tend to consist of the biggest companies. Stocks get into the index by going up a lot. Once they are in the index, the index funds have to buy them. If a company’s stock goes up a lot for bad reasons — misplaced optimism, bubbles, fraud — then the index funds will buy near the peak. The index can be “the final dumping place” for pump-and-dumps, I wrote a few weeks ago. Another popular worry about indexing is that the indexes are pretty concentrated. The big indexes contain the biggest companies, and these days the very biggest companies are proportionally bigger than they used to be. The S&P 500 has 500 companies, but just 10 of them represent about 40% of its value. If you buy the S&P 500 to get a diversified set of investments, you might not be getting the diversification you want. In fact, US mutual funds are more or less required to have a certain amount of diversification; they cannot be too concentrated. (Specifically, for tax reasons, they prefer to put at least 50% of money in holdings that are each smaller than 5% of their portfolios.) With some indexes, this could actually be a problem: The Nasdaq 100, for instance, consists of 100 tech stocks, and several of the biggest of those companies represent more than 5% of the market cap of the index. To avoid the problem, the Nasdaq 100 (and some other big indexes, like S&P 500 sector indexes, though not the main S&P 500 itself) has its own concentration cap: “The aggregate weight of the companies whose weights exceed 4.5% may not exceed 48%,” and if it would, then some companies’ weights are capped at 4.4%. We have talked about this rule in the past, when Nasdaq announced a special rebalancing that seemed to have the effect of forcing index funds to sell a bunch of Tesla Inc. stock. So the two index worries have sort of opposite effects: When a company’s stock goes up and it becomes big enough, it will be added to the index, which will force funds to buy it for non-economic reasons, so it will go up more. When a company’s stock goes up even more, and it becomes really really big, its weight in the index will be capped, which will force funds to sell it for non-economic reasons, so it will go down. The first worry is that index funds are forced to buy high, so if there’s some mean reversion, they will lose money. The second worry is that index funds are forced to sell high, so if there is persistent momentum, they will miss out: If an index becomes too concentrated because a handful of stocks are in fact really really good, the index funds will have to pare their positions in those stocks and miss out on some of their future really good gains. The same effects apply to a lot of actively managed mutual funds. When a stock is added to the index, it becomes part of active funds’ benchmark, and they feel some pressure to buy it. (We talked last week about active funds feeling pressure to buy SpaceX for that reason.) When a stock becomes too big, active funds that hold it might be too concentrated, so they will feel some pressure to sell it. Here (via Alpha in Academia) is an NBER working paper on “The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits,” by Lubos Pastor, Taisiya Sikorskaya and Jinrui Wang: As stock market concentration has risen, regulatory limits on fund portfolio concentration have become increasingly binding, especially for large-cap growth funds. When funds approach these limits, they trim their largest holdings and reduce equity exposure. Funds perform worse when constrained. A constraint-based ownership measure predicts stock returns, particularly among the largest firms. These findings suggest that high market concentration can distort stock prices by limiting the ability of optimistic investors to scale their positions. Just like short-sale constraints can produce overpricing by limiting pessimistic investors' views, constraints on long positions can generate underpricing by suppressing optimists' views. I suppose the takeaway is that Nvidia Corp.’s stock price would be even higher but for the fact that diversified mutual funds can’t really put all their money on Nvidia. And they’re missing out; from the paper: In regressions with fund fixed effects, large-cap growth funds perform worse when constrained. Over the full 2019-2024 sample, these funds earn significantly lower risk-adjusted returns in the five months following the constrained quarter. In the first three months alone, the average large-cap growth fund’s four-factor-adjusted return is 28 basis points (bps) lower. Arguably if SpaceX, OpenAI and Anthropic go public this year, the stock market will get even more concentrated. You could have a thesis like “all future economic value will accrue to like 10 giant companies that control artificial intelligence, so I will just buy those stocks.” But diversified mutual funds can’t have that thesis. Contrarianism Sure? Bill Ackman is in talks to launch a strategy that would make big bets on complacency in financial markets, in a bid to mimic the success of doomsday trades the billionaire investor made during the pandemic. Ackman’s Pershing Square would use the fund to make “asymmetric” trades aimed at profiting by wagering against the prevailing narrative in markets, according to people familiar with the matter. The strategy would resemble bets during the coronavirus crisis, when Ackman paid $27mn for derivatives that appreciated when corporate debt sold off. The trade handed Pershing a $2.6bn windfall after economic ructions caused by the pandemic sent bond markets reeling. ... Ackman’s plans for a possible new fund come as this year’s market volatility has wrongfooted Pershing. The firm’s flagship fund had lost more than 16 per cent of its value as of the end of March, according to filings. Pershing’s new fund would keep much of its assets in short-term US debt before deploying the capital on large credit and macro bets mirroring those historically made by the main fund, said one of the people. I love it? A couple of points here. First, sure, if you have a track record of making 10,000% returns on big bets in crises, or even of making a 10,000% return on a big bet in a crisis, you can probably fundraise on that track record. “I will park your money in Treasury bills until I find another 100-bagger, and then do that”? What is the cadence of the 100-baggers? Every … five years? Actually a fund with a return profile like “+4% a year most years, but occasionally +10,000%” would be a great pitch. Of course the problem with that is that any normal person would have a powerful bias toward action. If you’ve got a billion dollars of client money parked in Treasury bills until you find a great asymmetric opportunity, wouldn’t you find a great asymmetric opportunity every couple of weeks? Wouldn’t many of them not, in fact, be great asymmetric opportunities? Wouldn’t you just fritter it away on some mediocre trades? But here Ackman actually does have real advantages over any other hedge fund manager, in that: His main strategy is kind of “we buy a dozen stocks and hold them,” suggesting that, unlike most hedge fund managers, he has overcome his bias toward action and achieved a certain Zen stillness. (Just in his investing, I mean; not the tweeting.) This would apparently be a permanent capital vehicle, like most of his funds. Most hedge fund managers have a bias toward action in part because, if they are not actively making money for clients, the clients will take their money back. Permanent capital solves this problem. If the investors can’t take their money back, you really can park it in Treasury bills until you find a trade you really really like. Obviously the counterargument is that “this year’s market volatility has wrongfooted Pershing” and the main fund has lost money. [3] If you’re pitching people on your ability to spot asymmetric trades that will make you big money in market downturns, you have to, you know, put the asymmetric trades on before you lose money in a market downturn. You can’t get complacent! Satoshi? We talked yesterday about a claim by John Carreyrou in the New York Times that Satoshi Nakamoto, the pseudonymous inventor of Bitcoin, is a guy named Adam Back. Back denies it, and there is plenty of skepticism. For instance, Bryce Elder at FT Alphaville has an entertaining critique. Here is one of his objections: The regular ritual of outing potential Satoshis has a logical hurdle: what does it say about the hoard of approximately 1mn bitcoin whose ownership is attributed to Nakamoto, which is valued at nearly $70bn at current prices and hasn’t moved since 2010? Consistent with all previous speculative stories, the NYT report says nothing useful. To believe Back is Satoshi, a person must believe that in the past year, Satoshi has fronted Cantor Fitzgerald’s launch of a politically advantaged crypto treasury vehicle and has financed at least two more, the Paris-listed The Blockchain Group and H100 Group of Sweden. They must believe that Satoshi’s company raised money from numerous investors including Bitfinex, Tether’s sister company, to build a platform for stealth bitcoin trading between institutions. We talked about Back’s crypto treasury company yesterday; I agree that it’s a little philosophically inconsistent and infra dig for Satoshi, but my impression is that everyone who founds a digital asset treasury company (1) has plenty of money and (2) is slumming it a little, so whatever. But as Elder says, this problem is not unique to Carreyrou’s proposal. Satoshi, everyone assumes, controls a stash of Bitcoin worth $70 billion that he has not touched in 16 years. So any candidate to be Satoshi is either: Dead, Living an implausibly modest lifestyle for someone with $70 billion of ready cash, Hustling for money in a way unbecoming of someone with $70 billion of ready cash, or Elon Musk. [4] If you think Satoshi is any living non-Musk candidate, you need an explanation for why he’s not living like a leisurely billionaire. I want to propose an explanation that could apply equally to any anarcho-libertarian cryptography expert who could plausibly be Satoshi. Perhaps Satoshi, whoever he is, (1) invented Bitcoin and then (2) lost his password so he no longer has access to his Bitcoin. (And has to make a living by, like, launching DATs or whatever.) I do think that accidentally losing access to billions of dollars’ worth of Bitcoin is the very most Bitcoin thing a person could possibly do, and in particular the most 2010-era-Bitcoin thing a person could possibly do, so it stands to reason that Satoshi, the patron saint of Bitcoin, would have done it. What if James Howells is Satoshi? Things happen Wall Street Poised for Record $18 Billion Equities Trading Haul. Wall Street Watchdogs Pull Back Amid Trump’s Deregulatory Push. Wells Fargo whistleblower award slashed by Wall Street watchdog. Paramount M&A Loan Cut to $49 Billion as Lending Group Swells. Investors sought to pull $20bn from private credit funds in first quarter. CoreWeave, Meta Strike Another $21 Billion Deal for AI Computing. Pimco Seeks to Sell Parts of $14 Billion Oracle Data Center Debt. OpenAI halts Stargate UK data centre project. BDO axes 31 partner roles as AI pressure grows and profits fall. Thomas Peterffy Says There Should Be No Bans on Insider Trading. A Prospectus for the ‘Tehran Toll Booth’ IPO. You can pay a few thousand dollars to gossip with a Bravo star. If you'd like to get Money Stuff in handy email form, right in your inbox, please subscribe at this link. Or you can subscribe to Money Stuff and other great Bloomberg newsletters here. Thanks! [1] I’m not sure that this assumption is entirely reasonable, but at least Point 2 — your plans to raise your bid — might affect the target’s stock price. [2] This all does depend a bit on your intentions. We have talked about golf-buddy cases that go both ways: In some cases, an executive tells a golf buddy inside information expecting the golf buddy to keep it confidential, and the golf buddy goes and trades on it; this is illegal insider trading by the golf buddy (violating a duty of trust and confidence) but not by the executive (who told the buddy the information in confidence). In other cases, the executive intentionally tipped the golf buddy expecting him to trade, which is illegal insider trading by both of them. The same bifurcation is also possible with spouses. [3] The other counterargument is that if you charge anything like hedge-fund *fees*, you can’t park everything in T-bills for too long. [4] Really. People keep proposing him. Follow Us Get the newsletter Like getting this newsletter? Subscribe to Bloomberg.com for unlimited access to trusted, data-driven journalism and subscriber-only insights. Before it’s here, it’s on the Bloomberg Terminal. Find out more about how the Terminal delivers information and analysis that financial professionals can’t find anywhere else. Learn more. Want to sponsor this newsletter? Get in touch here. You received this message because you are subscribed to Bloomberg's Money Stuff newsletter. Unsubscribe | Bloomberg.com | Contact Us | Bloomberg L.P. 731 Lexington, New York, NY, 10022 Kill the Newsletter! feed settings",
+      "summary": "Money Stuff Anomaly, Insta, venting, index, asymmetry, Satoshi. View in browser Bitcoin After Dark A famous financial anomaly is that the stock market mostly goes up when it’s closed : “Over at least the past three decades, investors have earned 100% or more of the return on a wide range of risky assets when the markets are closed, and, as sure as day follows night, have earned zero or negative returns for bearing the risk of owning those assets during the daytime, when markets are open,” as Victor Haghani, Vladimir Ragulin and Richard Dewey have put it . That is, stocks tend broadly to open higher than they closed the previous day, and then to go down a bit during the trading day. Nobody quite knows why. Bruce Knuteson has a famous theory, laid out in papers with titles like “ Strikingly Suspicious Overnight and Intraday Returns ,” “ They Chose to Not Tell You ,” “ Nothing to See Here ” and “ They Still Haven’t Told You ,” that quantitative trading firms conspire to inflate prices every morning and deflate them every evening. My own crude intuitive assumption is that, because US public companies try not to release information during market hours , most of the fundamental information that causes stocks to rise over the long run is in fact released and assimilated at night. But that is not very rigorous, and nobody else seems to believe it. The other famous fact about this anomaly is that, even if you know about it, you can’t make any money trading on it: The transaction costs of buying all the stocks every morning and selling them every afternoon would eat up all the profits. In 2022, two exchange-traded funds (“NightShares 500” and “NightShares 2000”) were launched to profit from the anomaly, but they lost money and closed after a year . Everyone talks about the overnight anomaly, but nobody does anything about it. But if your explanation for the anomaly has a form like “actually most global economic growth occurs when the US is sleeping,” then perhaps this is a temporary setback. Perhaps you can find some instrument that (1) reflects economic growth, (2) mostly goes up overnight and (3) has better liquidity and lower transaction costs than, you know, S&P 500 index futures. Anything’s possible. Bloomberg’s Isabelle Lee reports : The Nicholas Bitcoin and Treasuries AfterDark ETF, filed with the US Securities and Exchange Commission in December under the ticker NGHT, made its debut on Wednesday. The product is designed around a striking disconnect in Bitcoin’s return profile. Since BlackRock Inc.’s iShares Bitcoin Trust ETF (ticker IBIT) launched in January 2024, overnight price gaps — measured from the market close to the following day’s open — have generated a roughly 200% gain, according to Bespoke Investment Group, a figure that outpaces a...",
       "publishedAt": "2026-04-09T18:22:44.734Z",
       "articleId": "6978b2e80abce898"
     },
@@ -23,7 +34,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. The “estrangement” from philosophy of economics. 2. Investing in scientific instruments. 3. New book coming on Carlsen vs. Niemann. 4. Houston economy growing at more than ten percent (and that is even without moving forward on bike paths). 5. “As Matt Yglesias rightly says, this is a worrying signal of declining state legitimacy: even […] The post Thursday assorted links appeared first on Marginal REVOLUTION.",
+      "summary": "1. The &#8220;estrangement&#8221; from philosophy of economics. 2. Investing in scientific instruments. 3. New book coming on Carlsen vs. Niemann. 4. Houston economy growing at more than ten percent (and that is even without moving forward on bike paths). 5. &#8220;As Matt Yglesias rightly says, this is a worrying signal of declining state legitimacy: even [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-09T16:06:10.000Z",
       "articleId": "e492651cc9a56621"
     },
@@ -34,7 +45,7 @@
       "source": "Brew Shop",
       "sourceUrl": "https://www.arlbrew.com/",
       "access": "open",
-      "summary": "96 The Brew Shop - Weekly Email Update img{-ms-interpolation-mode:bicubic;} table, td{mso-table-lspace:0pt;mso-table-rspace:0pt;} .mceStandardButton, .mceStandardButton td, .mceStandardButton td a{mso-hide:all!important;} p, a, li, td, blockquote{mso-line-height-rule:exactly;} p, a, li, td, body, table, blockquote{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;} .mcnPreviewText{display:none!important;} .bodyCell{margin:0 auto;padding:0;width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{line-height:100%;} .ReadMsgBody, .ExternalClass{width:100%;} a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!important;font-size:inherit!important;font-family:inherit!important;font-weight:inherit!important;line-height:inherit!important;} body{height:100%;margin:0;padding:0;width:100%;background:#ffffff;} p{margin:0;padding:0;} table{border-collapse:collapse;} td, p, a{word-break:break-word;} h1, h2, h3, h4, h5, h6{display:block;margin:0;padding:0;} img, a img{border:0;height:auto;outline:none;text-decoration:none;} a[href^=\"tel\"], a[href^=\"sms\"]{color:inherit;cursor:default;text-decoration:none;} .mceColumn .mceButtonLink, .mceColumn-1 .mceButtonLink, .mceColumn-2 .mceButtonLink, .mceColumn-3 .mceButtonLink, .mceColumn-4 .mceButtonLink{min-width:30px;} div[contenteditable=\"true\"]{outline:0;} .mceImageBorder{display:inline-block;} .mceImageBorder img{border:0!important;} body, #bodyTable{background-color:rgb(244, 244, 244);} .mceText, .mcnTextContent, .mceLabel{font-family:\"Helvetica Neue\", Helvetica, Arial, Verdana, sans-serif;} .mceText, .mcnTextContent, .mceLabel{color:rgb(0, 0, 0);} .mceText h1, .mceText p, .mceText label, .mceText input{margin-bottom:0;} .mceSpacing-24 .mceInput + .mceErrorMessage{margin-top:-12px;} .mceSpacing-12 .mceInput + .mceErrorMessage{margin-top:-6px;} .mceInput{background-color:transparent;border:2px solid rgb(208, 208, 208);width:60%;color:rgb(77, 77, 77);display:block;} .mceInput[type=\"radio\"], .mceInput[type=\"checkbox\"]{float:left;margin-right:12px;display:inline;width:auto!important;} .mceLabel > .mceInput{margin-bottom:0;margin-top:2px;} .mceLabel{display:block;} .mceText p, .mcnTextContent p{color:rgb(0, 0, 0);font-family:\"Helvetica Neue\", Helvetica, Arial, Verdana, sans-serif;font-size:14px;font-weight:normal;line-height:1.5;mso-line-height-alt:150%;text-align:center;letter-spacing:0;direction:ltr;margin:0;} .mceText h1, .mcnTextContent h1{color:rgb(0, 0, 0);font-family:\"Helvetica Neue\", Helvetica, Arial, Verdana, sans-serif;font-size:20px;font-weight:bold;line-height:1.5;mso-line-height-alt:150%;text-align:center;letter-spacing:0;direction:ltr;} .mceText a, .mcnTextContent a{color:rgb(0, 0, 0);font-style:normal;font-weight:normal;text-decoration:underline;direction:ltr;} p.mcePastedContent, h1.mcePastedContent, h2.mcePastedContent, h3.mcePastedContent, h4.mcePastedContent, #d133 p, #d133 h1, #d133 h2, #d133 h3, #d133 h4, #d133 ul, #d445 p, #d445 h1, #d445 h2, #d445 h3, #d445 h4, #d445 ul, #d448 p, #d448 h1, #d448 h2, #d448 h3, #d448 h4, #d448 ul, #d454 p, #d454 h1, #d454 h2, #d454 h3, #d454 h4, #d454 ul, #d469 p, #d469 h1, #d469 h2, #d469 h3, #d469 h4, #d469 ul, #d472 p, #d472 h1, #d472 h2, #d472 h3, #d472 h4, #d472 ul, #d528 p, #d528 h1, #d528 h2, #d528 h3, #d528 h4, #d528 ul, #d531 p, #d531 h1, #d531 h2, #d531 h3, #d531 h4, #d531 ul, #d544 p, #d544 h1, #d544 h2, #d544 h3, #d544 h4, #d544 ul, #d547 p, #d547 h1, #d547 h2, #d547 h3, #d547 h4, #d547 ul, #d592 p, #d592 h1, #d592 h2, #d592 h3, #d592 h4, #d592 ul, #d595 p, #d595 h1, #d595 h2, #d595 h3, #d595 h4, #d595 ul, #d602 p, #d602 h1, #d602 h2, #d602 h3, #d602 h4, #d602 ul, #d605 p, #d605 h1, #d605 h2, #d605 h3, #d605 h4, #d605 ul, #d634 p, #d634 h1, #d634 h2, #d634 h3, #d634 h4, #d634 ul, #d637 p, #d637 h1, #d637 h2, #d637 h3, #d637 h4, #d637 ul{text-align:left;} .mceSection4 .mceText h1, .mceSection4 .mcnTextContent h1{font-size:18px;line-height:1.5;mso-line-height-alt:150%;} #d13 p, #d13 h1, #d13 h2, #d13 h3, #d13 h4, #d13 ul{text-align:center;} @media only screen and (max-width: 480px) { body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none!important;} body{width:100%!important;min-width:100%!important;} body.mobile-native{-webkit-user-select:none;user-select:none;transition:transform 0.2s ease-in;transform-origin:top center;} colgroup{display:none;} .mceLogo img, .mceImage img, .mceSocialFollowIcon img{height:auto!important;} .mceWidthContainer{max-width:660px!important;} .mceColumn, .mceColumn-2{display:block!important;width:100%!important;} .mceColumn-forceSpan{display:table-cell!important;width:auto!important;} .mceColumn-forceSpan .mceButton a{min-width:0!important;} .mceReverseStack{display:table;width:100%;} .mceColumn-1{display:table-footer-group;width:100%!important;} .mceColumn-3{display:table-header-group;width:100%!important;} .mceColumn-4{display:table-caption;width:100%!important;} .mceKeepColumns .mceButtonLink{min-width:0;} .mceBlockContainer, .mceSpacing-24{padding-right:16px!important;padding-left:16px!important;} .mceBlockContainerE2E{padding-right:0;padding-left:0;} .mceImage, .mceLogo{width:100%!important;height:auto!important;} .mceText img{max-width:100%!important;} .mceFooterSection .mceText, .mceFooterSection .mceText p{font-size:16px!important;line-height:140%!important;} .mceText p{margin:0;font-size:14px!important;line-height:1.25!important;mso-line-height-alt:125%;} .mceText h1{font-size:20px!important;line-height:1.5!important;mso-line-height-alt:150%;} .bodyCell{padding-left:16px!important;padding-right:16px!important;} .mceButtonContainer{width:fit-content!important;max-width:fit-content!important;} .mceButtonLink{padding:18px 28px!important;font-size:16px!important;} .mceDividerContainer{width:100%!important;} #b1 .mceTextBlockContainer{padding:48px 24px 12px!important;} #gutterContainerId-1, #gutterContainerId-13, #gutterContainerId-133, #gutterContainerId-177, #gutterContainerId-337, #gutterContainerId-415, #gutterContainerId-445, #gutterContainerId-448, #gutterContainerId-454, #gutterContainerId-469, #gutterContainerId-472, #gutterContainerId-528, #gutterContainerId-531, #gutterContainerId-544, #gutterContainerId-547, #gutterContainerId-580, #gutterContainerId-592, #gutterContainerId-595, #gutterContainerId-598, #gutterContainerId-602, #gutterContainerId-605, #gutterContainerId-634, #gutterContainerId-637, #gutterContainerId-643{padding:0!important;} #b13 .mceTextBlockContainer, #b98, #b126, #b132, #b133 .mceTextBlockContainer, #b444, #b445 .mceTextBlockContainer, #b447, #b448 .mceTextBlockContainer, #b453, #b454 .mceTextBlockContainer, #b468, #b469 .mceTextBlockContainer, #b471, #b472 .mceTextBlockContainer, #b527, #b528 .mceTextBlockContainer, #b530, #b531 .mceTextBlockContainer, #b543, #b544 .mceTextBlockContainer, #b546, #b547 .mceTextBlockContainer, #b591, #b592 .mceTextBlockContainer, #b594, #b595 .mceTextBlockContainer, #b601, #b602 .mceTextBlockContainer, #b604, #b605 .mceTextBlockContainer, #b633, #b634 .mceTextBlockContainer, #b636, #b637 .mceTextBlockContainer{padding:12px 16px!important;} #b98 table, #b126 table, #b129 table, #b644 table{float:none!important;margin:0 auto!important;} #b98 .mceButtonLink, #b126 .mceButtonLink, #b129 .mceButtonLink, #b644 .mceButtonLink{padding-top:16px!important;padding-bottom:16px!important;font-size:16px!important;} #b129{padding:12px 24px 12px 16px!important;} #b132 table, #b336 table, #b416 table, #b444 table, #b447 table, #b453 table, #b468 table, #b471 table, #b527 table, #b530 table, #b543 table, #b546 table, #b579 table, #b591 table, #b594 table, #b601 table, #b604 table, #b633 table, #b636 table, #b642 table{margin-left:auto!important;margin-right:auto!important;float:none!important;} #b177 .mceTextBlockContainer, #b328, #b336, #b337 .mceTextBlockContainer, #b339, #b342, #b415 .mceTextBlockContainer, #b416, #b579, #b580 .mceTextBlockContainer, #b598 .mceTextBlockContainer, #b599, #b641, #b642, #b643 .mceTextBlockContainer, #b644{padding:12px 24px!important;} #b328 .mceDividerBlock, #b339 .mceDividerBlock, #b342 .mceDividerBlock, #b457 .mceDividerBlock, #b508 .mceDividerBlock, #b599 .mceDividerBlock, #b641 .mceDividerBlock{border-top-width:2px!important;} #b457, #b508{padding:20px 24px!important;} } @media only screen and (max-width: 640px) { .mceClusterLayout td{padding:4px!important;} } Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ View this email in your browser The Brew Shop Weekly Update Hey Brew Shop Fam! Here's an update of what's happening this week - from new beer drops, wine reviews, our current tap list, to upcoming tastings, and more. SHOP THIS WEEK’S NEWSLETTER HERE SHOP OUR ENTIRE STOCK OF BEER, WINE & HOMEBREW HERE 6 Roses of Spring! We're excited to bring back The Brew Shop 6 Roses of Spring! Nothing hails the beginning of warm weather quite like Rose and we're here to help you ring it in with 6 fresh Roses. Available in limited quantities by pre-order, make sure you grab yours before they sell out! Our 6 Roses of Spring will be hand-selected by your favorite winos (Beth, Julie & Aidan) and filled with never-before-seen-in-the-shop Rose. What's included is a surprise, but each pack will contain ONE sparkler and FIVE still Roses. 6 Roses of Spring packs will be available for pick-up beginning Thursday, May 7th - just in time for Mother's Day, if that special Mom in your life adores Rose! Wine Club Member? Remember to put in your special code at check out for 10% off! PRE-ORDER 6 ROSES OF SPRING HERE Friday Free Tasting! Join us this Friday from 5-7 PM as we welcome Liz from Williams Corner back to the shop to pour some Spring-forward wines for our free tasting! Scroll down to see our full tasting lineup for April! 🐻 Fresh hops from Mortalis • Gaia Motuere DIPA with Citra, Mosaic & Motuere • OldManBearMa Nelson DIPA with Citra, Simcoe & Nelson • Artemis Pineapple Pale Ale with Citra, Galaxy & Columbus, conditioned on pineapple 🔥 Hot collabs from RAR • Thunderstorms Inside Hazy DIPA - collab with Hop Butcher • Personal Plague Hazy DIPA with Citra, Riwaka, Motueka & NZ Cascade - collab with Brujos • Eternal Prankster Hazy DIPA with Nelson, Galaxy & Eclipse - collab with Brujos • Alright Time Out Sour with passionfruit, orange, guava, marshmallow & lactose 👊 Pumped for fresh Wayfinder • Infinite Hotel Rice Lager (collab with Bierstadt) • Secret Secret Czech Dark Lager • Metalheadz West Coast IPA with Citra, HBC 1019 & HBC 638 • Original Cold IPA • Party Time Pils 🍕 Can’t knock the Dissolvr drop • Cold Caprese Pizza Italian Pilsner • The Hustle is Broken West Coast IPA with Columbus, Mosaic, Cascade, Centennial & Centennial Cryo • Bones & Waves DDH Hazy IPA with Columbus, Hallertau Blanc, Vic Secret, Strata & El Dorado Cryo 🥜 It’s a PB&J off! • Dissolvr PB & Jelly Engine Gluten Free Sour with Peanuts, Concord Grape & Cheesecake - collab with Xul • Xul PB&J Mixtape Peanut Butter & Jelly Gluten Free Sour 🎸 Heavy hitters with 3 Floyds • Cocomungo BA Imperial Stout with toasted coconut & maple syrup • Dreadnaught West Coast DIPA • WigSplitter Oatmeal Stout with espresso 🐆 Two returning favorites from Commonwealth • Mano del Puma Mexican Lager • A Tribe Called Zest Sour IPA with Tangerine, Lemon, Blood Orange & Grapefruit Zest 🌫️ Hazies from Nepenthe • Beebweepa Hazy IPA with Citra, Mosaic & Amarillo • Enigmatic Monolith Hazy DIPA with Citra, Galaxy, Strata & Enigma 🦈 Aslin freshies • Maybe Shark IPA with Citra • Daddy Juice Sour with blueberry, mango & vanilla ✨ That’s the tea, sis! • Yoju Hard Matcha Latte Strawberry • Lost Boy Tee Time Cider with lemons & Earl Grey tea 🍊 A dash of fruit! • Three Notch’d Passionfruit Gose • Shiner Raspberry Lemonade Shandy • Vasen Blood Orange Otter Sour • Hi-Wire Pink Lemonade Sour with raspberry, lemon peel & lemongrass 🫰 Crispy newbies • DC Brau Declaration Helles Lager • Stillwater Artisanal Salsa Verde Mexican Lager with heirloom Oaxacan masa, lime & salt • Evil Twin You can Cut All the Flowers Saison with bee pollen & dried Marigolds 🍃 Get those hops • Sixpoint Pineapple Resin IPA with Bru-1 & Idaho 7 • The Veil Alone4 QDH Hazy IPA with Australian Galaxy 🦸 N/A Heros! • Zero Gravity Conehead Zero IPA • Best Day Wild American Pils Current Hot Crowler/Growler Fills Halfway Crooks Farina Precarious 70’s Street Munchies POG Sour New wines in the door: Shabo Primo Secco Brut White: Shabo wines from Ukraine have taken the shop by storm! Check out Beths’ wine write-up, below, for the details on Shabo's sparkler. Domaine Joseph Cattin Cremant d'Alsace Brut: Now operated by the 12th generation, Cattin is the oldest family-owed and operated estate in Alsace. I have a not-so-secret love for Alsace wines with their plush texture, which becomes even more spectacular in bubble form. Made in the traditional method, Cattin Cremant is golden with apple, flowers, brioche and a creamy mousse-like texture. Vegan & Sustainable. Lauverjat Sancerre Rose: The Lauverjat family has been growing grapes in Sancerre for generations in the tiny village of Sury-en-Vaux. Today the estate is run by husband-wife team Christian and Karine along with their son Kevin. Made sustainably with 100% hand-harvested Pinot Noir, Lauverjat Sancerre Rose is the epitome of elegant. Refreshing and dry with notes of wild strawberry, crunchy red apple, raspberry and thirst-quenching minerality. Hermanos Senorio de P. Pecina Crianza Rioja: A top notch Rioja from Pedro Pecina, who managed the famed La Rioja Alta before starting his own project in 1992. This Crianza is the very best kind of monster - full bodied, deep fruit flavor of red and dark berries, clove, tobacco, and spice sit on top of smooth tannins and wonderfully balanced acidity. Native yeast, unfiltered, unfined. What we’re drinking this week: If you're a member of our Wine Club, you've already had a taste of Shabo Winery from Odesa, Ukraine. We happened upon Shabo Telti-Kuruk still white wine and fell in love with the wine and the magical story of how Shabo wines made their way to the US. Since then, we've had the privilege of tasting through more Shabo wines with importer Sam Lerman (keep reading to hear his incredible story) and we're excited to bring Shabo Primo Secco Brut White to the shelf. For those of you new to Shabo wine, let me fill you in on the extraordinary story. Shabo Winery was founded in 1822, although wine in Ukraine dates back to the Phoenician era. It was originally founded by Swiss natives until the Bolscheviks nationalized the winery in the 1920s. As you can imagine, the winery stagnated under Soviet rule and, in 2002, the independent Ukrainian government put the winery up for auction where it was bought by the Iukuridze family who modernized the facility and brought in winemaking help from Bordeaux. Shabo Wines are imported by Sam Lerman who served in the US Air Force with multiple tours in Afghanistan before pivoting to strategic defense planning at the Pentagon. In 2022, after the full-scale invasion of Ukraine, Sam went to Ukraine for some unpaid “advisory work.” As Sam described it to us - think traveling with a pile of gold and cash paired with a Ukrainian safe house with 3 cell phones and an AK-74. It was in that safe house that Sam fell in love with the people, the mission and the wine of Ukraine. Disappointed at the lack of Ukrainian wine in the US, on future trips Sam crammed his suitcase with wine! At one point, he was stopped at the Poland border for bringing in well past the legal limit of allowable alcohol (whoops, he had 40 bottles in his bag). And that was the birth of his side gig as a wine importer. Shabo Primo Secco Brut White is made with the native grape Telti-Kuruk. Telti-Kuruk was originally planted during the Ottoman Empire and exists only in Ukraine and, even more special, Shabo is the only winery to grow Telti-Kuruk on ungrafted rootstock. When Sam popped open a bottle of Primo Secco, it was love at first sip for us. Made in the Charmat method, Primo Secco is layered and lively with peach, citrus fruit and pith, and a brioche finish. A perfect bottle to distract yourself from the news enjoy on the patio to welcome Spring. If you can believe it, in such a short time Sam is now the largest importer of Ukranian wine in the US. He's also local to the DC Metro! Expect to see more Shabo wines rotating on our shelves in the near future and, if you're a vodka fan, find your way to the nearest ABC store for some Ukrainian vodkas Sam has imported into the US. This week’s writeup is brought to you by Beth. SHOP OUR ENTIRE WINE SELECTION HERE April Tasting Events are spring ready! Thanks for your business! See you soon, Beth, Julie & Aidan and the entire Brew Crew Copyright (C) 2026 The Brew Shop. All rights reserved. You are receiving this email because you opted in via our website. Our mailing address is: The Brew Shop 2004 Wilson Blvd. Arlington, Va 22201 USA Want to change how you receive these emails? You can update your preferences or unsubscribe Kill the Newsletter! feed settings",
+      "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-04-09T16:03:28.424Z",
       "articleId": "e5581ce1080e43b7"
     },
@@ -45,7 +56,7 @@
       "source": "Brew Shop",
       "sourceUrl": "https://www.arlbrew.com/",
       "access": "open",
-      "summary": "96 The Brew Shop body{ font:14px/20px 'Helvetica', Arial, sans-serif; margin:0; padding:75px 0 0 0; text-align:center; -webkit-text-size-adjust:none; } p{ padding:0 0 10px 0; } h1 img{ max-width:100%; height:auto !important; vertical-align:bottom; } h2{ font-size:22px; line-height:28px; margin:0 0 12px 0; } h3{ margin:0 0 12px 0; } .headerBar{ background:none; padding:0; border:none; } .wrapper{ width:600px; margin:0 auto 10px auto; text-align:left; } input.formEmailButton{ border:none !important; } .formEmailButton{ display:inline-block; font-weight:500; font-size:16px; line-height:42px; font-family:'Helvetica', Arial, sans-serif; width:auto; white-space:nowrap; height:42px; margin:12px 5px 12px 0; padding:0 22px; text-decoration:none; text-align:center; cursor:pointer; border:0; border-radius:3px; vertical-align:top; } .formEmailButton span{ display:inline; font-family:'Helvetica', Arial, sans-serif; text-decoration:none; font-weight:500; font-style:normal; font-size:16px; line-height:42px; cursor:pointer; border:none; } .rounded6{ border-radius:6px; } .poweredWrapper{ padding:20px 0; width:560px; margin:0 auto; } .poweredBy{ display:block; } span.or{ display:inline-block; height:32px; line-height:32px; padding:0 5px; margin:5px 5px 0 0; } .clear{ clear:both; } .profile-list{ display:block; margin:15px 20px; padding:0; list-style:none; border-top:1px solid #eeeeee; } .profile-list li{ display:block; margin:0; padding:5px 0; border-bottom:1px solid #eeeeee; } html[dir=rtl] .wrapper,html[dir=rtl] .container,html[dir=rtl] label{ text-align:right !important; } html[dir=rtl] ul.interestgroup_field label{ padding:0; } html[dir=rtl] ul.interestgroup_field input{ margin-left:5px; } html[dir=rtl] .hidden-from-view{ right:-5000px; left:auto; } body,#bodyTable{ background-color:#eeeeee; } h1{ font-size:28px; line-height:110%; margin-bottom:30px; margin-top:0; padding:0; } #templateContainer{ background-color:none; } #templateBody{ background-color:#ffffff; box-shadow:0 6px 12px 0 #0d12161f; } .bodyContent{ line-height:150%; font-family:Helvetica; font-size:14px; color:#333333; padding:20px; } a:link,a:active,a:visited,a{ color:#336699; } .formEmailButton:link,.formEmailButton:active,.formEmailButton:visited,.formEmailButton,.formEmailButton span{ background-color:#5d5d5d !important; color:#ffffff !important; } .formEmailButton:hover{ background-color:#444444 !important; color:#ffffff !important; } label{ line-height:150%; font-family:Helvetica; font-size:16px; color:#5d5d5d; } .field-group input,select,textarea,.dijitInputField{ font-family:Helvetica; font-size:16px !important; color:#5d5d5d !important; } .asterisk{ color:#cc6600; font-size:20px; } label .asterisk{ visibility:hidden; } .indicates-required{ display:none; } .field-help{ color:#777777; } .error,.errorText{ color:#e85c41; font-weight:bold; } @media (max-width: 620px){ body{ width:100%; -webkit-font-smoothing:antialiased; padding:10px 0 0 0 !important; min-width:300px !important; } } @media (max-width: 620px){ .wrapper,.poweredWrapper{ width:auto !important; max-width:600px !important; padding:0 10px; } } @media (max-width: 620px){ #templateContainer,#templateBody,#templateContainer table{ width:100% !important; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box; } } @media (max-width: 620px){ .addressfield span{ width:auto; float:none; padding-right:0; } } @media (max-width: 620px){ .captcha{ width:auto; float:none; } } .gdpr-mergeRow{ margin:10px 0; color:#4a4a4a; font-family:Helvetica; } .gdpr-content{ margin:0 -20px 0 -20px; padding:20px; background:rgba(255, 255, 255, 0.8); } #gdpr-label{ margin-top:0; } #gdpr-description{ margin-top:6px; margin-bottom:0; padding-bottom:11px; } .gdpr-content p{ color:#4a4a4a; font-size:13px; line-height:1.5; } .gdpr-content .checkbox-group label{ font-weight:normal; font-size:13px; } #gdpr-legal{ padding-top:20px; margin:0; } .gdpr-footer{ margin:0 -20px 0 -20px; padding:20px; background:rgba(255, 255, 255, 0.9); overflow:auto; color:#6d6d6d; } .gdpr-footer p{ font-size:10px; line-height:1.5; margin-bottom:0; } .gdpr-footer a{ color:#206578; } .gdpr-footer img{ width:65px; float:left; margin-right:15px; } .confirm-thanks{ text-align:center; display:flex; align-items:center; justify-content:center; flex-wrap:nowrap; flex-direction:column; font-weight:400; } .confirm-thanks .confirm-thanks-header{ font-size:20px; font-weight:400; line-height:28px; color:#241c15; padding:10px; } .confirm-thanks .confirm-thanks-body{ padding:10px; font-size:16px; line-height:24px; color:#241c15; } .confirm-thanks .manage-preferences-link{ color:#9ea0a2; font-size:11px; line-height:16px; padding:20px; } .unsubscribe-text{ font-size:11px; line-height:16px; color:#241c15a6; padding:20px; } .green-check-mark{ width:24px; height:24px; padding:10px; } .intuit-mailchimp-logo{ width:54px; height:16px; padding:10px; } .confirm-thanks .formEmailButtonOval{ background-color:#5d5d5d; color:#ffffff; border-radius:50px; padding:12px 32px; text-decoration:none; } .sms-only-body{ padding:10px !important; margin:0 !important; background:#ffffff; } .sms-only{ padding:20px; height:246px; flex-shrink:0; border-radius:12px; background:#f6f6f4; } .sms-double-opt-in-container{ display:flex; justify-content:space-around; align-items:center; background-color:#f6f6f4; width:100%; padding:42px 0; border-radius:12px; margin:10px; min-width:80%; } .sms-double-opt-in-content{ display:flex; flex-direction:column; align-items:flex-start; justify-content:start; text-align:left; height:100%; margin:0 35%; } .sms-double-opt-in-title{ display:flex; flex-direction:row; align-items:center; } .sms-confirm-text{ font-weight:500; font-size:20px; color:#241c15; margin:0; margin-left:4px; line-height:28px; } .icon{ max-width:24px; max-height:24px; color:#241c15; } .sms-double-opt-in-button{ display:flex; min-width:64px; padding:6px 16px; border-radius:38px; font-size:13px; background-color:#007c89; color:#ffffff; margin-top:25px; margin-bottom:25px; margin-left:28px; border:1px solid transparent !important; } .sms-double-opt-in-button .disabled{ cursor:not-allowed; } .sms-double-opt-in-terms{ display:flex; justify-content:center; text-align:left; font-family:Graphik; font-size:13px; font-style:normal; font-weight:400; line-height:20px; margin-left:28px; width:full; } .sms-double-opt-in-terms .link{ text-decoration:underline; } .sms-double-opt-in-terms .link{ color:#241c15; } .sms-only-body{ padding:10px !important; margin:0 !important; background:#ffffff; } .unsubscribe-sms-only{ padding:20px; flex-shrink:0; border-radius:12px; background:#f6f6f4; } .unsubscribe-sms-only .form{ display:flex; justify-content:flex-start; width:100%; } .unsubscribe-sms-only .container{ display:flex; flex-direction:row; justify-content:center; } .unsubscribe-sms-only .row{ display:flex; flex-direction:row; justify-content:center; margin-top:42px; } .unsubscribe-sms-only .col{ display:flex; flex-direction:column; justify-content:flex-start; margin-left:5px; } .unsubscribe-sms-only .header{ font-family:'Graphik'; font-size:20px; font-weight:500; line-height:28px; text-align:left; margin-bottom:4px; } .unsubscribe-sms-only .subheader{ margin-bottom:16px; display:flex; flex-direction:column; } .unsubscribe-sms-only .subheader .subtitle{ font-family:'Graphik'; font-size:16px; font-weight:400; line-height:24px; text-align:left; } .text-center{ text-align:center; } .line{ border:1px solid #d3d3d3; width:100%; } .unsubscribe-sms-only .button{ width:136px; height:36px; padding:6px 16px; border:1px solid transparent !important; border-radius:38px; background:#007c89; color:#ffffff; text-align:center; font-family:'Graphik'; font-size:13px; font-style:normal; font-weight:500; line-height:20px; cursor:pointer; -ms-transition:background-color 0.2s ease-in-out 0s, opacity 0.2s ease-in-out 0s; transition:background-color 0.2s ease-in-out 0s, opacity 0.2s ease-in-out 0s; } .unsubscribe-sms-only .button:hover{ background-color:#006570; } .unsubscribe-sms-only .disabled{ cursor:not-allowed; } The Brew Shop Please Confirm Subscription Yes, subscribe me to this list. If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above. For questions about this list, please contact: beth@arlbrew.com Kill the Newsletter! feed settings",
+      "summary": "The Brew Shop The Brew Shop Please Confirm Subscription Yes, subscribe me to this list. If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above. For questions about this list, please contact: beth@arlbrew.com",
       "publishedAt": "2026-04-09T14:04:33.032Z",
       "articleId": "4c20594a55a0937b"
     },
@@ -56,7 +67,7 @@
       "source": "Money Stuff (Bloomberg)",
       "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "access": "paywalled",
-      "summary": "@media screen and (min-width:481px){.rec-col{display:table-cell!important}.nl-img{max-width:280px!important;max-height:280px}} Thank you for subscribing to Money Stuff Most recent edition Apr 8, 2026 Robot Retail Investors Automatic dip-buying, a Satoshi candidate, dispersion and counting widgets. Recommended Businessweek Daily Fresh perspectives on business, economics, politics and tech. Plus, the magazine’s best reporting, photography and illustrations. Sign up Preview Morning & Evening Briefing Asia Start every morning with what you need to know followed by context and analysis on news of the day each evening. Plus, Bloomberg Weekend. Sign up Browse more newsletters Don’t miss an email Add noreply@news.bloomberg.com to your contacts or safe sender list: Apple Mail (iPhone/iPad/Mac): Open any email from us, tap/click the sender’s name, then choose “Add to Contacts.” Gmail: Drag this email to your Primary tab, then click “Yes” when asked to do this for future messages. Outlook: Right-click our email, choose “Junk” > “Never Block Sender.” You received this message because you subscribed to Bloomberg’s Money Stuff newsletter. Unsubscribe Bloomberg.com Contact Us Bloomberg L.P. 731 Lexington Avenue New York, NY 10022 Kill the Newsletter! feed settings",
+      "summary": "Thank you for subscribing to Money Stuff Most recent edition Apr 8, 2026 Robot Retail Investors Automatic dip-buying, a Satoshi candidate, dispersion and counting widgets. Recommended Businessweek Daily Fresh perspectives on business, economics, politics and tech. Plus, the magazine’s best reporting, photography and illustrations. Sign up Preview Morning & Evening Briefing Asia Start every morning with what you need to know followed by context and analysis on news of the day each evening. Plus, Bloomberg Weekend. Sign up Browse more newsletters Don’t miss an email Add noreply@news.bloomberg.com to your contacts or safe sender list: Apple Mail (iPhone/iPad/Mac): Open any email from us, tap/click the sender’s name, then choose “Add to Contacts.” Gmail : Drag this email to your Primary tab, then click “Yes” when asked to do this for future messages. Outlook : Right-click our email, choose “Junk” > “Never Block Sender.” You received this message because you subscribed to Bloomberg’s Money Stuff newsletter. Unsubscribe Bloomberg.com Contact Us Bloomberg L.P. 731 Lexington Avenue New York, NY 10022",
       "publishedAt": "2026-04-09T14:02:34.688Z",
       "articleId": "68c7ba3b3a414613"
     },
@@ -67,7 +78,7 @@
       "source": "Money Stuff (Bloomberg)",
       "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "access": "paywalled",
-      "summary": "Your code is: 3386-0856 This code expires in one hour. Your Bloomberg.com Support Team Your Account | Help Center Context changes everything. Kill the Newsletter! feed settings",
+      "summary": "Please use the code below to verify your email address for bloomberg.com. Your code is: 3386-0856 This code expires in one hour. Thank you, Your Bloomberg.com Support Team Your Account | Help Center Context changes everything. This message was sent to you as a Bloomberg product user. Copyright 2026 Bloomberg L.P. All rights reserved.",
       "publishedAt": "2026-04-09T14:01:33.808Z",
       "articleId": "244eb8d7320df471"
     },
@@ -83,48 +94,15 @@
       "articleId": "0ea13fc9b2adc39b"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2025-26-nba-elo-forecast-and-player",
-      "title": "🏀 2025-26 NBA Elo Forecast and Player Ratings 📈",
-      "url": "https://neilpaine.substack.com/p/2025-26-nba-elo-forecast-and-player",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Track how I'm forecasting every team’s chance to make — and win — the NBA Finals, all season long.",
-      "publishedAt": "2026-04-09T11:29:00.000Z",
-      "articleId": "d9a09ac3c87f82f5"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ai-unemployment-and-work.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-unemployment-and-work",
       "title": "AI, Unemployment and Work",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ai-unemployment-and-work.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Imagine I told you that AI was going to create a 40% unemployment rate. Sounds bad, right? Catastrophic even. Now imagine I told you that AI was going to create a 3-day working week. Sounds great, right? Wonderful even. Yet to a first approximation these are the same thing. 60% of people employed and 40% […] The post AI, Unemployment and Work appeared first on Marginal REVOLUTION.",
+      "summary": "Imagine I told you that AI was going to create a 40% unemployment rate. Sounds bad, right? Catastrophic even. Now imagine I told you that AI was going to create a 3-day working week. Sounds great, right? Wonderful even. Yet to a first approximation these are the same thing. 60% of people employed and 40% [&#8230;] The post AI, Unemployment and Work appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-09T11:18:11.000Z",
       "articleId": "03479a2d053d67ad"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2026-mlb-elo-power-ratings-playoff",
-      "title": "⚾ 2026 MLB Elo Power Ratings, Playoff Odds &amp; Wins Above Replacement (WAR) rankings 📈",
-      "url": "https://neilpaine.substack.com/p/2026-mlb-elo-power-ratings-playoff",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The following table is a list of MLB teams with their Elo ratings and their predicted wins throughout the 2026 season.",
-      "publishedAt": "2026-04-09T11:10:26.000Z",
-      "articleId": "1f2c5ff96a1ce464"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2025-26-nhl-team-elo-power-rankings",
-      "title": "🏒 2025-26 NHL Team Elo Power Rankings &amp; Goals Above Replacement Player Ratings 📉",
-      "url": "https://neilpaine.substack.com/p/2025-26-nhl-team-elo-power-rankings",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Power ratings and forecasts for every NHL team and player this season.",
-      "publishedAt": "2026-04-09T10:53:00.000Z",
-      "articleId": "204eb61bc271a46a"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/should-race-matter-in-college-admissions",
@@ -199,7 +177,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "The Church of Jesus Christ of Latter-day Saints has grown 66% this century, fueled in part by a record-breaking number of convert baptisms in 2025. The church had 10,752,986 members at the end of 1999. The church had 17,887,212 at the end of 2025, according to an annual statistical report released Saturday during the church’s 196th Annual General Conference. […] The post LDS fact of the day appeared first on Marginal REVOLUTION.",
+      "summary": "The Church of Jesus Christ of Latter-day Saints has grown 66% this century, fueled in part by a record-breaking number of convert baptisms in 2025. The church had 10,752,986 members at the end of 1999. The church had 17,887,212 at the end of 2025, according to an annual statistical report released Saturday during the church’s 196th Annual General Conference. [&#8230;] The post LDS fact of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-09T06:43:40.000Z",
       "articleId": "bd7ce25687075c4a"
     },
@@ -210,7 +188,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Important work is just flowing these days, and much of it (of course) concerns AI: We study whether AI methods applied to large-scale portfolio holdings data can improve financial regulation. We build a state-of-the-art, graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns […] The post Financial Regulation and AI: A Faustian Bargain? appeared first on Marginal REVOLUTION.",
+      "summary": "Important work is just flowing these days, and much of it (of course) concerns AI: We study whether AI methods applied to large-scale portfolio holdings data can improve financial regulation. We build a state-of-the-art, graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns [&#8230;] The post Financial Regulation and AI: A Faustian Bargain? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-09T04:45:38.000Z",
       "articleId": "e95a44756650384a"
     },
@@ -221,7 +199,7 @@
       "source": "Understanding AI",
       "sourceUrl": "https://www.understandingai.org/",
       "access": "open",
-      "summary": "“The language models we have now are probably the most significant thing to happen in security since we got the Internet.”",
+      "summary": "&#8220;The language models we have now are probably the most significant thing to happen in security since we got the Internet.&#8221;",
       "publishedAt": "2026-04-08T23:25:24.000Z",
       "articleId": "4f9cdc3cc2d8820b"
     },
@@ -248,17 +226,6 @@
       "articleId": "3858b38416ebdfee"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/challengers-and-challenges",
-      "title": "Challengers and challenges",
-      "url": "https://neilpaine.substack.com/p/challengers-and-challenges",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-08T19:10:06.000Z",
-      "articleId": "31e42f3c449df213"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
       "title": "The Idealism of the Space Program Isn’t Enough",
       "url": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
@@ -268,17 +235,6 @@
       "summary": "We’re racing a civilizational clock.",
       "publishedAt": "2026-04-08T18:57:41.000Z",
       "articleId": "a4f3ddfeef8b94ae"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-4285-zagreb-update",
-      "title": "Open Thread 428.5 + Zagreb Update",
-      "url": "https://www.astralcodexten.com/p/open-thread-4285-zagreb-update",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-04-08T18:45:24.000Z",
-      "articleId": "38ed54628ef71933"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/nascar-live-neil-paine-joins-to-preview",
@@ -298,7 +254,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Waymo rollout in NYC is halted. 2. Back “plus” is the better answer (NYT). I am glad this is now settled, Alex T. can attest I have been insisting on this for a while. Note my earlier prediction. 3. Nicholas Decker on Ludwig Straub. 4. Crypto and quantum computing. Likely an important piece, here […] The post Wednesday assorted links appeared first on Marginal REVOLUTION.",
+      "summary": "1. Waymo rollout in NYC is halted. 2. Back &#8220;plus&#8221; is the better answer (NYT). I am glad this is now settled, Alex T. can attest I have been insisting on this for a while. Note my earlier prediction. 3. Nicholas Decker on Ludwig Straub. 4. Crypto and quantum computing. Likely an important piece, here [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-08T16:38:11.000Z",
       "articleId": "f23a39c3d527f462"
     },
@@ -331,7 +287,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is Dean Ball on Mythos. And now more from Dean. Here is John Loeber. While I am seeing some likely overstatement, probably this is a real turning point nonetheless, and we need to think further about what is best to do. No b.s. on data center slowdowns and algorithmic discrimination, rather actual thought on […] The post Mythos assorted links appeared first on Marginal REVOLUTION.",
+      "summary": "Here is Dean Ball on Mythos. And now more from Dean. Here is John Loeber. While I am seeing some likely overstatement, probably this is a real turning point nonetheless, and we need to think further about what is best to do. No b.s. on data center slowdowns and algorithmic discrimination, rather actual thought on [&#8230;] The post Mythos assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-08T13:51:33.000Z",
       "articleId": "546e4f29435a85ae"
     },
@@ -342,7 +298,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Two new papers/initiatives indicate severe risks from AI, interestingly in opposite directions. The first is that the most advanced frontier models are now capable of finding and exploiting software in ways that could be used to crash or control pretty much all the world’s major systems. Anthropic: We formed Project Glasswing because of capabilities we’ve […] The post AI Risks appeared first on Marginal REVOLUTION.",
+      "summary": "Two new papers/initiatives indicate severe risks from AI, interestingly in opposite directions. The first is that the most advanced frontier models are now capable of finding and exploiting software in ways that could be used to crash or control pretty much all the world&#8217;s major systems. Anthropic: We formed Project Glasswing because of capabilities we’ve [&#8230;] The post AI Risks appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-08T11:18:37.000Z",
       "articleId": "ad896dfc7c0063dc"
     },
@@ -386,7 +342,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "We study the effects of large-scale humanitarian aid using novel data from the American Relief Administration’s (ARA) intervention during the 1921-1922 famine in Soviet Russia. We find that the allocation of relief closely tracked underlying food scarcity and was uncorrelated with subnational politics. We show that ARA rations reduced food prices, raised caloric intake, lowered […] The post Herbert Hoover is still underrated appeared first on Marginal REVOLUTION.",
+      "summary": "We study the effects of large-scale humanitarian aid using novel data from the American Relief Administration&#8217;s (ARA) intervention during the 1921-1922 famine in Soviet Russia. We find that the allocation of relief closely tracked underlying food scarcity and was uncorrelated with subnational politics. We show that ARA rations reduced food prices, raised caloric intake, lowered [&#8230;] The post Herbert Hoover is still underrated appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-08T06:52:55.000Z",
       "articleId": "ee247dee0b41b1c0"
     },
@@ -397,7 +353,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is one very good paragraph of many: Cowen is excellent on the question of why the marginalist insight had to wait so long, and why it eventually came in a simultaneous eruption across countries and three intellectual temperaments. The answer involves the slow assembly of preconditions: advances in calculus, the rise of statistical thought, […] The post Stephen Pimentel has an excellent review of *The Marginal Revolution* appeared first on Marginal REVOLUTION.",
+      "summary": "Here is one very good paragraph of many: Cowen is excellent on the question of why the marginalist insight had to wait so long, and why it eventually came in a simultaneous eruption across countries and three intellectual temperaments. The answer involves the slow assembly of preconditions: advances in calculus, the rise of statistical thought, [&#8230;] The post Stephen Pimentel has an excellent review of *The Marginal Revolution* appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-08T04:58:59.000Z",
       "articleId": "b3753393cc7e693d"
     },
@@ -408,7 +364,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Claims about the role of China, and its economics. And there is a lot of remaining uncertainty, but here is one of the saner Iran war takes. The post Two assorted links appeared first on Marginal REVOLUTION.",
+      "summary": "1. Claims about the role of China, and its economics. And there is a lot of remaining uncertainty, but here is one of the saner Iran war takes. The post Two assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-08T02:27:29.000Z",
       "articleId": "b5952097f333eeec"
     },
@@ -441,7 +397,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is the document, excerpt: In January, I released the results of an experiment showing how Claude Code could helpfully extend old papers “automagically.” It was pretty astonishing to me. Claude was able to come up with a plan, scrape the web, write code, run regressions, create tables and figures, and write a whole memo […] The post Andy Hall advice on AI and economic research appeared first on Marginal REVOLUTION.",
+      "summary": "Here is the document, excerpt: In January, I released the results of an experiment showing how Claude Code could helpfully extend old papers “automagically.” It was pretty astonishing to me. Claude was able to come up with a plan, scrape the web, write code, run regressions, create tables and figures, and write a whole memo [&#8230;] The post Andy Hall advice on AI and economic research appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-07T18:16:58.000Z",
       "articleId": "4d46fc330454d286"
     },
@@ -452,7 +408,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Natasha Sarin on slow motion bank runs? (NYT) 2. The Moon. And the colors. 3. How free market is Hungary? 4. “Where no human hand has touched the refereeing process.” 5. Is Clavier-Übung III the most underrated music by Bach? (NYT) 6. Ethnic targeting of bioweapons is not so easy. 7. Did Protestants give […] The post Tuesday assorted links appeared first on Marginal REVOLUTION.",
+      "summary": "1. Natasha Sarin on slow motion bank runs? (NYT) 2. The Moon. And the colors. 3. How free market is Hungary? 4. &#8220;Where no human hand has touched the refereeing process.&#8221; 5. Is Clavier-Übung III the most underrated music by Bach? (NYT) 6. Ethnic targeting of bioweapons is not so easy. 7. Did Protestants give [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-07T18:14:25.000Z",
       "articleId": "744859a930cd4901"
     },
@@ -463,7 +419,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is his home page: Ludwig Straub is a professor of economics at Harvard University. His research areas are macroeconomics and international economics. Among his topics of interest are the recent decline in the natural rate of interest, rising levels of private and public debt, and the transmission of monetary and fiscal policy. Ludwig also […] The post Ludwig Straub wins the Clark medal appeared first on Marginal REVOLUTION.",
+      "summary": "Here is his home page: Ludwig Straub is a professor of economics at Harvard University. His research areas are macroeconomics and international economics. Among his topics of interest are the recent decline in the natural rate of interest, rising levels of private and public debt, and the transmission of monetary and fiscal policy. Ludwig also [&#8230;] The post Ludwig Straub wins the Clark medal appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-07T17:52:34.000Z",
       "articleId": "26dccb1a25161d7c"
     },
@@ -479,37 +435,15 @@
       "articleId": "b2b5cdf7fcf5de28"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/hail-hail-to-michigan",
-      "title": "Hail! Hail! to Michigan",
-      "url": "https://neilpaine.substack.com/p/hail-hail-to-michigan",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Subscribe to Scoreboard by clicking here! Read the archive here.",
-      "publishedAt": "2026-04-07T16:46:03.000Z",
-      "articleId": "d0cbb472e13a3674"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-drama-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-drama-no-spoilers",
       "title": "*The Drama* (no real spoilers)",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-drama-no-spoilers.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "An excellent and highly original movie, I cannot say much without infringing upon the surprise of the basic premise. Exquisitely choreographed in its timing, scene by scene. So anti-Woke that it will make some uncomfortable? The reviews which are very negative are unfair and stem from this fact. I recommend it, but yes some of […] The post *The Drama* (no real spoilers) appeared first on Marginal REVOLUTION.",
+      "summary": "An excellent and highly original movie, I cannot say much without infringing upon the surprise of the basic premise. Exquisitely choreographed in its timing, scene by scene. So anti-Woke that it will make some uncomfortable? The reviews which are very negative are unfair and stem from this fact. I recommend it, but yes some of [&#8230;] The post *The Drama* (no real spoilers) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-07T15:38:15.000Z",
       "articleId": "91d6e94149a26863"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/solve-for-the-equilibrium-18.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-equilibrium-18",
-      "title": "Solve for the equilibrium",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/solve-for-the-equilibrium-18.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Trump: “A whole civilization will die tonight, never to be brought back again. I don’t want that to happen, but it probably will.” Here is the rest of the message. The post Solve for the equilibrium appeared first on Marginal REVOLUTION.",
-      "publishedAt": "2026-04-07T13:09:06.000Z",
-      "articleId": "78b8905add661c66"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/my-most-progressive-views",
@@ -532,17 +466,6 @@
       "summary": "Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google.",
       "publishedAt": "2026-04-07T10:00:00.000Z",
       "articleId": "6766d212c6e369f8"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/2026-ncaa-tournament-forecast",
-      "title": "🏀2026 NCAA Tournament Forecast 📊",
-      "url": "https://neilpaine.substack.com/p/2026-ncaa-tournament-forecast",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Track each Division I men's basketball team's odds to make (and, later, win) the 2025 NCAA basketball tourney.",
-      "publishedAt": "2026-04-07T09:56:00.000Z",
-      "articleId": "8056fd335152bf81"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
@@ -617,7 +540,7 @@
       "source": "Tyler Cowen's Ethnic Dining Guide",
       "sourceUrl": "https://tylercowensethnicdiningguide.com/",
       "access": "open",
-      "summary": "Wow Nepal, web site, 10728 Fairfax Blvd, Fairfax, VA, 703-880-9898. (Metro Trip Planner – opens in new window) [Google | Road Trippersr | FFX Now] The “Wow” here is exactly right, as it is wonderful to have a new great … Continue reading →",
+      "summary": "Wow Nepal, web site, 10728 Fairfax Blvd, Fairfax, VA, 703-880-9898. (Metro Trip Planner &#8211; opens in new window) [Google &#124; Road Trippersr &#124; FFX Now] The “Wow” here is exactly right, as it is wonderful to have a new great &#8230; Continue reading &#8594;",
       "publishedAt": "2026-04-06T14:07:38.000Z",
       "articleId": "f80f4c97304df0ac"
     },
@@ -653,17 +576,6 @@
       "summary": "OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.",
       "publishedAt": "2026-04-06T10:00:00.000Z",
       "articleId": "de3cc85ecee63e9d"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-428",
-      "title": "Open Thread 428",
-      "url": "https://www.astralcodexten.com/p/open-thread-428",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-04-06T09:01:19.000Z",
-      "articleId": "4c67f1cf4d3d19d9"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/difficulty-increases-desire",
@@ -705,7 +617,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "",
+      "summary": "Read more",
       "publishedAt": "2026-04-04T17:01:35.000Z",
       "articleId": "0d16c2842dbc76f8"
     },
@@ -716,7 +628,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Aluminum disruptions, the EV rust belt, the ongoing transformer shortage, SpaceX’s IPO, and more",
+      "summary": "Aluminum disruptions, the EV rust belt, the ongoing transformer shortage, SpaceX&#8217;s IPO, and more",
       "publishedAt": "2026-04-04T12:01:48.000Z",
       "articleId": "9a8b0dc9e6f8aa5e"
     },
@@ -809,17 +721,6 @@
       "articleId": "bdc7819dcbdd2573"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/hidden-open-thread-4275",
-      "title": "Hidden Open Thread 427.5",
-      "url": "https://www.astralcodexten.com/p/hidden-open-thread-4275",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-04-03T05:21:46.000Z",
-      "articleId": "5783d548d502337b"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-6eb",
       "title": "Thursday discussion post",
       "url": "https://www.slowboring.com/p/thursday-discussion-post-6eb",
@@ -837,7 +738,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "Watch the official trailer for The Argument — a new podcast cohosted by Jerusalem Demsas and me.",
+      "summary": "Watch the official trailer for The Argument &#8212; a new podcast cohosted by Jerusalem Demsas and me.",
       "publishedAt": "2026-04-02T15:03:11.000Z",
       "articleId": "5b3ca5a35a92b1e2"
     },
@@ -848,7 +749,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "I spend a lot of time reading about the nature of technological progress, and I’ve found that the literature on technology is somewhat uneven.",
+      "summary": "I spend a lot of time reading about the nature of technological progress, and I&#8217;ve found that the literature on technology is somewhat uneven.",
       "publishedAt": "2026-04-02T12:16:08.000Z",
       "articleId": "0dae7efa72d9e47d"
     },
@@ -1002,7 +903,7 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "It’s incredibly hard to deliver drugs to the right organ, especially to reach the brain. Microbubbles could change that.",
+      "summary": "It&#8217;s incredibly hard to deliver drugs to the right organ, especially to reach the brain. Microbubbles could change that.",
       "publishedAt": "2026-03-31T15:03:22.000Z",
       "articleId": "2e9ef7e984a59027"
     },
@@ -1024,7 +925,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "It’s men, especially less educated ones, who would need to change.",
+      "summary": "It&#8217;s men, especially less educated ones, who would need to change.",
       "publishedAt": "2026-03-31T10:03:00.000Z",
       "articleId": "3f78eeca413e1fc7"
     },
@@ -1082,17 +983,6 @@
       "summary": "Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out: I will return to my usual posting schedule on Tuesday, March 31. All other Stratechery Plus content, including my podcasts, will stay on schedule.",
       "publishedAt": "2026-03-30T10:00:00.000Z",
       "articleId": "78abadb1241668aa"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-427",
-      "title": "Open Thread 427",
-      "url": "https://www.astralcodexten.com/p/open-thread-427",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-30T08:26:09.000Z",
-      "articleId": "db5de3409b817846"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/maybe-you-should-have-bought-an-electric",
@@ -1211,7 +1101,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "As we’ve noted more than a few times before, for most of the 20th century AT&T’s Bell Labs was the premier industrial research lab in the US.",
+      "summary": "As we&#8217;ve noted more than a few times before, for most of the 20th century AT&T&#8217;s Bell Labs was the premier industrial research lab in the US.",
       "publishedAt": "2026-03-27T12:00:44.000Z",
       "articleId": "f42a8ee581a6b020"
     },
@@ -1225,17 +1115,6 @@
       "summary": "...",
       "publishedAt": "2026-03-27T00:26:19.000Z",
       "articleId": "4a191d576041a76c"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/hidden-open-thread-4265",
-      "title": "Hidden Open Thread 426.5",
-      "url": "https://www.astralcodexten.com/p/hidden-open-thread-4265",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-26T23:06:51.000Z",
-      "articleId": "2dbeb72b4eec66a6"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html",
@@ -1370,24 +1249,13 @@
       "articleId": "87fdfb6110bb4ef4"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-426",
-      "title": "Open Thread 426",
-      "url": "https://www.astralcodexten.com/p/open-thread-426",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-23T13:34:59.000Z",
-      "articleId": "8d051a9a6cc5bb49"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/the-adolescents-have-taken-over-policymaking",
       "title": "The Adolescents Have Taken Over Policymaking",
       "url": "https://www.joshbarro.com/p/the-adolescents-have-taken-over-policymaking",
       "source": "Josh Barro",
       "sourceUrl": "https://www.joshbarro.com/",
       "access": "open",
-      "summary": "Democrats increasingly match Republicans' emotionally immature approach to policy — a problem for the party that's supposed to be invested in making government work.",
+      "summary": "Democrats increasingly match Republicans' emotionally immature approach to policy &#8212; a problem for the party that's supposed to be invested in making government work.",
       "publishedAt": "2026-03-22T17:39:35.000Z",
       "articleId": "e40f8ddf679410dd"
     },
@@ -1420,7 +1288,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Damage to the Ras Laffan LNG facility, housing bubble risks, North Korea’s naval production, Bezos’ $100 billion for manufacturing automation, and more.",
+      "summary": "Damage to the Ras Laffan LNG facility, housing bubble risks, North Korea&#8217;s naval production, Bezos&#8217; $100 billion for manufacturing automation, and more.",
       "publishedAt": "2026-03-21T12:03:50.000Z",
       "articleId": "5926cf1842e533a4"
     },
@@ -1475,7 +1343,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Every day there’s some new story about the enormous amounts of investment in building AI data centers.",
+      "summary": "Every day there&#8217;s some new story about the enormous amounts of investment in building AI data centers.",
       "publishedAt": "2026-03-19T12:01:33.000Z",
       "articleId": "1d5dcf5d94ab8513"
     },
@@ -1500,17 +1368,6 @@
       "summary": "...",
       "publishedAt": "2026-03-19T03:31:17.000Z",
       "articleId": "82671f86bb42b24a"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/hidden-open-thread-4255",
-      "title": "Hidden Open Thread 425.5",
-      "url": "https://www.astralcodexten.com/p/hidden-open-thread-4255",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-18T22:41:42.000Z",
-      "articleId": "b03c1d0fe4f6d55f"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/walking-kumamoto",
@@ -1612,17 +1469,6 @@
       "articleId": "b60a079f444b59da"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-425",
-      "title": "Open Thread 425",
-      "url": "https://www.astralcodexten.com/p/open-thread-425",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-16T05:18:25.000Z",
-      "articleId": "f6cf1daada433c49"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-future-isnt-what-it-used-to-be",
       "title": "The future isn't what it used to be",
       "url": "https://www.noahpinion.blog/p/the-future-isnt-what-it-used-to-be",
@@ -1651,7 +1497,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Closure of the Strait of Hormuz, banning build-to-rent homes in the US, Honda’s EV losses, Travis Kalanick’s new company, Corpus Christi’s water crisis, and more.",
+      "summary": "Closure of the Strait of Hormuz, banning build-to-rent homes in the US, Honda&#8217;s EV losses, Travis Kalanick&#8217;s new company, Corpus Christi&#8217;s water crisis, and more.",
       "publishedAt": "2026-03-14T12:02:30.000Z",
       "articleId": "18966aac0229cb6d"
     },
@@ -1662,7 +1508,7 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "Japan faced some of the world’s toughest planning problems. It solved them by letting homeowners replan whole neighborhoods privately by supermajority vote.",
+      "summary": "Japan faced some of the world&#8217;s toughest planning problems. It solved them by letting homeowners replan whole neighborhoods privately by supermajority vote.",
       "publishedAt": "2026-03-13T15:04:34.000Z",
       "articleId": "f0de5b149f39b7ff"
     },
@@ -1728,7 +1574,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "It’s long been believed the constantly rising costs of new home construction, and lackluster improvements in construction productivity more generally, are fundamentally a problem of production methods.",
+      "summary": "It&#8217;s long been believed the constantly rising costs of new home construction, and lackluster improvements in construction productivity more generally, are fundamentally a problem of production methods.",
       "publishedAt": "2026-03-12T12:03:45.000Z",
       "articleId": "d936df79fd25432a"
     },
@@ -1893,7 +1739,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Data centers disconnecting from the grid, solar PV efficiency records, repairs for the Strategic Petroleum Reserve, Ford’s EV missteps, former OpenAI CTO’s new startup.",
+      "summary": "Data centers disconnecting from the grid, solar PV efficiency records, repairs for the Strategic Petroleum Reserve, Ford&#8217;s EV missteps, former OpenAI CTO&#8217;s new startup.",
       "publishedAt": "2026-03-07T13:03:12.000Z",
       "articleId": "cbe73d173e8b4d8b"
     },
@@ -2003,7 +1849,7 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "Communism had reforming optimists too. Their failure can help today’s reformers to avoid the same fate.",
+      "summary": "Communism had reforming optimists too. Their failure can help today&#8217;s reformers to avoid the same fate.",
       "publishedAt": "2026-03-03T14:13:38.000Z",
       "articleId": "cf6b5b6c48c48ab8"
     },
@@ -2091,7 +1937,7 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "Heart disease is the leading cause of death worldwide, but it’s also one of medicine’s biggest success stories.",
+      "summary": "Heart disease is the leading cause of death worldwide, but it&#8217;s also one of medicine&#8217;s biggest success stories.",
       "publishedAt": "2026-02-27T15:18:46.000Z",
       "articleId": "46118fdc71747adf"
     },
@@ -2267,7 +2113,7 @@
       "source": "Understanding AI",
       "sourceUrl": "https://www.understandingai.org/",
       "access": "open",
-      "summary": "At any moment, just 70 people oversee Waymo’s 3,000-vehicle fleet.",
+      "summary": "At any moment, just 70 people oversee Waymo&#8217;s 3,000-vehicle fleet.",
       "publishedAt": "2026-02-18T20:42:12.000Z",
       "articleId": "41e8a3432c1cb65f"
     },
@@ -2366,7 +2212,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "(This is a chapter of a longer report I’m working on that summarizes and expands the last several years of my work on construction productivity.",
+      "summary": "(This is a chapter of a longer report I&#8217;m working on that summarizes and expands the last several years of my work on construction productivity.",
       "publishedAt": "2026-02-12T13:03:20.000Z",
       "articleId": "72d5b78f934bd116"
     },
@@ -2424,6 +2270,160 @@
       "summary": "Thoughts on the machines and food delivery, while stuck in a McDonald's (Again),",
       "publishedAt": "2026-02-03T23:13:22.000Z",
       "articleId": "efb5b59bd548fcbb"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/02/01/opinion/trump-minneapolis-power-muzzle-velocity.html",
+      "title": "Trump Has Overwhelmed Himself",
+      "url": "https://www.nytimes.com/2026/02/01/opinion/trump-minneapolis-power-muzzle-velocity.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "This is a presidency that is, by any measure, failing.",
+      "publishedAt": "2026-02-02T14:47:19.000Z",
+      "articleId": "8db7bef0d2082b5b"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-for-01312026",
+      "title": "Reading List for 01/31/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-for-01312026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Welcome to the Reading List, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology.",
+      "publishedAt": "2026-01-31T13:02:52.000Z",
+      "articleId": "14f183f182c74b5e"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/the-feds-are-probing-waymos-behavior",
+      "title": "The feds are probing Waymo's behavior around school children",
+      "url": "https://www.understandingai.org/p/the-feds-are-probing-waymos-behavior",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "It's not clear if Waymo was at fault for striking a child at 6 mph.",
+      "publishedAt": "2026-01-29T20:48:29.000Z",
+      "articleId": "31439ba635905dc8"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/on-technologies-vs-commodities",
+      "title": "On Technologies vs. Commodities",
+      "url": "https://www.construction-physics.com/p/on-technologies-vs-commodities",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A theory that has gained traction in the renewable energy space is that renewable energy sources like wind and solar are based on manufactured &#8220;technologies&#8221;, while fossil fuel energy sources like oil, coal, and natural gas are based on extracted &#8220;commodities&#8221;.",
+      "publishedAt": "2026-01-29T13:00:33.000Z",
+      "articleId": "3173c90fdbfeef02"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/an-unlikely-ally-for-open-source",
+      "title": "An unlikely ally for open-source protein-folding models: Big Pharma",
+      "url": "https://www.understandingai.org/p/an-unlikely-ally-for-open-source",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Drug companies are funding open-source AI to avoid depending on Google.",
+      "publishedAt": "2026-01-28T15:39:43.000Z",
+      "articleId": "71d39ba604d7aae1"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "title": "Management as AI superpower",
+      "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Thriving in a world of agents",
+      "publishedAt": "2026-01-27T16:55:55.000Z",
+      "articleId": "cc10a0c6660a4532"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/not-walking-chicago",
+      "title": "Not Walking Chicago",
+      "url": "https://walkingtheworld.substack.com/p/not-walking-chicago",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "A week stuck in a McDonald's, thinking about America",
+      "publishedAt": "2026-01-26T22:29:45.000Z",
+      "articleId": "ef7e26d69161ab37"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/01/25/opinion/trump-carney-davos-canada-greenland.html",
+      "title": "Trump Just Proved Mark Carney’s Point",
+      "url": "https://www.nytimes.com/2026/01/25/opinion/trump-carney-davos-canada-greenland.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Canada’s prime minister sees the president all too well.",
+      "publishedAt": "2026-01-25T08:12:47.000Z",
+      "articleId": "2342f9cfab6fe17a"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-012426",
+      "title": "Reading List 01/24/26",
+      "url": "https://www.construction-physics.com/p/reading-list-012426",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Welcome to the reading list, a weekly list of news and links related to buildings, infrastructure, and industrial technology.",
+      "publishedAt": "2026-01-24T13:00:24.000Z",
+      "articleId": "ab01fa3185319a67"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
+      "title": "How shifting risk to users makes Claude Code more powerful",
+      "url": "https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "People are discovering that Claude Code isn&#8217;t just for code.",
+      "publishedAt": "2026-01-20T19:36:47.000Z",
+      "articleId": "f7313c77e717b650"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/engineering-as-humanitys-highest",
+      "title": "Engineering as Humanity's Highest Achievement",
+      "url": "https://walkingtheworld.substack.com/p/engineering-as-humanitys-highest",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Building the best world possible",
+      "publishedAt": "2026-01-16T18:13:11.000Z",
+      "articleId": "e28d98d3ffa01e37"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/ai-is-just-starting-to-change-the",
+      "title": "AI is just starting to change the legal profession",
+      "url": "https://www.understandingai.org/p/ai-is-just-starting-to-change-the",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "I talked to 10 lawyers about how they're using AI.",
+      "publishedAt": "2026-01-15T20:06:17.000Z",
+      "articleId": "b9ea123445154e58"
+    },
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/the-cult-of-jasmine-crockett-shows",
+      "title": "The Cult of Jasmine Crockett Shows Democrats are Still Trapped in the Dumbest Form of Identity Politics",
+      "url": "https://www.joshbarro.com/p/the-cult-of-jasmine-crockett-shows",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Comedians Bowen Yang and Matt Rogers were right to tell people not to waste money on her campaign. But they had to apologize anyway.",
+      "publishedAt": "2026-01-14T18:56:50.000Z",
+      "articleId": "0ac6652319b6d56d"
+    },
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/capitalism-for-developers-communism",
+      "title": "Capitalism for Developers, Communism for Landlords",
+      "url": "https://www.joshbarro.com/p/capitalism-for-developers-communism",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Zohran Mamdani is attempting this synthesis &#8212; one with some basis in our city's housing policy history &#8212; but I doubt it's one he'll be able to implement.",
+      "publishedAt": "2026-01-08T15:05:53.000Z",
+      "articleId": "0e707aee144b66ea"
     }
   ],
   "sources": [
@@ -2438,16 +2438,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 20,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2503,7 +2503,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 10,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
