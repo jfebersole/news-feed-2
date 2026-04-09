@@ -6,6 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const CACHE_TTL_MS = 10 * 60 * 1000;
 const ARTICLE_CACHE_TTL_MS = 30 * 60 * 1000;
+const SOURCE_FETCH_CONCURRENCY = Math.max(1, Number.parseInt(process.env.SOURCE_FETCH_CONCURRENCY || "6", 10) || 6);
 const USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 
@@ -283,7 +284,18 @@ async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", f
 }
 
 async function aggregateSources() {
-  const sourceResults = await Promise.all(SOURCES.map((source) => pullSource(source)));
+  const sourceResults = await mapWithConcurrency(SOURCES, SOURCE_FETCH_CONCURRENCY, async (source) => {
+    try {
+      return await pullSource(source);
+    } catch (error) {
+      return {
+        source,
+        mode: "failed",
+        items: [],
+        error: error instanceof Error ? error.message : "Unknown source error",
+      };
+    }
+  });
   const allItems = sourceResults.flatMap((result) => result.items);
   const deduped = dedupeByUrl(allItems);
 
@@ -318,7 +330,7 @@ async function pullSource(source) {
   }
 
   try {
-    sourceHtml = await fetchText(source.url);
+    sourceHtml = await withRetry(() => fetchText(source.url), { attempts: 2, baseDelayMs: 300 });
     discoverFeedLinks(source.url, sourceHtml).forEach((link) => candidates.add(link));
   } catch {
     sourceHtml = null;
@@ -328,7 +340,7 @@ async function pullSource(source) {
 
   for (const candidate of candidates) {
     try {
-      const parsed = await parser.parseURL(candidate);
+      const parsed = await withRetry(() => parser.parseURL(candidate), { attempts: 3, baseDelayMs: 450 });
       const normalized = (parsed.items || [])
         .map((item) => normalizeFeedItem(item, source))
         .filter(Boolean)
@@ -344,6 +356,22 @@ async function pullSource(source) {
       }
     } catch {
       // Keep trying other candidates.
+    }
+  }
+
+  if (isLikelySubstackSource(source)) {
+    try {
+      const archiveItems = await pullSubstackArchive(source);
+      if (archiveItems.length) {
+        return {
+          source,
+          mode: "substack-archive",
+          feedUrl: buildSubstackArchiveUrl(source),
+          items: archiveItems,
+        };
+      }
+    } catch {
+      // Keep trying scrape fallback.
     }
   }
 
@@ -372,6 +400,75 @@ async function pullSource(source) {
     mode: "failed",
     items: [],
     error: "No parsable RSS feed or article links found.",
+  };
+}
+
+function isLikelySubstackSource(source) {
+  const sourceUrl = (source?.url || "").toLowerCase();
+  const feedUrl = (source?.feedUrl || "").toLowerCase();
+  return sourceUrl.includes("substack.com") || feedUrl.includes("substack.com");
+}
+
+function buildSubstackArchiveUrl(source) {
+  const sourceHost = safeHostname(source?.url || "");
+  if (sourceHost && sourceHost.includes("substack.com")) {
+    return `https://${sourceHost}/api/v1/archive?sort=new`;
+  }
+
+  const feedHost = safeHostname(source?.feedUrl || "");
+  if (feedHost && feedHost.includes("substack.com")) {
+    return `https://${feedHost}/api/v1/archive?sort=new`;
+  }
+
+  return null;
+}
+
+async function pullSubstackArchive(source) {
+  const archiveUrl = buildSubstackArchiveUrl(source);
+  if (!archiveUrl) {
+    return [];
+  }
+
+  const payload = await withRetry(() => fetchJson(archiveUrl, 15_000), { attempts: 3, baseDelayMs: 500 });
+  const entries = Array.isArray(payload)
+    ? payload
+    : Array.isArray(payload?.posts)
+      ? payload.posts
+      : Array.isArray(payload?.items)
+        ? payload.items
+        : [];
+
+  return entries
+    .map((entry) => normalizeSubstackArchiveItem(entry, source))
+    .filter(Boolean)
+    .slice(0, 24);
+}
+
+function normalizeSubstackArchiveItem(entry, source) {
+  const title = cleanText(entry?.title || entry?.headline || "");
+  const url = sanitizeUrl(
+    entry?.canonical_url || entry?.post_url || entry?.url || (entry?.slug ? `/p/${entry.slug}` : ""),
+    source.url
+  );
+
+  if (!title || !url) {
+    return null;
+  }
+
+  const subtitle = cleanText(
+    entry?.subtitle || entry?.description || entry?.preview_text || entry?.search_engine_description || ""
+  );
+  const publishedAt = normalizeDate(entry?.post_date || entry?.published_at || entry?.created_at || entry?.date);
+
+  return {
+    id: createItemId(url, source.name),
+    title,
+    url,
+    source: source.name,
+    sourceUrl: source.url,
+    access: inferAccessLevel(source.name, url),
+    summary: subtitle,
+    publishedAt,
   };
 }
 
@@ -585,7 +682,7 @@ function dedupeByUrl(items) {
   return [...seen.values()];
 }
 
-async function fetchText(url, timeoutMs = 12_000) {
+async function fetchText(url, timeoutMs = 12_000, options = {}) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
 
@@ -597,6 +694,7 @@ async function fetchText(url, timeoutMs = 12_000) {
       headers: {
         "user-agent": USER_AGENT,
         accept:
+          options.accept ||
           "text/html,application/xhtml+xml,application/xml;q=0.9,text/xml;q=0.9,*/*;q=0.8",
       },
     });
@@ -609,6 +707,11 @@ async function fetchText(url, timeoutMs = 12_000) {
   } finally {
     clearTimeout(timeout);
   }
+}
+
+async function fetchJson(url, timeoutMs = 12_000) {
+  const text = await fetchText(url, timeoutMs, { accept: "application/json,text/plain;q=0.9,*/*;q=0.8" });
+  return JSON.parse(text);
 }
 
 function looksLikeArticleUrl(url) {
@@ -646,8 +749,14 @@ function inferDateFromUrl(url) {
 }
 
 function normalizeDate(value) {
-  if (!value) {
+  if (value === null || value === undefined || value === "") {
     return null;
+  }
+
+  if (typeof value === "number" && Number.isFinite(value)) {
+    const ms = value > 10_000_000_000 ? value : value * 1000;
+    const date = new Date(ms);
+    return Number.isNaN(date.getTime()) ? null : date.toISOString();
   }
 
   const parsed = Date.parse(value);
@@ -1522,6 +1631,63 @@ function countWords(text) {
     .trim()
     .split(/\s+/)
     .filter(Boolean).length;
+}
+
+async function withRetry(task, options = {}) {
+  const attempts = Math.max(1, Number(options.attempts || 1));
+  const baseDelayMs = Math.max(0, Number(options.baseDelayMs || 0));
+  const factor = Math.max(1, Number(options.factor || 2));
+  const maxDelayMs = Math.max(baseDelayMs, Number(options.maxDelayMs || 4_000));
+  let lastError = null;
+
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      return await task();
+    } catch (error) {
+      lastError = error;
+      if (attempt >= attempts) {
+        break;
+      }
+
+      const exponential = baseDelayMs * factor ** (attempt - 1);
+      const jitter = Math.floor(Math.random() * 120);
+      const delayMs = Math.min(maxDelayMs, Math.round(exponential + jitter));
+      if (delayMs > 0) {
+        await sleep(delayMs);
+      }
+    }
+  }
+
+  throw lastError;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function mapWithConcurrency(items, limit, mapper) {
+  if (!Array.isArray(items) || !items.length) {
+    return [];
+  }
+
+  const output = new Array(items.length);
+  const workerCount = Math.max(1, Math.min(limit || 1, items.length));
+  let cursor = 0;
+
+  const workers = Array.from({ length: workerCount }, async () => {
+    while (true) {
+      const index = cursor;
+      cursor += 1;
+      if (index >= items.length) {
+        return;
+      }
+
+      output[index] = await mapper(items[index], index);
+    }
+  });
+
+  await Promise.all(workers);
+  return output;
 }
 
 export { SOURCES, aggregateSources, buildArticlePayload, canonicalizeUrl, inferAccessLevel };

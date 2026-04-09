@@ -21,13 +21,15 @@ const { aggregateSources, buildArticlePayload, canonicalizeUrl, inferAccessLevel
 await fs.mkdir(articlesDir, { recursive: true });
 
 const existingIndex = await readJson(indexPath, { version: 1, entries: {} });
+const previousFeed = await readJson(feedPath, null);
 const entries = normalizeEntries(existingIndex.entries);
 
 console.log(
   `Building static feed (limit=${FEED_LIMIT}, refresh_recent=${RECENT_REFRESH_COUNT}, concurrency=${FETCH_CONCURRENCY})`
 );
 
-const feed = await aggregateSources();
+const liveFeed = await aggregateSources();
+const feed = stabilizeFeedWithPreviousSnapshot(liveFeed, previousFeed);
 const nowIso = new Date().toISOString();
 const items = (feed.items || []).slice(0, FEED_LIMIT).map((item) => ({ ...item }));
 
@@ -172,6 +174,96 @@ function normalizeEntries(entries) {
   });
 
   return output;
+}
+
+function stabilizeFeedWithPreviousSnapshot(currentFeed, previousFeed) {
+  if (!currentFeed || !Array.isArray(currentFeed.items) || !Array.isArray(currentFeed.sources)) {
+    return currentFeed;
+  }
+
+  if (!previousFeed || !Array.isArray(previousFeed.items) || !previousFeed.items.length) {
+    return currentFeed;
+  }
+
+  const previousBySource = new Map();
+  previousFeed.items.forEach((item) => {
+    if (!item?.source || !item?.url) {
+      return;
+    }
+
+    const list = previousBySource.get(item.source) || [];
+    list.push({ ...item });
+    previousBySource.set(item.source, list);
+  });
+
+  const mergedSources = currentFeed.sources.map((source) => ({ ...source }));
+  const mergedItems = [...currentFeed.items];
+  const fallbackSummary = [];
+
+  mergedSources.forEach((source) => {
+    const failed = source.mode === "failed" || Number(source.itemCount || 0) === 0;
+    if (!failed) {
+      return;
+    }
+
+    const fallbackItems = (previousBySource.get(source.name) || []).slice(0, 24);
+    if (!fallbackItems.length) {
+      return;
+    }
+
+    mergedItems.push(...fallbackItems);
+    source.mode = "fallback-cache";
+    source.itemCount = fallbackItems.length;
+    source.error = source.error
+      ? `${source.error} Using previous snapshot data.`
+      : "Using previous snapshot data.";
+    fallbackSummary.push(`${source.name} (${fallbackItems.length})`);
+  });
+
+  if (fallbackSummary.length) {
+    console.log(`Reused previous snapshot for failed sources: ${fallbackSummary.join(", ")}`);
+  }
+
+  const dedupedItems = dedupeAndSortFeedItems(mergedItems);
+  return {
+    ...currentFeed,
+    itemCount: dedupedItems.length,
+    items: dedupedItems,
+    sources: mergedSources,
+  };
+}
+
+function dedupeAndSortFeedItems(items) {
+  const seen = new Map();
+  items.forEach((item) => {
+    if (!item?.url) {
+      return;
+    }
+
+    const canonical = canonicalizeUrl(item.url);
+    if (!canonical) {
+      return;
+    }
+
+    const normalized = { ...item, url: canonical };
+    const existing = seen.get(canonical);
+    if (!existing) {
+      seen.set(canonical, normalized);
+      return;
+    }
+
+    const existingDate = existing.publishedAt ? Date.parse(existing.publishedAt) : 0;
+    const candidateDate = normalized.publishedAt ? Date.parse(normalized.publishedAt) : 0;
+    if (candidateDate > existingDate) {
+      seen.set(canonical, normalized);
+    }
+  });
+
+  return [...seen.values()].sort((a, b) => {
+    const aTime = a.publishedAt ? Date.parse(a.publishedAt) : 0;
+    const bTime = b.publishedAt ? Date.parse(b.publishedAt) : 0;
+    return bTime - aTime;
+  });
 }
 
 function createArticleId(value) {

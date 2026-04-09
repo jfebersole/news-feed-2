@@ -36,6 +36,7 @@ jobs:
           STATIC_FEED_LIMIT: "220"
           STATIC_REFRESH_RECENT_COUNT: "40"
           STATIC_CONCURRENCY: "5"
+          SOURCE_FETCH_CONCURRENCY: "4"
         run: npm run build:data
 
       - name: Commit & Push Data Updates

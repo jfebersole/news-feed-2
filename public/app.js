@@ -259,15 +259,27 @@ function summarizeModes() {
         acc.rss += 1;
       } else if (source.mode === "scrape") {
         acc.scrape += 1;
+      } else if (source.mode === "substack-archive") {
+        acc.api += 1;
+      } else if (source.mode === "fallback-cache") {
+        acc.fallback += 1;
       } else {
         acc.failed += 1;
       }
       return acc;
     },
-    { rss: 0, scrape: 0, failed: 0 }
+    { rss: 0, scrape: 0, api: 0, fallback: 0, failed: 0 }
   );
 
-  return `RSS ${modeCount.rss} | Scrape ${modeCount.scrape} | Failed ${modeCount.failed}`;
+  const parts = [`RSS ${modeCount.rss}`, `Scrape ${modeCount.scrape}`];
+  if (modeCount.api) {
+    parts.push(`API ${modeCount.api}`);
+  }
+  if (modeCount.fallback) {
+    parts.push(`Fallback ${modeCount.fallback}`);
+  }
+  parts.push(`Failed ${modeCount.failed}`);
+  return parts.join(" | ");
 }
 
 function toneForSource(sourceName) {
