@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T15:05:02.657Z",
-  "fetchedAt": "2026-04-09T15:05:02.653Z",
+  "generatedAt": "2026-04-09T15:29:24.911Z",
+  "fetchedAt": "2026-04-09T15:29:24.908Z",
   "sourceCount": 20,
   "itemCount": 220,
   "totalItemCount": 282,
@@ -2566,18 +2566,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Josh Barro",
