@@ -1,10 +1,15 @@
 {
-  "mode": "excerpt",
+  "mode": "full",
   "paywalled": true,
   "access": "paywalled",
   "url": "https://stratechery.com/2026/spring-break/",
   "source": "Stratechery",
   "title": "Spring Break",
-  "excerpt": "Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out: I will return to my usual posting schedule on Tuesday, March 31. All other Stratechery Plus content, including my podcasts, will stay on schedule.",
-  "reason": "This source is typically paywalled."
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p>Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out:</p>\n<ul>\n<li>There will be no Update on Thursday, March 19</li>\n\n\n\n<li>There will be no Update on Monday and Tuesday, March 23–24; there will be an Update and Interview on Wednesday and Thursday, March 25–26</li>\n\n\n\n<li>There will be no Update on Monday, March 30</li>\n</ul>\n<p>I will return to my usual <a href=\"https://stratechery.com/stratechery-plus/schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">posting schedule</a> on Tuesday, March 31.</p>\n<p>All other Stratechery Plus content, including my podcasts, will stay on schedule. </p>",
+  "wordCount": 85,
+  "imageCount": 0,
+  "linkCount": 1
 }
