@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-09T10:37:52.194Z",
-  "fetchedAt": "2026-04-09T10:37:52.191Z",
+  "generatedAt": "2026-04-09T11:41:29.020Z",
+  "fetchedAt": "2026-04-09T11:41:29.018Z",
   "sourceCount": 18,
   "itemCount": 220,
-  "totalItemCount": 224,
+  "totalItemCount": 229,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ai-unemployment-and-work.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-unemployment-and-work",
+      "title": "AI, Unemployment and Work",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ai-unemployment-and-work.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Imagine I told you that AI was going to create a 40% unemployment rate. Sounds bad, right? Catastrophic even. Now imagine I told you that AI was going to create a 3-day working week. Sounds great, right? Wonderful even. Yet to a first approximation these are the same thing. 60% of people employed and 40% […] The post AI, Unemployment and Work appeared first on Marginal REVOLUTION.",
+      "publishedAt": "2026-04-09T11:18:11.000Z",
+      "articleId": "03479a2d053d67ad"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/should-race-matter-in-college-admissions",
+      "title": "Should race matter in college admissions?",
+      "url": "https://www.slowboring.com/p/should-race-matter-in-college-admissions",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "On the premiere episode of The Argument, Matthew Yglesias and Jerusalem Demsas argue about the effectiveness of affirmative action.",
+      "publishedAt": "2026-04-09T10:41:24.000Z",
+      "articleId": "7fbdca388ad5f543"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/republican-war-mongering-is-their",
       "title": "Republican war-mongering is their worst economic policy",
@@ -367,17 +389,6 @@
       "summary": "In the 1990s, Americans used to work much more than non-Americans. Nowadays, about half of the gap in hours worked has reversed. To evaluate the convergence of working hours, we develop a tractable model of labor supply enriched with multiple sources of heterogeneity across individuals, an extensive margin of participation, multi-member households, and an elaborate […] The post Why do Americans No Longer Work So Much More Than Non-Americans? appeared first on Marginal REVOLUTION.",
       "publishedAt": "2026-04-07T07:36:36.000Z",
       "articleId": "fa09cc6bcd56016f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/interpreting-polygenic-prediction-of-cognitive-ability.html?utm_source=rss&utm_medium=rss&utm_campaign=interpreting-polygenic-prediction-of-cognitive-ability",
-      "title": "Interpreting Polygenic Prediction of Cognitive Ability",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/interpreting-polygenic-prediction-of-cognitive-ability.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The subtitle is Evidence for Direct, Reliable, and Portable Genetic Effects, and the authors are Tobias Wolfam, et.al. The abstract: The interpretation of polygenic scores (PGS) for general cognitive ability (GCA) remains contested, with concerns about indirect genetic effects, environmental confounding, cross-ancestry portability, and the gap between PGS prediction and twin heritability estimates. Relying on […] The post Interpreting Polygenic Prediction of Cognitive Ability appeared first on Marginal REVOLUTION.",
-      "publishedAt": "2026-04-07T04:50:30.000Z",
-      "articleId": "692f00eb65aba0a2"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
@@ -950,17 +961,6 @@
       "summary": "The president may have been seduced by the idea of an easy victory, warns the former Iraq and Afghanistan war commander on “The Opinions.”",
       "publishedAt": "2026-03-30T12:26:49.000Z",
       "articleId": "1cd44609914cd417"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/make-townhouses-great-again",
-      "title": "Make townhouses great again",
-      "url": "https://www.slowboring.com/p/make-townhouses-great-again",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Everyone loves traditional rowhouse neighborhoods — but new projects usually stink.",
-      "publishedAt": "2026-03-30T10:04:11.000Z",
-      "articleId": "353289e5a68420c1"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/spring-break/",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 5,
-      "feedUrl": null,
-      "error": "HTTP 403 Using previous snapshot data."
+      "mode": "rss",
+      "itemCount": 10,
+      "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
