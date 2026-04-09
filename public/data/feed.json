@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-09T21:29:19.844Z",
-  "fetchedAt": "2026-04-09T21:29:19.841Z",
+  "generatedAt": "2026-04-09T22:10:11.330Z",
+  "fetchedAt": "2026-04-09T22:10:11.327Z",
   "sourceCount": 20,
   "itemCount": 220,
-  "totalItemCount": 269,
+  "totalItemCount": 260,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-1e9",
+      "title": "Thursday discussion post",
+      "url": "https://www.slowboring.com/p/thursday-discussion-post-1e9",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A 10-day stay in Baltimore and they&#8217;ll pay YOU $5,100. What&#8217;s the catch?",
+      "publishedAt": "2026-04-09T22:00:42.000Z",
+      "articleId": "37750659172780ad"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/new-emergent-ventures-tranche-on-science-policy-and-communication.html?utm_source=rss&utm_medium=rss&utm_campaign=new-emergent-ventures-tranche-on-science-policy-and-communication",
       "title": "New Emergent Ventures tranche on science policy and communication",
@@ -939,17 +950,6 @@
       "summary": "At the league meetings on Monday, John Harbaugh and Joe Schoen addressed the potential for additions across the roster.",
       "publishedAt": "2026-03-30T23:49:23.000Z",
       "articleId": "1b124354af83ddc3"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/testing-trumps-influence",
-      "title": "Testing Trump’s influence",
-      "url": "https://www.slowboring.com/p/testing-trumps-influence",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "As Democrats gain momentum across the country, Republicans rely on redistricting, voting laws, and court rulings to reshape the battlefield.",
-      "publishedAt": "2026-03-30T22:01:04.000Z",
-      "articleId": "ff61dca744b25c2b"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
