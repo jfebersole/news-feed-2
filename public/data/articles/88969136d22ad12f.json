@@ -1,10 +1,15 @@
 {
-  "mode": "excerpt",
+  "mode": "full",
   "paywalled": false,
   "access": "open",
   "url": "https://walkingtheworld.substack.com/p/walking-duluth",
   "source": "Walking the World",
   "title": "Walking Duluth",
-  "excerpt": "A wonderful town that reminds you, place still matters.",
-  "reason": "Unable to fetch full text: HTTP 403"
+  "subtitle": "A wonderful town that reminds you, place still matters.",
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p>I don&#39;t know exactly when I became unnaturally interested in Duluth. Perhaps it was as a child in Florida, dreaming of winter wonderlands, when I spotted it on the map—up there in the far north, nestled snugly at the westernmost vertex of Lake Superior. All of the far Northern cities fascinated me. I was living in what I imagined their residents thought … Read more</p>",
+  "wordCount": 65,
+  "imageCount": 0,
+  "linkCount": 0
 }
