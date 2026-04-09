@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-09T23:04:19.882Z",
-  "fetchedAt": "2026-04-09T23:04:19.880Z",
+  "generatedAt": "2026-04-09T23:51:05.673Z",
+  "fetchedAt": "2026-04-09T23:51:05.670Z",
   "sourceCount": 20,
   "itemCount": 220,
-  "totalItemCount": 269,
+  "totalItemCount": 260,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-1e9",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
