@@ -557,6 +557,13 @@ function buildReaderMeta(article, item) {
 function inferItemAccess(item) {
   const source = (item.source || "").toLowerCase();
   const url = (item.url || "").toLowerCase();
+  const isMoneyStuffNewsletter =
+    source.includes("money stuff") &&
+    (url.includes("kill-the-newsletter.com") || url.includes("bloomberg.com"));
+
+  if (isMoneyStuffNewsletter) {
+    return "open";
+  }
 
   if (
     source.includes("nyt") ||

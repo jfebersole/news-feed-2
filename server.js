@@ -250,6 +250,21 @@ async function buildArticlePayload({
   }
 
   if (access === "paywalled") {
+    if (feedFallbackPayload) {
+      const payload = {
+        ...feedFallbackPayload,
+        access: "paywalled",
+        paywalled: true,
+        subtitle: null,
+      };
+
+      if (cacheKey) {
+        articleCache.set(cacheKey, { payload, fetchedAt: now });
+      }
+
+      return { ...payload, cached: false };
+    }
+
     const payload = buildExcerptPayload({
       url,
       sourceName,
@@ -952,6 +967,13 @@ function createItemId(url, sourceName) {
 function inferAccessLevel(sourceName, url) {
   const source = (sourceName || "").toLowerCase();
   const host = (safeHostname(url) || "").toLowerCase();
+  const isMoneyStuffNewsletter =
+    source.includes("money stuff") &&
+    (host.includes("kill-the-newsletter.com") || host.includes("bloomberg.com"));
+
+  if (isMoneyStuffNewsletter) {
+    return "open";
+  }
 
   if (
     source.includes("nyt") ||
@@ -1338,6 +1360,14 @@ function shouldKeepContentBlock($, element, options = {}) {
   }
 
   if (tag === "p" && text.length < 18 && !hasLinks && !hasImages) {
+    return false;
+  }
+
+  if (
+    /view in browser|if you'd like to get .*newsletter|you received this message because|kill the newsletter!\s*feed settings/i.test(
+      text
+    )
+  ) {
     return false;
   }
 
