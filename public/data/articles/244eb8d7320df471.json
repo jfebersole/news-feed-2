@@ -1,10 +1,15 @@
 {
-  "mode": "excerpt",
-  "paywalled": true,
-  "access": "paywalled",
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
   "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o27vabpe7zifoq85zviz.html",
   "source": "Money Stuff (Bloomberg)",
   "title": "Use 3386-0856 to verify your email for Bloomberg.com",
-  "excerpt": "Please use the code below to verify your email address for bloomberg.com. Your code is: 3386-0856 This code expires in one hour. Thank you, Your Bloomberg.com Support Team Your Account | Help Center Context changes everything. This message was sent to you as a Bloomberg product user. Copyright 2026 Bloomberg L.P. All rights reserved.",
-  "reason": "This source is typically paywalled."
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<img src=\"https://assets.bwbx.io/s3/reg2/images/bloomberg-email-header.jpg\" width=\"600\" alt=\"Bloomberg.com\" loading=\"lazy\" decoding=\"async\">\n<p>\n                Please use the code below to verify your email address for bloomberg.com.\n              </p>\n<h2>3386-0856 </h2>\n<p>This code expires in one hour.</p>\n<p>\n            Thank you,\n            <br><br>\n            Your Bloomberg.com Support Team<br>\n            <a href=\"https://www.bloomberg.com/portal\" target=\"_blank\" rel=\"noopener noreferrer\">Your Account</a> | <a href=\"https://www.bloomberg.com/notices/help/\" target=\"_blank\" rel=\"noopener noreferrer\">Help Center</a>\n        </p>\n<hr>\n<p>\n          This message was sent to you as a Bloomberg product user.\n        </p>\n<p>\n          Copyright 2026 Bloomberg L.P. All rights reserved.\n        </p>",
+  "wordCount": 48,
+  "imageCount": 1,
+  "linkCount": 2
 }
