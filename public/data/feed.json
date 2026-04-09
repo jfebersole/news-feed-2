@@ -1,10 +1,120 @@
 {
-  "generatedAt": "2026-04-09T03:53:47.178Z",
-  "fetchedAt": "2026-04-09T03:53:47.175Z",
+  "generatedAt": "2026-04-09T12:50:38.549Z",
+  "fetchedAt": "2026-04-09T12:50:38.547Z",
   "sourceCount": 18,
   "itemCount": 220,
   "totalItemCount": 229,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "title": "Helium Is Hard to Replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "The war in Iran, and the subsequent closure of the Strait of Hormuz, has unfortunately made us all familiar with details of the petroleum supply chain that we could formerly happily ignore.",
+      "publishedAt": "2026-04-09T12:03:42.000Z",
+      "articleId": "0ea13fc9b2adc39b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ai-unemployment-and-work.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-unemployment-and-work",
+      "title": "AI, Unemployment and Work",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ai-unemployment-and-work.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Imagine I told you that AI was going to create a 40% unemployment rate. Sounds bad, right? Catastrophic even. Now imagine I told you that AI was going to create a 3-day working week. Sounds great, right? Wonderful even. Yet to a first approximation these are the same thing. 60% of people employed and 40% […] The post AI, Unemployment and Work appeared first on Marginal REVOLUTION.",
+      "publishedAt": "2026-04-09T11:18:11.000Z",
+      "articleId": "03479a2d053d67ad"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/should-race-matter-in-college-admissions",
+      "title": "Should race matter in college admissions?",
+      "url": "https://www.slowboring.com/p/should-race-matter-in-college-admissions",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "On the premiere episode of The Argument, Matthew Yglesias and Jerusalem Demsas argue about the effectiveness of affirmative action.",
+      "publishedAt": "2026-04-09T10:41:24.000Z",
+      "articleId": "7fbdca388ad5f543"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/republican-war-mongering-is-their",
+      "title": "Republican war-mongering is their worst economic policy",
+      "url": "https://www.slowboring.com/p/republican-war-mongering-is-their",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A repeated pattern of failure",
+      "publishedAt": "2026-04-09T10:01:56.000Z",
+      "articleId": "353cc44979ed3133"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
+      "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
+      "url": "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.",
+      "publishedAt": "2026-04-09T10:00:00.000Z",
+      "articleId": "dbff0e5efccd1f4c"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/yes-assimilation-is-good",
+      "title": "Yes, assimilation is good",
+      "url": "https://www.noahpinion.blog/p/yes-assimilation-is-good",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Building a unified American culture isn't about bullying people; it's about living together in peace.",
+      "publishedAt": "2026-04-09T09:56:42.000Z",
+      "articleId": "dbc07e81090d6c03"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7181223/2026/04/09/dexter-lawrence-trade-demand-outcomes/",
+      "title": "For Giants, the one question at the center of the Dexter Lawrence trade demand",
+      "url": "https://www.nytimes.com/athletic/7181223/2026/04/09/dexter-lawrence-trade-demand-outcomes/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The star defensive tackle made his trade demand public, and now John Harbaugh has a decision to make.",
+      "publishedAt": "2026-04-09T09:30:55.000Z",
+      "articleId": "cea99887e537a1cc"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/09/opinion/trump-iran-putin-war-crimes.html",
+      "title": "Trump Is Tearing at the Soul of the Military",
+      "url": "https://www.nytimes.com/2026/04/09/opinion/trump-iran-putin-war-crimes.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "If an unlawful order comes from the president himself, to whom does the soldier appeal?",
+      "publishedAt": "2026-04-09T09:04:21.000Z",
+      "articleId": "fb24114481235f24"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/lds-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=lds-fact-of-the-day",
+      "title": "LDS fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/lds-fact-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Church of Jesus Christ of Latter-day Saints has grown 66% this century, fueled in part by a record-breaking number of convert baptisms in 2025. The church had 10,752,986 members at the end of 1999. The church had 17,887,212 at the end of 2025, according to an annual statistical report released Saturday during the church’s 196th Annual General Conference. […] The post LDS fact of the day appeared first on Marginal REVOLUTION.",
+      "publishedAt": "2026-04-09T06:43:40.000Z",
+      "articleId": "bd7ce25687075c4a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/financial-regulation-and-ai-a-faustian-bargain.html?utm_source=rss&utm_medium=rss&utm_campaign=financial-regulation-and-ai-a-faustian-bargain",
+      "title": "Financial Regulation and AI: A Faustian Bargain?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/financial-regulation-and-ai-a-faustian-bargain.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Important work is just flowing these days, and much of it (of course) concerns AI: We study whether AI methods applied to large-scale portfolio holdings data can improve financial regulation. We build a state-of-the-art, graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns […] The post Financial Regulation and AI: A Faustian Bargain? appeared first on Marginal REVOLUTION.",
+      "publishedAt": "2026-04-09T04:45:38.000Z",
+      "articleId": "e95a44756650384a"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-anthropic-believes-its-latest",
       "title": "Why Anthropic believes its latest model is too dangerous to release",
@@ -292,17 +402,6 @@
       "articleId": "fa09cc6bcd56016f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/interpreting-polygenic-prediction-of-cognitive-ability.html?utm_source=rss&utm_medium=rss&utm_campaign=interpreting-polygenic-prediction-of-cognitive-ability",
-      "title": "Interpreting Polygenic Prediction of Cognitive Ability",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/interpreting-polygenic-prediction-of-cognitive-ability.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The subtitle is Evidence for Direct, Reliable, and Portable Genetic Effects, and the authors are Tobias Wolfam, et.al. The abstract: The interpretation of polygenic scores (PGS) for general cognitive ability (GCA) remains contested, with concerns about indirect genetic effects, environmental confounding, cross-ancestry portability, and the gap between PGS prediction and twin heritability estimates. Relying on […] The post Interpreting Polygenic Prediction of Cognitive Ability appeared first on Marginal REVOLUTION.",
-      "publishedAt": "2026-04-07T04:50:30.000Z",
-      "articleId": "692f00eb65aba0a2"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
       "title": "The Light That Changed My Life",
       "url": "https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
@@ -358,17 +457,6 @@
       "articleId": "45fc56bbd41413f9"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wow-nepal.html?utm_source=rss&utm_medium=rss&utm_campaign=wow-nepal",
-      "title": "Wow Nepal",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/wow-nepal.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Wow Nepal, 10728 Fairfax Blvd, Fairfax, VA, 703-880-9898, open 11-9 every day. The “Wow” here is exactly right, as it is wonderful to have a new great restaurant around. Most Nepalese restaurants in America are variants on north Indian food with batches of half-hearted momos thrown in. This place is the real thing. The goat […] The post Wow Nepal appeared first on Marginal REVOLUTION.",
-      "publishedAt": "2026-04-06T18:30:48.000Z",
-      "articleId": "6c2a93136ebab074"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
       "title": "Giants All-Pro DT Dexter Lawrence requests trade: Source",
       "url": "https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
@@ -378,17 +466,6 @@
       "summary": "Lawrence clearly wants a salary that reflects his importance to the team, especially with inferior players around the league earning more.",
       "publishedAt": "2026-04-06T17:12:36.000Z",
       "articleId": "06eab783afe92a64"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-554.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-554",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-554.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Distill your Chinese co-workers? (speculative) 2. Creating artificial gravity in space? 3. Good news for your testicles? 4. The contingencies of the South African economy. 5. AI aggregation and knowledge. 6. The real effects of nominal interest rates. 7. Might Venezuela grow twelve percent this year? The post Monday assorted links appeared first on Marginal REVOLUTION.",
-      "publishedAt": "2026-04-06T16:18:52.000Z",
-      "articleId": "1c2cd504b3a7912c"
     },
     {
       "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/wow-nepal/",
@@ -897,17 +974,6 @@
       "articleId": "1cd44609914cd417"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/make-townhouses-great-again",
-      "title": "Make townhouses great again",
-      "url": "https://www.slowboring.com/p/make-townhouses-great-again",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Everyone loves traditional rowhouse neighborhoods — but new projects usually stink.",
-      "publishedAt": "2026-03-30T10:04:11.000Z",
-      "articleId": "353289e5a68420c1"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/spring-break/",
       "title": "Spring Break",
       "url": "https://stratechery.com/2026/spring-break/",
@@ -939,17 +1005,6 @@
       "summary": "The Iran War is illustrating the cost of anti-EV nonsense.",
       "publishedAt": "2026-03-30T02:08:06.000Z",
       "articleId": "05c70b48f681f269"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/decolonization-gone-wrong",
-      "title": "Decolonization gone wrong",
-      "url": "https://www.slowboring.com/p/decolonization-gone-wrong",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The remote Indian Ocean islands roiling British politics and the U.S.-U.K. relationship",
-      "publishedAt": "2026-03-29T22:02:09.000Z",
-      "articleId": "1bdd4178422f1c25"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
@@ -1126,17 +1181,6 @@
       "summary": "...",
       "publishedAt": "2026-03-26T11:17:22.000Z",
       "articleId": "93c6fd7f8141580c"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/",
-      "title": "An Interview with Arm CEO Rene Haas About Selling Chips",
-      "url": "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips.",
-      "publishedAt": "2026-03-26T10:06:36.000Z",
-      "articleId": "1999f965a2851ac4"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ai-has-the-worst-sales-pitch-ive",
@@ -1412,17 +1456,6 @@
       "summary": "...",
       "publishedAt": "2026-03-16T20:25:24.000Z",
       "articleId": "1ff1ba351dd10785"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "title": "We Have Reached End-Stage Polarization",
-      "url": "https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The omnipresence of Trump should open our eyes.",
-      "publishedAt": "2026-03-16T16:20:50.000Z",
-      "articleId": "e6e939d57136f522"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/it-still-doesnt-look-like-theres",
@@ -1799,17 +1832,6 @@
       "articleId": "7baed963ab0fd1cd"
     },
     {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/superintelligence-is-already-here",
-      "title": "Superintelligence is already here, today",
-      "url": "https://www.noahpinion.blog/p/superintelligence-is-already-here",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "It's going to revolutionize science. It also might take control of this planet.",
-      "publishedAt": "2026-03-02T08:02:38.000Z",
-      "articleId": "b781143d61631ec2"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-022826",
       "title": "Reading List 02/28/26",
       "url": "https://www.construction-physics.com/p/reading-list-022826",
@@ -2074,17 +2096,6 @@
       "articleId": "5e76c794b28c1a53"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7037227/2026/02/11/new-york-giants-offensive-roster/",
-      "title": "One thought on every New York Giants offensive player ahead of free agency",
-      "url": "https://www.nytimes.com/athletic/7037227/2026/02/11/new-york-giants-offensive-roster/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Assessing 32 of John Harbaugh's new players, from Jaxson Dart to Bryan Hudson.",
-      "publishedAt": "2026-02-11T10:30:45.000Z",
-      "articleId": "baf4f5a3c65299be"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/the-many-masks-that-llms-wear",
       "title": "The many masks LLMs wear",
       "url": "https://www.understandingai.org/p/the-many-masks-that-llms-wear",
@@ -2171,17 +2182,6 @@
       "summary": "Welcome to the reading list, a weekly list of news and links related to buildings, infrastructure, and industrial technology.",
       "publishedAt": "2026-01-24T13:00:24.000Z",
       "articleId": "ab01fa3185319a67"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/do-commodities-get-cheaper-over-time",
-      "title": "Do Commodities Get Cheaper Over Time?",
-      "url": "https://www.construction-physics.com/p/do-commodities-get-cheaper-over-time",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "This American Enterprise Institute chart, which breaks down how price changes for different types of goods and services in the consumer price index, has by now become very widely known.",
-      "publishedAt": "2026-01-22T13:02:46.000Z",
-      "articleId": "2982dd4a9c0a8c23"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/how-shifting-risk-to-users-makes",

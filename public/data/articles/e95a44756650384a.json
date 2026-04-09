@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/04/financial-regulation-and-ai-a-faustian-bargain.html",
+  "source": "Marginal Revolution",
+  "title": "Financial Regulation and AI: A Faustian Bargain?",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-04-09T04:45:38.000Z",
+  "contentHtml": "<p>Important work is just flowing these days, and much of it (of course) concerns AI:</p>\n<blockquote><p>We study whether AI methods applied to large-scale portfolio holdings data can improve financial regulation. We build a state-of-the-art, graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns latent representations of both assets and investors from the network structure of portfolio positions. Applied to the universe of non-bank financial intermediaries, covering nearly $40 trillion in wealth, the model substantially outperforms existing approaches in out-of-sample forecasts of intermediary trading behavior, including in crisis episodes. The model has more than ten times the explanatory power for the cross-sectional variation in asset returns during stress events compared to traditional approaches, and it outperforms existing systemic risk metrics at the institution level. Its learned representations show that the holdings network encodes rich, economically interpretable information about firesale vulnerability. The architecture is fully inductive, producing informative estimates even when entire asset classes or investors are withheld from training. We embed our empirical approach into a macroprudential optimal policy framework to formalize why these objects matter for policy and welfare. We show that even in an equilibrium environment subject to the Lucas critique, the predictive information from the model improves welfare by sharpening the cross-sectional targeting of policy interventions, and we demonstrate a complementarity between prediction and structural knowledge.</p></blockquote>\n<p>That is <a href=\"https://clayton-coppola.s3.us-east-1.amazonaws.com/FireSales_AI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">a new paper</a> by Christopher Clayton and Antonio Coppola, of Yale and Stanford respectively.</p>",
+  "wordCount": 246,
+  "imageCount": 0,
+  "linkCount": 1
+}
