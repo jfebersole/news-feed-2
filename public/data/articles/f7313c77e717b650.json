@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
+  "source": "Understanding AI",
+  "title": "How shifting risk to users makes Claude Code more powerful",
+  "subtitle": "People are discovering that Claude Code isn’t just for code.",
+  "byline": "Timothy B. Lee",
+  "publishedAt": "2026-01-20T19:36:47.000Z",
+  "contentHtml": "<p><span>Anthropic’s Claude Code has been gaining popularity among programmers since its launch last February. When I first </span><a href=\"https://www.understandingai.org/p/claude-powered-coding-tools-are-poised\" target=\"_blank\" rel=\"noopener noreferrer\">wrote about the tool</a><span> back in May, it was little known among non-programmers.</span></p>\n<p>That started to change over the holidays. Word began to spread that — despite its name — Claude Code wasn’t just for code. It’s a general-purpose agent that can help users with a wide range of tasks.</p>\n<p><span>Claude Code is “marketed as a tool for computer programmers, so I wasn’t using it because I’m not a computer programmer,” </span><a href=\"https://www.slowboring.com/p/cyborg-sow-boring\" target=\"_blank\" rel=\"noopener noreferrer\">wrote the liberal Substack author Matt Yglesias</a><span> on December 26. “But some friends urged me to fire up the command line and use it.”</span></p>\n<p>“In a sense, everything you can do on a computer is a question of writing code,” Yglesias added. “So I downloaded the entire General Social Survey file, and put it in a directory with a Claude Code project. Then if I ask Claude a question about the GSS data, Claude writes up the R scripts it needs to interrogate the data set and answer the question.”</p>\n<p><span>Last week, Anthropic itself capitalized on this trend with the release of </span><a href=\"https://claude.com/blog/cowork-research-preview\" target=\"_blank\" rel=\"noopener noreferrer\">Anthropic Cowork</a><span>, a variant of Claude Code designed for use by non-programmers.</span></p>\n<p>Claude Code is a text-based tool that runs in a command-line environment (for example, the Terminal app on a Mac). The command line is a familiar environment for programmers, but many normal users find it confusing and even intimidating.</p>\n<p>Cowork is a Mac app that superficially looks like a normal chatbot. Indeed, it looks so much like a normal chatbot that you might be wondering why it’s a separate product at all. If Anthropic wanted to bring Claude Code’s powerful capabilities to a general audience, why not just add those features to the regular Claude chatbot?</p>\n<p>What ultimately differentiates Claude Code from conventional web-based chatbots isn’t any specific feature or capability. It’s a different philosophy about risk and responsibility.</p>",
+  "wordCount": 321,
+  "imageCount": 0,
+  "linkCount": 3
+}
