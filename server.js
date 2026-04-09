@@ -9,6 +9,10 @@ const ARTICLE_CACHE_TTL_MS = 30 * 60 * 1000;
 const SOURCE_FETCH_CONCURRENCY = Math.max(1, Number.parseInt(process.env.SOURCE_FETCH_CONCURRENCY || "6", 10) || 6);
 const USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
+const SUBSTACK_PROXY_FALLBACK_ENABLED = process.env.SUBSTACK_PROXY_FALLBACK_ENABLED !== "0";
+const RSS_PROXY_TEMPLATE = (process.env.RSS_PROXY_TEMPLATE || "").trim();
+const RSS2JSON_API_KEY = (process.env.RSS2JSON_API_KEY || "").trim();
+const DEFAULT_RSS_PROXY_BASE_URL = "https://api.rss2json.com/v1/api.json";
 
 const parser = new Parser({
   timeout: 15_000,
@@ -30,7 +34,7 @@ const SOURCES = [
   {
     name: "Tyler Cowen's Ethnic Dining Guide",
     url: "https://tylercowensethnicdiningguide.com/",
-    feedUrl: "https://tylercowensethnicdiningguide.com/feed",
+    feedUrl: "https://tylercowensethnicdiningguide.com/index.php/feed/",
   },
   {
     name: "Astral Codex Ten",
@@ -116,6 +120,11 @@ const SOURCES = [
     name: "Brew Shop",
     url: "https://www.arlbrew.com/",
     feedUrl: "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
+  },
+  {
+    name: "Josh Barro",
+    url: "https://www.joshbarro.com/",
+    feedUrl: "https://www.joshbarro.com/feed",
   },
 ];
 
@@ -350,6 +359,11 @@ async function pullSource(source) {
       .slice(0, 24);
 
     if (!normalized.length) {
+      const proxyResult = await pullSourceViaRssProxy(source);
+      if (proxyResult) {
+        return proxyResult;
+      }
+
       return {
         source,
         mode: "failed",
@@ -366,6 +380,11 @@ async function pullSource(source) {
       items: normalized,
     };
   } catch (error) {
+    const proxyResult = await pullSourceViaRssProxy(source);
+    if (proxyResult) {
+      return proxyResult;
+    }
+
     return {
       source,
       mode: "failed",
@@ -373,6 +392,43 @@ async function pullSource(source) {
       items: [],
       error: error instanceof Error ? error.message : "Unknown feed parse error",
     };
+  }
+}
+
+async function pullSourceViaRssProxy(source) {
+  if (!SUBSTACK_PROXY_FALLBACK_ENABLED || !isLikelySubstackSource(source) || !source.feedUrl) {
+    return null;
+  }
+
+  const proxyUrl = buildRssProxyUrl(source.feedUrl);
+  if (!proxyUrl) {
+    return null;
+  }
+
+  try {
+    const payload = await withRetry(() => fetchJson(proxyUrl, 12_000), { attempts: 2, baseDelayMs: 400 });
+    const status = String(payload?.status || "").toLowerCase();
+    if (status && status !== "ok") {
+      return null;
+    }
+
+    const normalized = asArray(payload?.items)
+      .map((item) => normalizeProxyFeedItem(item, source))
+      .filter(Boolean)
+      .slice(0, 24);
+
+    if (!normalized.length) {
+      return null;
+    }
+
+    return {
+      source,
+      mode: "rss-proxy",
+      feedUrl: source.feedUrl,
+      items: normalized,
+    };
+  } catch {
+    return null;
   }
 }
 
@@ -397,6 +453,52 @@ function normalizeFeedItem(item, source) {
     summary,
     publishedAt,
   };
+}
+
+function normalizeProxyFeedItem(item, source) {
+  const title = cleanText(item?.title || "");
+  const link = sanitizeUrl(item?.link || item?.url || item?.guid || "", source.url);
+
+  if (!title || !link) {
+    return null;
+  }
+
+  const publishedAt = normalizeDate(item?.pubDate || item?.published || item?.isoDate || item?.date);
+  const summary = cleanText(item?.description || item?.contentSnippet || item?.summary || item?.content || "");
+
+  return {
+    id: createItemId(link, source.name),
+    title,
+    url: link,
+    source: source.name,
+    sourceUrl: source.url,
+    access: inferAccessLevel(source.name, link),
+    summary,
+    publishedAt,
+  };
+}
+
+function isLikelySubstackSource(source) {
+  const sourceUrl = (source?.url || "").toLowerCase();
+  const feedUrl = (source?.feedUrl || "").toLowerCase();
+  return sourceUrl.includes("substack.com") || feedUrl.includes("substack.com");
+}
+
+function buildRssProxyUrl(feedUrl) {
+  if (!feedUrl) {
+    return null;
+  }
+
+  if (RSS_PROXY_TEMPLATE) {
+    return RSS_PROXY_TEMPLATE.replace("{url}", encodeURIComponent(feedUrl));
+  }
+
+  const url = new URL(DEFAULT_RSS_PROXY_BASE_URL);
+  url.searchParams.set("rss_url", feedUrl);
+  if (RSS2JSON_API_KEY) {
+    url.searchParams.set("api_key", RSS2JSON_API_KEY);
+  }
+  return url.toString();
 }
 
 function flattenJsonLd(input) {
@@ -474,6 +576,11 @@ async function fetchText(url, timeoutMs = 12_000, options = {}) {
   } finally {
     clearTimeout(timeout);
   }
+}
+
+async function fetchJson(url, timeoutMs = 12_000) {
+  const raw = await fetchText(url, timeoutMs, { accept: "application/json,text/plain;q=0.9,*/*;q=0.8" });
+  return JSON.parse(raw);
 }
 
 function normalizeDate(value) {

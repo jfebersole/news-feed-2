@@ -66,6 +66,17 @@ Node.js `20+` is required.
 
 Update the `SOURCES` array in [`server.js`](./server.js).
 
+### Substack CI Fallback
+
+Some `*.substack.com` feeds may return `403` from GitHub Actions IP ranges.  
+The fetcher now includes a Substack-only RSS proxy fallback.
+
+Optional environment variables:
+
+- `SUBSTACK_PROXY_FALLBACK_ENABLED` (default: `1`)
+- `RSS_PROXY_TEMPLATE` (template with `{url}` placeholder)
+- `RSS2JSON_API_KEY` (used with default proxy endpoint if set)
+
 ## Notes
 
 - This setup is optimized for personal use and fast page loads.

@@ -37,6 +37,8 @@ jobs:
           STATIC_REFRESH_RECENT_COUNT: "40"
           STATIC_CONCURRENCY: "5"
           SOURCE_FETCH_CONCURRENCY: "4"
+          SUBSTACK_PROXY_FALLBACK_ENABLED: "1"
+          RSS2JSON_API_KEY: ${{ secrets.RSS2JSON_API_KEY }}
         run: npm run build:data
 
       - name: Commit & Push Data Updates
