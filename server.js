@@ -85,18 +85,22 @@ const SOURCES = [
   {
     name: "Dan Duggan (The Athletic)",
     url: "https://www.nytimes.com/athletic/author/dan-duggan/",
+    feedUrl: "https://www.nytimes.com/athletic/rss/author/dan-duggan/",
   },
   {
     name: "Ross Douthat (NYT)",
     url: "https://www.nytimes.com/column/ross-douthat",
+    feedUrl: "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml",
   },
   {
     name: "Ezra Klein (NYT)",
     url: "https://www.nytimes.com/by/ezra-klein",
+    feedUrl: "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml",
   },
   {
     name: "David French (NYT)",
     url: "https://www.nytimes.com/by/david-french",
+    feedUrl: "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-french/rss.xml",
   },
   {
     name: "Stratechery",
@@ -106,6 +110,12 @@ const SOURCES = [
   {
     name: "Money Stuff (Bloomberg)",
     url: "https://www.bloomberg.com/account/newsletters/money-stuff",
+    feedUrl: "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
+  },
+  {
+    name: "Brew Shop",
+    url: "https://www.arlbrew.com/",
+    feedUrl: "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
   },
 ];
 
@@ -114,7 +124,6 @@ let cache = {
   fetchedAt: 0,
 };
 const articleCache = new Map();
-let substackSourceQueue = Promise.resolve();
 
 app.use(express.static("public"));
 
@@ -288,7 +297,7 @@ async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", f
 async function aggregateSources() {
   const sourceResults = await mapWithConcurrency(SOURCES, SOURCE_FETCH_CONCURRENCY, async (source) => {
     try {
-      return await pullSourceWithPlatformGuards(source);
+      return await pullSource(source);
     } catch (error) {
       return {
         source,
@@ -323,203 +332,48 @@ async function aggregateSources() {
   };
 }
 
-async function pullSourceWithPlatformGuards(source) {
-  if (!isLikelySubstackSource(source)) {
-    return pullSource(source);
-  }
-
-  return enqueueSubstackSourcePull(() => pullSource(source));
-}
-
-async function enqueueSubstackSourcePull(task) {
-  const previous = substackSourceQueue;
-  let releaseQueue;
-  substackSourceQueue = new Promise((resolve) => {
-    releaseQueue = resolve;
-  });
-
-  await previous;
-  try {
-    return await task();
-  } finally {
-    releaseQueue();
-  }
-}
-
 async function pullSource(source) {
-  const isSubstackSource = isLikelySubstackSource(source);
-  if (isSubstackSource) {
-    const archiveFirst = await tryPullSubstackArchiveResult(source);
-    if (archiveFirst) {
-      return archiveFirst;
-    }
-  }
-
-  let sourceHtml = null;
-  const candidates = new Set();
-
-  if (source.feedUrl) {
-    candidates.add(source.feedUrl);
-  }
-
-  if (!isSubstackSource) {
-    try {
-      sourceHtml = await withRetry(() => fetchText(source.url), { attempts: 2, baseDelayMs: 300 });
-      discoverFeedLinks(source.url, sourceHtml).forEach((link) => candidates.add(link));
-    } catch {
-      sourceHtml = null;
-    }
-
-    heuristicFeedLinks(source.url).forEach((link) => candidates.add(link));
-  } else if (!source.feedUrl) {
-    heuristicFeedLinks(source.url).forEach((link) => candidates.add(link));
-  }
-
-  for (const candidate of candidates) {
-    try {
-      const parsed = await withRetry(() => parser.parseURL(candidate), { attempts: 3, baseDelayMs: 450 });
-      const normalized = (parsed.items || [])
-        .map((item) => normalizeFeedItem(item, source))
-        .filter(Boolean)
-        .slice(0, 24);
-
-      if (normalized.length) {
-        return {
-          source,
-          mode: "rss",
-          feedUrl: candidate,
-          items: normalized,
-        };
-      }
-    } catch {
-      // Keep trying other candidates.
-    }
-  }
-
-  if (isSubstackSource) {
-    const archiveFallback = await tryPullSubstackArchiveResult(source);
-    if (archiveFallback) {
-      return archiveFallback;
-    }
-  }
-
-  try {
-    const html = sourceHtml ?? (await fetchText(source.url));
-    const scraped = scrapeItemsFromHtml(source, html).slice(0, 24);
-
-    if (scraped.length) {
-      return {
-        source,
-        mode: "scrape",
-        items: scraped,
-      };
-    }
-  } catch (error) {
+  if (!source.feedUrl) {
     return {
       source,
       mode: "failed",
       items: [],
-      error: error instanceof Error ? error.message : "Unknown scrape error",
+      error: "Missing explicit feedUrl for source.",
     };
   }
 
-  return {
-    source,
-    mode: "failed",
-    items: [],
-    error: "No parsable RSS feed or article links found.",
-  };
-}
-
-async function tryPullSubstackArchiveResult(source) {
-  if (!isLikelySubstackSource(source)) {
-    return null;
-  }
-
   try {
-    const archiveItems = await pullSubstackArchive(source);
-    if (!archiveItems.length) {
-      return null;
+    const parsed = await withRetry(() => parser.parseURL(source.feedUrl), { attempts: 3, baseDelayMs: 450 });
+    const normalized = (parsed.items || [])
+      .map((item) => normalizeFeedItem(item, source))
+      .filter(Boolean)
+      .slice(0, 24);
+
+    if (!normalized.length) {
+      return {
+        source,
+        mode: "failed",
+        feedUrl: source.feedUrl,
+        items: [],
+        error: "Feed parsed but returned no valid items.",
+      };
     }
 
     return {
       source,
-      mode: "substack-archive",
-      feedUrl: buildSubstackArchiveUrl(source),
-      items: archiveItems,
+      mode: "rss",
+      feedUrl: source.feedUrl,
+      items: normalized,
     };
-  } catch {
-    return null;
+  } catch (error) {
+    return {
+      source,
+      mode: "failed",
+      feedUrl: source.feedUrl,
+      items: [],
+      error: error instanceof Error ? error.message : "Unknown feed parse error",
+    };
   }
-}
-
-function isLikelySubstackSource(source) {
-  const sourceUrl = (source?.url || "").toLowerCase();
-  const feedUrl = (source?.feedUrl || "").toLowerCase();
-  return sourceUrl.includes("substack.com") || feedUrl.includes("substack.com");
-}
-
-function buildSubstackArchiveUrl(source) {
-  const sourceHost = safeHostname(source?.url || "");
-  if (sourceHost && sourceHost.includes("substack.com")) {
-    return `https://${sourceHost}/api/v1/archive?sort=new`;
-  }
-
-  const feedHost = safeHostname(source?.feedUrl || "");
-  if (feedHost && feedHost.includes("substack.com")) {
-    return `https://${feedHost}/api/v1/archive?sort=new`;
-  }
-
-  return null;
-}
-
-async function pullSubstackArchive(source) {
-  const archiveUrl = buildSubstackArchiveUrl(source);
-  if (!archiveUrl) {
-    return [];
-  }
-
-  const payload = await withRetry(() => fetchJson(archiveUrl, 15_000), { attempts: 3, baseDelayMs: 500 });
-  const entries = Array.isArray(payload)
-    ? payload
-    : Array.isArray(payload?.posts)
-      ? payload.posts
-      : Array.isArray(payload?.items)
-        ? payload.items
-        : [];
-
-  return entries
-    .map((entry) => normalizeSubstackArchiveItem(entry, source))
-    .filter(Boolean)
-    .slice(0, 24);
-}
-
-function normalizeSubstackArchiveItem(entry, source) {
-  const title = cleanText(entry?.title || entry?.headline || "");
-  const url = sanitizeUrl(
-    entry?.canonical_url || entry?.post_url || entry?.url || (entry?.slug ? `/p/${entry.slug}` : ""),
-    source.url
-  );
-
-  if (!title || !url) {
-    return null;
-  }
-
-  const subtitle = cleanText(
-    entry?.subtitle || entry?.description || entry?.preview_text || entry?.search_engine_description || ""
-  );
-  const publishedAt = normalizeDate(entry?.post_date || entry?.published_at || entry?.created_at || entry?.date);
-
-  return {
-    id: createItemId(url, source.name),
-    title,
-    url,
-    source: source.name,
-    sourceUrl: source.url,
-    access: inferAccessLevel(source.name, url),
-    summary: subtitle,
-    publishedAt,
-  };
 }
 
 function normalizeFeedItem(item, source) {
@@ -545,103 +399,6 @@ function normalizeFeedItem(item, source) {
   };
 }
 
-function scrapeItemsFromHtml(source, html) {
-  const $ = cheerio.load(html);
-  const fromJsonLd = collectFromJsonLd($, source);
-  const fromLinks = collectFromAnchors($, source);
-
-  return dedupeByUrl([...fromJsonLd, ...fromLinks]).filter((item) => item.title && item.url);
-}
-
-function collectFromJsonLd($, source) {
-  const collected = [];
-
-  $("script[type='application/ld+json']").each((_idx, element) => {
-    const raw = $(element).text().trim();
-    if (!raw) {
-      return;
-    }
-
-    try {
-      const parsed = JSON.parse(raw);
-      const nodes = flattenJsonLd(parsed);
-
-      nodes.forEach((node) => {
-        const type = asArray(node["@type"]).join(",").toLowerCase();
-        const headline = cleanText(node.headline || node.name || "");
-        const url = sanitizeUrl(node.url || node.mainEntityOfPage || "", source.url);
-        const publishedAt = normalizeDate(node.datePublished || node.dateCreated);
-
-        if (!headline || !url) {
-          return;
-        }
-
-        if (
-          !type.includes("article") &&
-          !type.includes("posting") &&
-          !type.includes("news") &&
-          !looksLikeArticleUrl(url)
-        ) {
-          return;
-        }
-
-        collected.push({
-          id: createItemId(url, source.name),
-          title: headline,
-          url,
-          source: source.name,
-          sourceUrl: source.url,
-          access: inferAccessLevel(source.name, url),
-          summary: cleanText(node.description || ""),
-          publishedAt,
-        });
-      });
-    } catch {
-      // Skip invalid JSON-LD blocks.
-    }
-  });
-
-  return collected;
-}
-
-function collectFromAnchors($, source) {
-  const base = source.url;
-  const baseHost = safeHostname(base);
-  const results = [];
-
-  $("a[href]").each((_idx, element) => {
-    const href = $(element).attr("href") || "";
-    const url = sanitizeUrl(href, base);
-    const title = cleanText($(element).text());
-
-    if (!url || !title || title.length < 12) {
-      return;
-    }
-
-    const host = safeHostname(url);
-    if (!host || !baseHost || !host.endsWith(baseHost.replace(/^www\./, ""))) {
-      return;
-    }
-
-    if (!looksLikeArticleUrl(url)) {
-      return;
-    }
-
-    results.push({
-      id: createItemId(url, source.name),
-      title,
-      url,
-      source: source.name,
-      sourceUrl: source.url,
-      access: inferAccessLevel(source.name, url),
-      summary: "",
-      publishedAt: inferDateFromUrl(url),
-    });
-  });
-
-  return results;
-}
-
 function flattenJsonLd(input) {
   if (!input) {
     return [];
@@ -664,46 +421,6 @@ function flattenJsonLd(input) {
   }
 
   return nodes;
-}
-
-function discoverFeedLinks(pageUrl, html) {
-  const $ = cheerio.load(html);
-  const links = new Set();
-
-  $(
-    "link[rel='alternate'][type*='rss'], link[rel='alternate'][type*='atom'], a[href*='feed'], a[href*='rss'], a[href*='atom']"
-  ).each((_idx, element) => {
-    const raw = $(element).attr("href");
-    const resolved = sanitizeUrl(raw || "", pageUrl);
-
-    if (resolved) {
-      links.add(resolved);
-    }
-  });
-
-  return [...links];
-}
-
-function heuristicFeedLinks(pageUrl) {
-  const url = new URL(pageUrl);
-  const root = `${url.protocol}//${url.host}`;
-  const pathname = url.pathname.replace(/\/$/, "");
-
-  const guesses = [
-    `${root}/feed`,
-    `${root}/feed/`,
-    `${root}/rss`,
-    `${root}/rss.xml`,
-    `${root}/feed.xml`,
-    `${root}/atom.xml`,
-  ];
-
-  if (pathname) {
-    guesses.push(`${root}${pathname}/feed`);
-    guesses.push(`${root}${pathname}/rss`);
-  }
-
-  return guesses;
 }
 
 function dedupeByUrl(items) {
@@ -757,45 +474,6 @@ async function fetchText(url, timeoutMs = 12_000, options = {}) {
   } finally {
     clearTimeout(timeout);
   }
-}
-
-async function fetchJson(url, timeoutMs = 12_000) {
-  const text = await fetchText(url, timeoutMs, { accept: "application/json,text/plain;q=0.9,*/*;q=0.8" });
-  return JSON.parse(text);
-}
-
-function looksLikeArticleUrl(url) {
-  if (!url) {
-    return false;
-  }
-
-  if (/\.(jpg|jpeg|png|gif|webp|svg|pdf)$/i.test(url)) {
-    return false;
-  }
-
-  const denyList = ["/about", "/contact", "/privacy", "/terms", "/login", "/signup"];
-  if (denyList.some((segment) => url.toLowerCase().includes(segment))) {
-    return false;
-  }
-
-  return (
-    /\/\d{4}\/\d{2}\/\d{2}\//.test(url) ||
-    /\/article\//.test(url) ||
-    /\/p\//.test(url) ||
-    /\/athletic\//.test(url) ||
-    /\/by\//.test(url) ||
-    /\/column\//.test(url)
-  );
-}
-
-function inferDateFromUrl(url) {
-  const match = url.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//);
-  if (!match) {
-    return null;
-  }
-
-  const iso = `${match[1]}-${match[2]}-${match[3]}T00:00:00.000Z`;
-  return Number.isNaN(Date.parse(iso)) ? null : iso;
 }
 
 function normalizeDate(value) {
