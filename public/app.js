@@ -38,6 +38,7 @@ const readerReason = document.querySelector("#readerReason");
 const readerBody = document.querySelector("#readerBody");
 const readerSticky = document.querySelector(".reader-sticky");
 let readerRequestId = 0;
+let pendingCardGridFocus = false;
 
 searchInput.addEventListener("input", (event) => {
   state.searchText = event.target.value.trim().toLowerCase();
@@ -196,6 +197,11 @@ function createSourceChip(value, label, count) {
 
   button.addEventListener("click", () => {
     state.selectedSource = value;
+    if (state.readerOpen) {
+      pendingCardGridFocus = true;
+      navigateBackFromReader();
+      return;
+    }
     render();
   });
 
@@ -434,6 +440,10 @@ function closeReader(options = {}) {
   resetReaderProgress();
   cardGrid.hidden = false;
   render();
+  if (pendingCardGridFocus) {
+    pendingCardGridFocus = false;
+    cardGrid.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
 }
 
 function navigateBackFromReader() {

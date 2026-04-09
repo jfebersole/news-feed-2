@@ -128,6 +128,16 @@ const SOURCES = [
   },
 ];
 
+const SOURCE_ITEM_RULES = Object.freeze({
+  "Astral Codex Ten": Object.freeze({
+    excludeTitleIncludes: Object.freeze(["open thread"]),
+  }),
+  "Neil Paine": Object.freeze({
+    excludeDescriptionIncludes: Object.freeze(["Subscribe to Scoreboard"]),
+    excludeTitleIfContainsEmoji: true,
+  }),
+});
+
 let cache = {
   data: null,
   fetchedAt: 0,
@@ -381,12 +391,21 @@ async function pullSource(source) {
 
   try {
     const parsed = await withRetry(() => parser.parseURL(source.feedUrl), { attempts: 3, baseDelayMs: 450 });
-    const normalized = (parsed.items || [])
+    const normalizedBase = (parsed.items || [])
       .map((item) => normalizeFeedItem(item, source))
-      .filter(Boolean)
-      .slice(0, 24);
+      .filter(Boolean);
+    const normalized = applySourceItemRules(source, normalizedBase).slice(0, 24);
 
     if (!normalized.length) {
+      if (normalizedBase.length) {
+        return {
+          source,
+          mode: "rss",
+          feedUrl: source.feedUrl,
+          items: [],
+        };
+      }
+
       const proxyResult = await pullSourceViaRssProxy(source);
       if (proxyResult) {
         return proxyResult;
@@ -440,12 +459,21 @@ async function pullSourceViaRssProxy(source) {
       return null;
     }
 
-    const normalized = asArray(payload?.items)
+    const normalizedBase = asArray(payload?.items)
       .map((item) => normalizeProxyFeedItem(item, source))
-      .filter(Boolean)
-      .slice(0, 24);
+      .filter(Boolean);
+    const normalized = applySourceItemRules(source, normalizedBase).slice(0, 24);
 
     if (!normalized.length) {
+      if (normalizedBase.length) {
+        return {
+          source,
+          mode: "rss-proxy",
+          feedUrl: source.feedUrl,
+          items: [],
+        };
+      }
+
       return null;
     }
 
@@ -514,6 +542,62 @@ function normalizeProxyFeedItem(item, source) {
     publishedAt,
     feedContentHtml,
   };
+}
+
+function applySourceItemRules(source, items) {
+  if (!Array.isArray(items) || !items.length) {
+    return [];
+  }
+
+  const sourceRules = SOURCE_ITEM_RULES[source?.name];
+  if (!sourceRules) {
+    return items;
+  }
+
+  return items.filter((item) => !shouldExcludeFeedItem(item, sourceRules));
+}
+
+function shouldExcludeFeedItem(item, sourceRules) {
+  const title = cleanText(item?.title || "");
+  const normalizedTitle = title.toLowerCase();
+  const normalizedSummary = cleanText(item?.summary || "").toLowerCase();
+
+  if (textIncludesAny(normalizedTitle, sourceRules?.excludeTitleIncludes)) {
+    return true;
+  }
+
+  if (textIncludesAny(normalizedSummary, sourceRules?.excludeDescriptionIncludes)) {
+    return true;
+  }
+
+  if (sourceRules?.excludeTitleIfContainsEmoji && containsEmoji(title)) {
+    return true;
+  }
+
+  return false;
+}
+
+function textIncludesAny(text, rawFragments) {
+  if (!text) {
+    return false;
+  }
+
+  const fragments = asArray(rawFragments)
+    .map((value) => String(value || "").trim().toLowerCase())
+    .filter(Boolean);
+  if (!fragments.length) {
+    return false;
+  }
+
+  return fragments.some((fragment) => text.includes(fragment));
+}
+
+function containsEmoji(value) {
+  if (!value) {
+    return false;
+  }
+
+  return /(?:\p{Extended_Pictographic}|[\u{1F1E6}-\u{1F1FF}])/u.test(value);
 }
 
 function isLikelySubstackSource(source) {

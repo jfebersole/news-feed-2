@@ -66,6 +66,14 @@ Node.js `20+` is required.
 
 Update the `SOURCES` array in [`server.js`](./server.js).
 
+### Source-Specific Item Rules
+
+Add per-source filters in `SOURCE_ITEM_RULES` in [`server.js`](./server.js).  
+Current example:
+
+- `Astral Codex Ten`: exclude items where the title contains `open thread` (case-insensitive).
+- `Neil Paine`: exclude items where description contains `Subscribe to Scoreboard`, and exclude items with emojis in the title.
+
 ### Substack CI Fallback
 
 Some `*.substack.com` feeds may return `403` from GitHub Actions IP ranges.  
