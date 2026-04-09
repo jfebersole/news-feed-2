@@ -38,26 +38,38 @@
           <div id="metaStrip" class="meta-strip"></div>
           <section id="cardGrid" class="card-grid" aria-live="polite"></section>
           <article id="readerPanel" class="reader-panel" aria-live="polite" hidden>
-            <div class="reader-sticky" aria-hidden="true"></div>
-            <button id="readerCloseBtn" class="reader-close" type="button" aria-label="Back to feed">
-              Back to Feed
-            </button>
-            <div class="reader-content">
-              <h2 id="readerTitle" class="reader-title"></h2>
-              <p id="readerSubtitle" class="reader-subtitle"></p>
-              <div class="reader-byline-row">
-                <p id="readerMeta" class="reader-meta"></p>
-                <div class="reader-byline-actions">
-                  <span id="readerSource" class="reader-source"></span>
-                  <span id="readerAccess" class="reader-access"></span>
+            <div class="reader-sticky">
+              <div class="reader-rail">
+                <p id="readerRailTitle" class="reader-rail-title"></p>
+                <div class="reader-rail-actions">
+                  <span id="readerRailSource" class="reader-source"></span>
                   <a
-                    id="readerExternalLink"
-                    class="reader-external"
+                    id="readerRailLink"
+                    class="reader-access reader-link"
                     href="#"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Original
+                    Link
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="reader-content">
+              <h2 id="readerTitle" class="reader-title"></h2>
+              <p id="readerSubtitle" class="reader-subtitle"></p>
+              <div id="readerBylineRow" class="reader-byline-row">
+                <p id="readerMeta" class="reader-meta"></p>
+                <div class="reader-byline-actions">
+                  <span id="readerSource" class="reader-source"></span>
+                  <a
+                    id="readerLink"
+                    class="reader-access reader-link"
+                    href="#"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Link
                   </a>
                 </div>
               </div>

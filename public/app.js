@@ -25,10 +25,12 @@ const refreshBtn = document.querySelector("#refreshBtn");
 const lastUpdated = document.querySelector("#lastUpdated");
 const homeLink = document.querySelector("#homeLink");
 const readerPanel = document.querySelector("#readerPanel");
-const readerCloseBtn = document.querySelector("#readerCloseBtn");
-const readerExternalLink = document.querySelector("#readerExternalLink");
+const readerRailTitle = document.querySelector("#readerRailTitle");
+const readerLink = document.querySelector("#readerLink");
+const readerRailSource = document.querySelector("#readerRailSource");
+const readerRailLink = document.querySelector("#readerRailLink");
+const readerBylineRow = document.querySelector("#readerBylineRow");
 const readerSource = document.querySelector("#readerSource");
-const readerAccess = document.querySelector("#readerAccess");
 const readerTitle = document.querySelector("#readerTitle");
 const readerSubtitle = document.querySelector("#readerSubtitle");
 const readerMeta = document.querySelector("#readerMeta");
@@ -58,7 +60,7 @@ refreshBtn.addEventListener("click", async () => {
 
 window.addEventListener("keydown", (event) => {
   if (event.key === "Escape" && state.readerOpen) {
-    closeReader();
+    navigateBackFromReader();
     return;
   }
 
@@ -80,17 +82,31 @@ window.addEventListener("resize", () => {
   updateReaderProgress();
 });
 
+window.addEventListener("popstate", (event) => {
+  if (event.state?.reader && event.state.readerId) {
+    const item = state.items.find((candidate) => resolveReaderStateId(candidate) === event.state.readerId);
+    if (item) {
+      openReader(item, { fromHistory: true }).catch((error) => {
+        console.error(error);
+      });
+      return;
+    }
+  }
+
+  if (state.readerOpen) {
+    closeReader({ fromHistory: true });
+  }
+});
+
 homeLink.addEventListener("click", (event) => {
   event.preventDefault();
   state.selectedSource = "all";
   state.searchText = "";
   searchInput.value = "";
-  closeReader();
+  navigateBackFromReader();
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
-
-readerCloseBtn.addEventListener("click", closeReader);
 
 loadFeed().catch((error) => {
   console.error(error);
@@ -358,7 +374,15 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
-async function openReader(item) {
+async function openReader(item, options = {}) {
+  const { fromHistory = false } = options;
+
+  if (!fromHistory) {
+    const currentUrl = new URL(window.location.href);
+    currentUrl.hash = "";
+    history.pushState({ reader: true, readerId: resolveReaderStateId(item) }, "", currentUrl.toString());
+  }
+
   state.readerOpen = true;
   state.readerLoading = true;
   state.readerError = "";
@@ -408,7 +432,14 @@ async function openReader(item) {
   }
 }
 
-function closeReader() {
+function closeReader(options = {}) {
+  const { fromHistory = false } = options;
+
+  if (!fromHistory && history.state?.reader) {
+    history.back();
+    return;
+  }
+
   state.readerOpen = false;
   state.readerLoading = false;
   state.readerError = "";
@@ -417,6 +448,14 @@ function closeReader() {
   resetReaderProgress();
   cardGrid.hidden = false;
   render();
+}
+
+function navigateBackFromReader() {
+  if (!state.readerOpen) {
+    return;
+  }
+
+  closeReader();
 }
 
 function renderReader() {
@@ -434,21 +473,24 @@ function renderReader() {
   const article = state.readerArticle;
 
   readerPanel.hidden = false;
+  readerRailTitle.textContent = article?.title || item.title || "Article";
+  readerRailSource.textContent = item.source || "";
+  readerRailSource.hidden = !readerRailSource.textContent.trim();
 
   if (item.url) {
-    readerExternalLink.href = item.url;
-    readerExternalLink.hidden = false;
+    readerLink.href = item.url;
+    readerLink.hidden = false;
+    readerRailLink.href = item.url;
+    readerRailLink.hidden = false;
   } else {
-    readerExternalLink.href = "#";
-    readerExternalLink.hidden = true;
+    readerLink.href = "#";
+    readerLink.hidden = true;
+    readerRailLink.href = "#";
+    readerRailLink.hidden = true;
   }
 
   readerSource.textContent = item.source || "";
   readerSource.hidden = !readerSource.textContent.trim();
-
-  const access = article?.access || item.access || inferItemAccess(item);
-  readerAccess.textContent = access === "paywalled" ? "Excerpt" : "Full Text";
-  readerAccess.hidden = !readerAccess.textContent.trim();
 
   readerTitle.textContent = article?.title || item.title || "Article";
   readerSubtitle.textContent = "";
@@ -475,7 +517,7 @@ function renderReader() {
   }
 
   if (!article) {
-    readerBody.innerHTML = "<p>Article unavailable. Open the original link.</p>";
+    readerBody.innerHTML = "<p>Article unavailable. Open the source link.</p>";
     updateReaderProgress();
     return;
   }
@@ -486,7 +528,7 @@ function renderReader() {
       readerReason.classList.add("visible");
     }
 
-    const excerpt = article.excerpt || item.summary || "Open the original article to keep reading.";
+    const excerpt = article.excerpt || item.summary || "Open the source link to keep reading.";
     readerBody.innerHTML = `<p>${escapeHtml(excerpt)}</p>`;
     updateReaderProgress();
     return;
@@ -550,6 +592,14 @@ function resolveArticlePath(item) {
   return `${ARTICLES_DATA_DIR}/${safeId}.json`;
 }
 
+function resolveReaderStateId(item) {
+  if (!item) {
+    return "";
+  }
+
+  return item.articleId || item.url || item.title || "";
+}
+
 function buildFallbackArticle(item, reason = "") {
   const access = item.access || inferItemAccess(item);
   return {
@@ -559,13 +609,13 @@ function buildFallbackArticle(item, reason = "") {
     url: item.url,
     source: item.source,
     title: item.title,
-    excerpt: item.summary || "Open the original article to continue reading.",
+    excerpt: item.summary || "Open the source link to continue reading.",
     reason: reason || "Reader extract unavailable for this story.",
   };
 }
 
 function updateReaderProgress() {
-  if (!readerSticky || !readerPanel) {
+  if (!readerSticky || !readerPanel || !readerBylineRow) {
     return;
   }
 
@@ -574,12 +624,23 @@ function updateReaderProgress() {
     return;
   }
 
+  const bylineRect = readerBylineRow.getBoundingClientRect();
+  const railVisible = bylineRect.top <= 1;
+  readerSticky.classList.toggle("rail-visible", railVisible);
+
   const stickyRect = readerSticky.getBoundingClientRect();
   const stickyLocked = stickyRect.top <= 0.5;
+  if (!railVisible) {
+    readerSticky.classList.remove("progress-visible");
+    setReaderProgress(0);
+    return;
+  }
+
   if (!stickyLocked) {
     readerSticky.classList.remove("progress-visible");
     return;
   }
+
   readerSticky.classList.add("progress-visible");
 
   const rect = readerPanel.getBoundingClientRect();
@@ -600,6 +661,7 @@ function resetReaderProgress() {
     return;
   }
 
+  readerSticky.classList.remove("rail-visible");
   readerSticky.classList.remove("progress-visible");
   readerSticky.style.setProperty("--reader-progress", "0%");
 }
