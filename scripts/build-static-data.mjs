@@ -32,6 +32,9 @@ const liveFeed = await aggregateSources();
 const feed = stabilizeFeedWithPreviousSnapshot(liveFeed, previousFeed);
 const nowIso = new Date().toISOString();
 const items = (feed.items || []).slice(0, FEED_LIMIT).map((item) => ({ ...item }));
+const forceRefreshSources = new Set(
+  (feed.sources || []).filter((source) => source?.mode === "rss-proxy").map((source) => source.name)
+);
 
 const articleTasks = [];
 for (let index = 0; index < items.length; index += 1) {
@@ -41,7 +44,7 @@ for (let index = 0; index < items.length; index += 1) {
   const articleId = existingEntry?.id || createArticleId(canonicalUrl);
   const articlePath = path.join(articlesDir, `${articleId}.json`);
   const hasArticleFile = await fileExists(articlePath);
-  const shouldRefresh = index < RECENT_REFRESH_COUNT;
+  const shouldRefresh = index < RECENT_REFRESH_COUNT || forceRefreshSources.has(item.source);
 
   item.articleId = articleId;
   if (!item.access) {
@@ -99,7 +102,7 @@ const feedPayload = {
   sourceCount: feed.sourceCount || (feed.sources || []).length,
   itemCount: items.length,
   totalItemCount: feed.itemCount || items.length,
-  items,
+  items: items.map(stripTransientFeedFields),
   sources: feed.sources || [],
 };
 
@@ -117,6 +120,7 @@ async function safeBuildArticlePayload(item) {
       sourceName: item.source || "",
       fallbackTitle: item.title || "",
       fallbackSummary: item.summary || "",
+      fallbackContentHtml: item.feedContentHtml || "",
     });
   } catch (error) {
     const access = item.access || inferAccessLevel(item.source, item.url);
@@ -134,6 +138,12 @@ async function safeBuildArticlePayload(item) {
       reason: message,
     };
   }
+}
+
+function stripTransientFeedFields(item) {
+  const output = { ...item };
+  delete output.feedContentHtml;
+  return output;
 }
 
 async function readJson(filePath, fallbackValue) {

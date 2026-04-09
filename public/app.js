@@ -285,7 +285,7 @@ function getVisibleItems() {
 function summarizeModes() {
   const modeCount = state.sources.reduce(
     (acc, source) => {
-      if (source.mode === "rss") {
+      if (source.mode === "rss" || source.mode === "rss-proxy") {
         acc.rss += 1;
       } else if (source.mode === "scrape") {
         acc.scrape += 1;

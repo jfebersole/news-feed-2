@@ -215,11 +215,24 @@ if (process.env.NEWS_FEED_DISABLE_SERVER !== "1") {
   });
 }
 
-async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", fallbackSummary = "" }) {
+async function buildArticlePayload({
+  url,
+  sourceName = "",
+  fallbackTitle = "",
+  fallbackSummary = "",
+  fallbackContentHtml = "",
+}) {
   const access = inferAccessLevel(sourceName, url);
   const cacheKey = canonicalizeUrl(url);
   const cached = cacheKey ? articleCache.get(cacheKey) : null;
   const now = Date.now();
+  const feedFallbackPayload = buildFullPayloadFromFeedFallback({
+    url,
+    sourceName,
+    fallbackTitle,
+    fallbackSummary,
+    fallbackContentHtml,
+  });
 
   if (cached && now - cached.fetchedAt < ARTICLE_CACHE_TTL_MS) {
     return { ...cached.payload, cached: true };
@@ -249,6 +262,13 @@ async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", f
     const tooThinForReader =
       extracted.wordCount < 70 && extracted.imageCount === 0 && extracted.linkCount < 2;
     if (extracted.isLikelyPaywalled || tooThinForReader) {
+      if (!extracted.isLikelyPaywalled && feedFallbackPayload) {
+        if (cacheKey) {
+          articleCache.set(cacheKey, { payload: feedFallbackPayload, fetchedAt: now });
+        }
+        return { ...feedFallbackPayload, cached: false };
+      }
+
       const payload = buildExcerptPayload({
         url,
         sourceName,
@@ -298,6 +318,13 @@ async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", f
         error instanceof Error ? `Unable to fetch full text: ${error.message}` : "Unable to fetch full text.",
       paywalled: false,
     });
+
+    if (feedFallbackPayload) {
+      if (cacheKey) {
+        articleCache.set(cacheKey, { payload: feedFallbackPayload, fetchedAt: now });
+      }
+      return { ...feedFallbackPayload, cached: false };
+    }
 
     return { ...payload, cached: false };
   }
@@ -442,6 +469,7 @@ function normalizeFeedItem(item, source) {
 
   const publishedAt = normalizeDate(item.isoDate || item.pubDate || item.published);
   const summary = cleanText(item.contentSnippet || item.summary || item.description || "");
+  const feedContentHtml = pickFeedContentHtml(item["content:encoded"], item.content, item.description);
 
   return {
     id: createItemId(link, source.name),
@@ -452,6 +480,7 @@ function normalizeFeedItem(item, source) {
     access: inferAccessLevel(source.name, link),
     summary,
     publishedAt,
+    feedContentHtml,
   };
 }
 
@@ -465,6 +494,7 @@ function normalizeProxyFeedItem(item, source) {
 
   const publishedAt = normalizeDate(item?.pubDate || item?.published || item?.isoDate || item?.date);
   const summary = cleanText(item?.description || item?.contentSnippet || item?.summary || item?.content || "");
+  const feedContentHtml = pickFeedContentHtml(item?.content, item?.description, item?.summary);
 
   return {
     id: createItemId(link, source.name),
@@ -475,6 +505,7 @@ function normalizeProxyFeedItem(item, source) {
     access: inferAccessLevel(source.name, link),
     summary,
     publishedAt,
+    feedContentHtml,
   };
 }
 
@@ -499,6 +530,59 @@ function buildRssProxyUrl(feedUrl) {
     url.searchParams.set("api_key", RSS2JSON_API_KEY);
   }
   return url.toString();
+}
+
+function pickFeedContentHtml(...candidates) {
+  const cleaned = candidates
+    .map((value) => (typeof value === "string" ? value.trim() : ""))
+    .filter(Boolean)
+    .sort((a, b) => b.length - a.length);
+
+  if (!cleaned.length) {
+    return "";
+  }
+
+  const best = cleaned[0];
+  return best.length >= 280 ? best : "";
+}
+
+function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fallbackSummary, fallbackContentHtml }) {
+  const rawHtml = typeof fallbackContentHtml === "string" ? fallbackContentHtml.trim() : "";
+  if (!rawHtml) {
+    return null;
+  }
+
+  const plainText = cleanText(rawHtml);
+  if (plainText.length < 140) {
+    return null;
+  }
+
+  const paragraphs = dedupeParagraphs(splitIntoParagraphs(plainText, 35)).slice(0, 240);
+  if (!paragraphs.length) {
+    return null;
+  }
+
+  const contentHtml = paragraphsToHtml(paragraphs);
+  const wordCount = countWords(plainText);
+  if (wordCount < 35) {
+    return null;
+  }
+
+  return {
+    mode: "full",
+    paywalled: false,
+    access: "open",
+    url,
+    source: sourceName,
+    title: fallbackTitle || "Article",
+    subtitle: fallbackSummary || null,
+    byline: null,
+    publishedAt: null,
+    contentHtml,
+    wordCount,
+    imageCount: 0,
+    linkCount: 0,
+  };
 }
 
 function flattenJsonLd(input) {
