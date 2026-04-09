@@ -695,6 +695,8 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     return null;
   }
 
+  const byline = inferFallbackByline(sourceName, rawHtml);
+
   return {
     mode: "full",
     paywalled: false,
@@ -703,13 +705,24 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     source: sourceName,
     title: fallbackTitle || "Article",
     subtitle: fallbackSummary || null,
-    byline: null,
+    byline,
     publishedAt: null,
     contentHtml: content.contentHtml,
     wordCount: content.wordCount,
     imageCount: content.imageCount,
     linkCount: content.linkCount,
   };
+}
+
+function inferFallbackByline(sourceName, rawHtml = "") {
+  const source = (sourceName || "").toLowerCase();
+  const text = cleanText(rawHtml);
+
+  if (/matt\s+levine/i.test(text) || source.includes("money stuff")) {
+    return "Matt Levine";
+  }
+
+  return null;
 }
 
 function flattenJsonLd(input) {
@@ -1252,10 +1265,15 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
     : "h2,h3,h4,p,ul,ol,figure,img,blockquote,pre,hr";
 
   const blocks = [];
+  const rootNode = container.get(0);
   container
     .find(blockSelector)
     .slice(0, 900)
     .each((_idx, element) => {
+      if (hasMatchingContentAncestor($, element, rootNode, blockSelector)) {
+        return;
+      }
+
       if (!shouldKeepContentBlock($, element, options)) {
         return;
       }
@@ -1287,6 +1305,28 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
     imageCount: $root.find("img").length,
     linkCount: $root.find("a[href]").length,
   };
+}
+
+function hasMatchingContentAncestor($, element, rootNode, selector) {
+  if (!element || !rootNode) {
+    return false;
+  }
+
+  let cursor = $(element).parent();
+  while (cursor.length) {
+    const node = cursor.get(0);
+    if (!node || node === rootNode) {
+      return false;
+    }
+
+    if (cursor.is(selector)) {
+      return true;
+    }
+
+    cursor = cursor.parent();
+  }
+
+  return false;
 }
 
 function shouldKeepContentBlock($, element, options = {}) {
