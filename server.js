@@ -552,19 +552,40 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     return null;
   }
 
-  const plainText = cleanText(rawHtml);
-  if (plainText.length < 140) {
-    return null;
+  const host = (safeHostname(url) || "").toLowerCase();
+  const source = (sourceName || "").toLowerCase();
+  const preferSubstackMedia =
+    host.includes("substack.com") || host.includes("worksinprogress.news") || source.includes("substack");
+
+  let content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
+  try {
+    const $snippet = cheerio.load(`<article id="feed-fallback-root">${rawHtml}</article>`);
+    const $root = $snippet("#feed-fallback-root");
+    content = collectContentBlocks($snippet, $root, url, { preferSubstackMedia });
+  } catch {
+    content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   }
 
-  const paragraphs = dedupeParagraphs(splitIntoParagraphs(plainText, 35)).slice(0, 240);
-  if (!paragraphs.length) {
-    return null;
+  if (!content.contentHtml) {
+    const plainText = cleanText(rawHtml);
+    if (plainText.length < 140) {
+      return null;
+    }
+
+    const paragraphs = dedupeParagraphs(splitIntoParagraphs(plainText, 35)).slice(0, 240);
+    if (!paragraphs.length) {
+      return null;
+    }
+
+    content = {
+      contentHtml: paragraphsToHtml(paragraphs),
+      wordCount: countWords(plainText),
+      imageCount: 0,
+      linkCount: 0,
+    };
   }
 
-  const contentHtml = paragraphsToHtml(paragraphs);
-  const wordCount = countWords(plainText);
-  if (wordCount < 35) {
+  if (content.wordCount < 35) {
     return null;
   }
 
@@ -578,10 +599,10 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     subtitle: fallbackSummary || null,
     byline: null,
     publishedAt: null,
-    contentHtml,
-    wordCount,
-    imageCount: 0,
-    linkCount: 0,
+    contentHtml: content.contentHtml,
+    wordCount: content.wordCount,
+    imageCount: content.imageCount,
+    linkCount: content.linkCount,
   };
 }
 
