@@ -185,7 +185,8 @@ app.get("/api/article", async (req, res) => {
   const rawUrl = typeof req.query.url === "string" ? req.query.url.trim() : "";
   const sourceName = typeof req.query.source === "string" ? req.query.source.trim() : "";
   const fallbackTitle = typeof req.query.title === "string" ? cleanText(req.query.title) : "";
-  const fallbackSummary = typeof req.query.summary === "string" ? cleanText(req.query.summary) : "";
+  const fallbackSummary =
+    typeof req.query.summary === "string" ? cleanFeedSummary(req.query.summary, sourceName) : "";
 
   const url = sanitizeUrl(rawUrl);
   if (!url) {
@@ -468,7 +469,10 @@ function normalizeFeedItem(item, source) {
   }
 
   const publishedAt = normalizeDate(item.isoDate || item.pubDate || item.published);
-  const summary = cleanText(item.contentSnippet || item.summary || item.description || "");
+  const summary = cleanFeedSummary(
+    item.summary || item.description || item["content:encoded"] || item.content || item.contentSnippet || "",
+    source
+  );
   const feedContentHtml = pickFeedContentHtml(item["content:encoded"], item.content, item.description);
 
   return {
@@ -493,7 +497,10 @@ function normalizeProxyFeedItem(item, source) {
   }
 
   const publishedAt = normalizeDate(item?.pubDate || item?.published || item?.isoDate || item?.date);
-  const summary = cleanText(item?.description || item?.contentSnippet || item?.summary || item?.content || "");
+  const summary = cleanFeedSummary(
+    item?.description || item?.content || item?.summary || item?.contentSnippet || "",
+    source
+  );
   const feedContentHtml = pickFeedContentHtml(item?.content, item?.description, item?.summary);
 
   return {
@@ -745,11 +752,97 @@ function cleanText(value) {
     return "";
   }
 
-  return value
-    .replace(/<[^>]*>/g, " ")
+  const normalized = value
+    .replace(/&nbsp;|&#160;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&quot;|&#34;/gi, '"')
+    .replace(/&#39;|&#x27;|&apos;/gi, "'")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">");
+
+  const stripped = normalized
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, " ")
+    .replace(/<noscript\b[^>]*>[\s\S]*?<\/noscript>/gi, " ")
+    .replace(/<svg\b[^>]*>[\s\S]*?<\/svg>/gi, " ")
+    .replace(/<[^>]*>/g, " ");
+
+  return stripped.replace(/\s+/g, " ").trim();
+}
+
+function cleanFeedSummary(value, source = null) {
+  const sourceName = (
+    typeof source === "string" ? source : source?.name || source?.source || ""
+  ).toLowerCase();
+  let text = cleanText(value);
+  if (!text) {
+    return "";
+  }
+
+  const viewInBrowserMarker = "view in browser -->";
+  const viewInBrowserIndex = text.toLowerCase().indexOf(viewInBrowserMarker);
+  if (viewInBrowserIndex >= 0 && viewInBrowserIndex <= 2_400) {
+    text = text.slice(viewInBrowserIndex + viewInBrowserMarker.length);
+  }
+
+  text = stripCssNoise(text);
+  text = stripFeedBoilerplate(text);
+
+  const maxLength = sourceName.includes("bloomberg") ? 2_800 : 1_800;
+  return truncateAtWordBoundary(text, maxLength);
+}
+
+function stripCssNoise(value) {
+  if (!value) {
+    return "";
+  }
+
+  const cssRulePattern =
+    /(?:^|\s)(?:@media[^{]{0,160}|[#.]?[a-z][a-z0-9:_-]*(?:\s+[#.]?[a-z][a-z0-9:_-]*)*)\s*\{[^{}]{1,900}\}/gi;
+  const head = value.slice(0, 2_400).replace(cssRulePattern, " ");
+  return `${head}${value.slice(2_400)}`.replace(/\s+/g, " ").trim();
+}
+
+function stripFeedBoilerplate(value) {
+  if (!value) {
+    return "";
+  }
+
+  let text = value;
+  const tailPatterns = [
+    /if you'd like to get [^.?!]*newsletter[^.?!]*\.[\s\S]*$/i,
+    /like getting this newsletter\?[\s\S]*$/i,
+    /you received this message because you are subscribed[\s\S]*$/i,
+    /want to sponsor this newsletter\?[\s\S]*$/i,
+    /kill the newsletter!\s*feed settings[\s\S]*$/i,
+    /unsubscribe\s*\|[\s\S]*$/i,
+  ];
+  tailPatterns.forEach((pattern) => {
+    text = text.replace(pattern, " ");
+  });
+
+  return text
+    .replace(/\bfollow us\b/gi, " ")
+    .replace(/\bget the newsletter\b/gi, " ")
+    .replace(/\bfeed settings\b/gi, " ")
+    .replace(/view in browser\s*-->/gi, " ")
     .replace(/\s+/g, " ")
-    .replace(/&nbsp;/g, " ")
     .trim();
+}
+
+function truncateAtWordBoundary(value, maxLength) {
+  if (!value || value.length <= maxLength) {
+    return value || "";
+  }
+
+  const clip = value.slice(0, maxLength);
+  const lastSpace = clip.lastIndexOf(" ");
+  if (lastSpace >= Math.floor(maxLength * 0.65)) {
+    return `${clip.slice(0, lastSpace).trim()}...`;
+  }
+
+  return `${clip.trim()}...`;
 }
 
 function safeHostname(value) {
@@ -793,6 +886,7 @@ function inferAccessLevel(sourceName, url) {
 }
 
 function buildExcerptPayload({ url, sourceName, title, summary, reason, paywalled }) {
+  const excerpt = cleanFeedSummary(summary || "", sourceName);
   return {
     mode: "excerpt",
     paywalled: Boolean(paywalled),
@@ -801,7 +895,7 @@ function buildExcerptPayload({ url, sourceName, title, summary, reason, paywalle
     source: sourceName,
     title: title || "Article",
     excerpt:
-      summary ||
+      excerpt ||
       "This article is best read on the original site. Open the original link to continue reading.",
     reason,
   };

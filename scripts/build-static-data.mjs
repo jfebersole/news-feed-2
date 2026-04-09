@@ -44,7 +44,8 @@ for (let index = 0; index < items.length; index += 1) {
   const articleId = existingEntry?.id || createArticleId(canonicalUrl);
   const articlePath = path.join(articlesDir, `${articleId}.json`);
   const hasArticleFile = await fileExists(articlePath);
-  const shouldRefresh = index < RECENT_REFRESH_COUNT || forceRefreshSources.has(item.source);
+  const shouldRefresh =
+    index < RECENT_REFRESH_COUNT || forceRefreshSources.has(item.source) || item.access === "paywalled";
 
   item.articleId = articleId;
   if (!item.access) {
