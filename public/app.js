@@ -24,7 +24,7 @@ const searchInput = document.querySelector("#searchInput");
 const refreshBtn = document.querySelector("#refreshBtn");
 const lastUpdated = document.querySelector("#lastUpdated");
 const homeLink = document.querySelector("#homeLink");
-const readerOverlay = document.querySelector("#readerOverlay");
+const readerPanel = document.querySelector("#readerPanel");
 const readerCloseBtn = document.querySelector("#readerCloseBtn");
 const readerExternalLink = document.querySelector("#readerExternalLink");
 const readerSource = document.querySelector("#readerSource");
@@ -34,6 +34,7 @@ const readerSubtitle = document.querySelector("#readerSubtitle");
 const readerMeta = document.querySelector("#readerMeta");
 const readerReason = document.querySelector("#readerReason");
 const readerBody = document.querySelector("#readerBody");
+const readerSticky = document.querySelector(".reader-sticky");
 let readerRequestId = 0;
 
 searchInput.addEventListener("input", (event) => {
@@ -67,6 +68,18 @@ window.addEventListener("keydown", (event) => {
   }
 });
 
+window.addEventListener(
+  "scroll",
+  () => {
+    updateReaderProgress();
+  },
+  { passive: true }
+);
+
+window.addEventListener("resize", () => {
+  updateReaderProgress();
+});
+
 homeLink.addEventListener("click", (event) => {
   event.preventDefault();
   state.selectedSource = "all";
@@ -78,11 +91,6 @@ homeLink.addEventListener("click", (event) => {
 });
 
 readerCloseBtn.addEventListener("click", closeReader);
-readerOverlay.addEventListener("click", (event) => {
-  if (event.target === readerOverlay) {
-    closeReader();
-  }
-});
 
 loadFeed().catch((error) => {
   console.error(error);
@@ -179,6 +187,12 @@ function createSourceChip(value, label, count) {
 }
 
 function renderCards() {
+  if (state.readerOpen) {
+    cardGrid.hidden = true;
+    return;
+  }
+
+  cardGrid.hidden = false;
   const items = getVisibleItems();
 
   if (state.loading) {
@@ -350,7 +364,13 @@ async function openReader(item) {
   state.readerError = "";
   state.readerItem = item;
   state.readerArticle = null;
+  resetReaderProgress();
+  cardGrid.hidden = true;
   renderReader();
+  if (readerPanel) {
+    readerPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+  updateReaderProgress();
 
   const requestId = ++readerRequestId;
 
@@ -394,29 +414,41 @@ function closeReader() {
   state.readerError = "";
   state.readerItem = null;
   state.readerArticle = null;
-  renderReader();
+  resetReaderProgress();
+  cardGrid.hidden = false;
+  render();
 }
 
 function renderReader() {
+  if (!readerPanel) {
+    return;
+  }
+
   if (!state.readerOpen || !state.readerItem) {
-    readerOverlay.classList.remove("open");
-    readerOverlay.setAttribute("aria-hidden", "true");
-    document.body.classList.remove("reader-open");
+    readerPanel.hidden = true;
+    resetReaderProgress();
     return;
   }
 
   const item = state.readerItem;
   const article = state.readerArticle;
 
-  readerOverlay.classList.add("open");
-  readerOverlay.setAttribute("aria-hidden", "false");
-  document.body.classList.add("reader-open");
+  readerPanel.hidden = false;
 
-  readerExternalLink.href = item.url;
+  if (item.url) {
+    readerExternalLink.href = item.url;
+    readerExternalLink.hidden = false;
+  } else {
+    readerExternalLink.href = "#";
+    readerExternalLink.hidden = true;
+  }
+
   readerSource.textContent = item.source || "";
+  readerSource.hidden = !readerSource.textContent.trim();
 
   const access = article?.access || item.access || inferItemAccess(item);
   readerAccess.textContent = access === "paywalled" ? "Excerpt" : "Full Text";
+  readerAccess.hidden = !readerAccess.textContent.trim();
 
   readerTitle.textContent = article?.title || item.title || "Article";
   readerSubtitle.textContent = "";
@@ -432,16 +464,19 @@ function renderReader() {
 
   if (state.readerLoading) {
     readerBody.innerHTML = "<p>Loading article...</p>";
+    updateReaderProgress();
     return;
   }
 
   if (state.readerError) {
     readerBody.innerHTML = `<p>${escapeHtml(state.readerError)}</p>`;
+    updateReaderProgress();
     return;
   }
 
   if (!article) {
     readerBody.innerHTML = "<p>Article unavailable. Open the original link.</p>";
+    updateReaderProgress();
     return;
   }
 
@@ -453,11 +488,13 @@ function renderReader() {
 
     const excerpt = article.excerpt || item.summary || "Open the original article to keep reading.";
     readerBody.innerHTML = `<p>${escapeHtml(excerpt)}</p>`;
+    updateReaderProgress();
     return;
   }
 
   readerBody.innerHTML =
     article.contentHtml || "<p>No extracted content was available for this story.</p>";
+  updateReaderProgress();
 }
 
 function buildReaderMeta(article, item) {
@@ -525,4 +562,57 @@ function buildFallbackArticle(item, reason = "") {
     excerpt: item.summary || "Open the original article to continue reading.",
     reason: reason || "Reader extract unavailable for this story.",
   };
+}
+
+function updateReaderProgress() {
+  if (!readerSticky || !readerPanel) {
+    return;
+  }
+
+  if (!state.readerOpen || readerPanel.hidden) {
+    resetReaderProgress();
+    return;
+  }
+
+  const stickyRect = readerSticky.getBoundingClientRect();
+  const stickyLocked = stickyRect.top <= 0.5;
+  if (!stickyLocked) {
+    readerSticky.classList.remove("progress-visible");
+    return;
+  }
+  readerSticky.classList.add("progress-visible");
+
+  const rect = readerPanel.getBoundingClientRect();
+  const viewportHeight = window.innerHeight || document.documentElement.clientHeight || 1;
+
+  if (rect.height <= viewportHeight) {
+    setReaderProgress(rect.top <= 0 ? 1 : 0);
+    return;
+  }
+
+  const totalDistance = Math.max(1, rect.height - viewportHeight);
+  const travelled = clamp(-rect.top, 0, totalDistance);
+  setReaderProgress(travelled / totalDistance);
+}
+
+function resetReaderProgress() {
+  if (!readerSticky) {
+    return;
+  }
+
+  readerSticky.classList.remove("progress-visible");
+  readerSticky.style.setProperty("--reader-progress", "0%");
+}
+
+function setReaderProgress(value) {
+  if (!readerSticky) {
+    return;
+  }
+
+  const progress = clamp(value, 0, 1);
+  readerSticky.style.setProperty("--reader-progress", `${(progress * 100).toFixed(2)}%`);
+}
+
+function clamp(value, min, max) {
+  return Math.min(max, Math.max(min, value));
 }

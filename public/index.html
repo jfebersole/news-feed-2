@@ -37,6 +37,34 @@
         <section class="story-panel">
           <div id="metaStrip" class="meta-strip"></div>
           <section id="cardGrid" class="card-grid" aria-live="polite"></section>
+          <article id="readerPanel" class="reader-panel" aria-live="polite" hidden>
+            <div class="reader-sticky" aria-hidden="true"></div>
+            <button id="readerCloseBtn" class="reader-close" type="button" aria-label="Back to feed">
+              Back to Feed
+            </button>
+            <div class="reader-content">
+              <h2 id="readerTitle" class="reader-title"></h2>
+              <p id="readerSubtitle" class="reader-subtitle"></p>
+              <div class="reader-byline-row">
+                <p id="readerMeta" class="reader-meta"></p>
+                <div class="reader-byline-actions">
+                  <span id="readerSource" class="reader-source"></span>
+                  <span id="readerAccess" class="reader-access"></span>
+                  <a
+                    id="readerExternalLink"
+                    class="reader-external"
+                    href="#"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Original
+                  </a>
+                </div>
+              </div>
+              <p id="readerReason" class="reader-reason"></p>
+              <div id="readerBody" class="reader-body"></div>
+            </div>
+          </article>
         </section>
 
         <aside class="control-rail">
@@ -48,35 +76,6 @@
         </aside>
       </section>
     </main>
-
-    <section id="readerOverlay" class="reader-overlay" aria-hidden="true">
-      <article class="reader-shell" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
-        <header class="reader-header">
-          <button id="readerCloseBtn" class="reader-close" type="button" aria-label="Close reader">
-            Close
-          </button>
-          <a
-            id="readerExternalLink"
-            class="reader-external"
-            href="#"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Open Original
-          </a>
-        </header>
-
-        <p class="reader-source-row">
-          <span id="readerSource" class="reader-source"></span>
-          <span id="readerAccess" class="reader-access"></span>
-        </p>
-        <h2 id="readerTitle" class="reader-title"></h2>
-        <p id="readerSubtitle" class="reader-subtitle"></p>
-        <p id="readerMeta" class="reader-meta"></p>
-        <p id="readerReason" class="reader-reason"></p>
-        <div id="readerBody" class="reader-body"></div>
-      </article>
-    </section>
 
     <template id="cardTemplate">
       <article class="feed-card">

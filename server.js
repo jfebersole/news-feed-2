@@ -13,7 +13,8 @@ const USER_AGENT =
 const parser = new Parser({
   timeout: 15_000,
   headers: {
-    "user-agent": USER_AGENT,
+    "User-Agent": USER_AGENT,
+    Accept: "application/rss+xml,application/xml;q=0.9,text/xml;q=0.9,*/*;q=0.8",
   },
   customFields: {
     item: ["summary", "description", "content:encoded"],
@@ -113,6 +114,7 @@ let cache = {
   fetchedAt: 0,
 };
 const articleCache = new Map();
+let substackSourceQueue = Promise.resolve();
 
 app.use(express.static("public"));
 
@@ -286,7 +288,7 @@ async function buildArticlePayload({ url, sourceName = "", fallbackTitle = "", f
 async function aggregateSources() {
   const sourceResults = await mapWithConcurrency(SOURCES, SOURCE_FETCH_CONCURRENCY, async (source) => {
     try {
-      return await pullSource(source);
+      return await pullSourceWithPlatformGuards(source);
     } catch (error) {
       return {
         source,
@@ -321,7 +323,38 @@ async function aggregateSources() {
   };
 }
 
+async function pullSourceWithPlatformGuards(source) {
+  if (!isLikelySubstackSource(source)) {
+    return pullSource(source);
+  }
+
+  return enqueueSubstackSourcePull(() => pullSource(source));
+}
+
+async function enqueueSubstackSourcePull(task) {
+  const previous = substackSourceQueue;
+  let releaseQueue;
+  substackSourceQueue = new Promise((resolve) => {
+    releaseQueue = resolve;
+  });
+
+  await previous;
+  try {
+    return await task();
+  } finally {
+    releaseQueue();
+  }
+}
+
 async function pullSource(source) {
+  const isSubstackSource = isLikelySubstackSource(source);
+  if (isSubstackSource) {
+    const archiveFirst = await tryPullSubstackArchiveResult(source);
+    if (archiveFirst) {
+      return archiveFirst;
+    }
+  }
+
   let sourceHtml = null;
   const candidates = new Set();
 
@@ -329,14 +362,18 @@ async function pullSource(source) {
     candidates.add(source.feedUrl);
   }
 
-  try {
-    sourceHtml = await withRetry(() => fetchText(source.url), { attempts: 2, baseDelayMs: 300 });
-    discoverFeedLinks(source.url, sourceHtml).forEach((link) => candidates.add(link));
-  } catch {
-    sourceHtml = null;
-  }
+  if (!isSubstackSource) {
+    try {
+      sourceHtml = await withRetry(() => fetchText(source.url), { attempts: 2, baseDelayMs: 300 });
+      discoverFeedLinks(source.url, sourceHtml).forEach((link) => candidates.add(link));
+    } catch {
+      sourceHtml = null;
+    }
 
-  heuristicFeedLinks(source.url).forEach((link) => candidates.add(link));
+    heuristicFeedLinks(source.url).forEach((link) => candidates.add(link));
+  } else if (!source.feedUrl) {
+    heuristicFeedLinks(source.url).forEach((link) => candidates.add(link));
+  }
 
   for (const candidate of candidates) {
     try {
@@ -359,19 +396,10 @@ async function pullSource(source) {
     }
   }
 
-  if (isLikelySubstackSource(source)) {
-    try {
-      const archiveItems = await pullSubstackArchive(source);
-      if (archiveItems.length) {
-        return {
-          source,
-          mode: "substack-archive",
-          feedUrl: buildSubstackArchiveUrl(source),
-          items: archiveItems,
-        };
-      }
-    } catch {
-      // Keep trying scrape fallback.
+  if (isSubstackSource) {
+    const archiveFallback = await tryPullSubstackArchiveResult(source);
+    if (archiveFallback) {
+      return archiveFallback;
     }
   }
 
@@ -401,6 +429,28 @@ async function pullSource(source) {
     items: [],
     error: "No parsable RSS feed or article links found.",
   };
+}
+
+async function tryPullSubstackArchiveResult(source) {
+  if (!isLikelySubstackSource(source)) {
+    return null;
+  }
+
+  try {
+    const archiveItems = await pullSubstackArchive(source);
+    if (!archiveItems.length) {
+      return null;
+    }
+
+    return {
+      source,
+      mode: "substack-archive",
+      feedUrl: buildSubstackArchiveUrl(source),
+      items: archiveItems,
+    };
+  } catch {
+    return null;
+  }
 }
 
 function isLikelySubstackSource(source) {
