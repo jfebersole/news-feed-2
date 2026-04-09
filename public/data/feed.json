@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-09T03:53:47.178Z",
-  "fetchedAt": "2026-04-09T03:53:47.175Z",
+  "generatedAt": "2026-04-09T04:31:33.653Z",
+  "fetchedAt": "2026-04-09T04:31:33.651Z",
   "sourceCount": 18,
   "itemCount": 220,
-  "totalItemCount": 229,
+  "totalItemCount": 233,
   "items": [
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-anthropic-believes-its-latest",
@@ -17,17 +17,6 @@
       "articleId": "4f9cdc3cc2d8820b"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
-      "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
-      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "A look at a conflict without end and a constitution under pressure.",
-      "publishedAt": "2026-04-08T22:03:30.000Z",
-      "articleId": "f2b37f9291a3481f"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/build-baby-build",
       "title": "Build, baby, build",
       "url": "https://www.slowboring.com/p/build-baby-build",
@@ -37,17 +26,6 @@
       "summary": "The YIMBYs were right.",
       "publishedAt": "2026-04-08T22:01:24.000Z",
       "articleId": "3858b38416ebdfee"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
-      "title": "The Idealism of the Space Program Isn’t Enough",
-      "url": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "We’re racing a civilizational clock.",
-      "publishedAt": "2026-04-08T18:57:41.000Z",
-      "articleId": "a4f3ddfeef8b94ae"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-4285-zagreb-update",
@@ -160,6 +138,17 @@
       "articleId": "b5952097f333eeec"
     },
     {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7175652/2026/04/08/world-cup-tickets-fans-stadium-seating-map/",
+      "title": "World Cup Ticket Scandal",
+      "url": "https://www.nytimes.com/athletic/7175652/2026/04/08/world-cup-tickets-fans-stadium-seating-map/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-04-08T00:00:00.000Z",
+      "articleId": "52bbf9f525ed01cb"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/tuesday-discussion-post-693",
       "title": "Tuesday discussion post",
       "url": "https://www.slowboring.com/p/tuesday-discussion-post-693",
@@ -213,17 +202,6 @@
       "summary": "Here is his home page: Ludwig Straub is a professor of economics at Harvard University. His research areas are macroeconomics and international economics. Among his topics of interest are the recent decline in the natural rate of interest, rising levels of private and public debt, and the transmission of monetary and fiscal policy. Ludwig also […] The post Ludwig Straub wins the Clark medal appeared first on Marginal REVOLUTION.",
       "publishedAt": "2026-04-07T17:52:34.000Z",
       "articleId": "26dccb1a25161d7c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7178469/2026/04/07/john-harbaugh-dexter-lawrence-trade-demand-new-york-giants/",
-      "title": "John Harbaugh on Dexter Lawrence's trade demand: 'I believe Dexter wants to be here'",
-      "url": "https://www.nytimes.com/athletic/7178469/2026/04/07/john-harbaugh-dexter-lawrence-trade-demand-new-york-giants/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The star defensive tackle made his trade demand public on Monday.",
-      "publishedAt": "2026-04-07T17:36:21.000Z",
-      "articleId": "b2b5cdf7fcf5de28"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-drama-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-drama-no-spoilers",
@@ -303,37 +281,15 @@
       "articleId": "692f00eb65aba0a2"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
-      "title": "The Light That Changed My Life",
-      "url": "https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
+      "title": "The Idealism of the Space Program Isn’t Enough",
+      "url": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "Just one candle in the darkness.",
-      "publishedAt": "2026-04-07T04:50:06.000Z",
-      "articleId": "754d9b0bca7d7536"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/31/opinion/eza-klein-podcast-michael-pollan.html",
-      "title": "The More You Study Consciousness, the Weirder It Gets",
-      "url": "https://www.nytimes.com/2026/03/31/opinion/eza-klein-podcast-michael-pollan.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Michael Pollan, a science writer, spent five years trying to understand how consciousness worked.",
-      "publishedAt": "2026-04-06T23:55:56.000Z",
-      "articleId": "60d14c1f67c380c9"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/04/03/opinion/ezra-klein-podcast-suzanne-maloney.html",
-      "title": "Is Iran Winning?",
-      "url": "https://www.nytimes.com/2026/04/03/opinion/ezra-klein-podcast-suzanne-maloney.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The Iran expert Suzanne Maloney explains why Iran believes it has the upper hand.",
-      "publishedAt": "2026-04-06T23:14:51.000Z",
-      "articleId": "d1b9d6e592267390"
+      "summary": "",
+      "publishedAt": "2026-04-07T00:00:00.000Z",
+      "articleId": "a4f3ddfeef8b94ae"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-midterms-in-motion",
@@ -367,17 +323,6 @@
       "summary": "Wow Nepal, 10728 Fairfax Blvd, Fairfax, VA, 703-880-9898, open 11-9 every day. The “Wow” here is exactly right, as it is wonderful to have a new great restaurant around. Most Nepalese restaurants in America are variants on north Indian food with batches of half-hearted momos thrown in. This place is the real thing. The goat […] The post Wow Nepal appeared first on Marginal REVOLUTION.",
       "publishedAt": "2026-04-06T18:30:48.000Z",
       "articleId": "6c2a93136ebab074"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
-      "title": "Giants All-Pro DT Dexter Lawrence requests trade: Source",
-      "url": "https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Lawrence clearly wants a salary that reflects his importance to the team, especially with inferior players around the league earning more.",
-      "publishedAt": "2026-04-06T17:12:36.000Z",
-      "articleId": "06eab783afe92a64"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-554.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-554",
@@ -468,6 +413,17 @@
       "articleId": "36a69f77f75a3626"
     },
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
+      "title": "The Light That Changed My Life",
+      "url": "https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-04-05T00:00:00.000Z",
+      "articleId": "754d9b0bca7d7536"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/saturday-discussion-post-21f",
       "title": "Saturday discussion post",
       "url": "https://www.slowboring.com/p/saturday-discussion-post-21f",
@@ -496,31 +452,20 @@
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "Loyal losers don’t go very far with this president.",
-      "publishedAt": "2026-04-04T11:00:18.000Z",
+      "summary": "",
+      "publishedAt": "2026-04-04T00:00:00.000Z",
       "articleId": "5cb2db5a8f20b3c1"
     },
     {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010821382/what-if-iran-wins-this-war.html",
-      "title": "What if Iran Wins This War?",
-      "url": "https://www.nytimes.com/video/opinion/100000010821382/what-if-iran-wins-this-war.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
+      "title": "Trump’s Relentless, ‘Utterly Incoherent’ Battles",
+      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-wars-iran-birthright-citizenship.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
-      "summary": "If Iran wins this war, victory “will be tremendously emboldening for a regime that has been very dangerous even at its weaker moments,” Suzanne Maloney, the director of foreign policy at the Brookings Institution, argues on “The Ezra Klein Show.”",
-      "publishedAt": "2026-04-03T23:55:35.000Z",
-      "articleId": "f69cbd78d7b0bca8"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010812971/what-if-trump-just-walked-away-from-iran.html",
-      "title": "What if Trump Just Walked Away From Iran?",
-      "url": "https://www.nytimes.com/video/opinion/100000010812971/what-if-trump-just-walked-away-from-iran.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Iran will become “the toll collector at the gulf” if Trump preemptively walks away from the conflict in Iran, Suzanne Maloney, the director of foreign policy at the Brookings Institution, argues on “The Ezra Klein Show.”",
-      "publishedAt": "2026-04-03T23:53:10.000Z",
-      "articleId": "625b63036b38c536"
+      "summary": "",
+      "publishedAt": "2026-04-04T00:00:00.000Z",
+      "articleId": "f2b37f9291a3481f"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/11-jobs-that-probably-wont-be-taken",
@@ -532,17 +477,6 @@
       "summary": "Who will survive the A.I. apocalypse?",
       "publishedAt": "2026-04-03T22:00:30.000Z",
       "articleId": "517991f215135c81"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/03/opinion/birthright-supreme-court-conversation-therapy.html",
-      "title": "Is It Legal to Bully the Supreme Court?",
-      "url": "https://www.nytimes.com/2026/04/03/opinion/birthright-supreme-court-conversation-therapy.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "It may be a new world, but “it’s the same Constitution.”",
-      "publishedAt": "2026-04-03T21:16:05.000Z",
-      "articleId": "23a9d33168209e02"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-acceleration-and-ai/",
@@ -565,17 +499,6 @@
       "summary": "Some brief thoughts on the (near) future of work.",
       "publishedAt": "2026-04-03T16:50:28.000Z",
       "articleId": "4d23659b59cbc366"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010812935/why-iran-believes-it-has-the-upper-hand.html",
-      "title": "Why Iran Believes It Has the Upper Hand",
-      "url": "https://www.nytimes.com/video/opinion/100000010812935/why-iran-believes-it-has-the-upper-hand.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The Iran expert Suzanne Maloney explains how Iran views the war, and why the United States is losing.",
-      "publishedAt": "2026-04-03T15:38:53.000Z",
-      "articleId": "db5778be18bb7e75"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/inflatable-space-stations-out-loud",
@@ -620,6 +543,28 @@
       "summary": "...",
       "publishedAt": "2026-04-03T05:21:46.000Z",
       "articleId": "5783d548d502337b"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/04/03/opinion/ezra-klein-podcast-suzanne-maloney.html",
+      "title": "Is Iran Winning?",
+      "url": "https://www.nytimes.com/2026/04/03/opinion/ezra-klein-podcast-suzanne-maloney.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-04-03T00:00:00.000Z",
+      "articleId": "d1b9d6e592267390"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/03/opinion/birthright-supreme-court-conversation-therapy.html",
+      "title": "Trump Went to the Supreme Court to Make It About Him",
+      "url": "https://www.nytimes.com/2026/04/03/opinion/birthright-supreme-court-conversation-therapy.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-04-03T00:00:00.000Z",
+      "articleId": "23a9d33168209e02"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-6eb",
@@ -743,17 +688,6 @@
       "articleId": "e7cfe201c40a31e8"
     },
     {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
-      "title": "Can Christianity Be Restored to the Center of American Life?",
-      "url": "https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Why none of America’s faiths have taken mainline Protestantism’s place.",
-      "publishedAt": "2026-03-31T23:50:18.000Z",
-      "articleId": "d553e866c5963044"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
       "title": "Claude Dispatch and the Power of Interfaces",
       "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
@@ -774,39 +708,6 @@
       "summary": "How much A.I. is the right amount of A.I?",
       "publishedAt": "2026-03-31T22:01:36.000Z",
       "articleId": "3cf8acee55ba85e0"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010802886/michael-pollans-journey-to-the-borderlands-of-consciousness.html",
-      "title": "Michael Pollan’s Journey to the Borderlands of Consciousness",
-      "url": "https://www.nytimes.com/video/opinion/100000010802886/michael-pollans-journey-to-the-borderlands-of-consciousness.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Pollan, a science writer, spent five years trying to understand how consciousness worked. The more he learned, the weirder things got.",
-      "publishedAt": "2026-03-31T21:02:14.000Z",
-      "articleId": "eed75e88d9d7a1f8"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
-      "title": "I Saw Something New in San Francisco",
-      "url": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Marshall McLuhan was right about Claude, too.",
-      "publishedAt": "2026-03-31T20:43:33.000Z",
-      "articleId": "55bce0563a83f7c9"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/video/opinion/100000010802908/can-you-anesthetize-a-plant.html",
-      "title": "Can You Anesthetize a Plant?",
-      "url": "https://www.nytimes.com/video/opinion/100000010802908/can-you-anesthetize-a-plant.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "If it’s possible to put plants to sleep using anesthesia, what does that say about whether they’re conscious? Can they feel pain? The author Michael Pollan explores this “spooky and interesting” discovery on “The Ezra Klein Show.”",
-      "publishedAt": "2026-03-31T19:48:33.000Z",
-      "articleId": "5c5288ca2922a094"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-cruise-missiles-of-medicine",
@@ -853,15 +754,26 @@
       "articleId": "28d1427034e80156"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7159325/2026/03/30/new-york-giants-john-harbaugh-joe-schoen-league-meetings/",
-      "title": "Talk of a potential Odell Beckham Jr.-Giants reunion at the league meetings",
-      "url": "https://www.nytimes.com/athletic/7159325/2026/03/30/new-york-giants-john-harbaugh-joe-schoen-league-meetings/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
+      "title": "Can Christianity Be Restored to the Center of American Life?",
+      "url": "https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "At the league meetings on Monday, John Harbaugh and Joe Schoen addressed the potential for additions across the roster.",
-      "publishedAt": "2026-03-30T23:49:23.000Z",
-      "articleId": "1b124354af83ddc3"
+      "summary": "",
+      "publishedAt": "2026-03-31T00:00:00.000Z",
+      "articleId": "d553e866c5963044"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/31/opinion/eza-klein-podcast-michael-pollan.html",
+      "title": "The More You Study Consciousness, the Weirder It Gets",
+      "url": "https://www.nytimes.com/2026/03/31/opinion/eza-klein-podcast-michael-pollan.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-31T00:00:00.000Z",
+      "articleId": "60d14c1f67c380c9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/testing-trumps-influence",
@@ -873,28 +785,6 @@
       "summary": "As Democrats gain momentum across the country, Republicans rely on redistricting, voting laws, and court rulings to reshape the battlefield.",
       "publishedAt": "2026-03-30T22:01:04.000Z",
       "articleId": "ff61dca744b25c2b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
-      "title": "Don’t Cheer Too Hard for the Facebook Verdicts",
-      "url": "https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Courts aren’t always the right answer to our digital problems.",
-      "publishedAt": "2026-03-30T18:15:02.000Z",
-      "articleId": "b8794aa7e8ea8597"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/video/opinion/100000010801995/general-mcchrystal-on-the-myths-misleading-trump-in-iran.html",
-      "title": "General McChrystal on the Myths Misleading Trump in Iran",
-      "url": "https://www.nytimes.com/video/opinion/100000010801995/general-mcchrystal-on-the-myths-misleading-trump-in-iran.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The president may have been seduced by the idea of an easy victory, warns the former Iraq and Afghanistan war commander on “The Opinions.”",
-      "publishedAt": "2026-03-30T12:26:49.000Z",
-      "articleId": "1cd44609914cd417"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/make-townhouses-great-again",
@@ -952,15 +842,26 @@
       "articleId": "1bdd4178422f1c25"
     },
     {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
-      "title": "Is Religion Reviving or Declining? Both.",
-      "url": "https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
+      "title": "I Saw Something New in San Francisco",
+      "url": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
-      "summary": "On the debate over the future of religious faith, and if it is expanding or not, in America.",
-      "publishedAt": "2026-03-28T13:33:02.000Z",
-      "articleId": "207746daef800da5"
+      "summary": "",
+      "publishedAt": "2026-03-29T00:00:00.000Z",
+      "articleId": "55bce0563a83f7c9"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
+      "title": "Don’t Cheer Too Hard for the Facebook Verdicts",
+      "url": "https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-29T00:00:00.000Z",
+      "articleId": "b8794aa7e8ea8597"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-032826",
@@ -983,6 +884,17 @@
       "summary": "A timely repost, with some needed clarifications.",
       "publishedAt": "2026-03-28T08:50:55.000Z",
       "articleId": "72fa1a3a4df82acb"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
+      "title": "Is There a Religious Revival in America?",
+      "url": "https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-28T00:00:00.000Z",
+      "articleId": "207746daef800da5"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/so-long-to-sora/",
@@ -1029,17 +941,6 @@
       "articleId": "2335bb0d9459a7e5"
     },
     {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
-      "title": "Will Iran Break Trumpism?",
-      "url": "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?",
-      "publishedAt": "2026-03-27T12:24:44.000Z",
-      "articleId": "0f679f49e4691f00"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/the-age-of-the-amplifier",
       "title": "The Age of the Amplifier",
       "url": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
@@ -1049,17 +950,6 @@
       "summary": "As we’ve noted more than a few times before, for most of the 20th century AT&T’s Bell Labs was the premier industrial research lab in the US.",
       "publishedAt": "2026-03-27T12:00:44.000Z",
       "articleId": "f42a8ee581a6b020"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
-      "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
-      "url": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The Anthropic co-founder Jack Clark tells Ezra Klein what he sees coming in the new era of A.I. agents.",
-      "publishedAt": "2026-03-27T11:00:09.000Z",
-      "articleId": "ab701ebc47e19e68"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/book-review-the-white-king-of-la",
@@ -1073,6 +963,28 @@
       "articleId": "4a191d576041a76c"
     },
     {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+      "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
+      "url": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-27T00:00:00.000Z",
+      "articleId": "ab701ebc47e19e68"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
+      "title": "Will Iran Break Trumpism?",
+      "url": "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-27T00:00:00.000Z",
+      "articleId": "0f679f49e4691f00"
+    },
+    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/hidden-open-thread-4265",
       "title": "Hidden Open Thread 426.5",
       "url": "https://www.astralcodexten.com/p/hidden-open-thread-4265",
@@ -1082,28 +994,6 @@
       "summary": "...",
       "publishedAt": "2026-03-26T23:06:51.000Z",
       "articleId": "2dbeb72b4eec66a6"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html",
-      "title": "How Can America Be So Miserable When It’s So Rich?",
-      "url": "https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The just resentments of a shrinking middle class.",
-      "publishedAt": "2026-03-26T19:41:16.000Z",
-      "articleId": "fdf20f05ac3864b6"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
-      "title": "‘Everything After This Will Be Harder’: Gen. Stanley McChrystal on Iran",
-      "url": "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "David French talks with the retired general about the “great seduction” America fell for in Iran.",
-      "publishedAt": "2026-03-26T18:26:55.000Z",
-      "articleId": "14b08222bfef357e"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-live-sports-saved-television",
@@ -1150,6 +1040,17 @@
       "articleId": "6c4e2dc4f0b26022"
     },
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html",
+      "title": "How Can America Be So Miserable When It’s So Rich?",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "articleId": "fdf20f05ac3864b6"
+    },
+    {
       "id": "Understanding AI:https://www.understandingai.org/p/openai-is-shutting-down-sora-its",
       "title": "OpenAI is shutting down Sora, its AI video app",
       "url": "https://www.understandingai.org/p/openai-is-shutting-down-sora-its",
@@ -1194,28 +1095,6 @@
       "articleId": "98fbdb163ce95228"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7145621/2026/03/25/new-york-giants-free-agency-draft/",
-      "title": "What we learned about the New York Giants' roster-building philosophy",
-      "url": "https://www.nytimes.com/athletic/7145621/2026/03/25/new-york-giants-free-agency-draft/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A look back on the Giants' first free-agency wave under John Harbaugh.",
-      "publishedAt": "2026-03-25T09:30:09.000Z",
-      "articleId": "7432500eaf93f743"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
-      "title": "Iran’s ‘Nuclear’ Option",
-      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "How U.S. strategy encouraged mutually assured destruction.",
-      "publishedAt": "2026-03-24T21:20:51.000Z",
-      "articleId": "e38a8df2ce566a3c"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/there-isnt-always-a-long-arc-of-morality",
       "title": "There isn't always a \"long arc\" of morality",
       "url": "https://www.noahpinion.blog/p/there-isnt-always-a-long-arc-of-morality",
@@ -1225,6 +1104,28 @@
       "summary": "Progressives should beware the idea that history will deliver them inevitable victories.",
       "publishedAt": "2026-03-24T04:07:25.000Z",
       "articleId": "87fdfb6110bb4ef4"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
+      "title": "Iran’s ‘Nuclear’ Option",
+      "url": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "articleId": "e38a8df2ce566a3c"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/24/opinion/ezra-klein-podcast-jason-bordoff.html",
+      "title": "What Happens if 20 Percent of the World’s Oil Disappears?",
+      "url": "https://www.nytimes.com/2026/03/24/opinion/ezra-klein-podcast-jason-bordoff.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "articleId": "47eb70151d80ac60"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-thread-426",
@@ -1238,6 +1139,17 @@
       "articleId": "8d051a9a6cc5bb49"
     },
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
+      "title": "‘Everything After This Will Be Harder’: Gen. Stanley McChrystal on Iran",
+      "url": "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-23T00:00:00.000Z",
+      "articleId": "14b08222bfef357e"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/a-conversation-with-claude",
       "title": "A conversation with Claude",
       "url": "https://www.noahpinion.blog/p/a-conversation-with-claude",
@@ -1247,17 +1159,6 @@
       "summary": "In which a robot and I have a fun dorm-room chat about the future of science.",
       "publishedAt": "2026-03-22T14:57:49.000Z",
       "articleId": "110ca39f86b51d7e"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/21/opinion/trump-iran-save-act-reckless.html",
-      "title": "Trump’s Recklessness Will ‘Haunt Us for a Generation’",
-      "url": "https://www.nytimes.com/2026/03/21/opinion/trump-iran-save-act-reckless.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Three Opinion writers on Iran, the SAVE Act and the president’s folly.",
-      "publishedAt": "2026-03-21T12:14:13.000Z",
-      "articleId": "695b27f043f84586"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-032126",
@@ -1282,6 +1183,17 @@
       "articleId": "65e362bbc7f1ac7e"
     },
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/03/21/opinion/trump-iran-save-act-reckless.html",
+      "title": "Trump’s Recklessness Will ‘Haunt Us for a Generation’",
+      "url": "https://www.nytimes.com/2026/03/21/opinion/trump-iran-save-act-reckless.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-21T00:00:00.000Z",
+      "articleId": "695b27f043f84586"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/sunscreen-for-the-planet-by-daniele",
       "title": "Sunscreen for the planet, Out Loud",
       "url": "https://www.worksinprogress.news/p/sunscreen-for-the-planet-by-daniele",
@@ -1293,6 +1205,17 @@
       "articleId": "88f76c80c55804da"
     },
     {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/20/opinion/ezra-klein-podcast-naomi-klein.html",
+      "title": "We’re All Living in the ‘Mirror World’ Now",
+      "url": "https://www.nytimes.com/2026/03/20/opinion/ezra-klein-podcast-naomi-klein.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-20T00:00:00.000Z",
+      "articleId": "4ebff72011e78a06"
+    },
+    {
       "id": "Understanding AI:https://www.understandingai.org/p/how-to-think-about-the-ai-company",
       "title": "How to think about AI company finances",
       "url": "https://www.understandingai.org/p/how-to-think-about-the-ai-company",
@@ -1302,17 +1225,6 @@
       "summary": "OpenAI and Anthropic are using the standard tech startup playbook.",
       "publishedAt": "2026-03-19T20:49:14.000Z",
       "articleId": "912f06e4070969a0"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html",
-      "title": "Can Military Excellence Save Us From Trump’s Incompetence?",
-      "url": "https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "It should never have come to this.",
-      "publishedAt": "2026-03-19T17:50:19.000Z",
-      "articleId": "16be05c78d8424e5"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-much-computing-power-is-in-a",
@@ -1348,6 +1260,17 @@
       "articleId": "82671f86bb42b24a"
     },
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html",
+      "title": "Trump Has Only Himself to Blame",
+      "url": "https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-19T00:00:00.000Z",
+      "articleId": "16be05c78d8424e5"
+    },
+    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/hidden-open-thread-4255",
       "title": "Hidden Open Thread 425.5",
       "url": "https://www.astralcodexten.com/p/hidden-open-thread-4255",
@@ -1359,17 +1282,6 @@
       "articleId": "b03c1d0fe4f6d55f"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7126483/2026/03/18/new-york-giants-mock-draft-post-free-agency/",
-      "title": "Giants mock draft: A needs-based projection as free agency winds down",
-      "url": "https://www.nytimes.com/athletic/7126483/2026/03/18/new-york-giants-mock-draft-post-free-agency/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A look at how John Harbaugh's plans could play out next month.",
-      "publishedAt": "2026-03-18T09:30:42.000Z",
-      "articleId": "40130f3f81cb556c"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/support-your-local-collaborator",
       "title": "Support Your Local Collaborator",
       "url": "https://www.astralcodexten.com/p/support-your-local-collaborator",
@@ -1379,17 +1291,6 @@
       "summary": "...",
       "publishedAt": "2026-03-18T02:47:37.000Z",
       "articleId": "e7a41fce89ac7766"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
-      "title": "Last week John Harbaugh reshaped the Giants' roster; here's what they still need",
-      "url": "https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Assessing the roster holes as the second wave of free agency begins.",
-      "publishedAt": "2026-03-17T09:30:23.000Z",
-      "articleId": "c02085bd7d59b37e"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-79-the-revenge-of-macroeconomics",
@@ -1412,17 +1313,6 @@
       "summary": "...",
       "publishedAt": "2026-03-16T20:25:24.000Z",
       "articleId": "1ff1ba351dd10785"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "title": "We Have Reached End-Stage Polarization",
-      "url": "https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The omnipresence of Trump should open our eyes.",
-      "publishedAt": "2026-03-16T16:20:50.000Z",
-      "articleId": "e6e939d57136f522"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/it-still-doesnt-look-like-theres",
@@ -1458,15 +1348,15 @@
       "articleId": "88092030df2a5ab1"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7118821/2026/03/14/wr-darnell-mooney-contract-new-york-giants/",
-      "title": "WR Darnell Mooney agrees to 1-year deal with New York Giants: Source",
-      "url": "https://www.nytimes.com/athletic/7118821/2026/03/14/wr-darnell-mooney-contract-new-york-giants/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "id": "David French (NYT):https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
+      "title": "We Have Reached End-Stage Polarization",
+      "url": "https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
-      "summary": "New York Giants add speed receiver Darnell Mooney on one-year-deal.",
-      "publishedAt": "2026-03-14T23:42:21.000Z",
-      "articleId": "7c685fa7fa3ac903"
+      "summary": "",
+      "publishedAt": "2026-03-15T00:00:00.000Z",
+      "articleId": "e6e939d57136f522"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-031426",
@@ -1478,6 +1368,17 @@
       "summary": "Closure of the Strait of Hormuz, banning build-to-rent homes in the US, Honda’s EV losses, Travis Kalanick’s new company, Corpus Christi’s water crisis, and more.",
       "publishedAt": "2026-03-14T12:02:30.000Z",
       "articleId": "18966aac0229cb6d"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/14/opinion/ezra-klein-podcast-ali-vaez.html",
+      "title": "What Trump Didn’t Know About Iran",
+      "url": "https://www.nytimes.com/2026/03/14/opinion/ezra-klein-podcast-ali-vaez.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-03-14T00:00:00.000Z",
+      "articleId": "06d760a1172bf4f5"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-to-redraw-a-city-out-loud",
@@ -1500,17 +1401,6 @@
       "summary": "...",
       "publishedAt": "2026-03-13T04:39:25.000Z",
       "articleId": "8249278faf0ea477"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7095864/2026/03/12/calvin-austin-iii-giants-free-agency-2026/",
-      "title": "Giants to sign former Steelers WR Calvin Austin III to 1-year deal: Sources",
-      "url": "https://www.nytimes.com/athletic/7095864/2026/03/12/calvin-austin-iii-giants-free-agency-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The former fourth-round pick had a significant role in the Steelers' passing game each of the past two seasons.",
-      "publishedAt": "2026-03-12T22:14:01.000Z",
-      "articleId": "71443e7ff94716af"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/san-franciscos-urban-revival-is-in",
@@ -1546,17 +1436,6 @@
       "articleId": "d936df79fd25432a"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7110014/2026/03/11/evan-neal-giants-nfl-free-agency-2026/",
-      "title": "In surprise move, Giants re-sign OL Evan Neal, struggling 2022 top-10 pick",
-      "url": "https://www.nytimes.com/athletic/7110014/2026/03/11/evan-neal-giants-nfl-free-agency-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Neal has struggled since being selected with the seventh pick of the 2022 NFL Draft.",
-      "publishedAt": "2026-03-12T00:15:48.000Z",
-      "articleId": "18a36c71761d78ff"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/longevity",
       "title": "Longevity",
       "url": "https://www.worksinprogress.news/p/longevity",
@@ -1566,17 +1445,6 @@
       "summary": "How much more can we extend lifespans?",
       "publishedAt": "2026-03-11T13:38:43.000Z",
       "articleId": "c57f4e2587df4d71"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7106707/2026/03/11/john-harbaugh-new-york-giants-free-agency-recap/",
-      "title": "In Giants free agency, John Harbaugh super-sizes the offense and Ravens head north",
-      "url": "https://www.nytimes.com/athletic/7106707/2026/03/11/john-harbaugh-new-york-giants-free-agency-recap/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, the latest on the offensive line, some questions arise in the secondary, and special teams upgrades.",
-      "publishedAt": "2026-03-11T09:30:06.000Z",
-      "articleId": "12cf253a48569aee"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-in-the-foothills-of-world",
@@ -1590,37 +1458,15 @@
       "articleId": "67ea2d281c41d14e"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7094820/2026/03/09/jermaine-eluemunor-giants-nfl-free-agency-2026/",
-      "title": "Giants are re-signing free-agent OT Jermaine Eluemunor to 3-year deal: Sources",
-      "url": "https://www.nytimes.com/athletic/7094820/2026/03/09/jermaine-eluemunor-giants-nfl-free-agency-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/10/opinion/ezra-klein-podcast-nadia-schadlow.html",
+      "title": "I Asked a Former Trump Official to Justify This War",
+      "url": "https://www.nytimes.com/2026/03/10/opinion/ezra-klein-podcast-nadia-schadlow.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
-      "summary": "Eluemunor topped 1,000 offensive snaps for the first time in his career in 2025.",
-      "publishedAt": "2026-03-09T21:15:15.000Z",
-      "articleId": "0b6499214aaae6d1"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7102270/2026/03/09/tremaine-edmunds-giants-free-agency-2026/",
-      "title": "Giants to sign LB Tremaine Edmunds, former Bear, to 3-year deal: Sources",
-      "url": "https://www.nytimes.com/athletic/7102270/2026/03/09/tremaine-edmunds-giants-free-agency-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Edmunds is set to step in immediately for John Harbaugh's Giants.",
-      "publishedAt": "2026-03-09T19:44:55.000Z",
-      "articleId": "517e087b2e8da02a"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7090486/2026/03/09/isaiah-likely-giants-nfl-free-agency-2026/",
-      "title": "Tight end Isaiah Likely agrees to 3-year, $40 million deal with Giants: Sources",
-      "url": "https://www.nytimes.com/athletic/7090486/2026/03/09/isaiah-likely-giants-nfl-free-agency-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Likely has 15 receiving touchdowns in his four-year career, which is second most by a Ravens player since the 2022 season.",
-      "publishedAt": "2026-03-09T16:58:02.000Z",
-      "articleId": "6377b604ade41188"
+      "summary": "",
+      "publishedAt": "2026-03-10T00:00:00.000Z",
+      "articleId": "a6f62d7e96a5a20a"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
@@ -1634,15 +1480,15 @@
       "articleId": "c21054ead48d91bc"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7097993/2026/03/08/new-york-giants-free-agency-preview/",
-      "title": "The Giants' free agency needs and potential targets at every position",
-      "url": "https://www.nytimes.com/athletic/7097993/2026/03/08/new-york-giants-free-agency-preview/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html",
+      "title": "The Future We Feared Is Already Here",
+      "url": "https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
-      "summary": "A deeper look at what the Giants need — and where they might spend — when NFL free agency opens.",
-      "publishedAt": "2026-03-08T17:16:59.000Z",
-      "articleId": "b2e346afedaae3e5"
+      "summary": "",
+      "publishedAt": "2026-03-08T00:00:00.000Z",
+      "articleId": "6331cf176c8891ea"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/something-feels-weird-about-this",
@@ -1668,25 +1514,14 @@
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/07/opinion/trump-iran-george-w-bush-iraq.html",
-      "title": "Trump’s Iran War and the Shadow of Iraq",
+      "title": "George W. Trump Goes to War",
       "url": "https://www.nytimes.com/2026/03/07/opinion/trump-iran-george-w-bush-iraq.html",
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "The desire for a revolutionary presidency gives hubris a lot of space to work.",
-      "publishedAt": "2026-03-07T12:54:04.000Z",
+      "summary": "",
+      "publishedAt": "2026-03-07T00:00:00.000Z",
       "articleId": "f3e50365b2b5110c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7095495/2026/03/07/new-york-giants-free-agent-predictions/",
-      "title": "Predicting the fates of the Giants' 27 free agents",
-      "url": "https://www.nytimes.com/athletic/7095495/2026/03/07/new-york-giants-free-agent-predictions/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Who's likely staying and who's likely on the way out with free agency a few days away.",
-      "publishedAt": "2026-03-07T10:30:26.000Z",
-      "articleId": "de2178a4cdddf1f7"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/introducing-works-in-progress-out",
@@ -1711,17 +1546,6 @@
       "articleId": "c0747363aa719d6c"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7090885/2026/03/06/jermaine-eluemunor-new-york-giants-free-agency/",
-      "title": "Jermaine Eluemunor rose from rock bottom. Now, his reward awaits",
-      "url": "https://www.nytimes.com/athletic/7090885/2026/03/06/jermaine-eluemunor-new-york-giants-free-agency/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The Giants' Eluemunor struggled with mental health for years before emerging as the self-proclaimed “best right tackle in the league.”",
-      "publishedAt": "2026-03-06T10:30:42.000Z",
-      "articleId": "cd7db89a716065fc"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/if-ai-is-a-weapon-why-dont-we-regulate",
       "title": "If AI is a weapon, why don't we regulate it like one?",
       "url": "https://www.noahpinion.blog/p/if-ai-is-a-weapon-why-dont-we-regulate",
@@ -1742,17 +1566,6 @@
       "summary": "The United States have nuclear electricity due to the efforts of one man",
       "publishedAt": "2026-03-05T12:37:07.000Z",
       "articleId": "8804ba8d07485b73"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
-      "title": "The Iran War Is Trump’s War",
-      "url": "https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Has the president’s unerring instinct for vulnerability finally failed him?",
-      "publishedAt": "2026-03-04T17:44:29.000Z",
-      "articleId": "e88bacd19d540703"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/japan-can-be-americas-arsenal",
@@ -1777,15 +1590,15 @@
       "articleId": "cf6b5b6c48c48ab8"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7081904/2026/03/03/joe-schoen-new-york-giants-contract-extension/",
-      "title": "Joe Schoen is still the Giants' GM. Some around the NFL wonder for how long",
-      "url": "https://www.nytimes.com/athletic/7081904/2026/03/03/joe-schoen-new-york-giants-contract-extension/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
+      "title": "The Iran War Is Trump’s War",
+      "url": "https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "There’s curiosity from outsiders about how Schoen fits in the new John Harbaugh-centric operation.",
-      "publishedAt": "2026-03-03T10:30:33.000Z",
-      "articleId": "d287e2978e7ef891"
+      "summary": "",
+      "publishedAt": "2026-03-03T00:00:00.000Z",
+      "articleId": "e88bacd19d540703"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/the-pentagons-bombshell-deal-with",
@@ -1827,20 +1640,9 @@
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "Better to put this power in the hands of private industry or government officials?",
-      "publishedAt": "2026-02-28T12:00:10.000Z",
+      "summary": "",
+      "publishedAt": "2026-02-28T00:00:00.000Z",
       "articleId": "5529bc0a58b65063"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7076452/2026/02/28/new-york-giants-combine-free-agency-plans/",
-      "title": "Will Giants take a big free-agent swing up front? What I'm hearing at the NFL combine",
-      "url": "https://www.nytimes.com/athletic/7076452/2026/02/28/new-york-giants-combine-free-agency-plans/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, why they might be in on a running back, out on tight ends, and a new candidate for the No. 5 pick emerges.",
-      "publishedAt": "2026-02-28T10:30:01.000Z",
-      "articleId": "8a986dc889ab2e3f"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/sorry-skeptics-ai-really-is-changing",
@@ -1898,28 +1700,6 @@
       "articleId": "d06e14d11f2b5645"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7069075/2026/02/25/new-york-giants-free-agency-decisions/",
-      "title": "Giants stare down big decisions on six players ahead of free agency",
-      "url": "https://www.nytimes.com/athletic/7069075/2026/02/25/new-york-giants-free-agency-decisions/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Three pending free agents, and three veterans under contract, are nearing inflection points.",
-      "publishedAt": "2026-02-25T10:30:43.000Z",
-      "articleId": "1b795427c34eb6d8"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
-      "title": "Whatever Happened to Grown-Up Movies for Kids?",
-      "url": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "We need stories that are more adult than Y.A. and less explicit than HBO.",
-      "publishedAt": "2026-02-24T23:16:11.000Z",
-      "articleId": "23f74543ee8675a7"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/more-cows-more-wives",
       "title": "More cows, more wives",
       "url": "https://www.worksinprogress.news/p/more-cows-more-wives",
@@ -1931,15 +1711,15 @@
       "articleId": "e53974206ead478e"
     },
     {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
-      "title": "4 Big U.F.O. Questions for the White House",
-      "url": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
+      "title": "Whatever Happened to Grown-Up Movies for Kids?",
+      "url": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "What a declassification effort could help us resolve.",
-      "publishedAt": "2026-02-22T18:30:57.000Z",
-      "articleId": "7833c96306e0ed56"
+      "summary": "",
+      "publishedAt": "2026-02-24T00:00:00.000Z",
+      "articleId": "23f74543ee8675a7"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-022126",
@@ -1951,6 +1731,17 @@
       "summary": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology.",
       "publishedAt": "2026-02-21T13:37:44.000Z",
       "articleId": "658e53df84ad28d0"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
+      "title": "4 Big U.F.O. Questions for the White House",
+      "url": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2026-02-21T00:00:00.000Z",
+      "articleId": "7833c96306e0ed56"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
@@ -1986,17 +1777,6 @@
       "articleId": "41e8a3432c1cb65f"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7051410/2026/02/18/new-york-giants-free-agency-draft-plans/",
-      "title": "From Kayvon Thibodeaux to Dexter Lawrence, a Giants 10-step offseason plan",
-      "url": "https://www.nytimes.com/athletic/7051410/2026/02/18/new-york-giants-free-agency-draft-plans/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A look at how the Giants should approach free agency and the draft ahead of John Harbaugh's first season.",
-      "publishedAt": "2026-02-18T10:30:34.000Z",
-      "articleId": "dd24500abcb44dd0"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
       "title": "A Guide to Which AI to Use in the Agentic Era",
       "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
@@ -2030,28 +1810,6 @@
       "articleId": "0a242a90e5e2c733"
     },
     {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7043576/2026/02/13/new-york-giants-defensive-roster/",
-      "title": "One thought on every New York Giants defensive player ahead of free agency",
-      "url": "https://www.nytimes.com/athletic/7043576/2026/02/13/new-york-giants-defensive-roster/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Taking a look at the parts of what could be an elite defense in John Harbaugh's first season.",
-      "publishedAt": "2026-02-13T10:31:18.000Z",
-      "articleId": "4ea9f1f889565f78"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
-      "title": "Steve Tisch is embroiled in the Jeffrey Epstein scandal. What is his role with the Giants?",
-      "url": "https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The co-owner has been embroiled in controversy after being connected to Jeffrey Epstein.",
-      "publishedAt": "2026-02-13T10:30:08.000Z",
-      "articleId": "4be375a925b712fc"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/trends-in-us-construction-productivity",
       "title": "Trends in US Construction Productivity",
       "url": "https://www.construction-physics.com/p/trends-in-us-construction-productivity",
@@ -2061,28 +1819,6 @@
       "summary": "(This is a chapter of a longer report I’m working on that summarizes and expands the last several years of my work on construction productivity.",
       "publishedAt": "2026-02-12T13:03:20.000Z",
       "articleId": "72d5b78f934bd116"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7038577/2026/02/11/brian-callahan-new-york-giants/",
-      "title": "Giants to hire former Titans head coach Brian Callahan as QBs coach: Sources",
-      "url": "https://www.nytimes.com/athletic/7038577/2026/02/11/brian-callahan-new-york-giants/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Callahan was also the Bengals' offensive coordinator for five seasons.",
-      "publishedAt": "2026-02-11T15:02:44.000Z",
-      "articleId": "5e76c794b28c1a53"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7037227/2026/02/11/new-york-giants-offensive-roster/",
-      "title": "One thought on every New York Giants offensive player ahead of free agency",
-      "url": "https://www.nytimes.com/athletic/7037227/2026/02/11/new-york-giants-offensive-roster/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Assessing 32 of John Harbaugh's new players, from Jaxson Dart to Bryan Hudson.",
-      "publishedAt": "2026-02-11T10:30:45.000Z",
-      "articleId": "baf4f5a3c65299be"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/the-many-masks-that-llms-wear",
@@ -2424,6 +2160,270 @@
       "summary": "Which AIs to use, and how to use them",
       "publishedAt": "2025-06-23T16:12:17.000Z",
       "articleId": "b1981c16cafc6a0d"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters",
+      "title": "The recent history of AI in 32 otters",
+      "url": "https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Three years of progress as shown by marine mammals",
+      "publishedAt": "2025-06-01T22:17:53.000Z",
+      "articleId": "6da6748c74a8fbd6"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and",
+      "title": "Making AI Work: Leadership, Lab, and Crowd",
+      "url": "https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "A formula for AI in companies",
+      "publishedAt": "2025-05-22T11:00:44.000Z",
+      "articleId": "38d83c186d9b4552"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/personality-and-persuasion",
+      "title": "Personality and Persuasion",
+      "url": "https://www.oneusefulthing.org/p/personality-and-persuasion",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Learning from Sycophants",
+      "publishedAt": "2025-05-01T04:00:00.000Z",
+      "articleId": "ae45424e4c8a70fb"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything",
+      "title": "On Jagged AGI: o3, Gemini 2.5, and everything after",
+      "url": "https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "New models and new thresholds",
+      "publishedAt": "2025-04-20T11:17:54.000Z",
+      "articleId": "925d0c351bfa3d0c"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/yeshi-kitfo/",
+      "title": "Yeshi Kitfo",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/yeshi-kitfo/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Yeshi Kitfo, web site, 3400 Washington Dr., Unit D, Bailey’s Crossroads, VA 571-347-7259 (Metro Trip Planner – opens in new window) [Google | TripAdvisor | BirdEye | Reddit] The best kitfo around, period. Just keep on getting it. They also … Continue reading →",
+      "publishedAt": "2025-03-14T18:07:24.000Z",
+      "articleId": "7c74cf66b1658fb2"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/the-curious-surge-of-productivity-in-u-s-restaurants/",
+      "title": "The Curious Surge of Productivity in U.S. Restaurants",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/the-curious-surge-of-productivity-in-u-s-restaurants/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "We document that, after remaining almost constant for almost 30 years, real labor productivity at U.S. restaurants surged over 15% during the COVID pandemic. This surge has persisted even as many conditions have returned to pre-pandemic levels. Using mobile phone … Continue reading →",
+      "publishedAt": "2025-03-12T17:07:40.000Z",
+      "articleId": "54cfb9157e5d6098"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/bengaluru-cafe/",
+      "title": "Bengaluru Cafe",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/bengaluru-cafe/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Bengaluru Cafe, web site, 3957 Pender Dr # 105, Fairfax, VA, 703-691-2468 (Metro Trip Planner – opens in new window) [Google | Washingtonian | RoadTrippers | Reddit | Restaurantji] Right now the best dosa short of the Herndon-Dulles area. Excellent … Continue reading →",
+      "publishedAt": "2025-02-24T14:07:30.000Z",
+      "articleId": "269ce563017d79e5"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/is-indian-food-the-worlds-best/",
+      "title": "Is Indian food the world’s best?",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/is-indian-food-the-worlds-best/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "From my latest Bloomberg column: Why is the food so good? I have several overlapping hypotheses, most of them coming from my background as an economist. Interestingly, India’s culinary advantages can be traced to some good and some not-so-good aspects … Continue reading →",
+      "publishedAt": "2024-12-19T15:07:43.000Z",
+      "articleId": "5a1feec4cd5d301c"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/peter-chang-maclean/",
+      "title": "Peter Chang MacLean",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/peter-chang-maclean/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Peter Chang MacLean, web site, 6715 Lowell Ave., McLean, VA, 571-405-6686 (Metro Trip Planner – opens in new window) [Google | TripAdvisor | FFX Now | Reddit | Restaurantji | NoVA Mag] This is probably the second best of the … Continue reading →",
+      "publishedAt": "2024-09-03T13:07:46.000Z",
+      "articleId": "5f6e1531fc3026cc"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2020/09/22/books/review/divided-we-fall-david-french.html",
+      "title": "“Divided We Fall: America’s Secession Threat and How to Restore Our Nation",
+      "url": "https://www.nytimes.com/2020/09/22/books/review/divided-we-fall-david-french.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": "2020-09-22T00:00:00.000Z",
+      "articleId": "8199d84031d8d752"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/college-football/",
+      "title": "College Football",
+      "url": "https://www.nytimes.com/athletic/college-football/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "970bc4f35297f9e0"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/football/world-cup/",
+      "title": "2026 Men's World Cup",
+      "url": "https://www.nytimes.com/athletic/football/world-cup/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "19d5377201346b0b"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/football/premier-league/",
+      "title": "Premier League",
+      "url": "https://www.nytimes.com/athletic/football/premier-league/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "9e9e635df149f616"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/football/womens-football/",
+      "title": "Women's Soccer",
+      "url": "https://www.nytimes.com/athletic/football/womens-football/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "8bffe7156291e24b"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/global-sports/",
+      "title": "Global Sports",
+      "url": "https://www.nytimes.com/athletic/global-sports/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "ff003a5b144a4692"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/college-sports/",
+      "title": "College Sports",
+      "url": "https://www.nytimes.com/athletic/college-sports/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "42b4243a86fa49b8"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/fantasy/baseball/",
+      "title": "Fantasy Baseball",
+      "url": "https://www.nytimes.com/athletic/fantasy/baseball/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "ceafce40829b2df3"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/fantasy/football/",
+      "title": "Fantasy Football",
+      "url": "https://www.nytimes.com/athletic/fantasy/football/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "3fb0ace379f40f1f"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/sports-business/",
+      "title": "Sports Business",
+      "url": "https://www.nytimes.com/athletic/sports-business/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "3b70db63c5bc8e9d"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/sports-memorabilia-and-collectibles/",
+      "title": "Memorabilia and Collectibles",
+      "url": "https://www.nytimes.com/athletic/sports-memorabilia-and-collectibles/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "e56255ded93ce1cf"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/womens-hockey/",
+      "title": "Women's Hockey",
+      "url": "https://www.nytimes.com/athletic/womens-hockey/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "088f5015cab71871"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/tag/the-pulse/",
+      "title": "The Pulse Newsletter",
+      "url": "https://www.nytimes.com/athletic/tag/the-pulse/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "9f38416ff33c275f"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/interactive/the-beast-2026/",
+      "title": "The Ultimate NFL Draft Guide",
+      "url": "https://www.nytimes.com/athletic/interactive/the-beast-2026/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "f3536240a2109d4f"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/connections-sports-edition/",
+      "title": "Connections: Sports Edition",
+      "url": "https://www.nytimes.com/athletic/connections-sports-edition/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "",
+      "publishedAt": null,
+      "articleId": "71f38bdbf89d521c"
     }
   ],
   "sources": [
@@ -2526,33 +2526,33 @@
     {
       "name": "Dan Duggan (The Athletic)",
       "url": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "mode": "rss",
+      "mode": "scrape",
       "itemCount": 24,
-      "feedUrl": "https://www.nytimes.com/athletic/rss/author/dan-duggan/",
+      "feedUrl": null,
       "error": null
     },
     {
       "name": "Ross Douthat (NYT)",
       "url": "https://www.nytimes.com/column/ross-douthat",
-      "mode": "rss",
-      "itemCount": 10,
-      "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/ross-douthat/rss.xml",
+      "mode": "scrape",
+      "itemCount": 12,
+      "feedUrl": null,
       "error": null
     },
     {
       "name": "Ezra Klein (NYT)",
       "url": "https://www.nytimes.com/by/ezra-klein",
-      "mode": "rss",
-      "itemCount": 10,
-      "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/ezra-klein/rss.xml",
+      "mode": "scrape",
+      "itemCount": 12,
+      "feedUrl": null,
       "error": null
     },
     {
       "name": "David French (NYT)",
       "url": "https://www.nytimes.com/by/david-french",
-      "mode": "rss",
-      "itemCount": 10,
-      "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/david-french/rss.xml",
+      "mode": "scrape",
+      "itemCount": 12,
+      "feedUrl": null,
       "error": null
     },
     {
