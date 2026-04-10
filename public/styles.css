@@ -238,14 +238,14 @@ body::before {
   font-family: "Archivo Narrow", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   color: var(--muted);
 }
 
 .card-title {
   margin: 0;
   font-family: "Newsreader", Georgia, serif;
-  font-size: clamp(1.4rem, 2.15vw, 2.15rem);
+  font-size: clamp(1.32rem, 2.02vw, 2rem);
   line-height: 1.08;
   letter-spacing: -0.015em;
   max-width: 26ch;
@@ -416,6 +416,7 @@ body::before {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  min-height: 34px;
   gap: 12px;
   padding: 8px 0 7px;
   border-bottom: 1px solid rgba(16, 16, 15, 0.16);
@@ -435,20 +436,30 @@ body::before {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  font-family: "Archivo Narrow", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-size: 0.69rem;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  font-family: "Newsreader", Georgia, serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  font-size: 0.98rem;
+  line-height: 1;
   color: #2f2a21;
 }
 
 .reader-rail-actions {
-  display: inline-flex;
+  display: flex;
   align-items: center;
+  align-self: stretch;
   flex-wrap: wrap;
   gap: 8px;
   flex-shrink: 0;
   margin-left: auto;
+}
+
+.reader-rail-actions .reader-source,
+.reader-rail-actions .reader-access {
+  line-height: 1;
 }
 
 .reader-rail::before {
@@ -499,7 +510,7 @@ body::before {
 .reader-title {
   margin: 0;
   font-family: "Newsreader", Georgia, serif;
-  font-size: clamp(2.1rem, 4.9vw, 4.2rem);
+  font-size: clamp(1.95rem, 4.3vw, 3.8rem);
   line-height: 0.95;
   letter-spacing: -0.02em;
   max-width: 17ch;
@@ -537,7 +548,7 @@ body::before {
   flex: 1 1 auto;
   min-width: 240px;
   color: #5a5348;
-  font-size: 0.95rem;
+  font-size: 1.03rem;
 }
 
 .reader-byline-actions {
@@ -554,7 +565,7 @@ body::before {
   font-family: "Archivo Narrow", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.09em;
-  font-size: 0.66rem;
+  font-size: 0.74rem;
   color: #5a5347;
 }
 
@@ -775,12 +786,12 @@ body::before {
   }
 
   .reader-rail-title {
-    font-size: 0.64rem;
+    font-size: 0.9rem;
   }
 
   .reader-rail-actions .reader-source,
   .reader-rail-actions .reader-link {
-    font-size: 0.66rem;
+    font-size: 0.72rem;
   }
 
   .reader-byline-row {
@@ -796,15 +807,15 @@ body::before {
 
   .reader-source,
   .reader-access {
-    font-size: 0.68rem;
+    font-size: 0.72rem;
   }
 
   .reader-link {
-    font-size: 0.67rem;
+    font-size: 0.72rem;
   }
 
   .reader-title {
-    font-size: clamp(2rem, 11vw, 3rem);
+    font-size: clamp(1.86rem, 10vw, 2.85rem);
     line-height: 0.98;
   }
 
@@ -814,7 +825,7 @@ body::before {
   }
 
   .reader-meta {
-    font-size: 0.9rem;
+    font-size: 0.98rem;
   }
 
   .reader-body p,

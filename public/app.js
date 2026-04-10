@@ -37,6 +37,7 @@ const readerMeta = document.querySelector("#readerMeta");
 const readerReason = document.querySelector("#readerReason");
 const readerBody = document.querySelector("#readerBody");
 const readerSticky = document.querySelector(".reader-sticky");
+const htmlEntityDecoder = document.createElement("textarea");
 let readerRequestId = 0;
 let pendingCardGridFocus = false;
 
@@ -127,7 +128,7 @@ async function loadFeed(force = false) {
     }
 
     const payload = await response.json();
-    state.items = payload.items || [];
+    state.items = (payload.items || []).map(normalizeFeedItemText);
     state.sources = payload.sources || [];
     state.generatedAt = payload.generatedAt || payload.fetchedAt || new Date().toISOString();
     state.cached = true;
@@ -149,6 +150,18 @@ function render() {
   renderSourceChips();
   renderCards();
   renderReader();
+}
+
+function normalizeFeedItemText(item) {
+  if (!item || typeof item !== "object") {
+    return item;
+  }
+
+  return {
+    ...item,
+    title: decodeHtmlEntities(item.title),
+    summary: decodeHtmlEntities(item.summary),
+  };
 }
 
 function renderMeta() {
@@ -366,6 +379,19 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
+function decodeHtmlEntities(value) {
+  if (typeof value !== "string") {
+    return "";
+  }
+
+  if (!value.includes("&")) {
+    return value;
+  }
+
+  htmlEntityDecoder.innerHTML = value;
+  return htmlEntityDecoder.value;
+}
+
 async function openReader(item, options = {}) {
   const { fromHistory = false } = options;
 
@@ -383,8 +409,8 @@ async function openReader(item, options = {}) {
   resetReaderProgress();
   cardGrid.hidden = true;
   renderReader();
-  if (readerPanel) {
-    readerPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+  if (!fromHistory) {
+    scrollToReaderTitle();
   }
   updateReaderProgress();
 
@@ -454,6 +480,25 @@ function navigateBackFromReader() {
   closeReader();
 }
 
+function scrollToReaderTitle() {
+  if (!readerTitle) {
+    return;
+  }
+
+  const alignTitleNearTop = () => {
+    const titleRect = readerTitle.getBoundingClientRect();
+    const targetTop = Math.max(0, window.scrollY + titleRect.top - 18);
+    window.scrollTo({ top: targetTop, behavior: "auto" });
+  };
+
+  window.requestAnimationFrame(() => {
+    alignTitleNearTop();
+    window.requestAnimationFrame(() => {
+      alignTitleNearTop();
+    });
+  });
+}
+
 function renderReader() {
   if (!readerPanel) {
     return;
@@ -467,9 +512,10 @@ function renderReader() {
 
   const item = state.readerItem;
   const article = state.readerArticle;
+  const heading = decodeHtmlEntities(article?.title || item.title || "Article");
 
   readerPanel.hidden = false;
-  readerRailTitle.textContent = article?.title || item.title || "Article";
+  readerRailTitle.textContent = heading;
   readerRailSource.textContent = item.source || "";
   readerRailSource.hidden = !readerRailSource.textContent.trim();
 
@@ -488,10 +534,10 @@ function renderReader() {
   readerSource.textContent = item.source || "";
   readerSource.hidden = !readerSource.textContent.trim();
 
-  readerTitle.textContent = article?.title || item.title || "Article";
+  readerTitle.textContent = heading;
   readerSubtitle.textContent = "";
   readerSubtitle.classList.remove("visible");
-  const subtitle = article?.subtitle || "";
+  const subtitle = decodeHtmlEntities(article?.subtitle || "");
   if (subtitle) {
     readerSubtitle.textContent = subtitle;
     readerSubtitle.classList.add("visible");
@@ -524,7 +570,7 @@ function renderReader() {
       readerReason.classList.add("visible");
     }
 
-    const excerpt = article.excerpt || item.summary || "Open the source link to keep reading.";
+    const excerpt = decodeHtmlEntities(article.excerpt || item.summary || "Open the source link to keep reading.");
     readerBody.innerHTML = `<p>${escapeHtml(excerpt)}</p>`;
     updateReaderProgress();
     return;
@@ -539,7 +585,7 @@ function buildReaderMeta(article, item) {
   const parts = [];
 
   if (article?.byline) {
-    parts.push(article.byline);
+    parts.push(decodeHtmlEntities(article.byline));
   }
 
   const publishedAt = article?.publishedAt || item?.publishedAt;
