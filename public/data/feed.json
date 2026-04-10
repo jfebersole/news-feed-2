@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-09T20:37:00.219Z",
-  "fetchedAt": "2026-04-09T20:37:00.216Z",
+  "generatedAt": "2026-04-10T01:09:43.250Z",
+  "fetchedAt": "2026-04-10T01:09:43.247Z",
   "sourceCount": 20,
   "itemCount": 220,
-  "totalItemCount": 270,
+  "totalItemCount": 269,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-1e9",
+      "title": "Thursday discussion post",
+      "url": "https://www.slowboring.com/p/thursday-discussion-post-1e9",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A 10-day stay in Baltimore and they&#8217;ll pay YOU $5,100. What&#8217;s the catch?",
+      "publishedAt": "2026-04-09T22:00:42.000Z",
+      "articleId": "37750659172780ad"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/new-emergent-ventures-tranche-on-science-policy-and-communication.html?utm_source=rss&utm_medium=rss&utm_campaign=new-emergent-ventures-tranche-on-science-policy-and-communication",
       "title": "New Emergent Ventures tranche on science policy and communication",
@@ -490,17 +501,6 @@
       "articleId": "754d9b0bca7d7536"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/michigan-was-too-much-for-uconn-and",
-      "title": "Michigan Was Too Much For UConn — and Everyone Else",
-      "url": "https://neilpaine.substack.com/p/michigan-was-too-much-for-uconn-and",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Even on an off-night offensively, the Wolverines showed their championship DNA by leaning on defense to finish a dominant run.",
-      "publishedAt": "2026-04-07T03:38:06.000Z",
-      "articleId": "282cd34786c3c7b1"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-midterms-in-motion",
       "title": "The midterms in motion",
       "url": "https://www.slowboring.com/p/the-midterms-in-motion",
@@ -950,17 +950,6 @@
       "summary": "At the league meetings on Monday, John Harbaugh and Joe Schoen addressed the potential for additions across the roster.",
       "publishedAt": "2026-03-30T23:49:23.000Z",
       "articleId": "1b124354af83ddc3"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/testing-trumps-influence",
-      "title": "Testing Trump’s influence",
-      "url": "https://www.slowboring.com/p/testing-trumps-influence",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "As Democrats gain momentum across the country, Republicans rely on redistricting, voting laws, and court rulings to reshape the battlefield.",
-      "publishedAt": "2026-03-30T22:01:04.000Z",
-      "articleId": "ff61dca744b25c2b"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
@@ -2424,6 +2413,17 @@
       "summary": "Zohran Mamdani is attempting this synthesis &#8212; one with some basis in our city's housing policy history &#8212; but I doubt it's one he'll be able to implement.",
       "publishedAt": "2026-01-08T15:05:53.000Z",
       "articleId": "0e707aee144b66ea"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+      "title": "Claude Code and What Comes Next",
+      "url": "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "With the right tools, AI can accomplish impressive things",
+      "publishedAt": "2026-01-07T23:00:10.000Z",
+      "articleId": "4e544687a29a856f"
     }
   ],
   "sources": [
@@ -2503,7 +2503,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
