@@ -141,6 +141,17 @@ const SOURCE_ITEM_RULES = Object.freeze({
     excludeDescriptionIncludes: Object.freeze(["Subscribe to Scoreboard"]),
     excludeTitleIfContainsEmoji: true,
   }),
+  "Money Stuff (Bloomberg)": Object.freeze({
+    excludeTitleIncludes: Object.freeze([
+      "you've subscribed",
+      "verify your email",
+      "to verify your email for bloomberg.com",
+    ]),
+    excludeDescriptionIncludes: Object.freeze([
+      "thank you for subscribing to money stuff",
+      "your code is:",
+    ]),
+  }),
 });
 
 let cache = {
@@ -521,7 +532,13 @@ function normalizeFeedItem(item, source) {
     item.summary || item.description || item["content:encoded"] || item.content || item.contentSnippet || "",
     source
   );
-  const feedContentHtml = pickFeedContentHtml(item["content:encoded"], item.content, item.description);
+  const feedContentHtml = pickFeedContentHtml(
+    item["content:encoded"],
+    item.content,
+    item.description,
+    item.summary,
+    item.contentSnippet
+  );
 
   return {
     id: createItemId(link, source.name),
@@ -549,7 +566,12 @@ function normalizeProxyFeedItem(item, source) {
     item?.description || item?.content || item?.summary || item?.contentSnippet || "",
     source
   );
-  const feedContentHtml = pickFeedContentHtml(item?.content, item?.description, item?.summary);
+  const feedContentHtml = pickFeedContentHtml(
+    item?.content,
+    item?.description,
+    item?.summary,
+    item?.contentSnippet
+  );
 
   return {
     id: createItemId(link, source.name),
@@ -645,9 +667,16 @@ function buildRssProxyUrl(feedUrl) {
 
 function pickFeedContentHtml(...candidates) {
   const cleaned = candidates
-    .map((value) => (typeof value === "string" ? value.trim() : ""))
+    .map((value) => normalizeFeedContentCandidate(value))
     .filter(Boolean)
-    .sort((a, b) => b.length - a.length);
+    .sort((a, b) => {
+      const aHasMarkup = containsHtmlMarkup(a) ? 1 : 0;
+      const bHasMarkup = containsHtmlMarkup(b) ? 1 : 0;
+      if (aHasMarkup !== bHasMarkup) {
+        return bHasMarkup - aHasMarkup;
+      }
+      return b.length - a.length;
+    });
 
   if (!cleaned.length) {
     return "";
@@ -655,6 +684,38 @@ function pickFeedContentHtml(...candidates) {
 
   const best = cleaned[0];
   return best.length >= 280 ? best : "";
+}
+
+function normalizeFeedContentCandidate(value) {
+  if (typeof value !== "string") {
+    return "";
+  }
+
+  const raw = value.trim();
+  if (!raw) {
+    return "";
+  }
+
+  const decoded = decodeBasicHtmlEntities(raw).trim();
+  if (containsHtmlMarkup(decoded)) {
+    return decoded;
+  }
+
+  return raw;
+}
+
+function decodeBasicHtmlEntities(value) {
+  return value
+    .replace(/&quot;|&#34;/gi, '"')
+    .replace(/&#39;|&#x27;|&apos;/gi, "'")
+    .replace(/&amp;/gi, "&")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&nbsp;|&#160;/gi, " ");
+}
+
+function containsHtmlMarkup(value) {
+  return /<[a-z][\s\S]*>/i.test(value);
 }
 
 function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fallbackSummary, fallbackContentHtml }) {
