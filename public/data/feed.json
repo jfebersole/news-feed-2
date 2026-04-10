@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-10T21:27:54.078Z",
-  "fetchedAt": "2026-04-10T21:27:54.075Z",
+  "generatedAt": "2026-04-10T22:05:48.938Z",
+  "fetchedAt": "2026-04-10T22:05:48.935Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 280,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-girlboss-was-never-a-feminist",
+      "title": "The girlboss was never a feminist ideal",
+      "url": "https://www.slowboring.com/p/the-girlboss-was-never-a-feminist",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The 2010s turned an eBay hustler into a symbol of corporate feminism she never set out to represent.",
+      "publishedAt": "2026-04-10T22:01:18.000Z",
+      "articleId": "843e419b5727dab1"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/what-should-i-ask-bob-spitz.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-bob-spitz",
       "title": "What should I ask Bob Spitz?",
@@ -961,17 +972,6 @@
       "summary": "We often lack the tools for the job, even if the AI is capable enough",
       "publishedAt": "2026-03-31T22:34:37.000Z",
       "articleId": "8f6970f10e9ecb45"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/tuesday-discussion-post-213",
-      "title": "Tuesday discussion post",
-      "url": "https://www.slowboring.com/p/tuesday-discussion-post-213",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "How much A.I. is the right amount of A.I?",
-      "publishedAt": "2026-03-31T22:01:36.000Z",
-      "articleId": "3cf8acee55ba85e0"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
