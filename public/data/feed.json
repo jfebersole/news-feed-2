@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T22:53:55.272Z",
-  "fetchedAt": "2026-04-10T22:53:55.269Z",
+  "generatedAt": "2026-04-10T23:48:38.577Z",
+  "fetchedAt": "2026-04-10T23:48:38.574Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 280,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-girlboss-was-never-a-feminist",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
