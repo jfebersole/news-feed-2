@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T17:04:03.945Z",
-  "fetchedAt": "2026-04-10T17:04:03.942Z",
+  "generatedAt": "2026-04-10T17:57:49.407Z",
+  "fetchedAt": "2026-04-10T17:57:49.404Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 280,
+  "totalItemCount": 289,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/what-should-i-ask-bob-spitz.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-bob-spitz",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
