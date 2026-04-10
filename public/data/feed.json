@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-10T12:09:17.437Z",
-  "fetchedAt": "2026-04-10T12:09:17.434Z",
+  "generatedAt": "2026-04-10T13:52:44.128Z",
+  "fetchedAt": "2026-04-10T13:52:44.125Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 290,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-death-rays-that-guard-life-out",
+      "title": "The death rays that guard life, Out Loud",
+      "url": "https://www.worksinprogress.news/p/the-death-rays-that-guard-life-out",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "We disinfect water before we drink it. Germicidal ultraviolet could make airborne disease as rare as those carried by water.",
+      "publishedAt": "2026-04-10T13:44:18.000Z",
+      "articleId": "1983c0bd619afceb"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/goaltending-usually-drives-the-nhl",
       "title": "Goaltending Usually Drives the NHL Standings. Not This Year.",
@@ -2303,17 +2314,6 @@
       "summary": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology.",
       "publishedAt": "2026-02-21T13:37:44.000Z",
       "articleId": "658e53df84ad28d0"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
-      "title": "Issue 22: Why Europe doesn’t have a Tesla",
-      "url": "https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Plus: Why communist reforms almost always failed, the golden age of vaccines, and the everything plant.",
-      "publishedAt": "2026-02-19T15:14:46.000Z",
-      "articleId": "70902adcad1919e3"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/is-the-future-aws-for-everything",
