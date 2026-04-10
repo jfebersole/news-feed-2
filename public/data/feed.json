@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-10T15:00:41.809Z",
-  "fetchedAt": "2026-04-10T15:00:41.805Z",
+  "generatedAt": "2026-04-10T16:04:24.424Z",
+  "fetchedAt": "2026-04-10T16:04:24.420Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 288,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-567",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-567.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Trump&#8217;s focus on cultural issues (NYT). 2. Claims about Mythos (speculations). And a claim that the power of Mythos is being exaggerated. 3. The wage returns on industry credentials. 4. 2026 Roots of Progress blog-building intensive program. 5. Brian Albrecht reviews The Marginal Revolution. 6. Those new service sector jobs. 7. Harvard Crimson on [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-10T15:31:24.000Z",
+      "articleId": "647cab27dd6766c3"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/apply-for-invisible-college-2026",
       "title": "Apply for Invisible College 2026",
@@ -466,17 +477,6 @@
       "summary": "...",
       "publishedAt": "2026-04-07T20:51:24.000Z",
       "articleId": "fb9c560b77af0a28"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/andy-hall-advice-on-ai-and-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=andy-hall-advice-on-ai-and-economic-research",
-      "title": "Andy Hall advice on AI and economic research",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/andy-hall-advice-on-ai-and-economic-research.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the document, excerpt: In January, I released the results of an experiment showing how Claude Code could helpfully extend old papers “automagically.” It was pretty astonishing to me. Claude was able to come up with a plan, scrape the web, write code, run regressions, create tables and figures, and write a whole memo [&#8230;] The post Andy Hall advice on AI and economic research appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-07T18:16:58.000Z",
-      "articleId": "4d46fc330454d286"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7178469/2026/04/07/john-harbaugh-dexter-lawrence-trade-demand-new-york-giants/",
@@ -2566,18 +2566,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
