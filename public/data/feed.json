@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T06:55:13.276Z",
-  "fetchedAt": "2026-04-10T06:55:13.274Z",
+  "generatedAt": "2026-04-10T08:02:37.745Z",
+  "fetchedAt": "2026-04-10T08:02:37.742Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 280,
+  "totalItemCount": 289,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/south-african-profundities.html?utm_source=rss&utm_medium=rss&utm_campaign=south-african-profundities",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
