@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-10T01:09:43.250Z",
-  "fetchedAt": "2026-04-10T01:09:43.247Z",
-  "sourceCount": 20,
+  "generatedAt": "2026-04-10T03:51:46.721Z",
+  "fetchedAt": "2026-04-10T03:51:46.715Z",
+  "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 269,
+  "totalItemCount": 306,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-1e9",
@@ -37,6 +37,17 @@
       "summary": "Money Stuff Anomaly, Insta, venting, index, asymmetry, Satoshi. View in browser Bitcoin After Dark A famous financial anomaly is that the stock market mostly goes up when it’s closed : “Over at least the past three decades, investors have earned 100% or more of the return on a wide range of risky assets when the markets are closed, and, as sure as day follows night, have earned zero or negative returns for bearing the risk of owning those assets during the daytime, when markets are open,” as Victor Haghani, Vladimir Ragulin and Richard Dewey have put it . That is, stocks tend broadly to open higher than they closed the previous day, and then to go down a bit during the trading day. Nobody quite knows why. Bruce Knuteson has a famous theory, laid out in papers with titles like “ Strikingly Suspicious Overnight and Intraday Returns ,” “ They Chose to Not Tell You ,” “ Nothing to See Here ” and “ They Still Haven’t Told You ,” that quantitative trading firms conspire to inflate prices every morning and deflate them every evening. My own crude intuitive assumption is that, because US public companies try not to release information during market hours , most of the fundamental information that causes stocks to rise over the long run is in fact released and assimilated at night. But that is not very rigorous, and nobody else seems to believe it. The other famous fact about this anomaly is that, even if you know about it, you can’t make any money trading on it: The transaction costs of buying all the stocks every morning and selling them every afternoon would eat up all the profits. In 2022, two exchange-traded funds (“NightShares 500” and “NightShares 2000”) were launched to profit from the anomaly, but they lost money and closed after a year . Everyone talks about the overnight anomaly, but nobody does anything about it. But if your explanation for the anomaly has a form like “actually most global economic growth occurs when the US is sleeping,” then perhaps this is a temporary setback. Perhaps you can find some instrument that (1) reflects economic growth, (2) mostly goes up overnight and (3) has better liquidity and lower transaction costs than, you know, S&P 500 index futures. Anything’s possible. Bloomberg’s Isabelle Lee reports : The Nicholas Bitcoin and Treasuries AfterDark ETF, filed with the US Securities and Exchange Commission in December under the ticker NGHT, made its debut on Wednesday. The product is designed around a striking disconnect in Bitcoin’s return profile. Since BlackRock Inc.’s iShares Bitcoin Trust ETF (ticker IBIT) launched in January 2024, overnight price gaps — measured from the market close to the following day’s open — have generated a roughly 200% gain, according to Bespoke Investment Group, a figure that outpaces a...",
       "publishedAt": "2026-04-09T18:22:44.734Z",
       "articleId": "6978b2e80abce898"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/some-artists-are-bad-at-picking-singles",
+      "title": "Some Artists are Bad at Picking Singles",
+      "url": "https://www.cantgetmuchhigher.com/p/some-artists-are-bad-at-picking-singles",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "I'm looking at you, Harry Styles",
+      "publishedAt": "2026-04-09T17:31:34.000Z",
+      "articleId": "b51c257bd4eafff4"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-547.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-547",
@@ -331,7 +342,7 @@
       "source": "Neil Paine",
       "sourceUrl": "https://neilpaine.substack.com/",
       "access": "open",
-      "summary": "It may be MLB's least-loved ballpark, but the Tampa Bay Rays have turned Tropicana Field into a real home-field edge — one they sorely missed last year.",
+      "summary": "It may be MLB's least-loved ballpark, but the Tampa Bay Rays have turned Tropicana Field into a real home-field edge &#8212; one they sorely missed last year.",
       "publishedAt": "2026-04-08T10:03:09.000Z",
       "articleId": "45ee67fd8e13ec92"
     },
@@ -457,6 +468,17 @@
       "articleId": "91d6e94149a26863"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-swan-songs",
+      "title": "An Album a Day: Swan Songs",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-swan-songs",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring David Bowie, Juice WRLD, Ella Fitzgerald, and others",
+      "publishedAt": "2026-04-07T13:31:55.000Z",
+      "articleId": "06851b674baff572"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/my-most-progressive-views",
       "title": "My most progressive views",
       "url": "https://www.slowboring.com/p/my-most-progressive-views",
@@ -499,6 +521,17 @@
       "summary": "Just one candle in the darkness.",
       "publishedAt": "2026-04-07T04:50:06.000Z",
       "articleId": "754d9b0bca7d7536"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/michigan-was-too-much-for-uconn-and",
+      "title": "Michigan Was Too Much For UConn — and Everyone Else",
+      "url": "https://neilpaine.substack.com/p/michigan-was-too-much-for-uconn-and",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Even on an off-night offensively, the Wolverines showed their championship DNA by leaning on defense to finish a dominant run.",
+      "publishedAt": "2026-04-07T03:38:06.000Z",
+      "articleId": "282cd34786c3c7b1"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-midterms-in-motion",
@@ -578,6 +611,17 @@
       "articleId": "de3cc85ecee63e9d"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/michigans-final-championship-task",
+      "title": "Michigan's Final Championship Task: To Out-UConn UConn",
+      "url": "https://neilpaine.substack.com/p/michigans-final-championship-task",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The Wolverines are chasing one of the most dominant tournament runs ever &#8212; and the only thing standing in their way is the team that defined what dominance looks like in the first place.",
+      "publishedAt": "2026-04-06T09:02:23.000Z",
+      "articleId": "6b6cbf435df46d8e"
+    },
+    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/difficulty-increases-desire",
       "title": "Difficulty increases desire",
       "url": "https://scottsumner.substack.com/p/difficulty-increases-desire",
@@ -611,6 +655,17 @@
       "articleId": "36a69f77f75a3626"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-life-and-legacy-of-oliva-newton",
+      "title": "The Life and Legacy of Olivia Newton-John: A Conversation with Matthew Hild",
+      "url": "https://www.cantgetmuchhigher.com/p/the-life-and-legacy-of-oliva-newton",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Author and historian Matthew Hild stops by to talk about his new biography of Olivia Newton-John",
+      "publishedAt": "2026-04-05T13:31:25.000Z",
+      "articleId": "d16e1439b7022d41"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/saturday-discussion-post-21f",
       "title": "Saturday discussion post",
       "url": "https://www.slowboring.com/p/saturday-discussion-post-21f",
@@ -642,6 +697,17 @@
       "summary": "Loyal losers don’t go very far with this president.",
       "publishedAt": "2026-04-04T11:00:18.000Z",
       "articleId": "5cb2db5a8f20b3c1"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-march-30-april",
+      "title": "The Week That Was (March 30-April 3, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-march-30-april",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-04-04T10:00:52.000Z",
+      "articleId": "db0761b8c1973db6"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/11-jobs-that-probably-wont-be-taken",
@@ -710,6 +776,17 @@
       "articleId": "769086f3a13efedb"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/how-mlbs-big-extension-bets-are-changing",
+      "title": "How MLB's Big Extension Bets Are Changing",
+      "url": "https://neilpaine.substack.com/p/how-mlbs-big-extension-bets-are-changing",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "No longer content to lock up young stars early in their MLB careers, teams are now making huge wagers on them before they've even arrived in the bigs.",
+      "publishedAt": "2026-04-03T10:02:48.000Z",
+      "articleId": "1167b3531b586424"
+    },
+    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-pauseai-protest-a-photo-essay",
       "title": "The PauseAI Protest: A Photo-Essay",
       "url": "https://www.astralcodexten.com/p/the-pauseai-protest-a-photo-essay",
@@ -730,6 +807,17 @@
       "summary": "Big news!",
       "publishedAt": "2026-04-02T22:01:28.000Z",
       "articleId": "0f2db451f7a81616"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/take-me-out-to-the-ballgame",
+      "title": "Take Me Out To The Ball Game",
+      "url": "https://www.cantgetmuchhigher.com/p/take-me-out-to-the-ballgame",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "A deep dive on baseball walk-out songs",
+      "publishedAt": "2026-04-02T17:31:04.000Z",
+      "articleId": "36e2c5020b4dcff9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/my-new-podcast",
@@ -763,6 +851,17 @@
       "summary": "The most famous chart in AI might be obsolete soon.",
       "publishedAt": "2026-04-02T11:33:47.000Z",
       "articleId": "9e813c14cfeb8170"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/most-of-the-nhl-playoff-bracket-is",
+      "title": "Most of the NHL Playoff Bracket is Settled (Except For All the Parts That Aren't)",
+      "url": "https://neilpaine.substack.com/p/most-of-the-nhl-playoff-bracket-is",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "12 teams are virtual locks for the postseason &#8212; but that leaves one solid contender (in mid-crisis mode) and three completely wide-open spots for the rest of the league to fight over.",
+      "publishedAt": "2026-04-02T10:03:31.000Z",
+      "articleId": "f473e7eeb1306857"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-quest-for-a-straight-white-christian",
@@ -818,6 +917,17 @@
       "summary": "Reflections on a unique nation.",
       "publishedAt": "2026-04-01T10:29:51.000Z",
       "articleId": "20d81f3c8dcc1429"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-phillies-win-now-balancing-act",
+      "title": "The Phillies' Win-Now Balancing Act Is Already Being Tested",
+      "url": "https://neilpaine.substack.com/p/the-phillies-win-now-balancing-act",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "It's WAY too early to panic in Philadelphia. But MLB's oldest team is trying to thread a high-stakes needle &#8212; handing off to the future while still maximizing the chance to contend in the present.",
+      "publishedAt": "2026-04-01T10:03:45.000Z",
+      "articleId": "d2f110184739e673"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-real-problem-with-billionaires",
@@ -908,6 +1018,17 @@
       "articleId": "2e9ef7e984a59027"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-artist-heirs",
+      "title": "An Album a Day: Artist Heirs",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-artist-heirs",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Santana, Sinatra, Simon, and others",
+      "publishedAt": "2026-03-31T13:30:46.000Z",
+      "articleId": "e024c9182022260a"
+    },
+    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-the-concept-of-telescopic",
       "title": "Against The Concept Of Telescopic Altruism",
       "url": "https://www.astralcodexten.com/p/against-the-concept-of-telescopic",
@@ -983,6 +1104,17 @@
       "summary": "The Iran War is illustrating the cost of anti-EV nonsense.",
       "publishedAt": "2026-03-30T02:08:06.000Z",
       "articleId": "05c70b48f681f269"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-ai-really-fooling-people-mailbag",
+      "title": "Is AI Really Fooling People? Mailbag",
+      "url": "https://www.cantgetmuchhigher.com/p/is-ai-really-fooling-people-mailbag",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "This month we dive into questions about Bob Marley, fade outs, and solo stars",
+      "publishedAt": "2026-03-29T13:30:45.000Z",
+      "articleId": "905c87c86f8e0751"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/the-end-of-economics",
@@ -1117,6 +1249,17 @@
       "articleId": "fdf20f05ac3864b6"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/did-people-always-listen-to-old-music",
+      "title": "Nostalgia Isn't New",
+      "url": "https://www.cantgetmuchhigher.com/p/did-people-always-listen-to-old-music",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "On the Gay Ninetines and revivals",
+      "publishedAt": "2026-03-26T17:31:01.000Z",
+      "articleId": "929a5a3de9435cb4"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-live-sports-saved-television",
       "title": "How live sports saved television",
       "url": "https://www.worksinprogress.news/p/how-live-sports-saved-television",
@@ -1227,6 +1370,17 @@
       "articleId": "e38a8df2ce566a3c"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-released-before-1950",
+      "title": "An Album a Day: Released Before 1950",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-released-before-1950",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Bing Crosby, Woody Guthrie, Count Basie, and others",
+      "publishedAt": "2026-03-24T13:31:12.000Z",
+      "articleId": "7afe65ba886400f6"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/there-isnt-always-a-long-arc-of-morality",
       "title": "There isn't always a \"long arc\" of morality",
       "url": "https://www.noahpinion.blog/p/there-isnt-always-a-long-arc-of-morality",
@@ -1258,6 +1412,17 @@
       "summary": "In which a robot and I have a fun dorm-room chat about the future of science.",
       "publishedAt": "2026-03-22T14:57:49.000Z",
       "articleId": "110ca39f86b51d7e"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/live-nation-bob-power-and-the-chipmunks",
+      "title": "Live Nation, Bob Power, and The Chipmunks Go Punk: Link Drop",
+      "url": "https://www.cantgetmuchhigher.com/p/live-nation-bob-power-and-the-chipmunks",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "A round-up of the most important stories in music right now",
+      "publishedAt": "2026-03-22T13:31:27.000Z",
+      "articleId": "b90bdffe0945fbef"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/when-the-dog-doesnt-bark",
@@ -1324,6 +1489,17 @@
       "summary": "It should never have come to this.",
       "publishedAt": "2026-03-19T17:50:19.000Z",
       "articleId": "16be05c78d8424e5"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/critics-hate-the-biggest-band-of",
+      "title": "Critics Hate the Biggest Band of the 2010s",
+      "url": "https://www.cantgetmuchhigher.com/p/critics-hate-the-biggest-band-of",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Is the rock band dead? Or just changing shape?",
+      "publishedAt": "2026-03-19T17:30:45.000Z",
+      "articleId": "dae66a50b49c848e"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-much-computing-power-is-in-a",
@@ -1403,6 +1579,17 @@
       "articleId": "647c539f40c69299"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-before-they-went-solo",
+      "title": "An Album a Day: Before They Went Solo",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-before-they-went-solo",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring No Doubt, The Miracles, Will Smith, and others",
+      "publishedAt": "2026-03-17T13:31:35.000Z",
+      "articleId": "4f1ddb95dc24d16e"
+    },
+    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
       "title": "Last week John Harbaugh reshaped the Giants' roster; here's what they still need",
       "url": "https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
@@ -1456,6 +1643,17 @@
       "summary": "Anthropic's annualized revenue doubled in just two months.",
       "publishedAt": "2026-03-16T15:26:57.000Z",
       "articleId": "b60a079f444b59da"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-much-does-spotify-pay-a-conversation",
+      "title": "How Much Does Spotify Pay? A Conversation with Samuel Duboff",
+      "url": "https://www.cantgetmuchhigher.com/p/how-much-does-spotify-pay-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "A Spotify exec stops by to talk royalties",
+      "publishedAt": "2026-03-15T13:30:55.000Z",
+      "articleId": "6976d6213cfb982d"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-future-isnt-what-it-used-to-be",
@@ -1546,6 +1744,17 @@
       "articleId": "d7fbc5263e0dcc9f"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-piano-bar-teaches-us-what-lives",
+      "title": "The Piano Bar Teaches Us What Music Lives and Dies",
+      "url": "https://www.cantgetmuchhigher.com/p/the-piano-bar-teaches-us-what-lives",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Sing us a song ...",
+      "publishedAt": "2026-03-12T17:31:05.000Z",
+      "articleId": "302e79a15dee5837"
+    },
+    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-shape-of-the-thing",
       "title": "The Shape of the Thing",
       "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
@@ -1610,6 +1819,17 @@
       "summary": "The coalitions are hardening, and the weapons are being deployed.",
       "publishedAt": "2026-03-10T23:13:08.000Z",
       "articleId": "67ea2d281c41d14e"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-first-album-second",
+      "title": "An Album a Day: First Album, Second Act",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-first-album-second",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Few people get famous. Even fewer people get famous twice.",
+      "publishedAt": "2026-03-10T13:31:36.000Z",
+      "articleId": "71fd757aace04a01"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7094820/2026/03/09/jermaine-eluemunor-giants-nfl-free-agency-2026/",
@@ -1711,6 +1931,17 @@
       "articleId": "6331cf176c8891ea"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/long-live-robert-christgau-a-conversation",
+      "title": "Long Live Robert Christgau: A Conversation with Matty Wishnow",
+      "url": "https://www.cantgetmuchhigher.com/p/long-live-robert-christgau-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "The world famous critic finally gets the documentary treatment",
+      "publishedAt": "2026-03-08T13:31:20.000Z",
+      "articleId": "44b377d5c6eb0828"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/something-feels-weird-about-this",
       "title": "Something feels weird about this economy",
       "url": "https://www.noahpinion.blog/p/something-feels-weird-about-this",
@@ -1753,6 +1984,17 @@
       "summary": "Who's likely staying and who's likely on the way out with free agency a few days away.",
       "publishedAt": "2026-03-07T10:30:26.000Z",
       "articleId": "de2178a4cdddf1f7"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/freak-out",
+      "title": "Freak Out!",
+      "url": "https://scottsumner.substack.com/p/freak-out",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "When it's time to panic",
+      "publishedAt": "2026-03-06T19:22:57.000Z",
+      "articleId": "47ddc9b45df23a60"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/introducing-works-in-progress-out",
@@ -1799,6 +2041,17 @@
       "articleId": "1731e8e987fc600b"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-the-dude-dying",
+      "title": "Is the Dude Dying?",
+      "url": "https://www.cantgetmuchhigher.com/p/is-the-dude-dying",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Or, why I'm tired of boring men",
+      "publishedAt": "2026-03-05T18:30:14.000Z",
+      "articleId": "ef7a965816b851ac"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-hyman-rickover-built-the-first",
       "title": "A demonstration at Shippingport",
       "url": "https://www.worksinprogress.news/p/how-hyman-rickover-built-the-first",
@@ -1830,6 +2083,17 @@
       "summary": "A guest post by Rie Yano.",
       "publishedAt": "2026-03-04T05:24:08.000Z",
       "articleId": "843120fc18829bad"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-one-hit-wonders-and",
+      "title": "An Album a Day: One-Hit Wonders & Disses",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-one-hit-wonders-and",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "A friend and I are listening to an album each day this year. Let me tell you about it.",
+      "publishedAt": "2026-03-03T14:30:27.000Z",
+      "articleId": "a473a4fc1170bcd6"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-inflation-destroyed-communism",
@@ -1876,6 +2140,28 @@
       "articleId": "7baed963ab0fd1cd"
     },
     {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/a-scoundrels-last-refuge",
+      "title": "A scoundrel's last refuge",
+      "url": "https://scottsumner.substack.com/p/a-scoundrels-last-refuge",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Good and bad patriotism",
+      "publishedAt": "2026-03-01T18:04:35.000Z",
+      "articleId": "c2401801b4194eef"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/when-chinese-and-us-culture-meet",
+      "title": "When Chinese and US Culture Meet: A Conversation with Yi-Ling Liu",
+      "url": "https://www.cantgetmuchhigher.com/p/when-chinese-and-us-culture-meet",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "China and the US are two of the biggest global superpowers. But how do their cultures interact?",
+      "publishedAt": "2026-03-01T14:30:46.000Z",
+      "articleId": "c93d6ce9da7f8f54"
+    },
+    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-022826",
       "title": "Reading List 02/28/26",
       "url": "https://www.construction-physics.com/p/reading-list-022826",
@@ -1907,6 +2193,17 @@
       "summary": "Plus, why they might be in on a running back, out on tight ends, and a new candidate for the No. 5 pick emerges.",
       "publishedAt": "2026-02-28T10:30:01.000Z",
       "articleId": "8a986dc889ab2e3f"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/good-things-are-good",
+      "title": "Good things are good",
+      "url": "https://scottsumner.substack.com/p/good-things-are-good",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "No, overproduction did not cause the Great Depression",
+      "publishedAt": "2026-02-27T21:23:11.000Z",
+      "articleId": "a59b677413bb7149"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/sorry-skeptics-ai-really-is-changing",
@@ -1953,6 +2250,17 @@
       "articleId": "565f2427459d1bff"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/country-music-always-comes-back",
+      "title": "Country Music Always Comes Back",
+      "url": "https://www.cantgetmuchhigher.com/p/country-music-always-comes-back",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Yee-haw!",
+      "publishedAt": "2026-02-26T18:31:13.000Z",
+      "articleId": "b5aa78651e9f8bcf"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/review-how-africa-works",
       "title": "Review: How Africa Works",
       "url": "https://www.worksinprogress.news/p/review-how-africa-works",
@@ -1962,6 +2270,17 @@
       "summary": "How Africa Works by Joe Studwell is the sequel to one of the most influential books written on development in recent decades.",
       "publishedAt": "2026-02-26T12:31:08.000Z",
       "articleId": "194a6719199d90d8"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/some-like-it-hot",
+      "title": "Some like it hot",
+      "url": "https://scottsumner.substack.com/p/some-like-it-hot",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Our tropical future",
+      "publishedAt": "2026-02-25T22:02:13.000Z",
+      "articleId": "e9ebfeac23e59c6c"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/what-holds-america-together",
@@ -2063,6 +2382,17 @@
       "articleId": "7833c96306e0ed56"
     },
     {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/rip-to-a-great-songwriter-a-conversation",
+      "title": "RIP to a Great Songwriter: A Conversation with Billy Steinberg",
+      "url": "https://www.cantgetmuchhigher.com/p/rip-to-a-great-songwriter-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Today we celebrate the like of one of the 20th century's great hit-makers",
+      "publishedAt": "2026-02-22T14:28:21.000Z",
+      "articleId": "97ab8e68f36e7bf2"
+    },
+    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-022126",
       "title": "Reading List 02/21/26",
       "url": "https://www.construction-physics.com/p/reading-list-022126",
@@ -2074,6 +2404,17 @@
       "articleId": "658e53df84ad28d0"
     },
     {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/replacement-anxiety",
+      "title": "Replacement anxiety",
+      "url": "https://scottsumner.substack.com/p/replacement-anxiety",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Will \"they\" replace us, or will \"it\" replace us?",
+      "publishedAt": "2026-02-20T01:37:04.000Z",
+      "articleId": "7da7f6a535fad5ac"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
       "title": "Issue 22: Why Europe doesn’t have a Tesla",
       "url": "https://www.worksinprogress.news/p/issue-22-why-europe-doesnt-have-a",
@@ -2083,347 +2424,6 @@
       "summary": "Plus: Why communist reforms almost always failed, the golden age of vaccines, and the everything plant.",
       "publishedAt": "2026-02-19T15:14:46.000Z",
       "articleId": "70902adcad1919e3"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/is-the-future-aws-for-everything",
-      "title": "Is the Future “AWS for Everything”?",
-      "url": "https://www.construction-physics.com/p/is-the-future-aws-for-everything",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A theme running through my book is the idea that efficiency improvements, and the various methods for making products cheaper over time, have historically been dependent on some degree of repetition, on running your production process over and over again.",
-      "publishedAt": "2026-02-19T13:01:06.000Z",
-      "articleId": "ca5134c03326c6a7"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/waymo-just-revealed-a-crucial-statistic",
-      "title": "Waymo just revealed a crucial statistic for scaling its technology",
-      "url": "https://www.understandingai.org/p/waymo-just-revealed-a-crucial-statistic",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "At any moment, just 70 people oversee Waymo&#8217;s 3,000-vehicle fleet.",
-      "publishedAt": "2026-02-18T20:42:12.000Z",
-      "articleId": "41e8a3432c1cb65f"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7051410/2026/02/18/new-york-giants-free-agency-draft-plans/",
-      "title": "From Kayvon Thibodeaux to Dexter Lawrence, a Giants 10-step offseason plan",
-      "url": "https://www.nytimes.com/athletic/7051410/2026/02/18/new-york-giants-free-agency-draft-plans/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A look at how the Giants should approach free agency and the draft ahead of John Harbaugh's first season.",
-      "publishedAt": "2026-02-18T10:30:34.000Z",
-      "articleId": "dd24500abcb44dd0"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
-      "title": "A Guide to Which AI to Use in the Agentic Era",
-      "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "It's not just chatbots anymore",
-      "publishedAt": "2026-02-18T01:45:41.000Z",
-      "articleId": "f0214b6795f1c055"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/a-volcano-scorched-hundreds-of-roman",
-      "title": "A volcano scorched hundreds of Roman scrolls — can AI recover their text?",
-      "url": "https://www.understandingai.org/p/a-volcano-scorched-hundreds-of-roman",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "Despite early breakthroughs, it could take years to decode all the scrolls.",
-      "publishedAt": "2026-02-17T16:37:01.000Z",
-      "articleId": "7730a371ec494c1b"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/02/15/opinion/jeffrey-epstein-ro-khanna.html",
-      "title": "Ro Khanna Is Shaken by What He’s Learned From the Epstein Files",
-      "url": "https://www.nytimes.com/2026/02/15/opinion/jeffrey-epstein-ro-khanna.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Epstein’s network may not have known everything, but it is hard to deny that many of them knew enough to know better.",
-      "publishedAt": "2026-02-16T02:53:34.000Z",
-      "articleId": "b11f78d35447c6d9"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/walking-duluth",
-      "title": "Walking Duluth",
-      "url": "https://walkingtheworld.substack.com/p/walking-duluth",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "A wonderful town that reminds you, place still matters.",
-      "publishedAt": "2026-02-15T18:34:21.000Z",
-      "articleId": "88969136d22ad12f"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-021426",
-      "title": "Reading list 02/14/26",
-      "url": "https://www.construction-physics.com/p/reading-list-021426",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Welcome to the reading list, a weekly list of news and links related to buildings, infrastructure, and industrial technology.",
-      "publishedAt": "2026-02-14T13:01:32.000Z",
-      "articleId": "0a242a90e5e2c733"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7043576/2026/02/13/new-york-giants-defensive-roster/",
-      "title": "One thought on every New York Giants defensive player ahead of free agency",
-      "url": "https://www.nytimes.com/athletic/7043576/2026/02/13/new-york-giants-defensive-roster/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Taking a look at the parts of what could be an elite defense in John Harbaugh's first season.",
-      "publishedAt": "2026-02-13T10:31:18.000Z",
-      "articleId": "4ea9f1f889565f78"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
-      "title": "Steve Tisch is embroiled in the Jeffrey Epstein scandal. What is his role with the Giants?",
-      "url": "https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The co-owner has been embroiled in controversy after being connected to Jeffrey Epstein.",
-      "publishedAt": "2026-02-13T10:30:08.000Z",
-      "articleId": "4be375a925b712fc"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/trends-in-us-construction-productivity",
-      "title": "Trends in US Construction Productivity",
-      "url": "https://www.construction-physics.com/p/trends-in-us-construction-productivity",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "(This is a chapter of a longer report I&#8217;m working on that summarizes and expands the last several years of my work on construction productivity.",
-      "publishedAt": "2026-02-12T13:03:20.000Z",
-      "articleId": "72d5b78f934bd116"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7038577/2026/02/11/brian-callahan-new-york-giants/",
-      "title": "Giants to hire former Titans head coach Brian Callahan as QBs coach: Sources",
-      "url": "https://www.nytimes.com/athletic/7038577/2026/02/11/brian-callahan-new-york-giants/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Callahan was also the Bengals' offensive coordinator for five seasons.",
-      "publishedAt": "2026-02-11T15:02:44.000Z",
-      "articleId": "5e76c794b28c1a53"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/the-many-masks-that-llms-wear",
-      "title": "The many masks LLMs wear",
-      "url": "https://www.understandingai.org/p/the-many-masks-that-llms-wear",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "Why frontier labs struggle to keep their chatbots in character.",
-      "publishedAt": "2026-02-09T14:01:26.000Z",
-      "articleId": "6b633d2f3afe7ced"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-02062026",
-      "title": "Reading List 02/06/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-02062026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Welcome to the reading list, a look at what happened this week in infrastructure, buildings, and building things.",
-      "publishedAt": "2026-02-06T13:03:43.000Z",
-      "articleId": "f5dbc80af82ab25b"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/hes-not-the-worst-kevin",
-      "title": "He’s Not the Worst Kevin",
-      "url": "https://www.joshbarro.com/p/hes-not-the-worst-kevin",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "The best available Fed endgame likely ends with confirming Kevin Warsh, but moderate senators should first keep pushing the administration to end DOJ interference in monetary policy.",
-      "publishedAt": "2026-02-04T18:19:25.000Z",
-      "articleId": "c3eef68814f198fe"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/is-it-really-so-much-better-now",
-      "title": "Is it Really So Much Better Now?",
-      "url": "https://walkingtheworld.substack.com/p/is-it-really-so-much-better-now",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Thoughts on the machines and food delivery, while stuck in a McDonald's (Again),",
-      "publishedAt": "2026-02-03T23:13:22.000Z",
-      "articleId": "efb5b59bd548fcbb"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/02/01/opinion/trump-minneapolis-power-muzzle-velocity.html",
-      "title": "Trump Has Overwhelmed Himself",
-      "url": "https://www.nytimes.com/2026/02/01/opinion/trump-minneapolis-power-muzzle-velocity.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "This is a presidency that is, by any measure, failing.",
-      "publishedAt": "2026-02-02T14:47:19.000Z",
-      "articleId": "8db7bef0d2082b5b"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-for-01312026",
-      "title": "Reading List for 01/31/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-for-01312026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Welcome to the Reading List, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology.",
-      "publishedAt": "2026-01-31T13:02:52.000Z",
-      "articleId": "14f183f182c74b5e"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/the-feds-are-probing-waymos-behavior",
-      "title": "The feds are probing Waymo's behavior around school children",
-      "url": "https://www.understandingai.org/p/the-feds-are-probing-waymos-behavior",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "It's not clear if Waymo was at fault for striking a child at 6 mph.",
-      "publishedAt": "2026-01-29T20:48:29.000Z",
-      "articleId": "31439ba635905dc8"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/on-technologies-vs-commodities",
-      "title": "On Technologies vs. Commodities",
-      "url": "https://www.construction-physics.com/p/on-technologies-vs-commodities",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A theory that has gained traction in the renewable energy space is that renewable energy sources like wind and solar are based on manufactured &#8220;technologies&#8221;, while fossil fuel energy sources like oil, coal, and natural gas are based on extracted &#8220;commodities&#8221;.",
-      "publishedAt": "2026-01-29T13:00:33.000Z",
-      "articleId": "3173c90fdbfeef02"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/an-unlikely-ally-for-open-source",
-      "title": "An unlikely ally for open-source protein-folding models: Big Pharma",
-      "url": "https://www.understandingai.org/p/an-unlikely-ally-for-open-source",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "Drug companies are funding open-source AI to avoid depending on Google.",
-      "publishedAt": "2026-01-28T15:39:43.000Z",
-      "articleId": "71d39ba604d7aae1"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/management-as-ai-superpower",
-      "title": "Management as AI superpower",
-      "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "Thriving in a world of agents",
-      "publishedAt": "2026-01-27T16:55:55.000Z",
-      "articleId": "cc10a0c6660a4532"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/not-walking-chicago",
-      "title": "Not Walking Chicago",
-      "url": "https://walkingtheworld.substack.com/p/not-walking-chicago",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "A week stuck in a McDonald's, thinking about America",
-      "publishedAt": "2026-01-26T22:29:45.000Z",
-      "articleId": "ef7e26d69161ab37"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/01/25/opinion/trump-carney-davos-canada-greenland.html",
-      "title": "Trump Just Proved Mark Carney’s Point",
-      "url": "https://www.nytimes.com/2026/01/25/opinion/trump-carney-davos-canada-greenland.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Canada’s prime minister sees the president all too well.",
-      "publishedAt": "2026-01-25T08:12:47.000Z",
-      "articleId": "2342f9cfab6fe17a"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-012426",
-      "title": "Reading List 01/24/26",
-      "url": "https://www.construction-physics.com/p/reading-list-012426",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Welcome to the reading list, a weekly list of news and links related to buildings, infrastructure, and industrial technology.",
-      "publishedAt": "2026-01-24T13:00:24.000Z",
-      "articleId": "ab01fa3185319a67"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
-      "title": "How shifting risk to users makes Claude Code more powerful",
-      "url": "https://www.understandingai.org/p/how-shifting-risk-to-users-makes",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "People are discovering that Claude Code isn&#8217;t just for code.",
-      "publishedAt": "2026-01-20T19:36:47.000Z",
-      "articleId": "f7313c77e717b650"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/engineering-as-humanitys-highest",
-      "title": "Engineering as Humanity's Highest Achievement",
-      "url": "https://walkingtheworld.substack.com/p/engineering-as-humanitys-highest",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Building the best world possible",
-      "publishedAt": "2026-01-16T18:13:11.000Z",
-      "articleId": "e28d98d3ffa01e37"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/ai-is-just-starting-to-change-the",
-      "title": "AI is just starting to change the legal profession",
-      "url": "https://www.understandingai.org/p/ai-is-just-starting-to-change-the",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "I talked to 10 lawyers about how they're using AI.",
-      "publishedAt": "2026-01-15T20:06:17.000Z",
-      "articleId": "b9ea123445154e58"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/the-cult-of-jasmine-crockett-shows",
-      "title": "The Cult of Jasmine Crockett Shows Democrats are Still Trapped in the Dumbest Form of Identity Politics",
-      "url": "https://www.joshbarro.com/p/the-cult-of-jasmine-crockett-shows",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Comedians Bowen Yang and Matt Rogers were right to tell people not to waste money on her campaign. But they had to apologize anyway.",
-      "publishedAt": "2026-01-14T18:56:50.000Z",
-      "articleId": "0ac6652319b6d56d"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/capitalism-for-developers-communism",
-      "title": "Capitalism for Developers, Communism for Landlords",
-      "url": "https://www.joshbarro.com/p/capitalism-for-developers-communism",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Zohran Mamdani is attempting this synthesis &#8212; one with some basis in our city's housing policy history &#8212; but I doubt it's one he'll be able to implement.",
-      "publishedAt": "2026-01-08T15:05:53.000Z",
-      "articleId": "0e707aee144b66ea"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
-      "title": "Claude Code and What Comes Next",
-      "url": "https://www.oneusefulthing.org/p/claude-code-and-what-comes-next",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "With the right tools, AI can accomplish impressive things",
-      "publishedAt": "2026-01-07T23:00:10.000Z",
-      "articleId": "4e544687a29a856f"
     }
   ],
   "sources": [
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -2470,16 +2470,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2502,8 +2502,8 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 3,
+      "mode": "rss",
+      "itemCount": 9,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2577,6 +2577,14 @@
       "mode": "rss",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
+      "error": null
+    },
+    {
+      "name": "Can't Get Much Higher",
+      "url": "https://www.cantgetmuchhigher.com/",
+      "mode": "rss",
+      "itemCount": 20,
+      "feedUrl": "https://www.cantgetmuchhigher.com/feed",
       "error": null
     },
     {

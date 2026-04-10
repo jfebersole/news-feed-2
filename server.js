@@ -122,6 +122,11 @@ const SOURCES = [
     feedUrl: "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
   },
   {
+    name: "Can't Get Much Higher",
+    url: "https://www.cantgetmuchhigher.com/",
+    feedUrl: "https://www.cantgetmuchhigher.com/feed",
+  },
+  {
     name: "Josh Barro",
     url: "https://www.joshbarro.com/",
     feedUrl: "https://www.joshbarro.com/feed",
@@ -1261,8 +1266,8 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
   }
 
   const blockSelector = options.preferSubstackMedia
-    ? "h2,h3,h4,p,ul,ol,figure,div[class*='imageRow'],img,blockquote,pre,hr"
-    : "h2,h3,h4,p,ul,ol,figure,img,blockquote,pre,hr";
+    ? "h2,h3,h4,h5,h6,p,ul,ol,table,figure,div[data-component-name='DatawrapperToDOM'],div[class*='imageRow'],img,blockquote,pre,hr"
+    : "h2,h3,h4,h5,h6,p,ul,ol,table,figure,div[data-component-name='DatawrapperToDOM'],img,blockquote,pre,hr";
 
   const blocks = [];
   const rootNode = container.get(0);
@@ -1332,6 +1337,7 @@ function hasMatchingContentAncestor($, element, rootNode, selector) {
 function shouldKeepContentBlock($, element, options = {}) {
   const node = $(element);
   const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
+  const componentName = (node.attr("data-component-name") || "").toLowerCase();
   if (/(footnote|fnref|share|social|newsletter|related|comment|popup|cookie|paywall)/.test(marker)) {
     return false;
   }
@@ -1366,6 +1372,10 @@ function shouldKeepContentBlock($, element, options = {}) {
   const hasImages = tag === "img" || node.find("img").length > 0;
 
   if (tag === "div") {
+    if (componentName === "datawrappertodom") {
+      return true;
+    }
+
     return options.preferSubstackMedia && isSubstackImageRowMarker(marker) && node.find("img").length >= 2;
   }
 
@@ -1433,6 +1443,13 @@ function sanitizeContentBlock($, element, baseUrl) {
     "ul",
     "ol",
     "li",
+    "table",
+    "thead",
+    "tbody",
+    "tfoot",
+    "tr",
+    "th",
+    "td",
     "blockquote",
     "pre",
     "code",
@@ -1445,6 +1462,8 @@ function sanitizeContentBlock($, element, baseUrl) {
     "h2",
     "h3",
     "h4",
+    "h5",
+    "h6",
     "hr",
     "br",
     "sup",
@@ -1487,7 +1506,7 @@ function sanitizeContentBlock($, element, baseUrl) {
     }
 
     if (tag === "div") {
-      normalizeDivElement($node, attrs);
+      normalizeDivElement($node, attrs, baseUrl);
       return;
     }
 
@@ -1593,8 +1612,15 @@ function normalizeImageElement(node, attrs, baseUrl) {
   node.attr("decoding", "async");
 }
 
-function normalizeDivElement(node, attrs) {
+function normalizeDivElement(node, attrs, baseUrl) {
   const marker = `${attrs.class || ""} ${attrs.id || ""}`.toLowerCase();
+  const componentName = (attrs["data-component-name"] || "").toLowerCase();
+
+  if (componentName === "datawrappertodom") {
+    normalizeDatawrapperElement(node, attrs, baseUrl);
+    return;
+  }
+
   if (!isSubstackImageRowMarker(marker)) {
     node.replaceWith(node.contents());
     return;
@@ -1604,6 +1630,42 @@ function normalizeDivElement(node, attrs) {
   const columns = extractSubstackImageRowColumns(marker);
   if (columns > 1) {
     node.attr("data-columns", String(columns));
+  }
+}
+
+function normalizeDatawrapperElement(node, attrs, baseUrl) {
+  const payload = parseEmbeddedJsonAttr(attrs["data-attrs"] || "");
+  const sourceUrl = sanitizeUrl(payload?.url || "", baseUrl);
+  const imageUrl = sanitizeUrl(payload?.thumbnail_url_full || payload?.thumbnail_url || "", baseUrl);
+  const title = cleanText(payload?.title || "");
+  const description = cleanText(payload?.description || "");
+  const caption = title || description;
+
+  if (!imageUrl && !sourceUrl) {
+    node.remove();
+    return;
+  }
+
+  node.empty();
+  node.attr("class", "reader-datawrapper");
+
+  if (imageUrl) {
+    const imageHtml = `<img src="${escapeHtml(imageUrl)}" alt="${escapeHtml(
+      caption || "Embedded chart"
+    )}" loading="lazy" decoding="async" />`;
+    if (sourceUrl) {
+      node.append(
+        `<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">${imageHtml}</a>`
+      );
+    } else {
+      node.append(imageHtml);
+    }
+  } else if (sourceUrl) {
+    node.append(`<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">Open chart</a>`);
+  }
+
+  if (caption) {
+    node.append(`<p>${escapeHtml(caption)}</p>`);
   }
 }
 
@@ -1623,6 +1685,25 @@ function extractSubstackImageRowColumns(marker) {
   }
 
   return Math.max(0, Math.min(4, Math.round(value)));
+}
+
+function parseEmbeddedJsonAttr(rawValue) {
+  if (!rawValue || typeof rawValue !== "string") {
+    return null;
+  }
+
+  const decoded = rawValue
+    .replace(/&quot;|&#34;/gi, '"')
+    .replace(/&#39;|&#x27;|&apos;/gi, "'")
+    .replace(/&amp;/gi, "&")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">");
+
+  try {
+    return JSON.parse(decoded);
+  } catch {
+    return null;
+  }
 }
 
 function extractFirstUrlFromSrcset(srcset) {

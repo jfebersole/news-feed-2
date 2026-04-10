@@ -24,6 +24,8 @@ const searchInput = document.querySelector("#searchInput");
 const refreshBtn = document.querySelector("#refreshBtn");
 const lastUpdated = document.querySelector("#lastUpdated");
 const homeLink = document.querySelector("#homeLink");
+const brandBlock = document.querySelector(".brand-block");
+const issueKicker = document.querySelector(".issue-kicker");
 const readerPanel = document.querySelector("#readerPanel");
 const readerRailTitle = document.querySelector("#readerRailTitle");
 const readerLink = document.querySelector("#readerLink");
@@ -38,6 +40,12 @@ const readerReason = document.querySelector("#readerReason");
 const readerBody = document.querySelector("#readerBody");
 const readerSticky = document.querySelector(".reader-sticky");
 const htmlEntityDecoder = document.createElement("textarea");
+const textMeasureCanvas = document.createElement("canvas");
+const textMeasureContext = textMeasureCanvas.getContext("2d");
+const brandLockupObserver =
+  typeof ResizeObserver === "function" && brandBlock && issueKicker && homeLink
+    ? new ResizeObserver(syncBrandLockup)
+    : null;
 let readerRequestId = 0;
 let pendingCardGridFocus = false;
 
@@ -81,6 +89,7 @@ window.addEventListener(
 );
 
 window.addEventListener("resize", () => {
+  syncBrandLockup();
   updateReaderProgress();
 });
 
@@ -113,6 +122,15 @@ homeLink.addEventListener("click", (event) => {
 loadFeed().catch((error) => {
   console.error(error);
 });
+
+syncBrandLockup();
+brandLockupObserver?.observe(issueKicker);
+brandLockupObserver?.observe(homeLink);
+document.fonts?.ready
+  ?.then(() => {
+    syncBrandLockup();
+  })
+  .catch(() => {});
 
 async function loadFeed(force = false) {
   state.loading = true;
@@ -446,6 +464,9 @@ async function openReader(item, options = {}) {
     if (requestId === readerRequestId) {
       state.readerLoading = false;
       renderReader();
+      if (!fromHistory) {
+        scrollToReaderTitle();
+      }
     }
   }
 }
@@ -485,10 +506,18 @@ function scrollToReaderTitle() {
     return;
   }
 
+  const setWindowScrollTop = (value) => {
+    window.scrollTo(0, value);
+    document.documentElement.scrollTop = value;
+    if (document.body) {
+      document.body.scrollTop = value;
+    }
+  };
+
   const alignTitleNearTop = () => {
     const titleRect = readerTitle.getBoundingClientRect();
     const targetTop = Math.max(0, window.scrollY + titleRect.top - 18);
-    window.scrollTo({ top: targetTop, behavior: "auto" });
+    setWindowScrollTop(targetTop);
   };
 
   window.requestAnimationFrame(() => {
@@ -579,6 +608,80 @@ function renderReader() {
   readerBody.innerHTML =
     article.contentHtml || "<p>No extracted content was available for this story.</p>";
   updateReaderProgress();
+}
+
+function syncBrandLockup() {
+  if (!brandBlock || !issueKicker || !homeLink) {
+    return;
+  }
+
+  const kickerRect = issueKicker.getBoundingClientRect();
+  const titleRect = homeLink.getBoundingClientRect();
+  const kickerInsets = getTextInkInsets(issueKicker);
+  const titleInsets = getTextInkInsets(homeLink);
+  const logoOffset = kickerInsets.top;
+  const stackHeight = (titleRect.bottom - titleInsets.bottom) - (kickerRect.top + logoOffset);
+
+  if (stackHeight <= 0) {
+    return;
+  }
+
+  brandBlock.style.setProperty("--brand-logo-offset", `${logoOffset.toFixed(2)}px`);
+  brandBlock.style.setProperty("--brand-stack-height", `${stackHeight.toFixed(2)}px`);
+}
+
+function getTextInkInsets(element) {
+  if (!textMeasureContext || !element) {
+    return { top: 0, bottom: 0 };
+  }
+
+  const text = element.textContent?.trim();
+  if (!text) {
+    return { top: 0, bottom: 0 };
+  }
+
+  const style = window.getComputedStyle(element);
+  const fontSize = Number.parseFloat(style.fontSize) || 0;
+
+  const font = [style.fontStyle, style.fontVariant, style.fontWeight, style.fontSize, style.fontFamily]
+    .filter(Boolean)
+    .join(" ");
+
+  textMeasureContext.font = font;
+
+  // 1. Ask Canvas for the true typographic height of a flat letter
+  let measureText = "H";
+  if (style.textTransform === "lowercase") {
+    measureText = "x";
+  } else if (style.textTransform === "none" || !style.textTransform) {
+    measureText = "Hx"; 
+  }
+
+  const metrics = textMeasureContext.measureText(measureText);
+  const capHeight = metrics.actualBoundingBoxAscent ?? metrics.fontBoundingBoxAscent ?? (fontSize * 0.72);
+
+  // 2. THE FIX: DOM Baseline Injection
+  // Inject a 0x0 invisible marker to find the EXACT pixel coordinate of the CSS baseline
+  const marker = document.createElement("span");
+  marker.style.display = "inline-block";
+  marker.style.width = "0px";
+  marker.style.height = "0px";
+  marker.style.lineHeight = "0";
+  marker.style.verticalAlign = "baseline";
+  
+  element.appendChild(marker);
+  const baselineY = marker.getBoundingClientRect().bottom; // This is the exact CSS baseline
+  marker.remove();
+
+  const elementRect = element.getBoundingClientRect();
+
+  // 3. Calculate true insets based on exact viewport coordinates
+  const inkTop = baselineY - capHeight;
+  
+  return {
+    top: Math.max(0, inkTop - elementRect.top),
+    bottom: Math.max(0, elementRect.bottom - baselineY),
+  };
 }
 
 function buildReaderMeta(article, item) {

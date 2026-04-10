@@ -6,8 +6,12 @@
     <title>NEWS FEED</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
+    <!-- <link
       href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600&family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&display=swap"
+      rel="stylesheet"
+    /> -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600&family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Oswald:wght@400;500&family=Rajdhani:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
@@ -16,15 +20,20 @@
     <main class="app-shell">
       <header class="masthead">
         <div class="brand-block">
-          <div class="brand-mark" aria-hidden="true">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-          <div>
+          <span class="header-logo" aria-hidden="true">
+            <svg viewBox="0 0 100 100" role="img" focusable="false">
+              <path d="M0 5H95V100" />
+              <path d="M0 25H75V100" />
+              <path d="M0 45H55V100" />
+              <path d="M0 65H35V100" />
+              <rect x="0" y="80" width="20" height="20" />
+            </svg>
+          </span>
+          <div class="brand-copy">
             <p class="issue-kicker">Issue 01 · Daily Build</p>
-            <h1><a href="#" id="homeLink" class="home-link">NEWS FEED</a></h1>
-            <p class="subhead">A single reading desk for your long-form internet.</p>
+            <h1>
+              <a href="#" id="homeLink" class="home-link">NEWS FEED</a>
+            </h1>
           </div>
         </div>
         <div class="masthead-controls">
