@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-11T16:58:49.749Z",
-  "fetchedAt": "2026-04-11T16:58:49.746Z",
+  "generatedAt": "2026-04-11T17:45:00.584Z",
+  "fetchedAt": "2026-04-11T17:45:00.581Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 289,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/saturday-discussion-post-387",
+      "title": "Saturday discussion post",
+      "url": "https://www.slowboring.com/p/saturday-discussion-post-387",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A dollhouse for your Saturday:",
+      "publishedAt": "2026-04-11T17:00:46.000Z",
+      "articleId": "7c8b5f487242f2d0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-556.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-556",
       "title": "Saturday assorted links",
@@ -950,17 +961,6 @@
       "summary": "Reflections on a unique nation.",
       "publishedAt": "2026-04-01T10:29:51.000Z",
       "articleId": "20d81f3c8dcc1429"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-real-problem-with-billionaires",
-      "title": "The real problem with billionaires",
-      "url": "https://www.slowboring.com/p/the-real-problem-with-billionaires",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Lavish consumption and huge inheritances are hard to justify in a world with so many pressing needs.",
-      "publishedAt": "2026-04-01T10:03:33.000Z",
-      "articleId": "04cb35e120420b9c"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
