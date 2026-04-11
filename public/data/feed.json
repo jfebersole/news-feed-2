@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-11T15:46:44.082Z",
-  "fetchedAt": "2026-04-11T15:46:44.079Z",
+  "generatedAt": "2026-04-11T16:18:33.693Z",
+  "fetchedAt": "2026-04-11T16:18:33.690Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 289,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html",
+      "title": "Trump’s Iran War Is a Familiar Middle Eastern Folly",
+      "url": "https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "American power can survive America’s recurring overreach.",
+      "publishedAt": "2026-04-11T16:00:58.000Z",
+      "articleId": "5534a9d9800a1769"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04112026",
       "title": "Reading List 04/11/2026",
@@ -15,17 +26,6 @@
       "summary": "Is the Strait of Hormuz open yet, building code cost benefit analysis, Intel joining Terafab, sponge cities, and more.",
       "publishedAt": "2026-04-11T12:02:56.000Z",
       "articleId": "cf6f2e180ca0a267"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html",
-      "title": "Trump’s Iran War Is a Familiar Middle Eastern Folly",
-      "url": "https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "American power can survive America’s recurring overreach.",
-      "publishedAt": "2026-04-11T11:54:52.000Z",
-      "articleId": "5534a9d9800a1769"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-6-10-2026",
