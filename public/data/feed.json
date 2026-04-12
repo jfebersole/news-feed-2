@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-12T21:21:09.152Z",
-  "fetchedAt": "2026-04-12T21:21:09.149Z",
+  "generatedAt": "2026-04-12T21:55:06.732Z",
+  "fetchedAt": "2026-04-12T21:55:06.730Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 280,
+  "totalItemCount": 289,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/orban-concedes.html?utm_source=rss&utm_medium=rss&utm_campaign=orban-concedes",
+      "title": "Orbán concedes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/orban-concedes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "And that is in Hungary, which does not have much of a democratic tradition. People who suggest that democracy seriously is in danger in the United States need to rethink their world views. The problem instead is that democracy does not always bring you desired results&#8230; The post Orbán concedes appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-12T21:47:37.000Z",
+      "articleId": "11087e4a8d2b1a57"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
       "title": "Hasan Piker Is Not the Enemy",
@@ -45,7 +56,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Have recessions disappeared? 2. Humans are losing the fight against flying fish (WSJ). 3. Bruce Lee in action. 4. Helium is hard to replace. 5. Does using AI for legal research and work limit later comprehension? (No, it seems) 6. Can the CCP contain LLMs? The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. Have recessions disappeared? 2. Humans are losing the fight against flying fish (WSJ). 3. In this study expert judges preferred the AI writing. 4. Helium is hard to replace. 5. Does using AI for legal research and work limit later comprehension? (No, it seems) 6. Can the CCP contain LLMs? The post Sunday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-12T16:14:35.000Z",
       "articleId": "a84c965e95bb2081"
     },
@@ -356,17 +367,6 @@
       "summary": "I'm looking at you, Harry Styles",
       "publishedAt": "2026-04-09T17:31:34.000Z",
       "articleId": "b51c257bd4eafff4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-547.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-547",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-547.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The &#8220;estrangement&#8221; from philosophy of economics. 2. Investing in scientific instruments. 3. New book coming on Carlsen vs. Niemann. 4. Houston economy growing at more than ten percent (and that is even without moving forward on bike paths). 5. &#8220;As Matt Yglesias rightly says, this is a worrying signal of declining state legitimacy: even [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-09T16:06:10.000Z",
-      "articleId": "e492651cc9a56621"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/d5pbhdz6luqvoi6zdoze.html",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
