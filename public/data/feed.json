@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-12T08:07:37.330Z",
-  "fetchedAt": "2026-04-12T08:07:37.327Z",
+  "generatedAt": "2026-04-12T09:07:51.387Z",
+  "fetchedAt": "2026-04-12T09:07:51.384Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 280,
@@ -2441,7 +2441,7 @@
       "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
