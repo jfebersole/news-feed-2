@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-12T06:59:05.193Z",
-  "fetchedAt": "2026-04-12T06:59:05.189Z",
+  "generatedAt": "2026-04-12T08:07:37.330Z",
+  "fetchedAt": "2026-04-12T08:07:37.327Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 280,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/staged-homes-sell-for-more-than-empty-homes.html?utm_source=rss&utm_medium=rss&utm_campaign=staged-homes-sell-for-more-than-empty-homes",
+      "title": "Staged homes sell for more than empty homes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/staged-homes-sell-for-more-than-empty-homes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We examine the economic impact of non-consumable visual cues through home staging on high-stakes housing transactions. Using hand-collected listing photos for 15,777 transactions and a machine-learning algorithm to detect furniture, we provide the first large-scale evidence that staged homes sell for roughly 10% more and one week faster than comparable homes without furniture. Our pre-registered [&#8230;] The post Staged homes sell for more than empty homes appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-12T07:12:43.000Z",
+      "articleId": "d2108e6e81bd492a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/another-possible-cyberequilibrium-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=another-possible-cyberequilibrium-from-my-email",
       "title": "Another possible cyberequilibrium? (from my email)",
@@ -422,17 +433,6 @@
       "summary": "The Church of Jesus Christ of Latter-day Saints has grown 66% this century, fueled in part by a record-breaking number of convert baptisms in 2025. The church had 10,752,986 members at the end of 1999. The church had 17,887,212 at the end of 2025, according to an annual statistical report released Saturday during the church’s 196th Annual General Conference. [&#8230;] The post LDS fact of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-09T06:43:40.000Z",
       "articleId": "bd7ce25687075c4a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/financial-regulation-and-ai-a-faustian-bargain.html?utm_source=rss&utm_medium=rss&utm_campaign=financial-regulation-and-ai-a-faustian-bargain",
-      "title": "Financial Regulation and AI: A Faustian Bargain?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/financial-regulation-and-ai-a-faustian-bargain.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Important work is just flowing these days, and much of it (of course) concerns AI: We study whether AI methods applied to large-scale portfolio holdings data can improve financial regulation. We build a state-of-the-art, graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns [&#8230;] The post Financial Regulation and AI: A Faustian Bargain? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-09T04:45:38.000Z",
-      "articleId": "e95a44756650384a"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-anthropic-believes-its-latest",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
