@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/04/another-possible-cyberequilibrium-from-my-email.html",
+  "source": "Marginal Revolution",
+  "title": "Another possible cyberequilibrium? (from my email)",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-04-12T04:21:46.000Z",
+  "contentHtml": "<p>I would not wish to bet on this, but it is an interesting idea:</p>\n<blockquote><p>I wonder if the cyber capabilities of Mythos and future models ultimately lower the returns to ‘hacking,’ perhaps below the point where such efforts are worth investing in.</p>\n<p>Say you’re a nefarious actor and uncover a critical, zero-day exploit in an important system. How do you extract the most value from that exploit? There are more valuable and less valuable times to deploy it,&nbsp;and usually the best time won’t be “immediately.” You may only get to deploy it once or a small number of times. You have to consider:</p></blockquote>\n<ol>\n<li>How long do I expect the vulnerability to persist?</li>\n<li>What material gain do I get by exploiting it at a given time?</li>\n<li>How does exploiting it increase my personal risk (by focusing countermeasures in my direction)?</li>\n</ol>\n<blockquote><p>The answer to (1) is now “a much shorter time than before”, while 2 and 3 are mostly unchanged. In the new world, yes, exploits are much easier to find, but the expected value of a given exploit has also shrunk. The odds of an opportune moment falling within the ‘window of usefulness’ of that exploit are much lower. It’s plausible that the new equilibrium becomes “it’s not even worth spending money to find vulnerabilities in most systems, because the chances of being able to do something useful with it before it’s patched is close to zero.”</p>\n<p>Much of the fear around cybersecurity vulnerabilities is something like: our adversaries accumulate a pile of highly damaging (to physical infrastructure, military assets, communication systems, …) exploits, which in the event of a conflict they then rapidly deploy to cause damage. Mythos would seem to favor defense here, because the usable lifetime of any exploit is much shorter. Any cyberattack that is timing-dependent now has lower utility.</p>\n<p>Yes, there are more mundane cybersecurity concerns like ransomware or data theft, but these aren’t hugely significant in the scheme of things. And I would expect within a few years we’ll have fairly robust tools for automated vulnerability discovery and patching that any large business that cares about these things can deploy.</p>\n<p>No doubt this assumes you can trust those in control of the leading-edge models. But even if you’re a bit behind, the situation may not be so bad. There isn’t an infinite supply of exploits, and again, most of them only need to be found ‘fast enough’ in order to mitigate the damage.</p></blockquote>\n<p>From Jacob Gloudemans.</p>",
+  "wordCount": 412,
+  "imageCount": 0,
+  "linkCount": 0
+}
