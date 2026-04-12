@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-12T21:55:06.732Z",
-  "fetchedAt": "2026-04-12T21:55:06.730Z",
+  "generatedAt": "2026-04-12T22:50:17.629Z",
+  "fetchedAt": "2026-04-12T22:50:17.626Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 280,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/orban-concedes.html?utm_source=rss&utm_medium=rss&utm_campaign=orban-concedes",
@@ -12,7 +12,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "And that is in Hungary, which does not have much of a democratic tradition. People who suggest that democracy seriously is in danger in the United States need to rethink their world views. The problem instead is that democracy does not always bring you desired results&#8230; The post Orbán concedes appeared first on Marginal REVOLUTION .",
+      "summary": "And that is in Hungary, which does not have much of a democratic tradition. People who suggest that democracy seriously is in danger in the United States need to rethink their world views (this claim however is slightly exaggerated). The problem instead is that democracy does not always bring you desired results&#8230; The post Orbán concedes appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-12T21:47:37.000Z",
       "articleId": "11087e4a8d2b1a57"
     },
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
