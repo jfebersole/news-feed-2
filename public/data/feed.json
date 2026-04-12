@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-12T22:50:17.629Z",
-  "fetchedAt": "2026-04-12T22:50:17.626Z",
+  "generatedAt": "2026-04-12T23:21:41.624Z",
+  "fetchedAt": "2026-04-12T23:21:41.621Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 280,
+  "totalItemCount": 289,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/orban-concedes.html?utm_source=rss&utm_medium=rss&utm_campaign=orban-concedes",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
