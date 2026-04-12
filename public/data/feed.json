@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-12T20:50:03.397Z",
-  "fetchedAt": "2026-04-12T20:50:03.394Z",
+  "generatedAt": "2026-04-12T21:21:09.152Z",
+  "fetchedAt": "2026-04-12T21:21:09.149Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 280,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
+      "title": "Hasan Piker Is Not the Enemy",
+      "url": "https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Conversation is not a reward to be bestowed on those with whom we agree; it’s a base line practice.",
+      "publishedAt": "2026-04-12T20:56:41.000Z",
+      "articleId": "4b9931eb0f9e3c1c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/my-dialogue-with-jonathan-zittrain.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dialogue-with-jonathan-zittrain",
       "title": "My dialogue with Jonathan Zittrain",
@@ -26,17 +37,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-04-12T17:01:53.000Z",
       "articleId": "72608ac5c5dedfbd"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
-      "title": "Hasan Piker Is Not the Enemy",
-      "url": "https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Conversation is not a reward to be bestowed on those with whom we agree; it’s a base line practice.",
-      "publishedAt": "2026-04-12T17:00:55.000Z",
-      "articleId": "4b9931eb0f9e3c1c"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/sunday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-562",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
