@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-13T21:59:56.030Z",
-  "fetchedAt": "2026-04-13T21:59:56.027Z",
+  "generatedAt": "2026-04-13T22:57:34.043Z",
+  "fetchedAt": "2026-04-13T22:57:34.040Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 288,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/good-environment-bad-party",
+      "title": "Good environment, bad party",
+      "url": "https://www.slowboring.com/p/good-environment-bad-party",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Trump&#8217;s approval rating is in the gutter, and Democrats lead the generic ballot. But Swalwell imploded, and a Senate primary devolved into a Hasan Piker debate. The midterms are Democrats&#8217; to lose.",
+      "publishedAt": "2026-04-13T22:01:14.000Z",
+      "articleId": "87d806c87166a1fb"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ktpf2unmeqb8jyv5pkm6.html",
       "title": "Money Stuff: Prediction Market Making Is Hard",
@@ -961,17 +972,6 @@
       "summary": "A deep dive on baseball walk-out songs",
       "publishedAt": "2026-04-02T17:31:04.000Z",
       "articleId": "36e2c5020b4dcff9"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/my-new-podcast",
-      "title": "My new podcast",
-      "url": "https://www.slowboring.com/p/my-new-podcast",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Watch the official trailer for The Argument &#8212; a new podcast cohosted by Jerusalem Demsas and me.",
-      "publishedAt": "2026-04-02T15:03:11.000Z",
-      "articleId": "5b3ca5a35a92b1e2"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/information-and-technological-evolution",
