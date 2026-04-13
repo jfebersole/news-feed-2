@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-04-13T08:21:42.372Z",
-  "fetchedAt": "2026-04-13T08:21:42.368Z",
+  "generatedAt": "2026-04-13T10:10:38.418Z",
+  "fetchedAt": "2026-04-13T10:10:38.416Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 289,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-nbas-problems-are-so-much-bigger",
+      "title": "The NBA's problems are so much bigger than tanking",
+      "url": "https://www.slowboring.com/p/the-nbas-problems-are-so-much-bigger",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A broad agenda to make the regular season interest",
+      "publishedAt": "2026-04-13T10:03:05.000Z",
+      "articleId": "3e573645708580c0"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/",
+      "title": "Mythos, Muse, and the Opportunity Cost of Compute",
+      "url": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "articleId": "110d48a129fcc080"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+      "title": "The secret behind Japan's railways",
+      "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Japan's railways are the finest in the world. Other countries can copy its formula.",
+      "publishedAt": "2026-04-13T09:08:57.000Z",
+      "articleId": "b73a42a5edea00a8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/my-south-africa-dialogue-with-ann-bernstein.html?utm_source=rss&utm_medium=rss&utm_campaign=my-south-africa-dialogue-with-ann-bernstein",
       "title": "My South Africa dialogue with Ann Bernstein",
@@ -963,17 +996,6 @@
       "articleId": "9e813c14cfeb8170"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-quest-for-a-straight-white-christian",
-      "title": "The quest for a straight white Christian male savior is dumb",
-      "url": "https://www.slowboring.com/p/the-quest-for-a-straight-white-christian",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Good politicians come in all packages.",
-      "publishedAt": "2026-04-02T10:01:14.000Z",
-      "articleId": "5bfa077bc01079fa"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
       "title": "An Interview with Asymco’s Horace Dediu About Apple at 50",
       "url": "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
@@ -1126,17 +1148,6 @@
       "summary": "Courts aren’t always the right answer to our digital problems.",
       "publishedAt": "2026-03-30T18:15:02.000Z",
       "articleId": "b8794aa7e8ea8597"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/spring-break/",
-      "title": "Spring Break",
-      "url": "https://stratechery.com/2026/spring-break/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out: I will return to my usual posting schedule on Tuesday, March 31. All other Stratechery Plus content, including my podcasts, will stay on schedule.",
-      "publishedAt": "2026-03-30T10:00:00.000Z",
-      "articleId": "78abadb1241668aa"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/maybe-you-should-have-bought-an-electric",
@@ -2248,17 +2259,6 @@
       "summary": "The importance of Place, the American Dream, and the under-rated Midwest",
       "publishedAt": "2026-02-25T17:46:32.000Z",
       "articleId": "15a37465cd10b3f3"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-europe-has-stagnated",
-      "title": "Why Europe has stagnated",
-      "url": "https://www.worksinprogress.news/p/why-europe-has-stagnated",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Episode 13 of the Works in Progress is about regulation, labour markets, and energy",
-      "publishedAt": "2026-02-25T15:38:52.000Z",
-      "articleId": "d06e14d11f2b5645"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7069075/2026/02/25/new-york-giants-free-agency-decisions/",
