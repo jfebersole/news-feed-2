@@ -533,6 +533,7 @@ function normalizeFeedItem(item, source) {
     source
   );
   const feedContentHtml = pickFeedContentHtml(
+    source.name,
     item["content:encoded"],
     item.content,
     item.description,
@@ -567,6 +568,7 @@ function normalizeProxyFeedItem(item, source) {
     source
   );
   const feedContentHtml = pickFeedContentHtml(
+    source.name,
     item?.content,
     item?.description,
     item?.summary,
@@ -665,25 +667,40 @@ function buildRssProxyUrl(feedUrl) {
   return url.toString();
 }
 
-function pickFeedContentHtml(...candidates) {
-  const cleaned = candidates
-    .map((value) => normalizeFeedContentCandidate(value))
-    .filter(Boolean)
-    .sort((a, b) => {
-      const aHasMarkup = containsHtmlMarkup(a) ? 1 : 0;
-      const bHasMarkup = containsHtmlMarkup(b) ? 1 : 0;
-      if (aHasMarkup !== bHasMarkup) {
-        return bHasMarkup - aHasMarkup;
-      }
-      return b.length - a.length;
-    });
+function pickFeedContentHtml(sourceName, ...candidates) {
+  const source = String(sourceName || "").toLowerCase();
+  const analyzed = candidates
+    .map((value) => analyzeFeedContentCandidate(value))
+    .filter((candidate) => candidate.value);
 
-  if (!cleaned.length) {
+  if (!analyzed.length) {
     return "";
   }
 
-  const best = cleaned[0];
-  return best.length >= 280 ? best : "";
+  analyzed.sort((a, b) => {
+    if (source.includes("money stuff")) {
+      if (a.wordCount !== b.wordCount) {
+        return b.wordCount - a.wordCount;
+      }
+
+      if (a.paragraphCount !== b.paragraphCount) {
+        return b.paragraphCount - a.paragraphCount;
+      }
+    }
+
+    if (a.hasMarkup !== b.hasMarkup) {
+      return b.hasMarkup - a.hasMarkup;
+    }
+
+    return b.value.length - a.value.length;
+  });
+
+  const best = analyzed[0];
+  if (!best || best.value.length < 280) {
+    return "";
+  }
+
+  return best.value;
 }
 
 function normalizeFeedContentCandidate(value) {
@@ -718,6 +735,50 @@ function containsHtmlMarkup(value) {
   return /<[a-z][\s\S]*>/i.test(value);
 }
 
+function analyzeFeedContentCandidate(value) {
+  const normalized = normalizeFeedContentCandidate(value);
+  if (!normalized) {
+    return {
+      value: "",
+      hasMarkup: 0,
+      wordCount: 0,
+      paragraphCount: 0,
+    };
+  }
+
+  const hasMarkup = containsHtmlMarkup(normalized) ? 1 : 0;
+  if (!hasMarkup) {
+    return {
+      value: normalized,
+      hasMarkup,
+      wordCount: countWords(cleanText(normalized)),
+      paragraphCount: 0,
+    };
+  }
+
+  try {
+    const $ = cheerio.load(`<article id="feed-content-analysis-root">${normalized}</article>`);
+    const $root = $("#feed-content-analysis-root");
+    $root.find("script,style,noscript").remove();
+    const text = cleanText($root.text());
+    const paragraphCount = $root.find("p,li,blockquote").length;
+
+    return {
+      value: normalized,
+      hasMarkup,
+      wordCount: countWords(text),
+      paragraphCount,
+    };
+  } catch {
+    return {
+      value: normalized,
+      hasMarkup,
+      wordCount: countWords(cleanText(normalized)),
+      paragraphCount: 0,
+    };
+  }
+}
+
 function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fallbackSummary, fallbackContentHtml }) {
   const rawHtml = typeof fallbackContentHtml === "string" ? fallbackContentHtml.trim() : "";
   if (!rawHtml) {
@@ -738,23 +799,61 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   }
 
-  if (!content.contentHtml) {
+  if (!content.contentHtml || content.wordCount < 80) {
     const plainText = cleanText(rawHtml);
     if (plainText.length < 140) {
-      return null;
+      if (!content.contentHtml || content.wordCount < 35) {
+        return null;
+      }
+      return {
+        mode: "full",
+        paywalled: false,
+        access: "open",
+        url,
+        source: sourceName,
+        title: fallbackTitle || "Article",
+        subtitle: fallbackSummary || null,
+        byline: inferFallbackByline(sourceName, rawHtml),
+        publishedAt: null,
+        contentHtml: content.contentHtml,
+        wordCount: content.wordCount,
+        imageCount: content.imageCount,
+        linkCount: content.linkCount,
+      };
     }
 
     const paragraphs = dedupeParagraphs(splitIntoParagraphs(plainText, 35)).slice(0, 240);
     if (!paragraphs.length) {
-      return null;
+      if (!content.contentHtml || content.wordCount < 35) {
+        return null;
+      }
+      return {
+        mode: "full",
+        paywalled: false,
+        access: "open",
+        url,
+        source: sourceName,
+        title: fallbackTitle || "Article",
+        subtitle: fallbackSummary || null,
+        byline: inferFallbackByline(sourceName, rawHtml),
+        publishedAt: null,
+        contentHtml: content.contentHtml,
+        wordCount: content.wordCount,
+        imageCount: content.imageCount,
+        linkCount: content.linkCount,
+      };
     }
 
-    content = {
+    const plainTextContent = {
       contentHtml: paragraphsToHtml(paragraphs),
       wordCount: countWords(plainText),
       imageCount: 0,
       linkCount: 0,
     };
+
+    if (!content.contentHtml || plainTextContent.wordCount >= content.wordCount + 120) {
+      content = plainTextContent;
+    }
   }
 
   if (content.wordCount < 35) {
