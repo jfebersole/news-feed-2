@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-13T12:51:22.519Z",
-  "fetchedAt": "2026-04-13T12:51:22.516Z",
+  "generatedAt": "2026-04-13T14:26:35.650Z",
+  "fetchedAt": "2026-04-13T14:26:35.647Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 279,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/prediction-market-details.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-market-details",
@@ -40,7 +40,7 @@
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "title": "The secrets of the shinkansen",
+      "title": "The secrets of the Shinkansen",
       "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -1744,17 +1744,6 @@
       "articleId": "f0de5b149f39b7ff"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/spring-meetups-everywhere-2026-call",
-      "title": "Spring Meetups Everywhere 2026 - Call For Organizers",
-      "url": "https://www.astralcodexten.com/p/spring-meetups-everywhere-2026-call",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-13T04:39:25.000Z",
-      "articleId": "8249278faf0ea477"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/fiscal-shocks-inflation-and-the-lucas",
       "title": "Fiscal shocks, inflation and the Lucas Critique",
       "url": "https://scottsumner.substack.com/p/fiscal-shocks-inflation-and-the-lucas",
@@ -2424,6 +2413,17 @@
       "summary": "Taking a look at the parts of what could be an elite defense in John Harbaugh's first season.",
       "publishedAt": "2026-02-13T10:31:18.000Z",
       "articleId": "4ea9f1f889565f78"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
+      "title": "Steve Tisch is embroiled in the Jeffrey Epstein scandal. What is his role with the Giants?",
+      "url": "https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The co-owner has been embroiled in controversy after being connected to Jeffrey Epstein.",
+      "publishedAt": "2026-02-13T10:30:08.000Z",
+      "articleId": "4be375a925b712fc"
     }
   ],
   "sources": [
@@ -2438,16 +2438,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
