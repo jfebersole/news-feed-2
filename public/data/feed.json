@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-13T14:26:35.650Z",
-  "fetchedAt": "2026-04-13T14:26:35.647Z",
+  "generatedAt": "2026-04-13T15:59:23.251Z",
+  "fetchedAt": "2026-04-13T15:59:23.249Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 279,
+  "totalItemCount": 288,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/prediction-market-details.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-market-details",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
