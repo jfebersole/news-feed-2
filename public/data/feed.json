@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-13T18:41:19.004Z",
-  "fetchedAt": "2026-04-13T18:41:19.001Z",
+  "generatedAt": "2026-04-13T19:56:25.393Z",
+  "fetchedAt": "2026-04-13T19:56:25.389Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 288,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ktpf2unmeqb8jyv5pkm6.html",
+      "title": "Money Stuff: Prediction Market Making Is Hard",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ktpf2unmeqb8jyv5pkm6.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Liquidity, resolution, Mythos, concierge. View in browser Prediction market microstructure I write about sports gambling around here more than I used to, because sports gambling has become pretty closely integrated with postmodern financial markets. Sometimes, when I write about sports gambling, I get emails from readers explaining that sportsbooks set their betting lines to balance bets on each side: A sportsbook sets the odds or point spread of a game so that it will pay the same amount of money regardless of which team wins. The book will collect, say, $100 of bets on the favorite and $50 of bets on the underdog, and it will set its odds to pay out $140 if the favorite wins and $140 if the underdog wins, keeping $10 — the “vig” — for itself in either case. This is a popular view of sports betting, but it is wrong. It’s not entirely wrong: Sensible sportsbooks will manage risk and try to keep the action somewhat balanced. But in fact many sportsbooks regularly make directional bets on outcomes: They have some view of the likely result, and they set their odds to, in effect, bet on the more likely outcome. [1] And then sometimes they lose money on a game, and other times they win money on a game, but if their models are good they win more than they lose and are more profitable than they would be if they always balanced bets exactly. Intuitively, the general public is systematically wrong — people tend to irrationally bet on their home teams, underdogs, etc. — and taking the other sides of those bets is generally profitable. The sportsbook might stay “close to home” (not too much risk either way), but it doesn’t have to be “flat” ( no risk either way). It is not looking to take no risk; it’s looking to take the right risk. [2] Loosely speaking, the role of bookies in the stock market is played by electronic proprietary trading firms. [3] If a retail investor wants to buy a stock , she will probably buy it from Citadel Securities or Hudson River Trading or Virtu or Jane Street or someone like that. Those trading firms will sell some stock to one retail investor one second, and buy some stock from a different retail investor a second later. You could imagine the trading firms working more like the popular perception of bookies, or more like actual bookies. That is: Trading firms might buy 100 shares of Stock A one second and sell 100 shares of Stock A the next second. Over a second or two, they might be long or short Stock A. But over the long run, they try very hard to stay “close to home,” and every night they “go home flat,” with no net positions in any stocks. They make money only by capturing bid/ask spreads in short-term trading. Trading firms might have some fundamental model of value, and if people want to sell Stock A below its...",
+      "publishedAt": "2026-04-13T19:06:07.393Z",
+      "articleId": "518e52bf1ee91cec"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/incentives-matter-mexican-cartel-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=incentives-matter-mexican-cartel-edition",
       "title": "Incentives matter, Mexican cartel edition",
@@ -477,17 +488,6 @@
       "summary": "On the premiere episode of The Argument, Matthew Yglesias and Jerusalem Demsas argue about the effectiveness of affirmative action.",
       "publishedAt": "2026-04-09T10:41:24.000Z",
       "articleId": "7fbdca388ad5f543"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/is-augusta-national-no-longer-a-bombers",
-      "title": "Is Augusta National No Longer a Bomber's Paradise?",
-      "url": "https://neilpaine.substack.com/p/is-augusta-national-no-longer-a-bombers",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Distance used to be king at the Masters. Now, it's more complicated than that.",
-      "publishedAt": "2026-04-09T10:01:59.000Z",
-      "articleId": "67d3d55b8fdb3393"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/republican-war-mongering-is-their",
@@ -2503,7 +2503,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2567,7 +2567,7 @@
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "mode": "rss",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
       "error": null
     },
