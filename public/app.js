@@ -21,8 +21,6 @@ const sourceChips = document.querySelector("#sourceChips");
 const metaStrip = document.querySelector("#metaStrip");
 const cardTemplate = document.querySelector("#cardTemplate");
 const searchInput = document.querySelector("#searchInput");
-const refreshBtn = document.querySelector("#refreshBtn");
-const lastUpdated = document.querySelector("#lastUpdated");
 const homeLink = document.querySelector("#homeLink");
 const brandBlock = document.querySelector(".brand-block");
 const issueKicker = document.querySelector(".issue-kicker");
@@ -48,24 +46,11 @@ const brandLockupObserver =
     : null;
 let readerRequestId = 0;
 let pendingCardGridFocus = false;
+let refreshInProgress = false;
 
 searchInput.addEventListener("input", (event) => {
   state.searchText = event.target.value.trim().toLowerCase();
   render();
-});
-
-refreshBtn.addEventListener("click", async () => {
-  refreshBtn.disabled = true;
-  refreshBtn.textContent = "Refreshing";
-
-  try {
-    await loadFeed(true);
-  } catch (error) {
-    console.error(error);
-  } finally {
-    refreshBtn.disabled = false;
-    refreshBtn.textContent = "Refresh";
-  }
 });
 
 window.addEventListener("keydown", (event) => {
@@ -117,6 +102,7 @@ homeLink.addEventListener("click", (event) => {
   navigateBackFromReader();
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
+  triggerRefresh();
 });
 
 if (readerBody) {
@@ -146,6 +132,7 @@ loadFeed().catch((error) => {
   console.error(error);
 });
 
+renderIssueDate();
 syncBrandLockup();
 brandLockupObserver?.observe(issueKicker);
 brandLockupObserver?.observe(homeLink);
@@ -187,7 +174,6 @@ async function loadFeed(force = false) {
 
 function render() {
   renderMeta();
-  renderLastUpdated();
   renderSourceChips();
   renderCards();
   renderReader();
@@ -214,18 +200,52 @@ function renderMeta() {
     createMetaPill(`${visible.length} shown`),
     createMetaPill(`${state.sources.length} sources`),
     createMetaPill(sourceModes),
-    createMetaPill("Static build")
+    createMetaPill(formatUpdatedLabel(state.generatedAt))
   );
 }
 
-function renderLastUpdated() {
-  if (!state.generatedAt) {
-    lastUpdated.textContent = "Loading...";
+function renderIssueDate() {
+  if (!issueKicker) {
     return;
   }
 
-  const date = new Date(state.generatedAt);
-  lastUpdated.textContent = `Updated ${date.toLocaleString()}`;
+  const now = new Date();
+  const weekday = now.toLocaleDateString(undefined, { weekday: "long" });
+  const fullDate = now.toLocaleDateString(undefined, {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+  });
+  issueKicker.textContent = `${weekday} · ${fullDate}`;
+}
+
+async function triggerRefresh() {
+  if (refreshInProgress) {
+    return;
+  }
+
+  refreshInProgress = true;
+  try {
+    await loadFeed(true);
+  } catch (error) {
+    console.error(error);
+  } finally {
+    refreshInProgress = false;
+  }
+}
+
+function formatUpdatedLabel(value) {
+  const date = value ? new Date(value) : null;
+  if (!(date instanceof Date) || Number.isNaN(date.getTime())) {
+    return "Updated --:--";
+  }
+
+  const timeLabel = date.toLocaleTimeString(undefined, {
+    hour: "numeric",
+    minute: "2-digit",
+  });
+
+  return `Updated ${timeLabel}`;
 }
 
 function renderSourceChips() {
@@ -745,8 +765,11 @@ function syncBrandLockup() {
   const titleRect = homeLink.getBoundingClientRect();
   const kickerInsets = getTextInkInsets(issueKicker);
   const titleInsets = getTextInkInsets(homeLink);
+  const kickerStyle = window.getComputedStyle(issueKicker);
+  const kickerShift = Number.parseFloat(kickerStyle.getPropertyValue("--kicker-optical-shift")) || 0;
   const logoOffset = kickerInsets.top;
-  const stackHeight = (titleRect.bottom - titleInsets.bottom) - (kickerRect.top + logoOffset);
+  const alignedKickerTop = kickerRect.top - kickerShift;
+  const stackHeight = (titleRect.bottom - titleInsets.bottom) - (alignedKickerTop + logoOffset);
 
   if (stackHeight <= 0) {
     return;
