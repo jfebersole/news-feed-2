@@ -678,18 +678,19 @@ function pickFeedContentHtml(sourceName, ...candidates) {
   }
 
   analyzed.sort((a, b) => {
-    if (source.includes("money stuff")) {
-      if (a.wordCount !== b.wordCount) {
-        return b.wordCount - a.wordCount;
-      }
+    // Always prefer real HTML markup over flattened/plain-text candidates.
+    if (a.hasMarkup !== b.hasMarkup) {
+      return b.hasMarkup - a.hasMarkup;
+    }
 
+    if (source.includes("money stuff")) {
       if (a.paragraphCount !== b.paragraphCount) {
         return b.paragraphCount - a.paragraphCount;
       }
-    }
 
-    if (a.hasMarkup !== b.hasMarkup) {
-      return b.hasMarkup - a.hasMarkup;
+      if (a.wordCount !== b.wordCount) {
+        return b.wordCount - a.wordCount;
+      }
     }
 
     return b.value.length - a.value.length;
@@ -789,17 +790,21 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
   const source = (sourceName || "").toLowerCase();
   const preferSubstackMedia =
     host.includes("substack.com") || host.includes("worksinprogress.news") || source.includes("substack");
+  const isMoneyStuffNewsletter = source.includes("money stuff") && host.includes("kill-the-newsletter.com");
 
   let content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   try {
     const $snippet = cheerio.load(`<article id="feed-fallback-root">${rawHtml}</article>`);
     const $root = $snippet("#feed-fallback-root");
-    content = collectContentBlocks($snippet, $root, url, { preferSubstackMedia });
+    content = collectContentBlocks($snippet, $root, url, {
+      preferSubstackMedia,
+      preferEmailFormatting: isMoneyStuffNewsletter,
+    });
   } catch {
     content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   }
 
-  if (!content.contentHtml || content.wordCount < 80) {
+  if (!content.contentHtml || (!isMoneyStuffNewsletter && content.wordCount < 80)) {
     const plainText = cleanText(rawHtml);
     if (plainText.length < 140) {
       if (!content.contentHtml || content.wordCount < 35) {
@@ -851,7 +856,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
       linkCount: 0,
     };
 
-    if (!content.contentHtml || plainTextContent.wordCount >= content.wordCount + 120) {
+    if (!content.contentHtml || (!isMoneyStuffNewsletter && plainTextContent.wordCount >= content.wordCount + 120)) {
       content = plainTextContent;
     }
   }
@@ -1425,9 +1430,64 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
     };
   }
 
-  const blockSelector = options.preferSubstackMedia
-    ? "h2,h3,h4,h5,h6,p,ul,ol,table,figure,div[data-component-name='DatawrapperToDOM'],div[class*='imageRow'],img,blockquote,pre,hr"
-    : "h2,h3,h4,h5,h6,p,ul,ol,table,figure,div[data-component-name='DatawrapperToDOM'],img,blockquote,pre,hr";
+  const defaultTags = options.preferSubstackMedia
+    ? [
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "p",
+        "ul",
+        "ol",
+        "table",
+        "figure",
+        "div[data-component-name='DatawrapperToDOM']",
+        "div[class*='imageRow']",
+        "img",
+        "blockquote",
+        "pre",
+        "hr",
+      ]
+    : [
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "p",
+        "ul",
+        "ol",
+        "table",
+        "figure",
+        "div[data-component-name='DatawrapperToDOM']",
+        "img",
+        "blockquote",
+        "pre",
+        "hr",
+      ];
+  const emailTags = [
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "p",
+    "ul",
+    "ol",
+    "table",
+    "figure",
+    "img",
+    "blockquote",
+    "pre",
+    "hr",
+  ];
+  const blockTags = options.preferEmailFormatting ? emailTags : defaultTags;
+  const blockSelector = blockTags.join(",");
+  const ancestorSelector = (options.preferEmailFormatting
+    ? blockTags.filter((tag) => tag !== "table")
+    : blockTags
+  ).join(",");
 
   const blocks = [];
   const rootNode = container.get(0);
@@ -1435,7 +1495,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
     .find(blockSelector)
     .slice(0, 900)
     .each((_idx, element) => {
-      if (hasMatchingContentAncestor($, element, rootNode, blockSelector)) {
+      if (hasMatchingContentAncestor($, element, rootNode, ancestorSelector)) {
         return;
       }
 
@@ -1574,7 +1634,7 @@ function shouldKeepContentBlock($, element, options = {}) {
   }
 
   if (
-    /view in browser|if you'd like to get .*newsletter|you received this message because|kill the newsletter!\s*feed settings/i.test(
+    /view in browser|if you'd like to get .*newsletter|you received this message because|kill the newsletter!\s*feed settings|follow us|get the newsletter|like getting this newsletter|want to sponsor this newsletter|subscribe to bloomberg\.com|ads powered by liveintent|ad choices|bloomberg l\.p\./i.test(
       text
     )
   ) {
