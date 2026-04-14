@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-14T21:04:26.152Z",
-  "fetchedAt": "2026-04-14T21:04:26.148Z",
+  "generatedAt": "2026-04-14T22:01:54.549Z",
+  "fetchedAt": "2026-04-14T22:01:54.546Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 279,
+  "totalItemCount": 288,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/tuesday-discussion-post-d30",
+      "title": "Tuesday discussion post",
+      "url": "https://www.slowboring.com/p/tuesday-discussion-post-d30",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Another shake-up has hit Congress.",
+      "publishedAt": "2026-04-14T22:00:43.000Z",
+      "articleId": "d36e2adf9283d7bd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-55.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-55",
       "title": "That was then, this is now",
@@ -972,17 +983,6 @@
       "summary": "If we ever want to live in space, we need to work out a way of creating artificial gravity.",
       "publishedAt": "2026-04-03T12:58:31.000Z",
       "articleId": "2c6f22bdace46653"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-two-homelessness-problems",
-      "title": "The two homelessness problems",
-      "url": "https://www.slowboring.com/p/the-two-homelessness-problems",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus Rahm, Mamdani, and what to say about voters who might be bigoted",
-      "publishedAt": "2026-04-03T10:03:12.000Z",
-      "articleId": "769086f3a13efedb"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-pauseai-protest-a-photo-essay",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
