@@ -566,7 +566,8 @@ function renderReader() {
   readerTitle.textContent = heading;
   readerSubtitle.textContent = "";
   readerSubtitle.classList.remove("visible");
-  const subtitle = decodeHtmlEntities(article?.subtitle || "");
+  const subtitleRaw = decodeHtmlEntities(article?.subtitle || "");
+  const subtitle = subtitleRaw.length > 320 ? "" : subtitleRaw;
   if (subtitle) {
     readerSubtitle.textContent = subtitle;
     readerSubtitle.classList.add("visible");

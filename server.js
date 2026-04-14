@@ -791,6 +791,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
   const preferSubstackMedia =
     host.includes("substack.com") || host.includes("worksinprogress.news") || source.includes("substack");
   const isMoneyStuffNewsletter = source.includes("money stuff") && host.includes("kill-the-newsletter.com");
+  const fallbackSubtitle = isMoneyStuffNewsletter ? null : fallbackSummary || null;
 
   let content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   try {
@@ -817,7 +818,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
         url,
         source: sourceName,
         title: fallbackTitle || "Article",
-        subtitle: fallbackSummary || null,
+        subtitle: fallbackSubtitle,
         byline: inferFallbackByline(sourceName, rawHtml),
         publishedAt: null,
         contentHtml: content.contentHtml,
@@ -839,7 +840,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
         url,
         source: sourceName,
         title: fallbackTitle || "Article",
-        subtitle: fallbackSummary || null,
+        subtitle: fallbackSubtitle,
         byline: inferFallbackByline(sourceName, rawHtml),
         publishedAt: null,
         contentHtml: content.contentHtml,
@@ -861,6 +862,20 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     }
   }
 
+  if (isMoneyStuffNewsletter && content.contentHtml) {
+    const cleanedMoneyStuffHtml = cleanupMoneyStuffContentHtml(content.contentHtml, url);
+    if (cleanedMoneyStuffHtml) {
+      const $clean = cheerio.load(`<article id="money-stuff-clean-root">${cleanedMoneyStuffHtml}</article>`);
+      const $cleanRoot = $clean("#money-stuff-clean-root");
+      content = {
+        contentHtml: $cleanRoot.html() || "",
+        wordCount: countWords(cleanText($cleanRoot.text())),
+        imageCount: $cleanRoot.find("img").length,
+        linkCount: $cleanRoot.find("a[href]").length,
+      };
+    }
+  }
+
   if (content.wordCount < 35) {
     return null;
   }
@@ -874,7 +889,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     url,
     source: sourceName,
     title: fallbackTitle || "Article",
-    subtitle: fallbackSummary || null,
+    subtitle: fallbackSubtitle,
     byline,
     publishedAt: null,
     contentHtml: content.contentHtml,
@@ -2021,6 +2036,183 @@ function dedupeHtmlBlocks(blocks) {
   });
 
   return output;
+}
+
+function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
+  if (!contentHtml) {
+    return "";
+  }
+
+  const selector = "h2,h3,h4,h5,h6,p,ul,ol,blockquote,pre,figure,img,hr";
+  let $ = null;
+  try {
+    $ = cheerio.load(`<article id="money-stuff-cleaner-root">${contentHtml}</article>`);
+  } catch {
+    return contentHtml;
+  }
+
+  const $root = $("#money-stuff-cleaner-root");
+  const rootNode = $root.get(0);
+  const blocks = [];
+
+  $root
+    .find(selector)
+    .slice(0, 1200)
+    .each((_idx, element) => {
+      if (hasMatchingContentAncestor($, element, rootNode, selector)) {
+        return;
+      }
+
+      const node = $(element);
+      const tag = (element.tagName || "").toLowerCase();
+      const text = cleanText(node.text());
+      const normalized = text.toLowerCase();
+
+      if (tag === "img") {
+        if (isLikelyMoneyStuffPromoImage(node)) {
+          return;
+        }
+      } else {
+        if (!text || isMoneyStuffBoilerplateText(normalized)) {
+          return;
+        }
+      }
+
+      const html = sanitizeContentBlock($, element, baseUrl);
+      if (html) {
+        blocks.push(html);
+      }
+    });
+
+  if (!blocks.length) {
+    return "";
+  }
+
+  let startIndex = blocks.findIndex((block) => {
+    const text = cleanText(block).toLowerCase();
+    return /<h[2-6]\b/i.test(block) && text.length >= 12 && !isMoneyStuffBoilerplateText(text);
+  });
+
+  if (startIndex < 0) {
+    startIndex = blocks.findIndex((block) => {
+      const text = cleanText(block).toLowerCase();
+      return text.length > 80 && !isMoneyStuffBoilerplateText(text);
+    });
+  }
+
+  const stream = startIndex >= 0 ? blocks.slice(startIndex) : blocks;
+  const trimmed = [];
+  for (const block of stream) {
+    const text = cleanText(block).toLowerCase();
+    if (isMoneyStuffTailText(text)) {
+      break;
+    }
+    trimmed.push(block);
+  }
+
+  if (!trimmed.length) {
+    return "";
+  }
+
+  return removeAdjacentQuoteEchoes(dedupeHtmlBlocks(trimmed)).join("\n");
+}
+
+function isLikelyMoneyStuffPromoImage(node) {
+  const src = (node.attr("src") || "").toLowerCase();
+  if (!src) {
+    return true;
+  }
+
+  if (
+    src.includes("sli.bloomberg.com/imp") ||
+    src.includes("post.spmailtechnolo.com/") ||
+    src.includes("/s/eo/") ||
+    src.includes("assets.bwbx.io/images/users/iqjwhbfdfxiu/")
+  ) {
+    return true;
+  }
+
+  const width = Number(node.attr("width") || 0);
+  const height = Number(node.attr("height") || 0);
+  if (width > 0 && height > 0 && width <= 72 && height <= 72) {
+    return true;
+  }
+
+  return false;
+}
+
+function isMoneyStuffBoilerplateText(text) {
+  if (!text) {
+    return false;
+  }
+
+  return /(view in browser|follow us|get the newsletter|like getting this newsletter|subscribe to bloomberg\.com|want to sponsor this newsletter|ads powered by liveintent|ad choices|kill the newsletter!\s*feed settings|you received this message because|bloomberg l\.p\. 731 lexington|money stuff liquidity, resolution, mythos, concierge)/i.test(
+    text
+  );
+}
+
+function isMoneyStuffTailText(text) {
+  if (!text) {
+    return false;
+  }
+
+  return /(you received this message because|unsubscribe|contact us|ads powered by liveintent|ad choices|kill the newsletter!\s*feed settings|bloomberg l\.p\. 731 lexington)/i.test(
+    text
+  );
+}
+
+function removeAdjacentQuoteEchoes(blocks) {
+  const output = [];
+  blocks.forEach((block) => {
+    if (!block) {
+      return;
+    }
+
+    const currentText = cleanText(block).toLowerCase();
+    if (!output.length) {
+      output.push(block);
+      return;
+    }
+
+    const previous = output[output.length - 1];
+    const previousText = cleanText(previous).toLowerCase();
+    if (previousText && currentText && previousText === currentText) {
+      return;
+    }
+
+    const previousTag = extractRootTagName(previous);
+    const currentTag = extractRootTagName(block);
+    if (
+      previousTag === "blockquote" &&
+      currentTag === "p" &&
+      hasStrongTextOverlap(previousText, currentText, 0.2)
+    ) {
+      return;
+    }
+
+    output.push(block);
+  });
+
+  return output;
+}
+
+function extractRootTagName(html) {
+  const match = String(html || "").match(/^<\s*([a-z0-9]+)/i);
+  return match && match[1] ? match[1].toLowerCase() : "";
+}
+
+function hasStrongTextOverlap(a, b, minimumRatio = 0.2) {
+  if (!a || !b) {
+    return false;
+  }
+
+  const shorter = a.length <= b.length ? a : b;
+  const longer = a.length <= b.length ? b : a;
+  if (!shorter || !longer || !longer.includes(shorter)) {
+    return false;
+  }
+
+  return shorter.length / longer.length >= minimumRatio;
 }
 
 function extractFirstImageSrcFromHtml(html) {
