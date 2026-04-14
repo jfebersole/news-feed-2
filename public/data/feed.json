@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-14T22:01:54.549Z",
-  "fetchedAt": "2026-04-14T22:01:54.546Z",
+  "generatedAt": "2026-04-14T22:58:35.237Z",
+  "fetchedAt": "2026-04-14T22:58:35.234Z",
   "sourceCount": 21,
   "itemCount": 220,
   "totalItemCount": 288,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/14/opinion/trump-pope.html",
+      "title": "Trump’s Blasphemy Is a Warning",
+      "url": "https://www.nytimes.com/2026/04/14/opinion/trump-pope.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Presidents can fight with popes. God is another matter.",
+      "publishedAt": "2026-04-14T22:13:49.000Z",
+      "articleId": "909e14acbb0adb17"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/tuesday-discussion-post-d30",
       "title": "Tuesday discussion post",
@@ -2270,17 +2281,6 @@
       "summary": "Three pending free agents, and three veterans under contract, are nearing inflection points.",
       "publishedAt": "2026-02-25T10:30:43.000Z",
       "articleId": "1b795427c34eb6d8"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
-      "title": "Whatever Happened to Grown-Up Movies for Kids?",
-      "url": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "We need stories that are more adult than Y.A. and less explicit than HBO.",
-      "publishedAt": "2026-02-24T23:16:11.000Z",
-      "articleId": "23f74543ee8675a7"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/good-things-are-good",
