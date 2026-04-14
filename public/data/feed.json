@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-14T07:12:12.162Z",
-  "fetchedAt": "2026-04-14T07:12:12.158Z",
+  "generatedAt": "2026-04-14T08:57:38.885Z",
+  "fetchedAt": "2026-04-14T08:57:38.882Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 279,
+  "totalItemCount": 288,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-economic-value-of-eliminating-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-value-of-eliminating-cancer",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
