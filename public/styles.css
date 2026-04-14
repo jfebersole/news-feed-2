@@ -651,14 +651,16 @@ body::before {
   margin: 0 0 18px;
   max-width: min(760px, 100%);
   padding: 0 0 0 1.55rem;
+  font-family: "Newsreader", Georgia, serif;
+  font-size: clamp(1.12rem, 1.9vw, 1.38rem);
+  line-height: 1.57;
+  color: #272119;
 }
 
 .reader-body li {
   margin: 0 0 10px;
-  font-family: "Newsreader", Georgia, serif;
-  font-size: clamp(1.06rem, 1.8vw, 1.28rem);
-  line-height: 1.5;
-  color: #272119;
+  font-size: inherit;
+  line-height: inherit;
 }
 
 .reader-body figure {
@@ -770,7 +772,8 @@ body::before {
   font-family: "Archivo Narrow", sans-serif;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  font-size: 1.04rem;
+  font-size: clamp(1.2rem, 2.2vw, 1.58rem);
+  line-height: 1.12;
 }
 
 .reader-body blockquote {

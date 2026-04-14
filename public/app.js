@@ -119,6 +119,29 @@ homeLink.addEventListener("click", (event) => {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
+if (readerBody) {
+  readerBody.addEventListener("click", (event) => {
+    const link = event.target instanceof Element ? event.target.closest("a[href^='#']") : null;
+    if (!(link instanceof HTMLAnchorElement)) {
+      return;
+    }
+
+    const anchorId = sanitizeReaderAnchorId(link.getAttribute("href") || "");
+    if (!anchorId) {
+      return;
+    }
+
+    const escaped = typeof CSS !== "undefined" && typeof CSS.escape === "function" ? CSS.escape(anchorId) : anchorId;
+    const target = readerBody.querySelector(`#${escaped}`);
+    if (!target) {
+      return;
+    }
+
+    event.preventDefault();
+    target.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
 loadFeed().catch((error) => {
   console.error(error);
 });
@@ -608,7 +631,109 @@ function renderReader() {
 
   readerBody.innerHTML =
     article.contentHtml || "<p>No extracted content was available for this story.</p>";
+  normalizeReaderAnchors(readerBody);
   updateReaderProgress();
+}
+
+function normalizeReaderAnchors(container) {
+  if (!container) {
+    return;
+  }
+
+  container.querySelectorAll("none,null,undefined").forEach((node) => {
+    node.remove();
+  });
+
+  const referencedIds = new Set();
+  container.querySelectorAll("a[href^='#']").forEach((anchor) => {
+    const safeId = sanitizeReaderAnchorId(anchor.getAttribute("href") || "");
+    if (!safeId) {
+      anchor.removeAttribute("href");
+      return;
+    }
+
+    anchor.setAttribute("href", `#${safeId}`);
+    anchor.removeAttribute("target");
+    anchor.removeAttribute("rel");
+    referencedIds.add(safeId);
+  });
+
+  if (!referencedIds.size) {
+    return;
+  }
+
+  const existingIds = new Set();
+  container.querySelectorAll("[id]").forEach((node) => {
+    const safeId = sanitizeReaderAnchorId(node.id || "");
+    if (!safeId) {
+      return;
+    }
+
+    if (node.id !== safeId) {
+      node.id = safeId;
+    }
+    existingIds.add(safeId);
+  });
+
+  const refsByNumber = new Map();
+  referencedIds.forEach((id) => {
+    const number = extractReaderFootnoteNumber(id);
+    if (number) {
+      refsByNumber.set(number, id);
+    }
+  });
+
+  if (!refsByNumber.size) {
+    return;
+  }
+
+  container.querySelectorAll("p,li,div").forEach((node) => {
+    if (node.id) {
+      return;
+    }
+
+    const number = extractReaderLeadingFootnoteNumber(node.textContent || "");
+    if (!number) {
+      return;
+    }
+
+    const targetId = refsByNumber.get(number);
+    if (!targetId || existingIds.has(targetId)) {
+      return;
+    }
+
+    node.id = targetId;
+    existingIds.add(targetId);
+  });
+}
+
+function sanitizeReaderAnchorId(value) {
+  const raw = String(value || "")
+    .trim()
+    .replace(/^#+/, "");
+  if (!raw) {
+    return "";
+  }
+
+  const cleaned = raw.replace(/[^A-Za-z0-9:_.-]/g, "");
+  return cleaned.slice(0, 96);
+}
+
+function extractReaderFootnoteNumber(id) {
+  const value = String(id || "").toLowerCase();
+  const match = value.match(/^(?:footnote-|fn-?|note-?)(\d{1,4})$/i) || value.match(/^(\d{1,4})$/);
+  return match && match[1] ? match[1] : "";
+}
+
+function extractReaderLeadingFootnoteNumber(text) {
+  const value = String(text || "").trim();
+  const bracketMatch = value.match(/^\[(\d{1,4})\]/);
+  if (bracketMatch && bracketMatch[1]) {
+    return bracketMatch[1];
+  }
+
+  const plainMatch = value.match(/^(\d{1,4})[\).:\-]\s+/);
+  return plainMatch && plainMatch[1] ? plainMatch[1] : "";
 }
 
 function syncBrandLockup() {

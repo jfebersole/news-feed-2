@@ -684,8 +684,14 @@ function pickFeedContentHtml(sourceName, ...candidates) {
     }
 
     if (source.includes("money stuff")) {
-      if (a.paragraphCount !== b.paragraphCount) {
-        return b.paragraphCount - a.paragraphCount;
+      const scoreA = a.paragraphCount * 4 + a.wordCount / 80 + Math.min(a.imageCount || 0, 4) * 3;
+      const scoreB = b.paragraphCount * 4 + b.wordCount / 80 + Math.min(b.imageCount || 0, 4) * 3;
+      if (scoreA !== scoreB) {
+        return scoreB - scoreA;
+      }
+
+      if ((a.imageCount || 0) !== (b.imageCount || 0)) {
+        return (b.imageCount || 0) - (a.imageCount || 0);
       }
 
       if (a.wordCount !== b.wordCount) {
@@ -744,6 +750,7 @@ function analyzeFeedContentCandidate(value) {
       hasMarkup: 0,
       wordCount: 0,
       paragraphCount: 0,
+      imageCount: 0,
     };
   }
 
@@ -754,6 +761,7 @@ function analyzeFeedContentCandidate(value) {
       hasMarkup,
       wordCount: countWords(cleanText(normalized)),
       paragraphCount: 0,
+      imageCount: 0,
     };
   }
 
@@ -763,12 +771,14 @@ function analyzeFeedContentCandidate(value) {
     $root.find("script,style,noscript").remove();
     const text = cleanText($root.text());
     const paragraphCount = $root.find("p,li,blockquote").length;
+    const imageCount = $root.find("img").length;
 
     return {
       value: normalized,
       hasMarkup,
       wordCount: countWords(text),
       paragraphCount,
+      imageCount,
     };
   } catch {
     return {
@@ -776,6 +786,7 @@ function analyzeFeedContentCandidate(value) {
       hasMarkup,
       wordCount: countWords(cleanText(normalized)),
       paragraphCount: 0,
+      imageCount: 0,
     };
   }
 }
@@ -1525,7 +1536,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
     });
 
   const dedupedBlocks = dedupeHtmlBlocks(blocks);
-  const contentHtml = dedupedBlocks.join("\n");
+  const contentHtml = stripPlaceholderNodes(repairInPageFootnoteTargets(dedupedBlocks.join("\n")));
 
   if (!contentHtml) {
     return {
@@ -1573,7 +1584,7 @@ function shouldKeepContentBlock($, element, options = {}) {
   const node = $(element);
   const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
   const componentName = (node.attr("data-component-name") || "").toLowerCase();
-  if (/(footnote|fnref|share|social|newsletter|related|comment|popup|cookie|paywall)/.test(marker)) {
+  if (/(share|social|newsletter|related|comment|popup|cookie|paywall)/.test(marker)) {
     return false;
   }
 
@@ -1582,10 +1593,6 @@ function shouldKeepContentBlock($, element, options = {}) {
       ".post-header,.byline-wrapper,.post-ufi,.author,.author-wrap,[data-testid='navbar'],.main-menu,.topBar-pIF0J1,.logoContainer-p12gJb"
     ).length
   ) {
-    return false;
-  }
-
-  if (node.closest(".footnote,[class*='footnote'],[id^='footnote']").length) {
     return false;
   }
 
@@ -1645,6 +1652,10 @@ function shouldKeepContentBlock($, element, options = {}) {
   }
 
   if (tag === "p" && text.length < 18 && !hasLinks && !hasImages) {
+    if (/:\s*$/.test(text) && text.length >= 5) {
+      return true;
+    }
+
     return false;
   }
 
@@ -1735,6 +1746,11 @@ function sanitizeContentBlock($, element, baseUrl) {
     const attrs = { ...(node.attribs || {}) };
     Object.keys(attrs).forEach((attr) => $node.removeAttr(attr));
 
+    const safeAnchorId = sanitizeAnchorId(attrs.id || attrs.name || "");
+    if (safeAnchorId) {
+      $node.attr("id", safeAnchorId);
+    }
+
     if (tag === "a") {
       normalizeLinkElement($node, attrs, baseUrl);
       return;
@@ -1777,13 +1793,34 @@ function sanitizeContentBlock($, element, baseUrl) {
 
 function isDisallowedWithinReaderNode(node) {
   const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
-  return /(share|social|signup|newsletter|related|comment|cookie|advert|promo|paywall|footer|nav|toolbar|footnote|fnref|popup|byline|avatar|profile|author)/.test(
+  return /(share|social|signup|newsletter|related|comment|cookie|advert|promo|paywall|footer|nav|toolbar|popup|byline|avatar|profile|author)/.test(
     marker
   );
 }
 
 function normalizeLinkElement(node, attrs, baseUrl) {
-  const href = sanitizeUrl(attrs.href || "", baseUrl);
+  const rawHref = typeof attrs.href === "string" ? attrs.href.trim() : "";
+  if (!rawHref) {
+    if (node.attr("id")) {
+      node.removeAttr("href");
+      node.removeAttr("target");
+      node.removeAttr("rel");
+      return;
+    }
+
+    node.replaceWith(node.contents());
+    return;
+  }
+
+  const localAnchorHref = resolveLocalAnchorHref(rawHref, baseUrl);
+  if (localAnchorHref) {
+    node.attr("href", localAnchorHref);
+    node.removeAttr("target");
+    node.removeAttr("rel");
+    return;
+  }
+
+  const href = sanitizeUrl(rawHref, baseUrl);
   if (!href || href.toLowerCase().startsWith("javascript:")) {
     node.replaceWith(node.contents());
     return;
@@ -1792,6 +1829,59 @@ function normalizeLinkElement(node, attrs, baseUrl) {
   node.attr("href", href);
   node.attr("target", "_blank");
   node.attr("rel", "noopener noreferrer");
+}
+
+function sanitizeAnchorId(value) {
+  const raw = String(value || "")
+    .trim()
+    .replace(/^#+/, "");
+  if (!raw) {
+    return "";
+  }
+
+  const cleaned = raw.replace(/[^A-Za-z0-9:_.-]/g, "");
+  if (!cleaned) {
+    return "";
+  }
+
+  return cleaned.slice(0, 96);
+}
+
+function resolveLocalAnchorHref(value, baseUrl = "") {
+  const raw = String(value || "").trim();
+  if (!raw) {
+    return null;
+  }
+
+  if (raw.startsWith("#")) {
+    const anchor = sanitizeAnchorId(raw.slice(1));
+    return anchor ? `#${anchor}` : null;
+  }
+
+  if (!raw.includes("#") || !baseUrl) {
+    return null;
+  }
+
+  try {
+    const resolved = new URL(raw, baseUrl);
+    if (!resolved.hash) {
+      return null;
+    }
+
+    const base = new URL(baseUrl);
+    if (
+      resolved.origin !== base.origin ||
+      resolved.pathname !== base.pathname ||
+      resolved.search !== base.search
+    ) {
+      return null;
+    }
+
+    const anchor = sanitizeAnchorId(resolved.hash.slice(1));
+    return anchor ? `#${anchor}` : null;
+  } catch {
+    return null;
+  }
 }
 
 function normalizeImageElement(node, attrs, baseUrl) {
@@ -2038,6 +2128,123 @@ function dedupeHtmlBlocks(blocks) {
   return output;
 }
 
+function repairInPageFootnoteTargets(contentHtml) {
+  if (!contentHtml) {
+    return "";
+  }
+
+  let $ = null;
+  try {
+    $ = cheerio.load(`<article id="reader-footnote-root">${contentHtml}</article>`);
+  } catch {
+    return contentHtml;
+  }
+
+  const $root = $("#reader-footnote-root");
+  const referencedIds = new Set();
+
+  $root.find("a[href]").each((_idx, node) => {
+    const $node = $(node);
+    const href = String($node.attr("href") || "").trim();
+    if (!href.startsWith("#")) {
+      return;
+    }
+
+    const anchorId = sanitizeAnchorId(href.slice(1));
+    if (!anchorId) {
+      $node.replaceWith($node.contents());
+      return;
+    }
+
+    $node.attr("href", `#${anchorId}`);
+    referencedIds.add(anchorId);
+  });
+
+  if (!referencedIds.size) {
+    return $root.html() || "";
+  }
+
+  const existingIds = new Set();
+  $root.find("[id]").each((_idx, node) => {
+    const id = sanitizeAnchorId($(node).attr("id") || "");
+    if (!id) {
+      return;
+    }
+
+    if ($(node).attr("id") !== id) {
+      $(node).attr("id", id);
+    }
+    existingIds.add(id);
+  });
+
+  const refsByNumber = new Map();
+  referencedIds.forEach((id) => {
+    const number = extractFootnoteNumber(id);
+    if (number) {
+      refsByNumber.set(number, id);
+    }
+  });
+
+  if (!refsByNumber.size) {
+    return $root.html() || "";
+  }
+
+  $root.find("p,li,div").each((_idx, node) => {
+    const $node = $(node);
+    if ($node.attr("id")) {
+      return;
+    }
+
+    const number = extractLeadingFootnoteNumber(cleanText($node.text()));
+    if (!number) {
+      return;
+    }
+
+    const targetId = refsByNumber.get(number);
+    if (!targetId || existingIds.has(targetId)) {
+      return;
+    }
+
+    $node.attr("id", targetId);
+    existingIds.add(targetId);
+  });
+
+  return $root.html() || "";
+}
+
+function stripPlaceholderNodes(contentHtml) {
+  if (!contentHtml) {
+    return "";
+  }
+
+  return String(contentHtml)
+    .replace(/<\s*(?:none|null|undefined)\b[^>]*>\s*<\/\s*(?:none|null|undefined)\s*>/gi, "")
+    .replace(/<\s*(?:none|null|undefined)\b[^>]*\/\s*>/gi, "")
+    .trim();
+}
+
+function extractFootnoteNumber(id) {
+  const value = String(id || "").toLowerCase();
+  const directMatch = value.match(/^(?:footnote-|fn-?|note-?)(\d{1,4})$/i);
+  if (directMatch && directMatch[1]) {
+    return directMatch[1];
+  }
+
+  const looseMatch = value.match(/^(\d{1,4})$/);
+  return looseMatch && looseMatch[1] ? looseMatch[1] : "";
+}
+
+function extractLeadingFootnoteNumber(text) {
+  const value = String(text || "");
+  const bracketMatch = value.match(/^\[(\d{1,4})\]/);
+  if (bracketMatch && bracketMatch[1]) {
+    return bracketMatch[1];
+  }
+
+  const plainMatch = value.match(/^(\d{1,4})[\).:\-]\s+/);
+  return plainMatch && plainMatch[1] ? plainMatch[1] : "";
+}
+
 function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
   if (!contentHtml) {
     return "";
@@ -2067,13 +2274,22 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
       const tag = (element.tagName || "").toLowerCase();
       const text = cleanText(node.text());
       const normalized = text.toLowerCase();
+      const hasImage = tag === "img" || node.find("img").length > 0;
 
       if (tag === "img") {
         if (isLikelyMoneyStuffPromoImage(node)) {
           return;
         }
       } else {
-        if (!text || isMoneyStuffBoilerplateText(normalized)) {
+        if (!text && !hasImage) {
+          return;
+        }
+
+        if (text && isMoneyStuffBoilerplateText(normalized)) {
+          return;
+        }
+
+        if (hasImage && !text && hasOnlyLikelyMoneyStuffPromoImages($, node)) {
           return;
         }
       }
@@ -2114,7 +2330,9 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
     return "";
   }
 
-  return removeAdjacentQuoteEchoes(dedupeHtmlBlocks(trimmed)).join("\n");
+  return stripPlaceholderNodes(
+    repairInPageFootnoteTargets(removeAdjacentQuoteEchoes(dedupeHtmlBlocks(trimmed)).join("\n"))
+  );
 }
 
 function isLikelyMoneyStuffPromoImage(node) {
@@ -2126,19 +2344,35 @@ function isLikelyMoneyStuffPromoImage(node) {
   if (
     src.includes("sli.bloomberg.com/imp") ||
     src.includes("post.spmailtechnolo.com/") ||
-    src.includes("/s/eo/") ||
-    src.includes("assets.bwbx.io/images/users/iqjwhbfdfxiu/")
+    src.includes("/open.aspx?") ||
+    src.startsWith("data:image/")
   ) {
     return true;
   }
 
   const width = Number(node.attr("width") || 0);
   const height = Number(node.attr("height") || 0);
-  if (width > 0 && height > 0 && width <= 72 && height <= 72) {
+  if ((width > 0 && height > 0 && width <= 72 && height <= 72) || width === 1 || height === 1) {
     return true;
   }
 
   return false;
+}
+
+function hasOnlyLikelyMoneyStuffPromoImages($, node) {
+  const images = node.find("img");
+  if (!images.length) {
+    return false;
+  }
+
+  let hasRealImage = false;
+  images.each((_idx, imageNode) => {
+    if (!isLikelyMoneyStuffPromoImage($(imageNode))) {
+      hasRealImage = true;
+    }
+  });
+
+  return !hasRealImage;
 }
 
 function isMoneyStuffBoilerplateText(text) {
