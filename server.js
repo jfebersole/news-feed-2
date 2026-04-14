@@ -146,6 +146,7 @@ const SOURCE_ITEM_RULES = Object.freeze({
       "you've subscribed",
       "verify your email",
       "to verify your email for bloomberg.com",
+      "money stuff: the podcast",
     ]),
     excludeDescriptionIncludes: Object.freeze([
       "thank you for subscribing to money stuff",
@@ -2320,7 +2321,7 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
   const trimmed = [];
   for (const block of stream) {
     const text = cleanText(block).toLowerCase();
-    if (isMoneyStuffTailText(text)) {
+    if (isMoneyStuffTailText(text) || isMoneyStuffTailVisualBlock(block)) {
       break;
     }
     trimmed.push(block);
@@ -2337,15 +2338,17 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
 
 function isLikelyMoneyStuffPromoImage(node) {
   const src = (node.attr("src") || "").toLowerCase();
+  const alt = cleanText(node.attr("alt") || node.attr("title") || "").toLowerCase();
+  const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
+  const sourceSignal = `${src} ${alt} ${marker}`;
   if (!src) {
     return true;
   }
 
   if (
-    src.includes("sli.bloomberg.com/imp") ||
-    src.includes("post.spmailtechnolo.com/") ||
-    src.includes("/open.aspx?") ||
-    src.startsWith("data:image/")
+    /sli\.bloomberg\.com\/imp|post\.spmailtechnolo\.com|\/open\.aspx\?|data:image\/|liveintent|adchoices|money\s*stuff:\s*the\s*podcast|listen\s+on\s+apple\s+podcasts|bloomberg\s+terminal/i.test(
+      sourceSignal
+    )
   ) {
     return true;
   }
@@ -2380,7 +2383,7 @@ function isMoneyStuffBoilerplateText(text) {
     return false;
   }
 
-  return /(view in browser|follow us|get the newsletter|like getting this newsletter|subscribe to bloomberg\.com|want to sponsor this newsletter|ads powered by liveintent|ad choices|kill the newsletter!\s*feed settings|you received this message because|bloomberg l\.p\. 731 lexington|money stuff liquidity, resolution, mythos, concierge)/i.test(
+  return /(view in browser|follow us|get the newsletter|like getting this newsletter|subscribe to bloomberg\.com|want to sponsor this newsletter|ads powered by liveintent|ad choices|kill the newsletter!\s*feed settings|you received this message because|bloomberg l\.p\. 731 lexington|money stuff liquidity, resolution, mythos, concierge|money stuff:\s*the podcast|before it[’']s here,\s*it[’']s on the bloomberg terminal|listen on apple podcasts)/i.test(
     text
   );
 }
@@ -2390,9 +2393,62 @@ function isMoneyStuffTailText(text) {
     return false;
   }
 
-  return /(you received this message because|unsubscribe|contact us|ads powered by liveintent|ad choices|kill the newsletter!\s*feed settings|bloomberg l\.p\. 731 lexington)/i.test(
+  return /(you received this message because|unsubscribe|contact us|ads powered by liveintent|ad choices|kill the newsletter!\s*feed settings|bloomberg l\.p\. 731 lexington|money stuff:\s*the podcast|before it[’']s here,\s*it[’']s on the bloomberg terminal|listen on apple podcasts)/i.test(
     text
   );
+}
+
+function isMoneyStuffTailVisualBlock(blockHtml) {
+  const html = String(blockHtml || "");
+  if (!html || !/<(?:img|figure|table|div|a)\b/i.test(html)) {
+    return false;
+  }
+
+  let $ = null;
+  try {
+    $ = cheerio.load(`<article id="money-stuff-tail-visual-root">${html}</article>`);
+  } catch {
+    return /liveintent|adchoices|money\s*stuff:\s*the\s*podcast|listen\s+on\s+apple\s+podcasts|bloomberg\s+terminal/i.test(
+      cleanText(html).toLowerCase()
+    );
+  }
+
+  const $root = $("#money-stuff-tail-visual-root");
+  const rootText = cleanText($root.text()).toLowerCase();
+  if (isMoneyStuffTailText(rootText) || isMoneyStuffBoilerplateText(rootText)) {
+    return true;
+  }
+
+  let shouldDrop = false;
+  $root.find("a,img").each((_idx, node) => {
+    if (shouldDrop) {
+      return;
+    }
+
+    const $node = $(node);
+    const marker = [
+      $node.attr("href"),
+      $node.attr("src"),
+      $node.attr("alt"),
+      $node.attr("title"),
+      $node.attr("class"),
+      $node.attr("id"),
+      cleanText($node.text()),
+    ]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+
+    if (
+      /liveintent|adchoices|money\s*stuff:\s*the\s*podcast|listen\s+on\s+apple\s+podcasts|podcasts\.apple\.com|bloomberg\.com\/account\/newsletters|bloomberg\s+terminal|kill-the-newsletter/i.test(
+        marker
+      )
+    ) {
+      shouldDrop = true;
+    }
+  });
+
+  return shouldDrop;
 }
 
 function removeAdjacentQuoteEchoes(blocks) {
