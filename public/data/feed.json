@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-04-14T08:57:38.885Z",
-  "fetchedAt": "2026-04-14T08:57:38.882Z",
+  "generatedAt": "2026-04-14T10:24:48.970Z",
+  "fetchedAt": "2026-04-14T10:24:48.967Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 288,
+  "totalItemCount": 289,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/a-defense-of-the-nba-play-in-tournament",
+      "title": "A Defense of the NBA Play-In Tournament",
+      "url": "https://neilpaine.substack.com/p/a-defense-of-the-nba-play-in-tournament",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "At least one of Adam Silver's weird, technocratic initiatives is good, actually.",
+      "publishedAt": "2026-04-14T10:02:58.000Z",
+      "articleId": "45c59be2cc849499"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/america-needs-more-statues",
+      "title": "America needs more statues",
+      "url": "https://www.slowboring.com/p/america-needs-more-statues",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Let's think less about who to tear down and more about what to build",
+      "publishedAt": "2026-04-14T10:02:01.000Z",
+      "articleId": "dab9abe7365529b1"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
+      "title": "OpenAI’s Memos, Frontier, Amazon and Anthropic",
+      "url": "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise.",
+      "publishedAt": "2026-04-14T10:00:00.000Z",
+      "articleId": "d7971f6b58dfa6de"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-economic-value-of-eliminating-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-value-of-eliminating-cancer",
       "title": "The economic value of eliminating cancer",
@@ -952,17 +985,6 @@
       "articleId": "bdc7819dcbdd2573"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/thursday-discussion-post-6eb",
-      "title": "Thursday discussion post",
-      "url": "https://www.slowboring.com/p/thursday-discussion-post-6eb",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Big news!",
-      "publishedAt": "2026-04-02T22:01:28.000Z",
-      "articleId": "0f2db451f7a81616"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/take-me-out-to-the-ballgame",
       "title": "Take Me Out To The Ball Game",
       "url": "https://www.cantgetmuchhigher.com/p/take-me-out-to-the-ballgame",
@@ -1115,17 +1137,6 @@
       "summary": "...",
       "publishedAt": "2026-03-31T11:32:53.000Z",
       "articleId": "b6695a621b2a60aa"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apples-50-years-of-integration/",
-      "title": "Apple’s 50 Years of Integration",
-      "url": "https://stratechery.com/2026/apples-50-years-of-integration/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes.",
-      "publishedAt": "2026-03-31T10:00:00.000Z",
-      "articleId": "28d1427034e80156"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7159325/2026/03/30/new-york-giants-john-harbaugh-joe-schoen-league-meetings/",
@@ -2413,17 +2424,6 @@
       "summary": "Taking a look at the parts of what could be an elite defense in John Harbaugh's first season.",
       "publishedAt": "2026-02-13T10:31:18.000Z",
       "articleId": "4ea9f1f889565f78"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
-      "title": "Steve Tisch is embroiled in the Jeffrey Epstein scandal. What is his role with the Giants?",
-      "url": "https://www.nytimes.com/athletic/7042708/2026/02/13/steve-tisch-jeffrey-epstein-new-york-giants-role/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The co-owner has been embroiled in controversy after being connected to Jeffrey Epstein.",
-      "publishedAt": "2026-02-13T10:30:08.000Z",
-      "articleId": "4be375a925b712fc"
     }
   ],
   "sources": [
@@ -2503,7 +2503,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
