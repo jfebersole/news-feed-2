@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-14T05:39:08.596Z",
-  "fetchedAt": "2026-04-14T05:39:08.594Z",
+  "generatedAt": "2026-04-14T07:12:12.162Z",
+  "fetchedAt": "2026-04-14T07:12:12.158Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 288,
+  "totalItemCount": 279,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-economic-value-of-eliminating-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-value-of-eliminating-cancer",
+      "title": "The economic value of eliminating cancer",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-economic-value-of-eliminating-cancer.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper estimates the economic value to the United States of eliminating cancer mortality over a 35-year horizon beginning in 2030, which would eliminate 30.7 million cancer deaths with a total mortality burden of 380 million life-years. We quantify the economic value of this substantial reduction in cancer mortality by incorporating the monetized value of [&#8230;] The post The economic value of eliminating cancer appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-14T06:48:35.000Z",
+      "articleId": "a3fd3df451bc302d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/dark-labor-claims-to-upset-almost-everybody.html?utm_source=rss&utm_medium=rss&utm_campaign=dark-labor-claims-to-upset-almost-everybody",
       "title": "“Dark labor” claims to upset almost everybody",
@@ -301,17 +312,6 @@
       "summary": "A dollhouse for your Saturday:",
       "publishedAt": "2026-04-11T17:00:46.000Z",
       "articleId": "7c8b5f487242f2d0"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-556.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-556",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-556.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. What is the chance we live inside a black hole? 2. Observations on ambition, though it is sad he does not grasp the value of Jiro. 3. A brief history of lab notebooks. 4. &#8220;Hero rat who sniffed out over 100 land mines is honored with giant statue.&#8221; 5. The new LACMA (NYT). And [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-11T16:20:03.000Z",
-      "articleId": "c003ff3b1d739cba"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04112026",
@@ -2438,10 +2438,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
