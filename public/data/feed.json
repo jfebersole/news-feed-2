@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-14T15:53:32.156Z",
-  "fetchedAt": "2026-04-14T15:53:32.153Z",
+  "generatedAt": "2026-04-14T17:20:08.561Z",
+  "fetchedAt": "2026-04-14T17:20:08.558Z",
   "sourceCount": 21,
   "itemCount": 220,
-  "totalItemCount": 289,
+  "totalItemCount": 288,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/trump-is-failing-the-big-ass-truck",
+      "title": "Trump Is Failing the 'Big-Ass Truck' Test",
+      "url": "https://www.joshbarro.com/p/trump-is-failing-the-big-ass-truck",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Trump's bargain with swing voters was that he would deliver a strong economy and they would look past his many defects. By attacking Iran, Trump has broken the deal.",
+      "publishedAt": "2026-04-14T16:59:35.000Z",
+      "articleId": "27d77b7a1b5ba432"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-564",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-564.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Where is it dangerous to be a pedestrian in NYC? And city-owned grocery stores for NYC? (NYT) 2. Is Mississippi running out of liquor? 3. Four classic Chinese texts and their relevance. 4. Redux post from 1/28. 5. Seb Krier. 6. The penguin-tracking culture that is Kyoto, Japan. 7. The Economist will be using [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-14T16:05:28.000Z",
+      "articleId": "41cfdad0f3033288"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-comebacks",
       "title": "An Album a Day: Comebacks",
@@ -325,17 +347,6 @@
       "articleId": "d2108e6e81bd492a"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/another-possible-cyberequilibrium-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=another-possible-cyberequilibrium-from-my-email",
-      "title": "Another possible cyberequilibrium? (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/another-possible-cyberequilibrium-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I would not wish to bet on this, but it is an interesting idea: I wonder if the cyber capabilities of Mythos and future models ultimately lower the returns to ‘hacking,’ perhaps below the point where such efforts are worth investing in. Say you’re a nefarious actor and uncover a critical, zero-day exploit in an [&#8230;] The post Another possible cyberequilibrium? (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-12T04:21:46.000Z",
-      "articleId": "526463aad8a3fa9b"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html",
       "title": "Trump’s Iran War Is a Familiar Middle Eastern Folly",
       "url": "https://www.nytimes.com/2026/04/11/opinion/trump-iran-war-middle-east.html",
@@ -444,17 +455,6 @@
       "summary": "We disinfect water before we drink it. Germicidal ultraviolet could make airborne disease as rare as those carried by water.",
       "publishedAt": "2026-04-10T13:44:18.000Z",
       "articleId": "1983c0bd619afceb"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/goaltending-usually-drives-the-nhl",
-      "title": "Goaltending Usually Drives the NHL Standings. Not This Year.",
-      "url": "https://neilpaine.substack.com/p/goaltending-usually-drives-the-nhl",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "What happened to the typical rule that the NHL's best teams also have the best goaltending?",
-      "publishedAt": "2026-04-10T10:03:19.000Z",
-      "articleId": "9f9a6304ebffaa90"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/most-politicians-are-charming-and",
@@ -2503,7 +2503,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
