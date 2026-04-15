@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-15T08:52:45.186Z",
-  "fetchedAt": "2026-04-15T08:52:45.181Z",
+  "generatedAt": "2026-04-15T10:37:40.881Z",
+  "fetchedAt": "2026-04-15T10:37:40.876Z",
   "sourceCount": 21,
   "itemCount": 151,
   "totalItemCount": 759,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/we-should-plan-for-success",
+      "title": "We should plan for success",
+      "url": "https://www.slowboring.com/p/we-should-plan-for-success",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Cities shouldn&#8217;t just settle for &#8220;enough&#8221; housing.",
+      "publishedAt": "2026-04-15T10:03:17.000Z",
+      "articleId": "32dbd82347a21c75"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
+      "title": "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle",
+      "url": "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.",
+      "publishedAt": "2026-04-15T10:00:00.000Z",
+      "articleId": "88fce5ff9507c723"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-venetian-empire-and-the-mongols-modeling-marco-polo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-venetian-empire-and-the-mongols-modeling-marco-polo",
       "title": "The Venetian empire and the Mongols (modeling Marco Polo)",
@@ -886,17 +908,6 @@
       "articleId": "5cb2db5a8f20b3c1"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/11-jobs-that-probably-wont-be-taken",
-      "title": "11 jobs that (probably) won’t be taken by A.I.",
-      "url": "https://www.slowboring.com/p/11-jobs-that-probably-wont-be-taken",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Who will survive the A.I. apocalypse?",
-      "publishedAt": "2026-04-03T22:00:30.000Z",
-      "articleId": "517991f215135c81"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/apple-acceleration-and-ai/",
       "title": "2026.14: Apple, Acceleration, and AI",
       "url": "https://stratechery.com/2026/apple-acceleration-and-ai/",
@@ -1016,17 +1027,6 @@
       "summary": "Reflections on a unique nation.",
       "publishedAt": "2026-04-01T10:29:51.000Z",
       "articleId": "20d81f3c8dcc1429"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
-      "title": "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security",
-      "url": "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "AI is going to be bad for security in the short-term, but much better than humans in the long-term.",
-      "publishedAt": "2026-04-01T10:00:00.000Z",
-      "articleId": "9f726446606d2d4a"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/meetups-everywhere-spring-2026-times",
