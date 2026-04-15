@@ -47,6 +47,7 @@ const brandLockupObserver =
 let readerRequestId = 0;
 let pendingCardGridFocus = false;
 let refreshInProgress = false;
+let pendingSourceSelection = null;
 
 searchInput.addEventListener("input", (event) => {
   state.searchText = event.target.value.trim().toLowerCase();
@@ -92,18 +93,28 @@ window.addEventListener("popstate", (event) => {
   if (state.readerOpen) {
     closeReader({ fromHistory: true });
   }
+
+  if (pendingSourceSelection !== null) {
+    const nextSource = pendingSourceSelection;
+    pendingSourceSelection = null;
+    applySourceSelection(nextSource);
+    return;
+  }
+
+  applySourceSelection(normalizeSourceSelection(event.state?.source), { fromHistory: true });
 });
 
 homeLink.addEventListener("click", (event) => {
   event.preventDefault();
-  state.selectedSource = "all";
   state.searchText = "";
   searchInput.value = "";
-  navigateBackFromReader();
-  render();
+  pendingSourceSelection = null;
+  selectSource("all");
   window.scrollTo({ top: 0, behavior: "smooth" });
   triggerRefresh();
 });
+
+primeHistoryState();
 
 if (readerBody) {
   readerBody.addEventListener("click", (event) => {
@@ -270,13 +281,7 @@ function createSourceChip(value, label, count) {
   button.innerHTML = `${escapeHtml(label)} <span class="chip-count">(${count})</span>`;
 
   button.addEventListener("click", () => {
-    state.selectedSource = value;
-    if (state.readerOpen) {
-      pendingCardGridFocus = true;
-      navigateBackFromReader();
-      return;
-    }
-    render();
+    selectSource(value);
   });
 
   return button;
@@ -316,13 +321,25 @@ function renderCards() {
     const titleLink = fragment.querySelector(".card-title-link");
     const title = fragment.querySelector(".card-title");
     const summary = fragment.querySelector(".card-summary");
-    const link = fragment.querySelector(".card-link");
 
     card.style.setProperty("--idx", index.toString());
     card.classList.add(`tone-${toneForSource(item.source)}`);
 
     rankPill.textContent = String(index + 1).padStart(2, "0");
-    sourcePill.textContent = item.source;
+    const sourceName = item.source || "";
+    if (sourceName) {
+      const sourceLink = document.createElement("a");
+      sourceLink.href = "#";
+      sourceLink.className = "source-link";
+      sourceLink.textContent = sourceName;
+      sourceLink.addEventListener("click", (event) => {
+        event.preventDefault();
+        selectSource(sourceName);
+      });
+      sourcePill.replaceChildren(sourceLink);
+    } else {
+      sourcePill.textContent = "Unknown source";
+    }
     timePill.textContent = item.publishedAt ? formatRelative(item.publishedAt) : "Date unknown";
     title.textContent = item.title;
     titleLink.href = item.url;
@@ -335,8 +352,6 @@ function renderCards() {
       openReader(item);
     });
     summary.textContent = truncateSummary(item.summary) || "Summary unavailable.";
-    link.href = item.url;
-    link.textContent = "Open Story";
 
     return fragment;
   });
@@ -360,6 +375,53 @@ function getVisibleItems() {
       .toLowerCase()
       .includes(state.searchText)
   );
+}
+
+function primeHistoryState() {
+  const url = new URL(window.location.href);
+  url.hash = "";
+  const source = normalizeSourceSelection(history.state?.source);
+  history.replaceState({ source }, "", url.toString());
+  state.selectedSource = source;
+}
+
+function normalizeSourceSelection(value) {
+  const source = typeof value === "string" ? value.trim() : "";
+  return source || "all";
+}
+
+function selectSource(value) {
+  const source = normalizeSourceSelection(value);
+  if (state.readerOpen) {
+    pendingCardGridFocus = true;
+    pendingSourceSelection = source;
+    navigateBackFromReader();
+    return;
+  }
+
+  applySourceSelection(source);
+}
+
+function applySourceSelection(value, options = {}) {
+  const { fromHistory = false } = options;
+  const source = normalizeSourceSelection(value);
+  state.selectedSource = source;
+
+  if (!fromHistory) {
+    const currentSource = normalizeSourceSelection(history.state?.source);
+    const url = new URL(window.location.href);
+    url.hash = "";
+
+    if (source === currentSource) {
+      history.replaceState({ source }, "", url.toString());
+    } else if (currentSource === "all") {
+      history.pushState({ source }, "", url.toString());
+    } else {
+      history.replaceState({ source }, "", url.toString());
+    }
+  }
+
+  render();
 }
 
 function summarizeModes() {
@@ -585,6 +647,9 @@ function renderReader() {
   const item = state.readerItem;
   const article = state.readerArticle;
   const heading = decodeHtmlEntities(article?.title || item.title || "Article");
+  const access = article?.access || item?.access || inferItemAccess(item);
+  const isPaywalledExcerpt =
+    article?.mode === "excerpt" && (Boolean(article?.paywalled) || access === "paywalled");
 
   readerPanel.hidden = false;
   readerRailTitle.textContent = heading;
@@ -592,8 +657,10 @@ function renderReader() {
   readerRailSource.hidden = !readerRailSource.textContent.trim();
 
   if (item.url) {
+    readerLink.textContent = "Link";
     readerLink.href = item.url;
     readerLink.hidden = false;
+    readerRailLink.textContent = "Link";
     readerRailLink.href = item.url;
     readerRailLink.hidden = false;
   } else {
@@ -638,13 +705,8 @@ function renderReader() {
   }
 
   if (article.mode === "excerpt") {
-    if (article.reason) {
-      readerReason.textContent = article.reason;
-      readerReason.classList.add("visible");
-    }
-
     const excerpt = decodeHtmlEntities(article.excerpt || item.summary || "Open the source link to keep reading.");
-    readerBody.innerHTML = `<p>${escapeHtml(excerpt)}</p>`;
+    readerBody.innerHTML = renderExcerptBody({ item, excerpt, isPaywalledExcerpt });
     updateReaderProgress();
     return;
   }
@@ -850,6 +912,42 @@ function buildReaderMeta(article, item) {
   }
 
   return parts.join(" · ");
+}
+
+function renderExcerptBody({ item, excerpt, isPaywalledExcerpt }) {
+  if (!isPaywalledExcerpt) {
+    return `<p>${escapeHtml(excerpt)}</p>`;
+  }
+
+  const publisherLabel = resolvePublisherLabel(item);
+  const ctaLabel = publisherLabel ? `Read full text at ${publisherLabel}` : "Read full text at source";
+  const ctaHtml = item?.url
+    ? `<a class="reader-paywall-cta" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(
+        ctaLabel
+      )}</a>`
+    : "";
+
+  return `
+    <p>${escapeHtml(excerpt)}</p>
+    ${ctaHtml}
+  `;
+}
+
+function resolvePublisherLabel(item) {
+  const source = String(item?.source || "").toLowerCase();
+  const url = String(item?.url || "").toLowerCase();
+  const isAthletic =
+    source.includes("athletic") || url.includes("theathletic.com") || url.includes("nytimes.com/athletic/");
+
+  if (isAthletic) {
+    return "The Athletic";
+  }
+
+  if (source.includes("nyt") || url.includes("nytimes.com")) {
+    return "The New York Times";
+  }
+
+  return item?.source || "Source";
 }
 
 function inferItemAccess(item) {

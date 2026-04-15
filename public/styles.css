@@ -238,6 +238,21 @@ body::before {
   color: var(--muted);
 }
 
+.source-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.14s ease;
+}
+
+.source-link:hover {
+  color: var(--accent-blue);
+}
+
+.source-link:focus-visible {
+  color: var(--accent-blue);
+  outline: none;
+}
+
 .card-title {
   margin: 0;
   font-family: "Newsreader", Georgia, serif;
@@ -262,26 +277,6 @@ body::before {
   color: #454033;
   line-height: 1.42;
   font-size: 0.96rem;
-}
-
-.card-footer {
-  display: flex;
-}
-
-.card-link {
-  color: var(--ink);
-  text-decoration: none;
-  font-family: "Archivo Narrow", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.11em;
-  font-size: 0.75rem;
-  border-bottom: 1px solid var(--ink);
-  padding-bottom: 2px;
-}
-
-.card-link:hover {
-  color: var(--accent-blue);
-  border-bottom-color: var(--accent-blue);
 }
 
 .control-rail {
@@ -594,6 +589,31 @@ body::before {
 .reader-body {
   margin-top: 16px;
   padding-top: 0;
+}
+
+.reader-body .reader-paywall-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4px;
+  width: fit-content;
+  min-height: 34px;
+  padding: 7px 12px;
+  border: 1px solid rgba(16, 16, 15, 0.26);
+  background: rgba(255, 255, 255, 0.5);
+  color: #262118;
+  text-decoration: none;
+  font-family: "Archivo Narrow", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-size: 0.72rem;
+  transition: color 0.14s ease, border-color 0.14s ease, background-color 0.14s ease;
+}
+
+.reader-body .reader-paywall-cta:hover {
+  color: var(--accent-blue);
+  border-color: var(--accent-blue);
+  background: rgba(245, 248, 252, 0.8);
 }
 
 .reader-body p {
