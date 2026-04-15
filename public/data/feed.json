@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-15T19:41:53.180Z",
-  "fetchedAt": "2026-04-15T19:41:53.176Z",
+  "generatedAt": "2026-04-15T21:04:13.261Z",
+  "fetchedAt": "2026-04-15T21:04:13.257Z",
   "sourceCount": 21,
-  "itemCount": 152,
-  "totalItemCount": 752,
+  "itemCount": 150,
+  "totalItemCount": 760,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a85k9itjdligrstqpfbc.html",
@@ -444,17 +444,6 @@
       "summary": "Is the Strait of Hormuz open yet, building code cost benefit analysis, Intel joining Terafab, sponge cities, and more.",
       "publishedAt": "2026-04-11T12:02:56.000Z",
       "articleId": "cf6f2e180ca0a267"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-6-10-2026",
-      "title": "The Week That Was (April 6-10, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-april-6-10-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-04-11T09:59:37.000Z",
-      "articleId": "559925c6adc10495"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/will-americans-want-more-housing",
@@ -1665,17 +1654,6 @@
       "summary": "Ehrlich; AI and knowledge; The Strait of Hormuz; Government debt and inflation; Japanese robots; Democrats and taxes; Smartphones",
       "publishedAt": "2026-03-17T08:58:01.000Z",
       "articleId": "869b5749119526d4"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/shameless-guesses-not-hallucinations",
-      "title": "Shameless Guesses, Not Hallucinations",
-      "url": "https://www.astralcodexten.com/p/shameless-guesses-not-hallucinations",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-16T20:25:24.000Z",
-      "articleId": "1ff1ba351dd10785"
     }
   ],
   "sources": [
@@ -1690,10 +1668,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1755,7 +1733,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
