@@ -73,6 +73,7 @@ Current example:
 
 - `Astral Codex Ten`: exclude items where the title contains `open thread` (case-insensitive).
 - `Neil Paine`: exclude items where description contains `Subscribe to Scoreboard`, and exclude items with emojis in the title.
+- `Slow Boring`: exclude items where the title contains `discussion post` (case-insensitive).
 
 ### Substack CI Fallback
 
@@ -90,3 +91,11 @@ Optional environment variables:
 - This setup is optimized for personal use and fast page loads.
 - Because the repo is public, generated feed/article JSON is public too.
 - Paywalled sources stay excerpt-only in generated reader payloads.
+
+## Static Feed Window
+
+Optional build-time environment variables:
+
+- `STATIC_MAX_AGE_DAYS` (default: `30`) includes only items with `publishedAt` in the last N days.
+- `STATIC_REFRESH_RECENT_COUNT` (default: `40`) rebuilds article payloads for the newest N retained items.
+- `STATIC_CONCURRENCY` (default: `5`) controls article payload fetch/build concurrency.

@@ -33,7 +33,7 @@ jobs:
 
       - name: Build Static Data
         env:
-          STATIC_FEED_LIMIT: "220"
+          STATIC_MAX_AGE_DAYS: "30"
           STATIC_REFRESH_RECENT_COUNT: "40"
           STATIC_CONCURRENCY: "5"
           SOURCE_FETCH_CONCURRENCY: "4"

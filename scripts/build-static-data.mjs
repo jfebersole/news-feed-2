@@ -3,7 +3,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-const FEED_LIMIT = parsePositiveInt(process.env.STATIC_FEED_LIMIT, 220);
+const MAX_AGE_DAYS = parsePositiveInt(process.env.STATIC_MAX_AGE_DAYS, 30);
 const RECENT_REFRESH_COUNT = parsePositiveInt(process.env.STATIC_REFRESH_RECENT_COUNT, 40);
 const FETCH_CONCURRENCY = parsePositiveInt(process.env.STATIC_CONCURRENCY, 5);
 
@@ -25,13 +25,17 @@ const previousFeed = await readJson(feedPath, null);
 const entries = normalizeEntries(existingIndex.entries);
 
 console.log(
-  `Building static feed (limit=${FEED_LIMIT}, refresh_recent=${RECENT_REFRESH_COUNT}, concurrency=${FETCH_CONCURRENCY})`
+  `Building static feed (max_age_days=${MAX_AGE_DAYS}, refresh_recent=${RECENT_REFRESH_COUNT}, concurrency=${FETCH_CONCURRENCY})`
 );
 
 const liveFeed = await aggregateSources();
 const feed = stabilizeFeedWithPreviousSnapshot(liveFeed, previousFeed);
-const nowIso = new Date().toISOString();
-const items = (feed.items || []).slice(0, FEED_LIMIT).map((item) => ({ ...item }));
+const now = new Date();
+const nowIso = now.toISOString();
+const recentCutoffMs = now.getTime() - daysToMilliseconds(MAX_AGE_DAYS);
+const items = (feed.items || [])
+  .filter((item) => isWithinRecentWindow(item?.publishedAt, recentCutoffMs))
+  .map((item) => ({ ...item }));
 const forceRefreshSources = new Set(
   (feed.sources || []).filter((source) => source?.mode === "rss-proxy").map((source) => source.name)
 );
@@ -217,7 +221,7 @@ function stabilizeFeedWithPreviousSnapshot(currentFeed, previousFeed) {
       return;
     }
 
-    const fallbackItems = (previousBySource.get(source.name) || []).slice(0, 24);
+    const fallbackItems = previousBySource.get(source.name) || [];
     if (!fallbackItems.length) {
       return;
     }
@@ -288,6 +292,23 @@ function parsePositiveInt(value, fallback) {
   }
 
   return parsed;
+}
+
+function daysToMilliseconds(days) {
+  return days * 24 * 60 * 60 * 1000;
+}
+
+function isWithinRecentWindow(publishedAt, cutoffMs) {
+  if (!publishedAt) {
+    return false;
+  }
+
+  const publishedMs = Date.parse(publishedAt);
+  if (!Number.isFinite(publishedMs)) {
+    return false;
+  }
+
+  return publishedMs >= cutoffMs;
 }
 
 async function runWithConcurrency(items, limit, worker) {

@@ -141,6 +141,9 @@ const SOURCE_ITEM_RULES = Object.freeze({
     excludeDescriptionIncludes: Object.freeze(["Subscribe to Scoreboard"]),
     excludeTitleIfContainsEmoji: true,
   }),
+  "Slow Boring": Object.freeze({
+    excludeTitleIncludes: Object.freeze(["discussion post"]),
+  }),
   "Money Stuff (Bloomberg)": Object.freeze({
     excludeTitleIncludes: Object.freeze([
       "you've subscribed",
@@ -426,7 +429,7 @@ async function pullSource(source) {
     const normalizedBase = (parsed.items || [])
       .map((item) => normalizeFeedItem(item, source))
       .filter(Boolean);
-    const normalized = applySourceItemRules(source, normalizedBase).slice(0, 24);
+    const normalized = applySourceItemRules(source, normalizedBase);
 
     if (!normalized.length) {
       if (normalizedBase.length) {
@@ -494,7 +497,7 @@ async function pullSourceViaRssProxy(source) {
     const normalizedBase = asArray(payload?.items)
       .map((item) => normalizeProxyFeedItem(item, source))
       .filter(Boolean);
-    const normalized = applySourceItemRules(source, normalizedBase).slice(0, 24);
+    const normalized = applySourceItemRules(source, normalizedBase);
 
     if (!normalized.length) {
       if (normalizedBase.length) {
