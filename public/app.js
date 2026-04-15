@@ -263,11 +263,19 @@ function renderSourceChips() {
   const chips = [];
   chips.push(createSourceChip("all", "All Sources", state.items.length));
 
-  state.sources
-    .filter((source) => source.itemCount > 0)
-    .sort((a, b) => b.itemCount - a.itemCount)
-    .forEach((source) => {
-      chips.push(createSourceChip(source.name, source.name, source.itemCount));
+  const countsBySource = new Map();
+  state.items.forEach((item) => {
+    const sourceName = String(item?.source || "").trim();
+    if (!sourceName) {
+      return;
+    }
+    countsBySource.set(sourceName, (countsBySource.get(sourceName) || 0) + 1);
+  });
+
+  [...countsBySource.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0], undefined, { sensitivity: "base" }))
+    .forEach(([sourceName, sourceCount]) => {
+      chips.push(createSourceChip(sourceName, sourceName, sourceCount));
     });
 
   sourceChips.replaceChildren(...chips);
