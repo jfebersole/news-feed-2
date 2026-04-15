@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-15T15:20:58.564Z",
-  "fetchedAt": "2026-04-15T15:20:58.560Z",
+  "generatedAt": "2026-04-15T17:17:47.900Z",
+  "fetchedAt": "2026-04-15T17:17:47.895Z",
   "sourceCount": 21,
-  "itemCount": 153,
+  "itemCount": 151,
   "totalItemCount": 760,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-549.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-549",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-549.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. An observation on left-wing universities. 2. Arnold Kling on marginalism. 3. &#8220;You should be holding more babies.&#8221; 4. Hayekian welfare states. 5. Why Hungary will prove hard to change (FT). 6. Miami-Dade is losing residents? 7. Brazilian real on the rise. 8. Peter Thiel and Emmanuel Todd discussion. Imperfect sound however. The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-15T15:57:02.000Z",
+      "articleId": "459514c66303c5ba"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-truth-about-egg-freezing",
       "title": "The truth about egg freezing",
@@ -56,7 +67,7 @@
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/",
       "access": "paywalled",
-      "summary": "Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.",
+      "summary": "Amazon's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.",
       "publishedAt": "2026-04-15T10:00:00.000Z",
       "articleId": "88fce5ff9507c723"
     },
@@ -334,17 +345,6 @@
       "summary": "An edited transcript is here. The post My South Africa dialogue with Ann Bernstein appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-13T07:20:25.000Z",
       "articleId": "ddec3a40ca6b1b93"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/self-driving-vehicles-and-the-cross-country-drive.html?utm_source=rss&utm_medium=rss&utm_campaign=self-driving-vehicles-and-the-cross-country-drive",
-      "title": "Self-driving vehicles and the cross-country drive",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/self-driving-vehicles-and-the-cross-country-drive.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Following my post on cross-country driving, a reader asked me about this prospect but I suppose I am skeptical. First, self-driving vehicles make it too easy to read a book or stare at your phone. Driving yourself fixes your attention on what is unfolding before your eyes, and forces you to keep it there. You [&#8230;] The post Self-driving vehicles and the cross-country drive appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-13T04:51:26.000Z",
-      "articleId": "f52357ead1a8752f"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up",
@@ -1665,28 +1665,6 @@
       "summary": "...",
       "publishedAt": "2026-03-16T20:25:24.000Z",
       "articleId": "1ff1ba351dd10785"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "title": "We Have Reached End-Stage Polarization",
-      "url": "https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The omnipresence of Trump should open our eyes.",
-      "publishedAt": "2026-03-16T16:20:50.000Z",
-      "articleId": "e6e939d57136f522"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/it-still-doesnt-look-like-theres",
-      "title": "It still doesn’t look like there’s an AI bubble",
-      "url": "https://www.understandingai.org/p/it-still-doesnt-look-like-theres",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "Anthropic's annualized revenue doubled in just two months.",
-      "publishedAt": "2026-03-16T15:26:57.000Z",
-      "articleId": "b60a079f444b59da"
     }
   ],
   "sources": [
