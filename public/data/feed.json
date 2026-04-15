@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-15T12:03:57.398Z",
-  "fetchedAt": "2026-04-15T12:03:57.394Z",
+  "generatedAt": "2026-04-15T14:03:17.300Z",
+  "fetchedAt": "2026-04-15T14:03:17.295Z",
   "sourceCount": 21,
-  "itemCount": 151,
-  "totalItemCount": 759,
+  "itemCount": 153,
+  "totalItemCount": 760,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-truth-about-egg-freezing",
+      "title": "The truth about egg freezing",
+      "url": "https://www.worksinprogress.news/p/the-truth-about-egg-freezing",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Whatever you do, do not listen to the articles that say that egg and embryo freezing do not work.",
+      "publishedAt": "2026-04-15T13:43:31.000Z",
+      "articleId": "b457f3ce4df38158"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/rescind-davis-bacon.html?utm_source=rss&utm_medium=rss&utm_campaign=rescind-davis-bacon",
       "title": "Rescind Davis Bacon",
@@ -26,6 +37,17 @@
       "summary": "Cities shouldn&#8217;t just settle for &#8220;enough&#8221; housing.",
       "publishedAt": "2026-04-15T10:03:17.000Z",
       "articleId": "32dbd82347a21c75"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-red-wings-lost-decade",
+      "title": "The Red Wings' Lost Decade",
+      "url": "https://neilpaine.substack.com/p/the-red-wings-lost-decade",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Detroit went from 25 straight years in the playoffs to 10 straight out — and counting.",
+      "publishedAt": "2026-04-15T10:01:05.000Z",
+      "articleId": "bec3af2ea8660156"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
@@ -1744,7 +1766,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
