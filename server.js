@@ -803,10 +803,13 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
 
   const host = (safeHostname(url) || "").toLowerCase();
   const source = (sourceName || "").toLowerCase();
+  const isKillTheNewsletterHost = host.includes("kill-the-newsletter.com");
   const preferSubstackMedia =
     host.includes("substack.com") || host.includes("worksinprogress.news") || source.includes("substack");
-  const isMoneyStuffNewsletter = source.includes("money stuff") && host.includes("kill-the-newsletter.com");
-  const fallbackSubtitle = isMoneyStuffNewsletter ? null : fallbackSummary || null;
+  const isMoneyStuffNewsletter = source.includes("money stuff") && isKillTheNewsletterHost;
+  const isBrewShopNewsletter = source.includes("brew shop") && isKillTheNewsletterHost;
+  const isEmailNewsletter = isMoneyStuffNewsletter || isBrewShopNewsletter;
+  const fallbackSubtitle = isEmailNewsletter ? null : fallbackSummary || null;
 
   let content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   try {
@@ -814,13 +817,14 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     const $root = $snippet("#feed-fallback-root");
     content = collectContentBlocks($snippet, $root, url, {
       preferSubstackMedia,
-      preferEmailFormatting: isMoneyStuffNewsletter,
+      preferEmailFormatting: isEmailNewsletter,
+      dropEmailLayoutTables: isBrewShopNewsletter,
     });
   } catch {
     content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   }
 
-  if (!content.contentHtml || (!isMoneyStuffNewsletter && content.wordCount < 80)) {
+  if (!content.contentHtml || (!isEmailNewsletter && content.wordCount < 80)) {
     const plainText = cleanText(rawHtml);
     if (plainText.length < 140) {
       if (!content.contentHtml || content.wordCount < 35) {
@@ -872,7 +876,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
       linkCount: 0,
     };
 
-    if (!content.contentHtml || (!isMoneyStuffNewsletter && plainTextContent.wordCount >= content.wordCount + 120)) {
+    if (!content.contentHtml || (!isEmailNewsletter && plainTextContent.wordCount >= content.wordCount + 120)) {
       content = plainTextContent;
     }
   }
@@ -882,6 +886,20 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     if (cleanedMoneyStuffHtml) {
       const $clean = cheerio.load(`<article id="money-stuff-clean-root">${cleanedMoneyStuffHtml}</article>`);
       const $cleanRoot = $clean("#money-stuff-clean-root");
+      content = {
+        contentHtml: $cleanRoot.html() || "",
+        wordCount: countWords(cleanText($cleanRoot.text())),
+        imageCount: $cleanRoot.find("img").length,
+        linkCount: $cleanRoot.find("a[href]").length,
+      };
+    }
+  }
+
+  if (isBrewShopNewsletter && content.contentHtml) {
+    const cleanedBrewShopHtml = cleanupBrewShopContentHtml(content.contentHtml, url);
+    if (cleanedBrewShopHtml) {
+      const $clean = cheerio.load(`<article id="brew-shop-clean-root">${cleanedBrewShopHtml}</article>`);
+      const $cleanRoot = $clean("#brew-shop-clean-root");
       content = {
         contentHtml: $cleanRoot.html() || "",
         wordCount: countWords(cleanText($cleanRoot.text())),
@@ -1675,6 +1693,10 @@ function shouldKeepContentBlock($, element, options = {}) {
     return false;
   }
 
+  if (tag === "table" && options.dropEmailLayoutTables) {
+    return isLikelyDataTableNode(node);
+  }
+
   if (tag === "figure" && !hasImages && text.length < 20) {
     return false;
   }
@@ -1684,6 +1706,23 @@ function shouldKeepContentBlock($, element, options = {}) {
   }
 
   return true;
+}
+
+function isLikelyDataTableNode(node) {
+  if (!node || !node.length) {
+    return false;
+  }
+
+  if (node.find("th").length > 0 || node.find("caption").length > 0) {
+    return true;
+  }
+
+  const rowCount = node.find("tr").length;
+  const cellCount = node.find("td").length;
+  const imageCount = node.find("img").length;
+  const textLength = cleanText(node.text()).length;
+
+  return rowCount >= 2 && cellCount >= 4 && imageCount === 0 && textLength >= 120;
 }
 
 function sanitizeContentBlock($, element, baseUrl) {
@@ -2336,6 +2375,113 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
 
   return stripPlaceholderNodes(
     repairInPageFootnoteTargets(removeAdjacentQuoteEchoes(dedupeHtmlBlocks(trimmed)).join("\n"))
+  );
+}
+
+function cleanupBrewShopContentHtml(contentHtml, baseUrl) {
+  if (!contentHtml) {
+    return "";
+  }
+
+  const selector = "h2,h3,h4,h5,h6,p,ul,ol,blockquote,pre,table,figure,img,hr,a";
+  let $ = null;
+  try {
+    $ = cheerio.load(`<article id="brew-shop-cleaner-root">${contentHtml}</article>`);
+  } catch {
+    return contentHtml;
+  }
+
+  const $root = $("#brew-shop-cleaner-root");
+  $root.find("table,tbody,tr,td").each((_idx, node) => {
+    const $node = $(node);
+    if ((node.tagName || "").toLowerCase() === "table" && isLikelyDataTableNode($node)) {
+      return;
+    }
+    $node.replaceWith($node.contents());
+  });
+
+  const rootNode = $root.get(0);
+  const blocks = [];
+
+  $root
+    .find(selector)
+    .slice(0, 1400)
+    .each((_idx, element) => {
+      if (hasMatchingContentAncestor($, element, rootNode, selector)) {
+        return;
+      }
+
+      const node = $(element);
+      const tag = (element.tagName || "").toLowerCase();
+      const text = cleanText(node.text());
+      const normalized = text.toLowerCase();
+      const hasImages = tag === "img" || node.find("img").length > 0;
+
+      if (isBrewShopBoilerplateText(normalized)) {
+        return;
+      }
+
+      if (tag === "img") {
+        const src = (node.attr("src") || "").toLowerCase();
+        const width = Number(node.attr("width") || 0);
+        const height = Number(node.attr("height") || 0);
+        if (!src || /(?:^|[\/._-])(spacer|pixel|avatar|icon)(?:[\/._-]|$)/i.test(src)) {
+          return;
+        }
+        if ((width > 0 && height > 0 && width <= 72 && height <= 72) || width === 1 || height === 1) {
+          return;
+        }
+      } else {
+        if (!text && !hasImages) {
+          return;
+        }
+
+        if (tag === "a" && text.length < 12 && !hasImages) {
+          return;
+        }
+      }
+
+      const html = sanitizeContentBlock($, element, baseUrl);
+      if (html) {
+        blocks.push(html);
+      }
+    });
+
+  if (!blocks.length) {
+    return "";
+  }
+
+  const deduped = dedupeHtmlBlocks(blocks);
+  const trimmed = [];
+  for (const block of deduped) {
+    const text = cleanText(block).toLowerCase();
+    if (isBrewShopTailText(text)) {
+      break;
+    }
+    trimmed.push(block);
+  }
+
+  const output = trimmed.length ? trimmed : deduped;
+  return stripPlaceholderNodes(repairInPageFootnoteTargets(output.join("\n")));
+}
+
+function isBrewShopBoilerplateText(text) {
+  if (!text) {
+    return false;
+  }
+
+  return /(view this email in your browser|manage your preferences|unsubscribe from this list|forward to a friend|add us to your address book|you are receiving this email because|mailchimp|kill the newsletter!\s*feed settings)/i.test(
+    text
+  );
+}
+
+function isBrewShopTailText(text) {
+  if (!text) {
+    return false;
+  }
+
+  return /(unsubscribe from this list|manage your preferences|you are receiving this email because|mailchimp|kill the newsletter!\s*feed settings)/i.test(
+    text
   );
 }
 
