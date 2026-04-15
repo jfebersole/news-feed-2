@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-15T17:17:47.900Z",
-  "fetchedAt": "2026-04-15T17:17:47.895Z",
+  "generatedAt": "2026-04-15T19:41:53.180Z",
+  "fetchedAt": "2026-04-15T19:41:53.176Z",
   "sourceCount": 21,
-  "itemCount": 151,
-  "totalItemCount": 760,
+  "itemCount": 152,
+  "totalItemCount": 752,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a85k9itjdligrstqpfbc.html",
+      "title": "Money Stuff: AIbirds",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a85k9itjdligrstqpfbc.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff NewBird, Avis, golf, courses. View in browser New Bird I feel like, if you ran a big technology company, and you were looking to expand your artificial intelligence capabilities and needed to rent access to graphics processing units, and a GPU-as-a-service/AI-cloud company came to pitch you, and you said “so tell me a little bit about your company,” and the company said “well two weeks ago we were a sneaker company but we have since pivoted to AI,” you might say “huh, thanks but no thanks, we’re going to go with someone with a bit more AI experience and, you know, an actual data center.” Maybe that’s wrong; maybe the sneaker guys are great at AI. But you might worry. But! If you said “so tell me a little bit about your company,” and the company said “well two weeks ago we were a sneaker company called Allbirds, but we have pivoted to AI,” your reaction might be different. Because, in this hypothetical, you run a big technology company, and you probably spent years wearing Allbirds . “I used to love Allbirds,” you might say; “high five!” And then you might sign a long-term cloud hosting agreement with Former Allbirds, because like many tech executives you have a nostalgic fondness for their brand. I don’t think this is that likely, but worth a shot : Allbirds Inc., the once-buzzy maker of wool sneakers valued at more than $4 billion in its heyday, announced a new business plan just days before it planned to close down for good: AI computing infrastructure. And in a market that’s reacted in knee-jerk fashion to just about anything related to artificial intelligence, it did just that — sending Allbirds stock up as much as 461% after the opening bell. The response underscores the intensity of the speculative mania around AI, which has fueled stampedes into would-be winners and panicked rushes away from any industry that seems poised to be hit by the competitive threat. Of course there are two levels of analysis here. One is, sure, Allbirds is pivoting its business to AI compute infrastructure. That seems like a competitive and capital-intensive business in which Allbirds has no obvious expertise but, whatever, nostalgic fondness for the sneakers, maybe it’ll work out. The other level is that Allbirds is pivoting its stock to being an AI meme stock. That definitely worked out! The stock closed yesterday at $2.49 per share, for a market capitalization of about $22 million. Allbirds previously agreed to sell its sneaker business for $39 million and pay out the net proceeds to shareholders as a dividend; the $22 million market capitalization represented, roughly, the expected value of the dividend. At noon today, the stock was at $18.82, up 655% from yesterday’s close, for a market cap of about $164 million. That represents, uh, I guess it...",
+      "publishedAt": "2026-04-15T18:45:27.316Z",
+      "articleId": "e21c7642f7c1dc67"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-549.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-549",
       "title": "Wednesday assorted links",
@@ -67,7 +78,7 @@
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/",
       "access": "paywalled",
-      "summary": "Amazon's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.",
+      "summary": "Amazon's Globalstar acquisition is being framed as Amazon versus SpaceX, but I think the real story is about Apple.",
       "publishedAt": "2026-04-15T10:00:00.000Z",
       "articleId": "88fce5ff9507c723"
     },
@@ -1679,10 +1690,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -1808,7 +1819,7 @@
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "mode": "rss",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
       "error": null
     },
