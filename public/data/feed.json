@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-15T22:03:00.417Z",
-  "fetchedAt": "2026-04-15T22:03:00.413Z",
+  "generatedAt": "2026-04-15T22:59:31.685Z",
+  "fetchedAt": "2026-04-15T22:59:31.682Z",
   "sourceCount": 21,
-  "itemCount": 150,
-  "totalItemCount": 760,
+  "itemCount": 151,
+  "totalItemCount": 761,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/when-more-housing-becomes-a-hard",
+      "title": "When more housing becomes a hard sell",
+      "url": "https://www.slowboring.com/p/when-more-housing-becomes-a-hard",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The U.S. agrees it needs more homes, but fights over where and how reveal deeper conflicts about growth and change.",
+      "publishedAt": "2026-04-15T22:01:52.000Z",
+      "articleId": "42ac3c6085b33c7a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wake-up-people-assorted-links.html?utm_source=rss&utm_medium=rss&utm_campaign=wake-up-people-assorted-links",
       "title": "Wake up people assorted links",
@@ -1749,7 +1760,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
