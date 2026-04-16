@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-15T23:56:30.449Z",
-  "fetchedAt": "2026-04-15T23:56:30.444Z",
+  "generatedAt": "2026-04-16T03:44:35.530Z",
+  "fetchedAt": "2026-04-16T03:44:35.526Z",
   "sourceCount": 21,
-  "itemCount": 151,
-  "totalItemCount": 761,
+  "itemCount": 152,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/orban-was-bad-even-though-we-dont",
+      "title": "Orban Was Bad, Even Though We Don't Have A Perfect Word For His Badness",
+      "url": "https://www.astralcodexten.com/p/orban-was-bad-even-though-we-dont",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-04-16T01:51:55.000Z",
+      "articleId": "f193fc465a2a8159"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/when-more-housing-becomes-a-hard",
       "title": "When more housing becomes a hard sell",
@@ -1688,7 +1699,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
