@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-16T12:08:00.949Z",
-  "fetchedAt": "2026-04-16T12:08:00.943Z",
+  "generatedAt": "2026-04-16T15:05:19.779Z",
+  "fetchedAt": "2026-04-16T15:05:19.773Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 753,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/robert-skidelsky-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-skidelsky-rip",
+      "title": "Robert Skidelsky, RIP",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/robert-skidelsky-rip.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is one appreciation. His three-volume biography of Keynes (better than the one-volume condensation!) is in my opinion one of the very best books ever written, up there with Caro on Moses, etc. The post Robert Skidelsky, RIP appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-16T14:02:13.000Z",
+      "articleId": "9fa75dc8607841d0"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-spring-2026",
+      "title": "What’s new in biology: spring 2026",
+      "url": "https://www.worksinprogress.news/p/whats-new-in-biology-spring-2026",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "A breakthrough drug for pancreatic cancer, organ recovery, weight loss drugs that preserve muscle, a whole-cell simulation, how plants make nicotine, semaglutide fails for Alzheimer&#8217;s, and more.",
+      "publishedAt": "2026-04-16T13:48:44.000Z",
+      "articleId": "1e363c3e91201074"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/revising-modern-principles.html?utm_source=rss&utm_medium=rss&utm_campaign=revising-modern-principles",
       "title": "Revising Modern Principles",
@@ -84,7 +106,7 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7199225/2026/04/16/new-york-giants-contracts-free-agency-salary-cap/",
-      "title": "New York Giants' contracts review: What their free agency moves really reveal",
+      "title": "New York Giants contracts review: What their free agency moves really reveal",
       "url": "https://www.nytimes.com/athletic/7199225/2026/04/16/new-york-giants-contracts-free-agency-salary-cap/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
@@ -411,17 +433,6 @@
       "summary": "But the cartel’s interests may prove just as important to security as government efforts, according to a dozen local and state officials and security experts. The CJNG has much to gain from the regional economic boost of a successful tournament in Guadalajara — akin to its administrative headquarters — and much to lose from drawing [&#8230;] The post Incentives matter, Mexican cartel edition appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-13T18:16:57.000Z",
       "articleId": "6824f21dd2cd571a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-that-was-then.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-that-was-then",
-      "title": "That was then, that was then",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-that-was-then.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Fred Anderson has demonstrated how a futuristic novel written in 1763 can help to shed light on British thinking about the long-term consequences of the peace [from the Seven Years&#8217; War]. The anonymously published The Reign of George VI, 1900-1925 presents a scenario far in the future, in the early twentieth century. The book&#8217;s counterhistorical [&#8230;] The post That was then, that was then appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-13T17:54:58.000Z",
-      "articleId": "1c0455d88da2a202"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-nbas-problems-are-so-much-bigger",
@@ -1676,17 +1687,6 @@
       "summary": "Using markets to evaluate public policies",
       "publishedAt": "2026-03-17T15:43:57.000Z",
       "articleId": "647c539f40c69299"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-before-they-went-solo",
-      "title": "An Album a Day: Before They Went Solo",
-      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-before-they-went-solo",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring No Doubt, The Miracles, Will Smith, and others",
-      "publishedAt": "2026-03-17T13:31:35.000Z",
-      "articleId": "4f1ddb95dc24d16e"
     }
   ],
   "sources": [
@@ -1701,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
