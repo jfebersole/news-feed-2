@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-16T10:39:40.255Z",
-  "fetchedAt": "2026-04-16T10:39:40.250Z",
+  "generatedAt": "2026-04-16T12:08:00.949Z",
+  "fetchedAt": "2026-04-16T12:08:00.943Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 762,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/revising-modern-principles.html?utm_source=rss&utm_medium=rss&utm_campaign=revising-modern-principles",
+      "title": "Revising Modern Principles",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/revising-modern-principles.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here&#8217;s a revision I made to Modern Principles, my textbook with Tyler. Some things change dramatically, some things never change. The post Revising Modern Principles appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-16T11:21:13.000Z",
+      "articleId": "e7c7d5d05991d7a9"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/destroy-the-internet-to-save-it",
       "title": "Destroy the internet to save it?",
@@ -411,17 +422,6 @@
       "summary": "Fred Anderson has demonstrated how a futuristic novel written in 1763 can help to shed light on British thinking about the long-term consequences of the peace [from the Seven Years&#8217; War]. The anonymously published The Reign of George VI, 1900-1925 presents a scenario far in the future, in the early twentieth century. The book&#8217;s counterhistorical [&#8230;] The post That was then, that was then appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-13T17:54:58.000Z",
       "articleId": "1c0455d88da2a202"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ev-arts-patronage-tranche.html?utm_source=rss&utm_medium=rss&utm_campaign=ev-arts-patronage-tranche",
-      "title": "EV Arts Patronage Tranche",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ev-arts-patronage-tranche.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "EV Arts Patronage Tranche This is a new tranche of ad hoc awards, given out more like prizes, without applications, to writers, creatives, and intellectuals who are not supported by the current system of awards and grants, or who have been failed by such systems. With advice from Henry Oliver. And a thanks to Patrick [&#8230;] The post EV Arts Patronage Tranche appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-13T17:30:59.000Z",
-      "articleId": "1b86a022d36f2c19"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-nbas-problems-are-so-much-bigger",
@@ -1701,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
