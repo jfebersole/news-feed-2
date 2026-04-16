@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-16T18:16:37.791Z",
-  "fetchedAt": "2026-04-16T18:16:37.785Z",
+  "generatedAt": "2026-04-16T20:05:15.779Z",
+  "fetchedAt": "2026-04-16T20:05:15.774Z",
   "sourceCount": 21,
   "itemCount": 154,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
+      "title": "We Are Gambling Away Our Future",
+      "url": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "America’s view of liberty is upside down.",
+      "publishedAt": "2026-04-16T19:26:17.000Z",
+      "articleId": "18e4877053d3b9a1"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/in-development-magazine.html?utm_source=rss&utm_medium=rss&utm_campaign=in-development-magazine",
+      "title": "In Development magazine",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/in-development-magazine.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A new venture, focusing on evidence-based approaches to economic development globally. Here is Paul Niehaus on GiveDirectly and the evidence for cash-based transfers. Here is the home page and a link to subscribe. The post In Development magazine appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-16T18:53:07.000Z",
+      "articleId": "aba3692d41499b4e"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-the-rock-and-roll-hall-of-fame",
       "title": "When the Rock Hall is Wrong",
@@ -125,17 +147,6 @@
       "summary": "The Nobel Memorial Prize in Economics has been awarded annually since 1969. Who wins the prize is a topic of much interest and tracks the whole course of the academic discipline over the last 57 years. Explaining who wins the prize in any given year is a complex process, which involves the subtle endogeneity of [&#8230;] The post The Nobel Memorial Prize in Economics, 1969-2025 appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-16T09:29:52.000Z",
       "articleId": "3ef4f7ad57a3102d"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
-      "title": "We Are Gambling Away Our Future",
-      "url": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "America’s view of liberty is upside down.",
-      "publishedAt": "2026-04-16T09:05:37.000Z",
-      "articleId": "18e4877053d3b9a1"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7199225/2026/04/16/new-york-giants-contracts-free-agency-salary-cap/",
@@ -422,17 +433,6 @@
       "summary": "This paper estimates the economic value to the United States of eliminating cancer mortality over a 35-year horizon beginning in 2030, which would eliminate 30.7 million cancer deaths with a total mortality burden of 380 million life-years. We quantify the economic value of this substantial reduction in cancer mortality by incorporating the monetized value of [&#8230;] The post The economic value of eliminating cancer appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-14T06:48:35.000Z",
       "articleId": "a3fd3df451bc302d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/dark-labor-claims-to-upset-almost-everybody.html?utm_source=rss&utm_medium=rss&utm_campaign=dark-labor-claims-to-upset-almost-everybody",
-      "title": "“Dark labor” claims to upset almost everybody",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/dark-labor-claims-to-upset-almost-everybody.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper introduces Entangled Time &#8212; a novel economic variable representing the simultaneous production-consumption state characterizing human engagement with algorithmic digital interfaces. We develop a formal equilibrium model in which rational agents allocate time to zero-price digital platforms, where their behavioral data constitutes unpriced cognitive labor driving AI capital formation. We demonstrate three principal results. First, under [&#8230;] The post &#8220;Dark labor&#8221; claims to upset almost everybody appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-14T05:17:43.000Z",
-      "articleId": "884f7a0e9edeae6b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/good-environment-bad-party",
