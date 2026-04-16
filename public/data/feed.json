@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-16T21:57:16.340Z",
-  "fetchedAt": "2026-04-16T21:57:16.335Z",
+  "generatedAt": "2026-04-16T22:59:42.104Z",
+  "fetchedAt": "2026-04-16T22:59:42.099Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 764,
+  "itemCount": 154,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/vv2j3ihdlrazajzuvozg.html",
@@ -919,17 +919,6 @@
       "articleId": "754d9b0bca7d7536"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-midterms-in-motion",
-      "title": "The midterms in motion",
-      "url": "https://www.slowboring.com/p/the-midterms-in-motion",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Early advantages are emerging, but so are the constraints that could blunt them.",
-      "publishedAt": "2026-04-06T22:00:26.000Z",
-      "articleId": "65e494871f6a7205"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/bernie-sanders-has-a-plan-to-stop",
       "title": "Bernie Sanders has a plan to stop the AI industry",
       "url": "https://www.understandingai.org/p/bernie-sanders-has-a-plan-to-stop",
@@ -1804,7 +1793,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
