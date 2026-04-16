@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-04-16T08:53:26.455Z",
-  "fetchedAt": "2026-04-16T08:53:26.450Z",
+  "generatedAt": "2026-04-16T10:39:40.255Z",
+  "fetchedAt": "2026-04-16T10:39:40.250Z",
   "sourceCount": 21,
   "itemCount": 153,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/destroy-the-internet-to-save-it",
+      "title": "Destroy the internet to save it?",
+      "url": "https://www.slowboring.com/p/destroy-the-internet-to-save-it",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Jerusalem and I debate internet anonymity",
+      "publishedAt": "2026-04-16T10:03:24.000Z",
+      "articleId": "4d761af48cb55e11"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/my-most-right-wing-views",
+      "title": "My most right-wing views",
+      "url": "https://www.slowboring.com/p/my-most-right-wing-views",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Human nature, law and order (if only they applied it to Trump&#8217;s cronies ...), and capitalism",
+      "publishedAt": "2026-04-16T10:01:47.000Z",
+      "articleId": "043a922565c74927"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/quarterback-drafts-are-in-their-feast",
+      "title": "Quarterback Drafts Are in Their \"Feast or Famine\" Era",
+      "url": "https://neilpaine.substack.com/p/quarterback-drafts-are-in-their-feast",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Some years, teams can't get enough quarterbacks. Other years — like 2026 appears to be — they act like the class barely exists.",
+      "publishedAt": "2026-04-16T10:00:53.000Z",
+      "articleId": "ee6d982b915a73b0"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/",
+      "title": "An Interview with F1 Driver and Venture Capitalist Nico Rosberg About the Drive to Win",
+      "url": "https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with former F1 driver and current venture capitalist Nico Rosberg about finding the mental edge and maximizing opportunities.",
+      "publishedAt": "2026-04-16T10:00:00.000Z",
+      "articleId": "9636c783db3e00ce"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-nobel-memorial-prize-in-economics-1969-2025.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-memorial-prize-in-economics-1969-2025",
+      "title": "The Nobel Memorial Prize in Economics, 1969-2025",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-nobel-memorial-prize-in-economics-1969-2025.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Nobel Memorial Prize in Economics has been awarded annually since 1969. Who wins the prize is a topic of much interest and tracks the whole course of the academic discipline over the last 57 years. Explaining who wins the prize in any given year is a complex process, which involves the subtle endogeneity of [&#8230;] The post The Nobel Memorial Prize in Economics, 1969-2025 appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-16T09:29:52.000Z",
+      "articleId": "3ef4f7ad57a3102d"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
+      "title": "We Are Gambling Away Our Future",
+      "url": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "America’s view of liberty is upside down.",
+      "publishedAt": "2026-04-16T09:05:36.000Z",
+      "articleId": "18e4877053d3b9a1"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7199225/2026/04/16/new-york-giants-contracts-free-agency-salary-cap/",
+      "title": "New York Giants' contracts review: What their free agency moves really reveal",
+      "url": "https://www.nytimes.com/athletic/7199225/2026/04/16/new-york-giants-contracts-free-agency-salary-cap/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Now that the dust has settled on free agency, it's time for a review of the contracts handed out by the Giants.",
+      "publishedAt": "2026-04-16T09:00:29.000Z",
+      "articleId": "da441dba12555595"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/you-are-what-you-consume",
       "title": "You are what you consume",
@@ -347,17 +424,6 @@
       "articleId": "1b86a022d36f2c19"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-555",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-555.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. AI adoption gaps for Europe. 2. Books are plunging as a share of political science citations. 3. Gender integration in the military did not hurt male performance. 4. MIE: auctioning off part of the Eiffel Tower (NYT). 5. Agentic AI for economists, slides. And talk. 6. Seb Krier Substack. The post Monday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-13T16:13:10.000Z",
-      "articleId": "4af084975f1513d3"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-nbas-problems-are-so-much-bigger",
       "title": "The NBA's problems are so much bigger than tanking",
       "url": "https://www.slowboring.com/p/the-nbas-problems-are-so-much-bigger",
@@ -400,17 +466,6 @@
       "summary": "Contemplating the grim future of the \"Robot Lords\".",
       "publishedAt": "2026-04-13T00:50:34.000Z",
       "articleId": "965e716cd28b75d7"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/rory-held-off-the-old-ghosts-on-sunday",
-      "title": "Rory Held Off the Old Ghosts on Sunday at Augusta",
-      "url": "https://neilpaine.substack.com/p/rory-held-off-the-old-ghosts-on-sunday",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "There was a shaky start, a crowded leaderboard and familiar pressure — but McIlroy still didn't let the Masters slip away.",
-      "publishedAt": "2026-04-12T22:59:11.000Z",
-      "articleId": "98896698f3dc5135"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/conflict-and-competence",
@@ -875,17 +930,6 @@
       "articleId": "df6332952a9df0c3"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/journalists-should-use-ai-more",
-      "title": "Journalists should use A.I. more",
-      "url": "https://www.slowboring.com/p/journalists-should-use-ai-more",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Increasing productivity is good, actually",
-      "publishedAt": "2026-04-06T10:01:42.000Z",
-      "articleId": "e4a986d6942cc84c"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
       "title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
       "url": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
@@ -906,17 +950,6 @@
       "summary": "Where the NBA lost the plot",
       "publishedAt": "2026-04-05T22:14:11.000Z",
       "articleId": "b961aaf0d4fba770"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-85e",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-85e",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-04-05T17:01:37.000Z",
-      "articleId": "59a28203cfb32381"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-80-all-ai-all-the-time",
@@ -1049,17 +1082,6 @@
       "summary": "The most famous chart in AI might be obsolete soon.",
       "publishedAt": "2026-04-02T11:33:47.000Z",
       "articleId": "9e813c14cfeb8170"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
-      "title": "An Interview with Asymco’s Horace Dediu About Apple at 50",
-      "url": "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI",
-      "publishedAt": "2026-04-02T10:00:00.000Z",
-      "articleId": "481ec8903cd74e31"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026-q1",
@@ -1665,28 +1687,6 @@
       "summary": "Featuring No Doubt, The Miracles, Will Smith, and others",
       "publishedAt": "2026-03-17T13:31:35.000Z",
       "articleId": "4f1ddb95dc24d16e"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
-      "title": "Last week John Harbaugh reshaped the Giants' roster; here's what they still need",
-      "url": "https://www.nytimes.com/athletic/7124389/2026/03/17/new-york-giants-free-agency-needs-targets-second-wave/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Assessing the roster holes as the second wave of free agency begins.",
-      "publishedAt": "2026-03-17T09:30:23.000Z",
-      "articleId": "c02085bd7d59b37e"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-79-the-revenge-of-macroeconomics",
-      "title": "Roundup #79: The revenge of macroeconomics",
-      "url": "https://www.noahpinion.blog/p/roundup-79-the-revenge-of-macroeconomics",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Ehrlich; AI and knowledge; The Strait of Hormuz; Government debt and inflation; Japanese robots; Democrats and taxes; Smartphones",
-      "publishedAt": "2026-03-17T08:58:01.000Z",
-      "articleId": "869b5749119526d4"
     }
   ],
   "sources": [
