@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T12:01:37.477Z",
-  "fetchedAt": "2026-04-17T12:01:37.472Z",
+  "generatedAt": "2026-04-17T13:56:11.166Z",
+  "fetchedAt": "2026-04-17T13:56:11.161Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 763,
+  "itemCount": 155,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-marcel-duchamp-show-at-moma.html?utm_source=rss&utm_medium=rss&utm_campaign=the-marcel-duchamp-show-at-moma",
@@ -26,6 +26,17 @@
       "summary": "Competition makes capitalism work. A new method for measuring it may be the holy grail of economic regulation.",
       "publishedAt": "2026-04-17T11:25:44.000Z",
       "articleId": "d188d07006b60a05"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/we-should-appreciate-the-mike-trout",
+      "title": "We Should Appreciate the Mike Trout Renaissance While We Can",
+      "url": "https://neilpaine.substack.com/p/we-should-appreciate-the-mike-trout",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "We haven't seen a once-great star return to form like he's currently trying to do.",
+      "publishedAt": "2026-04-17T10:02:58.000Z",
+      "articleId": "9e1d0ba66dd52f22"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/its-not-bad-marketing-from-ai-companies",
@@ -1777,7 +1788,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
