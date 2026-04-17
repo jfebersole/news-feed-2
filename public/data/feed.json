@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T22:59:08.757Z",
-  "fetchedAt": "2026-04-17T22:59:08.752Z",
+  "generatedAt": "2026-04-17T23:53:57.914Z",
+  "fetchedAt": "2026-04-17T23:53:57.909Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 764,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/playing-baseball-like-its-1864",
@@ -1734,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
