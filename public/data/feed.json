@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-17T13:56:11.166Z",
-  "fetchedAt": "2026-04-17T13:56:11.161Z",
+  "generatedAt": "2026-04-17T15:12:26.345Z",
+  "fetchedAt": "2026-04-17T15:12:26.342Z",
   "sourceCount": 21,
   "itemCount": 155,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
+      "title": "We Are Gambling Away Our Future",
+      "url": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "America’s view of liberty is upside down.",
+      "publishedAt": "2026-04-17T14:32:44.000Z",
+      "articleId": "18e4877053d3b9a1"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/chris-dalla-riva-alan-paul-talk",
+      "title": "Chris Dalla Riva + Alan Paul Talk",
+      "url": "https://www.cantgetmuchhigher.com/p/chris-dalla-riva-alan-paul-talk",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "A recording from Chris Dalla Riva's live video",
+      "publishedAt": "2026-04-17T14:31:26.000Z",
+      "articleId": "b2b72f7fdf0aafea"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-marcel-duchamp-show-at-moma.html?utm_source=rss&utm_medium=rss&utm_campaign=the-marcel-duchamp-show-at-moma",
       "title": "The Marcel Duchamp show at MOMA",
@@ -81,17 +103,6 @@
       "summary": "Money Stuff Tax, tokens, proxies, trucks, pivots. View in browser Pre-tax alpha We talked last month about tax alpha. The basic idea is that it is hard to beat the market by buying the stocks that go up and avoiding the stocks that go down. It is, however, relatively easy to buy some stocks that go up and other stocks that go down . Owning stocks that go up is good (you have more money), and owning stocks that go down is also good: You sell them, realize a tax loss, and use that loss to offset other gains and reduce your taxes. [1] This is pretty straightforward; it is called “tax-loss harvesting” and lots of financial advisers and robo-advisers will do it for you. But some money managers will scale it up for you. You can borrow money to buy more stocks, generating both more gains and more tax losses. This increases your market risk — owning $200 of stocks with leverage is riskier than owning $100 of stocks without leverage, even after the tax benefits — but you can offset that risk, and generate even more tax benefits, by shorting some stocks. Put in $100, buy $200 of stocks, short $100 of stocks: Now you are net long $100 of stocks. Some of your longs will go up and some of your shorts will go down and you will make money; other longs will go down and shorts will go up and you will generate tax losses. [2] Overall, if you are long and short reasonably well-constructed diversified baskets of stocks (say, randomly sampling 200 long stocks and 100 short stocks from the index), you should expect to generate roughly the market return on $100 of stocks, but with some extra tax juice. Now, there is a long history of hedge funds — “long/short equity funds” — that take $100, buy $200 of stocks and short $100 of other stocks, for a $100 net long position. These hedge funds traditionally do not care about harvesting tax losses. For one thing, many of their clients are tax-exempt and pay them only for pretax profits; for another thing, they are trying not to have losses . The goal of a traditional long/short equity fund manager is to (1) buy $200 of stocks that go up and (2) short $100 of stocks that go down. Obviously this is hard — harder than generating the market return — but that’s why hedge fund managers, traditionally, get paid the big bucks. These hedge funds are charging for alpha , for market-beating returns. My point was that beating the market — generating pre-tax alpha — is pretty hard, because you have to pick the stocks that will go up, while generating tax savings is pretty easy, because any diversified basket of stocks will have winners and losers and you can gross it up mechanically to generate a lot of tax losses while still earning roughly a market return. And so tax alpha should be a much more mass-market product than pre-tax alpha....",
       "publishedAt": "2026-04-16T20:19:38.113Z",
       "articleId": "d999c1f5e0a1c0bf"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
-      "title": "We Are Gambling Away Our Future",
-      "url": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "America’s view of liberty is upside down.",
-      "publishedAt": "2026-04-16T19:26:17.000Z",
-      "articleId": "18e4877053d3b9a1"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/in-development-magazine.html?utm_source=rss&utm_medium=rss&utm_campaign=in-development-magazine",
@@ -1698,17 +1709,6 @@
       "summary": "...",
       "publishedAt": "2026-03-19T03:31:17.000Z",
       "articleId": "82671f86bb42b24a"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/walking-kumamoto",
-      "title": "Walking Kumamoto",
-      "url": "https://walkingtheworld.substack.com/p/walking-kumamoto",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "The Nation as meaningful",
-      "publishedAt": "2026-03-18T14:38:01.000Z",
-      "articleId": "e37f0ef3b367c26c"
     }
   ],
   "sources": [
