@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-17T18:03:27.807Z",
-  "fetchedAt": "2026-04-17T18:03:27.801Z",
+  "generatedAt": "2026-04-17T19:19:38.659Z",
+  "fetchedAt": "2026-04-17T19:19:38.654Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-56.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-56",
+      "title": "That was then, this is now",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-56.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From 1857: The Persians were great sticklers for ceremony, it turned out, and now that the treaty was ratified, they expected an exchange of gifts to mark the important occasion. At Spence&#8217;s [a leading diplomat of the time] insistence, the United States spent $10,000 (close to $1 million in today&#8217;s money) on diamond-studded snuffboxes and [&#8230;] The post That was then, this is now appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-17T18:26:36.000Z",
+      "articleId": "141a3b25739d19b8"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/servers-satellites-and-stars/",
       "title": "2026.16: Servers, Satellites, and Stars",
@@ -433,17 +444,6 @@
       "summary": "Presidents can fight with popes. God is another matter.",
       "publishedAt": "2026-04-14T22:13:50.000Z",
       "articleId": "909e14acbb0adb17"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-55.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-55",
-      "title": "That was then, this is now",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-55.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "But despite the pitiful state into which the country had descended, the major outside powers, Russian and the Ottoman Empire, did not intervene as they had in 1722-1725. It was partly that they were busy elsewhere, and surely also that the outcome of their previous attempts had not encouraged them to repeat the experiment. That [&#8230;] The post That was then, this is now appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-14T18:42:15.000Z",
-      "articleId": "df3c36e1f3a61e6c"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/zycl06mthhl59n0lwc6j.html",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
