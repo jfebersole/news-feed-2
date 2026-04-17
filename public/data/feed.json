@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-17T15:12:26.345Z",
-  "fetchedAt": "2026-04-17T15:12:26.342Z",
+  "generatedAt": "2026-04-17T17:04:42.908Z",
+  "fetchedAt": "2026-04-17T17:04:42.903Z",
   "sourceCount": 21,
   "itemCount": 155,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/servers-satellites-and-stars/",
+      "title": "2026.16: Servers, Satellites, and Stars",
+      "url": "https://stratechery.com/2026/servers-satellites-and-stars/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of April 13, 2026, including the cost of AI, what Amazon is doing with Globalstar, and Nico Rosberg on racing and investing.",
+      "publishedAt": "2026-04-17T17:00:00.000Z",
+      "articleId": "ac5237ec8e9a06f8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-568",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-568.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Conversations about boring topics are more interesting than we think. 2. What will be scarce. And Andy Hall on using AI to boost economics research. 3. Virginia passes reasonable AI legislation. 4. AI-generated movie trailer. And the short movie. 5. Eric Rohmer&#8217;s life. 6. Objection.ai. 7. A neglected cost of restricting data centers. And [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-17T15:57:21.000Z",
+      "articleId": "6a9f5bd9de0f390e"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
       "title": "We Are Gambling Away Our Future",
@@ -444,17 +466,6 @@
       "summary": "Trump's bargain with swing voters was that he would deliver a strong economy and they would look past his many defects. By attacking Iran, Trump has broken the deal.",
       "publishedAt": "2026-04-14T16:59:35.000Z",
       "articleId": "27d77b7a1b5ba432"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-564",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-564.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Where is it dangerous to be a pedestrian in NYC? And city-owned grocery stores for NYC? (NYT) 2. Is Mississippi running out of liquor? 3. Four classic Chinese texts and their relevance. 4. Redux post from 1/28. 5. Seb Krier. 6. The penguin-tracking culture that is Kyoto, Japan. 7. The Economist will be using [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-14T16:05:28.000Z",
-      "articleId": "41cfdad0f3033288"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-comebacks",
@@ -1071,17 +1082,6 @@
       "summary": "Loyal losers don’t go very far with this president.",
       "publishedAt": "2026-04-04T11:00:18.000Z",
       "articleId": "5cb2db5a8f20b3c1"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apple-acceleration-and-ai/",
-      "title": "2026.14: Apple, Acceleration, and AI",
-      "url": "https://stratechery.com/2026/apple-acceleration-and-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of March 30, 2026, including Formula 1 spinning off track, Apple's first and next 50 years, and security and AI.",
-      "publishedAt": "2026-04-03T17:00:00.000Z",
-      "articleId": "6972fec55f3d2683"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/salarymen-specialists-and-small-businesses",
