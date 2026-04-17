@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-17T08:52:09.609Z",
-  "fetchedAt": "2026-04-17T08:52:09.604Z",
+  "generatedAt": "2026-04-17T10:22:10.061Z",
+  "fetchedAt": "2026-04-17T10:22:10.056Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 754,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/its-not-bad-marketing-from-ai-companies",
+      "title": "It’s not “bad marketing” from A.I. companies",
+      "url": "https://www.slowboring.com/p/its-not-bad-marketing-from-ai-companies",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus progressive mayors, Vice President Henry Clay, and how Trump could be impeached",
+      "publishedAt": "2026-04-17T10:02:10.000Z",
+      "articleId": "e794d6935945035e"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7202783/2026/04/17/new-york-giants-draft-trade-scenarios/",
+      "title": "Giants draft trade scenarios: How New York can accumulate more picks for 2026",
+      "url": "https://www.nytimes.com/athletic/7202783/2026/04/17/new-york-giants-draft-trade-scenarios/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "It seems like a safe bet that the Giants wind up with more than seven picks. Here is how they could do it.",
+      "publishedAt": "2026-04-17T10:01:13.000Z",
+      "articleId": "baef03027ba02592"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/my-excellent-conversation-with-kim-bowes.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-kim-bowes",
       "title": "My excellent Conversation with Kim Bowes",
@@ -875,17 +897,6 @@
       "articleId": "06851b674baff572"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/my-most-progressive-views",
-      "title": "My most progressive views",
-      "url": "https://www.slowboring.com/p/my-most-progressive-views",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "God, health, stereotyping, and caring about the poor",
-      "publishedAt": "2026-04-07T10:01:46.000Z",
-      "articleId": "1761b7e337c41aaa"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/",
       "title": "Anthropic’s New TPU Deal, Anthropic’s Computing Crunch, The Anthropic-Google Alliance",
       "url": "https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/",
@@ -1676,17 +1687,6 @@
       "summary": "The Nation as meaningful",
       "publishedAt": "2026-03-18T14:38:01.000Z",
       "articleId": "e37f0ef3b367c26c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7126483/2026/03/18/new-york-giants-mock-draft-post-free-agency/",
-      "title": "Giants mock draft: A needs-based projection as free agency winds down",
-      "url": "https://www.nytimes.com/athletic/7126483/2026/03/18/new-york-giants-mock-draft-post-free-agency/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A look at how John Harbaugh's plans could play out next month.",
-      "publishedAt": "2026-03-18T09:30:42.000Z",
-      "articleId": "40130f3f81cb556c"
     }
   ],
   "sources": [
@@ -1701,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
