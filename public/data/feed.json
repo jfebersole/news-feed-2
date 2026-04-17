@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T17:04:42.908Z",
-  "fetchedAt": "2026-04-17T17:04:42.903Z",
+  "generatedAt": "2026-04-17T18:03:27.807Z",
+  "fetchedAt": "2026-04-17T18:03:27.801Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 764,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Stratechery:https://stratechery.com/2026/servers-satellites-and-stars/",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
