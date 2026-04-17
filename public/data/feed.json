@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-17T06:12:45.524Z",
-  "fetchedAt": "2026-04-17T06:12:45.520Z",
+  "generatedAt": "2026-04-17T08:52:09.609Z",
+  "fetchedAt": "2026-04-17T08:52:09.604Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 763,
+  "totalItemCount": 754,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/my-excellent-conversation-with-kim-bowes.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-kim-bowes",
@@ -1701,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
