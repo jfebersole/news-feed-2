@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-18T11:47:33.949Z",
-  "fetchedAt": "2026-04-18T11:47:33.944Z",
+  "generatedAt": "2026-04-18T13:34:03.743Z",
+  "fetchedAt": "2026-04-18T13:34:03.738Z",
   "sourceCount": 21,
   "itemCount": 155,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04182026",
+      "title": "Reading List 04/18/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-04182026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A quadruped welding robot, the China Shock 2.0, transformer startups, China&#8217;s mysteriously moving satellites, and more.",
+      "publishedAt": "2026-04-18T12:00:53.000Z",
+      "articleId": "15e767958454235c"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
       "title": "What Liberals Should Learn From the End of Orbanism",
@@ -1698,17 +1709,6 @@
       "summary": "Is the rock band dead? Or just changing shape?",
       "publishedAt": "2026-03-19T17:30:45.000Z",
       "articleId": "dae66a50b49c848e"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/how-much-computing-power-is-in-a",
-      "title": "How Much Computing Power is in a Data Center?",
-      "url": "https://www.construction-physics.com/p/how-much-computing-power-is-in-a",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Every day there&#8217;s some new story about the enormous amounts of investment in building AI data centers.",
-      "publishedAt": "2026-03-19T12:01:33.000Z",
-      "articleId": "1d5dcf5d94ab8513"
     }
   ],
   "sources": [
