@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-18T10:57:57.407Z",
-  "fetchedAt": "2026-04-18T10:57:57.400Z",
+  "generatedAt": "2026-04-18T11:47:33.949Z",
+  "fetchedAt": "2026-04-18T11:47:33.944Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 755,
+  "itemCount": 155,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
+      "title": "What Liberals Should Learn From the End of Orbanism",
+      "url": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Four lessons to consider.",
+      "publishedAt": "2026-04-18T11:00:19.000Z",
+      "articleId": "798061874ea82820"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/birthright-citizenship-and-youth-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=birthright-citizenship-and-youth-crime",
       "title": "Birthright Citizenship and Youth Crime",
@@ -1712,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
