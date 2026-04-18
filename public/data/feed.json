@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-18T17:51:29.348Z",
-  "fetchedAt": "2026-04-18T17:51:29.343Z",
+  "generatedAt": "2026-04-18T19:07:29.931Z",
+  "fetchedAt": "2026-04-18T19:07:29.926Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-not-now.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-not-now",
+      "title": "That was then, this is not now?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-not-now.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The 1941 Anglo-Soviet invasion destroyed Reza Shah &#8212; but not the Pahlavi state. The two Allies &#8212; joined by the United States in December 1941 &#8212; realized that the Iranian state could be useful in achieving the two goals for which they had invaded the country: physical control over oil &#8212; the British nightmare in [&#8230;] The post That was then, this is not now? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-18T19:00:35.000Z",
+      "articleId": "085972b96c67bdbd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-557.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-557",
       "title": "Saturday assorted links",
@@ -35,7 +46,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "The lesson for Republicans comes too late, but liberals can still learn from the end of Orbanism.",
-      "publishedAt": "2026-04-18T15:43:02.000Z",
+      "publishedAt": "2026-04-18T15:43:03.000Z",
       "articleId": "798061874ea82820"
     },
     {
@@ -422,17 +433,6 @@
       "summary": "The U.S. agrees it needs more homes, but fights over where and how reveal deeper conflicts about growth and change.",
       "publishedAt": "2026-04-15T22:01:52.000Z",
       "articleId": "42ac3c6085b33c7a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wake-up-people-assorted-links.html?utm_source=rss&utm_medium=rss&utm_campaign=wake-up-people-assorted-links",
-      "title": "Wake up people assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/wake-up-people-assorted-links.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Progress in speaking to whales. 2. More math progress from GPT. 3. &#8220;Anthropic&#8217;s automated alignment researchers already outperform humans&#8230;&#8220; The post Wake up people assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-15T21:51:51.000Z",
-      "articleId": "4e163828c5ce24aa"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a85k9itjdligrstqpfbc.html",
@@ -1701,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
