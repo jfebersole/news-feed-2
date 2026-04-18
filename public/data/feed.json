@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-18T16:56:53.358Z",
-  "fetchedAt": "2026-04-18T16:56:53.354Z",
+  "generatedAt": "2026-04-18T17:51:29.348Z",
+  "fetchedAt": "2026-04-18T17:51:29.343Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 765,
+  "itemCount": 153,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-557.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-557",
@@ -930,17 +930,6 @@
       "articleId": "6ea6f507d7599e0b"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/in-defense-of-the-girlboss",
-      "title": "In defense of the \"girlboss\"",
-      "url": "https://www.slowboring.com/p/in-defense-of-the-girlboss",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Feminism without anti-capitalism is good, actually",
-      "publishedAt": "2026-04-08T10:03:42.000Z",
-      "articleId": "4e8371bc31df59c3"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/",
       "title": "Anthropic’s New Model, The Mythos Wolf, Glasswing and Alignment",
       "url": "https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/",
@@ -1698,28 +1687,6 @@
       "summary": "OpenAI and Anthropic are using the standard tech startup playbook.",
       "publishedAt": "2026-03-19T20:49:14.000Z",
       "articleId": "912f06e4070969a0"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html",
-      "title": "Can Military Excellence Save Us From Trump’s Incompetence?",
-      "url": "https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "It should never have come to this.",
-      "publishedAt": "2026-03-19T17:50:19.000Z",
-      "articleId": "16be05c78d8424e5"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/critics-hate-the-biggest-band-of",
-      "title": "Critics Hate the Biggest Band of the 2010s",
-      "url": "https://www.cantgetmuchhigher.com/p/critics-hate-the-biggest-band-of",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Is the rock band dead? Or just changing shape?",
-      "publishedAt": "2026-03-19T17:30:45.000Z",
-      "articleId": "dae66a50b49c848e"
     }
   ],
   "sources": [
@@ -1734,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -1815,7 +1782,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
