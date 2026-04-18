@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-18T19:07:29.931Z",
-  "fetchedAt": "2026-04-18T19:07:29.926Z",
+  "generatedAt": "2026-04-18T20:51:42.846Z",
+  "fetchedAt": "2026-04-18T20:51:42.842Z",
   "sourceCount": 21,
-  "itemCount": 153,
+  "itemCount": 152,
   "totalItemCount": 764,
   "items": [
     {
@@ -23,7 +23,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Cato Handbook on affordability. 2. Are first-generation college students overrated? 3. No Detectable Economic Effect of Extreme Heat After Correcting for Dependence. Here is analysis from Claude 4.7. 4. When Hayek visited Brazil. 5. AI and the early history of electricity. Good claims. 6. Betting on how well various pundits predict the future. 7. On [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. Cato Handbook on affordability. 2. Are first-generation college students overrated? 3. No Detectable Economic Effect of Extreme Heat After Correcting for Dependence. Here is analysis from Claude 4.7, link now fixed. 4. When Hayek visited Brazil. 5. AI and the early history of electricity. Good claims. 6. Betting on how well various pundits predict the [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-18T16:44:44.000Z",
       "articleId": "dcd5c85f10f9c7c4"
     },
@@ -1676,17 +1676,6 @@
       "summary": "The world is warming faster than we can cut emissions. Volcanoes are already cooling the planet, with particles that reflect sunlight. Maybe we can too.",
       "publishedAt": "2026-03-20T11:59:05.000Z",
       "articleId": "88f76c80c55804da"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/how-to-think-about-the-ai-company",
-      "title": "How to think about AI company finances",
-      "url": "https://www.understandingai.org/p/how-to-think-about-the-ai-company",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "OpenAI and Anthropic are using the standard tech startup playbook.",
-      "publishedAt": "2026-03-19T20:49:14.000Z",
-      "articleId": "912f06e4070969a0"
     }
   ],
   "sources": [
