@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-18T22:53:25.846Z",
-  "fetchedAt": "2026-04-18T22:53:25.841Z",
+  "generatedAt": "2026-04-18T23:49:44.524Z",
+  "fetchedAt": "2026-04-18T23:49:44.520Z",
   "sourceCount": 21,
-  "itemCount": 152,
+  "itemCount": 154,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/random-observations",
+      "title": "Random observations",
+      "url": "https://scottsumner.substack.com/p/random-observations",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "The first 22 out of 44 are free",
+      "publishedAt": "2026-04-18T22:52:12.000Z",
+      "articleId": "ecac983d210b2140"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/the-dirtiest-dog",
+      "title": "The Dirtiest Dog",
+      "url": "https://walkingtheworld.substack.com/p/the-dirtiest-dog",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Ten hours on a Greyhound with a few ex-cons, and one very complicated woman",
+      "publishedAt": "2026-04-18T19:46:04.000Z",
+      "articleId": "7657d2c7ca04f7b2"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-not-now.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-not-now",
       "title": "That was then, this is not now?",
