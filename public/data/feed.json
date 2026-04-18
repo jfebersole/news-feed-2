@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-18T09:59:58.335Z",
-  "fetchedAt": "2026-04-18T09:59:58.331Z",
+  "generatedAt": "2026-04-18T10:57:57.407Z",
+  "fetchedAt": "2026-04-18T10:57:57.400Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 764,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/birthright-citizenship-and-youth-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=birthright-citizenship-and-youth-crime",
@@ -1712,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
