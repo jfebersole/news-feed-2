@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-19T11:48:18.597Z",
-  "fetchedAt": "2026-04-19T11:48:18.593Z",
+  "generatedAt": "2026-04-19T13:23:41.869Z",
+  "fetchedAt": "2026-04-19T13:23:41.864Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 755,
+  "itemCount": 155,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
+      "title": "The Divine Right of Presidents Is a Dangerous Idea",
+      "url": "https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "It didn’t work out too well for kings, either.",
+      "publishedAt": "2026-04-19T12:57:57.000Z",
+      "articleId": "d6c9e75aebe304dd"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7208906/2026/04/19/giants-dexter-lawrence-trade-nfl-draft/",
       "title": "Giants avoid distraction, but finding a Dexter Lawrence replacement won't be easy",
@@ -15,17 +26,6 @@
       "summary": "Lawrence was traded to the Bengals for the 10th pick in the 2026 NFL Draft.",
       "publishedAt": "2026-04-19T11:00:44.000Z",
       "articleId": "3ee21a286db6bc26"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
-      "title": "The Divine Right of Presidents Is a Dangerous Idea",
-      "url": "https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "It didn’t work out too well for kings, either.",
-      "publishedAt": "2026-04-19T10:00:16.000Z",
-      "articleId": "d6c9e75aebe304dd"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/on-the-impact-of-trumps-tariffs.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-impact-of-trumps-tariffs",
@@ -1709,17 +1709,6 @@
       "summary": "Xi Jinping's paranoia, rapidly changing technology, and the limitations of China's system could cut short the Chinese Century.",
       "publishedAt": "2026-03-21T10:57:01.000Z",
       "articleId": "65e362bbc7f1ac7e"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/sunscreen-for-the-planet-by-daniele",
-      "title": "Sunscreen for the planet, Out Loud",
-      "url": "https://www.worksinprogress.news/p/sunscreen-for-the-planet-by-daniele",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The world is warming faster than we can cut emissions. Volcanoes are already cooling the planet, with particles that reflect sunlight. Maybe we can too.",
-      "publishedAt": "2026-03-20T11:59:05.000Z",
-      "articleId": "88f76c80c55804da"
     }
   ],
   "sources": [
@@ -1734,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
