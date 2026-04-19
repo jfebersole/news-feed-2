@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-19T16:56:47.791Z",
-  "fetchedAt": "2026-04-19T16:56:47.785Z",
+  "generatedAt": "2026-04-19T17:51:23.058Z",
+  "fetchedAt": "2026-04-19T17:51:23.054Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-04-19T17:00:44.000Z",
+      "articleId": "b1ef8a172291861e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/sunday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-563",
       "title": "Sunday assorted links",
@@ -941,17 +952,6 @@
       "articleId": "79084d4d78e6097e"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/build-baby-build",
-      "title": "Build, baby, build",
-      "url": "https://www.slowboring.com/p/build-baby-build",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The YIMBYs were right.",
-      "publishedAt": "2026-04-08T22:01:24.000Z",
-      "articleId": "3858b38416ebdfee"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
       "title": "The Idealism of the Space Program Isn’t Enough",
       "url": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
@@ -1734,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
