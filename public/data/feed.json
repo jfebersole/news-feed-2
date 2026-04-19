@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-19T10:00:14.159Z",
-  "fetchedAt": "2026-04-19T10:00:14.154Z",
+  "generatedAt": "2026-04-19T10:57:58.025Z",
+  "fetchedAt": "2026-04-19T10:57:58.021Z",
   "sourceCount": 21,
-  "itemCount": 154,
+  "itemCount": 155,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
+      "title": "The Divine Right of Presidents Is a Dangerous Idea",
+      "url": "https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "It didn’t work out too well for kings, either.",
+      "publishedAt": "2026-04-19T10:00:16.000Z",
+      "articleId": "d6c9e75aebe304dd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/on-the-impact-of-trumps-tariffs.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-impact-of-trumps-tariffs",
       "title": "On the impact of Trump’s tariffs",
