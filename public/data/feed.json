@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-19T10:57:58.025Z",
-  "fetchedAt": "2026-04-19T10:57:58.021Z",
+  "generatedAt": "2026-04-19T11:48:18.597Z",
+  "fetchedAt": "2026-04-19T11:48:18.593Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 764,
+  "itemCount": 156,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7208906/2026/04/19/giants-dexter-lawrence-trade-nfl-draft/",
+      "title": "Giants avoid distraction, but finding a Dexter Lawrence replacement won't be easy",
+      "url": "https://www.nytimes.com/athletic/7208906/2026/04/19/giants-dexter-lawrence-trade-nfl-draft/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Lawrence was traded to the Bengals for the 10th pick in the 2026 NFL Draft.",
+      "publishedAt": "2026-04-19T11:00:44.000Z",
+      "articleId": "3ee21a286db6bc26"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
       "title": "The Divine Right of Presidents Is a Dangerous Idea",
@@ -1723,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
