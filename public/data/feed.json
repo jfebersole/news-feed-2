@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-19T19:06:45.882Z",
-  "fetchedAt": "2026-04-19T19:06:45.877Z",
+  "generatedAt": "2026-04-19T19:53:37.501Z",
+  "fetchedAt": "2026-04-19T19:53:37.495Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 764,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-57.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-57",
+      "title": "That was then, this is now",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-57.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "At the advent of a more aggressive Persian Gulf policy on the part of Iran during the interwar years, the resilience of these symbols was watched like a kind of barometer that attested to Britain&#8217;s levell of commitment to the maintenance of security in the Persian Gulf. Britainäs abstention from the use of force against [&#8230;] The post That was then, this is now appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-19T19:26:54.000Z",
+      "articleId": "4f0682d30b40d013"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
       "title": "Sunday Thread + Mailbag",
@@ -389,17 +400,6 @@
       "summary": "1. Kasparov analyzes the rise of Sindarov. 2. Podcast on Houellebecq&#8217;s Submission. With transcript. 3. &#8220;A majority of Australian children under age 16 still use social media apps despite a ban implemented in December, according to new research. Sixty-one percent of Australian children between the ages of 12 and 15 told researchers from a prominent UK [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-16T16:01:37.000Z",
       "articleId": "065793f1410d3387"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/robert-skidelsky-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-skidelsky-rip",
-      "title": "Robert Skidelsky, RIP",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/robert-skidelsky-rip.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is one appreciation. His three-volume biography of Keynes (better than the one-volume condensation!) is in my opinion one of the very best books ever written, up there with Caro on Moses, etc. The post Robert Skidelsky, RIP appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-16T14:02:13.000Z",
-      "articleId": "9fa75dc8607841d0"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-spring-2026",
@@ -1734,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
