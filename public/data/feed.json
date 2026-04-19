@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-19T15:51:43.426Z",
-  "fetchedAt": "2026-04-19T15:51:43.422Z",
+  "generatedAt": "2026-04-19T16:56:47.791Z",
+  "fetchedAt": "2026-04-19T16:56:47.785Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 764,
+  "itemCount": 156,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/sunday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-563",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/sunday-assorted-links-563.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Religion and business economics Substack. 2. WDC crime is way down. Alex T. was right, POTMR. 3. Movie theaters are making an economic comeback? 4. Bar-tailed godwit. 5. Has the fight against inflation stalled in Argentina? (FT) 6. The case against off-shore processing. 7. Harry Law on alignment. And do AI-written plays have too [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-19T16:37:20.000Z",
+      "articleId": "5fc965de79ba9607"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/should-i-listen-to-music-by-bad-people",
+      "title": "Should I Listen to Music by Bad People? Link Drop",
+      "url": "https://www.cantgetmuchhigher.com/p/should-i-listen-to-music-by-bad-people",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "A round-up of the most important stories in music right now",
+      "publishedAt": "2026-04-19T16:31:01.000Z",
+      "articleId": "c983a0ff7e1d7859"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
       "title": "The Divine Right of Presidents Is a Dangerous Idea",
@@ -378,17 +400,6 @@
       "summary": "A breakthrough drug for pancreatic cancer, organ recovery, weight loss drugs that preserve muscle, a whole-cell simulation, how plants make nicotine, semaglutide fails for Alzheimer&#8217;s, and more.",
       "publishedAt": "2026-04-16T13:48:44.000Z",
       "articleId": "1e363c3e91201074"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/revising-modern-principles.html?utm_source=rss&utm_medium=rss&utm_campaign=revising-modern-principles",
-      "title": "Revising Modern Principles",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/revising-modern-principles.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here&#8217;s a revision I made to Modern Principles, my textbook with Tyler. Some things change dramatically, some things never change. The post Revising Modern Principles appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-16T11:21:13.000Z",
-      "articleId": "e7c7d5d05991d7a9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/destroy-the-internet-to-save-it",
@@ -1723,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
