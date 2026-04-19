@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-19T19:53:37.501Z",
-  "fetchedAt": "2026-04-19T19:53:37.495Z",
+  "generatedAt": "2026-04-19T20:52:02.237Z",
+  "fetchedAt": "2026-04-19T20:52:02.232Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-57.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-57",
@@ -1734,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
