@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-20T06:26:44.180Z",
-  "fetchedAt": "2026-04-20T06:26:44.175Z",
+  "generatedAt": "2026-04-20T09:17:55.119Z",
+  "fetchedAt": "2026-04-20T09:17:55.114Z",
   "sourceCount": 21,
   "itemCount": 156,
   "totalItemCount": 753,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/how-long-should-a-college-degree-take.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-should-a-college-degree-take",
+      "title": "How long should a college degree take?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/how-long-should-a-college-degree-take.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It takes most college students at least four years to earn a bachelor’s degree. Christie Williams finished in three months. The North Carolina human resources executive spent two months racking up credits through web tutorials after work in 2024, then raced through 11 online classes at the University of Maine at Presque Isle in four [&#8230;] The post How long should a college degree take? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-20T07:01:44.000Z",
+      "articleId": "e3ba02513679aecb"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/updated-thoughts-on-industrial-policy",
       "title": "Updated thoughts on industrial policy",
@@ -378,17 +389,6 @@
       "summary": "Money Stuff Tax, tokens, proxies, trucks, pivots. View in browser Pre-tax alpha We talked last month about tax alpha. The basic idea is that it is hard to beat the market by buying the stocks that go up and avoiding the stocks that go down. It is, however, relatively easy to buy some stocks that go up and other stocks that go down . Owning stocks that go up is good (you have more money), and owning stocks that go down is also good: You sell them, realize a tax loss, and use that loss to offset other gains and reduce your taxes. [1] This is pretty straightforward; it is called “tax-loss harvesting” and lots of financial advisers and robo-advisers will do it for you. But some money managers will scale it up for you. You can borrow money to buy more stocks, generating both more gains and more tax losses. This increases your market risk — owning $200 of stocks with leverage is riskier than owning $100 of stocks without leverage, even after the tax benefits — but you can offset that risk, and generate even more tax benefits, by shorting some stocks. Put in $100, buy $200 of stocks, short $100 of stocks: Now you are net long $100 of stocks. Some of your longs will go up and some of your shorts will go down and you will make money; other longs will go down and shorts will go up and you will generate tax losses. [2] Overall, if you are long and short reasonably well-constructed diversified baskets of stocks (say, randomly sampling 200 long stocks and 100 short stocks from the index), you should expect to generate roughly the market return on $100 of stocks, but with some extra tax juice. Now, there is a long history of hedge funds — “long/short equity funds” — that take $100, buy $200 of stocks and short $100 of other stocks, for a $100 net long position. These hedge funds traditionally do not care about harvesting tax losses. For one thing, many of their clients are tax-exempt and pay them only for pretax profits; for another thing, they are trying not to have losses . The goal of a traditional long/short equity fund manager is to (1) buy $200 of stocks that go up and (2) short $100 of stocks that go down. Obviously this is hard — harder than generating the market return — but that’s why hedge fund managers, traditionally, get paid the big bucks. These hedge funds are charging for alpha , for market-beating returns. My point was that beating the market — generating pre-tax alpha — is pretty hard, because you have to pick the stocks that will go up, while generating tax savings is pretty easy, because any diversified basket of stocks will have winners and losers and you can gross it up mechanically to generate a lot of tax losses while still earning roughly a market return. And so tax alpha should be a much more mass-market product than pre-tax alpha....",
       "publishedAt": "2026-04-16T20:19:38.113Z",
       "articleId": "d999c1f5e0a1c0bf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/in-development-magazine.html?utm_source=rss&utm_medium=rss&utm_campaign=in-development-magazine",
-      "title": "In Development magazine",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/in-development-magazine.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A new venture, focusing on evidence-based approaches to economic development globally. Here is Paul Niehaus on GiveDirectly and the evidence for cash-based transfers. Here is the home page and a link to subscribe. The post In Development magazine appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-16T18:53:07.000Z",
-      "articleId": "aba3692d41499b4e"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-the-rock-and-roll-hall-of-fame",
