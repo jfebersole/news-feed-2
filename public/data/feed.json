@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-20T21:59:31.290Z",
-  "fetchedAt": "2026-04-20T21:59:31.286Z",
+  "generatedAt": "2026-04-20T23:01:06.326Z",
+  "fetchedAt": "2026-04-20T23:01:06.321Z",
   "sourceCount": 21,
-  "itemCount": 158,
+  "itemCount": 157,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/one-state-could-tip-the-house",
+      "title": "One state could tip the House",
+      "url": "https://www.slowboring.com/p/one-state-could-tip-the-house",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "As Virginia voters weigh a controversial redistricting plan, new results from New Jersey to California sharpen the national outlook.",
+      "publishedAt": "2026-04-20T22:01:13.000Z",
+      "articleId": "4f0b1d1ae926815f"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
       "title": "The Four Lessons Liberals Should Consider After Orban’s Defeat",
@@ -941,17 +952,6 @@
       "articleId": "0ea13fc9b2adc39b"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/should-race-matter-in-college-admissions",
-      "title": "Should race matter in college admissions?",
-      "url": "https://www.slowboring.com/p/should-race-matter-in-college-admissions",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "On the premiere episode of The Argument, Matthew Yglesias and Jerusalem Demsas argue about the effectiveness of affirmative action.",
-      "publishedAt": "2026-04-09T10:41:24.000Z",
-      "articleId": "7fbdca388ad5f543"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
       "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
       "url": "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
@@ -1731,17 +1731,6 @@
       "summary": "A round-up of the most important stories in music right now",
       "publishedAt": "2026-03-22T13:31:27.000Z",
       "articleId": "b90bdffe0945fbef"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/when-the-dog-doesnt-bark",
-      "title": "When the dog doesn't bark",
-      "url": "https://scottsumner.substack.com/p/when-the-dog-doesnt-bark",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "How non-events bias our thinking",
-      "publishedAt": "2026-03-21T22:26:09.000Z",
-      "articleId": "991a560a1cc14337"
     }
   ],
   "sources": [
