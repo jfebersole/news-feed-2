@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-19T23:50:53.392Z",
-  "fetchedAt": "2026-04-19T23:50:53.387Z",
+  "generatedAt": "2026-04-20T03:49:19.597Z",
+  "fetchedAt": "2026-04-20T03:49:19.593Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 764,
+  "itemCount": 155,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-57.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-57",
@@ -532,17 +532,6 @@
       "summary": "Cities shouldn&#8217;t just settle for &#8220;enough&#8221; housing.",
       "publishedAt": "2026-04-15T10:03:17.000Z",
       "articleId": "32dbd82347a21c75"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-red-wings-lost-decade",
-      "title": "The Red Wings' Lost Decade",
-      "url": "https://neilpaine.substack.com/p/the-red-wings-lost-decade",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Detroit went from 25 straight years in the playoffs to 10 straight out — and counting.",
-      "publishedAt": "2026-04-15T10:01:05.000Z",
-      "articleId": "bec3af2ea8660156"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
@@ -1799,7 +1788,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
