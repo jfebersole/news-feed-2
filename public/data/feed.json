@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-20T11:41:35.781Z",
-  "fetchedAt": "2026-04-20T11:41:35.774Z",
+  "generatedAt": "2026-04-20T14:08:10.747Z",
+  "fetchedAt": "2026-04-20T14:08:10.742Z",
   "sourceCount": 21,
   "itemCount": 157,
-  "totalItemCount": 754,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/meta-is-back-in-the-llm-game-after",
+      "title": "Meta is back in the LLM game after a year-long break",
+      "url": "https://www.understandingai.org/p/meta-is-back-in-the-llm-game-after",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "What Muse Spark tells us about Meta&#8217;s new AI strategy.",
+      "publishedAt": "2026-04-20T13:39:52.000Z",
+      "articleId": "598e36e76a5fd67f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/eight-rules-to-regain-public-trust-in-academia.html?utm_source=rss&utm_medium=rss&utm_campaign=eight-rules-to-regain-public-trust-in-academia",
       "title": "Eight Rules to Regain Public Trust in Academia",
@@ -1720,17 +1731,6 @@
       "summary": "How non-events bias our thinking",
       "publishedAt": "2026-03-21T22:26:09.000Z",
       "articleId": "991a560a1cc14337"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-032126",
-      "title": "Reading List 03/21/26",
-      "url": "https://www.construction-physics.com/p/reading-list-032126",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Damage to the Ras Laffan LNG facility, housing bubble risks, North Korea&#8217;s naval production, Bezos&#8217; $100 billion for manufacturing automation, and more.",
-      "publishedAt": "2026-03-21T12:03:50.000Z",
-      "articleId": "5926cf1842e533a4"
     }
   ],
   "sources": [
@@ -1745,10 +1745,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
