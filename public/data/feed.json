@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-21T22:56:41.654Z",
-  "fetchedAt": "2026-04-21T22:56:41.643Z",
+  "generatedAt": "2026-04-21T23:49:49.953Z",
+  "fetchedAt": "2026-04-21T23:49:49.949Z",
   "sourceCount": 21,
   "itemCount": 159,
-  "totalItemCount": 763,
+  "totalItemCount": 754,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
@@ -1767,10 +1767,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
