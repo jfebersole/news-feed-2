@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-21T21:56:41.594Z",
-  "fetchedAt": "2026-04-21T21:56:41.588Z",
+  "generatedAt": "2026-04-21T22:56:41.654Z",
+  "fetchedAt": "2026-04-21T22:56:41.643Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 755,
+  "itemCount": 159,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
@@ -974,17 +974,6 @@
       "articleId": "1983c0bd619afceb"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/most-politicians-are-charming-and",
-      "title": "Most politicians are charming and persuasive in person",
-      "url": "https://www.slowboring.com/p/most-politicians-are-charming-and",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus some Maine takes, Biden&#8217;s failure to prioritize, and speculation about Republican Spain",
-      "publishedAt": "2026-04-10T10:03:07.000Z",
-      "articleId": "53da249c9a4ede15"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/some-artists-are-bad-at-picking-singles",
       "title": "Some Artists are Bad at Picking Singles",
       "url": "https://www.cantgetmuchhigher.com/p/some-artists-are-bad-at-picking-singles",
@@ -1778,10 +1767,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1859,7 +1848,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
