@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-21T12:08:23.404Z",
-  "fetchedAt": "2026-04-21T12:08:23.399Z",
+  "generatedAt": "2026-04-21T14:53:37.973Z",
+  "fetchedAt": "2026-04-21T14:53:37.967Z",
   "sourceCount": 21,
   "itemCount": 161,
-  "totalItemCount": 756,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-one-off-collabs",
+      "title": "An Album a Day: One-Off Collabs",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-one-off-collabs",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Elvis Costello, Jay-Z, Metallica, and others",
+      "publishedAt": "2026-04-21T13:30:45.000Z",
+      "articleId": "1e05c5c1655e35ee"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-luddites-were-the-first-to-attack-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-luddites-were-the-first-to-attack-ai",
       "title": "The Luddites Were the First to Attack AI",
@@ -12,7 +23,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Everyone knows the Luddites smashed looms. What is less appreciated is that the loom was the first serious programmable device — the direct ancestor of the computer. Thus, the Luddites weren&#8217;t just the first to resist automation. They were the first to attack AI. The Jacquard loom, introduced in France circa 1805, used a chain [&#8230;] The post The Luddites Were the First to Attack AI appeared first on Marginal REVOLUTION .",
+      "summary": "Everyone knows the Luddites smashed looms. What is less appreciated is that the loom was the first serious programmable device — the direct ancestor of the computer. Thus, the Luddites weren&#8217;t just the first to resist automation. They were in some ways the first to attack AI. The Jacquard loom, introduced in France circa 1805, [&#8230;] The post The Luddites Were the First to Attack AI appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-21T11:18:30.000Z",
       "articleId": "68b901d164b1eba7"
     },
@@ -1764,17 +1775,6 @@
       "summary": "In which a robot and I have a fun dorm-room chat about the future of science.",
       "publishedAt": "2026-03-22T14:57:49.000Z",
       "articleId": "110ca39f86b51d7e"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/live-nation-bob-power-and-the-chipmunks",
-      "title": "Live Nation, Bob Power, and The Chipmunks Go Punk: Link Drop",
-      "url": "https://www.cantgetmuchhigher.com/p/live-nation-bob-power-and-the-chipmunks",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "A round-up of the most important stories in music right now",
-      "publishedAt": "2026-03-22T13:31:27.000Z",
-      "articleId": "b90bdffe0945fbef"
     }
   ],
   "sources": [
@@ -1789,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
