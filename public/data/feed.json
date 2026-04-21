@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-04-21T08:59:40.678Z",
-  "fetchedAt": "2026-04-21T08:59:40.671Z",
+  "generatedAt": "2026-04-21T10:41:19.333Z",
+  "fetchedAt": "2026-04-21T10:41:19.324Z",
   "sourceCount": 21,
-  "itemCount": 158,
-  "totalItemCount": 763,
+  "itemCount": 161,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/candidates-shouldnt-release-lots",
+      "title": "Candidates shouldn’t release lots of “plans”",
+      "url": "https://www.slowboring.com/p/candidates-shouldnt-release-lots",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Not for A.I. and the labor market or health care or anything else",
+      "publishedAt": "2026-04-21T10:02:41.000Z",
+      "articleId": "ff44a22cc94ccb35"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/dont-tell-buffalo-and-montreal-the",
+      "title": "Don't Tell Buffalo and Montreal the NHL Playoffs Aren't Any Place For Young Teams",
+      "url": "https://neilpaine.substack.com/p/dont-tell-buffalo-and-montreal-the",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Conventional wisdom says the playoffs favor older teams. But the data suggests that edge may be overstated — and the Sabres and Canadiens are testing it in real time.",
+      "publishedAt": "2026-04-21T10:02:10.000Z",
+      "articleId": "61d43ad111bb6606"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "title": "Tim Cook’s Impeccable Timing",
+      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Tim Cook had an extraordinary run — and impeccable timing, both in terms of when he became CEO, and when he is stepping down.",
+      "publishedAt": "2026-04-21T10:00:00.000Z",
+      "articleId": "7a73953b7c229372"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7214351/2026/04/21/new-york-giants-pre-draft-top-30-visits/",
+      "title": "Pre-draft visits have been a Giants tell — here's who they met with this year",
+      "url": "https://www.nytimes.com/athletic/7214351/2026/04/21/new-york-giants-pre-draft-top-30-visits/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Will the Giants' pre-draft visits carry the same weight under John Harbaugh? Soon we'll know for sure.",
+      "publishedAt": "2026-04-21T09:30:58.000Z",
+      "articleId": "dc50fb08dd061116"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/no-america-is-not-in-a-stealth-manufacturing",
       "title": "No, America is not in a \"stealth manufacturing boom\"",
@@ -1095,17 +1139,6 @@
       "articleId": "06851b674baff572"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/",
-      "title": "Anthropic’s New TPU Deal, Anthropic’s Computing Crunch, The Anthropic-Google Alliance",
-      "url": "https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google.",
-      "publishedAt": "2026-04-07T10:00:00.000Z",
-      "articleId": "6766d212c6e369f8"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
       "title": "I told you this would end badly",
       "url": "https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
@@ -1821,7 +1854,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1837,7 +1870,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
