@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-21T10:41:19.333Z",
-  "fetchedAt": "2026-04-21T10:41:19.324Z",
+  "generatedAt": "2026-04-21T12:08:23.404Z",
+  "fetchedAt": "2026-04-21T12:08:23.399Z",
   "sourceCount": 21,
   "itemCount": 161,
-  "totalItemCount": 765,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-luddites-were-the-first-to-attack-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-luddites-were-the-first-to-attack-ai",
+      "title": "The Luddites Were the First to Attack AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-luddites-were-the-first-to-attack-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Everyone knows the Luddites smashed looms. What is less appreciated is that the loom was the first serious programmable device — the direct ancestor of the computer. Thus, the Luddites weren&#8217;t just the first to resist automation. They were the first to attack AI. The Jacquard loom, introduced in France circa 1805, used a chain [&#8230;] The post The Luddites Were the First to Attack AI appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-21T11:18:30.000Z",
+      "articleId": "68b901d164b1eba7"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/candidates-shouldnt-release-lots",
       "title": "Candidates shouldn’t release lots of “plans”",
@@ -411,17 +422,6 @@
       "summary": "This paper studies the impact of birthright citizenship on youth crime. We leverage a German reform which automatically granted birthright citizenship to eligible immigrant children born in Germany after January 1, 2000 and administrative crime data from three federal states. We find that immigrant youth who acquired citizenship at birth are substantially less likely to [&#8230;] The post Birthright Citizenship and Youth Crime appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-18T07:12:34.000Z",
       "articleId": "e5b82397141b4871"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/emergent-ventures-india-16th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-16th-cohort",
-      "title": "Emergent Ventures India, 16th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/emergent-ventures-india-16th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Roumak Das, a grade 11 student from West Bengal, and Samik Goyal, a 12th grader from Patiala, received their grants to travel to the International Olympiad in Artificial Intelligence 2025 in Beijing, where Roumak won a gold medal and Samik a silver medal. Roumak’s grant also supports his college applications, and Samik’s grant supports SPOI, [&#8230;] The post Emergent Ventures India, 16th cohort appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-18T04:11:42.000Z",
-      "articleId": "e5d3c58bcf06e8f8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/playing-baseball-like-its-1864",
@@ -1789,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
