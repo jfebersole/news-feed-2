@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-21T03:43:13.336Z",
-  "fetchedAt": "2026-04-21T03:43:13.331Z",
+  "generatedAt": "2026-04-21T06:12:03.143Z",
+  "fetchedAt": "2026-04-21T06:12:03.138Z",
   "sourceCount": 21,
-  "itemCount": 157,
+  "itemCount": 158,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/no-america-is-not-in-a-stealth-manufacturing",
+      "title": "No, America is not in a \"stealth manufacturing boom\"",
+      "url": "https://www.noahpinion.blog/p/no-america-is-not-in-a-stealth-manufacturing",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Tariffs are canceling out the tailwinds.",
+      "publishedAt": "2026-04-21T05:30:49.000Z",
+      "articleId": "199fb6946bdeb192"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/a-comparison-of-agentic-ai-systems-and-human-economists.html?utm_source=rss&utm_medium=rss&utm_campaign=a-comparison-of-agentic-ai-systems-and-human-economists",
+      "title": "A Comparison of Agentic AI Systems and Human Economists",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/a-comparison-of-agentic-ai-systems-and-human-economists.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper compares agentic AI systems and human economists performing the same causal inference tasks. AI systems and humans generally obtain similar median causal effect estimates. While there is substantial dispersion of estimates across model instances, the human distributions of estimates have wider tails. Using AI models as reviewers to compare and rank “submissions,” the [&#8230;] The post A Comparison of Agentic AI Systems and Human Economists appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-21T04:25:44.000Z",
+      "articleId": "edcb2cf6fde1d624"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/one-state-could-tip-the-house",
       "title": "One state could tip the House",
@@ -57,7 +79,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "It didn’t work out too well for kings, either.",
-      "publishedAt": "2026-04-20T16:35:33.000Z",
+      "publishedAt": "2026-04-20T16:35:34.000Z",
       "articleId": "d6c9e75aebe304dd"
     },
     {
@@ -378,17 +400,6 @@
       "summary": "Republicans embraced extremist ideology and it backfired on them. Democrats shouldn't follow suit.",
       "publishedAt": "2026-04-17T20:45:24.000Z",
       "articleId": "09d300bcb2157676"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-56.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-56",
-      "title": "That was then, this is now",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-56.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From 1857: The Persians were great sticklers for ceremony, it turned out, and now that the treaty was ratified, they expected an exchange of gifts to mark the important occasion. At Spence&#8217;s [a leading diplomat of the time] insistence, the United States spent $10,000 (close to $1 million in today&#8217;s money) on diamond-studded snuffboxes and [&#8230;] The post That was then, this is now appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-17T18:26:36.000Z",
-      "articleId": "141a3b25739d19b8"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/servers-satellites-and-stars/",
