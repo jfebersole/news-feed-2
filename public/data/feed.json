@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-21T14:53:37.973Z",
-  "fetchedAt": "2026-04-21T14:53:37.967Z",
+  "generatedAt": "2026-04-21T16:19:26.461Z",
+  "fetchedAt": "2026-04-21T16:19:26.457Z",
   "sourceCount": 21,
   "itemCount": 161,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/half-a-month-of-consolation-writing",
+      "title": "Half A Month Of Consolation Writing Advice",
+      "url": "https://www.astralcodexten.com/p/half-a-month-of-consolation-writing",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-04-21T15:14:10.000Z",
+      "articleId": "e0342e681efd9c72"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-one-off-collabs",
       "title": "An Album a Day: One-Off Collabs",
@@ -1764,17 +1775,6 @@
       "summary": "Democrats increasingly match Republicans' emotionally immature approach to policy &#8212; a problem for the party that's supposed to be invested in making government work.",
       "publishedAt": "2026-03-22T17:39:35.000Z",
       "articleId": "e40f8ddf679410dd"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/a-conversation-with-claude",
-      "title": "A conversation with Claude",
-      "url": "https://www.noahpinion.blog/p/a-conversation-with-claude",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "In which a robot and I have a fun dorm-room chat about the future of science.",
-      "publishedAt": "2026-03-22T14:57:49.000Z",
-      "articleId": "110ca39f86b51d7e"
     }
   ],
   "sources": [
