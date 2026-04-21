@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-04-21T20:11:59.335Z",
-  "fetchedAt": "2026-04-21T20:11:59.330Z",
+  "generatedAt": "2026-04-21T21:56:41.594Z",
+  "fetchedAt": "2026-04-21T21:56:41.588Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 764,
+  "itemCount": 160,
+  "totalItemCount": 755,
   "items": [
     {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
+      "title": "Does Israel Want to Be Saudi Arabia?",
+      "url": "https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Americans hold Israel to a higher standard than their other allies. That’s a good thing.",
+      "publishedAt": "2026-04-21T21:05:40.000Z",
+      "articleId": "e72d8bc38dc25b22"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/images-2-0.html?utm_source=rss&utm_medium=rss&utm_campaign=images-2-0",
-      "title": "Images 2.0",
+      "title": "Imagegen 2.0",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/images-2-0.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Created by Alex T., and of course GPT as well. The post Images 2.0 appeared first on Marginal REVOLUTION .",
+      "summary": "Created by Alex T., and of course GPT as well. The post Imagegen 2.0 appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-21T19:47:44.000Z",
       "articleId": "48ae84f9b8aab055"
     },
@@ -1767,10 +1778,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
