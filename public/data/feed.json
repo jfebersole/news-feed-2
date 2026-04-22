@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-04-22T08:55:41.668Z",
-  "fetchedAt": "2026-04-22T08:55:41.661Z",
+  "generatedAt": "2026-04-22T10:41:03.303Z",
+  "fetchedAt": "2026-04-22T10:41:03.298Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 763,
+  "itemCount": 161,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/if-israel-doesnt-like-how-its-perceived",
+      "title": "If Israel doesn’t like how it’s perceived, it should change its behavior",
+      "url": "https://www.slowboring.com/p/if-israel-doesnt-like-how-its-perceived",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "There are always persuadable audiences &#8212; it&#8217;s worth trying",
+      "publishedAt": "2026-04-22T10:03:14.000Z",
+      "articleId": "5efcd43ae720aa01"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7216386/2026/04/22/new-york-giants-nfl-draft-sonny-styles/",
+      "title": "The New York Giants, with their first round picks in the 2026 NFL draft, select...",
+      "url": "https://www.nytimes.com/athletic/7216386/2026/04/22/new-york-giants-nfl-draft-sonny-styles/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "New York could go in a number of directions with its first-round picks. Which ways make most sense?",
+      "publishedAt": "2026-04-22T10:00:54.000Z",
+      "articleId": "402be391a7a06c4b"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
+      "title": "John Ternus and Apple’s Hardware-Defined Future, SpaceXAI and Cursor",
+      "url": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.",
+      "publishedAt": "2026-04-22T10:00:00.000Z",
+      "articleId": "4e5246208e916c7b"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-pistons-dominated-one-nba-now",
+      "title": "The Pistons Dominated One NBA. Now They Have to Survive the Other.",
+      "url": "https://neilpaine.substack.com/p/the-pistons-dominated-one-nba-now",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Heading to Game 2 in a hole against Orlando, Detroit must face down the doubts that 60 regular-season wins couldn't shake off.",
+      "publishedAt": "2026-04-22T09:58:45.000Z",
+      "articleId": "c5a10ffa0242a4a7"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-empirically-inscrutable-climate-economy-relationship.html?utm_source=rss&utm_medium=rss&utm_campaign=the-empirically-inscrutable-climate-economy-relationship",
       "title": "The empirically inscrutable climate-economy relationship",
@@ -930,17 +974,6 @@
       "articleId": "863f3651593498c1"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-girlboss-was-never-a-feminist",
-      "title": "The girlboss was never a feminist ideal",
-      "url": "https://www.slowboring.com/p/the-girlboss-was-never-a-feminist",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The 2010s turned an eBay hustler into a symbol of corporate feminism she never set out to represent.",
-      "publishedAt": "2026-04-10T22:01:18.000Z",
-      "articleId": "843e419b5727dab1"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/myth-and-mythos/",
       "title": "2026.15: Myth and Mythos",
       "url": "https://stratechery.com/2026/myth-and-mythos/",
@@ -1104,17 +1137,6 @@
       "summary": "A preview of everything to come in Issue 23",
       "publishedAt": "2026-04-08T14:06:22.000Z",
       "articleId": "6ea6f507d7599e0b"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/",
-      "title": "Anthropic’s New Model, The Mythos Wolf, Glasswing and Alignment",
-      "url": "https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Anthropic says its new model is too dangerous to release; there are reasons to be skeptical, but to the extent Anthropic is right, that raises even deeper concerns.",
-      "publishedAt": "2026-04-08T10:00:00.000Z",
-      "articleId": "f9c12acf9e32bdfc"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/zagreb-meetup-this-friday",
@@ -1767,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -1832,7 +1854,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
