@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T03:38:15.103Z",
-  "fetchedAt": "2026-04-22T03:38:15.098Z",
+  "generatedAt": "2026-04-22T06:08:15.721Z",
+  "fetchedAt": "2026-04-22T06:08:15.716Z",
   "sourceCount": 21,
   "itemCount": 159,
   "totalItemCount": 763,
@@ -13,8 +13,19 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "Americans hold Israel to a higher standard than their other allies. That’s a good thing.",
-      "publishedAt": "2026-04-21T21:05:40.000Z",
+      "publishedAt": "2026-04-22T04:53:55.000Z",
       "articleId": "e72d8bc38dc25b22"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/technological-unemployment-in-victorian-britain.html?utm_source=rss&utm_medium=rss&utm_campaign=technological-unemployment-in-victorian-britain",
+      "title": "Technological unemployment in Victorian Britain",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/technological-unemployment-in-victorian-britain.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We do not know whether technological unemployment swept across England in the wake of the British Industrial Revolution. In this paper, I propose an approach to quantify jobs lost to, and created by, creative destruction in the 19th century. Using over 170 million individual records from the full-count British census (1851–1911), I generate sub-industry “task” [&#8230;] The post Technological unemployment in Victorian Britain appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-22T04:36:08.000Z",
+      "articleId": "2cd192bfe01ab657"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/images-2-0.html?utm_source=rss&utm_medium=rss&utm_campaign=images-2-0",
@@ -433,17 +444,6 @@
       "summary": "Ten hours on a Greyhound with a few ex-cons, and one very complicated woman",
       "publishedAt": "2026-04-18T19:46:04.000Z",
       "articleId": "7657d2c7ca04f7b2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-not-now.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-not-now",
-      "title": "That was then, this is not now?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-not-now.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The 1941 Anglo-Soviet invasion destroyed Reza Shah &#8212; but not the Pahlavi state. The two Allies &#8212; joined by the United States in December 1941 &#8212; realized that the Iranian state could be useful in achieving the two goals for which they had invaded the country: physical control over oil &#8212; the British nightmare in [&#8230;] The post That was then, this is not now? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-18T19:00:35.000Z",
-      "articleId": "085972b96c67bdbd"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04182026",
