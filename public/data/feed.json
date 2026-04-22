@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-22T10:41:03.303Z",
-  "fetchedAt": "2026-04-22T10:41:03.298Z",
+  "generatedAt": "2026-04-22T12:07:28.662Z",
+  "fetchedAt": "2026-04-22T12:07:28.657Z",
   "sourceCount": 21,
-  "itemCount": 161,
-  "totalItemCount": 755,
+  "itemCount": 162,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ending-the-occupational-licensing-racket.html?utm_source=rss&utm_medium=rss&utm_campaign=ending-the-occupational-licensing-racket",
+      "title": "Ending the Occupational Licensing Racket",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ending-the-occupational-licensing-racket.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "VinNews: The Rockland County Legislature approved amendments to the Home Improvement Law, dissolving the existing Home Improvement Licensing Board and shifting primary licensing authority to the Legislature itself&#8230;Under the new rules, the former licensing board will be reduced to an advisory role, losing its power to issue or revoke licenses. Licensing responsibilities will now fall [&#8230;] The post Ending the Occupational Licensing Racket appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-22T11:21:26.000Z",
+      "articleId": "4ef969dc9dfec8c8"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-to-speed-up-clinical-trials",
+      "title": "How to speed up clinical trials",
+      "url": "https://www.worksinprogress.news/p/how-to-speed-up-clinical-trials",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Episode sixteen is about reforms that can reverse Eroom's law",
+      "publishedAt": "2026-04-22T11:18:31.000Z",
+      "articleId": "598759ba5fde7cd3"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/if-israel-doesnt-like-how-its-perceived",
       "title": "If Israel doesn’t like how it’s perceived, it should change its behavior",
@@ -455,17 +477,6 @@
       "summary": "Lawrence was traded to the Bengals for the 10th pick in the 2026 NFL Draft.",
       "publishedAt": "2026-04-19T11:00:44.000Z",
       "articleId": "3ee21a286db6bc26"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/on-the-impact-of-trumps-tariffs.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-impact-of-trumps-tariffs",
-      "title": "On the impact of Trump’s tariffs",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/on-the-impact-of-trumps-tariffs.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In 2025, the U.S. raised average tariff duties from 2.4% to 9.6%, bringing protectionism to its highest level in eighty years. We explore the structure of these tariffs, estimate their short-run impacts, and summarize the growing literature on their effects. Across trade partners, the tariffs are correlated with trade deficits but not with geopolitical or [&#8230;] The post On the impact of Trump&#8217;s tariffs appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-19T09:13:17.000Z",
-      "articleId": "759da8d3eecb39e6"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/random-observations",
@@ -1789,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
