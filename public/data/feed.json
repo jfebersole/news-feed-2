@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-22T16:18:00.718Z",
-  "fetchedAt": "2026-04-22T16:18:00.713Z",
+  "generatedAt": "2026-04-22T18:11:58.444Z",
+  "fetchedAt": "2026-04-22T18:11:58.440Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 764,
+  "itemCount": 161,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-exposed-counties-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-exposed-counties-from-my-email",
+      "title": "The exposed counties (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-exposed-counties-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Professor Cowen, Built a county-level AI displacement model across all 3,204 US counties. Top 5 most exposed counties are all in the DC metro, not the Rust Belt. https://yourjobrisk.com https://jakeprokopets.substack.com/p/why-the-most-ai-exposed-counties 18, built it in three days. Jake Prokopets The post The exposed counties (from my email) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-22T18:03:23.000Z",
+      "articleId": "2f1a6587101f1b9d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-550.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-550",
       "title": "Wednesday assorted links",
@@ -101,7 +112,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "Americans hold Israel to a higher standard than their other allies. That’s a good thing.",
-      "publishedAt": "2026-04-22T04:53:55.000Z",
+      "publishedAt": "2026-04-22T04:53:56.000Z",
       "articleId": "e72d8bc38dc25b22"
     },
     {
@@ -435,17 +446,6 @@
       "articleId": "22c9077335ced742"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-57.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-57",
-      "title": "That was then, this is now",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/that-was-then-this-is-now-57.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "At the advent of a more aggressive Persian Gulf policy on the part of Iran during the interwar years, the resilience of these symbols was watched like a kind of barometer that attested to Britain&#8217;s levell of commitment to the maintenance of security in the Persian Gulf. Britainäs abstention from the use of force against [&#8230;] The post That was then, this is now appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-19T19:26:54.000Z",
-      "articleId": "4f0682d30b40d013"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
       "title": "Sunday Thread + Mailbag",
       "url": "https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
@@ -510,17 +510,6 @@
       "summary": "A quadruped welding robot, the China Shock 2.0, transformer startups, China&#8217;s mysteriously moving satellites, and more.",
       "publishedAt": "2026-04-18T12:00:53.000Z",
       "articleId": "15e767958454235c"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-13-17-2026",
-      "title": "The Week That Was (April 13-17, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-april-13-17-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-04-18T10:01:12.000Z",
-      "articleId": "1f3f99baca83c097"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/playing-baseball-like-its-1864",
@@ -1865,7 +1854,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
