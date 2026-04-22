@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-22T18:11:58.444Z",
-  "fetchedAt": "2026-04-22T18:11:58.440Z",
+  "generatedAt": "2026-04-22T20:13:14.461Z",
+  "fetchedAt": "2026-04-22T20:13:14.456Z",
   "sourceCount": 21,
-  "itemCount": 161,
-  "totalItemCount": 763,
+  "itemCount": 162,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/grgyr6cbqkdlsdwhc0kl.html",
+      "title": "Money Stuff: There’s No Time to Buy Cursor",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/grgyr6cbqkdlsdwhc0kl.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff SpaceX, pensions, insurance, arbitration. View in browser Cursor Traditionally the way an initial public offering works is that there is a private company, and it wants to sell its stock to public investors, so it goes out and markets itself to those investors. Along with its bankers and lawyers, the company writes a prospectus explaining its business. The prospectus will contain some standard sections: often a manifesto from the company’s founder setting out its vision and guiding philosophy, an overview of its business and the competitive landscape, a discussion of its financial results. There will be audited historical financial statements going back several years, and risk factors explaining what might go wrong. There will also normally be a roadshow, in which the company and its advisers present the company to investors in meetings or over Zoom. The roadshow presentation will hit some of the same notes as the prospectus, though it will probably be more forward-looking, more about how much money the company will make next year than how much it made last year, more about plans than about risks. Research analysts at the company’s banks will explain their — preferably optimistic — views on the company to potential investors. Salespeople at the banks will call their customers to sell them stock. SpaceX, Elon Musk’s satellite internet, rocket launch, space data center, Mars colonization, frontier AI model and social media company, plans to do an IPO sometime soon, possibly in June. On the one hand, this seems like a complicated job: As I hinted in the previous sentence, it is not easy to describe what SpaceX does, what its guiding philosophy is, how it makes money, what risks it faces, or what businesses it competes in. What are the EBITDA margins on the space data centers? What sorts of contingent liabilities does the Mars colony face? The prospectus — essentially conservative and backward-looking — will not capture the true meaning of SpaceX; presumably it will barely mention the Mars colonies or space data centers, which are at this point entirely hypothetical. The roadshow will mention those, but in a fairly abstract way. It’s not like there are meaningful projections of 2029 space data center revenue. On the other hand, this is stupid, I’m kidding, and none of this stuff matters for SpaceX . The SpaceX IPO is not really about a private company introducing and explaining itself to the general public. The SpaceX IPO is about Elon Musk Elon Musking the Elon Muskiest of Elon Musk. “ SpaceX’s IPO Pitch Centers on Elon Musk’s Ability to ‘Sell the Dream’ ” was a Bloomberg headline a few weeks ago: “What you’ve got to be convinced of — and this is what they’ll be working on until this is filed publicly — is continuing to sell the dream and...",
+      "publishedAt": "2026-04-22T18:30:44.991Z",
+      "articleId": "a16c6e3261558a5a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-exposed-counties-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-exposed-counties-from-my-email",
       "title": "The exposed counties (from my email)",
@@ -1918,7 +1929,7 @@
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "mode": "rss",
-      "itemCount": 6,
+      "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
       "error": null
     },
