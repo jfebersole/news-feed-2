@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-22T22:01:15.400Z",
-  "fetchedAt": "2026-04-22T22:01:15.389Z",
+  "generatedAt": "2026-04-22T23:02:55.569Z",
+  "fetchedAt": "2026-04-22T23:02:55.564Z",
   "sourceCount": 21,
-  "itemCount": 163,
-  "totalItemCount": 764,
+  "itemCount": 165,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/human-drivers-keep-crashing-into-454",
+      "title": "Human drivers keep crashing into Waymos",
+      "url": "https://www.understandingai.org/p/human-drivers-keep-crashing-into-454",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Waymo's biggest mistakes happened when it stopped in the wrong place.",
+      "publishedAt": "2026-04-22T22:49:44.000Z",
+      "articleId": "1fa575779bae54f6"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/housing-policy-keeps-running-into",
+      "title": "Housing policy keeps running into the same problems",
+      "url": "https://www.slowboring.com/p/housing-policy-keeps-running-into",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Federal gridlock and local bottlenecks continue to slow down construction. Meanwhile, people are scrambling for housing.",
+      "publishedAt": "2026-04-22T22:01:20.000Z",
+      "articleId": "af13cda36c193c6d"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
       "title": "Does Israel Want to Be Saudi Arabia?",
@@ -1892,7 +1914,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
