@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-23T19:38:36.451Z",
-  "fetchedAt": "2026-04-23T19:38:36.446Z",
+  "generatedAt": "2026-04-23T21:04:42.236Z",
+  "fetchedAt": "2026-04-23T21:04:42.231Z",
   "sourceCount": 21,
-  "itemCount": 171,
+  "itemCount": 172,
   "totalItemCount": 757,
   "items": [
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+      "title": "Sign of the future: GPT-5.5",
+      "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "One impressive step on the curve",
+      "publishedAt": "2026-04-23T20:00:38.000Z",
+      "articleId": "8082e0b1b5bce42b"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
       "title": "There Is Much More to Pope vs. President Than Meets the Eye",
