@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-22T23:58:13.501Z",
-  "fetchedAt": "2026-04-22T23:58:13.495Z",
+  "generatedAt": "2026-04-23T03:43:29.949Z",
+  "fetchedAt": "2026-04-23T03:43:29.944Z",
   "sourceCount": 21,
-  "itemCount": 165,
-  "totalItemCount": 765,
+  "itemCount": 167,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/on-redistricting-its-time-for-republicans",
+      "title": "On Redistricting, It's Time for Republicans to Stop Whining and Start Negotiating",
+      "url": "https://www.joshbarro.com/p/on-redistricting-its-time-for-republicans",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Gerrymandered maps are rationally approved by majorities at the state level. Only a new set of federal rules can rein in gerrymandering.",
+      "publishedAt": "2026-04-23T00:12:17.000Z",
+      "articleId": "0baf980e05a810d9"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/human-drivers-keep-crashing-into-454",
       "title": "Human drivers keep crashing into Waymos",
@@ -59,6 +70,17 @@
       "summary": "Money Stuff SpaceX, pensions, insurance, arbitration. View in browser Cursor Traditionally the way an initial public offering works is that there is a private company, and it wants to sell its stock to public investors, so it goes out and markets itself to those investors. Along with its bankers and lawyers, the company writes a prospectus explaining its business. The prospectus will contain some standard sections: often a manifesto from the company’s founder setting out its vision and guiding philosophy, an overview of its business and the competitive landscape, a discussion of its financial results. There will be audited historical financial statements going back several years, and risk factors explaining what might go wrong. There will also normally be a roadshow, in which the company and its advisers present the company to investors in meetings or over Zoom. The roadshow presentation will hit some of the same notes as the prospectus, though it will probably be more forward-looking, more about how much money the company will make next year than how much it made last year, more about plans than about risks. Research analysts at the company’s banks will explain their — preferably optimistic — views on the company to potential investors. Salespeople at the banks will call their customers to sell them stock. SpaceX, Elon Musk’s satellite internet, rocket launch, space data center, Mars colonization, frontier AI model and social media company, plans to do an IPO sometime soon, possibly in June. On the one hand, this seems like a complicated job: As I hinted in the previous sentence, it is not easy to describe what SpaceX does, what its guiding philosophy is, how it makes money, what risks it faces, or what businesses it competes in. What are the EBITDA margins on the space data centers? What sorts of contingent liabilities does the Mars colony face? The prospectus — essentially conservative and backward-looking — will not capture the true meaning of SpaceX; presumably it will barely mention the Mars colonies or space data centers, which are at this point entirely hypothetical. The roadshow will mention those, but in a fairly abstract way. It’s not like there are meaningful projections of 2029 space data center revenue. On the other hand, this is stupid, I’m kidding, and none of this stuff matters for SpaceX . The SpaceX IPO is not really about a private company introducing and explaining itself to the general public. The SpaceX IPO is about Elon Musk Elon Musking the Elon Muskiest of Elon Musk. “ SpaceX’s IPO Pitch Centers on Elon Musk’s Ability to ‘Sell the Dream’ ” was a Bloomberg headline a few weeks ago: “What you’ve got to be convinced of — and this is what they’ll be working on until this is filed publicly — is continuing to sell the dream and...",
       "publishedAt": "2026-04-22T18:30:44.991Z",
       "articleId": "a16c6e3261558a5a"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/a-painters-painter",
+      "title": "A painter's painter",
+      "url": "https://scottsumner.substack.com/p/a-painters-painter",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Why the Prado is special",
+      "publishedAt": "2026-04-22T18:15:03.000Z",
+      "articleId": "a72ded076f4d2182"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-exposed-counties-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-exposed-counties-from-my-email",
@@ -1833,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 404 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
