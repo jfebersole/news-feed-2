@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-23T12:07:25.915Z",
-  "fetchedAt": "2026-04-23T12:07:25.910Z",
+  "generatedAt": "2026-04-23T15:20:57.909Z",
+  "fetchedAt": "2026-04-23T15:20:57.897Z",
   "sourceCount": 21,
-  "itemCount": 170,
+  "itemCount": 169,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/from-the-uae.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-uae",
+      "title": "From the UAE",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/from-the-uae.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Under the directives of the President of the UAE, we launch a new government model. Within two years, 50% of government sectors, services, and operations will run on Agentic AI, making the UAE the first government globally to operate at this scale through autonomous systems. AI is no longer a tool. It analyses, decides, executes, [&#8230;] The post From the UAE appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-23T14:53:03.000Z",
+      "articleId": "6b4a8c80195e0f04"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/construction-costs-rarely-fall",
       "title": "Construction Costs Rarely Fall",
@@ -79,7 +90,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "What fighting an unjust war really means.",
-      "publishedAt": "2026-04-23T09:04:21.000Z",
+      "publishedAt": "2026-04-23T09:04:22.000Z",
       "articleId": "41a75e0a1bc24e9c"
     },
     {
@@ -532,17 +543,6 @@
       "summary": "What Muse Spark tells us about Meta&#8217;s new AI strategy.",
       "publishedAt": "2026-04-20T13:39:52.000Z",
       "articleId": "598e36e76a5fd67f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/eight-rules-to-regain-public-trust-in-academia.html?utm_source=rss&utm_medium=rss&utm_campaign=eight-rules-to-regain-public-trust-in-academia",
-      "title": "Eight Rules to Regain Public Trust in Academia",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/eight-rules-to-regain-public-trust-in-academia.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Yale Report was quite good but for concision I prefer Kevin Bryan&#8217;s Eight Rules: 1. Produce and Teach Useful Knowledge Universities exist to generate and teach useful knowledge. This knowledge is grounded in skeptical inquiry, empirical evidence, and logical deduction. &#8220;Useful&#8221; includes not only practical applications but also fundamental discoveries that expand our understanding [&#8230;] The post Eight Rules to Regain Public Trust in Academia appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-20T11:17:21.000Z",
-      "articleId": "4dc72058e6bf5612"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/dogs-arent-people",
@@ -1863,17 +1863,6 @@
       "summary": "How U.S. strategy encouraged mutually assured destruction.",
       "publishedAt": "2026-03-24T21:20:51.000Z",
       "articleId": "e38a8df2ce566a3c"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-released-before-1950",
-      "title": "An Album a Day: Released Before 1950",
-      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-released-before-1950",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Bing Crosby, Woody Guthrie, Count Basie, and others",
-      "publishedAt": "2026-03-24T13:31:12.000Z",
-      "articleId": "7afe65ba886400f6"
     }
   ],
   "sources": [
