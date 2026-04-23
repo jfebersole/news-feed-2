@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-04-23T15:20:57.909Z",
-  "fetchedAt": "2026-04-23T15:20:57.897Z",
+  "generatedAt": "2026-04-23T17:42:56.796Z",
+  "fetchedAt": "2026-04-23T17:42:56.791Z",
   "sourceCount": 21,
-  "itemCount": 169,
-  "totalItemCount": 756,
+  "itemCount": 171,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-april-2026",
+      "title": "Links For April 2026",
+      "url": "https://www.astralcodexten.com/p/links-for-april-2026",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-04-23T17:33:29.000Z",
+      "articleId": "8a08eab97598d39b"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/bless-the-twang-down-in-africa",
+      "title": "Bless the Twang Down in Africa",
+      "url": "https://www.cantgetmuchhigher.com/p/bless-the-twang-down-in-africa",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Because country doesn't just belong to America",
+      "publishedAt": "2026-04-23T17:30:48.000Z",
+      "articleId": "edf515754f6fda0b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-549.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-549",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-549.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The rise of Chinese micro-dramas. 2. Niklas Luhmann. 3. Why Rome never industrialized (YouTube video). 4. One account of the genocidal impulse. 5. Organs on demand? We will see. 6. U.S. at the Venice Biennial (NYT). 7. &#8220;Argentina’s economy shrank 2.6 per cent in February compared to January, the largest monthly contraction since President [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-23T16:06:06.000Z",
+      "articleId": "197ad03b76fefdbb"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/from-the-uae.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-uae",
       "title": "From the UAE",
@@ -510,17 +543,6 @@
       "summary": "It didn’t work out too well for kings, either.",
       "publishedAt": "2026-04-20T16:35:34.000Z",
       "articleId": "d6c9e75aebe304dd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-556.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-556",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/monday-assorted-links-556.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Sindarov profile. And: &#8220;I know this GM who made 2600 at 19 without reading a chess book in his life.&#8221; And Magnus on Sindarov vs. Gukesh. 2. Inflation-adjusted book prices over time. 3. On the Amanat Iran book and its excellence. 4. More on the wet market hypothesis. We should all be uncertain, but [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-20T16:05:08.000Z",
-      "articleId": "db28b6188876bfa2"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/what-really-stopped-the-boats",
@@ -1886,7 +1908,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
