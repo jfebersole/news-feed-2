@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-23T22:00:02.294Z",
-  "fetchedAt": "2026-04-23T22:00:02.288Z",
+  "generatedAt": "2026-04-23T23:03:28.863Z",
+  "fetchedAt": "2026-04-23T23:03:28.857Z",
   "sourceCount": 21,
-  "itemCount": 171,
-  "totalItemCount": 757,
+  "itemCount": 170,
+  "totalItemCount": 756,
   "items": [
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
@@ -1018,17 +1018,6 @@
       "articleId": "d7971f6b58dfa6de"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/good-environment-bad-party",
-      "title": "Good environment, bad party",
-      "url": "https://www.slowboring.com/p/good-environment-bad-party",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Trump&#8217;s approval rating is in the gutter, and Democrats lead the generic ballot. But Swalwell imploded, and a Senate primary devolved into a Hasan Piker debate. The midterms are Democrats&#8217; to lose.",
-      "publishedAt": "2026-04-13T22:01:14.000Z",
-      "articleId": "87d806c87166a1fb"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/",
       "title": "Mythos, Muse, and the Opportunity Cost of Compute",
       "url": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/",
@@ -1902,7 +1891,7 @@
       "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 404 Using previous snapshot data."
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -1980,7 +1969,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
