@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-24T14:03:36.494Z",
-  "fetchedAt": "2026-04-24T14:03:36.489Z",
+  "generatedAt": "2026-04-24T15:22:51.860Z",
+  "fetchedAt": "2026-04-24T15:22:51.854Z",
   "sourceCount": 21,
   "itemCount": 170,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
+      "title": "There Is Much More to Pope vs. President Than Meets the Eye",
+      "url": "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "What fighting an unjust war really means.",
+      "publishedAt": "2026-04-24T15:08:55.000Z",
+      "articleId": "41a75e0a1bc24e9c"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-23-were-freezing-our-eggs-maybe",
+      "title": "Issue 23: We're freezing our eggs. Maybe you should too",
+      "url": "https://www.worksinprogress.news/p/issue-23-were-freezing-our-eggs-maybe",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Works in Progress Issue 23 is out today.",
+      "publishedAt": "2026-04-24T14:38:58.000Z",
+      "articleId": "16475db33ecc7396"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-to-make-of-the-generic-ballot",
       "title": "What to make of the generic ballot",
@@ -103,17 +125,6 @@
       "summary": "One impressive step on the curve",
       "publishedAt": "2026-04-23T20:00:38.000Z",
       "articleId": "8082e0b1b5bce42b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
-      "title": "There Is Much More to Pope vs. President Than Meets the Eye",
-      "url": "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "What fighting an unjust war really means.",
-      "publishedAt": "2026-04-23T19:19:46.000Z",
-      "articleId": "41a75e0a1bc24e9c"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/vsc3il94zhghnyvnxe9h.html",
@@ -1863,17 +1874,6 @@
       "summary": "...",
       "publishedAt": "2026-03-25T15:26:07.000Z",
       "articleId": "1dc8573208f03795"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/did-status-signaling-ruin-architecture",
-      "title": "Did status signaling ruin architecture?",
-      "url": "https://www.worksinprogress.news/p/did-status-signaling-ruin-architecture",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Episode 15 of the Works in Progress is about ornament, taste, and modernism.",
-      "publishedAt": "2026-03-25T14:05:09.000Z",
-      "articleId": "8ebe0ec1873c7dc1"
     }
   ],
   "sources": [
