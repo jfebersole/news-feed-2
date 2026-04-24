@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-24T03:47:15.276Z",
-  "fetchedAt": "2026-04-24T03:47:15.271Z",
+  "generatedAt": "2026-04-24T06:19:21.716Z",
+  "fetchedAt": "2026-04-24T06:19:21.711Z",
   "sourceCount": 21,
-  "itemCount": 171,
+  "itemCount": 172,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/what-ive-been-reading-286.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-286",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/what-ive-been-reading-286.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Mason Currey, Making Art and Making a Living: Adventures in Funding a Creative Life. The best overall book I know on the different methods top artists have used to keep themselves going financially. It is perhaps more anecdotal and less theoretical than I would prefer, still a nice work. 2. Mangol Bayat, Mysticism and [&#8230;] The post What I&#8217;ve been reading appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-24T04:58:32.000Z",
+      "articleId": "e0b950ec4713b8f8"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7224371/2026/04/24/giants-nfl-draft-analysis-reese-mauigoa/",
+      "title": "Giants get coveted cornerstones in LB Arvell Reese, OT Francis Mauigoa",
+      "url": "https://www.nytimes.com/athletic/7224371/2026/04/24/giants-nfl-draft-analysis-reese-mauigoa/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The draft board played out how the Giants needed Thursday night for two foundational pieces in Reese and Mauigoa.",
+      "publishedAt": "2026-04-24T04:49:24.000Z",
+      "articleId": "6a7fce7804cfd63a"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7220007/2026/04/23/giants-nfl-draft-picks-2026-grades-scouting-reports/",
       "title": "New York Giants NFL Draft 2026 pick tracker: Grades, fits and scouting reports",
@@ -532,17 +554,6 @@
       "summary": "Tariffs are canceling out the tailwinds.",
       "publishedAt": "2026-04-21T05:30:49.000Z",
       "articleId": "199fb6946bdeb192"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/a-comparison-of-agentic-ai-systems-and-human-economists.html?utm_source=rss&utm_medium=rss&utm_campaign=a-comparison-of-agentic-ai-systems-and-human-economists",
-      "title": "A Comparison of Agentic AI Systems and Human Economists",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/a-comparison-of-agentic-ai-systems-and-human-economists.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper compares agentic AI systems and human economists performing the same causal inference tasks. AI systems and humans generally obtain similar median causal effect estimates. While there is substantial dispersion of estimates across model instances, the human distributions of estimates have wider tails. Using AI models as reviewers to compare and rank “submissions,” the [&#8230;] The post A Comparison of Agentic AI Systems and Human Economists appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-21T04:25:44.000Z",
-      "articleId": "edcb2cf6fde1d624"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/one-state-could-tip-the-house",
