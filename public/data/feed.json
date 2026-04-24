@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-24T09:07:33.716Z",
-  "fetchedAt": "2026-04-24T09:07:33.710Z",
+  "generatedAt": "2026-04-24T11:20:48.218Z",
+  "fetchedAt": "2026-04-24T11:20:48.212Z",
   "sourceCount": 21,
-  "itemCount": 172,
+  "itemCount": 171,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-to-make-of-the-generic-ballot",
+      "title": "What to make of the generic ballot",
+      "url": "https://www.slowboring.com/p/what-to-make-of-the-generic-ballot",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus ties, Mamdani, the Obama legacy, and fundraising&#8217;s diminishing returns",
+      "publishedAt": "2026-04-24T10:03:26.000Z",
+      "articleId": "10c42a040956c620"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/which-workers-are-using-ai-the-most-and-best.html?utm_source=rss&utm_medium=rss&utm_campaign=which-workers-are-using-ai-the-most-and-best",
       "title": "Which workers are using AI the most and best?",
@@ -1018,17 +1029,6 @@
       "articleId": "7785ed14866d2c23"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/america-needs-more-statues",
-      "title": "America needs more statues",
-      "url": "https://www.slowboring.com/p/america-needs-more-statues",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Let's think less about who to tear down and more about what to build",
-      "publishedAt": "2026-04-14T10:02:01.000Z",
-      "articleId": "dab9abe7365529b1"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
       "title": "OpenAI’s Memos, Frontier, Amazon and Anthropic",
       "url": "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
@@ -1885,17 +1885,6 @@
       "summary": "The U.S. is likely to get off easy, while others will bear the brunt.",
       "publishedAt": "2026-03-25T14:01:26.000Z",
       "articleId": "98fbdb163ce95228"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7145621/2026/03/25/new-york-giants-free-agency-draft/",
-      "title": "What we learned about the New York Giants' roster-building philosophy",
-      "url": "https://www.nytimes.com/athletic/7145621/2026/03/25/new-york-giants-free-agency-draft/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A look back on the Giants' first free-agency wave under John Harbaugh.",
-      "publishedAt": "2026-03-25T09:30:09.000Z",
-      "articleId": "7432500eaf93f743"
     }
   ],
   "sources": [
