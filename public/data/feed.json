@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-24T21:59:28.891Z",
-  "fetchedAt": "2026-04-24T21:59:28.886Z",
+  "generatedAt": "2026-04-24T22:56:29.273Z",
+  "fetchedAt": "2026-04-24T22:56:29.268Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 765,
+  "itemCount": 169,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-shoplifting-is-bad",
+      "title": "Why shoplifting is bad",
+      "url": "https://www.noahpinion.blog/p/why-shoplifting-is-bad",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "It may feel like a small act of rebellion, but it hurts a lot of people who don't deserve it.",
+      "publishedAt": "2026-04-24T22:30:08.000Z",
+      "articleId": "01d5d0d37e0faaa9"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-the-offline-discourse-class",
+      "title": "What the offline discourse class is talking about",
+      "url": "https://www.slowboring.com/p/what-the-offline-discourse-class",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Swing-state letter writers are not arguing about whether petty theft is a new kind of political protest.",
+      "publishedAt": "2026-04-24T22:01:39.000Z",
+      "articleId": "2d071a0e923308e4"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/growth-is-getting-harder-to-find-not-ideas-2.html?utm_source=rss&utm_medium=rss&utm_campaign=growth-is-getting-harder-to-find-not-ideas-2",
       "title": "Growth is getting harder to find, not ideas",
@@ -1936,7 +1958,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
