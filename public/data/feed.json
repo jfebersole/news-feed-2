@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-04-24T15:22:51.860Z",
-  "fetchedAt": "2026-04-24T15:22:51.854Z",
+  "generatedAt": "2026-04-24T17:11:33.064Z",
+  "fetchedAt": "2026-04-24T17:11:33.059Z",
   "sourceCount": 21,
-  "itemCount": 170,
+  "itemCount": 168,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/he-came-he-saw-he-cooked/",
+      "title": "2026.17: He Came, He Saw, He Cooked",
+      "url": "https://stratechery.com/2026/he-came-he-saw-he-cooked/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of April 27, 2026, including the end of the Tim Cook era, Cursor and SpaceX, and the various fronts of Cold War 2.0.",
+      "publishedAt": "2026-04-24T17:00:00.000Z",
+      "articleId": "b22285163b37ce9d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-569",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-569.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Luis Garicano on the task is not the job. And jobs and the Jevons paradox. 2. The lived experience of aphantasia. 3. Shruti on delimitation in India. 4. Why is Yi Yi so good? 5. Leibniz on symbolic computation, from the unpublished papers. 6. A History of Christian Political Economy, by Ballor and Matson. [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-24T16:17:29.000Z",
+      "articleId": "dfb11e0fb7e7fb96"
+    },
+    {
+      "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/udad0xg9d3vwg7pgmcij.html",
+      "title": "The Brew Shop Spring Wine Festival",
+      "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/udad0xg9d3vwg7pgmcij.html",
+      "source": "Brew Shop",
+      "sourceUrl": "https://www.arlbrew.com/",
+      "access": "open",
+      "summary": "The Brew Shop Spring Wine Festival Special weeknight outdoor spring wine tasting! Wine Fest on a weeknight?! Why, yes! Join us for The Brew Shop's Annual Spring Wine Festival on Thursday, May 14 from 5:30 - 8:30 pm! - Walk-about tasting featuring 20 different Spring-forward wines - Outdoors and indoors! Enjoy the Spring weather with outdoor tasting stations along our front sidewalk - Featuring artisanal cheese and crackers - Discounts for retail purchases on all wines - Chat, learn and sip wine with our wonderful team of in-the-know wine distributors - A great way to stock up for Spring outings, family gatherings and patio time To give us a little more space, the tasting has been split into two sessions: 5:30-7 pm and 7-8:30 pm. Tickets are $20 per person ($15 for Wine Club Members). Please choose the time slot that works best for you! Spring Wine Festival Tickets (5:30-7 pm) Spring Wine Festival Tickets (7-8:30 pm) Must be 21 to participate. In the event of inclement weather, the event will be moved indoors. No refunds. Share Tweet Forward Thanks for your business! See you soon, Beth and Julie Copyright © 2017 All rights reserved. The Brew Shop, LLC Our mailing address is: 2004 Wilson Blvd. Arlington, VA 22201 Want to change how you receive these emails? You can update your preferences or unsubscribe from this list .",
+      "publishedAt": "2026-04-24T15:38:25.384Z",
+      "articleId": "864836ac674683af"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
       "title": "There Is Much More to Pope vs. President Than Meets the Eye",
@@ -499,17 +532,6 @@
       "summary": "Money Stuff Fees, SpaceX, Hormuz, Tetrahedron. View in browser Fees At a very high level, the job of the financial industry is to take customers’ money and invest it in economic growth. When the economy grows, the investors get a share of that growth as a return on their investment. How much should the financial industry charge for doing that job? It’s not an easy job. The financial industry has to figure out what companies will generate economic growth, and allocate capital to them, and monitor them, and do all the administrative and sales work of moving money from people who have it to companies that need it. A lot of people are working away in their garages trying to develop a cure for cancer or cold fusion or a quantum supercomputer or a really addictive gambling website, and the financial industry has to figure out which of them will succeed and give them money. That job, at a high level, is both difficult and important ; curing cancer is not mostly a matter of getting the financing right, but that is part of it. Still, you know, AI, computers, the internet, blah blah blah, maybe that job should have gotten easier over time? ( Here is Warpspeed , “an AI superforecasting system for predicting clinical trial outcomes”: not exactly a computer telling you who will succeed at curing cancer, but kind of.) Thomas Philippon has a well-known 2015 paper finding that financial “intermediation has constant returns to scale and an annual cost of 1.5-2 percent of intermediated assets,” and that cost doesn’t seem to be going down : I find that the unit cost of intermediation is about as high today as it was at the turn of the 20th century. Improvements in information technologies do not appear to have led to a significant decrease in the unit cost of intermediation. Explaining this puzzle is an active area of research. So it is perhaps roughly correct to say that the cost of taking customers’ money, investing it in economic growth, and giving the customers back their share of that growth is about 1.5% a year or so. That might not be, like, the bare minimum cost. The financial industry might be collectively overpaid; there might be some structural reason that it can charge more than the actual cost of its services. But it’s a data point. That said, you don’t have to pay 1.5% for your share of economic growth. The Vanguard Group will sell you an index fund representing the whole US stock market, and will charge you an annual fee of 0.04%. That index fund is not exactly an investment in overall economic growth, for a variety of reasons. (It’s limited to equity claims on corporate profits, not debt claims or returns to labor or other components of economic growth; it’s limited to the US; it’s limited to public companies.) But it does feel, in some rough...",
       "publishedAt": "2026-04-21T19:17:26.862Z",
       "articleId": "7478357eb7d4bce5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-565",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-565.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Desmond Morris, RIP (NYT). 2. A long NYT feature on how to be cultured. 3. &#8220;We apply our theory to US state legislative elections, and find that ideologically extreme candidates receive significantly lower voter support in initiative than in non-initiative states.&#8221; 4. Guinea worm eradicated. 5. People laid off from USAID (NYT). 6. Ariel [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-21T17:34:33.000Z",
-      "articleId": "5f4be4a7b9bf32ff"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/half-a-month-of-consolation-writing",
@@ -1150,17 +1172,6 @@
       "articleId": "863f3651593498c1"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/myth-and-mythos/",
-      "title": "2026.15: Myth and Mythos",
-      "url": "https://stratechery.com/2026/myth-and-mythos/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of April 6, 2026, including Anthropic, The New York Times and another paradigm shift, and The New Yorker explains Sam Altman.",
-      "publishedAt": "2026-04-10T17:00:00.000Z",
-      "articleId": "881ae1d33fd64dfd"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/apply-for-invisible-college-2026",
       "title": "Apply for Invisible College 2026",
       "url": "https://www.worksinprogress.news/p/apply-for-invisible-college-2026",
@@ -1203,17 +1214,6 @@
       "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-04-09T16:03:28.424Z",
       "articleId": "e5581ce1080e43b7"
-    },
-    {
-      "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/o4y4izei3cm3mj3ifjwu.html",
-      "title": "The Brew Shop: Please Confirm Subscription",
-      "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/o4y4izei3cm3mj3ifjwu.html",
-      "source": "Brew Shop",
-      "sourceUrl": "https://www.arlbrew.com/",
-      "access": "open",
-      "summary": "The Brew Shop The Brew Shop Please Confirm Subscription Yes, subscribe me to this list. If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above. For questions about this list, please contact: beth@arlbrew.com",
-      "publishedAt": "2026-04-09T14:04:33.032Z",
-      "articleId": "4c20594a55a0937b"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/helium-is-hard-to-replace",
@@ -1852,28 +1852,6 @@
       "summary": "\"We cannot miss this moment because we are distracted by side quests,\" an exec said.",
       "publishedAt": "2026-03-25T19:00:57.000Z",
       "articleId": "5465d6511e497ebd"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/paid-subscriptions",
-      "title": "Paid subscriptions",
-      "url": "https://scottsumner.substack.com/p/paid-subscriptions",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Time to pay the piper",
-      "publishedAt": "2026-03-25T16:40:34.000Z",
-      "articleId": "ae314b5280d34aa6"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/every-debate-on-pausing-ai",
-      "title": "Every Debate On Pausing AI",
-      "url": "https://www.astralcodexten.com/p/every-debate-on-pausing-ai",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-25T15:26:07.000Z",
-      "articleId": "1dc8573208f03795"
     }
   ],
   "sources": [
