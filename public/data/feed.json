@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-24T19:11:32.264Z",
-  "fetchedAt": "2026-04-24T19:11:32.258Z",
+  "generatedAt": "2026-04-24T21:02:48.201Z",
+  "fetchedAt": "2026-04-24T21:02:48.195Z",
   "sourceCount": 21,
   "itemCount": 167,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/growth-is-getting-harder-to-find-not-ideas-2.html?utm_source=rss&utm_medium=rss&utm_campaign=growth-is-getting-harder-to-find-not-ideas-2",
+      "title": "Growth is getting harder to find, not ideas",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/growth-is-getting-harder-to-find-not-ideas-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Relatively flat US output growth versus rising numbers of US researchers is often interpreted as evidence that ideas are getting harder to find. We build a new 45-year panel tracking the universe of US firms’ patenting to investigate the micro underpinnings of this claim, separately examining the relationships between research inputs and ideas (patents) versus [&#8230;] The post Growth is getting harder to find, not ideas appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-24T19:31:53.000Z",
+      "articleId": "90965737bd572bd5"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/he-came-he-saw-he-cooked/",
       "title": "2026.17: He Came, He Saw, He Cooked",
@@ -510,17 +521,6 @@
       "summary": "We do not know whether technological unemployment swept across England in the wake of the British Industrial Revolution. In this paper, I propose an approach to quantify jobs lost to, and created by, creative destruction in the 19th century. Using over 170 million individual records from the full-count British census (1851–1911), I generate sub-industry “task” [&#8230;] The post Technological unemployment in Victorian Britain appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-22T04:36:08.000Z",
       "articleId": "2cd192bfe01ab657"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/images-2-0.html?utm_source=rss&utm_medium=rss&utm_campaign=images-2-0",
-      "title": "Imagegen 2.0",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/images-2-0.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Created by Alex T., and of course GPT as well. The post Imagegen 2.0 appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-21T19:47:44.000Z",
-      "articleId": "48ae84f9b8aab055"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/5apsocz8g5yfqifwy7dg.html",
@@ -1983,18 +1983,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
