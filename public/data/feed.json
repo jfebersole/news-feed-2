@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-24T21:02:48.201Z",
-  "fetchedAt": "2026-04-24T21:02:48.195Z",
+  "generatedAt": "2026-04-24T21:59:28.891Z",
+  "fetchedAt": "2026-04-24T21:59:28.886Z",
   "sourceCount": 21,
   "itemCount": 167,
-  "totalItemCount": 756,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/growth-is-getting-harder-to-find-not-ideas-2.html?utm_source=rss&utm_medium=rss&utm_campaign=growth-is-getting-harder-to-find-not-ideas-2",
@@ -1855,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 404 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
