@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-24T00:00:06.101Z",
-  "fetchedAt": "2026-04-24T00:00:06.095Z",
+  "generatedAt": "2026-04-24T03:47:15.276Z",
+  "fetchedAt": "2026-04-24T03:47:15.271Z",
   "sourceCount": 21,
-  "itemCount": 170,
+  "itemCount": 171,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7220007/2026/04/23/giants-nfl-draft-picks-2026-grades-scouting-reports/",
+      "title": "New York Giants NFL Draft 2026 pick tracker: Grades, fits and scouting reports",
+      "url": "https://www.nytimes.com/athletic/7220007/2026/04/23/giants-nfl-draft-picks-2026-grades-scouting-reports/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants opened Thursday's draft by selecting LB Arvell Reese at No. 5 overall and Miami OT Francis Mauigoa at No. 10.",
+      "publishedAt": "2026-04-24T01:30:42.000Z",
+      "articleId": "8231681385b65e33"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7212206/2026/04/23/arvell-reese-giants-ohio-state-nfl-draft-pick-5-2026/",
+      "title": "Ohio State's Arvell Reese selected by New York Giants with No. 5 pick in 2026 NFL Draft",
+      "url": "https://www.nytimes.com/athletic/7212206/2026/04/23/arvell-reese-giants-ohio-state-nfl-draft-pick-5-2026/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Reese started for only one season, but he broke out as an All-American and freakish athlete off the edge for an elite Ohio State defense.",
+      "publishedAt": "2026-04-24T00:39:58.000Z",
+      "articleId": "2511355cd8cb9905"
+    },
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
       "title": "Sign of the future: GPT-5.5",
@@ -169,17 +191,6 @@
       "summary": "Plus, a pair of veterans the Giants could target post-draft.",
       "publishedAt": "2026-04-23T09:30:26.000Z",
       "articleId": "63f61c273e09fa6f"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7220007/2026/04/23/giants-nfl-draft-picks-2026-grades-scouting-reports/",
-      "title": "New York Giants NFL Draft 2026 pick tracker: Grades, fits and scouting reports",
-      "url": "https://www.nytimes.com/athletic/7220007/2026/04/23/giants-nfl-draft-picks-2026-grades-scouting-reports/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The Giants own two of the draft's first 10 picks.",
-      "publishedAt": "2026-04-23T09:00:42.000Z",
-      "articleId": "8231681385b65e33"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/is-each-american-generation-doing-better.html?utm_source=rss&utm_medium=rss&utm_campaign=is-each-american-generation-doing-better",
@@ -1891,7 +1902,7 @@
       "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": "Status code 404 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
