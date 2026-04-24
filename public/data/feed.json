@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-24T17:11:33.064Z",
-  "fetchedAt": "2026-04-24T17:11:33.059Z",
+  "generatedAt": "2026-04-24T19:11:32.264Z",
+  "fetchedAt": "2026-04-24T19:11:32.258Z",
   "sourceCount": 21,
-  "itemCount": 168,
+  "itemCount": 167,
   "totalItemCount": 756,
   "items": [
     {
@@ -1841,17 +1841,6 @@
       "summary": "\"Our product will make you economically useless, and possibly kill you\" is not a value proposition.",
       "publishedAt": "2026-03-26T08:58:52.000Z",
       "articleId": "6c4e2dc4f0b26022"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/openai-is-shutting-down-sora-its",
-      "title": "OpenAI is shutting down Sora, its AI video app",
-      "url": "https://www.understandingai.org/p/openai-is-shutting-down-sora-its",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "\"We cannot miss this moment because we are distracted by side quests,\" an exec said.",
-      "publishedAt": "2026-03-25T19:00:57.000Z",
-      "articleId": "5465d6511e497ebd"
     }
   ],
   "sources": [
@@ -1994,18 +1983,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
