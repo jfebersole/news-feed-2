@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-24T23:53:44.126Z",
-  "fetchedAt": "2026-04-24T23:53:44.121Z",
+  "generatedAt": "2026-04-25T03:29:52.798Z",
+  "fetchedAt": "2026-04-25T03:29:52.794Z",
   "sourceCount": 21,
-  "itemCount": 169,
+  "itemCount": 173,
   "totalItemCount": 766,
   "items": [
     {
@@ -13,8 +13,30 @@
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
       "access": "paywalled",
       "summary": "The Giants opened Thursday's draft by selecting LB Arvell Reese at No. 5 overall and Miami OT Francis Mauigoa at No. 10.",
-      "publishedAt": "2026-04-24T23:50:42.000Z",
+      "publishedAt": "2026-04-25T02:35:42.000Z",
       "articleId": "f936388a63064e4b"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7203432/2026/04/24/malachi-fields-giants-notre-dame-nfl-draft-pick-74-2026/",
+      "title": "Notre Dame WR Malachi Fields selected by New York Giants at No. 74 in 2026 NFL Draft",
+      "url": "https://www.nytimes.com/athletic/7203432/2026/04/24/malachi-fields-giants-notre-dame-nfl-draft-pick-74-2026/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Notre Dame's Malachi Fields one-handed grab against Pitt is evidence of his contested catching ability.",
+      "publishedAt": "2026-04-25T01:52:25.000Z",
+      "articleId": "1b2323cb75edccc3"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7216301/2026/04/24/colton-hood-giants-tennessee-nfl-draft-pick-37-2026/",
+      "title": "New York Giants select cornerback Colton Hood with 37th pick in 2026 NFL Draft",
+      "url": "https://www.nytimes.com/athletic/7216301/2026/04/24/colton-hood-giants-tennessee-nfl-draft-pick-37-2026/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Hood was the No. 5 CB and No. 30 player in the draft, according to The Athletic's Dane Brugler.",
+      "publishedAt": "2026-04-24T23:29:24.000Z",
+      "articleId": "297a93a1688769e0"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-shoplifting-is-bad",
@@ -28,6 +50,17 @@
       "articleId": "01d5d0d37e0faaa9"
     },
     {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/denver-trenton-with-thin-air",
+      "title": "Denver: Trenton with Thin Air?",
+      "url": "https://walkingtheworld.substack.com/p/denver-trenton-with-thin-air",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Happy people dodging Lime scooters",
+      "publishedAt": "2026-04-24T22:07:17.000Z",
+      "articleId": "49d62772934c04da"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/what-the-offline-discourse-class",
       "title": "What the offline discourse class is talking about",
       "url": "https://www.slowboring.com/p/what-the-offline-discourse-class",
@@ -37,6 +70,17 @@
       "summary": "Swing-state letter writers are not arguing about whether petty theft is a new kind of political protest.",
       "publishedAt": "2026-04-24T22:01:39.000Z",
       "articleId": "2d071a0e923308e4"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/whos-afraid-of-the-money-supply",
+      "title": "Who's afraid of the money supply?",
+      "url": "https://scottsumner.substack.com/p/whos-afraid-of-the-money-supply",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "The taboo on money talk",
+      "publishedAt": "2026-04-24T21:34:24.000Z",
+      "articleId": "440b56d849f21adb"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/growth-is-getting-harder-to-find-not-ideas-2.html?utm_source=rss&utm_medium=rss&utm_campaign=growth-is-getting-harder-to-find-not-ideas-2",
