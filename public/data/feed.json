@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-25T15:54:03.839Z",
-  "fetchedAt": "2026-04-25T15:54:03.834Z",
+  "generatedAt": "2026-04-25T16:59:27.624Z",
+  "fetchedAt": "2026-04-25T16:59:27.619Z",
   "sourceCount": 21,
   "itemCount": 172,
-  "totalItemCount": 766,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-558.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-558",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-558.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Hedging the singularity? 2. Claude doing stand-up comedy, the video is AI too. 3. Thirty more lines from Empedocles have been found. 4. Latin America&#8217;s oil resurgence. 5. 25 dead at the Haitian Citadelle. 6. A paean to the earlier University of Chicago law school. 7. Can AI agents read a social science paper [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-25T16:32:34.000Z",
+      "articleId": "dd7176ab336cfdbb"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-042526",
       "title": "Reading List 04/25/26",
@@ -554,17 +565,6 @@
       "summary": "Professor Cowen, Built a county-level AI displacement model across all 3,204 US counties. Top 5 most exposed counties are all in the DC metro, not the Rust Belt. https://yourjobrisk.com https://jakeprokopets.substack.com/p/why-the-most-ai-exposed-counties 18, built it in three days. Jake Prokopets The post The exposed counties (from my email) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-22T18:03:23.000Z",
       "articleId": "2f1a6587101f1b9d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-550.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-550",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-550.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. On health care price transparency. 2. Interview with Sindarov&#8217;s trainer. 3. Tariff increases are contractionary. 4. Progress Conference 2026. 5. U.S. manufacturing capacity has been growing for sixteen consecutive quarters. 6. Dean Ball book on AI is coming. 7. DEI statement requirements in academic hiring have more than halved within a year. 8. Christopher [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-22T15:48:13.000Z",
-      "articleId": "909cb0509c3d4325"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-to-speed-up-clinical-trials",
@@ -1910,10 +1910,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
