@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-25T11:00:53.604Z",
-  "fetchedAt": "2026-04-25T11:00:53.595Z",
+  "generatedAt": "2026-04-25T11:51:02.394Z",
+  "fetchedAt": "2026-04-25T11:51:02.389Z",
   "sourceCount": 21,
   "itemCount": 172,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
+      "title": "The Political Defeats of Elon Musk",
+      "url": "https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "His political malpractice will loom large in the history of Trump 2.0.",
+      "publishedAt": "2026-04-25T11:47:50.000Z",
+      "articleId": "fab71567d7145dc1"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-pernicious-trade-account.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pernicious-trade-account",
+      "title": "The Pernicious Trade Account",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-pernicious-trade-account.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The trade accounts are among the most pernicious statistics ever collected. It&#8217;s long been remarked, for example, that merely by calling something a &#8220;deficit&#8221; it seems bad even though a current account deficit is matched by a financial account surplus. Put that issue aside, however, because the real problems are much deeper. The international accounts [&#8230;] The post The Pernicious Trade Account appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-25T11:19:22.000Z",
+      "articleId": "36a45bfb47b93ca2"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-20-24-2026",
       "title": "The Week That Was (April 20-24, 2026)",
@@ -532,17 +554,6 @@
       "summary": "1. On health care price transparency. 2. Interview with Sindarov&#8217;s trainer. 3. Tariff increases are contractionary. 4. Progress Conference 2026. 5. U.S. manufacturing capacity has been growing for sixteen consecutive quarters. 6. Dean Ball book on AI is coming. 7. DEI statement requirements in academic hiring have more than halved within a year. 8. Christopher [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-22T15:48:13.000Z",
       "articleId": "909cb0509c3d4325"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/ending-the-occupational-licensing-racket.html?utm_source=rss&utm_medium=rss&utm_campaign=ending-the-occupational-licensing-racket",
-      "title": "Ending the Occupational Licensing Racket",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/ending-the-occupational-licensing-racket.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "VinNews: The Rockland County Legislature approved amendments to the Home Improvement Law, dissolving the existing Home Improvement Licensing Board and shifting primary licensing authority to the Legislature itself&#8230;Under the new rules, the former licensing board will be reduced to an advisory role, losing its power to issue or revoke licenses. Licensing responsibilities will now fall [&#8230;] The post Ending the Occupational Licensing Racket appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-22T11:21:26.000Z",
-      "articleId": "4ef969dc9dfec8c8"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-to-speed-up-clinical-trials",
@@ -1885,17 +1896,6 @@
       "summary": "Television was the most eagerly anticipated technology of the postwar years. But it faced a terrible coordination problem.",
       "publishedAt": "2026-03-26T14:05:39.000Z",
       "articleId": "e58d063984a58c74"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/how-natural-tradeoff-and-failure",
-      "title": "How Natural Tradeoff And Failure Components?",
-      "url": "https://www.astralcodexten.com/p/how-natural-tradeoff-and-failure",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-26T11:17:22.000Z",
-      "articleId": "93c6fd7f8141580c"
     }
   ],
   "sources": [
