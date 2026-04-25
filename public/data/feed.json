@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-25T13:37:36.352Z",
-  "fetchedAt": "2026-04-25T13:37:36.346Z",
+  "generatedAt": "2026-04-25T14:58:13.026Z",
+  "fetchedAt": "2026-04-25T14:58:13.020Z",
   "sourceCount": 21,
   "itemCount": 172,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-042526",
+      "title": "Reading List 04/25/26",
+      "url": "https://www.construction-physics.com/p/reading-list-042526",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Transformer steel manufacturing, textile engineering, bringing power plants online quickly, infrasound, and more.",
+      "publishedAt": "2026-04-25T14:16:17.000Z",
+      "articleId": "8199f13b94b2e1c2"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
       "title": "The Political Defeats of Elon Musk",
@@ -1885,17 +1896,6 @@
       "summary": "On the Gay Ninetines and revivals",
       "publishedAt": "2026-03-26T17:31:01.000Z",
       "articleId": "929a5a3de9435cb4"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/how-live-sports-saved-television",
-      "title": "How live sports saved television",
-      "url": "https://www.worksinprogress.news/p/how-live-sports-saved-television",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Television was the most eagerly anticipated technology of the postwar years. But it faced a terrible coordination problem.",
-      "publishedAt": "2026-03-26T14:05:39.000Z",
-      "articleId": "e58d063984a58c74"
     }
   ],
   "sources": [
