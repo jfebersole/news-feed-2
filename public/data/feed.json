@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-25T16:59:27.624Z",
-  "fetchedAt": "2026-04-25T16:59:27.619Z",
+  "generatedAt": "2026-04-25T17:54:47.773Z",
+  "fetchedAt": "2026-04-25T17:54:47.768Z",
   "sourceCount": 21,
-  "itemCount": 172,
-  "totalItemCount": 757,
+  "itemCount": 170,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/saturday-assorted-links-558.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-558",
@@ -1095,17 +1095,6 @@
       "articleId": "b457f3ce4df38158"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/we-should-plan-for-success",
-      "title": "We should plan for success",
-      "url": "https://www.slowboring.com/p/we-should-plan-for-success",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Cities shouldn&#8217;t just settle for &#8220;enough&#8221; housing.",
-      "publishedAt": "2026-04-15T10:03:17.000Z",
-      "articleId": "32dbd82347a21c75"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
       "title": "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle",
       "url": "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
@@ -1885,17 +1874,6 @@
       "summary": "The just resentments of a shrinking middle class.",
       "publishedAt": "2026-03-26T19:41:16.000Z",
       "articleId": "fdf20f05ac3864b6"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/did-people-always-listen-to-old-music",
-      "title": "Nostalgia Isn't New",
-      "url": "https://www.cantgetmuchhigher.com/p/did-people-always-listen-to-old-music",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "On the Gay Ninetines and revivals",
-      "publishedAt": "2026-03-26T17:31:01.000Z",
-      "articleId": "929a5a3de9435cb4"
     }
   ],
   "sources": [
@@ -1910,10 +1888,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1991,7 +1969,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
