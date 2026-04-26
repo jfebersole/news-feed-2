@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-26T13:39:05.543Z",
-  "fetchedAt": "2026-04-26T13:39:05.538Z",
+  "generatedAt": "2026-04-26T14:59:20.919Z",
+  "fetchedAt": "2026-04-26T14:59:20.914Z",
   "sourceCount": 21,
-  "itemCount": 169,
+  "itemCount": 168,
   "totalItemCount": 765,
   "items": [
     {
@@ -1852,17 +1852,6 @@
       "summary": "...",
       "publishedAt": "2026-03-27T15:21:05.000Z",
       "articleId": "9920fdffcfd78d9f"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/the-algorithm-will-see-you-now-out",
-      "title": "The algorithm will see you now, Out Loud",
-      "url": "https://www.worksinprogress.news/p/the-algorithm-will-see-you-now-out",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Radiology combines digital images, clear benchmarks, and repeatable tasks. But replacing humans with AI is harder than it seems.",
-      "publishedAt": "2026-03-27T13:54:38.000Z",
-      "articleId": "2335bb0d9459a7e5"
     }
   ],
   "sources": [
