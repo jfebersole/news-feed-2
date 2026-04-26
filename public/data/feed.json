@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-26T21:52:04.831Z",
-  "fetchedAt": "2026-04-26T21:52:04.826Z",
+  "generatedAt": "2026-04-26T22:56:02.835Z",
+  "fetchedAt": "2026-04-26T22:56:02.830Z",
   "sourceCount": 21,
   "itemCount": 167,
-  "totalItemCount": 757,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/mushroom-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mushroom-facts-of-the-day",
@@ -1855,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
