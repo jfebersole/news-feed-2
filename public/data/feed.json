@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-26T11:52:34.957Z",
-  "fetchedAt": "2026-04-26T11:52:34.952Z",
+  "generatedAt": "2026-04-26T13:39:05.543Z",
+  "fetchedAt": "2026-04-26T13:39:05.538Z",
   "sourceCount": 21,
   "itemCount": 169,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-best-beatles-covers-comments",
+      "title": "The Best Beatles Covers: Comments",
+      "url": "https://www.cantgetmuchhigher.com/p/the-best-beatles-covers-comments",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Returning to the hot topic that got everybody talking",
+      "publishedAt": "2026-04-26T13:31:35.000Z",
+      "articleId": "e4e953ff720b239e"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
       "title": "Ukraine Has Picked Up the Torch America Dropped",
@@ -1852,17 +1863,6 @@
       "summary": "Radiology combines digital images, clear benchmarks, and repeatable tasks. But replacing humans with AI is harder than it seems.",
       "publishedAt": "2026-03-27T13:54:38.000Z",
       "articleId": "2335bb0d9459a7e5"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/the-age-of-the-amplifier",
-      "title": "The Age of the Amplifier",
-      "url": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "As we&#8217;ve noted more than a few times before, for most of the 20th century AT&T&#8217;s Bell Labs was the premier industrial research lab in the US.",
-      "publishedAt": "2026-03-27T12:00:44.000Z",
-      "articleId": "f42a8ee581a6b020"
     }
   ],
   "sources": [
