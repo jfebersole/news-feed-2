@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-26T14:59:20.919Z",
-  "fetchedAt": "2026-04-26T14:59:20.914Z",
+  "generatedAt": "2026-04-26T15:54:58.388Z",
+  "fetchedAt": "2026-04-26T15:54:58.383Z",
   "sourceCount": 21,
-  "itemCount": 168,
+  "itemCount": 166,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
+      "title": "Ukraine Has Picked Up the Torch America Dropped",
+      "url": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The world is looking to Volodymyr Zelensky for leadership.",
+      "publishedAt": "2026-04-26T15:54:45.000Z",
+      "articleId": "4de24e8dbda7cf18"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-best-beatles-covers-comments",
       "title": "The Best Beatles Covers: Comments",
@@ -15,17 +26,6 @@
       "summary": "Returning to the hot topic that got everybody talking",
       "publishedAt": "2026-04-26T13:31:35.000Z",
       "articleId": "e4e953ff720b239e"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
-      "title": "Ukraine Has Picked Up the Torch America Dropped",
-      "url": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The world is looking to Volodymyr Zelensky for leadership.",
-      "publishedAt": "2026-04-26T11:50:24.000Z",
-      "articleId": "4de24e8dbda7cf18"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-and-entrepreneurship",
@@ -1830,28 +1830,6 @@
       "summary": "A timely repost, with some needed clarifications.",
       "publishedAt": "2026-03-28T08:50:55.000Z",
       "articleId": "72fa1a3a4df82acb"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/its-time-to-tax-driverless-cars",
-      "title": "Escaping the Ogallala trap",
-      "url": "https://www.worksinprogress.news/p/its-time-to-tax-driverless-cars",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "There is a closing window to stop Waymos from creating omnigridlock.",
-      "publishedAt": "2026-03-27T15:22:47.000Z",
-      "articleId": "dd7c1b4f2ad53a8c"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/a-buddhist-sun-miracle",
-      "title": "A Buddhist Sun Miracle?",
-      "url": "https://www.astralcodexten.com/p/a-buddhist-sun-miracle",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-27T15:21:05.000Z",
-      "articleId": "9920fdffcfd78d9f"
     }
   ],
   "sources": [
