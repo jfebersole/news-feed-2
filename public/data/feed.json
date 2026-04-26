@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-26T08:21:38.205Z",
-  "fetchedAt": "2026-04-26T08:21:38.199Z",
+  "generatedAt": "2026-04-26T10:04:09.447Z",
+  "fetchedAt": "2026-04-26T10:04:09.437Z",
   "sourceCount": 21,
   "itemCount": 168,
-  "totalItemCount": 765,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-and-entrepreneurship",
+      "title": "Generative AI and Entrepreneurship",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper studies how Generative AI (Gen AI) is reshaping the U.S. startup ecosystem. Exploiting the release of ChatGPT, we show that startups with greater pre-release Gen AI task exposure reduced employment within two quarters, primarily among junior and implementation roles. Displaced workers experienced longer unemployment spells and moved to lower-paying but less exposed jobs. [&#8230;] The post Generative AI and Entrepreneurship appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-26T09:27:08.000Z",
+      "articleId": "b663543bb1954402"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/will-ai-save-the-u-s-fiscal-situation.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-save-the-u-s-fiscal-situation",
       "title": "Will AI save the U.S. fiscal situation?",
@@ -477,17 +488,6 @@
       "summary": "We construct a posttax, posttransfer income measure from 1963 to 2023 based on the Current Population Survey Annual Social and Economic Supplement that allows us to consistently compare the economic well-being of five generations of Americans at ages 36–40. We find that Millennials had a real median household income that was 20% higher than that [&#8230;] The post Is each American generation doing better? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-23T06:53:42.000Z",
       "articleId": "773ecb28d51b5439"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/those-old-factory-sector-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=those-old-factory-sector-jobs",
-      "title": "Those old factory sector jobs",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/those-old-factory-sector-jobs.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "As AI sweeps into white-collar workplaces, old-timey hands-on jobs are getting a new look—and some of those professions even have shortages. Consider tailors. Sewing is a vanishing skill, much like lacemaking and watchmaking, putting tailors in short supply when big retailers like Nordstrom and Men’s Wearhouse, as well as fashion designers and local dry cleaners, [&#8230;] The post Those old factory sector jobs appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-23T04:50:29.000Z",
-      "articleId": "89c1bef8a1f2eed8"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/on-redistricting-its-time-for-republicans",
@@ -1866,10 +1866,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
