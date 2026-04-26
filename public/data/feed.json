@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-26T15:54:58.388Z",
-  "fetchedAt": "2026-04-26T15:54:58.383Z",
+  "generatedAt": "2026-04-26T16:59:34.093Z",
+  "fetchedAt": "2026-04-26T16:59:34.088Z",
   "sourceCount": 21,
-  "itemCount": 166,
-  "totalItemCount": 765,
+  "itemCount": 167,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/sunday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-564",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/sunday-assorted-links-564.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Why AI can simulate but not instantiate consciousness. 2. Why you should start a company instead of working in aid. 3. Evidence that tennis has become less interesting? 4. A smidgen more on wet market origins. 5. Who is most (least) opposed to European immigration? 6. John Burn-Murdoch on the Jevons paradox and AI [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-26T16:50:03.000Z",
+      "articleId": "414ccd4908972e2d"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
       "title": "Ukraine Has Picked Up the Torch America Dropped",
@@ -26,6 +37,17 @@
       "summary": "Returning to the hot topic that got everybody talking",
       "publishedAt": "2026-04-26T13:31:35.000Z",
       "articleId": "e4e953ff720b239e"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-red-sox-cycle-comes-for-alex",
+      "title": "The Red Sox Cycle Comes for Alex Cora",
+      "url": "https://neilpaine.substack.com/p/the-red-sox-cycle-comes-for-alex",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Even Boston's most trusted manager couldn’t outrun the team's longstanding boom-or-bust identity.",
+      "publishedAt": "2026-04-26T12:51:59.000Z",
+      "articleId": "6abdec18395e0dca"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-and-entrepreneurship",
@@ -499,17 +521,6 @@
       "summary": "Plus, a pair of veterans the Giants could target post-draft.",
       "publishedAt": "2026-04-23T09:30:26.000Z",
       "articleId": "63f61c273e09fa6f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/is-each-american-generation-doing-better.html?utm_source=rss&utm_medium=rss&utm_campaign=is-each-american-generation-doing-better",
-      "title": "Is each American generation doing better?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/is-each-american-generation-doing-better.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We construct a posttax, posttransfer income measure from 1963 to 2023 based on the Current Population Survey Annual Social and Economic Supplement that allows us to consistently compare the economic well-being of five generations of Americans at ages 36–40. We find that Millennials had a real median household income that was 20% higher than that [&#8230;] The post Is each American generation doing better? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-23T06:53:42.000Z",
-      "articleId": "773ecb28d51b5439"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/on-redistricting-its-time-for-republicans",
@@ -1909,7 +1920,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
