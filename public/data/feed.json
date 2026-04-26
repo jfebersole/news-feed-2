@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-26T10:04:09.447Z",
-  "fetchedAt": "2026-04-26T10:04:09.437Z",
+  "generatedAt": "2026-04-26T11:02:00.097Z",
+  "fetchedAt": "2026-04-26T11:02:00.092Z",
   "sourceCount": 21,
-  "itemCount": 168,
-  "totalItemCount": 756,
+  "itemCount": 169,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
+      "title": "Ukraine Has Picked Up the Torch America Dropped",
+      "url": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The world is looking to Volodymyr Zelensky for leadership.",
+      "publishedAt": "2026-04-26T11:00:06.000Z",
+      "articleId": "4de24e8dbda7cf18"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-and-entrepreneurship",
       "title": "Generative AI and Entrepreneurship",
@@ -1866,10 +1877,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
