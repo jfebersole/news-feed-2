@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-27T06:40:24.018Z",
-  "fetchedAt": "2026-04-27T06:40:24.011Z",
+  "generatedAt": "2026-04-27T09:28:28.146Z",
+  "fetchedAt": "2026-04-27T09:28:28.142Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 757,
+  "itemCount": 166,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/on-health-care-price-transparency-from-the-comments.html?utm_source=rss&utm_medium=rss&utm_campaign=on-health-care-price-transparency-from-the-comments",
@@ -1830,17 +1830,6 @@
       "summary": "On happenstance, the perfect Japanese town, and why Japan appeals to the U.S.",
       "publishedAt": "2026-03-28T10:11:27.000Z",
       "articleId": "77fb59d27d165a23"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9",
-      "title": "Plentiful, high-paying jobs in the age of AI",
-      "url": "https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A timely repost, with some needed clarifications.",
-      "publishedAt": "2026-03-28T08:50:55.000Z",
-      "articleId": "72fa1a3a4df82acb"
     }
   ],
   "sources": [
@@ -1855,10 +1844,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
