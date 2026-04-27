@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-27T03:56:56.162Z",
-  "fetchedAt": "2026-04-27T03:56:56.156Z",
+  "generatedAt": "2026-04-27T06:40:24.018Z",
+  "fetchedAt": "2026-04-27T06:40:24.011Z",
   "sourceCount": 21,
   "itemCount": 167,
-  "totalItemCount": 766,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/on-health-care-price-transparency-from-the-comments.html?utm_source=rss&utm_medium=rss&utm_campaign=on-health-care-price-transparency-from-the-comments",
+      "title": "On health care price transparency (from the comments)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/on-health-care-price-transparency-from-the-comments.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From MR commentator Sure: Generally such figures do not reside within the physicians&#8217; office. On our side of the table we do some procedure with multiple specifications and generate some CPT code(s) (e.g. a lap cholycystectomy is 47562, add on a common bile duct exploration and it becomes a 47564, and if you just do [&#8230;] The post On health care price transparency (from the comments) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-27T05:11:48.000Z",
+      "articleId": "468fa1293a54cbd1"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/mushroom-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mushroom-facts-of-the-day",
       "title": "Mushroom facts of the day",
@@ -455,17 +466,6 @@
       "summary": "Because country doesn't just belong to America",
       "publishedAt": "2026-04-23T17:30:48.000Z",
       "articleId": "edf515754f6fda0b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-549.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-549",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-549.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The rise of Chinese micro-dramas. 2. Niklas Luhmann. 3. Why Rome never industrialized (YouTube video). 4. One account of the genocidal impulse. 5. Organs on demand? We will see. 6. U.S. at the Venice Biennial (NYT). 7. &#8220;Argentina’s economy shrank 2.6 per cent in February compared to January, the largest monthly contraction since President [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-23T16:06:06.000Z",
-      "articleId": "197ad03b76fefdbb"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/construction-costs-rarely-fall",
@@ -1855,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
