@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-27T20:18:00.252Z",
-  "fetchedAt": "2026-04-27T20:18:00.247Z",
+  "generatedAt": "2026-04-27T22:05:23.706Z",
+  "fetchedAt": "2026-04-27T22:05:23.702Z",
   "sourceCount": 21,
-  "itemCount": 164,
+  "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/maps-maps-and-more-maps",
+      "title": "Maps, maps, and more maps",
+      "url": "https://www.slowboring.com/p/maps-maps-and-more-maps",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The fight over congressional districts is entering its most consequential chapter yet.",
+      "publishedAt": "2026-04-27T22:00:54.000Z",
+      "articleId": "9a2715137ff1f134"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/virginia-woolf-on-writing",
+      "title": "Virginia Woolf on writing",
+      "url": "https://scottsumner.substack.com/p/virginia-woolf-on-writing",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "And the implications for blogging",
+      "publishedAt": "2026-04-27T18:51:05.000Z",
+      "articleId": "3fed9530c4d124fb"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
       "title": "Ukraine Has Picked Up the Torch America Dropped",
@@ -1093,17 +1115,6 @@
       "summary": "A breakthrough drug for pancreatic cancer, organ recovery, weight loss drugs that preserve muscle, a whole-cell simulation, how plants make nicotine, semaglutide fails for Alzheimer&#8217;s, and more.",
       "publishedAt": "2026-04-16T13:48:44.000Z",
       "articleId": "1e363c3e91201074"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/destroy-the-internet-to-save-it",
-      "title": "Destroy the internet to save it?",
-      "url": "https://www.slowboring.com/p/destroy-the-internet-to-save-it",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Jerusalem and I debate internet anonymity",
-      "publishedAt": "2026-04-16T10:03:24.000Z",
-      "articleId": "4d761af48cb55e11"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/",
