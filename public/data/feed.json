@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-27T11:58:19.471Z",
-  "fetchedAt": "2026-04-27T11:58:19.467Z",
+  "generatedAt": "2026-04-27T14:24:14.162Z",
+  "fetchedAt": "2026-04-27T14:24:14.158Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 766,
+  "itemCount": 165,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
+      "title": "Ukraine Has Picked Up the Torch America Dropped",
+      "url": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The world is looking to Volodymyr Zelensky for leadership.",
+      "publishedAt": "2026-04-27T13:53:53.000Z",
+      "articleId": "4de24e8dbda7cf18"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=dwarkesh",
       "title": "Dwarkesh!",
@@ -15,6 +26,17 @@
       "summary": "It&#8217;s been great to see Dwarkesh Patel rise to the top ranks of podcasters. The profile in the NYTimes is excellent. Dwarkesh&#8217;s success is his own but I couldn&#8217;t help but smile at the early, wacky GMU influences—all of which I can attest are true: Mr. Patel recorded the first episode of “The Lunar Society,” [&#8230;] The post Dwarkesh! appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-27T11:17:44.000Z",
       "articleId": "1f25784c75a89891"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-nuggets-are-running-out-of-time",
+      "title": "The Nuggets Are Running Out of Time With Nikola Jokić",
+      "url": "https://neilpaine.substack.com/p/the-nuggets-are-running-out-of-time",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Down 3-1, Denver faces elimination — and the prospect of another wasted year of all-time greatness.",
+      "publishedAt": "2026-04-27T10:03:27.000Z",
+      "articleId": "d5af3d9a0177569e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/where-doge-hit-dc-hardest",
@@ -103,17 +125,6 @@
       "summary": "1. Why AI can simulate but not instantiate consciousness. 2. Why you should start a company instead of working in aid. 3. Evidence that tennis has become less interesting? 4. A smidgen more on wet market origins. 5. Who is most (least) opposed to European immigration? 6. John Burn-Murdoch on the Jevons paradox and AI [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-26T16:50:03.000Z",
       "articleId": "414ccd4908972e2d"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
-      "title": "Ukraine Has Picked Up the Torch America Dropped",
-      "url": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The world is looking to Volodymyr Zelensky for leadership.",
-      "publishedAt": "2026-04-26T15:54:45.000Z",
-      "articleId": "4de24e8dbda7cf18"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-best-beatles-covers-comments",
@@ -543,17 +554,6 @@
       "summary": "There are great ideas that neither coalition wants to push for.",
       "publishedAt": "2026-04-23T10:03:19.000Z",
       "articleId": "dc08883f60136dda"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/after-fernando-mendoza-then-what",
-      "title": "After Fernando Mendoza, Then What?",
-      "url": "https://neilpaine.substack.com/p/after-fernando-mendoza-then-what",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Just how much of a \"one-QB draft\" is 2026? History says the gap between QB1 and QB2 matters more than you might think.",
-      "publishedAt": "2026-04-23T10:02:21.000Z",
-      "articleId": "24a9157d950d5358"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/",
@@ -1819,28 +1819,6 @@
       "summary": "Tyler Cowen's requiem for Chicago price theory",
       "publishedAt": "2026-03-28T17:05:13.000Z",
       "articleId": "9d48c7745ca42ec9"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
-      "title": "Is Religion Reviving or Declining? Both.",
-      "url": "https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "On the debate over the future of religious faith, and if it is expanding or not, in America.",
-      "publishedAt": "2026-03-28T13:33:02.000Z",
-      "articleId": "207746daef800da5"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-032826",
-      "title": "Reading List 03/28/26",
-      "url": "https://www.construction-physics.com/p/reading-list-032826",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Plastic price jumps, crypto-backed mortgages, a proposed AI data center pause, US battery manufacturing, and more.",
-      "publishedAt": "2026-03-28T12:02:28.000Z",
-      "articleId": "3c1074a4cf3d28de"
     }
   ],
   "sources": [
@@ -1864,7 +1842,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
