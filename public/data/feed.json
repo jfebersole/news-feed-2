@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-28T18:49:07.243Z",
-  "fetchedAt": "2026-04-28T18:49:07.238Z",
+  "generatedAt": "2026-04-28T20:38:06.393Z",
+  "fetchedAt": "2026-04-28T20:38:06.389Z",
   "sourceCount": 21,
-  "itemCount": 169,
-  "totalItemCount": 766,
+  "itemCount": 170,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-attempt-to-solve-debate-will",
+      "title": "Your Attempt To Solve Debate Will Not Work",
+      "url": "https://www.astralcodexten.com/p/your-attempt-to-solve-debate-will",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-04-28T19:55:10.000Z",
+      "articleId": "fff46ee2c3e8487e"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/yfygi1pz295dpmqrxmwa.html",
+      "title": "Money Stuff: The Robots Make the Predictions",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/yfygi1pz295dpmqrxmwa.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Bots, OBDC II, Rivian, Claude, WLF, Boardy. View in browser Polymarket bots I wrote last week that, in investing, “There’s no magic, no dark matter, no other source of gains. Everyone’s gains come from (1) economic growth and (2) other people’s losses.” In the aggregate, everyone gets the market return, which comes from allocating capital to economic growth. Some people get more and others get less, but they necessarily cancel each other out. People invest anyway, though, because allocating capital to economic growth is a good long-term proposition. Prediction markets don’t have that. People put $1 into a prediction market event contract, and at resolution it pays out $1 to the winner. There is no investment in economic growth, no source of long-term returns; everyone’s winnings come from someone else’s losses. In the stock market, there are big high-frequency trading firms that make markets for retail investors, selling to investors who want to buy and buying from investors who want to sell. Those firms tend to make a lot of money. As a first cut, the money they make comes from the regular investors. (Who else could it come from?) Retail investors regularly get angry about this . But retail investing is still, you know, good. It is still positive-sum: Retail investors are in aggregate putting their money into companies and profiting from overall economic growth. It is possible, likely even, that (1) big electronic market making firms make billions of dollars off of retail stock investors and (2) those retail stock investors also make billions of dollars themselves. It is nice to play a positive-sum game. Stock options, I don’t know, man. Big electronic trading firms also increasingly make markets in prediction markets. What conclusion can you draw from that? The extremely obvious one , surely? “Big electronic trading firms are not idiots or charities, they reasonably plan to make a lot of money in prediction markets, that money has to come at the expense of regular retail traders on prediction markets, and since there is no other source of profits in prediction markets, that means that prediction markets are a negative-sum game for retail traders.” It is embarrassing to type this. “Sports gamblers lose money on average,” yes, duh. Anyway Bloomberg’s Carolyn Silverman, Nathaniel Popper and Marie Patino report : Over 100,000 accounts lost at least $1,000 on Polymarket, one of the largest prediction markets, according to a Bloomberg News analysis of every wallet active since the beginning of 2025. That is almost twice the number that made at least that much. Among the winners, a majority of the profits were raked in by a tiny slice of what look to be automated bots, based on the Polymarket trade records compiled by the data firm Dune....",
+      "publishedAt": "2026-04-28T19:07:40.923Z",
+      "articleId": "08dd539882d0002b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-566",
       "title": "Tuesday assorted links",
@@ -1139,17 +1161,6 @@
       "articleId": "baef03027ba02592"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/vv2j3ihdlrazajzuvozg.html",
-      "title": "Money Stuff: Tax Alpha Needs Some Real Alpha",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/vv2j3ihdlrazajzuvozg.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Tax, tokens, proxies, trucks, pivots. View in browser Pre-tax alpha We talked last month about tax alpha. The basic idea is that it is hard to beat the market by buying the stocks that go up and avoiding the stocks that go down. It is, however, relatively easy to buy some stocks that go up and other stocks that go down . Owning stocks that go up is good (you have more money), and owning stocks that go down is also good: You sell them, realize a tax loss, and use that loss to offset other gains and reduce your taxes. [1] This is pretty straightforward; it is called “tax-loss harvesting” and lots of financial advisers and robo-advisers will do it for you. But some money managers will scale it up for you. You can borrow money to buy more stocks, generating both more gains and more tax losses. This increases your market risk — owning $200 of stocks with leverage is riskier than owning $100 of stocks without leverage, even after the tax benefits — but you can offset that risk, and generate even more tax benefits, by shorting some stocks. Put in $100, buy $200 of stocks, short $100 of stocks: Now you are net long $100 of stocks. Some of your longs will go up and some of your shorts will go down and you will make money; other longs will go down and shorts will go up and you will generate tax losses. [2] Overall, if you are long and short reasonably well-constructed diversified baskets of stocks (say, randomly sampling 200 long stocks and 100 short stocks from the index), you should expect to generate roughly the market return on $100 of stocks, but with some extra tax juice. Now, there is a long history of hedge funds — “long/short equity funds” — that take $100, buy $200 of stocks and short $100 of other stocks, for a $100 net long position. These hedge funds traditionally do not care about harvesting tax losses. For one thing, many of their clients are tax-exempt and pay them only for pretax profits; for another thing, they are trying not to have losses . The goal of a traditional long/short equity fund manager is to (1) buy $200 of stocks that go up and (2) short $100 of stocks that go down. Obviously this is hard — harder than generating the market return — but that’s why hedge fund managers, traditionally, get paid the big bucks. These hedge funds are charging for alpha , for market-beating returns. My point was that beating the market — generating pre-tax alpha — is pretty hard, because you have to pick the stocks that will go up, while generating tax savings is pretty easy, because any diversified basket of stocks will have winners and losers and you can gross it up mechanically to generate a lot of tax losses while still earning roughly a market return. And so tax alpha should be a much more mass-market product than pre-tax alpha....",
-      "publishedAt": "2026-04-16T20:19:38.113Z",
-      "articleId": "d999c1f5e0a1c0bf"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-the-rock-and-roll-hall-of-fame",
       "title": "When the Rock Hall is Wrong",
       "url": "https://www.cantgetmuchhigher.com/p/what-the-rock-and-roll-hall-of-fame",
@@ -1886,7 +1897,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
