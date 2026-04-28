@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-28T20:38:06.393Z",
-  "fetchedAt": "2026-04-28T20:38:06.389Z",
+  "generatedAt": "2026-04-28T22:09:51.439Z",
+  "fetchedAt": "2026-04-28T22:09:51.434Z",
   "sourceCount": 21,
-  "itemCount": 170,
-  "totalItemCount": 767,
+  "itemCount": 169,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-attempt-to-solve-debate-will",
@@ -37,6 +37,17 @@
       "summary": "1. AI as palm reader? 2. &#8220;why we need to train models to learn their own capabilities, and how this will help them bid for work!&#8221; 3. Labor markets effects of AI. 4. Is Bob Dylan a liberal? 5. Retirement accelerates cognitive decline. 6. The natural resource sector in Africa is overrated (2023). 7. Productivity [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-28T18:38:21.000Z",
       "articleId": "a5071775b3325beb"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/rob-thomson-was-the-phillies-fixer",
+      "title": "Rob Thomson Was the Phillies' Fixer — Until He Became Their Next Fix",
+      "url": "https://neilpaine.substack.com/p/rob-thomson-was-the-phillies-fixer",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Thomson once unlocked Philly's potential in ways others couldn't. Now he's getting the same treatment they did.",
+      "publishedAt": "2026-04-28T17:06:44.000Z",
+      "articleId": "78baac35d5655103"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
@@ -433,17 +444,6 @@
       "summary": "The trade accounts are among the most pernicious statistics ever collected. It&#8217;s long been remarked, for example, that merely by calling something a &#8220;deficit&#8221; it seems bad even though a current account deficit is matched by a financial account surplus. Put that issue aside, however, because the real problems are much deeper. The international accounts [&#8230;] The post The Pernicious Trade Account appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-25T11:19:22.000Z",
       "articleId": "36a45bfb47b93ca2"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-20-24-2026",
-      "title": "The Week That Was (April 20-24, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-april-20-24-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-04-25T09:57:51.000Z",
-      "articleId": "874aa41109edfa6c"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7203432/2026/04/24/malachi-fields-giants-notre-dame-nfl-draft-pick-74-2026/",
@@ -1137,17 +1137,6 @@
       "summary": "Competition makes capitalism work. A new method for measuring it may be the holy grail of economic regulation.",
       "publishedAt": "2026-04-17T11:25:44.000Z",
       "articleId": "d188d07006b60a05"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/its-not-bad-marketing-from-ai-companies",
-      "title": "It’s not “bad marketing” from A.I. companies",
-      "url": "https://www.slowboring.com/p/its-not-bad-marketing-from-ai-companies",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus progressive mayors, Vice President Henry Clay, and how Trump could be impeached",
-      "publishedAt": "2026-04-17T10:02:10.000Z",
-      "articleId": "e794d6935945035e"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7202783/2026/04/17/new-york-giants-draft-trade-scenarios/",
@@ -1969,7 +1958,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
