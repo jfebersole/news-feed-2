@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-28T14:39:35.283Z",
-  "fetchedAt": "2026-04-28T14:39:35.278Z",
+  "generatedAt": "2026-04-28T17:02:17.965Z",
+  "fetchedAt": "2026-04-28T17:02:17.960Z",
   "sourceCount": 21,
   "itemCount": 169,
-  "totalItemCount": 757,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman about their new partnership, plus my thoughts on OpenAI and Microsoft's new deal.",
+      "publishedAt": "2026-04-28T17:00:00.000Z",
+      "articleId": "2c4e73c151b618d7"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-triumph-of-logical-english-out",
       "title": "The triumph of logical English, Out loud",
@@ -1271,17 +1282,6 @@
       "articleId": "7785ed14866d2c23"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
-      "title": "OpenAI’s Memos, Frontier, Amazon and Anthropic",
-      "url": "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise.",
-      "publishedAt": "2026-04-14T10:00:00.000Z",
-      "articleId": "d7971f6b58dfa6de"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
       "title": "The secrets of the Shinkansen",
       "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
@@ -1877,10 +1877,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -2005,10 +2005,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
