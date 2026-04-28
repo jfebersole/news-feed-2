@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-28T12:01:35.299Z",
-  "fetchedAt": "2026-04-28T12:01:35.292Z",
+  "generatedAt": "2026-04-28T14:39:35.283Z",
+  "fetchedAt": "2026-04-28T14:39:35.278Z",
   "sourceCount": 21,
-  "itemCount": 168,
-  "totalItemCount": 766,
+  "itemCount": 169,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-triumph-of-logical-english-out",
+      "title": "The triumph of logical English, Out loud",
+      "url": "https://www.worksinprogress.news/p/the-triumph-of-logical-english-out",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "English prose has become much easier to read. But shorter sentences had little to do with it.",
+      "publishedAt": "2026-04-28T14:03:10.000Z",
+      "articleId": "05e2771d7886ff33"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-switch-ups",
+      "title": "An Album a Day: Switch-Ups",
+      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-switch-ups",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Alanis Morissette, the Black Eyed Peas, the Goo Goo Dolls, and others",
+      "publishedAt": "2026-04-28T13:30:57.000Z",
+      "articleId": "947781eae8c45242"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-british-nuclear-flopped",
       "title": "Why British nuclear flopped",
@@ -29,14 +51,25 @@
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/hud-says-its-legal-to-tell-the-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=hud-says-its-legal-to-tell-the-truth",
-      "title": "HUD Says Realtors Can Speak the Truth",
+      "title": "HUD Says Realtors Can Now Speak the Truth",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/04/hud-says-its-legal-to-tell-the-truth.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "HUD: The U.S. Department of Housing and Urban Development (HUD) sent a “Dear Colleague” letter to real estate professionals clarifying they are not violating the Fair Housing Act when they share information with prospective homebuyers about neighborhood crime rates and school quality data. “Buying a home is one on the most significant decisions a family [&#8230;] The post HUD Says Realtors Can Speak the Truth appeared first on Marginal REVOLUTION .",
+      "summary": "HUD: The U.S. Department of Housing and Urban Development (HUD) sent a “Dear Colleague” letter to real estate professionals clarifying they are not violating the Fair Housing Act when they share information with prospective homebuyers about neighborhood crime rates and school quality data. “Buying a home is one on the most significant decisions a family [&#8230;] The post HUD Says Realtors Can Now Speak the Truth appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-28T11:18:14.000Z",
       "articleId": "8eed542b0772524d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/minnesota-and-dallas-are-still-settling",
+      "title": "Minnesota and Dallas Are Still Settling Their Hockey Divorce",
+      "url": "https://neilpaine.substack.com/p/minnesota-and-dallas-are-still-settling",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Three decades after the messy split, the Stars and Wild are still working through their old business — and this time, it could go the distance.",
+      "publishedAt": "2026-04-28T10:03:25.000Z",
+      "articleId": "956093f72a10557b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-radical-idea-for-breaking-the-cycle",
@@ -499,17 +532,6 @@
       "summary": "Plus ties, Mamdani, the Obama legacy, and fundraising&#8217;s diminishing returns",
       "publishedAt": "2026-04-24T10:03:26.000Z",
       "articleId": "10c42a040956c620"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-nl-east-is-reverting-to-historical",
-      "title": "The NL East Is Reverting to Historical Form",
-      "url": "https://neilpaine.substack.com/p/the-nl-east-is-reverting-to-historical",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "This division feels historically familiar again, with expensive underachievers, rebuilding also-rans... and the Braves picking up the pieces.",
-      "publishedAt": "2026-04-24T10:03:18.000Z",
-      "articleId": "48bbfc714cd2fe1e"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7224371/2026/04/24/giants-nfl-draft-analysis-reese-mauigoa/",
@@ -1841,17 +1863,6 @@
       "summary": "The Iran War is illustrating the cost of anti-EV nonsense.",
       "publishedAt": "2026-03-30T02:08:06.000Z",
       "articleId": "05c70b48f681f269"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-ai-really-fooling-people-mailbag",
-      "title": "Is AI Really Fooling People? Mailbag",
-      "url": "https://www.cantgetmuchhigher.com/p/is-ai-really-fooling-people-mailbag",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "This month we dive into questions about Bob Marley, fade outs, and solo stars",
-      "publishedAt": "2026-03-29T13:30:45.000Z",
-      "articleId": "905c87c86f8e0751"
     }
   ],
   "sources": [
@@ -1866,10 +1877,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -2002,10 +2013,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
