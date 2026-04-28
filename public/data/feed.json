@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-28T17:02:17.965Z",
-  "fetchedAt": "2026-04-28T17:02:17.960Z",
+  "generatedAt": "2026-04-28T18:49:07.243Z",
+  "fetchedAt": "2026-04-28T18:49:07.238Z",
   "sourceCount": 21,
   "itemCount": 169,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-566",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-566.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. AI as palm reader? 2. &#8220;why we need to train models to learn their own capabilities, and how this will help them bid for work!&#8221; 3. Labor markets effects of AI. 4. Is Bob Dylan a liberal? 5. Retirement accelerates cognitive decline. 6. The natural resource sector in Africa is overrated (2023). 7. Productivity [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-28T18:38:21.000Z",
+      "articleId": "a5071775b3325beb"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
       "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
@@ -411,17 +422,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-04-25T09:57:51.000Z",
       "articleId": "874aa41109edfa6c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/more-on-sir-thomas-gresham-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-sir-thomas-gresham-from-my-email",
-      "title": "More on Sir Thomas Gresham (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/more-on-sir-thomas-gresham-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "&#8230;Double-entry book-keeping &#8211; John and I believe, with some evidence, that he may well have been the person to bring double-entry book-keeping to the UK from the Low Countries. In turn an Italian invention of the 13th century&#8230; Business exchanges rather than markets &#8211; Gresham certainly brought the idea of an exchange or bourse from [&#8230;] The post More on Sir Thomas Gresham (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-25T07:31:04.000Z",
-      "articleId": "5d1204af4a3f21eb"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7203432/2026/04/24/malachi-fields-giants-notre-dame-nfl-draft-pick-74-2026/",
@@ -2005,10 +2005,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
