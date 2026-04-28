@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-28T06:42:09.670Z",
-  "fetchedAt": "2026-04-28T06:42:09.665Z",
+  "generatedAt": "2026-04-28T09:32:09.226Z",
+  "fetchedAt": "2026-04-28T09:32:09.221Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 166,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7236468/2026/04/28/new-york-giants-draft-board-rank-notebook/",
+      "title": "If Arvell Reese wasn't available, who would the Giants have taken?: Draft notebook",
+      "url": "https://www.nytimes.com/athletic/7236468/2026/04/28/new-york-giants-draft-board-rank-notebook/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Plus, Mauigoa's back, the Thibodeaux trade talks, and more from draft weekend.",
+      "publishedAt": "2026-04-28T09:30:44.000Z",
+      "articleId": "a19c039040b0385d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/eu-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=eu-fact-of-the-day",
+      "title": "EU fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/eu-fact-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "You do not hear this point made too often, yet it is true: Very interesting new study finding that *even in large European cities*, in most places it is easier to access opportunities by car than by public transport https://arxiv.org/pdf/2604.01019 The exceptions are Paris, Zurich and the innermost parts of Milan and Barcelona That is [&#8230;] The post EU fact of the day appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-28T06:51:19.000Z",
+      "articleId": "66648e07795cccf0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/how-reform-happens.html?utm_source=rss&utm_medium=rss&utm_campaign=how-reform-happens",
       "title": "How Reform Happens",
@@ -411,17 +433,6 @@
       "summary": "The best Stratechery content from the week of April 27, 2026, including the end of the Tim Cook era, Cursor and SpaceX, and the various fronts of Cold War 2.0.",
       "publishedAt": "2026-04-24T17:00:00.000Z",
       "articleId": "b22285163b37ce9d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-569",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/friday-assorted-links-569.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Luis Garicano on the task is not the job. And jobs and the Jevons paradox. 2. The lived experience of aphantasia. 3. Shruti on delimitation in India. 4. Why is Yi Yi so good? 5. Leibniz on symbolic computation, from the unpublished papers. 6. A History of Christian Political Economy, by Ballor and Matson. [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-24T16:17:29.000Z",
-      "articleId": "dfb11e0fb7e7fb96"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/udad0xg9d3vwg7pgmcij.html",
@@ -1961,18 +1972,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
