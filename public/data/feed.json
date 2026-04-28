@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-28T04:02:45.447Z",
-  "fetchedAt": "2026-04-28T04:02:45.441Z",
+  "generatedAt": "2026-04-28T06:42:09.670Z",
+  "fetchedAt": "2026-04-28T06:42:09.665Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/how-reform-happens.html?utm_source=rss&utm_medium=rss&utm_campaign=how-reform-happens",
+      "title": "How Reform Happens",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/how-reform-happens.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "What determines whether and how regulations are reformed? We use a newly constructed data set of 3,590 successful and failed regulatory reforms in 189 countries, between 2005 and 2022, to address this question. We document that regulations have become more business friendly in some regulatory domains but not others. We also show that regulations are [&#8230;] The post How Reform Happens appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-28T05:01:29.000Z",
+      "articleId": "33ff0ffa9d7ad703"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/maps-maps-and-more-maps",
       "title": "Maps, maps, and more maps",
@@ -466,17 +477,6 @@
       "summary": "This division feels historically familiar again, with expensive underachievers, rebuilding also-rans... and the Braves picking up the pieces.",
       "publishedAt": "2026-04-24T10:03:18.000Z",
       "articleId": "48bbfc714cd2fe1e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/which-workers-are-using-ai-the-most-and-best.html?utm_source=rss&utm_medium=rss&utm_campaign=which-workers-are-using-ai-the-most-and-best",
-      "title": "Which workers are using AI the most and best?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/which-workers-are-using-ai-the-most-and-best.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An FT poll of 4,000 workers in the US and UK shows adoption is heavily skewed towards the best-paid workers: more than 60 per cent use AI daily, compared with just 16 per cent of the lower earners. Link here. Note also that the youngest workers are not those who use AI the most, rather it [&#8230;] The post Which workers are using AI the most and best? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-24T08:52:17.000Z",
-      "articleId": "daf3b08c8bffd04e"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7224371/2026/04/24/giants-nfl-draft-analysis-reese-mauigoa/",
@@ -1961,18 +1961,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
