@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-29T11:53:42.115Z",
-  "fetchedAt": "2026-04-29T11:53:42.109Z",
+  "generatedAt": "2026-04-29T14:28:12.509Z",
+  "fetchedAt": "2026-04-29T14:28:12.506Z",
   "sourceCount": 21,
-  "itemCount": 169,
+  "itemCount": 170,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Benjamin Spock told mothers in the mid twentieth century to buy six dozen cloth diapers and a covered pail. Within a decade, both were obsolete.",
+      "publishedAt": "2026-04-29T13:03:25.000Z",
+      "articleId": "6dfcbc79d3bc06dc"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/capitalism-and-modernity.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalism-and-modernity",
       "title": "Capitalism and Modernity",
@@ -37,6 +48,17 @@
       "summary": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
       "publishedAt": "2026-04-29T10:00:00.000Z",
       "articleId": "6d733d2dc93c1a12"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/when-dale-earnhardt-jr-stepped-out",
+      "title": "When Dale Earnhardt Jr. Stepped Out of His Dad's Shadow in Texas",
+      "url": "https://neilpaine.substack.com/p/when-dale-earnhardt-jr-stepped-out",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The first win of Junior's career signaled that he had the speed to back up his famous name.",
+      "publishedAt": "2026-04-29T09:58:48.000Z",
+      "articleId": "84caaa9a39a64550"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/are-we-finally-seeing-some-market-clearing-prices-for-movies.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-finally-seeing-some-market-clearing-prices-for-movies",
@@ -422,17 +444,6 @@
       "summary": "Returning to the hot topic that got everybody talking",
       "publishedAt": "2026-04-26T13:31:35.000Z",
       "articleId": "e4e953ff720b239e"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-red-sox-cycle-comes-for-alex",
-      "title": "The Red Sox Cycle Comes for Alex Cora",
-      "url": "https://neilpaine.substack.com/p/the-red-sox-cycle-comes-for-alex",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Even Boston's most trusted manager couldn’t outrun the team's longstanding boom-or-bust identity.",
-      "publishedAt": "2026-04-26T12:51:59.000Z",
-      "articleId": "6abdec18395e0dca"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-and-entrepreneurship",
