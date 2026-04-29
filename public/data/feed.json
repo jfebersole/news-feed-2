@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-04-29T20:19:12.548Z",
-  "fetchedAt": "2026-04-29T20:19:12.544Z",
+  "generatedAt": "2026-04-29T22:09:48.922Z",
+  "fetchedAt": "2026-04-29T22:09:48.917Z",
   "sourceCount": 21,
-  "itemCount": 170,
-  "totalItemCount": 766,
+  "itemCount": 171,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-strong-month-in-a-fragile-market",
+      "title": "A strong month in a fragile market",
+      "url": "https://www.slowboring.com/p/a-strong-month-in-a-fragile-market",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "March data shows momentum, but a build-to-rent crackdown and tighter capital markets threaten to stall future supply.",
+      "publishedAt": "2026-04-29T22:01:11.000Z",
+      "articleId": "29dc02fcdc871a1c"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hm2q3r1d7v1xxcmqrds1.html",
+      "title": "Money Stuff: Short-Swing Short Squeeze",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hm2q3r1d7v1xxcmqrds1.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff CAR, PSUS, LPAC, books, inspiration. View in browser Avis Over the past few weeks, Avis Budget Group Inc. had a short squeeze. (We talked about it a couple of weeks ago .) Two hedge funds, SRS Investment Management LLC and Pentwater Capital Management LP, owned about 69% of its stock, or 108% (!) if you include derivative positions. Other invetors were at one point short something like 49% of its stock. This apparently became unsustainable, some short sellers capitulated and had to buy back the stock, and the stock ripped up. [1] And then it ended. The stock closed at $99.90 on March 20, got all the way to $713.97 on April 21, and closed yesterday at $182. On paper, the winners of this short squeeze, at its peak last week, were (1) Avis, which became vastly more valuable over the course of a few weeks, and (2) Pentwater and SRS, who had billions of dollars of paper profits on their Avis positions. But what could they do about it? The obvious answer, when your stock is up 600%, is to sell some stock. But Avis, Pentwater and SRS were all legally constrained from selling during the squeeze: Avis was in a blackout period: Its quarter ended March 31, it announced earnings this morning , and for the entire short squeeze it had material nonpublic information and could not legally trade. (Companies traditionally don’t trade in their stock between the end of a quarter and the earnings announcement, on the theory that they know a lot about last quarter’s earnings but the market doesn’t.) So, although Avis actually announced an at-the-market stock offering on March 27 , it has not sold any shares yet. [2] SRS, which owns about 49% of Avis and has a board seat, was in the same boat: It had inside information about the quarter, and has an agreement with Avis not to trade during Avis’s blackout periods. (Also it is presumably a long-term investor and might not want to sell.) Pentwater is not exactly an insider — no board seat, just a big outside shareholder — and so could theoretically sell. But a different sort of insider trading law constrains Pentwater, the “Section 16 short-swing profit rules.” Section 16(b) of the Securities Exchange Act restricts stock trading by certain “insiders,” including not just directors and officers but also 10% shareholders, which Pentwater is. “For the purpose of preventing the unfair use of information which may have been obtained by such beneficial owner,” says the law, “any profit realized by him from any purchase and sale, or any sale and purchase, of any equity security of such issuer … within any period of less than six months … shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such beneficial owner.” That is: If you own 10% of a company’s stock, and you buy stock and...",
+      "publishedAt": "2026-04-29T20:43:47.938Z",
+      "articleId": "994b77f3acaac074"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-551.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-551",
       "title": "Wednesday assorted links",
@@ -972,17 +994,6 @@
       "summary": "The lesson for Republicans comes too late, but liberals can still learn from the end of Orbanism.",
       "publishedAt": "2026-04-20T20:01:11.000Z",
       "articleId": "798061874ea82820"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/tzsqkc1et4ur9fsqkxkv.html",
-      "title": "Money Stuff: The SEC Can’t Find Victims",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/tzsqkc1et4ur9fsqkxkv.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Disgorgement, cyclicality, interception. View in browser Disgorgement In 2022, Elon Musk bought about 9% of the stock of Twitter Inc. US securities laws at the time required him to disclose his stake within 10 days after he acquired 5% of the stock. He hit 5% on March 14, 2022, so his deadline to disclose the stake was March 24. He didn’t file the disclosure, and kept secretly buying more stock. When he ultimately disclosed his ownership on April 4, 11 days late, Twitter’s stock predictably jumped, as the market (correctly) anticipated that he would buy the whole company at a premium. Had he followed the law and disclosed his stake earlier, the stock (presumably) would have jumped earlier. But he didn’t , and from March 24 through April 3, he bought about 13 million more shares at lower, pre-disclosure prices. On some simple math , Musk saved about $143 million by illegally waiting to disclose his purchases so he could buy more in secret. [1] There is really nothing more to it than that: Musk broke the law, and he made tens of millions of dollars by breaking the law, and in 2025 the US Securities and Exchange Commission sued to make him give the money back . [2] But: Give the money back to whom? Musk bought about 13 million Twitter shares in illegal secrecy, paying about $39 per share. Had he made the required disclosures, he would probably have paid about $50 per share. If he saved $11 per share, then it stands to reason that the people who sold him the stock each lost about $11 per share. He should give them the money. There are some problems with this reasoning, though. For one thing, it is pretty hard to trace US stock transactions; Musk doesn’t know who sold him his stock, and those people don’t know they sold to Musk. Probably, he bought most of that stock from market makers, banks and electronic trading firms, who tend to be involved in most US stock trades. But the market makers did not, in any obvious sense, lose $11 per share on their Musk trades. They probably bought the stock from somebody else, at right around $39 per share, seconds before or after they sold it to Musk. They are not particularly sympathetic victims, and if they got the money it would be a pure windfall. Perhaps Musk should give them the money and they should give it to the people they bought the stock from, but those people might also have been electronic trading firms; there is no sensible way to find the ultimate “victims.” Also, even if you could find some individual investor who sold stock to Musk at $39, so what? Nobody forced that person to sell. If Musk had never bought any Twitter stock, she probably would still have sold at $39. Perhaps in some sense she was deceived about the value of the company; perhaps she thought “this company is not worth a...",
-      "publishedAt": "2026-04-20T17:09:00.626Z",
-      "articleId": "3d948529fbfb473f"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
@@ -1969,7 +1980,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
