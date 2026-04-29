@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-29T16:51:37.774Z",
-  "fetchedAt": "2026-04-29T16:51:37.769Z",
+  "generatedAt": "2026-04-29T18:23:53.139Z",
+  "fetchedAt": "2026-04-29T18:23:53.134Z",
   "sourceCount": 21,
-  "itemCount": 171,
+  "itemCount": 170,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-551.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-551",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/wednesday-assorted-links-551.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. How to euthanise a whale. 2. Will MacAskill and Rob Wiblin podcast. 3. Citation cartels? 4. Nick Pope died too early (NYT). 5. Estimating the returns to education, adjusting for genes. 6. Professor Slop. 7. On the UAE leaving OPEC. 8. Beyond the valley of the goblins. The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-29T17:04:43.000Z",
+      "articleId": "f94336e64336940a"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7240433/2026/04/29/shelby-harris-free-agent-new-york-giants/",
       "title": "Giants to sign free-agent DT Shelby Harris, part of D-line rebuild: Source",
@@ -455,17 +466,6 @@
       "summary": "Returning to the hot topic that got everybody talking",
       "publishedAt": "2026-04-26T13:31:35.000Z",
       "articleId": "e4e953ff720b239e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html?utm_source=rss&utm_medium=rss&utm_campaign=generative-ai-and-entrepreneurship",
-      "title": "Generative AI and Entrepreneurship",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/generative-ai-and-entrepreneurship.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper studies how Generative AI (Gen AI) is reshaping the U.S. startup ecosystem. Exploiting the release of ChatGPT, we show that startups with greater pre-release Gen AI task exposure reduced employment within two quarters, primarily among junior and implementation roles. Displaced workers experienced longer unemployment spells and moved to lower-paying but less exposed jobs. [&#8230;] The post Generative AI and Entrepreneurship appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-26T09:27:08.000Z",
-      "articleId": "b663543bb1954402"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7220007/2026/04/25/giants-nfl-draft-picks-2026-grades-scouting-reports/",
@@ -1874,17 +1874,6 @@
       "summary": "At the league meetings on Monday, John Harbaugh and Joe Schoen addressed the potential for additions across the roster.",
       "publishedAt": "2026-03-30T23:49:23.000Z",
       "articleId": "1b124354af83ddc3"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
-      "title": "Don’t Cheer Too Hard for the Facebook Verdicts",
-      "url": "https://www.nytimes.com/2026/03/29/opinion/free-speech-social-media-court-ruling.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Courts aren’t always the right answer to our digital problems.",
-      "publishedAt": "2026-03-30T18:15:02.000Z",
-      "articleId": "b8794aa7e8ea8597"
     }
   ],
   "sources": [
