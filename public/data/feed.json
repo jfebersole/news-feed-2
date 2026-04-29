@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-29T00:04:56.456Z",
-  "fetchedAt": "2026-04-29T00:04:56.452Z",
+  "generatedAt": "2026-04-29T04:01:14.837Z",
+  "fetchedAt": "2026-04-29T04:01:14.832Z",
   "sourceCount": 21,
   "itemCount": 169,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/scoring-the-jensen-dwarkesh-debate",
+      "title": "Scoring the Jensen-Dwarkesh debate",
+      "url": "https://www.noahpinion.blog/p/scoring-the-jensen-dwarkesh-debate",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Export controls are holding back Chinese AI. Should we keep them?",
+      "publishedAt": "2026-04-29T00:38:56.000Z",
+      "articleId": "59da406a5c77150d"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-attempt-to-solve-debate-will",
       "title": "Your Attempt To Solve Debate Will Not Work",
@@ -1852,17 +1863,6 @@
       "summary": "Courts aren’t always the right answer to our digital problems.",
       "publishedAt": "2026-03-30T18:15:02.000Z",
       "articleId": "b8794aa7e8ea8597"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/maybe-you-should-have-bought-an-electric",
-      "title": "Maybe you should have bought an electric car",
-      "url": "https://www.noahpinion.blog/p/maybe-you-should-have-bought-an-electric",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The Iran War is illustrating the cost of anti-EV nonsense.",
-      "publishedAt": "2026-03-30T02:08:06.000Z",
-      "articleId": "05c70b48f681f269"
     }
   ],
   "sources": [
