@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-04-29T09:22:15.514Z",
-  "fetchedAt": "2026-04-29T09:22:15.508Z",
+  "generatedAt": "2026-04-29T11:53:42.115Z",
+  "fetchedAt": "2026-04-29T11:53:42.109Z",
   "sourceCount": 21,
   "itemCount": 169,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/capitalism-and-modernity.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalism-and-modernity",
+      "title": "Capitalism and Modernity",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/capitalism-and-modernity.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Jesús Fernández-Villaverde, one of the few economists in the world equally at home solving stochastic dynamic optimization problems as with sociological theory and history, has an excellent series of twitter posts on capitalism and modernity. JFV: I have been reading (and re-reading) a lot of social theory. What strikes me is that most critics of [&#8230;] The post Capitalism and Modernity appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-29T11:19:59.000Z",
+      "articleId": "ec1345c26576f272"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/ken-martin-is-doing-a-terrible-job",
+      "title": "Ken Martin is doing a terrible job",
+      "url": "https://www.slowboring.com/p/ken-martin-is-doing-a-terrible-job",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The D.N.C. needs a chair who&#8217;s up to the task.",
+      "publishedAt": "2026-04-29T10:01:54.000Z",
+      "articleId": "e4cce5fcbdf7ab7c"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
+      "title": "Intel Earnings, Intel’s Differentiation?, Whither Terafab",
+      "url": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
+      "publishedAt": "2026-04-29T10:00:00.000Z",
+      "articleId": "6d733d2dc93c1a12"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/are-we-finally-seeing-some-market-clearing-prices-for-movies.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-finally-seeing-some-market-clearing-prices-for-movies",
       "title": "Are we finally seeing some market clearing prices for movies?",
@@ -411,17 +444,6 @@
       "summary": "This paper studies how Generative AI (Gen AI) is reshaping the U.S. startup ecosystem. Exploiting the release of ChatGPT, we show that startups with greater pre-release Gen AI task exposure reduced employment within two quarters, primarily among junior and implementation roles. Displaced workers experienced longer unemployment spells and moved to lower-paying but less exposed jobs. [&#8230;] The post Generative AI and Entrepreneurship appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-26T09:27:08.000Z",
       "articleId": "b663543bb1954402"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/will-ai-save-the-u-s-fiscal-situation.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-save-the-u-s-fiscal-situation",
-      "title": "Will AI save the U.S. fiscal situation?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/will-ai-save-the-u-s-fiscal-situation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A tenth of a percentage point of extra productivity growth — well within the range of plausible near-term AI effects — raises the fundamental value of U.S. government debt by $1.3 trillion. If markets fully priced this in, nominal Treasury yields would fall by about 70 basis points. Half a percentage point of extra growth [&#8230;] The post Will AI save the U.S. fiscal situation? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-26T05:09:28.000Z",
-      "articleId": "5f50d7d51d259022"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7220007/2026/04/25/giants-nfl-draft-picks-2026-grades-scouting-reports/",
@@ -1084,17 +1106,6 @@
       "articleId": "15e767958454235c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/playing-baseball-like-its-1864",
-      "title": "Playing baseball like it’s 1864",
-      "url": "https://www.slowboring.com/p/playing-baseball-like-its-1864",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "No gloves, no steroids, no optimization",
-      "publishedAt": "2026-04-17T22:01:06.000Z",
-      "articleId": "dec2c7a21c706457"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/hasan-piker-is-bad-for-the-democrats",
       "title": "Hasan Piker is bad for the Democrats",
       "url": "https://www.noahpinion.blog/p/hasan-piker-is-bad-for-the-democrats",
@@ -1247,17 +1258,6 @@
       "summary": "Whatever you do, do not listen to the articles that say that egg and embryo freezing do not work.",
       "publishedAt": "2026-04-15T13:43:31.000Z",
       "articleId": "b457f3ce4df38158"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
-      "title": "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle",
-      "url": "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Amazon's Globalstar acquisition is being framed as Amazon versus SpaceX, but I think the real story is about Apple.",
-      "publishedAt": "2026-04-15T10:00:00.000Z",
-      "articleId": "88fce5ff9507c723"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/14/opinion/trump-pope.html",
