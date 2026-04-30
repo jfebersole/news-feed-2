@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-30T20:17:37.653Z",
-  "fetchedAt": "2026-04-30T20:17:37.648Z",
+  "generatedAt": "2026-04-30T22:07:31.233Z",
+  "fetchedAt": "2026-04-30T22:07:31.226Z",
   "sourceCount": 21,
-  "itemCount": 170,
-  "totalItemCount": 767,
+  "itemCount": 168,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-550.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-550",
@@ -1051,17 +1051,6 @@
       "articleId": "199fb6946bdeb192"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/one-state-could-tip-the-house",
-      "title": "One state could tip the House",
-      "url": "https://www.slowboring.com/p/one-state-could-tip-the-house",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "As Virginia voters weigh a controversial redistricting plan, new results from New Jersey to California sharpen the national outlook.",
-      "publishedAt": "2026-04-20T22:01:13.000Z",
-      "articleId": "4f0b1d1ae926815f"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
       "title": "The Four Lessons Liberals Should Consider After Orban’s Defeat",
       "url": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
@@ -1863,17 +1852,6 @@
       "summary": "We often lack the tools for the job, even if the AI is capable enough",
       "publishedAt": "2026-03-31T22:34:37.000Z",
       "articleId": "8f6970f10e9ecb45"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
-      "title": "I Saw Something New in San Francisco",
-      "url": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Marshall McLuhan was right about Claude, too.",
-      "publishedAt": "2026-03-31T20:43:33.000Z",
-      "articleId": "55bce0563a83f7c9"
     }
   ],
   "sources": [
@@ -1969,7 +1947,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
