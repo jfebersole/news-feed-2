@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-30T11:52:28.518Z",
-  "fetchedAt": "2026-04-30T11:52:28.513Z",
+  "generatedAt": "2026-04-30T14:22:18.287Z",
+  "fetchedAt": "2026-04-30T14:22:18.283Z",
   "sourceCount": 21,
   "itemCount": 170,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "title": "How an Oil Refinery Works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Though wind and solar continue to carve out larger and larger shares of world energy supply, the modern world still runs on petroleum, and will continue to do so for the foreseeable future.",
+      "publishedAt": "2026-04-30T12:03:35.000Z",
+      "articleId": "6dd71529fed02dcb"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/pro-development-environmentalists.html?utm_source=rss&utm_medium=rss&utm_campaign=pro-development-environmentalists",
       "title": "Pro-Development Environmentalists",
@@ -48,6 +59,17 @@
       "summary": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
       "publishedAt": "2026-04-30T10:00:00.000Z",
       "articleId": "f8e2d2d0f6ce84bb"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-reds-are-running-baseballs-ultimate",
+      "title": "The Reds Are Running Baseball's Ultimate Stars-and-Scrubs Experiment",
+      "url": "https://neilpaine.substack.com/p/the-reds-are-running-baseballs-ultimate",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "This isn't the Big Red Machine, but a new generation of stars is carrying one of baseball's most surprising contenders.",
+      "publishedAt": "2026-04-30T09:58:23.000Z",
+      "articleId": "2ae94eca8fc7ec77"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
@@ -455,17 +477,6 @@
       "summary": "It&#8217;s been great to see Dwarkesh Patel rise to the top ranks of podcasters. The profile in the NYTimes is excellent. Dwarkesh&#8217;s success is his own but I couldn&#8217;t help but smile at the early, wacky GMU influences—all of which I can attest are true: Mr. Patel recorded the first episode of “The Lunar Society,” [&#8230;] The post Dwarkesh! appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-27T11:17:44.000Z",
       "articleId": "1f25784c75a89891"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-nuggets-are-running-out-of-time",
-      "title": "The Nuggets Are Running Out of Time With Nikola Jokić",
-      "url": "https://neilpaine.substack.com/p/the-nuggets-are-running-out-of-time",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Down 3-1, Denver faces elimination — and the prospect of another wasted year of all-time greatness.",
-      "publishedAt": "2026-04-27T10:03:27.000Z",
-      "articleId": "d5af3d9a0177569e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/where-doge-hit-dc-hardest",
@@ -1863,17 +1874,6 @@
       "summary": "It&#8217;s incredibly hard to deliver drugs to the right organ, especially to reach the brain. Microbubbles could change that.",
       "publishedAt": "2026-03-31T15:03:22.000Z",
       "articleId": "2e9ef7e984a59027"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-artist-heirs",
-      "title": "Artist Heirs: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-artist-heirs",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Santana, Sinatra, Simon, and others",
-      "publishedAt": "2026-03-31T13:30:46.000Z",
-      "articleId": "e024c9182022260a"
     }
   ],
   "sources": [
