@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-04-30T09:23:41.565Z",
-  "fetchedAt": "2026-04-30T09:23:41.558Z",
+  "generatedAt": "2026-04-30T11:52:28.518Z",
+  "fetchedAt": "2026-04-30T11:52:28.513Z",
   "sourceCount": 21,
-  "itemCount": 171,
+  "itemCount": 170,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/pro-development-environmentalists.html?utm_source=rss&utm_medium=rss&utm_campaign=pro-development-environmentalists",
+      "title": "Pro-Development Environmentalists",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/pro-development-environmentalists.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Breakthrough Institute (BTI) found that “just 10 organizations initiated 35% of the total NEPA cases brought by NGOs.” The Sierra Club and its local chapters alone were responsible for more than 14% of these lawsuits. The dominance of a small number of groups is more pronounced in forest management and energy cases; only 10 [&#8230;] The post Pro-Development Environmentalists appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-04-30T11:18:46.000Z",
+      "articleId": "51155e81c7e320e1"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/should-we-end-asylum",
+      "title": "Should we end asylum?",
+      "url": "https://www.slowboring.com/p/should-we-end-asylum",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Is ending asylum the way to stop chaos at the border?",
+      "publishedAt": "2026-04-30T10:02:52.000Z",
+      "articleId": "a0d5a08a9da796fb"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/technological-progress-isnt-always",
+      "title": "Technological progress isn’t always good",
+      "url": "https://www.slowboring.com/p/technological-progress-isnt-always",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The Luddites were wrong, but that&#8217;s not a universal law.",
+      "publishedAt": "2026-04-30T10:02:44.000Z",
+      "articleId": "c7c0ee7f003a3432"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes/",
+      "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
+      "url": "https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
+      "publishedAt": "2026-04-30T10:00:00.000Z",
+      "articleId": "f8e2d2d0f6ce84bb"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
       "title": "There’s a 900-Year-Old Answer to Our Most Modern Problem",
@@ -466,17 +510,6 @@
       "summary": "If John Harbaugh is unhappy with his GM, he has done an impressive job masking his feelings.",
       "publishedAt": "2026-04-27T09:30:22.000Z",
       "articleId": "568c612859c84fc7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/on-health-care-price-transparency-from-the-comments.html?utm_source=rss&utm_medium=rss&utm_campaign=on-health-care-price-transparency-from-the-comments",
-      "title": "On health care price transparency (from the comments)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/on-health-care-price-transparency-from-the-comments.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From MR commentator Sure: Generally such figures do not reside within the physicians&#8217; office. On our side of the table we do some procedure with multiple specifications and generate some CPT code(s) (e.g. a lap cholycystectomy is 47562, add on a common bile duct exploration and it becomes a 47564, and if you just do [&#8230;] The post On health care price transparency (from the comments) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-27T05:11:48.000Z",
-      "articleId": "468fa1293a54cbd1"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-mailbag-thread-48b",
@@ -1040,17 +1073,6 @@
       "articleId": "598e36e76a5fd67f"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/dogs-arent-people",
-      "title": "Dogs aren’t people",
-      "url": "https://www.slowboring.com/p/dogs-arent-people",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "One of my hottest takes",
-      "publishedAt": "2026-04-20T10:01:07.000Z",
-      "articleId": "66716f199333fd5c"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
       "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
       "url": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
@@ -1082,17 +1104,6 @@
       "summary": "Economic consensus is changing, but it has a long way to go.",
       "publishedAt": "2026-04-20T05:07:55.000Z",
       "articleId": "c2b6502df27e2dfa"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-8c6",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-04-19T17:00:44.000Z",
-      "articleId": "b1ef8a172291861e"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/should-i-listen-to-music-by-bad-people",
@@ -1247,17 +1258,6 @@
       "summary": "A breakthrough drug for pancreatic cancer, organ recovery, weight loss drugs that preserve muscle, a whole-cell simulation, how plants make nicotine, semaglutide fails for Alzheimer&#8217;s, and more.",
       "publishedAt": "2026-04-16T13:48:44.000Z",
       "articleId": "1e363c3e91201074"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/",
-      "title": "An Interview with F1 Driver and Venture Capitalist Nico Rosberg About the Drive to Win",
-      "url": "https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with former F1 driver and current venture capitalist Nico Rosberg about finding the mental edge and maximizing opportunities.",
-      "publishedAt": "2026-04-16T10:00:00.000Z",
-      "articleId": "9636c783db3e00ce"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7199225/2026/04/16/new-york-giants-contracts-free-agency-salary-cap/",
@@ -1874,17 +1874,6 @@
       "summary": "Featuring Santana, Sinatra, Simon, and others",
       "publishedAt": "2026-03-31T13:30:46.000Z",
       "articleId": "e024c9182022260a"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-the-concept-of-telescopic",
-      "title": "Against The Concept Of Telescopic Altruism",
-      "url": "https://www.astralcodexten.com/p/against-the-concept-of-telescopic",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-03-31T11:32:53.000Z",
-      "articleId": "b6695a621b2a60aa"
     }
   ],
   "sources": [
