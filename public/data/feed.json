@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-04-30T22:07:31.233Z",
-  "fetchedAt": "2026-04-30T22:07:31.226Z",
+  "generatedAt": "2026-05-01T00:02:58.386Z",
+  "fetchedAt": "2026-05-01T00:02:58.382Z",
   "sourceCount": 21,
-  "itemCount": 168,
+  "itemCount": 167,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/what-deontological-bars",
+      "title": "What Deontological Bars?",
+      "url": "https://www.astralcodexten.com/p/what-deontological-bars",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-04-30T23:11:09.000Z",
+      "articleId": "62fc3d102623ac0d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-550.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-550",
       "title": "Thursday assorted links",
@@ -1830,28 +1841,6 @@
       "summary": "...",
       "publishedAt": "2026-04-01T03:24:46.000Z",
       "articleId": "e7cfe201c40a31e8"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
-      "title": "Can Christianity Be Restored to the Center of American Life?",
-      "url": "https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Why none of America’s faiths have taken mainline Protestantism’s place.",
-      "publishedAt": "2026-03-31T23:50:18.000Z",
-      "articleId": "d553e866c5963044"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
-      "title": "Claude Dispatch and the Power of Interfaces",
-      "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "We often lack the tools for the job, even if the AI is capable enough",
-      "publishedAt": "2026-03-31T22:34:37.000Z",
-      "articleId": "8f6970f10e9ecb45"
     }
   ],
   "sources": [
