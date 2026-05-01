@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-01T17:10:22.654Z",
-  "fetchedAt": "2026-05-01T17:10:22.650Z",
+  "generatedAt": "2026-05-01T19:36:04.135Z",
+  "fetchedAt": "2026-05-01T19:36:04.130Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 766,
+  "itemCount": 166,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/my-npr-debate-on-whether-science-is-too-risk-averse.html?utm_source=rss&utm_medium=rss&utm_campaign=my-npr-debate-on-whether-science-is-too-risk-averse",
+      "title": "My NPR debate on whether science is too risk-averse",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/my-npr-debate-on-whether-science-is-too-risk-averse.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This coming Tuesday at Johns Hopkins University in Baltimore, here is the event information, with three others as well. With debate partner Brandon Ogbunu I will be arguing the &#8220;yes&#8221; side, science is too risk-averse. Self-recommended! Here is the Open to Debate Substack. The post My NPR debate on whether science is too risk-averse appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-01T17:54:59.000Z",
+      "articleId": "f5396803a5f65c11"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/long-term-peripheral-myopic-visions/",
       "title": "2026.18: Long-term, Peripheral & Myopic Visions",
@@ -15,6 +26,17 @@
       "summary": "The best Stratechery content from the week of April 27, 2026, including Amazon and AI, the future of AR devices, and Beijing's myopia.",
       "publishedAt": "2026-05-01T17:00:00.000Z",
       "articleId": "191be98d658af752"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/monetary-policy-and-libertarianism",
+      "title": "Monetary policy and libertarianism",
+      "url": "https://scottsumner.substack.com/p/monetary-policy-and-libertarianism",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "More specifically, pragmatic libertarianism",
+      "publishedAt": "2026-05-01T16:47:27.000Z",
+      "articleId": "21072a4a1872103f"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-570",
@@ -62,7 +84,7 @@
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/what-predicts-kentucky-derby-winners",
-      "title": "What Predicts Kentucky Derby Winners?",
+      "title": "What to Watch For at the 2026 Kentucky Derby",
       "url": "https://neilpaine.substack.com/p/what-predicts-kentucky-derby-winners",
       "source": "Neil Paine",
       "sourceUrl": "https://neilpaine.substack.com/",
@@ -446,17 +468,6 @@
       "articleId": "a5071775b3325beb"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/rob-thomson-was-the-phillies-fixer",
-      "title": "Rob Thomson Was the Phillies' Fixer — Until He Became Their Next Fix",
-      "url": "https://neilpaine.substack.com/p/rob-thomson-was-the-phillies-fixer",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Thomson once unlocked Philly's potential in ways others couldn't. Now he's getting the same treatment they did.",
-      "publishedAt": "2026-04-28T17:06:44.000Z",
-      "articleId": "78baac35d5655103"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
       "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
@@ -499,17 +510,6 @@
       "summary": "Britain gave an elite group of engineers sweeping power and massive resources to deliver a nuclear power revolution. But their nuclear dreams crumbled.",
       "publishedAt": "2026-04-28T11:45:01.000Z",
       "articleId": "e44e3bdf88c8ee16"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/talkie-an-lm-from-1930.html?utm_source=rss&utm_medium=rss&utm_campaign=talkie-an-lm-from-1930",
-      "title": "talkie: an LM from 1930",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/talkie-an-lm-from-1930.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the link, with explanation. The post talkie: an LM from 1930 appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-28T11:37:13.000Z",
-      "articleId": "fd30e5492c0629da"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-radical-idea-for-breaking-the-cycle",
@@ -1830,17 +1830,6 @@
       "summary": "The most famous chart in AI might be obsolete soon.",
       "publishedAt": "2026-04-02T11:33:47.000Z",
       "articleId": "9e813c14cfeb8170"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026-q1",
-      "title": "Films of 2026: Q1",
-      "url": "https://scottsumner.substack.com/p/films-of-2026-q1",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus random observations on TV and books",
-      "publishedAt": "2026-04-01T18:15:37.000Z",
-      "articleId": "4d8f6965357c82a9"
     }
   ],
   "sources": [
@@ -1920,7 +1909,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
