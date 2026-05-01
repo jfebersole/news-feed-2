@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-01T15:12:54.622Z",
-  "fetchedAt": "2026-05-01T15:12:54.617Z",
+  "generatedAt": "2026-05-01T17:10:22.654Z",
+  "fetchedAt": "2026-05-01T17:10:22.650Z",
   "sourceCount": 21,
   "itemCount": 167,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/long-term-peripheral-myopic-visions/",
+      "title": "2026.18: Long-term, Peripheral & Myopic Visions",
+      "url": "https://stratechery.com/2026/long-term-peripheral-myopic-visions/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of April 27, 2026, including Amazon and AI, the future of AR devices, and Beijing's myopia.",
+      "publishedAt": "2026-05-01T17:00:00.000Z",
+      "articleId": "191be98d658af752"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-570",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-570.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Does trade cause peace? (FT) 2. Where the goblins came from. 3. The next big advance to come from AI? 4. Georg Baselitz, RIP. And now in English. I am happy to own a print of his, one of the upside-down eagles. 5. Okie-dokie, USG edition. 6. In spite of what polling says, political [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-01T15:42:10.000Z",
+      "articleId": "7113081f8cddb87f"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
       "title": "There’s a 900-Year-Old Answer to Our Most Modern Problem",
@@ -488,17 +510,6 @@
       "summary": "Here is the link, with explanation. The post talkie: an LM from 1930 appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-28T11:37:13.000Z",
       "articleId": "fd30e5492c0629da"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/hud-says-its-legal-to-tell-the-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=hud-says-its-legal-to-tell-the-truth",
-      "title": "HUD Says Realtors Can Now Speak the Truth",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/hud-says-its-legal-to-tell-the-truth.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "HUD: The U.S. Department of Housing and Urban Development (HUD) sent a “Dear Colleague” letter to real estate professionals clarifying they are not violating the Fair Housing Act when they share information with prospective homebuyers about neighborhood crime rates and school quality data. “Buying a home is one on the most significant decisions a family [&#8230;] The post HUD Says Realtors Can Now Speak the Truth appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-28T11:18:14.000Z",
-      "articleId": "8eed542b0772524d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-radical-idea-for-breaking-the-cycle",
@@ -1225,17 +1236,6 @@
       "summary": "Republicans embraced extremist ideology and it backfired on them. Democrats shouldn't follow suit.",
       "publishedAt": "2026-04-17T20:45:24.000Z",
       "articleId": "09d300bcb2157676"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/servers-satellites-and-stars/",
-      "title": "2026.16: Servers, Satellites, and Stars",
-      "url": "https://stratechery.com/2026/servers-satellites-and-stars/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of April 13, 2026, including the cost of AI, what Amazon is doing with Globalstar, and Nico Rosberg on racing and investing.",
-      "publishedAt": "2026-04-17T17:00:00.000Z",
-      "articleId": "ac5237ec8e9a06f8"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
