@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-01T09:56:43.742Z",
-  "fetchedAt": "2026-05-01T09:56:43.736Z",
+  "generatedAt": "2026-05-01T11:20:44.974Z",
+  "fetchedAt": "2026-05-01T11:20:44.967Z",
   "sourceCount": 21,
-  "itemCount": 167,
+  "itemCount": 166,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-case-for-housing-is-jobs-and",
+      "title": "The case for housing is jobs and growth",
+      "url": "https://www.slowboring.com/p/the-case-for-housing-is-jobs-and",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus leverage over Israel, A.I. and immigration, and revisiting Bush&#8217;s Social Security plan",
+      "publishedAt": "2026-05-01T10:03:21.000Z",
+      "articleId": "b96357386e29d0f7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/what-predicts-kentucky-derby-winners",
+      "title": "What Predicts Kentucky Derby Winners?",
+      "url": "https://neilpaine.substack.com/p/what-predicts-kentucky-derby-winners",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "We found the 5 most important rules of thumb when trying to figure out which horse will wear the roses.",
+      "publishedAt": "2026-05-01T10:01:03.000Z",
+      "articleId": "763b111b1a439e35"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ryan-avents-new-book-in-good-faith.html?utm_source=rss&utm_medium=rss&utm_campaign=ryan-avents-new-book-in-good-faith",
       "title": "Ryan Avent’s new book *In Good Faith*",
@@ -466,17 +488,6 @@
       "summary": "HUD: The U.S. Department of Housing and Urban Development (HUD) sent a “Dear Colleague” letter to real estate professionals clarifying they are not violating the Fair Housing Act when they share information with prospective homebuyers about neighborhood crime rates and school quality data. “Buying a home is one on the most significant decisions a family [&#8230;] The post HUD Says Realtors Can Now Speak the Truth appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-28T11:18:14.000Z",
       "articleId": "8eed542b0772524d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/minnesota-and-dallas-are-still-settling",
-      "title": "Minnesota and Dallas Are Still Settling Their Hockey Divorce",
-      "url": "https://neilpaine.substack.com/p/minnesota-and-dallas-are-still-settling",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Three decades after the messy split, the Stars and Wild are still working through their old business — and this time, it could go the distance.",
-      "publishedAt": "2026-04-28T10:03:25.000Z",
-      "articleId": "956093f72a10557b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-radical-idea-for-breaking-the-cycle",
@@ -1027,17 +1038,6 @@
       "summary": "Featuring Elvis Costello, Jay-Z, Metallica, and others",
       "publishedAt": "2026-04-21T13:30:45.000Z",
       "articleId": "1e05c5c1655e35ee"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/candidates-shouldnt-release-lots",
-      "title": "Candidates shouldn’t release lots of “plans”",
-      "url": "https://www.slowboring.com/p/candidates-shouldnt-release-lots",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Not for A.I. and the labor market or health care or anything else",
-      "publishedAt": "2026-04-21T10:02:41.000Z",
-      "articleId": "ff44a22cc94ccb35"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/tim-cooks-impeccable-timing/",
@@ -1830,17 +1830,6 @@
       "summary": "Plus random observations on TV and books",
       "publishedAt": "2026-04-01T18:15:37.000Z",
       "articleId": "4d8f6965357c82a9"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/how-japan-has-changed-in-the-last",
-      "title": "How Japan has changed in the last 20 years",
-      "url": "https://www.noahpinion.blog/p/how-japan-has-changed-in-the-last",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Reflections on a unique nation.",
-      "publishedAt": "2026-04-01T10:29:51.000Z",
-      "articleId": "20d81f3c8dcc1429"
     }
   ],
   "sources": [
