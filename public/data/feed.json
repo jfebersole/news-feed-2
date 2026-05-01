@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-01T13:51:21.149Z",
-  "fetchedAt": "2026-05-01T13:51:21.143Z",
+  "generatedAt": "2026-05-01T15:12:54.622Z",
+  "fetchedAt": "2026-05-01T15:12:54.617Z",
   "sourceCount": 21,
   "itemCount": 167,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
+      "title": "There’s a 900-Year-Old Answer to Our Most Modern Problem",
+      "url": "https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "What should we do when a chatbot behaves like a criminal?",
+      "publishedAt": "2026-05-01T14:54:50.000Z",
+      "articleId": "a381b8c5d9135d95"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/one-week-left-to-apply-for-invisible",
       "title": "One week left to apply for Invisible College 2026",
@@ -224,17 +235,6 @@
       "summary": "This isn't the Big Red Machine, but a new generation of stars is carrying one of baseball's most surprising contenders.",
       "publishedAt": "2026-04-30T09:58:23.000Z",
       "articleId": "2ae94eca8fc7ec77"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
-      "title": "There’s a 900-Year-Old Answer to Our Most Modern Problem",
-      "url": "https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "What should we do when a chatbot behaves like a criminal?",
-      "publishedAt": "2026-04-30T09:04:49.000Z",
-      "articleId": "a381b8c5d9135d95"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/stablecoin-sentences-to-ponder-2.html?utm_source=rss&utm_medium=rss&utm_campaign=stablecoin-sentences-to-ponder-2",
