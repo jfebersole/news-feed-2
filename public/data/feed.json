@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-02T08:42:47.738Z",
-  "fetchedAt": "2026-05-02T08:42:47.733Z",
+  "generatedAt": "2026-05-02T10:07:58.193Z",
+  "fetchedAt": "2026-05-02T10:07:58.188Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 766,
+  "itemCount": 168,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-27-may-1",
+      "title": "The Week That Was (April 27-May 1, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-april-27-may-1",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-05-02T10:02:34.000Z",
+      "articleId": "50eb8823e93fab59"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/have-online-worlds-become-the-last-free-places-for-children.html?utm_source=rss&utm_medium=rss&utm_campaign=have-online-worlds-become-the-last-free-places-for-children",
       "title": "Have online worlds become the last free places for children?",
@@ -1920,7 +1931,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
