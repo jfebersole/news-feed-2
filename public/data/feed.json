@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-02T11:56:28.589Z",
-  "fetchedAt": "2026-05-02T11:56:28.584Z",
+  "generatedAt": "2026-05-02T13:44:41.651Z",
+  "fetchedAt": "2026-05-02T13:44:41.646Z",
   "sourceCount": 21,
   "itemCount": 168,
-  "totalItemCount": 758,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-05022026",
+      "title": "Reading List 05/02/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-05022026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Chilling effects in the build-to-rent sector, how fast could robot manufacturing scale up, PJM&#8217;s new interconnection queue, the backlash against battery storage, and more.",
+      "publishedAt": "2026-05-02T12:01:30.000Z",
+      "articleId": "0bae931097500b6a"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html",
       "title": "Slouching Toward Kamala Harris",
@@ -1841,17 +1852,6 @@
       "summary": "A deep dive on baseball walk-out songs",
       "publishedAt": "2026-04-02T17:31:04.000Z",
       "articleId": "36e2c5020b4dcff9"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/information-and-technological-evolution",
-      "title": "Information and Technological Evolution",
-      "url": "https://www.construction-physics.com/p/information-and-technological-evolution",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "I spend a lot of time reading about the nature of technological progress, and I&#8217;ve found that the literature on technology is somewhat uneven.",
-      "publishedAt": "2026-04-02T12:16:08.000Z",
-      "articleId": "0dae7efa72d9e47d"
     }
   ],
   "sources": [
@@ -1866,10 +1866,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
