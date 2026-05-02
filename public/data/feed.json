@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-02T10:07:58.193Z",
-  "fetchedAt": "2026-05-02T10:07:58.188Z",
+  "generatedAt": "2026-05-02T11:56:28.589Z",
+  "fetchedAt": "2026-05-02T11:56:28.584Z",
   "sourceCount": 21,
   "itemCount": 168,
-  "totalItemCount": 767,
+  "totalItemCount": 758,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html",
+      "title": "Slouching Toward Kamala Harris",
+      "url": "https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "The Democrats’ fundamental condition is a late-Trumpian stasis.",
+      "publishedAt": "2026-05-02T11:00:18.000Z",
+      "articleId": "a91f97b632ed3567"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-27-may-1",
       "title": "The Week That Was (April 27-May 1, 2026)",
@@ -1841,17 +1852,6 @@
       "summary": "I spend a lot of time reading about the nature of technological progress, and I&#8217;ve found that the literature on technology is somewhat uneven.",
       "publishedAt": "2026-04-02T12:16:08.000Z",
       "articleId": "0dae7efa72d9e47d"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/why-its-getting-harder-to-measure",
-      "title": "Why it’s getting harder to measure AI performance",
-      "url": "https://www.understandingai.org/p/why-its-getting-harder-to-measure",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "The most famous chart in AI might be obsolete soon.",
-      "publishedAt": "2026-04-02T11:33:47.000Z",
-      "articleId": "9e813c14cfeb8170"
     }
   ],
   "sources": [
@@ -1866,10 +1866,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
