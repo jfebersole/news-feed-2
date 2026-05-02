@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-02T17:03:59.144Z",
-  "fetchedAt": "2026-05-02T17:03:59.140Z",
+  "generatedAt": "2026-05-02T18:01:01.441Z",
+  "fetchedAt": "2026-05-02T18:01:01.437Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 766,
+  "itemCount": 165,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-559.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-559",
@@ -1040,17 +1040,6 @@
       "articleId": "598759ba5fde7cd3"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/if-israel-doesnt-like-how-its-perceived",
-      "title": "If Israel doesn’t like how it’s perceived, it should change its behavior",
-      "url": "https://www.slowboring.com/p/if-israel-doesnt-like-how-its-perceived",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "There are always persuadable audiences &#8212; it&#8217;s worth trying",
-      "publishedAt": "2026-04-22T10:03:14.000Z",
-      "articleId": "5efcd43ae720aa01"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7216386/2026/04/22/new-york-giants-nfl-draft-sonny-styles/",
       "title": "The New York Giants, with their first-round picks in the 2026 NFL Draft, select ...",
       "url": "https://www.nytimes.com/athletic/7216386/2026/04/22/new-york-giants-nfl-draft-sonny-styles/",
@@ -1830,17 +1819,6 @@
       "summary": "...",
       "publishedAt": "2026-04-03T05:23:46.000Z",
       "articleId": "bdc7819dcbdd2573"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/take-me-out-to-the-ballgame",
-      "title": "Take Me Out To The Ball Game",
-      "url": "https://www.cantgetmuchhigher.com/p/take-me-out-to-the-ballgame",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "A deep dive on baseball walk-out songs",
-      "publishedAt": "2026-04-02T17:31:04.000Z",
-      "articleId": "36e2c5020b4dcff9"
     }
   ],
   "sources": [
@@ -1936,7 +1914,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
