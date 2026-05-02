@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-01T23:06:36.246Z",
-  "fetchedAt": "2026-05-01T23:06:36.237Z",
+  "generatedAt": "2026-05-02T00:05:45.612Z",
+  "fetchedAt": "2026-05-02T00:05:45.607Z",
   "sourceCount": 21,
   "itemCount": 167,
-  "totalItemCount": 766,
+  "totalItemCount": 757,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/more-of-halinas-hottest-takes",
@@ -1855,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
