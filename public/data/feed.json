@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-02T15:59:04.935Z",
-  "fetchedAt": "2026-05-02T15:59:04.931Z",
+  "generatedAt": "2026-05-02T17:03:59.144Z",
+  "fetchedAt": "2026-05-02T17:03:59.140Z",
   "sourceCount": 21,
-  "itemCount": 168,
-  "totalItemCount": 767,
+  "itemCount": 167,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-559.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-559",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-559.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. How an oil refinery works. 2. How is it that Jakarta has improved so much? 3. The Coasean perspective at Stripe. 4. Becker-Posner blog has been put back online. 5. Raoul Dufy and cortisone. 6. Competition in health insurance markets. 7. A Stockholm cafe run by AI? The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-02T16:52:16.000Z",
+      "articleId": "98b4b4985101787e"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-05022026",
       "title": "Reading List 05/02/2026",
@@ -455,28 +466,6 @@
       "summary": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
       "publishedAt": "2026-04-29T10:00:00.000Z",
       "articleId": "6d733d2dc93c1a12"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/when-dale-earnhardt-jr-stepped-out",
-      "title": "When Dale Earnhardt Jr. Stepped Out of His Dad's Shadow in Texas",
-      "url": "https://neilpaine.substack.com/p/when-dale-earnhardt-jr-stepped-out",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The first win of Junior's career signaled that he had the speed to back up his famous name.",
-      "publishedAt": "2026-04-29T09:58:48.000Z",
-      "articleId": "84caaa9a39a64550"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/are-we-finally-seeing-some-market-clearing-prices-for-movies.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-finally-seeing-some-market-clearing-prices-for-movies",
-      "title": "Are we finally seeing some market clearing prices for movies?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/are-we-finally-seeing-some-market-clearing-prices-for-movies.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "One of the best selling points of a night out at the movies has long been how cheap it was for two hours-plus of entertainment. Not so much when it costs $50 a ticket. That is how much Regal Cinemas recently charged for opening night seats in the best theaters to see December’s “Dune: Part Three.” Eye-popping [&#8230;] The post Are we finally seeing some market clearing prices for movies? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-29T07:13:22.000Z",
-      "articleId": "97bf91ea95a799d5"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/scoring-the-jensen-dwarkesh-debate",
@@ -1931,7 +1920,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
