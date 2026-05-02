@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-02T03:49:34.934Z",
-  "fetchedAt": "2026-05-02T03:49:34.928Z",
+  "generatedAt": "2026-05-02T06:19:08.104Z",
+  "fetchedAt": "2026-05-02T06:19:08.100Z",
   "sourceCount": 21,
   "itemCount": 167,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/words-of-wisdom-on-china-shock-2-0.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-china-shock-2-0",
+      "title": "Words of wisdom, on China shock 2.0",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/words-of-wisdom-on-china-shock-2-0.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Michael Pettis frequently claims that, by running large surpluses, China is forcing “the demand-suppressing cost of their policies onto their trading partners.” The idea here is relatively straightforward: by disincentivizing consumption within China, China’s policies are reducing domestic demand, which, ceteris paribus, reduces global demand. The problem with this logic should be fairly obvious: ceteris is not in fact paribus. It assumes other countries [&#8230;] The post Words of wisdom, on China shock 2.0 appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-02T04:35:38.000Z",
+      "articleId": "0ab022b35e61cba2"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/more-of-halinas-hottest-takes",
       "title": "More of Halina’s hottest takes",
@@ -466,17 +477,6 @@
       "summary": "Money Stuff Bots, OBDC II, Rivian, Claude, WLF, Boardy. View in browser Polymarket bots I wrote last week that, in investing, “There’s no magic, no dark matter, no other source of gains. Everyone’s gains come from (1) economic growth and (2) other people’s losses.” In the aggregate, everyone gets the market return, which comes from allocating capital to economic growth. Some people get more and others get less, but they necessarily cancel each other out. People invest anyway, though, because allocating capital to economic growth is a good long-term proposition. Prediction markets don’t have that. People put $1 into a prediction market event contract, and at resolution it pays out $1 to the winner. There is no investment in economic growth, no source of long-term returns; everyone’s winnings come from someone else’s losses. In the stock market, there are big high-frequency trading firms that make markets for retail investors, selling to investors who want to buy and buying from investors who want to sell. Those firms tend to make a lot of money. As a first cut, the money they make comes from the regular investors. (Who else could it come from?) Retail investors regularly get angry about this . But retail investing is still, you know, good. It is still positive-sum: Retail investors are in aggregate putting their money into companies and profiting from overall economic growth. It is possible, likely even, that (1) big electronic market making firms make billions of dollars off of retail stock investors and (2) those retail stock investors also make billions of dollars themselves. It is nice to play a positive-sum game. Stock options, I don’t know, man. Big electronic trading firms also increasingly make markets in prediction markets. What conclusion can you draw from that? The extremely obvious one , surely? “Big electronic trading firms are not idiots or charities, they reasonably plan to make a lot of money in prediction markets, that money has to come at the expense of regular retail traders on prediction markets, and since there is no other source of profits in prediction markets, that means that prediction markets are a negative-sum game for retail traders.” It is embarrassing to type this. “Sports gamblers lose money on average,” yes, duh. Anyway Bloomberg’s Carolyn Silverman, Nathaniel Popper and Marie Patino report : Over 100,000 accounts lost at least $1,000 on Polymarket, one of the largest prediction markets, according to a Bloomberg News analysis of every wallet active since the beginning of 2025. That is almost twice the number that made at least that much. Among the winners, a majority of the profits were raked in by a tiny slice of what look to be automated bots, based on the Polymarket trade records compiled by the data firm Dune....",
       "publishedAt": "2026-04-28T19:07:40.923Z",
       "articleId": "08dd539882d0002b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-566",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/tuesday-assorted-links-566.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. AI as palm reader? 2. &#8220;why we need to train models to learn their own capabilities, and how this will help them bid for work!&#8221; 3. Labor markets effects of AI. 4. Is Bob Dylan a liberal? 5. Retirement accelerates cognitive decline. 6. The natural resource sector in Africa is overrated (2023). 7. Productivity [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-28T18:38:21.000Z",
-      "articleId": "a5071775b3325beb"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
