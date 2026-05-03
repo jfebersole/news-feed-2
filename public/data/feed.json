@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-03T15:04:06.883Z",
-  "fetchedAt": "2026-05-03T15:04:06.879Z",
+  "generatedAt": "2026-05-03T16:00:02.629Z",
+  "fetchedAt": "2026-05-03T16:00:02.625Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 765,
   "items": [
     {
@@ -1808,17 +1808,6 @@
       "summary": "Some brief thoughts on the (near) future of work.",
       "publishedAt": "2026-04-03T16:50:28.000Z",
       "articleId": "4d23659b59cbc366"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/too-good-to-be-true",
-      "title": "Too good to be true",
-      "url": "https://scottsumner.substack.com/p/too-good-to-be-true",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "The CRFB's plan to save Social Security",
-      "publishedAt": "2026-04-03T15:41:34.000Z",
-      "articleId": "dd6d502d72a59276"
     }
   ],
   "sources": [
