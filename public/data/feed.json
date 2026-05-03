@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-03T04:07:34.395Z",
-  "fetchedAt": "2026-05-03T04:07:34.390Z",
+  "generatedAt": "2026-05-03T07:25:37.548Z",
+  "fetchedAt": "2026-05-03T07:25:37.543Z",
   "sourceCount": 21,
-  "itemCount": 166,
+  "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/is-there-a-recent-growth-in-negative-sum-assets.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-recent-growth-in-negative-sum-assets",
+      "title": "Is there a recent growth in negative-sum assets?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/is-there-a-recent-growth-in-negative-sum-assets.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column, starting with that rebranding of the sneaker company to &#8220;an AI company.&#8221; Here is one excerpt: As an economist, I find positive-sum gambles more appealing than negative-sum gambles. Positive-sum gambles might include buying blue-chip stocks, exercising more (even if there is always risk of injury), [&#8230;] The post Is there a recent growth in negative-sum assets? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-03T04:55:39.000Z",
+      "articleId": "d7c16b140fc38495"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/californias-billionaire-tax-is-the",
       "title": "California's \"billionaire tax\" is the wrong approach",
@@ -444,17 +455,6 @@
       "summary": "Benjamin Spock told mothers in the mid-twentieth century to buy six dozen cloth diapers and a covered pail. Within a decade, both were obsolete.",
       "publishedAt": "2026-04-29T13:03:25.000Z",
       "articleId": "6dfcbc79d3bc06dc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/capitalism-and-modernity.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalism-and-modernity",
-      "title": "Capitalism and Modernity",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/capitalism-and-modernity.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Jesús Fernández-Villaverde, one of the few economists in the world equally at home solving stochastic dynamic optimization problems as with sociological theory and history, has an excellent series of twitter posts on capitalism and modernity. JFV: I have been reading (and re-reading) a lot of social theory. What strikes me is that most critics of [&#8230;] The post Capitalism and Modernity appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-29T11:19:59.000Z",
-      "articleId": "ec1345c26576f272"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/ken-martin-is-doing-a-terrible-job",
@@ -1819,17 +1819,6 @@
       "summary": "If we ever want to live in space, we need to work out a way of creating artificial gravity.",
       "publishedAt": "2026-04-03T12:58:31.000Z",
       "articleId": "2c6f22bdace46653"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-pauseai-protest-a-photo-essay",
-      "title": "The PauseAI Protest: A Photo-Essay",
-      "url": "https://www.astralcodexten.com/p/the-pauseai-protest-a-photo-essay",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-04-03T05:23:46.000Z",
-      "articleId": "bdc7819dcbdd2573"
     }
   ],
   "sources": [
