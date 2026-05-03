@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-03T16:00:02.629Z",
-  "fetchedAt": "2026-05-03T16:00:02.625Z",
+  "generatedAt": "2026-05-03T17:05:07.092Z",
+  "fetchedAt": "2026-05-03T17:05:07.087Z",
   "sourceCount": 21,
-  "itemCount": 164,
+  "itemCount": 163,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-c48",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-c48",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-05-03T17:00:42.000Z",
+      "articleId": "2361d3c808b47209"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-565",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-565.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. &#8220;data centers are now responsible for nearly half of county tax revenue in Loudon County, VA&#8221; 2. The emerging role of competition in health care markets. 3. Did the Swedes boost tax revenue by abolishing their inheritance tax? 4. WSJ profile of Reihan Salam. 5. Are NJ diners doomed? (NYT) 6. How far back [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-03T16:55:34.000Z",
+      "articleId": "9eb9e4cc11936a8c"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
       "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
@@ -411,17 +433,6 @@
       "summary": "Mr Bessent’s bullishness notwithstanding, this month his department released a proposal that would treat stablecoin issuers as financial institutions for the purposes of anti-money-laundering and know-your-customer laws. This means adopting the same onerous monitoring and compliance procedures as banks, adding to the cost of launching and managing a new coin. Here is more from Buttonwood [&#8230;] The post Stablecoin sentences to ponder appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-04-30T07:19:06.000Z",
       "articleId": "7e82f98ccf86ba9d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/my-very-charming-conversation-with-craig-newmark.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-charming-conversation-with-craig-newmark",
-      "title": "My very charming Conversation with Craig Newmark",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/my-very-charming-conversation-with-craig-newmark.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Craig discuss why webpage design has gotten worse for 30 years, what Craig’s “obsessive customer service disorder” taught him about human nature, why trusting people and maintaining a nine-second rule for scams aren’t as contradictory as they sound, why [&#8230;] The post My very charming Conversation with Craig Newmark appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-30T04:26:56.000Z",
-      "articleId": "f7c3a0569f4fc972"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-strong-month-in-a-fragile-market",
@@ -1005,17 +1016,6 @@
       "summary": "Waymo's biggest mistakes happened when it stopped in the wrong place.",
       "publishedAt": "2026-04-22T22:49:44.000Z",
       "articleId": "1fa575779bae54f6"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/housing-policy-keeps-running-into",
-      "title": "Housing policy keeps running into the same problems",
-      "url": "https://www.slowboring.com/p/housing-policy-keeps-running-into",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Federal gridlock and local bottlenecks continue to slow down construction. Meanwhile, people are scrambling for housing.",
-      "publishedAt": "2026-04-22T22:01:20.000Z",
-      "articleId": "af13cda36c193c6d"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
@@ -1797,17 +1797,6 @@
       "summary": "Loyal losers don’t go very far with this president.",
       "publishedAt": "2026-04-04T11:00:18.000Z",
       "articleId": "5cb2db5a8f20b3c1"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/salarymen-specialists-and-small-businesses",
-      "title": "Salarymen, specialists, and small businesses",
-      "url": "https://www.noahpinion.blog/p/salarymen-specialists-and-small-businesses",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Some brief thoughts on the (near) future of work.",
-      "publishedAt": "2026-04-03T16:50:28.000Z",
-      "articleId": "4d23659b59cbc366"
     }
   ],
   "sources": [
