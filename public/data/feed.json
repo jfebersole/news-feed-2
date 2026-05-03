@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-03T09:39:21.041Z",
-  "fetchedAt": "2026-05-03T09:39:21.035Z",
+  "generatedAt": "2026-05-03T11:05:47.164Z",
+  "fetchedAt": "2026-05-03T11:05:47.159Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 166,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
+      "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
+      "url": "https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The feeling of efficiency should be mistrusted.",
+      "publishedAt": "2026-05-03T10:00:23.000Z",
+      "articleId": "549ff1eeeda73657"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-ordinary-men-of-the-nazi-party.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ordinary-men-of-the-nazi-party",
       "title": "The ‘Ordinary Men’ of the Nazi Party",
