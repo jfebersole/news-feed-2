@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-04T07:21:55.364Z",
-  "fetchedAt": "2026-05-04T07:21:55.359Z",
+  "generatedAt": "2026-05-04T10:23:09.541Z",
+  "fetchedAt": "2026-05-04T10:23:09.532Z",
   "sourceCount": 21,
-  "itemCount": 164,
-  "totalItemCount": 765,
+  "itemCount": 165,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/all-signs-point-to-the-knicks-which",
+      "title": "All Signs Point to the Knicks — Which Is the Problem",
+      "url": "https://neilpaine.substack.com/p/all-signs-point-to-the-knicks-which",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "With the East opening up, New York finally looks primed for a deep run. And that's exactly when things have always gone sideways before.",
+      "publishedAt": "2026-05-04T10:03:43.000Z",
+      "articleId": "a63bbd3ea99a9dfe"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/we-should-pay-more-for-the-best-teachers",
+      "title": "We should pay more for the best teachers",
+      "url": "https://www.slowboring.com/p/we-should-pay-more-for-the-best-teachers",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A popular, compelling, correct idea",
+      "publishedAt": "2026-05-04T10:03:42.000Z",
+      "articleId": "e234deb7ff22a221"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/google-earnings-meta-earnings/",
+      "title": "Google Earnings, Meta Earnings",
+      "url": "https://stratechery.com/2026/google-earnings-meta-earnings/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Wall Street loved Google's earnings, and hated Meta's, even though the latter's core business was more impressive. The difference is that Google is monetizing its investments now (and it might be all Anthropic).",
+      "publishedAt": "2026-05-04T10:00:00.000Z",
+      "articleId": "637ec671dad66e69"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-makes-art-great.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-art-great",
       "title": "What makes art great?",
@@ -974,17 +1007,6 @@
       "articleId": "4351577931d42eb3"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/should-we-miss-hypocritical-idealism",
-      "title": "Should we miss hypocritical idealism in American foreign policy?",
-      "url": "https://www.slowboring.com/p/should-we-miss-hypocritical-idealism",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The upside of Trump's cynical realism",
-      "publishedAt": "2026-04-23T10:34:08.000Z",
-      "articleId": "84973b263128634a"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/",
       "title": "An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment",
       "url": "https://stratechery.com/2026/an-interview-with-google-cloud-ceo-thomas-kurian-about-the-agentic-moment/",
@@ -1192,17 +1214,6 @@
       "summary": "What Muse Spark tells us about Meta&#8217;s new AI strategy.",
       "publishedAt": "2026-04-20T13:39:52.000Z",
       "articleId": "598e36e76a5fd67f"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
-      "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
-      "url": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.",
-      "publishedAt": "2026-04-20T10:00:00.000Z",
-      "articleId": "2ee8300096b4f293"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7210888/2026/04/20/new-york-giants-mock-draft-targets-10th-pick-dexter-lawrence-trade/",
@@ -1887,7 +1898,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
