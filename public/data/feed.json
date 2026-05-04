@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-04T12:53:36.873Z",
-  "fetchedAt": "2026-05-04T12:53:36.868Z",
+  "generatedAt": "2026-05-04T15:17:33.758Z",
+  "fetchedAt": "2026-05-04T15:17:33.753Z",
   "sourceCount": 21,
   "itemCount": 163,
-  "totalItemCount": 766,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
+      "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
+      "url": "https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The feeling of efficiency should be mistrusted.",
+      "publishedAt": "2026-05-04T14:35:54.000Z",
+      "articleId": "549ff1eeeda73657"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-southern-poverty-law-center-indictment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-southern-poverty-law-center-indictment",
       "title": "The Southern Poverty Law Center Indictment",
@@ -114,17 +125,6 @@
       "summary": "1. &#8220;data centers are now responsible for nearly half of county tax revenue in Loudon County, VA&#8221; 2. The emerging role of competition in health care markets. 3. Did the Swedes boost tax revenue by abolishing their inheritance tax? 4. WSJ profile of Reihan Salam. 5. Are NJ diners doomed? (NYT) 6. How far back [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-03T16:55:34.000Z",
       "articleId": "9eb9e4cc11936a8c"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
-      "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
-      "url": "https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The feeling of efficiency should be mistrusted.",
-      "publishedAt": "2026-05-03T10:00:24.000Z",
-      "articleId": "549ff1eeeda73657"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-ordinary-men-of-the-nazi-party.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ordinary-men-of-the-nazi-party",
@@ -1811,16 +1811,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
