@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-04T21:18:13.681Z",
-  "fetchedAt": "2026-05-04T21:18:13.677Z",
+  "generatedAt": "2026-05-04T23:08:31.585Z",
+  "fetchedAt": "2026-05-04T23:08:31.580Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 764,
+  "itemCount": 163,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-martha-nussbaum.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-martha-nussbaum",
+      "title": "What should I ask Martha Nussbaum?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-martha-nussbaum.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes, I will be doing a Conversation with her. Most of all focusing on her recent book The Republic of Love: Opera and Political Freedom. So what should I ask her? The post What should I ask Martha Nussbaum? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-04T22:10:59.000Z",
+      "articleId": "c4437f48d8206cc1"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trump-is-losing-his-own-people",
+      "title": "Trump is losing his own people",
+      "url": "https://www.slowboring.com/p/trump-is-losing-his-own-people",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Where the races and the voters stand &#8212; with six months until Election Day.",
+      "publishedAt": "2026-05-04T22:01:39.000Z",
+      "articleId": "1b5a0792f9eb6faf"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mslwzulir52u7sktb9pf.html",
       "title": "Money Stuff: GameStop Doesn’t Have Enough Stock",
@@ -378,17 +400,6 @@
       "summary": "National debt; AI cyberattacks; Phone bans; AI and coding jobs; Millennials vs. Boomers; Public order; California YIMBYism",
       "publishedAt": "2026-05-01T08:57:37.000Z",
       "articleId": "c2f20466469e9e06"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/new-results-on-ai-mental-health-therapists.html?utm_source=rss&utm_medium=rss&utm_campaign=new-results-on-ai-mental-health-therapists",
-      "title": "New results on AI mental health therapists",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/new-results-on-ai-mental-health-therapists.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "AI-powered mental health apps have attracted growing interest as a low-cost way to expand care. Yet questions remain about their effectiveness, safety, and whether they may crowd out psychotherapy. We evaluate one such app in a randomized controlled trial among 1,964 Mexican women with mild to severe psychological distress. Over six months, app access improved [&#8230;] The post New results on AI mental health therapists appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-01T07:30:42.000Z",
-      "articleId": "4b67ac4f9fc1f60d"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/what-deontological-bars",
@@ -1881,7 +1892,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
