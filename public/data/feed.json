@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-04T15:17:33.758Z",
-  "fetchedAt": "2026-05-04T15:17:33.753Z",
+  "generatedAt": "2026-05-04T17:50:01.002Z",
+  "fetchedAt": "2026-05-04T17:50:00.997Z",
   "sourceCount": 21,
-  "itemCount": 163,
-  "totalItemCount": 756,
+  "itemCount": 162,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/monday-assorted-links-558.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-558",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/monday-assorted-links-558.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Ezra Klein on whether AI is likely to lead to mass unemployment (NYT). 2. There is a great Kentucky Derby stagnation. 3. Is open source AI overrated? 4. The deadweight loss of the human capital in prison? 5. How AI is transforming China&#8217;s entertainment industry (NYT). 6. &#8220;Twelve free, citation-rigorous tools for the students, [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-04T15:29:37.000Z",
+      "articleId": "0dfe3f1d9fd8f74c"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
       "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
@@ -13,7 +24,7 @@
       "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
       "summary": "The feeling of efficiency should be mistrusted.",
-      "publishedAt": "2026-05-04T14:35:54.000Z",
+      "publishedAt": "2026-05-04T14:35:55.000Z",
       "articleId": "549ff1eeeda73657"
     },
     {
@@ -34,7 +45,7 @@
       "source": "Neil Paine",
       "sourceUrl": "https://neilpaine.substack.com/",
       "access": "open",
-      "summary": "With the East opening up, New York finally looks primed for a deep run. And that's exactly when things have always gone sideways before.",
+      "summary": "With the East opening up, New York looks primed for a Finals run. And that's exactly when things have always gone sideways before.",
       "publishedAt": "2026-05-04T10:03:43.000Z",
       "articleId": "a63bbd3ea99a9dfe"
     },
@@ -380,17 +391,6 @@
       "articleId": "62fc3d102623ac0d"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-550.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-550",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/thursday-assorted-links-550.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. &#8220;Olympiaders were 1500x more likely to be billionaires and 4000x more likely to be unicorn founders than the average person!&#8221; 2. An SRO approaching to regulating AI. 3. Dwarkesh: &#8220;We don’t talk enough about how any state or group which is harvesting encrypted packets right now will be able to read those contents once [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-30T18:07:39.000Z",
-      "articleId": "e47477c2d441dd7d"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pfhx4tnvn8wpu4igmfe3.html",
       "title": "Money Stuff: Sell the Electricity No One Is Using",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pfhx4tnvn8wpu4igmfe3.html",
@@ -477,17 +477,6 @@
       "summary": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
       "publishedAt": "2026-04-30T10:00:00.000Z",
       "articleId": "f8e2d2d0f6ce84bb"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-reds-are-running-baseballs-ultimate",
-      "title": "The Reds Are Running Baseball's Ultimate Stars-and-Scrubs Experiment",
-      "url": "https://neilpaine.substack.com/p/the-reds-are-running-baseballs-ultimate",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "This isn't the Big Red Machine, but a new generation of stars is carrying one of baseball's most surprising contenders.",
-      "publishedAt": "2026-04-30T09:58:23.000Z",
-      "articleId": "2ae94eca8fc7ec77"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-strong-month-in-a-fragile-market",
@@ -1811,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1876,7 +1865,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
