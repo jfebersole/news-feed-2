@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-04T10:23:09.541Z",
-  "fetchedAt": "2026-05-04T10:23:09.532Z",
+  "generatedAt": "2026-05-04T12:53:36.873Z",
+  "fetchedAt": "2026-05-04T12:53:36.868Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 163,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-southern-poverty-law-center-indictment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-southern-poverty-law-center-indictment",
+      "title": "The Southern Poverty Law Center Indictment",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-southern-poverty-law-center-indictment.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The excellent Patrick McKenzie has a very long Bits About Money post on the the Southern Poverty Law Center (SPLC) indictment. It is filled with details about bank operating procedures. I&#8217;m going to summarize. The post is divided into what I think of as two parts. First, did the SPLC commit bank fraud? Second, what [&#8230;] The post The Southern Poverty Law Center Indictment appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-04T11:17:55.000Z",
+      "articleId": "d39ff15b1cc6e32e"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/all-signs-point-to-the-knicks-which",
       "title": "All Signs Point to the Knicks — Which Is the Problem",
@@ -422,17 +433,6 @@
       "summary": "Money Stuff American Efficient, PSUS, BJ's. View in browser American Efficient People keep inventing new things that use electricity. As people use more electric stuff, they need to find electricity to power it. One approach is to build new power plants to generate new electricity, but this is expensive, time-consuming and environmentally problematic. Another way to get electricity for new stuff is for people to use less electricity for other stuff. Rip out your old energy-inefficient light bulbs or appliances and replace them with new, more-efficient bulbs or appliances. Set your air conditioner to 74 instead of 68. Etc. You might think that these two approaches — (1) build a power plant, (2) use your air conditioner less — would be fungible, and market prices would determine the balance between them. You can get paid for generating a megawatt-hour of electricity, you have to pay to use a megawatt-hour of electricity, and the market price will incentivize some people to generate more and others to use less. But electricity is a weird commodity: It can’t be stored easily, and supply and demand have to balance minute by minute. Electric grid operators — the agencies that coordinate regional power grids in the US — care about capacity , making sure that they have enough electricity to meet peak demand. And so they pay power generators not only for each megawatt-hour they produce, but also for adding capacity to the system. There are “ capacity auctions ” where power generators commit to be available to generate power in future years, and get paid for those commitments out of customers’ electric bills. If you build a power plant, you can get paid both for the capacity that you commit and for actually generating electricity. But what about saving electricity? Committing to use one less megawatt at peak times is about as good as committing to supply one more megawatt at peak times. And so grid operators often have capacity auctions for using less electricity: If you commit to use less electricity at peak times, you can get paid for it. But: What? What does that mean? What could it mean to commit to using less electricity (less than what?), and get paid for it? [1] One thing it could mean is that you install a smart thermostat that turns off the air conditioning at times of peak demand. (This is called “demand response.”) But in theory it could also mean that you get rid of your old energy-inefficient refrigerator and install a new, more efficient one. This causes you to use less electricity, including at peak times; it gives capacity back to the electric grid. Therefore someone should get paid for it. But: Who? You? It is administratively annoying for a grid operator to pay every consumer, like, $1 for installing a new fridge. Your electric utility?...",
       "publishedAt": "2026-04-30T17:24:28.296Z",
       "articleId": "4a38f58beceb1da9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/04/the-collapse-of-teen-fertility-in-the-digital-era.html?utm_source=rss&utm_medium=rss&utm_campaign=the-collapse-of-teen-fertility-in-the-digital-era",
-      "title": "The collapse of teen fertility in the digital era",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/04/the-collapse-of-teen-fertility-in-the-digital-era.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Teen fertility collapsed globally starting around 2007. This affected countries across the income and policy spectrum. This paper argues that smartphones changed how teens spend time with each other, and that this change in turn drove the collapse in teen fertility. Once enough teens are on the phone, being on the phone is where the [&#8230;] The post The collapse of teen fertility in the digital era appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-04-30T16:07:35.000Z",
-      "articleId": "441eda9eb5cd556c"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-an-oil-refinery-works",
@@ -1797,28 +1797,6 @@
       "summary": "Author and historian Matthew Hild stops by to talk about his new biography of Olivia Newton-John",
       "publishedAt": "2026-04-05T13:31:25.000Z",
       "articleId": "d16e1439b7022d41"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04042026",
-      "title": "Reading List 04/04/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-04042026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Aluminum disruptions, the EV rust belt, the ongoing transformer shortage, SpaceX&#8217;s IPO, and more",
-      "publishedAt": "2026-04-04T12:01:48.000Z",
-      "articleId": "9a8b0dc9e6f8aa5e"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/04/opinion/trump-bondi-hegseth-noem.html",
-      "title": "Trump Needs Smarter Sycophants",
-      "url": "https://www.nytimes.com/2026/04/04/opinion/trump-bondi-hegseth-noem.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Loyal losers don’t go very far with this president.",
-      "publishedAt": "2026-04-04T11:00:18.000Z",
-      "articleId": "5cb2db5a8f20b3c1"
     }
   ],
   "sources": [
