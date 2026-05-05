@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-05T20:19:06.759Z",
-  "fetchedAt": "2026-05-05T20:19:06.755Z",
+  "generatedAt": "2026-05-05T22:11:05.035Z",
+  "fetchedAt": "2026-05-05T22:11:05.030Z",
   "sourceCount": 21,
   "itemCount": 165,
-  "totalItemCount": 765,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
+      "title": "Trump’s Ukraine Policy Is Succeeding While His Iran Policy Flails",
+      "url": "https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "With Ukraine, you can glimpse the shape of success.",
+      "publishedAt": "2026-05-05T21:00:04.000Z",
+      "articleId": "de35d1b00c2128bc"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/aor9nevwf2wjs88jtbjm.html",
       "title": "Money Stuff: Investment Banking Without a License",
@@ -917,17 +928,6 @@
       "summary": "Happy people dodging Lime scooters",
       "publishedAt": "2026-04-24T22:07:17.000Z",
       "articleId": "49d62772934c04da"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-the-offline-discourse-class",
-      "title": "What the offline discourse class is talking about",
-      "url": "https://www.slowboring.com/p/what-the-offline-discourse-class",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Swing-state letter writers are not arguing about whether petty theft is a new kind of political protest.",
-      "publishedAt": "2026-04-24T22:01:39.000Z",
-      "articleId": "2d071a0e923308e4"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/whos-afraid-of-the-money-supply",
@@ -1914,7 +1914,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
