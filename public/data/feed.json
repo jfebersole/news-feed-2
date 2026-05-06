@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-06T16:52:16.301Z",
-  "fetchedAt": "2026-05-06T16:52:16.298Z",
+  "generatedAt": "2026-05-06T18:54:27.224Z",
+  "fetchedAt": "2026-05-06T18:54:27.219Z",
   "sourceCount": 21,
-  "itemCount": 165,
-  "totalItemCount": 765,
+  "itemCount": 164,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ice-has-not-improved-u-s-labor-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=ice-has-not-improved-u-s-labor-markets",
+      "title": "ICE has not improved U.S. labor markets",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ice-has-not-improved-u-s-labor-markets.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We provide the first causal, national empirical analysis of the labor market impacts of heightened immigration enforcement during the second Trump administration. Enforcement increased everywhere, but, we take advantage of the fact that the increases have been uneven across geographic areas to classify areas as treated or control and then implement an event study and [&#8230;] The post ICE has not improved U.S. labor markets appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-06T18:14:11.000Z",
+      "articleId": "60df891628c04bb7"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/r9q1sfnd57x7pl9ljxit.html",
+      "title": "Money Stuff: ChatGPT Can’t Pick the Stocks",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/r9q1sfnd57x7pl9ljxit.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff AI, marks, margin, TD3C, Paul Anka. View in browser AI bots I often write around here that there are two fundamental ways to use artificial intelligence to trade stocks: You build a machine learning model for stock prices, you train it on historical data, and you use it to predict future stock prices. You buy the stocks that it says will go up. You subscribe to ChatGPT. You prompt it, like, “You are a brilliant hedge fund portfolio manager. What stocks will go up?” You buy the stocks that it says will go up. The first model is, approximately, a “quant hedge fund.” People have been doing some form of this for a long time, and some of them ( Renaissance Technologies comes to mind) have had a great deal of sustained success. This model works. Not always, not for everyone, and you might reasonably worry about risk or crowding or regime changes or whatever. But hiring really good machine learning engineers to build models to predict stock prices makes sense both theoretically and empirically. The second model … I mean, when I started writing about these two models, I was joking about the second model. The second model is a joke! Come on! Like: Training a model on historical financial data to predict future financial data makes sense. Training a model on a corpus of, like, books and Reddit to write coherent prose, and then asking it to predict future financial data, is a non sequitur. “If we use all of the world’s electricity and microchips, we can train a model that is smarter than the smartest Ph.D.,” but the smartest Ph.D. is not necessarily good at picking stocks! In some obvious sense an omniscient superintelligence should be good at picking stocks, but that seems like way too high a standard for picking stocks. Just, you know, regress some historical stock prices against some historical data and see what you get. You can get ChatGPT for like $20 a month? And everyone does? And everyone is like “hey ChatGPT what stocks should I buy”? Why would you expect to get alpha from doing an easy thing that everyone else does? But, though I was joking about this, nobody else is. People keep trying it! For intuitive reasons: It is hard to build a machine learning model to predict stock prices, but it is easy to ask ChatGPT what stocks to buy. The frontier AI labs have done the hard work, and now by far the most accessible way to use artificial intelligence to pick stocks is by asking a chatbot. So people do. As far as I know, no big hedge fund actually has a strategy of “we ask ChatGPT what stocks to buy and then buy them,” but we are getting perilously close . Anyway Bloomberg’s Justina Lee reports : AI isn’t ready to replace your fund manager — and the public experiments testing it are showing why. Across a series of new trading contests between...",
+      "publishedAt": "2026-05-06T18:00:05.971Z",
+      "articleId": "3aedb09ee36bf0b4"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+      "title": "The beauty of tautologies",
+      "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Seeing the world in a new way",
+      "publishedAt": "2026-05-06T17:13:51.000Z",
+      "articleId": "3f7f92001e4acba6"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-552.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-552",
       "title": "Wednesday assorted links",
@@ -314,17 +347,6 @@
       "articleId": "d39ff15b1cc6e32e"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/all-signs-point-to-the-knicks-which",
-      "title": "All Signs Point to the Knicks — Which Is the Problem",
-      "url": "https://neilpaine.substack.com/p/all-signs-point-to-the-knicks-which",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "With the East opening up, New York looks primed for a Finals run. And that's exactly when things have always gone sideways before.",
-      "publishedAt": "2026-05-04T10:03:43.000Z",
-      "articleId": "a63bbd3ea99a9dfe"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/we-should-pay-more-for-the-best-teachers",
       "title": "We should pay more for the best teachers",
       "url": "https://www.slowboring.com/p/we-should-pay-more-for-the-best-teachers",
@@ -411,17 +433,6 @@
       "summary": "1. &#8220;data centers are now responsible for nearly half of county tax revenue in Loudon County, VA&#8221; 2. The emerging role of competition in health care markets. 3. Did the Swedes boost tax revenue by abolishing their inheritance tax? 4. WSJ profile of Reihan Salam. 5. Are NJ diners doomed? (NYT) 6. How far back [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-03T16:55:34.000Z",
       "articleId": "9eb9e4cc11936a8c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-ordinary-men-of-the-nazi-party.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ordinary-men-of-the-nazi-party",
-      "title": "The ‘Ordinary Men’ of the Nazi Party",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ordinary-men-of-the-nazi-party.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We digitize and analyze the near-universe of National Socialist German Workers’ Party (NSDAP) membership records and link them to population and industrial censuses. Four findings emerge. First, as the party expanded, its membership came to resemble the broader population more closely in occupational, demographic, and religious terms. Second, SS members’ characteristics remained different: younger, more [&#8230;] The post The ‘Ordinary Men’ of the Nazi Party appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-03T07:42:07.000Z",
-      "articleId": "c4b42fb52c59623a"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/californias-billionaire-tax-is-the",
@@ -719,17 +730,6 @@
       "summary": "...",
       "publishedAt": "2026-04-28T19:55:10.000Z",
       "articleId": "fff46ee2c3e8487e"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/yfygi1pz295dpmqrxmwa.html",
-      "title": "Money Stuff: The Robots Make the Predictions",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/yfygi1pz295dpmqrxmwa.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Bots, OBDC II, Rivian, Claude, WLF, Boardy. View in browser Polymarket bots I wrote last week that, in investing, “There’s no magic, no dark matter, no other source of gains. Everyone’s gains come from (1) economic growth and (2) other people’s losses.” In the aggregate, everyone gets the market return, which comes from allocating capital to economic growth. Some people get more and others get less, but they necessarily cancel each other out. People invest anyway, though, because allocating capital to economic growth is a good long-term proposition. Prediction markets don’t have that. People put $1 into a prediction market event contract, and at resolution it pays out $1 to the winner. There is no investment in economic growth, no source of long-term returns; everyone’s winnings come from someone else’s losses. In the stock market, there are big high-frequency trading firms that make markets for retail investors, selling to investors who want to buy and buying from investors who want to sell. Those firms tend to make a lot of money. As a first cut, the money they make comes from the regular investors. (Who else could it come from?) Retail investors regularly get angry about this . But retail investing is still, you know, good. It is still positive-sum: Retail investors are in aggregate putting their money into companies and profiting from overall economic growth. It is possible, likely even, that (1) big electronic market making firms make billions of dollars off of retail stock investors and (2) those retail stock investors also make billions of dollars themselves. It is nice to play a positive-sum game. Stock options, I don’t know, man. Big electronic trading firms also increasingly make markets in prediction markets. What conclusion can you draw from that? The extremely obvious one , surely? “Big electronic trading firms are not idiots or charities, they reasonably plan to make a lot of money in prediction markets, that money has to come at the expense of regular retail traders on prediction markets, and since there is no other source of profits in prediction markets, that means that prediction markets are a negative-sum game for retail traders.” It is embarrassing to type this. “Sports gamblers lose money on average,” yes, duh. Anyway Bloomberg’s Carolyn Silverman, Nathaniel Popper and Marie Patino report : Over 100,000 accounts lost at least $1,000 on Polymarket, one of the largest prediction markets, according to a Bloomberg News analysis of every wallet active since the beginning of 2025. That is almost twice the number that made at least that much. Among the winners, a majority of the profits were raked in by a tiny slice of what look to be automated bots, based on the Polymarket trade records compiled by the data firm Dune....",
-      "publishedAt": "2026-04-28T19:07:40.923Z",
-      "articleId": "08dd539882d0002b"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
@@ -1808,17 +1808,6 @@
       "summary": "But it will be hard to assemble a broad coalition of AI skeptics.",
       "publishedAt": "2026-04-06T19:02:49.000Z",
       "articleId": "45fc56bbd41413f9"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
-      "title": "Giants All-Pro DT Dexter Lawrence requests trade: Source",
-      "url": "https://www.nytimes.com/athletic/7176164/2026/04/06/giants-dexter-lawrence-trade-request/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Lawrence clearly wants a salary that reflects his importance to the team, especially with inferior players around the league earning more.",
-      "publishedAt": "2026-04-06T17:12:36.000Z",
-      "articleId": "06eab783afe92a64"
     }
   ],
   "sources": [
@@ -1898,7 +1887,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
