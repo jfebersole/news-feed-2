@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-06T18:54:27.224Z",
-  "fetchedAt": "2026-05-06T18:54:27.219Z",
+  "generatedAt": "2026-05-06T20:44:09.277Z",
+  "fetchedAt": "2026-05-06T20:44:09.272Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists",
+      "title": "I don’t think we are close to “AI scientists”",
+      "url": "https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Today's AI agents are not designed to extract deep insights from new observations.",
+      "publishedAt": "2026-05-06T20:31:32.000Z",
+      "articleId": "5b50a916102ccced"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ice-has-not-improved-u-s-labor-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=ice-has-not-improved-u-s-labor-markets",
       "title": "ICE has not improved U.S. labor markets",
@@ -1797,17 +1808,6 @@
       "summary": "Just one candle in the darkness.",
       "publishedAt": "2026-04-07T04:50:06.000Z",
       "articleId": "754d9b0bca7d7536"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/bernie-sanders-has-a-plan-to-stop",
-      "title": "Bernie Sanders has a plan to stop the AI industry",
-      "url": "https://www.understandingai.org/p/bernie-sanders-has-a-plan-to-stop",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "But it will be hard to assemble a broad coalition of AI skeptics.",
-      "publishedAt": "2026-04-06T19:02:49.000Z",
-      "articleId": "45fc56bbd41413f9"
     }
   ],
   "sources": [
