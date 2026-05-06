@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-06T14:44:13.543Z",
-  "fetchedAt": "2026-05-06T14:44:13.538Z",
+  "generatedAt": "2026-05-06T16:52:16.301Z",
+  "fetchedAt": "2026-05-06T16:52:16.298Z",
   "sourceCount": 21,
   "itemCount": 165,
-  "totalItemCount": 756,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-552.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-552",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-552.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. &#8220;We find evidence of LLMs enabling people to file lawsuits without lawyers (filing &#8220;pro se&#8221;) at historically unprecedented rates in federal courts.&#8221; 2. The persistent apartheid infrastructure of Cape Town, as experienced through bicycle (NYT). 3. Interviews with famous economic historians. 4. The AI job displacement worry. 5. &#8220;The administration lacks authority to mandate [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-06T16:00:44.000Z",
+      "articleId": "6c08fb4cff652ca6"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/dont-copy-donald-trumps-failed-presidency",
       "title": "Don’t copy Donald Trump’s failed presidency",
@@ -411,17 +422,6 @@
       "summary": "We digitize and analyze the near-universe of National Socialist German Workers’ Party (NSDAP) membership records and link them to population and industrial censuses. Four findings emerge. First, as the party expanded, its membership came to resemble the broader population more closely in occupational, demographic, and religious terms. Second, SS members’ characteristics remained different: younger, more [&#8230;] The post The ‘Ordinary Men’ of the Nazi Party appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-03T07:42:07.000Z",
       "articleId": "c4b42fb52c59623a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/is-there-a-recent-growth-in-negative-sum-assets.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-recent-growth-in-negative-sum-assets",
-      "title": "Is there a recent growth in negative-sum assets?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/is-there-a-recent-growth-in-negative-sum-assets.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column, starting with that rebranding of the sneaker company to &#8220;an AI company.&#8221; Here is one excerpt: As an economist, I find positive-sum gambles more appealing than negative-sum gambles. Positive-sum gambles might include buying blue-chip stocks, exercising more (even if there is always risk of injury), [&#8230;] The post Is there a recent growth in negative-sum assets? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-03T04:55:39.000Z",
-      "articleId": "d7c16b140fc38495"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/californias-billionaire-tax-is-the",
@@ -1833,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
