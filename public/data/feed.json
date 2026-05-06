@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-06T09:35:23.971Z",
-  "fetchedAt": "2026-05-06T09:35:23.965Z",
+  "generatedAt": "2026-05-06T12:03:57.621Z",
+  "fetchedAt": "2026-05-06T12:03:57.615Z",
   "sourceCount": 21,
-  "itemCount": 166,
-  "totalItemCount": 764,
+  "itemCount": 167,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/dont-copy-donald-trumps-failed-presidency",
+      "title": "Don’t copy Donald Trump’s failed presidency",
+      "url": "https://www.slowboring.com/p/dont-copy-donald-trumps-failed-presidency",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The Orange Man is bad at the job.",
+      "publishedAt": "2026-05-06T10:03:04.000Z",
+      "articleId": "c4ab3a49d3197259"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/alex-zanardi-made-you-believe",
+      "title": "Alex Zanardi Made You Believe",
+      "url": "https://neilpaine.substack.com/p/alex-zanardi-made-you-believe",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "From his audacious CART dominance to his Paralympic triumphs, Zanardi lived as if impossible feats were only waiting for someone brave enough to try them.",
+      "publishedAt": "2026-05-06T10:02:59.000Z",
+      "articleId": "a51ff9bd3ed99154"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/microsoft-earnings-apple-earnings/",
+      "title": "Microsoft Earnings, Apple Earnings",
+      "url": "https://stratechery.com/2026/microsoft-earnings-apple-earnings/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Microsoft unveils its new agentic business model, and Apple confronts shortages in memory and chips even as the Mac benefits from AI.",
+      "publishedAt": "2026-05-06T10:00:00.000Z",
+      "articleId": "47047de314568e4b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/korean-banana-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=korean-banana-markets-in-everything",
       "title": "Korean banana markets in everything",
@@ -422,17 +455,6 @@
       "summary": "The Democrats’ fundamental condition is a late-Trumpian stasis.",
       "publishedAt": "2026-05-02T11:00:18.000Z",
       "articleId": "a91f97b632ed3567"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-april-27-may-1",
-      "title": "The Week That Was (April 27-May 1, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-april-27-may-1",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-05-02T10:02:34.000Z",
-      "articleId": "50eb8823e93fab59"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/more-of-halinas-hottest-takes",
@@ -1183,17 +1205,6 @@
       "articleId": "402be391a7a06c4b"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
-      "title": "John Ternus and Apple’s Hardware-Defined Future, SpaceXAI and Cursor",
-      "url": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "articleId": "4e5246208e916c7b"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/half-a-month-of-consolation-writing",
       "title": "Half A Month Of Consolation Writing Advice",
       "url": "https://www.astralcodexten.com/p/half-a-month-of-consolation-writing",
@@ -1844,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
@@ -1925,7 +1936,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
