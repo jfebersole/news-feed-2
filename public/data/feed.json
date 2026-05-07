@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-07T20:24:28.103Z",
-  "fetchedAt": "2026-05-07T20:24:28.097Z",
+  "generatedAt": "2026-05-07T22:13:34.501Z",
+  "fetchedAt": "2026-05-07T22:13:34.497Z",
   "sourceCount": 21,
-  "itemCount": 164,
-  "totalItemCount": 764,
+  "itemCount": 162,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/f7tjd5hpv4gb1x7zrfyt.html",
@@ -23,7 +23,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. School shootings are declining quite a bit. 2. Dean Ball on the real reasons to regulate AI. 3. Noah on development economics. 4. Peter Frampton update (NYT). 5. What have we learned about human communication? 6. Polymarket on hantavirus. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. School shootings are declining quite a bit. 2. Dean Ball on the real reasons to regulate AI. 3. Noah on development economics, link now corrected. 4. Peter Frampton update (NYT). 5. What have we learned about human communication? 6. Polymarket on hantavirus. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-07T17:43:51.000Z",
       "articleId": "e8136a7844cb6366"
     },
@@ -884,17 +884,6 @@
       "summary": "Britain gave an elite group of engineers sweeping power and massive resources to deliver a nuclear power revolution. But their nuclear dreams crumbled.",
       "publishedAt": "2026-04-28T11:45:01.000Z",
       "articleId": "e44e3bdf88c8ee16"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-radical-idea-for-breaking-the-cycle",
-      "title": "A radical idea for breaking the cycle of public anger",
-      "url": "https://www.slowboring.com/p/a-radical-idea-for-breaking-the-cycle",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "What if we actually focused on the cost of living?",
-      "publishedAt": "2026-04-28T10:03:06.000Z",
-      "articleId": "08c0ccdcd06fb9cc"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7236468/2026/04/28/new-york-giants-draft-board-rank-notebook/",
@@ -1797,17 +1786,6 @@
       "summary": "A preview of everything to come in Issue 23",
       "publishedAt": "2026-04-08T14:06:22.000Z",
       "articleId": "6ea6f507d7599e0b"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/zagreb-meetup-this-friday",
-      "title": "Zagreb Meetup This Friday",
-      "url": "https://www.astralcodexten.com/p/zagreb-meetup-this-friday",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-04-07T20:51:24.000Z",
-      "articleId": "fb9c560b77af0a28"
     }
   ],
   "sources": [
@@ -1903,7 +1881,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
