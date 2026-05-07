@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-06T23:06:44.956Z",
-  "fetchedAt": "2026-05-06T23:06:44.952Z",
+  "generatedAt": "2026-05-07T00:04:05.179Z",
+  "fetchedAt": "2026-05-07T00:04:05.175Z",
   "sourceCount": 21,
   "itemCount": 164,
-  "totalItemCount": 754,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/are-we-kind-of-being-pricks",
@@ -1822,10 +1822,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
