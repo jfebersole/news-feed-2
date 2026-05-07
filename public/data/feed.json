@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-07T04:02:21.367Z",
-  "fetchedAt": "2026-05-07T04:02:21.362Z",
+  "generatedAt": "2026-05-07T06:49:23.879Z",
+  "fetchedAt": "2026-05-07T06:49:23.875Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-everyone-on-taste",
+      "title": "Contra Everyone On Taste",
+      "url": "https://www.astralcodexten.com/p/contra-everyone-on-taste",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-05-07T06:04:44.000Z",
+      "articleId": "8a3604724a986b3b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/william-stanley-jevons-as-polymath.html?utm_source=rss&utm_medium=rss&utm_campaign=william-stanley-jevons-as-polymath",
+      "title": "William Stanley Jevons as polymath",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/william-stanley-jevons-as-polymath.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In the 1860s Jevons built a Logical Abacus, sometimes called a logical piano, a kind of early computer that could perform (some kinds of) logical operations faster than humans could. It is held in the Museum of the History of Science at Oxford University, and you can think of its structure and operation as broadly [&#8230;] The post William Stanley Jevons as polymath appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-07T04:52:52.000Z",
+      "articleId": "8cac136579aec567"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/are-we-kind-of-being-pricks",
       "title": "Are we kind of being pricks?",
@@ -411,17 +433,6 @@
       "summary": "That is the title of the new and very stimulating essay by Nabeel Qureshi. It is difficult to summarize, but here is one excerpt: 2. Great art contains multiple overlapping layers of echoes. This is often harder to spot in verbal artifacts, but it is this feature that I think distinguishes really good works of [&#8230;] The post What makes art great? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-04T04:58:16.000Z",
       "articleId": "adc1e329ee2869bf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/last-evenings-with-teresa.html?utm_source=rss&utm_medium=rss&utm_campaign=last-evenings-with-teresa",
-      "title": "*Last Evenings with Teresa*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/last-evenings-with-teresa.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is Juan Marsé, this novel is set in 1956, first published in Spain in 1966, and only now appearing in English. Here is the Amazon link. Marsé is one of the handful of great authors who has no real presence in the Anglo world, Bioy Casares would be another. You can think of [&#8230;] The post *Last Evenings with Teresa* appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-03T23:39:06.000Z",
-      "articleId": "32db7c6798268e7d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/not-dead-just-delayed",
@@ -1797,17 +1808,6 @@
       "summary": "In retrospect, there were signs that Trump was not a good leader.",
       "publishedAt": "2026-04-07T09:43:43.000Z",
       "articleId": "025ad7a288ef447e"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
-      "title": "The Light That Changed My Life",
-      "url": "https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Just one candle in the darkness.",
-      "publishedAt": "2026-04-07T04:50:06.000Z",
-      "articleId": "754d9b0bca7d7536"
     }
   ],
   "sources": [
