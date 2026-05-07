@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-07T12:03:23.467Z",
-  "fetchedAt": "2026-05-07T12:03:23.462Z",
+  "generatedAt": "2026-05-07T14:47:26.865Z",
+  "fetchedAt": "2026-05-07T14:47:26.860Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 755,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
+      "title": "True Believers Blow Trump’s Mind",
+      "url": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Our most transactional president is having trouble processing.",
+      "publishedAt": "2026-05-07T13:37:26.000Z",
+      "articleId": "0f1bbea2a4f957ca"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/matt-and-jerusalem-read-betty-friedans",
       "title": "Matt and Jerusalem read Betty Friedan’s classic, “The Feminine Mystique”",
@@ -48,17 +59,6 @@
       "summary": "An interview with Joanna Stern about her new book about living with AI, and starting her own media company.",
       "publishedAt": "2026-05-07T10:00:00.000Z",
       "articleId": "8ee15a25b1d901ce"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-      "title": "True Believers Blow Trump’s Mind",
-      "url": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Our most transactional president is having trouble processing.",
-      "publishedAt": "2026-05-07T09:05:05.000Z",
-      "articleId": "0f1bbea2a4f957ca"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/agi-could-lower-interest-rates.html?utm_source=rss&utm_medium=rss&utm_campaign=agi-could-lower-interest-rates",
@@ -1808,17 +1808,6 @@
       "summary": "The star defensive tackle made his trade demand public on Monday.",
       "publishedAt": "2026-04-07T17:36:21.000Z",
       "articleId": "b2b5cdf7fcf5de28"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-swan-songs",
-      "title": "Swan Songs: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-swan-songs",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring David Bowie, Juice WRLD, Ella Fitzgerald, and others",
-      "publishedAt": "2026-04-07T13:31:55.000Z",
-      "articleId": "06851b674baff572"
     }
   ],
   "sources": [
@@ -1969,10 +1958,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
