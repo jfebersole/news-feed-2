@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-07T14:47:26.865Z",
-  "fetchedAt": "2026-05-07T14:47:26.860Z",
+  "generatedAt": "2026-05-07T17:01:58.791Z",
+  "fetchedAt": "2026-05-07T17:01:58.787Z",
   "sourceCount": 21,
-  "itemCount": 164,
-  "totalItemCount": 755,
+  "itemCount": 165,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/do-americans-really-hate-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=do-americans-really-hate-ai",
+      "title": "Do Americans really hate AI?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/do-americans-really-hate-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We might be heading towards a populist backlash towards AI, but we&#8217;re not there yet. Outside the tech bubble, Americans really don&#8217;t care about AI yet. AI is Americans&#8217; 29th most important issue, according to the fantastic survey @davidshor ran that everyone is rightly looking at. It&#8217;s not surprising that Americans will answer sentiment questions about AI [&#8230;] The post Do Americans really hate AI? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-07T16:08:25.000Z",
+      "articleId": "929466f1ae6e5e30"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions",
+      "title": "How Long Do We Wait for New Inventions?",
+      "url": "https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Mostly not very long",
+      "publishedAt": "2026-05-07T15:23:28.000Z",
+      "articleId": "61d20435d50caf55"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
       "title": "True Believers Blow Trump’s Mind",
@@ -13,7 +35,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Our most transactional president is having trouble processing.",
-      "publishedAt": "2026-05-07T13:37:26.000Z",
+      "publishedAt": "2026-05-07T13:37:27.000Z",
       "articleId": "0f1bbea2a4f957ca"
     },
     {
@@ -455,17 +477,6 @@
       "summary": "The feeling of efficiency should be mistrusted.",
       "publishedAt": "2026-05-04T14:35:55.000Z",
       "articleId": "549ff1eeeda73657"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-southern-poverty-law-center-indictment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-southern-poverty-law-center-indictment",
-      "title": "The Southern Poverty Law Center Indictment",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-southern-poverty-law-center-indictment.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The excellent Patrick McKenzie has a very long Bits About Money post on the the Southern Poverty Law Center (SPLC) indictment. It is filled with details about bank operating procedures. I&#8217;m going to summarize. The post is divided into what I think of as two parts. First, did the SPLC commit bank fraud? Second, what [&#8230;] The post The Southern Poverty Law Center Indictment appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-04T11:17:55.000Z",
-      "articleId": "d39ff15b1cc6e32e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/we-should-pay-more-for-the-best-teachers",
@@ -1822,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
