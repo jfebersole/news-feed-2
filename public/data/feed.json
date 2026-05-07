@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-07T06:49:23.879Z",
-  "fetchedAt": "2026-05-07T06:49:23.875Z",
+  "generatedAt": "2026-05-07T09:43:45.559Z",
+  "fetchedAt": "2026-05-07T09:43:45.554Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
+      "title": "True Believers Blow Trump’s Mind",
+      "url": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Our most transactional president is having trouble processing.",
+      "publishedAt": "2026-05-07T09:05:05.000Z",
+      "articleId": "0f1bbea2a4f957ca"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/agi-could-lower-interest-rates.html?utm_source=rss&utm_medium=rss&utm_campaign=agi-could-lower-interest-rates",
+      "title": "AGI Could Lower Interest Rates",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/agi-could-lower-interest-rates.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Standard models predict that expectations of artificial general intelligence (AGI) should elevate long-term interest rates. I show that this prediction need not hold. I develop a heterogeneous-agent asset pricing model in which AGI, or more broadly, transformative AI (TAI) capable of automating most human labor, can lower interest rates even as it dramatically accelerates growth. [&#8230;] The post AGI Could Lower Interest Rates appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-07T06:49:38.000Z",
+      "articleId": "af446dc987e228eb"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-everyone-on-taste",
       "title": "Contra Everyone On Taste",
@@ -422,17 +444,6 @@
       "summary": "Wall Street loved Google's earnings, and hated Meta's, even though the latter's core business was more impressive. The difference is that Google is monetizing its investments now (and it might be all Anthropic).",
       "publishedAt": "2026-05-04T10:00:00.000Z",
       "articleId": "637ec671dad66e69"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-makes-art-great.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-art-great",
-      "title": "What makes art great?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-makes-art-great.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the title of the new and very stimulating essay by Nabeel Qureshi. It is difficult to summarize, but here is one excerpt: 2. Great art contains multiple overlapping layers of echoes. This is often harder to spot in verbal artifacts, but it is this feature that I think distinguishes really good works of [&#8230;] The post What makes art great? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-04T04:58:16.000Z",
-      "articleId": "adc1e329ee2869bf"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/not-dead-just-delayed",
@@ -1797,17 +1808,6 @@
       "summary": "Featuring David Bowie, Juice WRLD, Ella Fitzgerald, and others",
       "publishedAt": "2026-04-07T13:31:55.000Z",
       "articleId": "06851b674baff572"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
-      "title": "I told you this would end badly",
-      "url": "https://www.noahpinion.blog/p/i-told-you-this-would-end-badly",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "In retrospect, there were signs that Trump was not a good leader.",
-      "publishedAt": "2026-04-07T09:43:43.000Z",
-      "articleId": "025ad7a288ef447e"
     }
   ],
   "sources": [
