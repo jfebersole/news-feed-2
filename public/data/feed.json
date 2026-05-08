@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-08T09:49:23.563Z",
-  "fetchedAt": "2026-05-08T09:49:23.558Z",
+  "generatedAt": "2026-05-08T11:43:20.894Z",
+  "fetchedAt": "2026-05-08T11:43:20.888Z",
   "sourceCount": 21,
-  "itemCount": 165,
-  "totalItemCount": 753,
+  "itemCount": 167,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-real-lesson-of-spirits-bankruptcy",
+      "title": "The real lesson of Spirit’s bankruptcy",
+      "url": "https://www.slowboring.com/p/the-real-lesson-of-spirits-bankruptcy",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus pragmatism for conservatives, places I haven&#8217;t been, and what&#8217;s cooking in Ann Arbor",
+      "publishedAt": "2026-05-08T10:02:42.000Z",
+      "articleId": "d0bb84b9a00cdcea"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/who-won-the-2026-wnba-offseason",
+      "title": "Who Won the 2026 WNBA Offseason?",
+      "url": "https://neilpaine.substack.com/p/who-won-the-2026-wnba-offseason",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "And who’ll still look like a winner once the games begin tonight?",
+      "publishedAt": "2026-05-08T09:57:07.000Z",
+      "articleId": "6ec4b54ae606a8eb"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7262573/2026/05/08/new-york-giants-undrafted-free-agents/",
       "title": "John Harbaugh has a history of UDFA success stories. Who in this Giants class is next?",
@@ -1833,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1898,7 +1920,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1914,7 +1936,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
