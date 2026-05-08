@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-08T18:21:20.121Z",
-  "fetchedAt": "2026-05-08T18:21:20.116Z",
+  "generatedAt": "2026-05-08T20:15:37.147Z",
+  "fetchedAt": "2026-05-08T20:15:37.143Z",
   "sourceCount": 21,
-  "itemCount": 168,
-  "totalItemCount": 755,
+  "itemCount": 167,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-571",
@@ -1841,17 +1841,6 @@
       "summary": "And the futility of macro forecasts",
       "publishedAt": "2026-04-08T23:08:53.000Z",
       "articleId": "79084d4d78e6097e"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
-      "title": "The Idealism of the Space Program Isn’t Enough",
-      "url": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "We’re racing a civilizational clock.",
-      "publishedAt": "2026-04-08T18:57:41.000Z",
-      "articleId": "a4f3ddfeef8b94ae"
     }
   ],
   "sources": [
@@ -1866,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
