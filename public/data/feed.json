@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-08T07:57:17.470Z",
-  "fetchedAt": "2026-05-08T07:57:17.466Z",
+  "generatedAt": "2026-05-08T09:49:23.563Z",
+  "fetchedAt": "2026-05-08T09:49:23.558Z",
   "sourceCount": 21,
-  "itemCount": 163,
-  "totalItemCount": 763,
+  "itemCount": 165,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7262573/2026/05/08/new-york-giants-undrafted-free-agents/",
+      "title": "John Harbaugh has a history of UDFA success stories. Who in this Giants class is next?",
+      "url": "https://www.nytimes.com/athletic/7262573/2026/05/08/new-york-giants-undrafted-free-agents/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "A deeper dive into this year's undrafted free-agent class.",
+      "publishedAt": "2026-05-08T09:30:48.000Z",
+      "articleId": "540ab9f54641512a"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/three-model-organisms-for-taste",
+      "title": "Three Model Organisms For Taste",
+      "url": "https://www.astralcodexten.com/p/three-model-organisms-for-taste",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-05-08T08:50:41.000Z",
+      "articleId": "13124e2dda033b97"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/sentences-to-ponder-138.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-138",
       "title": "Sentences to ponder",
@@ -1811,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
