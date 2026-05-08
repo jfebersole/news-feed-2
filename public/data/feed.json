@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-05-08T11:43:20.894Z",
-  "fetchedAt": "2026-05-08T11:43:20.888Z",
+  "generatedAt": "2026-05-08T14:12:42.718Z",
+  "fetchedAt": "2026-05-08T14:12:42.713Z",
   "sourceCount": 21,
-  "itemCount": 167,
+  "itemCount": 168,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/what-is-local-government-good-for",
+      "title": "What is local government good for?",
+      "url": "https://www.worksinprogress.news/p/what-is-local-government-good-for",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Episode 16 is about building data centers, school districts and redistribution",
+      "publishedAt": "2026-05-08T13:36:05.000Z",
+      "articleId": "dd3485a47823a0b1"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/more-articles-we-would-like-to-commission-ed3",
+      "title": "More articles we would like to commission",
+      "url": "https://www.worksinprogress.news/p/more-articles-we-would-like-to-commission-ed3",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Write for Works in Progress.",
+      "publishedAt": "2026-05-08T13:30:31.000Z",
+      "articleId": "75802e007eae9899"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-ufo-files.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ufo-files",
+      "title": "The UFO files",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ufo-files.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the web site, with some of the files released, I have not yet had a chance to look or to read any reliable summaries. More releases are expected, and as of this moment the Kalshi market is at 25 or so. The post The UFO files appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-08T12:43:23.000Z",
+      "articleId": "c4bb0d8c50331e0e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/a-simple-point-about-diversification.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-diversification",
+      "title": "A simple point about diversification",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-simple-point-about-diversification.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In recent times a significant percentage of the S&#38;P 500 run-up has been driven by a small number of tech and AI stocks. Plus the effects of AI can be expected to be further reaching yet for some while. That makes it harder to diversify against risk, as there is a single dominant variable, namely [&#8230;] The post A simple point about diversification appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-08T12:19:37.000Z",
+      "articleId": "6218a8b488763a53"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-real-lesson-of-spirits-bankruptcy",
       "title": "The real lesson of Spirit’s bankruptcy",
@@ -490,17 +534,6 @@
       "articleId": "83c797ac448b7cc0"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-best-study-to-date-on-school-phone-bans.html?utm_source=rss&utm_medium=rss&utm_campaign=the-best-study-to-date-on-school-phone-bans",
-      "title": "The best study to date on school phone bans",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-best-study-to-date-on-school-phone-bans.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Schools across the U.S. have sharply restricted student use of phones during the school day. We evaluate one type of restriction—lockable phone pouches—using nationwide data combining large-scale surveys, GPS pings, standardized test scores, and school administrative records, along with sales records from the largest pouch provider. Using a staggered difference-in-differences design, we find that pouch [&#8230;] The post The best study to date on school phone bans appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-05T07:31:03.000Z",
-      "articleId": "e6e9e02f78d84e9f"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ais-big-messaging-pivot",
       "title": "AI's big messaging pivot",
       "url": "https://www.noahpinion.blog/p/ais-big-messaging-pivot",
@@ -510,17 +543,6 @@
       "summary": "Some top AI leaders now say their technology will create jobs. Should we believe them?",
       "publishedAt": "2026-05-05T06:06:01.000Z",
       "articleId": "661ea1c1e44a7eb2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/is-psychotherapy-underdiscussed-these-days-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-psychotherapy-underdiscussed-these-days-from-my-email",
-      "title": "Is psychotherapy underdiscussed these days? (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/is-psychotherapy-underdiscussed-these-days-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I listened to your recent conversation with Arthur C. Brooks and found myself struggling with his core premise. His framing of happiness seems to reduce it to something like a biological or behavioural optimisation problem, which feels quite far from how psychotherapy traditionally and historically understands it. I tried to find where he engages with [&#8230;] The post Is psychotherapy underdiscussed these days? (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-05T04:56:19.000Z",
-      "articleId": "b7b778619066f537"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/trump-is-losing-his-own-people",
@@ -1830,17 +1852,6 @@
       "summary": "A conversation with Colin Marshall, who came to learn the language, and stayed for the jeong",
       "publishedAt": "2026-04-08T15:14:22.000Z",
       "articleId": "9ae045105da65d92"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-23-egg-freezing-australian",
-      "title": "Egg freezing, Australian refugee policy and ASML",
-      "url": "https://www.worksinprogress.news/p/issue-23-egg-freezing-australian",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "A preview of everything to come in Issue 23",
-      "publishedAt": "2026-04-08T14:06:22.000Z",
-      "articleId": "6ea6f507d7599e0b"
     }
   ],
   "sources": [
