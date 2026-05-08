@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-08T14:12:42.718Z",
-  "fetchedAt": "2026-05-08T14:12:42.713Z",
+  "generatedAt": "2026-05-08T16:43:10.407Z",
+  "fetchedAt": "2026-05-08T16:43:10.402Z",
   "sourceCount": 21,
   "itemCount": 168,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/the-redistricting-loss-means-democrats",
+      "title": "The Redistricting Loss Means Democrats Must Moderate to Win",
+      "url": "https://www.joshbarro.com/p/the-redistricting-loss-means-democrats",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "The way to compensate for a less-favorable map is by winning a larger share of the vote, so Democrats must move closer to the median voter.",
+      "publishedAt": "2026-05-08T15:47:02.000Z",
+      "articleId": "47a0d7b8661cd8c2"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
+      "title": "True Believers Blow Trump’s Mind",
+      "url": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Our most transactional president is having trouble processing.",
+      "publishedAt": "2026-05-08T14:37:56.000Z",
+      "articleId": "0f1bbea2a4f957ca"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/what-is-local-government-good-for",
       "title": "What is local government good for?",
@@ -147,17 +169,6 @@
       "summary": "1. School shootings are declining quite a bit. 2. Dean Ball on the real reasons to regulate AI. 3. Noah on development economics, link now corrected. 4. Peter Frampton update (NYT). 5. What have we learned about human communication? 6. Polymarket on hantavirus. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-07T17:43:51.000Z",
       "articleId": "e8136a7844cb6366"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-      "title": "True Believers Blow Trump’s Mind",
-      "url": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Our most transactional president is having trouble processing.",
-      "publishedAt": "2026-05-07T17:37:02.000Z",
-      "articleId": "0f1bbea2a4f957ca"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-the-album-dead",
@@ -1841,17 +1852,6 @@
       "summary": "We’re racing a civilizational clock.",
       "publishedAt": "2026-04-08T18:57:41.000Z",
       "articleId": "a4f3ddfeef8b94ae"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/my-seoul-girlfriends-and-the-korea",
-      "title": "My Seoul Girlfriends, and the Korea Most People Miss",
-      "url": "https://walkingtheworld.substack.com/p/my-seoul-girlfriends-and-the-korea",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "A conversation with Colin Marshall, who came to learn the language, and stayed for the jeong",
-      "publishedAt": "2026-04-08T15:14:22.000Z",
-      "articleId": "9ae045105da65d92"
     }
   ],
   "sources": [
@@ -1866,10 +1866,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
