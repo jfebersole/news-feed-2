@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-09T04:33:32.246Z",
-  "fetchedAt": "2026-05-09T04:33:32.242Z",
+  "generatedAt": "2026-05-09T07:20:32.246Z",
+  "fetchedAt": "2026-05-09T07:20:32.233Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/self-fulfilling-misalignment.html?utm_source=rss&utm_medium=rss&utm_campaign=self-fulfilling-misalignment",
+      "title": "Self-fulfilling misalignment?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/self-fulfilling-misalignment.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Anthropic: We started by investigating why Claude chose to blackmail. We believe the original source of the behavior was internet text that portrays AI as evil and interested in self-preservation. And here is Alex Turner on the topic of self-fulfilling misalignment. I raised this possibility some while ago in a Free Press column, and [&#8230;] The post Self-fulfilling misalignment? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-09T06:54:03.000Z",
+      "articleId": "3236c9ab1eb37d91"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-social-media-ban-in-australia-how-is-it-going.html?utm_source=rss&utm_medium=rss&utm_campaign=the-social-media-ban-in-australia-how-is-it-going",
       "title": "The social media ban in Australia, how is it going?",
@@ -466,17 +477,6 @@
       "summary": "What's really needed is humility.",
       "publishedAt": "2026-05-06T06:08:15.000Z",
       "articleId": "9e00a74a7f092586"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-287.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-287",
-      "title": "What I’ve been reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-287.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. David Narrett, The Cherokees in War &#38; at Peace 1670-1840. An excellent book, one of the two best books on a single Native American tribe I have read. The book actually aims at explaining the Cherokees and enlightening the reader &#8211; how rare. In 1700, there were no more than 20,000 Cherokees, mostly in [&#8230;] The post What I&#8217;ve been reading appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-06T04:12:59.000Z",
-      "articleId": "a832f2e8d0ed9d06"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
