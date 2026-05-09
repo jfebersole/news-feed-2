@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-08T22:09:39.036Z",
-  "fetchedAt": "2026-05-08T22:09:39.031Z",
+  "generatedAt": "2026-05-09T00:07:39.033Z",
+  "fetchedAt": "2026-05-09T00:07:39.025Z",
   "sourceCount": 21,
-  "itemCount": 167,
+  "itemCount": 165,
   "totalItemCount": 765,
   "items": [
     {
@@ -1819,28 +1819,6 @@
       "summary": "The star defensive tackle made his trade demand public, and now John Harbaugh has a decision to make.",
       "publishedAt": "2026-04-09T09:30:55.000Z",
       "articleId": "cea99887e537a1cc"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/why-anthropic-believes-its-latest",
-      "title": "Why Anthropic believes its latest model is too dangerous to release",
-      "url": "https://www.understandingai.org/p/why-anthropic-believes-its-latest",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "&#8220;The language models we have now are probably the most significant thing to happen in security since we got the Internet.&#8221;",
-      "publishedAt": "2026-04-08T23:25:24.000Z",
-      "articleId": "4f9cdc3cc2d8820b"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-odd-disappearance-of-the-business",
-      "title": "The odd disappearance of the business cycle",
-      "url": "https://scottsumner.substack.com/p/the-odd-disappearance-of-the-business",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "And the futility of macro forecasts",
-      "publishedAt": "2026-04-08T23:08:53.000Z",
-      "articleId": "79084d4d78e6097e"
     }
   ],
   "sources": [
