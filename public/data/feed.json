@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-09T09:42:22.743Z",
-  "fetchedAt": "2026-05-09T09:42:22.739Z",
+  "generatedAt": "2026-05-09T11:10:30.676Z",
+  "fetchedAt": "2026-05-09T11:10:30.666Z",
   "sourceCount": 21,
-  "itemCount": 164,
+  "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "title": "The Atheist and the Machine God",
+      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "What are the implications of artificial intelligence for religion?",
+      "publishedAt": "2026-05-09T11:00:18.000Z",
+      "articleId": "8c9089dc38167fc3"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-4-8-2026",
+      "title": "The Week That Was (May 4-8, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-may-4-8-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-05-09T10:02:35.000Z",
+      "articleId": "c80a0b31ec8f11a4"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/do-billionaires-earn-their-money",
+      "title": "Do billionaires earn their money?",
+      "url": "https://www.noahpinion.blog/p/do-billionaires-earn-their-money",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "That's probably the wrong question.",
+      "publishedAt": "2026-05-09T09:58:53.000Z",
+      "articleId": "6762af6252a6b336"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/self-fulfilling-misalignment.html?utm_source=rss&utm_medium=rss&utm_campaign=self-fulfilling-misalignment",
       "title": "Self-fulfilling misalignment?",
@@ -433,17 +466,6 @@
       "summary": "The Orange Man is bad at the job.",
       "publishedAt": "2026-05-06T10:03:04.000Z",
       "articleId": "c4ab3a49d3197259"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/alex-zanardi-made-you-believe",
-      "title": "Alex Zanardi Made You Believe",
-      "url": "https://neilpaine.substack.com/p/alex-zanardi-made-you-believe",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "From his audacious CART dominance to his Paralympic triumphs, Zanardi lived as if impossible feats were only waiting for someone brave enough to try them.",
-      "publishedAt": "2026-05-06T10:02:59.000Z",
-      "articleId": "a51ff9bd3ed99154"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/microsoft-earnings-apple-earnings/",
@@ -1797,17 +1819,6 @@
       "summary": "The war in Iran, and the subsequent closure of the Strait of Hormuz, has unfortunately made us all familiar with details of the petroleum supply chain that we could formerly happily ignore.",
       "publishedAt": "2026-04-09T12:03:42.000Z",
       "articleId": "0ea13fc9b2adc39b"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/yes-assimilation-is-good",
-      "title": "Yes, assimilation is good",
-      "url": "https://www.noahpinion.blog/p/yes-assimilation-is-good",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Building a unified American culture isn't about bullying people; it's about living together in peace.",
-      "publishedAt": "2026-04-09T09:56:42.000Z",
-      "articleId": "dbc07e81090d6c03"
     }
   ],
   "sources": [
