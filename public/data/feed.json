@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-09T21:58:26.983Z",
-  "fetchedAt": "2026-05-09T21:58:26.979Z",
+  "generatedAt": "2026-05-09T23:02:17.413Z",
+  "fetchedAt": "2026-05-09T23:02:17.408Z",
   "sourceCount": 21,
   "itemCount": 164,
-  "totalItemCount": 754,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/stop-microlooting-the-tax-code",
@@ -1822,10 +1822,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
