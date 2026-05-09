@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-09T13:48:55.111Z",
-  "fetchedAt": "2026-05-09T13:48:55.106Z",
+  "generatedAt": "2026-05-09T15:08:58.931Z",
+  "fetchedAt": "2026-05-09T15:08:58.926Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/this-mothers-day-let-moms-have-waymo",
+      "title": "This Mother’s Day, let moms have Waymo",
+      "url": "https://www.slowboring.com/p/this-mothers-day-let-moms-have-waymo",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Moms everywhere deserve a win.",
+      "publishedAt": "2026-05-09T15:01:44.000Z",
+      "articleId": "b22b9796194175a6"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-05092026",
       "title": "Reading List 05/09/2026",
@@ -906,17 +917,6 @@
       "summary": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
       "publishedAt": "2026-04-30T10:00:00.000Z",
       "articleId": "f8e2d2d0f6ce84bb"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-strong-month-in-a-fragile-market",
-      "title": "A strong month in a fragile market",
-      "url": "https://www.slowboring.com/p/a-strong-month-in-a-fragile-market",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "March data shows momentum, but a build-to-rent crackdown and tighter capital markets threaten to stall future supply.",
-      "publishedAt": "2026-04-29T22:01:11.000Z",
-      "articleId": "29dc02fcdc871a1c"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7240433/2026/04/29/shelby-harris-free-agent-new-york-giants/",
