@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-09T11:10:30.676Z",
-  "fetchedAt": "2026-05-09T11:10:30.666Z",
+  "generatedAt": "2026-05-09T13:48:55.111Z",
+  "fetchedAt": "2026-05-09T13:48:55.106Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-05092026",
+      "title": "Reading List 05/09/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-05092026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Trapped buildings, in-home data centers, cardboard military drones, Brightline&#8217;s potential bankruptcy, and more.",
+      "publishedAt": "2026-05-09T12:02:50.000Z",
+      "articleId": "4a60f37721326a35"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/public-choice-outreach-4.html?utm_source=rss&utm_medium=rss&utm_campaign=public-choice-outreach-4",
+      "title": "Public Choice Outreach!",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/public-choice-outreach-4.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Just a few spots left! Lots of great speakers including Tyler, myself, Bryan Caplan, Robin Hanson, Jon Klick, Shruti Rajagopalan and more. Please apply and encourage your students to apply. The post Public Choice Outreach! appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-09T11:18:19.000Z",
+      "articleId": "40ddb37c1af410b1"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
       "title": "The Atheist and the Machine God",
@@ -477,17 +499,6 @@
       "summary": "Microsoft unveils its new agentic business model, and Apple confronts shortages in memory and chips even as the Mac benefits from AI.",
       "publishedAt": "2026-05-06T10:00:00.000Z",
       "articleId": "47047de314568e4b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/korean-banana-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=korean-banana-markets-in-everything",
-      "title": "Korean banana markets in everything",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/korean-banana-markets-in-everything.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Did you know Korea sells “one-a-day” banana packs? Instead of every banana ripening at once, each one is at a different stage. One is ready today. The next one is ready tomorrow. The last one is still spiritually in college, “experimenting.” Simple. Genius. Solves the entire banana problem. What do you think? Would you prefer your [&#8230;] The post Korean banana markets in everything appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-06T06:56:22.000Z",
-      "articleId": "a0a4b7a93b59f90e"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/could-development-economics-be-more",
@@ -1808,17 +1819,6 @@
       "summary": "I'm looking at you, Harry Styles",
       "publishedAt": "2026-04-09T17:31:34.000Z",
       "articleId": "b51c257bd4eafff4"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "title": "Helium Is Hard to Replace",
-      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "The war in Iran, and the subsequent closure of the Strait of Hormuz, has unfortunately made us all familiar with details of the petroleum supply chain that we could formerly happily ignore.",
-      "publishedAt": "2026-04-09T12:03:42.000Z",
-      "articleId": "0ea13fc9b2adc39b"
     }
   ],
   "sources": [
