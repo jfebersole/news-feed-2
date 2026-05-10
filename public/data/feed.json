@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-10T15:10:10.518Z",
-  "fetchedAt": "2026-05-10T15:10:10.513Z",
+  "generatedAt": "2026-05-10T17:09:08.357Z",
+  "fetchedAt": "2026-05-10T17:09:08.352Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-79e",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-79e",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-05-10T17:01:04.000Z",
+      "articleId": "eb15d02bab171e7d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-566",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-566.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. What should be our Bayesian priors on von Neumann probes? 2. AI book mirrors. 3. Why power in Spain is so cheap. 4. The comments on Mick West here are pretty tough. We still do not know what it is, and yes the national security people have pondered these questions in advance. Most broadly, [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-10T16:21:43.000Z",
+      "articleId": "e053790c3982df47"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
       "title": "The Atheist and the Machine God",
@@ -457,17 +479,6 @@
       "articleId": "8ee15a25b1d901ce"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/agi-could-lower-interest-rates.html?utm_source=rss&utm_medium=rss&utm_campaign=agi-could-lower-interest-rates",
-      "title": "AGI Could Lower Interest Rates",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/agi-could-lower-interest-rates.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Standard models predict that expectations of artificial general intelligence (AGI) should elevate long-term interest rates. I show that this prediction need not hold. I develop a heterogeneous-agent asset pricing model in which AGI, or more broadly, transformative AI (TAI) capable of automating most human labor, can lower interest rates even as it dramatically accelerates growth. [&#8230;] The post AGI Could Lower Interest Rates appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-07T06:49:38.000Z",
-      "articleId": "af446dc987e228eb"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-everyone-on-taste",
       "title": "Contra Everyone On Taste",
       "url": "https://www.astralcodexten.com/p/contra-everyone-on-taste",
@@ -917,17 +928,6 @@
       "summary": "Though wind and solar continue to carve out larger and larger shares of world energy supply, the modern world still runs on petroleum, and will continue to do so for the foreseeable future.",
       "publishedAt": "2026-04-30T12:03:35.000Z",
       "articleId": "6dd71529fed02dcb"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/should-we-end-asylum",
-      "title": "Should we end asylum?",
-      "url": "https://www.slowboring.com/p/should-we-end-asylum",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Is ending asylum the way to stop chaos at the border?",
-      "publishedAt": "2026-04-30T10:02:52.000Z",
-      "articleId": "a0d5a08a9da796fb"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes/",
