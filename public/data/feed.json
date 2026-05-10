@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-10T11:12:02.634Z",
-  "fetchedAt": "2026-05-10T11:12:02.623Z",
+  "generatedAt": "2026-05-10T13:52:04.595Z",
+  "fetchedAt": "2026-05-10T13:52:04.590Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "title": "The Atheist and the Machine God",
+      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "What are the implications of artificial intelligence for religion?",
+      "publishedAt": "2026-05-10T13:49:26.000Z",
+      "articleId": "8c9089dc38167fc3"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
+      "title": "A Hard Day's Night: A Conversation with Samira Ahmed",
+      "url": "https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Author Samira Ahmed stops by to talk about her latest book about The Beatles first film",
+      "publishedAt": "2026-05-10T13:30:47.000Z",
+      "articleId": "64dcb8421314b922"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-kill-the-research-paper",
       "title": "Will AI kill the research paper?",
@@ -70,17 +92,6 @@
       "summary": "I will stick with my earlier Free Press predictions: The fact remains that, if you talk with insiders, they will confirm that the federal government faces some big mysteries. It seems that we have data on what appear to be craft that move very fast, have no visible means of propulsion, and can accelerate in a surprising [&#8230;] The post The UAP report so far appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-09T16:17:50.000Z",
       "articleId": "c02a6ba2bf2eb213"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "title": "The Atheist and the Machine God",
-      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "What are the implications of artificial intelligence for religion?",
-      "publishedAt": "2026-05-09T15:18:57.000Z",
-      "articleId": "8c9089dc38167fc3"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/this-mothers-day-let-moms-have-waymo",
@@ -1808,17 +1819,6 @@
       "summary": "After two years of success, our residential seminar for 18&#8211;22 year olds is returning again",
       "publishedAt": "2026-04-10T14:21:00.000Z",
       "articleId": "7099eaca67d8cab0"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/the-death-rays-that-guard-life-out",
-      "title": "The death rays that guard life, Out Loud",
-      "url": "https://www.worksinprogress.news/p/the-death-rays-that-guard-life-out",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "We disinfect water before we drink it. Germicidal ultraviolet could make airborne disease as rare as those carried by water.",
-      "publishedAt": "2026-04-10T13:44:18.000Z",
-      "articleId": "1983c0bd619afceb"
     }
   ],
   "sources": [
