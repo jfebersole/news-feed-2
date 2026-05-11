@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-11T19:07:45.462Z",
-  "fetchedAt": "2026-05-11T19:07:45.458Z",
+  "generatedAt": "2026-05-11T21:39:05.265Z",
+  "fetchedAt": "2026-05-11T21:39:05.261Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
+      "title": "The Platner Trap",
+      "url": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
+      "publishedAt": "2026-05-11T20:36:51.000Z",
+      "articleId": "000db4bb19b4d1e3"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "title": "The Atheist and the Machine God",
+      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "What are the implications of artificial intelligence for religion?",
+      "publishedAt": "2026-05-11T19:41:15.000Z",
+      "articleId": "8c9089dc38167fc3"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3y54cgcxo2pn5wh5tcet.html",
       "title": "Money Stuff: KKR Buys Back Some Private Credit",
@@ -92,28 +114,6 @@
       "summary": "Recent advances in autonomous and semi-autonomous vehicle technologies promise substantial cost savings for goods shipped by truck. In this study, we quantify the impacts of these transport cost reductions on the US interstate trade using a structural gravity model of domestic trade. Based on projected cost savings from the widespread adoption of self-driving technologies, we [&#8230;] The post The interstate trade effects of autonomous trucks appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-11T04:54:05.000Z",
       "articleId": "3635f61e4fe31115"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
-      "title": "The Platner Trap",
-      "url": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
-      "publishedAt": "2026-05-11T02:10:24.000Z",
-      "articleId": "000db4bb19b4d1e3"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "title": "The Atheist and the Machine God",
-      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "What are the implications of artificial intelligence for religion?",
-      "publishedAt": "2026-05-11T01:31:03.000Z",
-      "articleId": "8c9089dc38167fc3"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-eclectically-optimal",
