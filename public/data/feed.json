@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-11T12:20:53.656Z",
-  "fetchedAt": "2026-05-11T12:20:53.652Z",
+  "generatedAt": "2026-05-11T16:11:05.028Z",
+  "fetchedAt": "2026-05-11T16:11:05.024Z",
   "sourceCount": 21,
   "itemCount": 165,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/hantavirus-is-a-reminder-we-should",
@@ -68,7 +68,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
-      "publishedAt": "2026-05-11T02:10:23.000Z",
+      "publishedAt": "2026-05-11T02:10:24.000Z",
       "articleId": "000db4bb19b4d1e3"
     },
     {
@@ -1833,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
