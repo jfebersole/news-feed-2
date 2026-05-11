@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-11T00:06:35.161Z",
-  "fetchedAt": "2026-05-11T00:06:35.156Z",
+  "generatedAt": "2026-05-11T04:35:28.176Z",
+  "fetchedAt": "2026-05-11T04:35:28.171Z",
   "sourceCount": 21,
-  "itemCount": 166,
-  "totalItemCount": 755,
+  "itemCount": 165,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
+      "title": "The Platner Trap",
+      "url": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
+      "publishedAt": "2026-05-11T02:10:23.000Z",
+      "articleId": "000db4bb19b4d1e3"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "title": "The Atheist and the Machine God",
+      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "What are the implications of artificial intelligence for religion?",
+      "publishedAt": "2026-05-11T01:31:03.000Z",
+      "articleId": "8c9089dc38167fc3"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-eclectically-optimal",
       "title": "Basil Halperin on eclectically optimal policy",
@@ -50,17 +72,6 @@
       "articleId": "e053790c3982df47"
     },
     {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "title": "The Atheist and the Machine God",
-      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "What are the implications of artificial intelligence for religion?",
-      "publishedAt": "2026-05-10T13:49:26.000Z",
-      "articleId": "8c9089dc38167fc3"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
       "title": "A Hard Day's Night: A Conversation with Samira Ahmed",
       "url": "https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
@@ -92,17 +103,6 @@
       "summary": "Imagine taking a macroeconomics paper and adding a little button at the end &#8220;Press this button to update this paper with the latest macro data.&#8221; All of a sudden you have multiple papers rather than one, and no single canonical version. It is the latter versions, not created directly by the authors, that people will [&#8230;] The post Will AI kill the research paper? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-10T10:03:12.000Z",
       "articleId": "e30c72c809e4e321"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
-      "title": "The Platner Trap",
-      "url": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
-      "publishedAt": "2026-05-10T10:00:25.000Z",
-      "articleId": "000db4bb19b4d1e3"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/which-are-the-most-common-everyday-phenomena-that-we-dont-properly-understand.html?utm_source=rss&utm_medium=rss&utm_campaign=which-are-the-most-common-everyday-phenomena-that-we-dont-properly-understand",
@@ -466,17 +466,6 @@
       "summary": "A prescient, influential, and slightly bizarre book",
       "publishedAt": "2026-05-07T10:01:34.000Z",
       "articleId": "86d564a2260d91fa"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/maybe-the-new-manager-bounce-is-real",
-      "title": "Maybe The New-Manager Bounce Is Real After All",
-      "url": "https://neilpaine.substack.com/p/maybe-the-new-manager-bounce-is-real",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Firing the skipper is often a convenient scapegoat move — but the data says it might help more than simple regression would predict.",
-      "publishedAt": "2026-05-07T10:01:31.000Z",
-      "articleId": "1bd4569d13afdb2e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/political-commentary-should-be-boring",
@@ -1844,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1909,7 +1898,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
