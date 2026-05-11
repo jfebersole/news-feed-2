@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-11T08:33:50.200Z",
-  "fetchedAt": "2026-05-11T08:33:50.194Z",
+  "generatedAt": "2026-05-11T12:20:53.656Z",
+  "fetchedAt": "2026-05-11T12:20:53.652Z",
   "sourceCount": 21,
   "itemCount": 165,
-  "totalItemCount": 764,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/hantavirus-is-a-reminder-we-should",
+      "title": "Hantavirus is a reminder we should prepare for the next pandemic",
+      "url": "https://www.slowboring.com/p/hantavirus-is-a-reminder-we-should",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "We&#8217;re going backward instead of forward",
+      "publishedAt": "2026-05-11T10:02:30.000Z",
+      "articleId": "14a5dc733116dd13"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-inference-shift/",
+      "title": "The Inference Shift",
+      "url": "https://stratechery.com/2026/the-inference-shift/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Agentic inference is going to be different than the inference we use today, and it will change compute infrastructure because speed won't matter when humans aren't involved.",
+      "publishedAt": "2026-05-11T10:00:00.000Z",
+      "articleId": "5618a9906da7df47"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/tyrants-are-losing-wars",
+      "title": "Tyrants are losing wars",
+      "url": "https://www.noahpinion.blog/p/tyrants-are-losing-wars",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Ruthlessness and machismo will only get you so far in a technological world.",
+      "publishedAt": "2026-05-11T08:36:24.000Z",
+      "articleId": "4a1cab8ccde35d82"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/another-use-of-ai-in-research-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=another-use-of-ai-in-research-from-my-email",
       "title": "Another use of AI in research (from my email)",
@@ -1084,17 +1117,6 @@
       "articleId": "4de24e8dbda7cf18"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/ai-hardware-meta-display-redefining-vr-and-ar/",
-      "title": "AI Hardware, Meta Display, Redefining VR and AR",
-      "url": "https://stratechery.com/2026/ai-hardware-meta-display-redefining-vr-and-ar/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "I finally tried the Meta Ray-Ban Display, and it completely changed how I think about AR and VR.",
-      "publishedAt": "2026-04-27T10:00:00.000Z",
-      "articleId": "5868e9523ab56ce5"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-moderately-easy-problem-of-consciousness",
       "title": "The moderately easy problem of consciousness",
       "url": "https://www.noahpinion.blog/p/the-moderately-easy-problem-of-consciousness",
@@ -1797,28 +1819,6 @@
       "summary": "American power can survive America’s recurring overreach.",
       "publishedAt": "2026-04-11T22:51:05.000Z",
       "articleId": "5534a9d9800a1769"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04112026",
-      "title": "Reading List 04/11/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-04112026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Is the Strait of Hormuz open yet, building code cost benefit analysis, Intel joining Terafab, sponge cities, and more.",
-      "publishedAt": "2026-04-11T12:02:56.000Z",
-      "articleId": "cf6f2e180ca0a267"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/will-americans-want-more-housing",
-      "title": "Will Americans want more housing if it looks prettier?",
-      "url": "https://www.noahpinion.blog/p/will-americans-want-more-housing",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Maybe a little bit, but I have my doubts.",
-      "publishedAt": "2026-04-11T09:17:36.000Z",
-      "articleId": "863f3651593498c1"
     }
   ],
   "sources": [
@@ -1833,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
@@ -1914,7 +1914,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
