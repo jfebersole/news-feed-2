@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-10T23:03:57.382Z",
-  "fetchedAt": "2026-05-10T23:03:57.377Z",
+  "generatedAt": "2026-05-11T00:06:35.161Z",
+  "fetchedAt": "2026-05-11T00:06:35.156Z",
   "sourceCount": 21,
   "itemCount": 166,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-eclectically-optimal",
@@ -1844,10 +1844,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
