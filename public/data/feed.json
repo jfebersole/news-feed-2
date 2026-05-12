@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-12T20:48:14.715Z",
-  "fetchedAt": "2026-05-12T20:48:14.709Z",
+  "generatedAt": "2026-05-12T22:21:18.841Z",
+  "fetchedAt": "2026-05-12T22:21:18.836Z",
   "sourceCount": 21,
-  "itemCount": 167,
+  "itemCount": 166,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/a-big-lesson-of-my-china-visit-compute",
+      "title": "A big lesson of my China visit: compute shortages are holding back Chinese AI",
+      "url": "https://www.understandingai.org/p/a-big-lesson-of-my-china-visit-compute",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "One estimate suggests that OpenAI has about as much compute as the entire Chinese AI industry.",
+      "publishedAt": "2026-05-12T21:15:27.000Z",
+      "articleId": "d05bfa232c3f34ca"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
       "title": "The Platner Trap",
@@ -1819,28 +1830,6 @@
       "summary": "Contemplating the grim future of the \"Robot Lords\".",
       "publishedAt": "2026-04-13T00:50:34.000Z",
       "articleId": "965e716cd28b75d7"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/conflict-and-competence",
-      "title": "Conflict and competence",
-      "url": "https://scottsumner.substack.com/p/conflict-and-competence",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Why fanaticism loses in the long run",
-      "publishedAt": "2026-04-12T21:53:04.000Z",
-      "articleId": "64acdb0bd45ad556"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
-      "title": "Hasan Piker Is Not the Enemy",
-      "url": "https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Conversation is not a reward to be bestowed on those with whom we agree; it’s a base line practice.",
-      "publishedAt": "2026-04-12T20:56:41.000Z",
-      "articleId": "4b9931eb0f9e3c1c"
     }
   ],
   "sources": [
