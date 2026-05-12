@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-12T12:09:18.204Z",
-  "fetchedAt": "2026-05-12T12:09:18.199Z",
+  "generatedAt": "2026-05-12T15:45:21.479Z",
+  "fetchedAt": "2026-05-12T15:45:21.474Z",
   "sourceCount": 21,
   "itemCount": 165,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/actors-who-play-an-album-a-day",
+      "title": "Actors Who Play: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/actors-who-play-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Steve Martin, Jackie Chan, Zooey Deschanel, and others",
+      "publishedAt": "2026-05-12T13:30:56.000Z",
+      "articleId": "d7182b939ec68895"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ideas-behind-their-time-2.html?utm_source=rss&utm_medium=rss&utm_campaign=ideas-behind-their-time-2",
       "title": "Ideas Behind Their Time: Part Two",
@@ -1808,17 +1819,6 @@
       "summary": "Conversation is not a reward to be bestowed on those with whom we agree; it’s a base line practice.",
       "publishedAt": "2026-04-12T20:56:41.000Z",
       "articleId": "4b9931eb0f9e3c1c"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-next-big-thing-a-conversation",
-      "title": "On and Off the Record: A Conversation with Kristin Robinson",
-      "url": "https://www.cantgetmuchhigher.com/p/the-next-big-thing-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Billboard's Kristin Robinson stops by to talk about AI, catalog purchases, and so much more",
-      "publishedAt": "2026-04-12T13:31:27.000Z",
-      "articleId": "fc8c0b68a61bc8f4"
     }
   ],
   "sources": [
