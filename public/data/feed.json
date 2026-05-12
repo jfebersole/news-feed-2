@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-12T04:03:04.037Z",
-  "fetchedAt": "2026-05-12T04:03:04.031Z",
+  "generatedAt": "2026-05-12T06:46:21.238Z",
+  "fetchedAt": "2026-05-12T06:46:21.232Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/using-agents-to-build-economic-datasets.html?utm_source=rss&utm_medium=rss&utm_campaign=using-agents-to-build-economic-datasets",
+      "title": "Using agents to build economic datasets",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/using-agents-to-build-economic-datasets.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Constructing datasets from primary sources is one of the costliest tasks in empirical economics. We propose Deep Research on a Loop (DRIL), a methodology that uses AI agents to assemble datasets from publicly available sources. DRIL applies a fixed research instrument across a mapped unit space (e.g., countries by years), with a two-stage architecture separating [&#8230;] The post Using agents to build economic datasets appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-12T04:26:16.000Z",
+      "articleId": "80bc8ab0dbed82c9"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/democrats-have-for-now-lost-the-redistricting",
       "title": "Democrats have, for now, lost the redistricting war",
@@ -400,17 +411,6 @@
       "summary": "Write for Works in Progress.",
       "publishedAt": "2026-05-08T13:30:31.000Z",
       "articleId": "75802e007eae9899"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-ufo-files.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ufo-files",
-      "title": "The UFO files",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ufo-files.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the web site, with some of the files released, I have not yet had a chance to look or to read any reliable summaries. More releases are expected, and as of this moment the Kalshi market is at 25 or so. The post The UFO files appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-08T12:43:23.000Z",
-      "articleId": "c4bb0d8c50331e0e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-real-lesson-of-spirits-bankruptcy",
@@ -1958,10 +1958,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
