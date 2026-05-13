@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-13T20:53:13.169Z",
-  "fetchedAt": "2026-05-13T20:53:13.165Z",
+  "generatedAt": "2026-05-13T22:22:22.886Z",
+  "fetchedAt": "2026-05-13T22:22:22.881Z",
   "sourceCount": 21,
   "itemCount": 169,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/theres-no-place-like-home",
+      "title": "There’s no place like home",
+      "url": "https://www.slowboring.com/p/theres-no-place-like-home",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "As the market stalls, the dream of homeownership is apparently still alive in Kansas. But because we can&#8217;t all live in Wichita, Congress is trying to get housing back on track.",
+      "publishedAt": "2026-05-13T22:01:23.000Z",
+      "articleId": "74fc124fd9634279"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7277050/2026/05/13/malik-nabers-new-york-giants-torn-acl-second-knee-surgery/",
       "title": "Giants WR Malik Nabers underwent second surgery on injured knee: Sources",
@@ -950,17 +961,6 @@
       "summary": "Wall Street loved Google's earnings, and hated Meta's, even though the latter's core business was more impressive. The difference is that Google is monetizing its investments now (and it might be all Anthropic).",
       "publishedAt": "2026-05-04T10:00:00.000Z",
       "articleId": "637ec671dad66e69"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/not-dead-just-delayed",
-      "title": "Not dead, just delayed",
-      "url": "https://www.slowboring.com/p/not-dead-just-delayed",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "How a generation of highly educated young Americans learned to put marriage off",
-      "publishedAt": "2026-05-03T22:01:19.000Z",
-      "articleId": "ea9f6d21cf327162"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/who-are-the-greatest-living-american",
