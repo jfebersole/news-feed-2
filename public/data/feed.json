@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-12T22:21:18.841Z",
-  "fetchedAt": "2026-05-12T22:21:18.836Z",
+  "generatedAt": "2026-05-13T00:11:59.617Z",
+  "fetchedAt": "2026-05-13T00:11:59.613Z",
   "sourceCount": 21,
-  "itemCount": 166,
+  "itemCount": 167,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/12/opinion/uk-elections-post-liberalism.html",
+      "title": "Britain’s Post-Liberal Disorder",
+      "url": "https://www.nytimes.com/2026/05/12/opinion/uk-elections-post-liberalism.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "The crisis of the West isn’t about who governs, but that no one can.",
+      "publishedAt": "2026-05-13T00:00:03.000Z",
+      "articleId": "0668fb107ab540af"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/a-big-lesson-of-my-china-visit-compute",
       "title": "A big lesson of my China visit: compute shortages are holding back Chinese AI",
