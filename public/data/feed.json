@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T00:11:59.617Z",
-  "fetchedAt": "2026-05-13T00:11:59.613Z",
+  "generatedAt": "2026-05-13T04:58:04.547Z",
+  "fetchedAt": "2026-05-13T04:58:04.542Z",
   "sourceCount": 21,
-  "itemCount": 167,
+  "itemCount": 166,
   "totalItemCount": 766,
   "items": [
     {
@@ -12,8 +12,8 @@
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "The crisis of the West isn’t about who governs, but that no one can.",
-      "publishedAt": "2026-05-13T00:00:03.000Z",
+      "summary": "Britain’s post-liberal disorder.",
+      "publishedAt": "2026-05-13T01:05:54.000Z",
       "articleId": "0668fb107ab540af"
     },
     {
@@ -35,7 +35,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
-      "publishedAt": "2026-05-12T19:18:53.000Z",
+      "publishedAt": "2026-05-12T19:18:54.000Z",
       "articleId": "000db4bb19b4d1e3"
     },
     {
@@ -1830,17 +1830,6 @@
       "summary": "Japan's railways are the finest in the world. Other countries can copy its formula.",
       "publishedAt": "2026-04-13T09:08:57.000Z",
       "articleId": "b73a42a5edea00a8"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up",
-      "title": "What if a few AI companies end up with all the money and power?",
-      "url": "https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Contemplating the grim future of the \"Robot Lords\".",
-      "publishedAt": "2026-04-13T00:50:34.000Z",
-      "articleId": "965e716cd28b75d7"
     }
   ],
   "sources": [
