@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-13T11:35:50.958Z",
-  "fetchedAt": "2026-05-13T11:35:50.954Z",
+  "generatedAt": "2026-05-13T15:12:19.187Z",
+  "fetchedAt": "2026-05-13T15:12:19.183Z",
   "sourceCount": 21,
-  "itemCount": 166,
+  "itemCount": 168,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-asml-took-over-the-world",
+      "title": "How ASML took over the world",
+      "url": "https://www.worksinprogress.news/p/how-asml-took-over-the-world",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "The strange path to global monopoly",
+      "publishedAt": "2026-05-13T14:02:38.000Z",
+      "articleId": "1d95d79d5e6cacdd"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nostalgebraists-hydrogen-jukeboxes",
+      "title": "Nostalgebraist's Hydrogen Jukeboxes",
+      "url": "https://www.astralcodexten.com/p/nostalgebraists-hydrogen-jukeboxes",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-05-13T12:16:41.000Z",
+      "articleId": "3b76f8e1a22fdeb5"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/why-kids-dont-go-anywhere-anymore",
       "title": "Why kids don’t go anywhere anymore",
