@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-05-13T08:10:09.127Z",
-  "fetchedAt": "2026-05-13T08:10:09.122Z",
+  "generatedAt": "2026-05-13T11:35:50.958Z",
+  "fetchedAt": "2026-05-13T11:35:50.954Z",
   "sourceCount": 21,
   "itemCount": 166,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/why-kids-dont-go-anywhere-anymore",
+      "title": "Why kids don’t go anywhere anymore",
+      "url": "https://www.slowboring.com/p/why-kids-dont-go-anywhere-anymore",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The technological and economic shifts behind helicopter parenting",
+      "publishedAt": "2026-05-13T10:03:06.000Z",
+      "articleId": "fbab7d5343b45709"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/its-true-lebrons-lakers-stint-was",
+      "title": "It's True: LeBron's Lakers Stint Was Indeed a Success",
+      "url": "https://neilpaine.substack.com/p/its-true-lebrons-lakers-stint-was",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Or, if it doesn't feel that way, it's because Lakers Exceptionalism has skewed everyone's expectations.",
+      "publishedAt": "2026-05-13T10:03:01.000Z",
+      "articleId": "8b38a81784af0d35"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
+      "title": "The Deployment Company, Back to the 70s, Apple and Intel",
+      "url": "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI is forming a new company to deploy AI, and the other labs aren't far behind, reinforcing the thesis that AI's impact will require top-down implementation. Then, Apple has economic reasons to work with Intel.",
+      "publishedAt": "2026-05-13T10:00:00.000Z",
+      "articleId": "73f7949394039a8a"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/trump-actually-started-to-decouple",
+      "title": "Trump actually started to decouple America from China",
+      "url": "https://www.noahpinion.blog/p/trump-actually-started-to-decouple",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The \"economic divorce\" between the two countries is proceeding slowly, but it is proceeding.",
+      "publishedAt": "2026-05-13T09:40:06.000Z",
+      "articleId": "964ea640c2801667"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment.html?utm_source=rss&utm_medium=rss&utm_campaign=some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment",
       "title": "Some non-obvious reasons why AI will create some transitional problems in employment",
@@ -433,17 +477,6 @@
       "summary": "Trapped buildings, in-home data centers, cardboard military drones, Brightline&#8217;s potential bankruptcy, and more.",
       "publishedAt": "2026-05-09T12:02:50.000Z",
       "articleId": "4a60f37721326a35"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-4-8-2026",
-      "title": "The Week That Was (May 4-8, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-may-4-8-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-05-09T10:02:35.000Z",
-      "articleId": "c80a0b31ec8f11a4"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/do-billionaires-earn-their-money",
@@ -908,17 +941,6 @@
       "articleId": "85a0934500915df7"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-c48",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-c48",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-05-03T17:00:42.000Z",
-      "articleId": "2361d3c808b47209"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/californias-billionaire-tax-is-the",
       "title": "California's \"billionaire tax\" is the wrong approach",
       "url": "https://www.noahpinion.blog/p/californias-billionaire-tax-is-the",
@@ -1082,17 +1104,6 @@
       "summary": "Benjamin Spock told mothers in the mid-twentieth century to buy six dozen cloth diapers and a covered pail. Within a decade, both were obsolete.",
       "publishedAt": "2026-04-29T13:03:25.000Z",
       "articleId": "6dfcbc79d3bc06dc"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
-      "title": "Intel Earnings, Intel’s Differentiation?, Whither Terafab",
-      "url": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
-      "publishedAt": "2026-04-29T10:00:00.000Z",
-      "articleId": "6d733d2dc93c1a12"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/scoring-the-jensen-dwarkesh-debate",
@@ -1819,17 +1830,6 @@
       "summary": "Featuring George Harrison, Johnny Cash, D'Angelo, and others",
       "publishedAt": "2026-04-14T13:30:45.000Z",
       "articleId": "7785ed14866d2c23"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "title": "The secrets of the Shinkansen",
-      "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Japan's railways are the finest in the world. Other countries can copy its formula.",
-      "publishedAt": "2026-04-13T09:08:57.000Z",
-      "articleId": "b73a42a5edea00a8"
     }
   ],
   "sources": [
