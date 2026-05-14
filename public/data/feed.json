@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-14T13:02:25.070Z",
-  "fetchedAt": "2026-05-14T13:02:25.066Z",
+  "generatedAt": "2026-05-14T15:29:32.457Z",
+  "fetchedAt": "2026-05-14T15:29:32.452Z",
   "sourceCount": 21,
-  "itemCount": 172,
+  "itemCount": 171,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/14/opinion/southern-baptist-convention-paul-pressler.html",
+      "title": "I Don’t Think You Can Even Call This Hypocrisy",
+      "url": "https://www.nytimes.com/2026/05/14/opinion/southern-baptist-convention-paul-pressler.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The secrets of one of the architects of the religious right are being revealed. One of the secrets is that they weren’t really secrets.",
+      "publishedAt": "2026-05-14T15:09:01.000Z",
+      "articleId": "8da41ce019065592"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/fracking-for-the-win.html?utm_source=rss&utm_medium=rss&utm_campaign=fracking-for-the-win",
       "title": "How Much Has Shale Gas Saved U.S. Consumers?",
@@ -50,6 +61,17 @@
       "articleId": "175f5165b51a54b4"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-pga-championship-is-golfs-democratic",
+      "title": "The PGA Championship Is Golf's Democratic Major. It Just Doesn't Know It.",
+      "url": "https://neilpaine.substack.com/p/the-pga-championship-is-golfs-democratic",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The PGA sells itself as the strongest-field major, but its history suggests a different calling card: the major most willing to mint an unexpected champion.",
+      "publishedAt": "2026-05-14T09:58:56.000Z",
+      "articleId": "9a3b6e347faca738"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-impact-of-ai-generated-text-on-the-internet.html?utm_source=rss&utm_medium=rss&utm_campaign=the-impact-of-ai-generated-text-on-the-internet",
       "title": "The Impact of AI-Generated Text on the Internet",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-impact-of-ai-generated-text-on-the-internet.html",
@@ -70,17 +92,6 @@
       "summary": "Plus, why an Odell Beckham Jr. reunion remains unlikely, and the latest on Malik Nabers and the kicking competition.",
       "publishedAt": "2026-05-14T09:30:25.000Z",
       "articleId": "5528546bbc421c9f"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/14/opinion/southern-baptist-convention-paul-pressler.html",
-      "title": "I Don’t Think You Can Even Call This Hypocrisy",
-      "url": "https://www.nytimes.com/2026/05/14/opinion/southern-baptist-convention-paul-pressler.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The secrets of one of the architects of the religious right are being revealed. One of the secrets is that they weren’t really secrets.",
-      "publishedAt": "2026-05-14T09:06:35.000Z",
-      "articleId": "8da41ce019065592"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/every-magazine-piece-on-the-sf-ai",
@@ -554,17 +565,6 @@
       "summary": "Author Samira Ahmed stops by to talk about her latest book about The Beatles first film",
       "publishedAt": "2026-05-10T13:30:47.000Z",
       "articleId": "64dcb8421314b922"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/bobby-cox-built-a-dynasty-greater",
-      "title": "Bobby Cox Ran a Dynasty Greater Than Its Ring Count",
-      "url": "https://neilpaine.substack.com/p/bobby-cox-built-a-dynasty-greater",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The Braves won only one World Series under Cox, but their nationally-televised run of regular-season excellence became one of baseball's defining achievements.",
-      "publishedAt": "2026-05-10T13:16:05.000Z",
-      "articleId": "7957cd398703e9d0"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/stop-microlooting-the-tax-code",
@@ -1885,17 +1885,6 @@
       "summary": "Trump's bargain with swing voters was that he would deliver a strong economy and they would look past his many defects. By attacking Iran, Trump has broken the deal.",
       "publishedAt": "2026-04-14T16:59:35.000Z",
       "articleId": "27d77b7a1b5ba432"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/an-album-a-day-comebacks",
-      "title": "Comebacks: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/an-album-a-day-comebacks",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring George Harrison, Johnny Cash, D'Angelo, and others",
-      "publishedAt": "2026-04-14T13:30:45.000Z",
-      "articleId": "7785ed14866d2c23"
     }
   ],
   "sources": [
