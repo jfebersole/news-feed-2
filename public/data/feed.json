@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-14T18:05:18.091Z",
-  "fetchedAt": "2026-05-14T18:05:18.086Z",
+  "generatedAt": "2026-05-14T20:01:31.502Z",
+  "fetchedAt": "2026-05-14T20:01:31.497Z",
   "sourceCount": 21,
-  "itemCount": 170,
+  "itemCount": 171,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
+      "title": "Why it might not make sense for you to own a self-driving car",
+      "url": "https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Tensor let me sit in their driverless car. It might go on sale in the US next year.",
+      "publishedAt": "2026-05-14T19:36:17.000Z",
+      "articleId": "93a05d275c47bea8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/meta-papers-in-science-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=meta-papers-in-science-from-my-email",
+      "title": "Meta-papers in science (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/meta-papers-in-science-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Brennan Plaetzer: Hi Tyler, Your post yesterday argued AI will replace papers with meta-papers that synthesize, re-run, and extend prior work. I built one in oncology last month, before reading your post. I ran my friend Omar Abdel-Wahab&#8217;s (MSK) last ten papers through an AI synthesis layer. This came out on top: an integrated, [&#8230;] The post Meta-papers in science (from my email) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-14T18:41:38.000Z",
+      "articleId": "4f560a88fe4e60df"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/742u8oyr8bq769nter2w.html",
       "title": "Money Stuff: Ryan Cohen Wants to Work at eBay",
@@ -521,17 +543,6 @@
       "summary": "Money Stuff FS KKR, referendum, OpenAI. View in browser FS KKR The situation with business development companies is that their market value is less than their net asset value. A BDC is basically a retail private credit fund; it has a portfolio of loans, it marks them to market every quarter, and it computes a net asset value per share. “Our portfolio is worth $20 per share” or whatever, it tells investors. And then: If it’s a publicly traded BDC, its stock trades at $17 or $13 or $10 on the stock exchange: Most public BDCs’ stocks trade at a discount to their NAV. If it’s a non-traded BDC, its stock doesn’t trade, but shareholders submit a lot of redemption requests , hoping that the BDC will cash them out at NAV. This implies that the shareholders think the BDC is worth, you know, $17 or $13 or $10, so getting cashed out at $20 is a better deal. Meanwhile the private credit firms that run the BDCs emphasize that everything is fine: Their loans are good, the net asset values correctly reflect the values of the funds, and this is all irrational panic. But what can they do about it? There are two conflicting impulses: If you run a fund and think that it is worth $20 per share, you should invest your own money at $20 per share, to demonstrate that you really think everything is fine. If you think that your fund is worth $20 per share, but its market price is $15, you should invest your own money at $15 per share, because you’re not an idiot. Your clients are paying you to make good investing decisions. Buying good assets at a discount is a good investing decision. Paying full price for assets that are easily available at a discount, just to prove a point, is not. We have discussed both approaches . The synthesis is probably “You should buy some shares of your own fund at NAV to demonstrate confidence, and you should buy some other shares of your own fund at a discount to make a buck.” Here’s this : KKR & Co. is injecting $300 million into a private credit fund it manages with Future Standard as performance continues to deteriorate. KKR will invest $150 million in preferred equity and tender for $150 million of FS KKR Capital Corp. common shares at $11 per share, according to a statement Monday. The preferred equity is convertible to common shares if the stock price, which ended last week at $10.84, rebounds to $18.83. FSK, as it is called, released its first-quarter earnings today; here is the earnings release , which also describes KKR’s investment. The $18.83 conversion price of the preferred stock is the fund’s net asset value per share as of quarter-end. Buying a convertible preferred stock (which pays 5% cash or 7% in kind) with a conversion price of $18.83 is not quite the same thing as investing at the NAV, but it is, you know, optically almost...",
       "publishedAt": "2026-05-11T18:26:35.133Z",
       "articleId": "304a7916bbea9741"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/why-are-stock-prices-still-so-high.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-stock-prices-still-so-high",
-      "title": "Why are stock prices still so high?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/why-are-stock-prices-still-so-high.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column, here is one excerpt, with the general theme that plenty is going well in the global economy: A second important fact is that American presidents, whether Democrat or Republican, usually have very little influence on the economy. That is a hard truth for people to [&#8230;] The post Why are stock prices still so high? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-11T17:58:19.000Z",
-      "articleId": "e10465fb04924ed1"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/hantavirus-is-a-reminder-we-should",
