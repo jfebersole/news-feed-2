@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-14T20:01:31.502Z",
-  "fetchedAt": "2026-05-14T20:01:31.497Z",
+  "generatedAt": "2026-05-14T21:20:40.956Z",
+  "fetchedAt": "2026-05-14T21:20:40.952Z",
   "sourceCount": 21,
   "itemCount": 171,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
@@ -1899,10 +1899,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
