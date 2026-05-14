@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-14T10:31:24.268Z",
-  "fetchedAt": "2026-05-14T10:31:24.263Z",
+  "generatedAt": "2026-05-14T13:02:25.070Z",
+  "fetchedAt": "2026-05-14T13:02:25.066Z",
   "sourceCount": 21,
   "itemCount": 172,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/fracking-for-the-win.html?utm_source=rss&utm_medium=rss&utm_campaign=fracking-for-the-win",
+      "title": "How Much Has Shale Gas Saved U.S. Consumers?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/fracking-for-the-win.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Every US president since Nixon has called for freeing the US from ‘dependence on foreign oil’ (within ten years!). Every president has failed. Fracking, however, has delivered the goods. Fracking has reduced the price of energy, reduced net emissions of greenhouse gases and turned the US into an energy exporter. In How Much Has Shale [&#8230;] The post How Much Has Shale Gas Saved U.S. Consumers? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-14T11:17:32.000Z",
+      "articleId": "20b3fe2e1c3ca98e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-the-spirit-debate-is-really",
+      "title": "What the Spirit debate is really about",
+      "url": "https://www.slowboring.com/p/what-the-spirit-debate-is-really",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Promoting competition or promoting a return to price regulation?",
+      "publishedAt": "2026-05-14T10:47:34.000Z",
+      "articleId": "57dc4c29463d0f5f"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-case-for-clean-energy-abundance",
       "title": "The case for clean energy abundance",
@@ -40,7 +62,7 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7277890/2026/05/14/new-york-giants-notebook-defensive-tackle-signings/",
-      "title": "How the Giants rebuilt their defensive tackle depth chart in 3 weeks: Giants notes",
+      "title": "How the Giants rebuilt their defensive tackle depth chart in 3 weeks",
       "url": "https://www.nytimes.com/athletic/7277890/2026/05/14/new-york-giants-notebook-defensive-tackle-signings/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
@@ -57,7 +79,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The secrets of one of the architects of the religious right are being revealed. One of the secrets is that they weren’t really secrets.",
-      "publishedAt": "2026-05-14T09:06:34.000Z",
+      "publishedAt": "2026-05-14T09:06:35.000Z",
       "articleId": "8da41ce019065592"
     },
     {
@@ -499,17 +521,6 @@
       "summary": "“Another thing we (John [Horton] and I) have thought about is having a swarm of AIs &#8220;fight&#8221; over a literature. They could take the cumulative datasets available and continuously argue until they understand the question. One line of thinking says they reach a stalemate (as scientists currently do). But we think not. More likely, they [&#8230;] The post Another use of AI in research (from my email) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-11T06:37:33.000Z",
       "articleId": "e4e8f1de52620f6e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-interstate-trade-effects-of-autonomous-trucks.html?utm_source=rss&utm_medium=rss&utm_campaign=the-interstate-trade-effects-of-autonomous-trucks",
-      "title": "The interstate trade effects of autonomous trucks",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-interstate-trade-effects-of-autonomous-trucks.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Recent advances in autonomous and semi-autonomous vehicle technologies promise substantial cost savings for goods shipped by truck. In this study, we quantify the impacts of these transport cost reductions on the US interstate trade using a structural gravity model of domestic trade. Based on projected cost savings from the widespread adoption of self-driving technologies, we [&#8230;] The post The interstate trade effects of autonomous trucks appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-11T04:54:05.000Z",
-      "articleId": "3635f61e4fe31115"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-eclectically-optimal",
@@ -972,17 +983,6 @@
       "summary": "Some top AI leaders now say their technology will create jobs. Should we believe them?",
       "publishedAt": "2026-05-05T06:06:01.000Z",
       "articleId": "661ea1c1e44a7eb2"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/trump-is-losing-his-own-people",
-      "title": "Trump is losing his own people",
-      "url": "https://www.slowboring.com/p/trump-is-losing-his-own-people",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Where the races and the voters stand &#8212; with six months until Election Day.",
-      "publishedAt": "2026-05-04T22:01:39.000Z",
-      "articleId": "1b5a0792f9eb6faf"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html",
@@ -2046,10 +2046,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 5,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
