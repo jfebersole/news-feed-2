@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-14T21:20:40.956Z",
-  "fetchedAt": "2026-05-14T21:20:40.952Z",
+  "generatedAt": "2026-05-14T23:10:04.548Z",
+  "fetchedAt": "2026-05-14T23:10:04.544Z",
   "sourceCount": 21,
-  "itemCount": 171,
-  "totalItemCount": 755,
+  "itemCount": 170,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
@@ -26,6 +26,17 @@
       "summary": "From Brennan Plaetzer: Hi Tyler, Your post yesterday argued AI will replace papers with meta-papers that synthesize, re-run, and extend prior work. I built one in oncology last month, before reading your post. I ran my friend Omar Abdel-Wahab&#8217;s (MSK) last ten papers through an AI synthesis layer. This came out on top: an integrated, [&#8230;] The post Meta-papers in science (from my email) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-14T18:41:38.000Z",
       "articleId": "4f560a88fe4e60df"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-great-forgetting",
+      "title": "The Great Forgetting",
+      "url": "https://scottsumner.substack.com/p/the-great-forgetting",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "How motivated reasoning frames economic debates",
+      "publishedAt": "2026-05-14T18:08:13.000Z",
+      "articleId": "f46abcf1c4d0de08"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/742u8oyr8bq769nter2w.html",
@@ -974,17 +985,6 @@
       "articleId": "33bc859481313f59"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/seniors-arent-living-on-fixed-incomes",
-      "title": "Seniors aren’t living on “fixed incomes”",
-      "url": "https://www.slowboring.com/p/seniors-arent-living-on-fixed-incomes",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It&#8217;s not 1967 anymore &#8212; the world has changed.",
-      "publishedAt": "2026-05-05T10:03:12.000Z",
-      "articleId": "d83a3ed43781aaca"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/amazons-durability/",
       "title": "Amazon’s Durability",
       "url": "https://stratechery.com/2026/amazons-durability/",
@@ -1874,17 +1874,6 @@
       "summary": "Whatever you do, do not listen to the articles that say that egg and embryo freezing do not work.",
       "publishedAt": "2026-04-15T13:43:31.000Z",
       "articleId": "b457f3ce4df38158"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/04/14/opinion/trump-pope.html",
-      "title": "Trump’s Blasphemy Is a Warning",
-      "url": "https://www.nytimes.com/2026/04/14/opinion/trump-pope.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Presidents can fight with popes. God is another matter.",
-      "publishedAt": "2026-04-14T22:13:50.000Z",
-      "articleId": "909e14acbb0adb17"
     }
   ],
   "sources": [
@@ -1899,10 +1888,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1980,7 +1969,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
