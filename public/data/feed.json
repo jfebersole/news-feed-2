@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-15T04:14:14.467Z",
-  "fetchedAt": "2026-05-15T04:14:14.461Z",
+  "generatedAt": "2026-05-15T08:14:14.577Z",
+  "fetchedAt": "2026-05-15T08:14:14.572Z",
   "sourceCount": 21,
-  "itemCount": 170,
+  "itemCount": 171,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/yes-europeans-are-poorer-than-americans",
+      "title": "Yes, Europeans are poorer than Americans",
+      "url": "https://www.noahpinion.blog/p/yes-europeans-are-poorer-than-americans",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Comfortable, leisurely, pleasant stagnation is just not good enough for the modern age.",
+      "publishedAt": "2026-05-15T07:55:22.000Z",
+      "articleId": "9978bafc4a5438d9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/christopher-nolan-straussian.html?utm_source=rss&utm_medium=rss&utm_campaign=christopher-nolan-straussian",
+      "title": "Christopher Nolan, Straussian?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/christopher-nolan-straussian.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "When asked what secondary literature Nolan consulted in working on his epic magnum opus masterpiece, he said none. None save Benardete’s The Bow and the Lyre. “It was my muse” —Christopher Nolan, @RollingStone , April 2026. Here is the link. The post Christopher Nolan, Straussian? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-15T07:54:08.000Z",
+      "articleId": "63f542b35afd68a4"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/one-way-to-benefit-adolescents.html?utm_source=rss&utm_medium=rss&utm_campaign=one-way-to-benefit-adolescents",
+      "title": "One way to benefit adolescents",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/one-way-to-benefit-adolescents.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Have school start later: We examine the impact of California’s Senate Bill 328 (SB 328), the first statewide mandate requiring later school start times for middle and high schools, on adolescent sleep, mental health, and academic outcomes. Using difference-in-differences and eventstudy designs across five data sources, we find that SB 328 increased the share of [&#8230;] The post One way to benefit adolescents appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-15T04:27:25.000Z",
+      "articleId": "b8f4e710043f5d5e"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
       "title": "Why it might not make sense for you to own a self-driving car",
@@ -499,28 +532,6 @@
       "summary": "The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.",
       "publishedAt": "2026-05-12T10:00:00.000Z",
       "articleId": "92d0971e98fa464b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/early-evidence-on-school-smartphone-bans-and-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=early-evidence-on-school-smartphone-bans-and-mental-health",
-      "title": "Early evidence on school smartphone bans and mental health",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/early-evidence-on-school-smartphone-bans-and-mental-health.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The word &#8220;early&#8221; is appropriate here and is to be stressed, nonetheless I am not surprised by these results, given the relative impotence of treatment effects in so many settings: To provide causal evidence of the effects of these bans, I rely on synthetic difference-in-difference models and the National Survey of Children’s Health (NSCH) from [&#8230;] The post Early evidence on school smartphone bans and mental health appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-12T07:03:22.000Z",
-      "articleId": "db70b5d4807eb374"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/using-agents-to-build-economic-datasets.html?utm_source=rss&utm_medium=rss&utm_campaign=using-agents-to-build-economic-datasets",
-      "title": "Using agents to build economic datasets",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/using-agents-to-build-economic-datasets.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Constructing datasets from primary sources is one of the costliest tasks in empirical economics. We propose Deep Research on a Loop (DRIL), a methodology that uses AI agents to assemble datasets from publicly available sources. DRIL applies a fixed research instrument across a mapped unit space (e.g., countries by years), with a two-stage architecture separating [&#8230;] The post Using agents to build economic datasets appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-12T04:26:16.000Z",
-      "articleId": "80bc8ab0dbed82c9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/democrats-have-for-now-lost-the-redistricting",
