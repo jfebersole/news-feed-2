@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-15T11:28:44.324Z",
-  "fetchedAt": "2026-05-15T11:28:44.315Z",
+  "generatedAt": "2026-05-15T14:31:16.381Z",
+  "fetchedAt": "2026-05-15T14:31:16.376Z",
   "sourceCount": 21,
   "itemCount": 173,
-  "totalItemCount": 756,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/fed-board-members-stay-in-your-seats",
+      "title": "Fed Board Members: Stay In Your Seats",
+      "url": "https://www.joshbarro.com/p/fed-board-members-stay-in-your-seats",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Protecting central bank independence will be an ongoing struggle; the most important thing is that no board members resign anytime soon.",
+      "publishedAt": "2026-05-15T11:39:19.000Z",
+      "articleId": "3ab7a03ce2626242"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/philosophical-ideas-behind-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=philosophical-ideas-behind-their-time",
       "title": "Philosophical Ideas Behind Their Time",
@@ -15,6 +26,17 @@
       "summary": "Justin Weinberg at Daily Nous riffs off my post, Ideas Behind Their Time, to ask for philosophical examples. He nominates Gettier problems&#8211;i.e. counterexamples to the idea that knowledge is simply “justified true belief&#8221; as a possibility. The classic Gettier paper is from 1963. Wikipedia notes that the Indian philosopher Dharmottara has some clear examples c770 [&#8230;] The post Philosophical Ideas Behind Their Time appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-15T11:18:21.000Z",
       "articleId": "78b39507d6806328"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/carlos-delgado-wasnt-a-hall-of-famer",
+      "title": "Carlos Delgado Wasn't a Hall of Famer — But He Looked Like One",
+      "url": "https://neilpaine.substack.com/p/carlos-delgado-wasnt-a-hall-of-famer",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "His power, peak and statistical neighbors all seem to point toward Cooperstown, but the Blue Jays slugger landed just on the wrong side of immortality.",
+      "publishedAt": "2026-05-15T10:03:00.000Z",
+      "articleId": "5c7751bc50448bbc"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/how-to-know-what-politicians-really",
@@ -521,17 +543,6 @@
       "summary": "A disease that was once a death sentence is increasingly treatable",
       "publishedAt": "2026-05-12T10:05:09.000Z",
       "articleId": "ec2f57bc88c175ff"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-canadiens-are-canadas-last-hope",
-      "title": "The Canadiens Are Canada's Last Hope",
-      "url": "https://neilpaine.substack.com/p/the-canadiens-are-canadas-last-hope",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Montreal is the last Canadian NHL team standing — and the Habs have a real chance to carry the country's long-suffering Cup hopes into the conference final.",
-      "publishedAt": "2026-05-12T10:03:39.000Z",
-      "articleId": "70884f55c8cd377c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/shmoderation-is-the-future",
@@ -1896,17 +1907,6 @@
       "summary": "...",
       "publishedAt": "2026-04-16T01:51:55.000Z",
       "articleId": "f193fc465a2a8159"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/the-truth-about-egg-freezing",
-      "title": "The truth about egg freezing",
-      "url": "https://www.worksinprogress.news/p/the-truth-about-egg-freezing",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Whatever you do, do not listen to the articles that say that egg and embryo freezing do not work.",
-      "publishedAt": "2026-04-15T13:43:31.000Z",
-      "articleId": "b457f3ce4df38158"
     }
   ],
   "sources": [
@@ -1921,10 +1921,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
