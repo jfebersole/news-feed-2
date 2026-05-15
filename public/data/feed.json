@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-15T20:23:17.769Z",
-  "fetchedAt": "2026-05-15T20:23:17.762Z",
+  "generatedAt": "2026-05-15T22:09:39.063Z",
+  "fetchedAt": "2026-05-15T22:09:39.059Z",
   "sourceCount": 21,
   "itemCount": 173,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/you-cant-prepare-for-the-next-pandemic",
+      "title": "You can’t prepare for the next pandemic without confronting the last one",
+      "url": "https://www.slowboring.com/p/you-cant-prepare-for-the-next-pandemic",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "On Covid media, haunting, and hantavirus",
+      "publishedAt": "2026-05-15T22:01:56.000Z",
+      "articleId": "573d2d0b2a4048cb"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-288.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-288",
       "title": "What I’ve been reading",
@@ -961,17 +972,6 @@
       "summary": "Seeing the world in a new way",
       "publishedAt": "2026-05-06T17:13:51.000Z",
       "articleId": "3f7f92001e4acba6"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/dont-copy-donald-trumps-failed-presidency",
-      "title": "Don’t copy Donald Trump’s failed presidency",
-      "url": "https://www.slowboring.com/p/dont-copy-donald-trumps-failed-presidency",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The Orange Man is bad at the job.",
-      "publishedAt": "2026-05-06T10:03:04.000Z",
-      "articleId": "c4ab3a49d3197259"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/microsoft-earnings-apple-earnings/",
@@ -2049,18 +2049,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
