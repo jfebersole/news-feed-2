@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-15T08:14:14.577Z",
-  "fetchedAt": "2026-05-15T08:14:14.572Z",
+  "generatedAt": "2026-05-15T11:28:44.324Z",
+  "fetchedAt": "2026-05-15T11:28:44.315Z",
   "sourceCount": 21,
-  "itemCount": 171,
-  "totalItemCount": 764,
+  "itemCount": 173,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/philosophical-ideas-behind-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=philosophical-ideas-behind-their-time",
+      "title": "Philosophical Ideas Behind Their Time",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/philosophical-ideas-behind-their-time.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Justin Weinberg at Daily Nous riffs off my post, Ideas Behind Their Time, to ask for philosophical examples. He nominates Gettier problems&#8211;i.e. counterexamples to the idea that knowledge is simply “justified true belief&#8221; as a possibility. The classic Gettier paper is from 1963. Wikipedia notes that the Indian philosopher Dharmottara has some clear examples c770 [&#8230;] The post Philosophical Ideas Behind Their Time appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-15T11:18:21.000Z",
+      "articleId": "78b39507d6806328"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-to-know-what-politicians-really",
+      "title": "How to know what politicians really think",
+      "url": "https://www.slowboring.com/p/how-to-know-what-politicians-really",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus AOC vs. Mamdani, the DC mayor&#8217;s race, and plot vs. story",
+      "publishedAt": "2026-05-15T10:01:02.000Z",
+      "articleId": "d8d1632e2c5436af"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "title": "The Sigmoids Won't Save You",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-05-15T08:55:10.000Z",
+      "articleId": "7fe2e587ab00e11b"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/yes-europeans-are-poorer-than-americans",
       "title": "Yes, Europeans are poorer than Americans",
@@ -477,17 +510,6 @@
       "summary": "Featuring Steve Martin, Jackie Chan, Zooey Deschanel, and others",
       "publishedAt": "2026-05-12T13:30:56.000Z",
       "articleId": "d7182b939ec68895"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ideas-behind-their-time-2.html?utm_source=rss&utm_medium=rss&utm_campaign=ideas-behind-their-time-2",
-      "title": "Ideas Behind Their Time: Part Two",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ideas-behind-their-time-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In 2010 I wrote about Ideas Behind Their Time: We are all familiar with ideas said to be ahead of their time, Babbage’s analytical engine and da Vinci’s helicopter are classic examples. We are also familiar with ideas “of their time,” ideas that were “in the air” and thus were often simultaneously discovered such as the telephone, calculus, evolution, [&#8230;] The post Ideas Behind Their Time: Part Two appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-12T11:18:11.000Z",
-      "articleId": "7362c1e031ac8f53"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/pancreatic-cancer-just-met-its-match",
@@ -1899,16 +1921,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1980,7 +2002,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
