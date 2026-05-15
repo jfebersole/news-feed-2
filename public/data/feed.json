@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-15T18:50:07.633Z",
-  "fetchedAt": "2026-05-15T18:50:07.627Z",
+  "generatedAt": "2026-05-15T20:23:17.769Z",
+  "fetchedAt": "2026-05-15T20:23:17.762Z",
   "sourceCount": 21,
   "itemCount": 173,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-288.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-288",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-288.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Mikhail Fishman, The Successor: Boris Nemtsov, Vladimir Putin, and the Decline of Modern Russia. One of the best books to read on how Russia moved from &#8220;had some democratic elements in place&#8221; to autocracy, on a step-by-step basis. The story is told using the career of Boris Nemtsov, who was assassinated in 2014, as [&#8230;] The post What I&#8217;ve been reading appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-15T18:53:57.000Z",
+      "articleId": "c0b6b92213ad83f6"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/shifting-alliances-in-a-changing-world/",
       "title": "2026.20: Shifting Alliances in a Changing World",
@@ -488,17 +499,6 @@
       "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
       "publishedAt": "2026-05-12T19:18:54.000Z",
       "articleId": "000db4bb19b4d1e3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/hollis-robbins-on-ai-and-higher-education.html?utm_source=rss&utm_medium=rss&utm_campaign=hollis-robbins-on-ai-and-higher-education",
-      "title": "Hollis Robbins on AI and higher education",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/hollis-robbins-on-ai-and-higher-education.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "There’s a growing idea I’ve seen in some circles that college could be replaced by conversations between an A.I. tutor and a student. When I think about your model, I wonder why college even needs to exist. If I can just seek out a tutor, somebody that I like, and they just charge me a [&#8230;] The post Hollis Robbins on AI and higher education appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-12T18:38:00.000Z",
-      "articleId": "1527a7123c5be0c4"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/ugll2a99qgzvhki7l1oh.html",
@@ -2049,18 +2049,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
