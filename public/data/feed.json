@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-16T15:13:40.769Z",
-  "fetchedAt": "2026-05-16T15:13:40.765Z",
+  "generatedAt": "2026-05-16T17:12:13.248Z",
+  "fetchedAt": "2026-05-16T17:12:13.244Z",
   "sourceCount": 21,
-  "itemCount": 171,
-  "totalItemCount": 766,
+  "itemCount": 170,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-561.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-561",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-561.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Can opportunities for tax evasion increase tax revenue? 2. Auren Hoffman on the new jobs market. 3. Using AI agents for economic precommitment. 4. The progress against pancreatic cancer. 5. Christian philosophies of technology. The full (new) Substack is here. 6. Economic graduate program enrollments are falling. The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-16T16:38:13.000Z",
+      "articleId": "74707629962b181b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ned-phelps-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=ned-phelps-rip",
       "title": "Ned Phelps, RIP",
@@ -411,17 +422,6 @@
       "summary": "...",
       "publishedAt": "2026-05-14T05:40:29.000Z",
       "articleId": "acdfc52395d606fa"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-bob-spitz.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-bob-spitz",
-      "title": "My excellent Conversation with Bob Spitz",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-bob-spitz.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Bob Spitz has written major biographies of the Beatles, Led Zeppelin, Bob Dylan, and now the Rolling Stones — but also, somehow, Ronald Reagan and Julia Child. In rock, his credentials were hard won: he started out hustling gigs for an unknown Bruce [&#8230;] The post My excellent Conversation with Bob Spitz appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-14T04:53:11.000Z",
-      "articleId": "12564d902bbf395d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/theres-no-place-like-home",
@@ -950,17 +950,6 @@
       "summary": "...",
       "publishedAt": "2026-05-07T06:04:44.000Z",
       "articleId": "8a3604724a986b3b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/are-we-kind-of-being-pricks",
-      "title": "Are we kind of being pricks?",
-      "url": "https://www.slowboring.com/p/are-we-kind-of-being-pricks",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Everybody has a crafty way of getting around development incentives without doing any development.",
-      "publishedAt": "2026-05-06T22:00:35.000Z",
-      "articleId": "782f6a3f8edea473"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists",
@@ -1980,7 +1969,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
