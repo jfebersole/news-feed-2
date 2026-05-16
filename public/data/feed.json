@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-16T06:31:48.132Z",
-  "fetchedAt": "2026-05-16T06:31:48.127Z",
+  "generatedAt": "2026-05-16T08:58:13.063Z",
+  "fetchedAt": "2026-05-16T08:58:13.058Z",
   "sourceCount": 21,
-  "itemCount": 172,
+  "itemCount": 171,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/detroit-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=detroit-notes",
+      "title": "Detroit notes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/detroit-notes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It remains one of America&#8217;s most interesting cities, and now it is seeing a continuing comeback. Downtown remains mostly empty of foot traffic, but I was stunned to see new office buildings and signs of budding prosperity. It did not feel abandoned or hopeless. Detroit Institute of Art is one of America&#8217;s best art museums, [&#8230;] The post Detroit notes appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-16T07:54:07.000Z",
+      "articleId": "6c5ee7c25deac9e9"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/weapons-wealth-and-the-fates-of-societies.html?utm_source=rss&utm_medium=rss&utm_campaign=weapons-wealth-and-the-fates-of-societies",
       "title": "Weapons, Wealth, and the Fates of Societies",
@@ -477,17 +488,6 @@
       "summary": "The \"economic divorce\" between the two countries is proceeding slowly, but it is proceeding.",
       "publishedAt": "2026-05-13T09:40:06.000Z",
       "articleId": "964ea640c2801667"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment.html?utm_source=rss&utm_medium=rss&utm_campaign=some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment",
-      "title": "Some non-obvious reasons why AI will create some transitional problems in employment",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I do not find the mass unemployment hypothesis persuasive, and I have covered this extensively in the past. But here are three other problems which may end up being noticeable in the short run, though likely absent longer term: 1. Many of the new jobs to be created may come in highly regulated sectors, and [&#8230;] The post Some non-obvious reasons why AI will create some transitional problems in employment appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-13T07:36:23.000Z",
-      "articleId": "305e09352d4108de"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/a-big-lesson-of-my-china-visit-compute",
@@ -1885,17 +1885,6 @@
       "summary": "Now that the dust has settled on free agency, it's time for a review of the contracts handed out by the Giants.",
       "publishedAt": "2026-04-16T09:00:29.000Z",
       "articleId": "da441dba12555595"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/you-are-what-you-consume",
-      "title": "You are what you consume",
-      "url": "https://www.noahpinion.blog/p/you-are-what-you-consume",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Personal identity should come from the things we get to choose for ourselves.",
-      "publishedAt": "2026-04-16T07:57:14.000Z",
-      "articleId": "a288c44a64f7cfd9"
     }
   ],
   "sources": [
