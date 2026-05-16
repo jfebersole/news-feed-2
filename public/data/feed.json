@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-16T17:12:13.248Z",
-  "fetchedAt": "2026-05-16T17:12:13.244Z",
+  "generatedAt": "2026-05-16T19:20:59.694Z",
+  "fetchedAt": "2026-05-16T19:20:59.688Z",
   "sourceCount": 21,
-  "itemCount": 170,
+  "itemCount": 169,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/revealing-life-preferences-through-llms.html?utm_source=rss&utm_medium=rss&utm_campaign=revealing-life-preferences-through-llms",
+      "title": "Revealing Life Preferences Through LLMs",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/revealing-life-preferences-through-llms.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is some Weberian verstehen (or is it?), but from unexpected quarters: Large Language Models (LLMs) are trained on a prodigious corpus of human writing and may reveal human preferences over characteristics of life courses, such as income, longevity, and working conditions. We present OpenAI&#8217;s GPT-5.4 and a broadly representative sample of Americans with pairs [&#8230;] The post Revealing Life Preferences Through LLMs appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-16T18:57:22.000Z",
+      "articleId": "601006e858baa222"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-561.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-561",
       "title": "Saturday assorted links",
@@ -389,17 +400,6 @@
       "summary": "The PGA sells itself as the strongest-field major, but its history suggests a different calling card: the major most willing to mint an unexpected champion.",
       "publishedAt": "2026-05-14T09:58:56.000Z",
       "articleId": "9a3b6e347faca738"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-impact-of-ai-generated-text-on-the-internet.html?utm_source=rss&utm_medium=rss&utm_campaign=the-impact-of-ai-generated-text-on-the-internet",
-      "title": "The Impact of AI-Generated Text on the Internet",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-impact-of-ai-generated-text-on-the-internet.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The proliferation of AI-generated and AI-assisted text on the internet is feared to contribute to a degradation in semantic and stylistic diversity, factual accuracy, and other negative developments. We find that by mid-2025, roughly 35% of newly published websites were classified as AI-generated or AI-assisted, up from zero before ChatGPT&#8217;s launch in late 2022. We [&#8230;] The post The Impact of AI-Generated Text on the Internet appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-14T09:44:00.000Z",
-      "articleId": "9972ce6738a65cf8"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7277890/2026/05/14/new-york-giants-notebook-defensive-tackle-signings/",
@@ -1863,17 +1863,6 @@
       "summary": "It seems like a safe bet that the Giants wind up with more than seven picks. Here is how they could do it.",
       "publishedAt": "2026-04-17T10:01:13.000Z",
       "articleId": "baef03027ba02592"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-the-rock-and-roll-hall-of-fame",
-      "title": "When the Rock Hall is Wrong",
-      "url": "https://www.cantgetmuchhigher.com/p/what-the-rock-and-roll-hall-of-fame",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "... and right",
-      "publishedAt": "2026-04-16T17:30:59.000Z",
-      "articleId": "67192960ba225cae"
     }
   ],
   "sources": [
