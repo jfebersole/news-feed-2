@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-17T19:33:14.088Z",
-  "fetchedAt": "2026-05-17T19:33:14.082Z",
+  "generatedAt": "2026-05-17T21:06:24.392Z",
+  "fetchedAt": "2026-05-17T21:06:24.388Z",
   "sourceCount": 21,
-  "itemCount": 168,
-  "totalItemCount": 755,
+  "itemCount": 167,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a02",
@@ -1841,17 +1841,6 @@
       "summary": "A quadruped welding robot, the China Shock 2.0, transformer startups, China&#8217;s mysteriously moving satellites, and more.",
       "publishedAt": "2026-04-18T12:00:53.000Z",
       "articleId": "15e767958454235c"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/hasan-piker-is-bad-for-the-democrats",
-      "title": "Hasan Piker is bad for the Democrats",
-      "url": "https://www.noahpinion.blog/p/hasan-piker-is-bad-for-the-democrats",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Republicans embraced extremist ideology and it backfired on them. Democrats shouldn't follow suit.",
-      "publishedAt": "2026-04-17T20:45:24.000Z",
-      "articleId": "09d300bcb2157676"
     }
   ],
   "sources": [
@@ -1866,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
