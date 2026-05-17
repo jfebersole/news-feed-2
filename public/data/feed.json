@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-17T15:14:38.244Z",
-  "fetchedAt": "2026-05-17T15:14:38.239Z",
+  "generatedAt": "2026-05-17T17:11:02.213Z",
+  "fetchedAt": "2026-05-17T17:11:02.207Z",
   "sourceCount": 21,
   "itemCount": 168,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a02",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-a02",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-05-17T17:02:00.000Z",
+      "articleId": "b544e39bb4385bbc"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-567",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-567.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. University of Vermont enrollments expected to fall fifteen percent this year. 2, New NSF initiative, which seems set to bypass universities? 3. Are firms migrating from the US to Europe, or vice versa? 4. Soft tissue star injuries in the NBA are getting worse. 5. NY high school has 21 valedictorians all with A+ [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-17T15:56:48.000Z",
+      "articleId": "63f2d06b0eab4cba"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-are-the-best-acoustic-guitar",
       "title": "What are the Best Acoustic Guitar Solos? Link Drop",
@@ -312,17 +334,6 @@
       "summary": "Tensor let me sit in their driverless car. It might go on sale in the US next year.",
       "publishedAt": "2026-05-14T19:36:17.000Z",
       "articleId": "93a05d275c47bea8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/meta-papers-in-science-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=meta-papers-in-science-from-my-email",
-      "title": "Meta-papers in science (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/meta-papers-in-science-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Brennan Plaetzer: Hi Tyler, Your post yesterday argued AI will replace papers with meta-papers that synthesize, re-run, and extend prior work. I built one in oncology last month, before reading your post. I ran my friend Omar Abdel-Wahab&#8217;s (MSK) last ten papers through an AI synthesis layer. This came out on top: an integrated, [&#8230;] The post Meta-papers in science (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-14T18:41:38.000Z",
-      "articleId": "4f560a88fe4e60df"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/the-great-forgetting",
@@ -950,17 +961,6 @@
       "summary": "A prescient, influential, and slightly bizarre book",
       "publishedAt": "2026-05-07T10:01:34.000Z",
       "articleId": "86d564a2260d91fa"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/political-commentary-should-be-boring",
-      "title": "Political commentary should be boring",
-      "url": "https://www.slowboring.com/p/political-commentary-should-be-boring",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Old man yells at podcast clouds",
-      "publishedAt": "2026-05-07T10:01:10.000Z",
-      "articleId": "88bd34626c567fed"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
