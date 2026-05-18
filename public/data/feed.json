@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-18T10:23:38.671Z",
-  "fetchedAt": "2026-05-18T10:23:38.667Z",
+  "generatedAt": "2026-05-18T14:37:05.748Z",
+  "fetchedAt": "2026-05-18T14:37:05.738Z",
   "sourceCount": 21,
   "itemCount": 167,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7288516/2026/05/18/new-york-giants-mailbag-2026-harbaugh-otas/",
+      "title": "Submit your questions for Dan Duggan’s Giants mailbag",
+      "url": "https://www.nytimes.com/athletic/7288516/2026/05/18/new-york-giants-mailbag-2026-harbaugh-otas/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "OTAs under John Harbaugh start on Thursday.",
+      "publishedAt": "2026-05-18T14:25:55.000Z",
+      "articleId": "56b332e232769a92"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/trumps-china-policy-is-a-disaster",
       "title": "Trump’s China policy is a disaster",
@@ -15,6 +26,17 @@
       "summary": "Surrendering American advantages in an effort to score a big soybean sale",
       "publishedAt": "2026-05-18T10:02:34.000Z",
       "articleId": "ada0afc74b291e2d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-spurs-are-still-the-thunders",
+      "title": "The Spurs Are Still the Thunder's Biggest Problem",
+      "url": "https://neilpaine.substack.com/p/the-spurs-are-still-the-thunders",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "OKC remains the West favorite — but the Spurs were the one team who made the defending champs look mortal.",
+      "publishedAt": "2026-05-18T10:00:56.000Z",
+      "articleId": "e7ab39a110e2407a"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
@@ -455,17 +477,6 @@
       "summary": "An interview with me about the implications of the compute shortage on Aggregation Theory, consumer AI, and more.",
       "publishedAt": "2026-05-14T10:00:00.000Z",
       "articleId": "175f5165b51a54b4"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-pga-championship-is-golfs-democratic",
-      "title": "The PGA Championship Is Golf's Democratic Major. It Just Doesn't Know It.",
-      "url": "https://neilpaine.substack.com/p/the-pga-championship-is-golfs-democratic",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The PGA sells itself as the strongest-field major, but its history suggests a different calling card: the major most willing to mint an unexpected champion.",
-      "publishedAt": "2026-05-14T09:58:56.000Z",
-      "articleId": "9a3b6e347faca738"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7277890/2026/05/14/new-york-giants-notebook-defensive-tackle-signings/",
@@ -1830,17 +1841,6 @@
       "summary": "Ten hours on a Greyhound with a few ex-cons, and one very complicated woman",
       "publishedAt": "2026-04-18T19:46:04.000Z",
       "articleId": "7657d2c7ca04f7b2"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-04182026",
-      "title": "Reading List 04/18/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-04182026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A quadruped welding robot, the China Shock 2.0, transformer startups, China&#8217;s mysteriously moving satellites, and more.",
-      "publishedAt": "2026-04-18T12:00:53.000Z",
-      "articleId": "15e767958454235c"
     }
   ],
   "sources": [
