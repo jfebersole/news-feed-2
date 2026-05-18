@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-18T14:37:05.748Z",
-  "fetchedAt": "2026-05-18T14:37:05.738Z",
+  "generatedAt": "2026-05-18T17:36:30.571Z",
+  "fetchedAt": "2026-05-18T17:36:30.567Z",
   "sourceCount": 21,
   "itemCount": 167,
-  "totalItemCount": 765,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html",
+      "title": "We Need More ‘Rabid Partisans’ Like Shane Massey",
+      "url": "https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Defeating a sclerotic rump of a party is no achievement. Instead, one-party rule enables corruption. It fosters stagnation.",
+      "publishedAt": "2026-05-18T16:27:41.000Z",
+      "articleId": "8a4dc847581d0d9b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/who-is-losing-out-in-marriage-market-competition.html?utm_source=rss&utm_medium=rss&utm_campaign=who-is-losing-out-in-marriage-market-competition",
+      "title": "Who is losing out in marriage market competition?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/who-is-losing-out-in-marriage-market-competition.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Over the past half-century, U.S. four-year colleges have shifted from enrolling mostly men to enrolling mostly women, while the economic position of non-college men has weakened markedly. We examine how these changes correspond with the evolving structure of marriage markets across cohorts and places. As college men have become increasingly scarce, college women have maintained [&#8230;] The post Who is losing out in marriage market competition? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-18T15:53:25.000Z",
+      "articleId": "14811fb92312625b"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7288516/2026/05/18/new-york-giants-mailbag-2026-harbaugh-otas/",
       "title": "Submit your questions for Dan Duggan’s Giants mailbag",
@@ -70,17 +92,6 @@
       "summary": "That is from Alex Nowrasteh. And for some country by country graphs: Here is that link. There might be some connection to smart phones, but it just does not seem that strong? Perhaps the phones give a fillip and a modest acceleration to an already in place trend? And are Kenya&#8217;s phones really all that [&#8230;] The post Why I am skeptical on the relationship between smart phones and fertility appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-18T04:34:18.000Z",
       "articleId": "c2422575f60981c6"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html",
-      "title": "We Need More ‘Rabid Partisans’ Like Shane Massey",
-      "url": "https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Defeating a sclerotic rump of a party is no achievement. Instead, one-party rule enables corruption. It fosters stagnation.",
-      "publishedAt": "2026-05-18T03:48:55.000Z",
-      "articleId": "8a4dc847581d0d9b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a02",
@@ -312,17 +323,6 @@
       "summary": "Protecting central bank independence will be an ongoing struggle; the most important thing is that no board members resign anytime soon.",
       "publishedAt": "2026-05-15T11:39:19.000Z",
       "articleId": "3ab7a03ce2626242"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/philosophical-ideas-behind-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=philosophical-ideas-behind-their-time",
-      "title": "Philosophical Ideas Behind Their Time",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/philosophical-ideas-behind-their-time.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Justin Weinberg at Daily Nous riffs off my post, Ideas Behind Their Time, to ask for philosophical examples. He nominates Gettier problems&#8211;i.e. counterexamples to the idea that knowledge is simply “justified true belief&#8221; as a possibility. The classic Gettier paper is from 1963. Wikipedia notes that the Indian philosopher Dharmottara has some clear examples c770 [&#8230;] The post Philosophical Ideas Behind Their Time appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-15T11:18:21.000Z",
-      "articleId": "78b39507d6806328"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/carlos-delgado-wasnt-a-hall-of-famer",
@@ -1855,16 +1855,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
