@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-19T21:42:31.912Z",
-  "fetchedAt": "2026-05-19T21:42:31.904Z",
+  "generatedAt": "2026-05-19T23:19:36.188Z",
+  "fetchedAt": "2026-05-19T23:19:36.179Z",
   "sourceCount": 21,
   "itemCount": 166,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
+      "title": "How I Lost a Religion",
+      "url": "https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Lessons from sports fandom on why traditions fade.",
+      "publishedAt": "2026-05-19T22:00:08.000Z",
+      "articleId": "4ca1d875ca93bcfd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html?utm_source=rss&utm_medium=rss&utm_campaign=old-space-policy-vs-new-space-policy",
       "title": "Old space policy vs. new space policy",
@@ -906,17 +917,6 @@
       "summary": "That's probably the wrong question.",
       "publishedAt": "2026-05-09T09:58:53.000Z",
       "articleId": "6762af6252a6b336"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/smart-girls-read-smut",
-      "title": "Smart girls read smut",
-      "url": "https://www.slowboring.com/p/smart-girls-read-smut",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Perhaps my most serious take",
-      "publishedAt": "2026-05-08T22:01:18.000Z",
-      "articleId": "a6843468c885ac71"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/earning-spending/",
@@ -1844,10 +1844,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1925,7 +1925,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
