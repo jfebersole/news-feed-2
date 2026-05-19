@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-19T16:30:22.341Z",
-  "fetchedAt": "2026-05-19T16:30:22.336Z",
+  "generatedAt": "2026-05-19T19:15:50.270Z",
+  "fetchedAt": "2026-05-19T19:15:50.264Z",
   "sourceCount": 21,
-  "itemCount": 167,
-  "totalItemCount": 755,
+  "itemCount": 166,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html?utm_source=rss&utm_medium=rss&utm_campaign=old-space-policy-vs-new-space-policy",
+      "title": "Old space policy vs. new space policy",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The emergence of firms like SpaceX and Blue Origin has made space a leading example of how private enterprise drives innovation, marking what many see as a sharp break between Old Space and New Space. Yet little systematic evidence documents when the transition to this new phase of space innovation occurred and which firms drove [&#8230;] The post Old space policy vs. new space policy appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-19T18:17:48.000Z",
+      "articleId": "d4bfd0ff413a6af3"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ixa7bx61525j4qhc781a.html",
+      "title": "Prediction Markets Are the New Public Markets",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ixa7bx61525j4qhc781a.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff SPVs, HPS, OpenAI, UpsideOnly. Private predictions In the 1930s, the problem with US stock markets was that investors didn’t get enough information. The solution was new rules that created the US Securities and Exchange Commission and required companies to disclose various information — audited financial statements, updates on material events, etc. — if they wanted to sell stock to the general public. Companies that didn’t want to raise money from the general public didn’t really have to disclose anything, but the general public had most of the money, so most companies that wanted to get big had to go public and disclose the required information. In the 2020s, the problem with US stock markets is apparently that not enough companies want to do that disclosure. “Private markets are the new public markets,” I often say: It is relatively easy for hot tech startups to raise lots of money from institutional investors, without ever selling to the general public, and so many of them do. They don’t go public, they don’t file disclosures, and they just raise money in private markets. This arguably creates two problems: Hot tech startups create a lot of value, and if they don’t sell shares to the general public, then the general public doesn’t get any of that value. SpaceX and OpenAI and Anthropic all have gigantic valuations; all of their growth so far has been captured by employees and founders and venture capitalists and other big investors, not by the general public. [1] There are good social externalities in having companies be public and disclose their information. Society — journalists and politicians and activists and ordinary people — can learn important stuff by reading public-company disclosures; those disclosures are not of interest only to shareholders. A lot of people worry about the first problem (not so much the second) and try to think of solutions. One set of solutions involves making it harder for companies to stay private (so they have to go public earlier and sell stock to the general public); another set of solutions involves making it easier for companies to go public. “Making it easier for companies to go public” often means reducing the standard disclosure requirements: It’s easier for a company to be public if it doesn’t have to disclose as much about its finances. We talked yesterday about an SEC proposal to make quarterly financial reporting optional: If companies could report results only every six months, that would be easier, and more of them might go public. Today the SEC proposed some more changes to reporting rules to make being public easier and “Make IPOs Great Again” But there is another, more radical, solution, which is to get rid of the whole disclosure regime and let the general public buy shares of private...",
+      "publishedAt": "2026-05-19T18:06:59.811Z",
+      "articleId": "d2a3db906db6aeb6"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-569",
       "title": "Tuesday assorted links",
@@ -345,17 +367,6 @@
       "summary": "Does Xi Jinping see the world this way?",
       "publishedAt": "2026-05-16T11:28:09.000Z",
       "articleId": "4862f80f6a3eff60"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/hayek-in-jacobin.html?utm_source=rss&utm_medium=rss&utm_campaign=hayek-in-jacobin",
-      "title": "Hayek in Jacobin",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/hayek-in-jacobin.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here&#8217;s something I never expected to write: Jacobin, the magazine of the DSA-aligned left, has a good article on central planning. In an interview, Vivek Chibber lays out essentially the Mises–Hayek–Kornai critique of central planning. Information problems, incentive problems and the consequent failures are laid bare. Moreover, Chibber refuses to lay the blame at the [&#8230;] The post Hayek in Jacobin appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-16T11:18:54.000Z",
-      "articleId": "c1c62dac91708341"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-11-15-2026",
@@ -994,17 +1005,6 @@
       "summary": "A repost, because I'm annoyed.",
       "publishedAt": "2026-05-08T06:22:14.000Z",
       "articleId": "784c387403bbb841"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/f7tjd5hpv4gb1x7zrfyt.html",
-      "title": "Money Stuff: Sell on eBay to Buy eBay",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/f7tjd5hpv4gb1x7zrfyt.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Socks, M&A lawyers, Blue Owl, MFS, Aave. View in browser Half cash, half sock Sure, sure, sure : GameStop Corp. Chief Executive Officer Ryan Cohen said his eBay Inc. account was suspended following a publicity stunt in which he listed a raft of personal items — including a pair of socks — to fund his $56 billion bid for the online marketplace. Cohen shared a screenshot of a notice from eBay saying his account had been suspended. He previously said he was raising money on the platform to help pay for the deal. His account racked up scores of bids totaling tens of thousands of dollars for a hodgepodge of items. … Earlier this week, GameStop offered $125 per share in cash and stock for eBay. GameStop secured an initial, non-binding “highly confident letter” from TD Bank to provide about $20 billion of debt financing for the deal, but Cohen has still been peppered with questions about how he’ll manage to pay for a deal. ... Beyond the socks offered on Cohen’s eBay account, other sought after items include a pair of GameStop signs and what appears to be a life-sized Halo 2 statue, both of which are going for more than $10,000. Among the other goods for sale are vintage baseball cards including Willie Mays and an unopened package of Windows 2000 software. Sure! One thing that I sometimes think about is that there is a continuum between “real” takeover offers and “fake” ones. Quite a lot of very real takeovers — including most private-equity buyouts and also Elon Musk’s purchase of Twitter Inc. — begin with an acquirer who doesn’t have the money. A private equity firm, or Elon Musk, will approach the target and say “hey we’d like to discuss acquiring you for $10 billion,” and the target will say “okay do you have $10 billion,” and the buyer will say “no, of course not, we don’t just keep $10 billion lying around in the bank, but if our discussions go well and we decide to move forward, we’ll easily be able to raise the money.” [1] And the target might say “oh, yes, fair, you are [a giant private equity firm][the world’s richest person], no problem,” and proceed to negotiate a deal. Or the target might instead say “prove it,” and the buyer will find some way — a debt commitment letter, audited financial statements, a guarantee from Dad — to demonstrate to the target that the money will eventually be there. Or sometimes a potential buyer will lob in a bid without the money, and the target will say “okay do you have the money,” and the buyer will say “no, but if our discussions go well and we decide to move forward, we’ll probably be able to raise the money.” Like, abstractly, eBay is financeable — people own its debt and equity now! — so Ryan Cohen should be able to finance it. “I can find people to pay $56 billion for a company with a current...",
-      "publishedAt": "2026-05-07T18:21:08.083Z",
-      "articleId": "cb3d6f9c72207fdb"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-the-album-dead",
@@ -1830,17 +1830,6 @@
       "summary": "Economic consensus is changing, but it has a long way to go.",
       "publishedAt": "2026-04-20T05:07:55.000Z",
       "articleId": "c2b6502df27e2dfa"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/should-i-listen-to-music-by-bad-people",
-      "title": "Should I Listen to Music by Bad People? Link Drop",
-      "url": "https://www.cantgetmuchhigher.com/p/should-i-listen-to-music-by-bad-people",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "A round-up of the most important stories in music right now",
-      "publishedAt": "2026-04-19T16:31:01.000Z",
-      "articleId": "c983a0ff7e1d7859"
     }
   ],
   "sources": [
@@ -1855,10 +1844,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
