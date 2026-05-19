@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-19T12:18:55.811Z",
-  "fetchedAt": "2026-05-19T12:18:55.802Z",
+  "generatedAt": "2026-05-19T16:30:22.341Z",
+  "fetchedAt": "2026-05-19T16:30:22.336Z",
   "sourceCount": 21,
-  "itemCount": 166,
-  "totalItemCount": 765,
+  "itemCount": 167,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-569",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-569.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. AI-written story published in Granta, wins major literary prize. 2. JFV on smart phones as accelerators of fertility declines. 3. Maryland markets in everything. 4. Polling Chinese on a top one hundred books. 5. From the excellent Samir Varma, could alien drone probes decelerate in time? And here is analysis from GPT. 6. &#8220;I [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-19T15:52:04.000Z",
+      "articleId": "525ebf50e905e837"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/1960s-girl-groups-an-album-a-day",
+      "title": "1960s Girl Groups: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/1960s-girl-groups-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring The Supremes, The Shangri-Las, The Marvelettes, and others",
+      "publishedAt": "2026-05-19T13:30:59.000Z",
+      "articleId": "7ac2907866b9ef9a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/repugnant-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=repugnant-economics",
       "title": "Repugnant Economics",
@@ -345,17 +367,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-05-16T09:00:44.000Z",
       "articleId": "05ca60ea86ae24f7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/detroit-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=detroit-notes",
-      "title": "Detroit notes",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/detroit-notes.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "It remains one of America&#8217;s most interesting cities, and now it is seeing a continuing comeback. Downtown remains mostly empty of foot traffic, but I was stunned to see new office buildings and signs of budding prosperity. It did not feel abandoned or hopeless. Detroit Institute of Art is one of America&#8217;s best art museums, [&#8230;] The post Detroit notes appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-16T07:54:07.000Z",
-      "articleId": "6c5ee7c25deac9e9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/you-cant-prepare-for-the-next-pandemic",
@@ -1844,10 +1855,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
