@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-20T12:02:17.748Z",
-  "fetchedAt": "2026-05-20T12:02:17.743Z",
+  "generatedAt": "2026-05-20T15:52:33.239Z",
+  "fetchedAt": "2026-05-20T15:52:33.229Z",
   "sourceCount": 21,
-  "itemCount": 166,
+  "itemCount": 164,
   "totalItemCount": 755,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
+      "title": "How I Lost a Religion",
+      "url": "https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Lessons from sports fandom on why traditions fade.",
+      "publishedAt": "2026-05-20T14:35:01.000Z",
+      "articleId": "4ca1d875ca93bcfd"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/we-can-fix-the-trumpwarren-build",
       "title": "We can fix the Trump/Warren build-to-rent ban",
@@ -70,17 +81,6 @@
       "summary": "Tajikistan&#8217;s remittances are worth nearly half the country’s GDP— In Tajikistan, remittances — the money sent or brought back by migrants — amounted to 48% of GDP in 2024. The chart places this figure in context by comparing it with other countries with data for the same year. Nicaragua and Honduras receive remittances worth around a [&#8230;] The post Tajikistan fact of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-20T04:42:27.000Z",
       "articleId": "8b7f7e2d63cc1433"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
-      "title": "How I Lost a Religion",
-      "url": "https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Lessons from sports fandom on why traditions fade.",
-      "publishedAt": "2026-05-19T22:00:08.000Z",
-      "articleId": "4ca1d875ca93bcfd"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html?utm_source=rss&utm_medium=rss&utm_campaign=old-space-policy-vs-new-space-policy",
@@ -1808,28 +1808,6 @@
       "summary": "It didn’t work out too well for kings, either.",
       "publishedAt": "2026-04-20T16:35:34.000Z",
       "articleId": "d6c9e75aebe304dd"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/what-really-stopped-the-boats",
-      "title": "The myth of Nauru",
-      "url": "https://www.worksinprogress.news/p/what-really-stopped-the-boats",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Many countries want to copy Australia&#8217;s immigration rules. But its most-copied border policy is not the one that worked.",
-      "publishedAt": "2026-04-20T14:23:39.000Z",
-      "articleId": "8c1ff3446b52a558"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/meta-is-back-in-the-llm-game-after",
-      "title": "Meta is back in the LLM game after a year-long break",
-      "url": "https://www.understandingai.org/p/meta-is-back-in-the-llm-game-after",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "What Muse Spark tells us about Meta&#8217;s new AI strategy.",
-      "publishedAt": "2026-04-20T13:39:52.000Z",
-      "articleId": "598e36e76a5fd67f"
     }
   ],
   "sources": [
