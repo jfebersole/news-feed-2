@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-20T04:33:38.219Z",
-  "fetchedAt": "2026-05-20T04:33:38.213Z",
+  "generatedAt": "2026-05-20T08:34:19.896Z",
+  "fetchedAt": "2026-05-20T08:34:19.892Z",
   "sourceCount": 21,
   "itemCount": 166,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/where-did-all-the-good-sculptors",
+      "title": "Where did all the good sculptors go?",
+      "url": "https://www.worksinprogress.news/p/where-did-all-the-good-sculptors",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Episode 17 is about carving a new sculpture tradition.",
+      "publishedAt": "2026-05-20T08:17:45.000Z",
+      "articleId": "1bd6c6f5504c9f2f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/john-burn-murdoch-on-phones-and-fertility.html?utm_source=rss&utm_medium=rss&utm_campaign=john-burn-murdoch-on-phones-and-fertility",
+      "title": "John Burn-Murdoch on phones and fertility",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/john-burn-murdoch-on-phones-and-fertility.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From my email: Hi folks, appreciate the discussion of the piece here, as ever. I just wanted to chime in briefly with an analogy that speaks to one of the ways I think about the causal mechanism here, and to my mind pushes back against the argument that since past declines in fertility didn’t come [&#8230;] The post John Burn-Murdoch on phones and fertility appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-20T05:46:37.000Z",
+      "articleId": "5f9093e06a70c1be"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tajikistan-fact-of-the-day",
+      "title": "Tajikistan fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Tajikistan&#8217;s remittances are worth nearly half the country’s GDP— In Tajikistan, remittances — the money sent or brought back by migrants — amounted to 48% of GDP in 2024. The chart places this figure in context by comparing it with other countries with data for the same year. Nicaragua and Honduras receive remittances worth around a [&#8230;] The post Tajikistan fact of the day appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-20T04:42:27.000Z",
+      "articleId": "8b7f7e2d63cc1433"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
       "title": "How I Lost a Religion",
@@ -334,28 +367,6 @@
       "summary": "Here is some Weberian verstehen (or is it?), but from unexpected quarters: Large Language Models (LLMs) are trained on a prodigious corpus of human writing and may reveal human preferences over characteristics of life courses, such as income, longevity, and working conditions. We present OpenAI&#8217;s GPT-5.4 and a broadly representative sample of Americans with pairs [&#8230;] The post Revealing Life Preferences Through LLMs appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-16T18:57:22.000Z",
       "articleId": "601006e858baa222"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-561.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-561",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-561.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Can opportunities for tax evasion increase tax revenue? 2. Auren Hoffman on the new jobs market. 3. Using AI agents for economic precommitment. 4. The progress against pancreatic cancer. 5. Christian philosophies of technology. The full (new) Substack is here. 6. Economic graduate program enrollments are falling. The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-16T16:38:13.000Z",
-      "articleId": "74707629962b181b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ned-phelps-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=ned-phelps-rip",
-      "title": "Ned Phelps, RIP",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ned-phelps-rip.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is a brief appreciation from Olivier Blanchard, link now corrected. The post Ned Phelps, RIP appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-16T12:10:51.000Z",
-      "articleId": "9493381496148e0c"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-051626",
@@ -1819,17 +1830,6 @@
       "summary": "One final seven-round projection for John Harbaugh's first Giants draft.",
       "publishedAt": "2026-04-20T09:30:53.000Z",
       "articleId": "65f5bd66d57511a4"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/updated-thoughts-on-industrial-policy",
-      "title": "Updated thoughts on industrial policy",
-      "url": "https://www.noahpinion.blog/p/updated-thoughts-on-industrial-policy",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Economic consensus is changing, but it has a long way to go.",
-      "publishedAt": "2026-04-20T05:07:55.000Z",
-      "articleId": "c2b6502df27e2dfa"
     }
   ],
   "sources": [
