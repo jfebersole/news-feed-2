@@ -1,10 +1,109 @@
 {
-  "generatedAt": "2026-05-21T08:41:44.833Z",
-  "fetchedAt": "2026-05-21T08:41:44.827Z",
+  "generatedAt": "2026-05-21T12:25:32.815Z",
+  "fetchedAt": "2026-05-21T12:25:32.811Z",
   "sourceCount": 21,
-  "itemCount": 162,
+  "itemCount": 165,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing",
+      "title": "The Rise of Build-to-Rent Housing",
+      "url": "https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A major shift in the housing market in the last several years is the rapidly increasing popularity of &#8220;build-to-rent&#8221; homes &#8212; single-family homes that are built specifically for the purpose of being rented out.",
+      "publishedAt": "2026-05-21T12:03:24.000Z",
+      "articleId": "dd904930f2fa7753"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/modern-hindu-temples",
+      "title": "Modern Hindu Temples",
+      "url": "https://www.worksinprogress.news/p/modern-hindu-temples",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Most ancient architectural traditions have withered, but one is enjoying a golden age: Hindu temple architecture.",
+      "publishedAt": "2026-05-21T11:30:44.000Z",
+      "articleId": "48b47d727aa5d306"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/empty-revolution-a-walk-from-ulm",
+      "title": "Empty Revolution: A Walk From Ulm to Augsburg (Germany)",
+      "url": "https://walkingtheworld.substack.com/p/empty-revolution-a-walk-from-ulm",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Enough solitude to read history",
+      "publishedAt": "2026-05-21T11:20:06.000Z",
+      "articleId": "53ba05e5741bdb5d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ais-are-one-of-us-now",
+      "title": "The AIs are “One of Us”",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A general purpose AI model from OpenAI has produced a (dis)proof of an important conjecture. Tim Gowers writes: AI has now solved a major open problem &#8212; one of the best known Erdos problems called the unit distance problem, one of Erdos&#8217;s favourite questions and one that many mathematicians had tried. A number of prominent [&#8230;] The post The AIs are &#8220;One of Us&#8221; appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-21T11:19:03.000Z",
+      "articleId": "3da0d68afea6b5a2"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-dumb-policy-making-groceries",
+      "title": "The dumb policy making groceries more expensive",
+      "url": "https://www.slowboring.com/p/the-dumb-policy-making-groceries",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Stop making people turn corn into gasoline",
+      "publishedAt": "2026-05-21T10:02:36.000Z",
+      "articleId": "aea81e3002d596b1"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
+      "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
+      "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
+      "publishedAt": "2026-05-21T10:00:00.000Z",
+      "articleId": "35c0d4bf06623dde"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-end-of-white-jerseys-at-home",
+      "title": "The End of White Jerseys at Home Goes Beyond Nike and the NBA",
+      "url": "https://neilpaine.substack.com/p/the-end-of-white-jerseys-at-home",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Basketball is the most obvious example, but the old visual language of home and road teams has been eroding across every major sport.",
+      "publishedAt": "2026-05-21T09:57:49.000Z",
+      "articleId": "e772d66c2232ea58"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7293471/2026/05/21/john-harbaugh-giants-front-office-changes-joe-schoen/",
+      "title": "Why did John Harbaugh make so few changes to the New York Giants' front office?",
+      "url": "https://www.nytimes.com/athletic/7293471/2026/05/21/john-harbaugh-giants-front-office-changes-joe-schoen/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "And what positions will first-round picks Arvell Reese and Francis Mauigoa play long-term?",
+      "publishedAt": "2026-05-21T09:30:42.000Z",
+      "articleId": "63d6c5901a25737c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-strategic-case-against-chinese",
+      "title": "The strategic case against Chinese EVs",
+      "url": "https://www.slowboring.com/p/the-strategic-case-against-chinese",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Rank protectionism is bad, but America needs an industrial base.",
+      "publishedAt": "2026-05-21T09:02:40.000Z",
+      "articleId": "cccaf7634a90b87f"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-82-staring-in-wonder-at-the",
       "title": "Roundup #82: Staring in wonder at the world",
@@ -347,17 +446,6 @@
       "articleId": "ada0afc74b291e2d"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-spurs-are-still-the-thunders",
-      "title": "The Spurs Are Still the Thunder's Biggest Problem",
-      "url": "https://neilpaine.substack.com/p/the-spurs-are-still-the-thunders",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "OKC remains the West favorite — but the Spurs were the one team who made the defending champs look mortal.",
-      "publishedAt": "2026-05-18T10:00:56.000Z",
-      "articleId": "e7ab39a110e2407a"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
       "title": "Data Center Discontent, Understanding the Opposition, Fixing the Problem",
       "url": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
@@ -400,17 +488,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-05-17T17:02:00.000Z",
       "articleId": "b544e39bb4385bbc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-567",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-567.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. University of Vermont enrollments expected to fall fifteen percent this year. 2, New NSF initiative, which seems set to bypass universities? 3. Are firms migrating from the US to Europe, or vice versa? 4. Soft tissue star injuries in the NBA are getting worse. 5. NY high school has 21 valedictorians all with A+ [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-17T15:56:48.000Z",
-      "articleId": "63f2d06b0eab4cba"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-are-the-best-acoustic-guitar",
@@ -864,17 +941,6 @@
       "articleId": "8c9089dc38167fc3"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/hantavirus-is-a-reminder-we-should",
-      "title": "Hantavirus is a reminder we should prepare for the next pandemic",
-      "url": "https://www.slowboring.com/p/hantavirus-is-a-reminder-we-should",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "We&#8217;re going backward instead of forward",
-      "publishedAt": "2026-05-11T10:02:30.000Z",
-      "articleId": "14a5dc733116dd13"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/the-inference-shift/",
       "title": "The Inference Shift",
       "url": "https://stratechery.com/2026/the-inference-shift/",
@@ -906,17 +972,6 @@
       "summary": "Plus thoughts on monetary policy and the current economy",
       "publishedAt": "2026-05-10T17:55:11.000Z",
       "articleId": "88840d8b1a29f701"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-79e",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-79e",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-05-10T17:01:04.000Z",
-      "articleId": "eb15d02bab171e7d"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
@@ -1082,17 +1137,6 @@
       "summary": "Mostly not very long",
       "publishedAt": "2026-05-07T15:23:28.000Z",
       "articleId": "61d20435d50caf55"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
-      "title": "An Interview with Joanna Stern About Living With AI",
-      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Joanna Stern about her new book about living with AI, and starting her own media company.",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "articleId": "8ee15a25b1d901ce"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-everyone-on-taste",
@@ -1775,17 +1819,6 @@
       "summary": "Featuring Elvis Costello, Jay-Z, Metallica, and others",
       "publishedAt": "2026-04-21T13:30:45.000Z",
       "articleId": "1e05c5c1655e35ee"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7214351/2026/04/21/new-york-giants-pre-draft-top-30-visits/",
-      "title": "Pre-draft visits have been a Giants tell — here's who they met with this year",
-      "url": "https://www.nytimes.com/athletic/7214351/2026/04/21/new-york-giants-pre-draft-top-30-visits/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Will the Giants' pre-draft visits carry the same weight under John Harbaugh? Soon we'll know for sure.",
-      "publishedAt": "2026-04-21T09:30:58.000Z",
-      "articleId": "dc50fb08dd061116"
     }
   ],
   "sources": [
