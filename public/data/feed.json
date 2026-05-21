@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-20T23:38:05.358Z",
-  "fetchedAt": "2026-05-20T23:38:05.355Z",
+  "generatedAt": "2026-05-21T04:40:56.269Z",
+  "fetchedAt": "2026-05-21T04:40:56.264Z",
   "sourceCount": 21,
-  "itemCount": 161,
-  "totalItemCount": 764,
+  "itemCount": 162,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/ever-more-links-52026",
+      "title": "Ever more links (5/20/26)",
+      "url": "https://scottsumner.substack.com/p/ever-more-links-52026",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Too busy to write a new post",
+      "publishedAt": "2026-05-20T22:01:39.000Z",
+      "articleId": "dc43034b7043e155"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/m0y72ra3v3rer5285mlu.html",
       "title": "Money Stuff: Don’t Free Little Joe",
@@ -1798,7 +1809,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
