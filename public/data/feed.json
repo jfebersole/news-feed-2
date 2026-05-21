@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-21T21:45:51.407Z",
-  "fetchedAt": "2026-05-21T21:45:51.402Z",
+  "generatedAt": "2026-05-21T23:16:28.392Z",
+  "fetchedAt": "2026-05-21T23:16:28.381Z",
   "sourceCount": 21,
   "itemCount": 164,
-  "totalItemCount": 763,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/5979263/2026/05/21/joe-schoen-new-york-giants-gm-extension/",
+      "title": "New York Giants, GM Joe Schoen agree to multi-year extension",
+      "url": "https://www.nytimes.com/athletic/5979263/2026/05/21/joe-schoen-new-york-giants-gm-extension/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Joe Schoen has gone 22-45-1 so far as general manager of the New York Giants.",
+      "publishedAt": "2026-05-21T23:03:00.000Z",
+      "articleId": "f9472b05fa71e49b"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/oxn2she6bds6irdy2td6.html",
       "title": "Money Stuff: SpaceX Investors Can’t Complain",
@@ -928,17 +939,6 @@
       "summary": "The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.",
       "publishedAt": "2026-05-12T10:00:00.000Z",
       "articleId": "92d0971e98fa464b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/democrats-have-for-now-lost-the-redistricting",
-      "title": "Democrats have, for now, lost the redistricting war",
-      "url": "https://www.slowboring.com/p/democrats-have-for-now-lost-the-redistricting",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Can enthusiasm still let them win the House?",
-      "publishedAt": "2026-05-11T22:02:16.000Z",
-      "articleId": "65ed76d5c33cd92c"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
@@ -1903,7 +1903,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
