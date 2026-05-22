@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-22T11:52:57.712Z",
-  "fetchedAt": "2026-05-22T11:52:57.707Z",
+  "generatedAt": "2026-05-22T15:18:01.040Z",
+  "fetchedAt": "2026-05-22T15:18:01.035Z",
   "sourceCount": 21,
-  "itemCount": 164,
-  "totalItemCount": 753,
+  "itemCount": 165,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-new-tranche-of-uap-videos.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-tranche-of-uap-videos",
+      "title": "The new tranche of UAP videos",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-new-tranche-of-uap-videos.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "You can find them here: https://x.com/theblackvault/status/2057800997012197428?s=61 The post The new tranche of UAP videos appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-22T13:38:53.000Z",
+      "articleId": "5b5c4fc9fcaa61c3"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7300357/2026/05/22/roy-robertson-harris-achilles-injury-giants-nfl/",
+      "title": "Giants' DL Roy Robertson-Harris suffers Achilles tendon tear in OTAs: Sources",
+      "url": "https://www.nytimes.com/athletic/7300357/2026/05/22/roy-robertson-harris-achilles-injury-giants-nfl/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Robertson-Harris is the second Giant to tear his Achilles tendon in the past week, following undrafted rookie cornerback Thaddeus Dixon.",
+      "publishedAt": "2026-05-22T13:11:51.000Z",
+      "articleId": "ab25804120f3ff84"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/ideas-are-still-big-but-books-got",
       "title": "Ideas are still big but books got small",
@@ -477,17 +499,6 @@
       "summary": "All warfare is drone warfare now.",
       "publishedAt": "2026-05-19T08:19:41.000Z",
       "articleId": "b185e2504751a629"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/wokeness-has-peaked-what-followed-is-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=wokeness-has-peaked-what-followed-is-worse",
-      "title": "“Wokeness has peaked. What followed is worse.”",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wokeness-has-peaked-what-followed-is-worse.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest column for The Free Press. Excerpt: It is important to distinguish between the positive side of wokeism and the unreasonable side. The positive side supported gay rights and discouraged racism in the public sphere. The unreasonable side brought us cancel culture, stifled discussion, insisted on very particular views [&#8230;] The post &#8220;Wokeness has peaked. What followed is worse.&#8221; appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-19T05:12:07.000Z",
-      "articleId": "f853e749705e96ca"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/csdbsavmp088qd5alrre.html",
@@ -1822,10 +1833,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
