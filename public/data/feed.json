@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-22T08:30:33.593Z",
-  "fetchedAt": "2026-05-22T08:30:33.588Z",
+  "generatedAt": "2026-05-22T11:52:57.712Z",
+  "fetchedAt": "2026-05-22T11:52:57.707Z",
   "sourceCount": 21,
   "itemCount": 164,
-  "totalItemCount": 762,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/ideas-are-still-big-but-books-got",
+      "title": "Ideas are still big but books got small",
+      "url": "https://www.slowboring.com/p/ideas-are-still-big-but-books-got",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus Cameron Boozer, the Colin Powell campaign that didn&#8217;t happen, and why I&#8217;m out on Vienna",
+      "publishedAt": "2026-05-22T10:03:05.000Z",
+      "articleId": "bb63837692d20db0"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7299369/2026/05/22/new-york-giants-ota-malik-nabers-knee-surgeries/",
+      "title": "John Harbaugh's different tune on Malik Nabers' recovery: Giants OTAs notebook",
+      "url": "https://www.nytimes.com/athletic/7299369/2026/05/22/new-york-giants-ota-malik-nabers-knee-surgeries/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Plus, what's on Jaxson Dart's plate, the O-line takes shape, and more from Harbaugh's OTAs.",
+      "publishedAt": "2026-05-22T09:30:45.000Z",
+      "articleId": "f100e6826aaa8494"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/new-paradigms-wont-save-you",
+      "title": "New Paradigms Won't Save You",
+      "url": "https://www.astralcodexten.com/p/new-paradigms-wont-save-you",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-05-22T08:49:25.000Z",
+      "articleId": "3013717d989f4171"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-archaeology-tranche-at-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-at-emergent-ventures",
       "title": "The archaeology tranche at Emergent Ventures",
@@ -919,17 +952,6 @@
       "articleId": "ec2f57bc88c175ff"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/shmoderation-is-the-future",
-      "title": "Shmoderation is the future",
-      "url": "https://www.slowboring.com/p/shmoderation-is-the-future",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Who cares what you call an eclectic politician who appeals to the hodgepodge of views of heterodox voters?",
-      "publishedAt": "2026-05-12T10:03:34.000Z",
-      "articleId": "76e2207c2058c19b"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
       "title": "SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future",
       "url": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
@@ -1786,28 +1808,6 @@
       "summary": "Why the Prado is special",
       "publishedAt": "2026-04-22T18:15:03.000Z",
       "articleId": "a72ded076f4d2182"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/how-to-speed-up-clinical-trials",
-      "title": "How to speed up clinical trials",
-      "url": "https://www.worksinprogress.news/p/how-to-speed-up-clinical-trials",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Why is drug testing so slow and inefficient, and how can we fix it?",
-      "publishedAt": "2026-04-22T11:18:31.000Z",
-      "articleId": "598759ba5fde7cd3"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7216386/2026/04/22/new-york-giants-nfl-draft-sonny-styles/",
-      "title": "The New York Giants, with their first-round picks in the 2026 NFL Draft, select ...",
-      "url": "https://www.nytimes.com/athletic/7216386/2026/04/22/new-york-giants-nfl-draft-sonny-styles/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "New York could go in a number of directions with its two first-round picks. Which ways make most sense?",
-      "publishedAt": "2026-04-22T10:00:54.000Z",
-      "articleId": "402be391a7a06c4b"
     }
   ],
   "sources": [
@@ -1822,16 +1822,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
