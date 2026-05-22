@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-22T15:18:01.040Z",
-  "fetchedAt": "2026-05-22T15:18:01.035Z",
+  "generatedAt": "2026-05-22T18:02:14.406Z",
+  "fetchedAt": "2026-05-22T18:02:14.401Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 166,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-data-center-veto/",
+      "title": "2026.21: The Data Center Veto",
+      "url": "https://stratechery.com/2026/the-data-center-veto/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of May 18, 2026, including data center discontent, agent economics, and slime mold.",
+      "publishedAt": "2026-05-22T17:12:32.000Z",
+      "articleId": "36a2cfb8ecc5a89d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-573",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-573.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. One reason why child care is so expensive in the U.S. 2. &#8220;For the first time in decades, new and recent graduates with at least a bachelor’s degree have consistently higher unemployment rates than the overall American workforce, according to data on 22-to-27-year-olds compiled by the Federal Reserve Bank of New York.&#8221; Link here. 3. [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-22T15:30:19.000Z",
+      "articleId": "596c0cf6653c1280"
+    },
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/impeach-todd-blanche",
+      "title": "Impeach Todd Blanche",
+      "url": "https://www.joshbarro.com/p/impeach-todd-blanche",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "With the thin Republican majorities, Democrats could plausibly force a trial of the acting Attorney General over the \"Anti-Weaponization Fund\"",
+      "publishedAt": "2026-05-22T15:19:46.000Z",
+      "articleId": "a70d8ed0b0c441b0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-new-tranche-of-uap-videos.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-tranche-of-uap-videos",
       "title": "The new tranche of UAP videos",
@@ -455,17 +488,6 @@
       "summary": "Featuring The Supremes, The Shangri-Las, The Marvelettes, and others",
       "publishedAt": "2026-05-19T13:30:59.000Z",
       "articleId": "7ac2907866b9ef9a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/repugnant-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=repugnant-economics",
-      "title": "Repugnant Economics",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/repugnant-economics.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I spoke on a panel at AEI with Nobelist Al Roth about his new book, Moral Economics, which covers &#8220;repugnant markets,&#8221; from prostitution to surrogacy to kidney exchange. A fun book! My case study was acting. Acting was considered repugnant for over 2,000 years. In Rome, actors could not vote, hold office, or be trusted [&#8230;] The post Repugnant Economics appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-19T11:18:25.000Z",
-      "articleId": "3b4db418634482ef"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-types-of-candidate-you-find-in",
@@ -1181,17 +1203,6 @@
       "summary": "Mostly not very long",
       "publishedAt": "2026-05-07T15:23:28.000Z",
       "articleId": "61d20435d50caf55"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
-      "title": "An Interview with Joanna Stern About Living With AI",
-      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Joanna Stern about her new book about living with AI, and starting her own media company.",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "articleId": "8ee15a25b1d901ce"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-everyone-on-taste",
