@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-22T20:04:06.763Z",
-  "fetchedAt": "2026-05-22T20:04:06.759Z",
+  "generatedAt": "2026-05-22T21:22:21.415Z",
+  "fetchedAt": "2026-05-22T21:22:21.411Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/in-the-realm-of-the-last-man.html?utm_source=rss&utm_medium=rss&utm_campaign=in-the-realm-of-the-last-man",
+      "title": "*In the Realm of the Last Man*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/in-the-realm-of-the-last-man.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "As Mark Lilla, a recovering Straussian, once remarked, they [the Straussians] were like craftsmen building a house brick by brick on a foundation that Leo Strauss had laid. But they would never become architects of that house, or decide that the house was too small for them to comfortably live in. Moreoever, Strauss disparaged social [&#8230;] The post *In the Realm of the Last Man* appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-22T20:09:43.000Z",
+      "articleId": "994a2c04b21e0319"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-data-center-veto/",
       "title": "2026.21: The Data Center Veto",
@@ -466,17 +477,6 @@
       "summary": "Money Stuff SPVs, HPS, OpenAI, UpsideOnly. Private predictions In the 1930s, the problem with US stock markets was that investors didn’t get enough information. The solution was new rules that created the US Securities and Exchange Commission and required companies to disclose various information — audited financial statements, updates on material events, etc. — if they wanted to sell stock to the general public. Companies that didn’t want to raise money from the general public didn’t really have to disclose anything, but the general public had most of the money, so most companies that wanted to get big had to go public and disclose the required information. In the 2020s, the problem with US stock markets is apparently that not enough companies want to do that disclosure. “Private markets are the new public markets,” I often say: It is relatively easy for hot tech startups to raise lots of money from institutional investors, without ever selling to the general public, and so many of them do. They don’t go public, they don’t file disclosures, and they just raise money in private markets. This arguably creates two problems: Hot tech startups create a lot of value, and if they don’t sell shares to the general public, then the general public doesn’t get any of that value. SpaceX and OpenAI and Anthropic all have gigantic valuations; all of their growth so far has been captured by employees and founders and venture capitalists and other big investors, not by the general public. [1] There are good social externalities in having companies be public and disclose their information. Society — journalists and politicians and activists and ordinary people — can learn important stuff by reading public-company disclosures; those disclosures are not of interest only to shareholders. A lot of people worry about the first problem (not so much the second) and try to think of solutions. One set of solutions involves making it harder for companies to stay private (so they have to go public earlier and sell stock to the general public); another set of solutions involves making it easier for companies to go public. “Making it easier for companies to go public” often means reducing the standard disclosure requirements: It’s easier for a company to be public if it doesn’t have to disclose as much about its finances. We talked yesterday about an SEC proposal to make quarterly financial reporting optional: If companies could report results only every six months, that would be easier, and more of them might go public. Today the SEC proposed some more changes to reporting rules to make being public easier and “Make IPOs Great Again” But there is another, more radical, solution, which is to get rid of the whole disclosure regime and let the general public buy shares of private...",
       "publishedAt": "2026-05-19T18:06:59.811Z",
       "articleId": "d2a3db906db6aeb6"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-569",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-569.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. AI-written story published in Granta, wins major literary prize. 2. JFV on smart phones as accelerators of fertility declines. 3. Maryland markets in everything. 4. Polling Chinese on a top one hundred books. 5. From the excellent Samir Varma, could alien drone probes decelerate in time? And here is analysis from GPT. 6. &#8220;I [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-19T15:52:04.000Z",
-      "articleId": "525ebf50e905e837"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/1960s-girl-groups-an-album-a-day",
@@ -1808,17 +1808,6 @@
       "summary": "Americans hold Israel to a higher standard than their other allies. That’s a good thing.",
       "publishedAt": "2026-04-22T21:46:43.000Z",
       "articleId": "e72d8bc38dc25b22"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/is-chinas-soft-power-really-rising",
-      "title": "Is China's soft power really rising, or is America's just crumbling?",
-      "url": "https://www.noahpinion.blog/p/is-chinas-soft-power-really-rising",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Chinamaxxing vs. Americaminning.",
-      "publishedAt": "2026-04-22T21:01:40.000Z",
-      "articleId": "afb47fd9b44b7c84"
     }
   ],
   "sources": [
