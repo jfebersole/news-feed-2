@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-05-21T23:16:28.392Z",
-  "fetchedAt": "2026-05-21T23:16:28.381Z",
+  "generatedAt": "2026-05-22T04:33:24.704Z",
+  "fetchedAt": "2026-05-22T04:33:24.699Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 762,
   "items": [
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/farewell-rowdy",
+      "title": "Farewell, Rowdy",
+      "url": "https://neilpaine.substack.com/p/farewell-rowdy",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "NASCAR lost its greatest winner — and most combustible star — on Thursday.",
+      "publishedAt": "2026-05-22T00:41:51.000Z",
+      "articleId": "a4a3cef49182905b"
+    },
+    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/5979263/2026/05/21/joe-schoen-new-york-giants-gm-extension/",
-      "title": "New York Giants, GM Joe Schoen agree to multi-year extension",
+      "title": "New York Giants, GM Joe Schoen agree to multiyear extension",
       "url": "https://www.nytimes.com/athletic/5979263/2026/05/21/joe-schoen-new-york-giants-gm-extension/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
       "access": "paywalled",
-      "summary": "Joe Schoen has gone 22-45-1 so far as general manager of the New York Giants.",
+      "summary": "Schoen has gone 22-45-1 so far as general manager of the New York Giants.",
       "publishedAt": "2026-05-21T23:03:00.000Z",
       "articleId": "f9472b05fa71e49b"
     },
@@ -389,17 +400,6 @@
       "summary": "...",
       "publishedAt": "2026-05-19T10:19:35.000Z",
       "articleId": "0f7689e63985f8ee"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-national-league-suddenly-owns",
-      "title": "The National League Suddenly Owns Interleague Play",
-      "url": "https://neilpaine.substack.com/p/the-national-league-suddenly-owns",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "After decades as the AL's punching bag, the Senior Circuit is finally turning the tables.",
-      "publishedAt": "2026-05-19T10:03:23.000Z",
-      "articleId": "86b62519d902e0db"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-diverse-odyssey-is-the-triumph",
