@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-22T23:17:17.603Z",
-  "fetchedAt": "2026-05-22T23:17:17.597Z",
+  "generatedAt": "2026-05-23T04:05:23.801Z",
+  "fetchedAt": "2026-05-23T04:05:23.796Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 763,
+  "itemCount": 161,
+  "totalItemCount": 753,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/in-the-realm-of-the-last-man.html?utm_source=rss&utm_medium=rss&utm_campaign=in-the-realm-of-the-last-man",
@@ -1775,17 +1775,6 @@
       "summary": "Plus, a pair of veterans the Giants could target post-draft.",
       "publishedAt": "2026-04-23T09:30:26.000Z",
       "articleId": "63f61c273e09fa6f"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/on-redistricting-its-time-for-republicans",
-      "title": "On Redistricting, It's Time for Republicans to Stop Whining and Start Negotiating",
-      "url": "https://www.joshbarro.com/p/on-redistricting-its-time-for-republicans",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Gerrymandered maps are rationally approved by majorities at the state level. Only a new set of federal rules can rein in gerrymandering.",
-      "publishedAt": "2026-04-23T00:12:17.000Z",
-      "articleId": "0baf980e05a810d9"
     }
   ],
   "sources": [
@@ -1800,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
