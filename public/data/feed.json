@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-23T09:09:34.890Z",
-  "fetchedAt": "2026-05-23T09:09:34.885Z",
+  "generatedAt": "2026-05-23T11:33:16.444Z",
+  "fetchedAt": "2026-05-23T11:33:16.439Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 753,
+  "itemCount": 161,
+  "totalItemCount": 760,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
+      "title": "The Week That Was (May 18-22, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-05-23T10:00:39.000Z",
+      "articleId": "4cdbe152a5616fb8"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-heading-for-a-debtpocalypse",
       "title": "America is heading for a debtpocalypse",
@@ -433,17 +444,6 @@
       "summary": "The House of Representatives to the rescue?",
       "publishedAt": "2026-05-20T10:03:20.000Z",
       "articleId": "1aefe3ecb8becaa3"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/this-years-nhl-final-four-is-a-tale",
-      "title": "This Year's NHL Final Four Is a Tale of Two Mismatches",
-      "url": "https://neilpaine.substack.com/p/this-years-nhl-final-four-is-a-tale",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "But it's hockey, so anything can still happen.",
-      "publishedAt": "2026-05-20T10:03:18.000Z",
-      "articleId": "eb643fe5e85cfc51"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/",
@@ -1775,17 +1775,6 @@
       "summary": "Not long ago we looked at construction productivity trends for the US and for countries around the world. We found that in the U.S., and in most other large, wealthy countries, construction productivity is stagnant or declining. Unlike manufacturing and agriculture, or the economy overall, which generally show improving productivity over time, in the field of construction we find that productivity tends to at best stay constant, and at worst decline over time.",
       "publishedAt": "2026-04-23T12:02:35.000Z",
       "articleId": "4351577931d42eb3"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7220791/2026/04/23/new-york-giants-nfl-draft-notebook/",
-      "title": "Giants have an opportunity to invest in the O-line — will they take it?",
-      "url": "https://www.nytimes.com/athletic/7220791/2026/04/23/new-york-giants-nfl-draft-notebook/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, a pair of veterans the Giants could target post-draft.",
-      "publishedAt": "2026-04-23T09:30:26.000Z",
-      "articleId": "63f61c273e09fa6f"
     }
   ],
   "sources": [
@@ -1800,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1912,10 +1901,10 @@
     {
       "name": "David French (NYT)",
       "url": "https://www.nytimes.com/by/david-french",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 7,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-french/rss.xml",
-      "error": null
+      "error": "Status code 503 Using previous snapshot data."
     },
     {
       "name": "Stratechery",
