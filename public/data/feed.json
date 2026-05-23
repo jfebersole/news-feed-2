@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-23T13:59:34.024Z",
-  "fetchedAt": "2026-05-23T13:59:34.019Z",
+  "generatedAt": "2026-05-23T15:16:11.026Z",
+  "fetchedAt": "2026-05-23T15:16:11.022Z",
   "sourceCount": 21,
   "itemCount": 162,
-  "totalItemCount": 763,
+  "totalItemCount": 753,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
@@ -1800,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
