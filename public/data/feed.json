@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-23T04:05:23.801Z",
-  "fetchedAt": "2026-05-23T04:05:23.796Z",
+  "generatedAt": "2026-05-23T06:44:25.632Z",
+  "fetchedAt": "2026-05-23T06:44:25.627Z",
   "sourceCount": 21,
   "itemCount": 161,
-  "totalItemCount": 753,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/india-fertility-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=india-fertility-facts-of-the-day",
+      "title": "India fertility facts of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/india-fertility-facts-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Ten notable facts from India’s new SRS Statistical Report 2024 published two days ago: 1) India’s total fertility rate (TFR) has dropped to 1.88 (rounded up to 1.9 in the figures) in 2024 from 1.92 in 2023. 2) This drop is roughly the historical speed of the last few decades. India’s TFR was 4.3 in [&#8230;] The post India fertility facts of the day appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-23T04:39:33.000Z",
+      "articleId": "5fdd07c44860d42d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/in-the-realm-of-the-last-man.html?utm_source=rss&utm_medium=rss&utm_campaign=in-the-realm-of-the-last-man",
       "title": "*In the Realm of the Last Man*",
@@ -455,17 +466,6 @@
       "summary": "Tajikistan&#8217;s remittances are worth nearly half the country’s GDP— In Tajikistan, remittances — the money sent or brought back by migrants — amounted to 48% of GDP in 2024. The chart places this figure in context by comparing it with other countries with data for the same year. Nicaragua and Honduras receive remittances worth around a [&#8230;] The post Tajikistan fact of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-20T04:42:27.000Z",
       "articleId": "8b7f7e2d63cc1433"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html?utm_source=rss&utm_medium=rss&utm_campaign=old-space-policy-vs-new-space-policy",
-      "title": "Old space policy vs. new space policy",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The emergence of firms like SpaceX and Blue Origin has made space a leading example of how private enterprise drives innovation, marking what many see as a sharp break between Old Space and New Space. Yet little systematic evidence documents when the transition to this new phase of space innovation occurred and which firms drove [&#8230;] The post Old space policy vs. new space policy appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-19T18:17:48.000Z",
-      "articleId": "d4bfd0ff413a6af3"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ixa7bx61525j4qhc781a.html",
@@ -1789,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
