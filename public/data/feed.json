@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-23T15:16:11.026Z",
-  "fetchedAt": "2026-05-23T15:16:11.022Z",
+  "generatedAt": "2026-05-23T17:14:58.404Z",
+  "fetchedAt": "2026-05-23T17:14:58.398Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 753,
+  "itemCount": 161,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-562",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Fortune covers my AI talk for Sana in NYC. Plus my NBA predictions, made Thursday a.m. 2. SGA does seem to flop more. 3. Marc Andreessen on AI. 4. Thomas Sargent lectures on YouTube. 5. Why Japanese companies do so many different things. 6. Fresh Knausgård. 7. &#8220;“The Boys of Dungeon Lane” is absolutely [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-23T16:09:16.000Z",
+      "articleId": "3db83658c52185ac"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
       "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
@@ -444,17 +455,6 @@
       "summary": "It seems, then, that we need another signal that can add precision to our introspection. And that signal is as follows: we are more likely to be lying to ourselves when we are engaging in internal monologue. An internal monologue is the experience of having concrete, “narration-style” thoughts as opposed to passive experiences. This argument maybe [&#8230;] The post Conscious introspection leads to more self-deception? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-20T17:40:38.000Z",
       "articleId": "8b5eef442fd5fc79"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-554.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-554",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-554.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. AI robot is now a Buddhist monk. 2. Roon. 3. Do economics and finance assessment for AI models at Mercor. 4. Are we underestimating health care sector productivity? 5. Can AI replace human counselors at scale? 6. Nan on nascent philanthropy. Recommended, very important. It focuses on what an additional $50 billion in philanthropic [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-20T16:06:55.000Z",
-      "articleId": "10e97c4bc822f291"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
@@ -917,17 +917,6 @@
       "summary": "...",
       "publishedAt": "2026-05-13T12:16:41.000Z",
       "articleId": "3b76f8e1a22fdeb5"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/why-kids-dont-go-anywhere-anymore",
-      "title": "Why kids don’t go anywhere anymore",
-      "url": "https://www.slowboring.com/p/why-kids-dont-go-anywhere-anymore",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The technological and economic shifts behind helicopter parenting",
-      "publishedAt": "2026-05-13T10:03:06.000Z",
-      "articleId": "fbab7d5343b45709"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
@@ -1800,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1881,7 +1870,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 12,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
