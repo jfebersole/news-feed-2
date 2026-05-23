@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-23T11:33:16.444Z",
-  "fetchedAt": "2026-05-23T11:33:16.439Z",
+  "generatedAt": "2026-05-23T13:59:34.024Z",
+  "fetchedAt": "2026-05-23T13:59:34.019Z",
   "sourceCount": 21,
-  "itemCount": 161,
-  "totalItemCount": 760,
+  "itemCount": 162,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
+      "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
+      "url": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Leave a physical legacy to future generations, not just a record of programs and disbursements.",
+      "publishedAt": "2026-05-23T12:24:23.000Z",
+      "articleId": "250f5f8e4011119b"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-052326",
+      "title": "Reading List 05/23/26",
+      "url": "https://www.construction-physics.com/p/reading-list-052326",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Squatter removal services, Apple finding uses for defective chips, process heat use in California, the brewing Colorado River crisis, and more.",
+      "publishedAt": "2026-05-23T12:02:39.000Z",
+      "articleId": "3806760fc5f6e928"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html?utm_source=rss&utm_medium=rss&utm_campaign=ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy",
+      "title": "Ross Douthat on what AI money should learn from the golden age of philanthropy",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This was a great failure of the most recent philanthropic era. At its best, the infrastructure established by figures like Gates delivered effective efforts to reduce poverty and fight disease; at its worst, it threw money after fashionable political causes and education fads. But there was no real legacy when it came to physical infrastructure [&#8230;] The post Ross Douthat on what AI money should learn from the golden age of philanthropy appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-23T11:35:00.000Z",
+      "articleId": "37b96e72391d6020"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
       "title": "The Week That Was (May 18-22, 2026)",
@@ -466,17 +499,6 @@
       "summary": "Episode 17 is about carving a new sculpture tradition.",
       "publishedAt": "2026-05-20T08:17:45.000Z",
       "articleId": "1bd6c6f5504c9f2f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/john-burn-murdoch-on-phones-and-fertility.html?utm_source=rss&utm_medium=rss&utm_campaign=john-burn-murdoch-on-phones-and-fertility",
-      "title": "John Burn-Murdoch on phones and fertility",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/john-burn-murdoch-on-phones-and-fertility.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From my email: Hi folks, appreciate the discussion of the piece here, as ever. I just wanted to chime in briefly with an analogy that speaks to one of the ways I think about the causal mechanism here, and to my mind pushes back against the argument that since past declines in fertility didn’t come [&#8230;] The post John Burn-Murdoch on phones and fertility appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-20T05:46:37.000Z",
-      "articleId": "5f9093e06a70c1be"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ixa7bx61525j4qhc781a.html",
@@ -1764,17 +1786,6 @@
       "summary": "Because country doesn't just belong to America",
       "publishedAt": "2026-04-23T17:30:48.000Z",
       "articleId": "edf515754f6fda0b"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/construction-costs-rarely-fall",
-      "title": "Construction Costs Rarely Fall",
-      "url": "https://www.construction-physics.com/p/construction-costs-rarely-fall",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Not long ago we looked at construction productivity trends for the US and for countries around the world. We found that in the U.S., and in most other large, wealthy countries, construction productivity is stagnant or declining. Unlike manufacturing and agriculture, or the economy overall, which generally show improving productivity over time, in the field of construction we find that productivity tends to at best stay constant, and at worst decline over time.",
-      "publishedAt": "2026-04-23T12:02:35.000Z",
-      "articleId": "4351577931d42eb3"
     }
   ],
   "sources": [
@@ -1901,10 +1912,10 @@
     {
       "name": "David French (NYT)",
       "url": "https://www.nytimes.com/by/david-french",
-      "mode": "fallback-cache",
-      "itemCount": 7,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-french/rss.xml",
-      "error": "Status code 503 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Stratechery",
