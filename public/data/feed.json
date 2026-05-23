@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-23T06:44:25.632Z",
-  "fetchedAt": "2026-05-23T06:44:25.627Z",
+  "generatedAt": "2026-05-23T09:09:34.890Z",
+  "fetchedAt": "2026-05-23T09:09:34.885Z",
   "sourceCount": 21,
-  "itemCount": 161,
-  "totalItemCount": 763,
+  "itemCount": 162,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-heading-for-a-debtpocalypse",
+      "title": "America is heading for a debtpocalypse",
+      "url": "https://www.noahpinion.blog/p/america-is-heading-for-a-debtpocalypse",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "But if we act now, we can avert disaster.",
+      "publishedAt": "2026-05-23T08:23:19.000Z",
+      "articleId": "156ff2a2fb8d2f04"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-chase-koch.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-chase-koch",
+      "title": "What should I ask Chase Koch?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-chase-koch.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a Conversation with him. Chase and Charles Koch have a new book out, namely Becoming a Principle-Driven Leader: 41 Principles to Build an Enduring Business. And for background here is Wikipedia on Chase Koch. So what should I ask him? The post What should I ask Chase Koch? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-23T06:44:39.000Z",
+      "articleId": "a517502f823038b9"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/india-fertility-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=india-fertility-facts-of-the-day",
       "title": "India fertility facts of the day",
@@ -455,17 +477,6 @@
       "summary": "From my email: Hi folks, appreciate the discussion of the piece here, as ever. I just wanted to chime in briefly with an analogy that speaks to one of the ways I think about the causal mechanism here, and to my mind pushes back against the argument that since past declines in fertility didn’t come [&#8230;] The post John Burn-Murdoch on phones and fertility appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-20T05:46:37.000Z",
       "articleId": "5f9093e06a70c1be"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tajikistan-fact-of-the-day",
-      "title": "Tajikistan fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Tajikistan&#8217;s remittances are worth nearly half the country’s GDP— In Tajikistan, remittances — the money sent or brought back by migrants — amounted to 48% of GDP in 2024. The chart places this figure in context by comparing it with other countries with data for the same year. Nicaragua and Honduras receive remittances worth around a [&#8230;] The post Tajikistan fact of the day appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-20T04:42:27.000Z",
-      "articleId": "8b7f7e2d63cc1433"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ixa7bx61525j4qhc781a.html",
@@ -1789,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
