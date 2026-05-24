@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-24T12:09:18.089Z",
-  "fetchedAt": "2026-05-24T12:09:18.083Z",
+  "generatedAt": "2026-05-24T14:42:09.078Z",
+  "fetchedAt": "2026-05-24T14:42:09.073Z",
   "sourceCount": 21,
   "itemCount": 156,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/you-cant-kill-it-if-you-tried-a-conversation",
+      "title": "You Can't Kill It If You Tried: A Conversation with Keith Jopling",
+      "url": "https://www.cantgetmuchhigher.com/p/you-cant-kill-it-if-you-tried-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Author Keith Jopling stops by to talk about how the album has survived in the digital age",
+      "publishedAt": "2026-05-24T13:31:14.000Z",
+      "articleId": "84db4a4df3395f13"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/liberal-economists-score-an-own-goal-against-bezos.html?utm_source=rss&utm_medium=rss&utm_campaign=liberal-economists-score-an-own-goal-against-bezos",
       "title": "Liberal Economists Score an Own Goal Against Bezos",
@@ -1709,17 +1720,6 @@
       "summary": "What fighting an unjust war really means.",
       "publishedAt": "2026-04-24T15:08:55.000Z",
       "articleId": "41a75e0a1bc24e9c"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-23-were-freezing-our-eggs-maybe",
-      "title": "Issue 23: We're freezing our eggs. Maybe you should too",
-      "url": "https://www.worksinprogress.news/p/issue-23-were-freezing-our-eggs-maybe",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Works in Progress Issue 23 is out today.",
-      "publishedAt": "2026-04-24T14:38:58.000Z",
-      "articleId": "16475db33ecc7396"
     }
   ],
   "sources": [
