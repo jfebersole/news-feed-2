@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-25T21:21:26.883Z",
-  "fetchedAt": "2026-05-25T21:21:26.878Z",
+  "generatedAt": "2026-05-25T23:20:02.729Z",
+  "fetchedAt": "2026-05-25T23:20:02.725Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 752,
+  "itemCount": 148,
+  "totalItemCount": 761,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/new-aesthetics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=new-aesthetics-awards",
@@ -864,17 +864,6 @@
       "articleId": "8da41ce019065592"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-the-spirit-debate-is-really",
-      "title": "What the Spirit debate is really about",
-      "url": "https://www.slowboring.com/p/what-the-spirit-debate-is-really",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Promoting competition or promoting a return to price regulation?",
-      "publishedAt": "2026-05-14T10:47:34.000Z",
-      "articleId": "57dc4c29463d0f5f"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-ben-thompson-at-the-moffettnathanson-media-internet-communications-conference/",
       "title": "An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference",
       "url": "https://stratechery.com/2026/an-interview-with-ben-thompson-at-the-moffettnathanson-media-internet-communications-conference/",
@@ -1657,10 +1646,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1738,7 +1727,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
