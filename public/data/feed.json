@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-24T22:07:29.506Z",
-  "fetchedAt": "2026-05-24T22:07:29.502Z",
+  "generatedAt": "2026-05-25T00:11:39.501Z",
+  "fetchedAt": "2026-05-25T00:11:39.496Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 762,
+  "itemCount": 152,
+  "totalItemCount": 752,
   "items": [
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7304277/2026/05/24/jaxson-dart-trump-giants-john-harbaugh/",
@@ -1676,28 +1676,6 @@
       "summary": "Notre Dame's Malachi Fields one-handed grab against Pitt is evidence of his contested catching ability.",
       "publishedAt": "2026-04-25T01:52:25.000Z",
       "articleId": "1b2323cb75edccc3"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7216301/2026/04/24/colton-hood-giants-tennessee-nfl-draft-pick-37-2026/",
-      "title": "New York Giants select cornerback Colton Hood with 37th pick in 2026 NFL Draft",
-      "url": "https://www.nytimes.com/athletic/7216301/2026/04/24/colton-hood-giants-tennessee-nfl-draft-pick-37-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Hood was the No. 5 CB and No. 30 player in the draft, according to The Athletic's Dane Brugler.",
-      "publishedAt": "2026-04-24T23:29:24.000Z",
-      "articleId": "297a93a1688769e0"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-shoplifting-is-bad",
-      "title": "Why shoplifting is bad",
-      "url": "https://www.noahpinion.blog/p/why-shoplifting-is-bad",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "It may feel like a small act of rebellion, but it hurts a lot of people who don't deserve it.",
-      "publishedAt": "2026-04-24T22:30:08.000Z",
-      "articleId": "01d5d0d37e0faaa9"
     }
   ],
   "sources": [
@@ -1712,10 +1690,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
