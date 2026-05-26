@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-05-26T08:41:26.411Z",
-  "fetchedAt": "2026-05-26T08:41:26.407Z",
+  "generatedAt": "2026-05-26T16:50:48.799Z",
+  "fetchedAt": "2026-05-26T16:50:48.795Z",
   "sourceCount": 21,
-  "itemCount": 148,
-  "totalItemCount": 761,
+  "itemCount": 150,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-570",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-570.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. How did the United States bend the health care cost curve? 2. Why are you reading fewer books? 3. Dean Ball on the Papal encyclical. My interpretation is a little different, and I suppose more Straussian. The Pope is basically telling us that AI is here to stay. If the detailed analysis seems thin [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-26T15:48:02.000Z",
+      "articleId": "bc12c7cf5a181f2a"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/americas-national-style-is-hiding",
+      "title": "What Samuel Hughes thinks about Washington, DC",
+      "url": "https://www.worksinprogress.news/p/americas-national-style-is-hiding",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "In this diary, Samuel Hughes visits Washington, DC, the world&#8217;s imperial capital, and reflects on a national style hiding in plain sight.",
+      "publishedAt": "2026-05-26T13:51:46.000Z",
+      "articleId": "b422c332c90e1047"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/artists-you-hate-an-album-a-day",
+      "title": "Artists You Hate: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/artists-you-hate-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Bob Dylan, R.E.M., U2, and others",
+      "publishedAt": "2026-05-26T13:31:02.000Z",
+      "articleId": "2eadf98407d33869"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html?utm_source=rss&utm_medium=rss&utm_campaign=a-beautiful-theory-falls-to-ugly-data",
+      "title": "A Beautiful Theory Falls to Ugly Data",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My latest paper, A Test of the Coase Conjecture Using Prices of Electronic Books, with the excellent Tim Groseclose, has just been published. The Coase Conjecture is another one of Coase&#8217;s little ideas — the original paper is six pages — that has spawned hundreds of follow-up papers and thousands of citations. The idea is [&#8230;] The post A Beautiful Theory Falls to Ugly Data appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-26T11:16:47.000Z",
+      "articleId": "2ff0b70ffeef0d26"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-avalanche-are-about-to-become",
+      "title": "The Avalanche Are About to Become the NHL’s Most Stunning Sweep Victim Since, Well, the Last One",
+      "url": "https://neilpaine.substack.com/p/the-avalanche-are-about-to-become",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Colorado looked like Stanley Cup favorites six days ago. Now they're one loss from joining hockey's weirdest tradition: great teams getting swept without warning.",
+      "publishedAt": "2026-05-26T10:02:41.000Z",
+      "articleId": "e159532f89f4f6d2"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/im-sick-of-affordability",
+      "title": "I’m sick of “affordability”",
+      "url": "https://www.slowboring.com/p/im-sick-of-affordability",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "How about economic growth and rising incomes?",
+      "publishedAt": "2026-05-26T10:02:04.000Z",
+      "articleId": "e23ac3e46f9a5ae6"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
+      "title": "Nvidia Earnings, The AI Stack, Nvidia’s New Reporting",
+      "url": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Nvidia is changing its reporting to delineate between hyperscaler sales — where Nvidia is fighting commoditization — and everyone else, where Nvidia runs the whole stack.",
+      "publishedAt": "2026-05-26T10:00:00.000Z",
+      "articleId": "9582ccaf165bd100"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html?utm_source=rss&utm_medium=rss&utm_campaign=the-corporate-tax-rate-really-matters",
       "title": "The corporate tax rate really matters",
@@ -237,17 +314,6 @@
       "articleId": "3806760fc5f6e928"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html?utm_source=rss&utm_medium=rss&utm_campaign=ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy",
-      "title": "Ross Douthat on what AI money should learn from the golden age of philanthropy",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This was a great failure of the most recent philanthropic era. At its best, the infrastructure established by figures like Gates delivered effective efforts to reduce poverty and fight disease; at its worst, it threw money after fashionable political causes and education fads. But there was no real legacy when it came to physical infrastructure [&#8230;] The post Ross Douthat on what AI money should learn from the golden age of philanthropy appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-23T11:35:00.000Z",
-      "articleId": "37b96e72391d6020"
-    },
-    {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
       "title": "The Week That Was (May 18-22, 2026)",
       "url": "https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
@@ -268,17 +334,6 @@
       "summary": "But if we act now, we can avert disaster.",
       "publishedAt": "2026-05-23T08:23:19.000Z",
       "articleId": "156ff2a2fb8d2f04"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-chase-koch.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-chase-koch",
-      "title": "What should I ask Chase Koch?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-chase-koch.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with him. Chase and Charles Koch have a new book out, namely Becoming a Principle-Driven Leader: 41 Principles to Build an Enduring Business. And for background here is Wikipedia on Chase Koch. So what should I ask him? The post What should I ask Chase Koch? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-23T06:44:39.000Z",
-      "articleId": "a517502f823038b9"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-data-center-veto/",
@@ -345,17 +400,6 @@
       "summary": "...",
       "publishedAt": "2026-05-22T08:49:25.000Z",
       "articleId": "3013717d989f4171"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/farewell-rowdy",
-      "title": "Farewell, Rowdy",
-      "url": "https://neilpaine.substack.com/p/farewell-rowdy",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "NASCAR lost its greatest winner — and most combustible star — on Thursday.",
-      "publishedAt": "2026-05-22T00:41:51.000Z",
-      "articleId": "a4a3cef49182905b"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/5979263/2026/05/21/joe-schoen-new-york-giants-gm-extension/",
@@ -1128,17 +1172,6 @@
       "articleId": "6762af6252a6b336"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/earning-spending/",
-      "title": "2026.19: Earning & Spending",
-      "url": "https://stratechery.com/2026/earning-spending/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of May 4, 2026, including what we learned from Big Tech's first quarter, a conversation with Joanna Stern, and asking what's next for the Boston Celtics.",
-      "publishedAt": "2026-05-08T17:00:00.000Z",
-      "articleId": "29626376f64045f9"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/the-redistricting-loss-means-democrats",
       "title": "The Redistricting Loss Means Democrats Must Moderate to Win",
       "url": "https://www.joshbarro.com/p/the-redistricting-loss-means-democrats",
@@ -1621,17 +1654,6 @@
       "summary": "If John Harbaugh is unhappy with his GM, he has done an impressive job masking his feelings.",
       "publishedAt": "2026-04-27T09:30:22.000Z",
       "articleId": "568c612859c84fc7"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-best-beatles-covers-comments",
-      "title": "The Best Beatles Covers: Comments",
-      "url": "https://www.cantgetmuchhigher.com/p/the-best-beatles-covers-comments",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Returning to the hot topic that got everybody talking",
-      "publishedAt": "2026-04-26T13:31:35.000Z",
-      "articleId": "e4e953ff720b239e"
     }
   ],
   "sources": [
@@ -1727,7 +1749,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
