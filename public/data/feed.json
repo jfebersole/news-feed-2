@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-26T21:56:33.007Z",
-  "fetchedAt": "2026-05-26T21:56:33.003Z",
+  "generatedAt": "2026-05-26T23:21:12.298Z",
+  "fetchedAt": "2026-05-26T23:21:12.295Z",
   "sourceCount": 21,
-  "itemCount": 152,
-  "totalItemCount": 762,
+  "itemCount": 151,
+  "totalItemCount": 761,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/use-ai-this-election",
@@ -829,17 +829,6 @@
       "summary": "Protecting central bank independence will be an ongoing struggle; the most important thing is that no board members resign anytime soon.",
       "publishedAt": "2026-05-15T11:39:19.000Z",
       "articleId": "3ab7a03ce2626242"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/how-to-know-what-politicians-really",
-      "title": "How to know what politicians really think",
-      "url": "https://www.slowboring.com/p/how-to-know-what-politicians-really",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus AOC vs. Mamdani, the DC mayor&#8217;s race, and plot vs. story",
-      "publishedAt": "2026-05-15T10:01:02.000Z",
-      "articleId": "d8d1632e2c5436af"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
@@ -1771,7 +1760,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
