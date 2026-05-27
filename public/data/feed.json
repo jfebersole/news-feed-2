@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-27T04:45:26.511Z",
-  "fetchedAt": "2026-05-27T04:45:26.506Z",
+  "generatedAt": "2026-05-27T08:47:30.945Z",
+  "fetchedAt": "2026-05-27T08:47:30.941Z",
   "sourceCount": 21,
-  "itemCount": 151,
-  "totalItemCount": 761,
+  "itemCount": 153,
+  "totalItemCount": 751,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
+      "title": "Your future job will be to keep AI on task",
+      "url": "https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The one thing humans will always be comparatively good at is knowing what we want.",
+      "publishedAt": "2026-05-27T08:32:31.000Z",
+      "articleId": "6e3005203db15f0f"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/inventing-the-second-malaria-vaccine",
+      "title": "Inventing the second malaria vaccine with Katharine Collins",
+      "url": "https://www.worksinprogress.news/p/inventing-the-second-malaria-vaccine",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Malaria is caused not by a virus or bacterium, but by a complex, shape-shifting parasite that has evolved alongside us for millennia. This has made vaccine development a brutal challenge.",
+      "publishedAt": "2026-05-27T08:01:55.000Z",
+      "articleId": "e401488417981949"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=seven-ways-to-avoid-losing-your-job-to-ai",
+      "title": "Seven ways to avoid losing your job to AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the theme of my latest Free Press column, here is one excerpt: Principle five: Run experiments. This is a more general version of the healthcare point. AI will generate so many new ideas and hypotheses, including for drugs and medical devices, but not only. Become a tester. Test new battery designs, new educational techniques, [&#8230;] The post Seven ways to avoid losing your job to AI appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-27T05:54:07.000Z",
+      "articleId": "639b2f473f6eab0b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/can-liberals-be-pacifists.html?utm_source=rss&utm_medium=rss&utm_campaign=can-liberals-be-pacifists",
       "title": "Can liberals be pacifists?",
@@ -323,17 +356,6 @@
       "summary": "Author Keith Jopling stops by to talk about how the album has survived in the digital age",
       "publishedAt": "2026-05-24T13:31:14.000Z",
       "articleId": "84db4a4df3395f13"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/liberal-economists-score-an-own-goal-against-bezos.html?utm_source=rss&utm_medium=rss&utm_campaign=liberal-economists-score-an-own-goal-against-bezos",
-      "title": "Liberal Economists Score an Own Goal Against Bezos",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/liberal-economists-score-an-own-goal-against-bezos.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Jeff Bezos tweeted: Yes, the United States has the most progressive tax system in the world. The top 1% pay 40% of taxes, the bottom 50% pay 3% of taxes. We can make it even more progressive by zeroing out taxes on the bottom half. It&#8217;s a small amount of the total tax revenue but [&#8230;] The post Liberal Economists Score an Own Goal Against Bezos appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-24T11:18:25.000Z",
-      "articleId": "a3e02c76dc768f1a"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-052326",
@@ -1679,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
