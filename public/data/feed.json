@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-27T12:31:09.567Z",
-  "fetchedAt": "2026-05-27T12:31:09.562Z",
+  "generatedAt": "2026-05-27T16:45:27.085Z",
+  "fetchedAt": "2026-05-27T16:45:27.080Z",
   "sourceCount": 21,
-  "itemCount": 151,
+  "itemCount": 152,
   "totalItemCount": 761,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-great-helmsman",
+      "title": "The great helmsman?",
+      "url": "https://scottsumner.substack.com/p/the-great-helmsman",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Don't steer the car, move the road",
+      "publishedAt": "2026-05-27T16:36:31.000Z",
+      "articleId": "799ee65b810f864b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-555",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. As meat prices rise, the economics of Texas barbecue. 2. Economic historian Eric Jones has passed away. 3. Claims about the Pope and Claude. If true, further evidence for my Straussian hypothesis. 4. Koyama reviews Tyler Goodspeed on business cycles. 5. &#8220;Chinese battery manufacturer Calb has broken ground on a €2 Billion gigafactory in [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-27T15:19:16.000Z",
+      "articleId": "b4a77e5e06174a64"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/time-to-freak-out-about-the-national",
       "title": "Time to freak out about the national debt",
@@ -15,6 +37,17 @@
       "summary": "The longstanding bill is coming due.",
       "publishedAt": "2026-05-27T10:03:13.000Z",
       "articleId": "8a56e0835ca4dff3"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/baseballs-2026-standings-are-acting",
+      "title": "Baseball's 2026 Standings Are Acting Like 2025 Never Happened",
+      "url": "https://neilpaine.substack.com/p/baseballs-2026-standings-are-acting",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "If you slept through last season, this year’s MLB standings might actually make more sense.",
+      "publishedAt": "2026-05-27T10:03:11.000Z",
+      "articleId": "de9fd7785a2a55f9"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
@@ -358,17 +391,6 @@
       "articleId": "f0b87725e057e7fd"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-568",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-568.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Are &#8220;dad books&#8221; a dying breed? (WSJ) And are podcasts to blame? 2. Profile of Camille Paglia at age 79 (London Times, gated). 3. Olivier Blanchard: &#8221; I certainly worry about the evolution of US public debt and the size of primary deficits. But, while there is a lot of discussion/worry about the increase [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-24T16:30:01.000Z",
-      "articleId": "42b61f63d3c19af4"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/you-cant-kill-it-if-you-tried-a-conversation",
       "title": "You Can't Kill It If You Tried: A Conversation with Keith Jopling",
       "url": "https://www.cantgetmuchhigher.com/p/you-cant-kill-it-if-you-tried-a-conversation",
@@ -389,17 +411,6 @@
       "summary": "Squatter removal services, Apple finding uses for defective chips, process heat use in California, the brewing Colorado River crisis, and more.",
       "publishedAt": "2026-05-23T12:02:39.000Z",
       "articleId": "3806760fc5f6e928"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
-      "title": "The Week That Was (May 18-22, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-may-18-22-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-05-23T10:00:39.000Z",
-      "articleId": "4cdbe152a5616fb8"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-heading-for-a-debtpocalypse",
