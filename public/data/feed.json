@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-27T19:32:14.242Z",
-  "fetchedAt": "2026-05-27T19:32:14.238Z",
+  "generatedAt": "2026-05-27T22:05:59.006Z",
+  "fetchedAt": "2026-05-27T22:05:59.001Z",
   "sourceCount": 21,
-  "itemCount": 150,
-  "totalItemCount": 761,
+  "itemCount": 152,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-21st-century-road-to-housing",
+      "title": "The 21st Century ROAD to Housing Act finally passed the House",
+      "url": "https://www.slowboring.com/p/the-21st-century-road-to-housing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Stripped of its pesky build-to-rent provision, the bill now heads back to the Senate.",
+      "publishedAt": "2026-05-27T22:00:15.000Z",
+      "articleId": "2819eb4ae1da7cce"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
+      "title": "Pope Leo’s A.I. Vision Might Not Be Strange Enough",
+      "url": "https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "He is both a critic and a normalizer of artificial intelligence.",
+      "publishedAt": "2026-05-27T21:39:42.000Z",
+      "articleId": "e186c2277269eb8a"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/zq25f88sobon4bay0a0j.html",
+      "title": "Money Stuff: Robinhood Adds Some Agents",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/zq25f88sobon4bay0a0j.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Activision, fast track, tariffs, sharps. View in browser Agentic Robinhood For a while now, I have argued that “eventually, every possible trade will be packaged into an exchange-traded fund.” Brokers and wealth advisers have a long history of coming up with complicated ideas to pitch to their more adventurous clients, but ETFs allow brokers to put quite complicated pitches into something you can buy with a click of a button. Ideas like “ buy stock and sell call options on it ” or “ borrow money to buy more stock ” or “ borrow money to buy Bitcoin and gold ” or “ long Nvidia short Intel ” or “ sell crash insurance ” are all trades that now exist in ETF form. There are other ways to do these trades — structured notes, or just doing the individual component trades separately — but the ETF is a clean simple package with a catchy ticker that you can buy in your Robinhood account. But now I think that this argument was naïve, and the ETF, as a universal package for trade ideas, might already be outdated. “Every possible trade” will be an ETF? There are infinite possible trades, some of which ETF providers and brokers and wealth advisers have probably never thought of. If in your shameful secret heart you want to do a trade like “buy every stock whose ticker begins with C, and sell out-of-the-money call options on every stock whose ticker begins with D,” nobody will sell you an ETF like that and you’d be too embarrassed to ask. What you want is a more general-purpose technology, a way to describe any imaginable trade in a few sentences and then execute it with a click of a button. And that, increasingly, exists. Bloomberg’s Paige Smith reports : Robinhood Markets Inc. customers will soon be able to direct artificial intelligence agents to trade equities and make purchases on their credit cards for them. A client will able to establish an agentic trading account that’s entirely separate from the customer’s standard portfolio, limiting the funds an agent can access to only those deposited, according to a statement Wednesday. The investor can then direct the AI agent to build a diversified portfolio from scratch, for example, or adjust concentrations to take advantage of opportunities as they arise. “Some people are setting up hypotheses, some people are doing rebalancing,” Abhishek Fatehpuria, Robinhood’s vice president of product management for brokerage, said in an interview. “When we enable customers to connect their outside agents and outside tools, the possibilities are pretty vast.” Fatehpuria also said he’s looking forward to learning how different people use the product, which will inform how the team develops it. Here’s Robinhood’s announcement , with some examples of the possibilities: A long-term investor can have their agent analyze...",
+      "publishedAt": "2026-05-27T20:29:25.368Z",
+      "articleId": "45f055ad8167305d"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/the-great-helmsman",
       "title": "The great helmsman?",
@@ -919,17 +952,6 @@
       "articleId": "f46abcf1c4d0de08"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/742u8oyr8bq769nter2w.html",
-      "title": "Money Stuff: Ryan Cohen Wants to Work at eBay",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/742u8oyr8bq769nter2w.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff GameStop, Adani, fund formation. View in browser GameStop The simple model of GameStop Corp.’s proposal to acquire eBay Inc. is: Ryan Cohen, the chief executive officer of GameStop, thinks he should be the CEO of eBay. That is not a job that you can apply for by filling out an application on the website. For one thing, eBay is a $50 billion public company, and public companies rarely hire new CEOs through cold outreach. For another thing, eBay has a CEO already and was not, prior to Cohen’s outreach, looking to replace him. [1] If you are an ambitious and energetic person, and you want your dream job, but the hiring manager is not returning your calls, you could always try stunts. You print your resume on a cake and send it to the company. You stand outside the hiring manager’s house singing a song you wrote about your qualifications. Or, in Cohen’s case, you (1) lob in a vague acquisition offer, (2) lay out how you’d cut costs and make eBay more valuable if you were in charge and (3) also auction your socks on eBay to pay for it. It’s that combination of demonstrating your commitment and qualifications, while also doing some viral nonsense to get noticed. In the case where your dream job is being the CEO of a particular public company, and the company already has a CEO and is not returning your calls, there are two standard sorts of stunt you can pull: You can do activism . You can buy some stock and send a letter to the board saying “I am a shareholder, I think current management is all wrong, and I would like to talk to you about my ideas.” (Your first idea is “make me CEO,” so you can implement your other ideas.) And then if the board says no, you run an activist campaign: You go out to other shareholders and try to get them on board with your ideas; if necessary, you run a proxy fight to vote out the existing board of directors and put your nominees in charge. And then your nominees make you CEO and you implement your plans. This requires a certain amount of money: You’ll be more credible if you own 5% of the stock than if you own 0.05%, though sometimes activists win campaigns with tiny stakes . But it mostly requires persuasiveness ; it requires the ability to convince other shareholders that your plans for the company are better than management’s plans. You can do a hostile takeover . You can go to the shareholders and offer to buy all their stock for more than the going price. If the stock is trading at $50, and you offer $70, and most of the shareholders don’t think current management can make the company worth more than $70, then they will sell to you. Then you will own the company, and you can fire the board and the CEO and put yourself in charge. This requires much less persuasiveness than the first option: The other...",
-      "publishedAt": "2026-05-14T17:46:13.782Z",
-      "articleId": "676640f156534df3"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/12/opinion/uk-elections-post-liberalism.html",
       "title": "Britain’s Post-Liberal Disorder",
       "url": "https://www.nytimes.com/2026/05/12/opinion/uk-elections-post-liberalism.html",
@@ -1749,7 +1771,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
