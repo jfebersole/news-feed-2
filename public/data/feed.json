@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-27T08:47:30.945Z",
-  "fetchedAt": "2026-05-27T08:47:30.941Z",
+  "generatedAt": "2026-05-27T12:31:09.567Z",
+  "fetchedAt": "2026-05-27T12:31:09.562Z",
   "sourceCount": 21,
-  "itemCount": 153,
-  "totalItemCount": 751,
+  "itemCount": 151,
+  "totalItemCount": 761,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/time-to-freak-out-about-the-national",
+      "title": "Time to freak out about the national debt",
+      "url": "https://www.slowboring.com/p/time-to-freak-out-about-the-national",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The longstanding bill is coming due.",
+      "publishedAt": "2026-05-27T10:03:13.000Z",
+      "articleId": "8a56e0835ca4dff3"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
+      "title": "The SpaceX IPO and Data Centers in Space",
+      "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "There isn't a financial model that justifies the SpaceX IPO, but data centers in space are plausible, and that might be enough.",
+      "publishedAt": "2026-05-27T10:00:00.000Z",
+      "articleId": "a43d4ed6f1c0f659"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
       "title": "Your future job will be to keep AI on task",
@@ -820,17 +842,6 @@
       "articleId": "4862f80f6a3eff60"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/you-cant-prepare-for-the-next-pandemic",
-      "title": "You can’t prepare for the next pandemic without confronting the last one",
-      "url": "https://www.slowboring.com/p/you-cant-prepare-for-the-next-pandemic",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "On Covid media, haunting, and hantavirus",
-      "publishedAt": "2026-05-15T22:01:56.000Z",
-      "articleId": "573d2d0b2a4048cb"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/shifting-alliances-in-a-changing-world/",
       "title": "2026.20: Shifting Alliances in a Changing World",
       "url": "https://stratechery.com/2026/shifting-alliances-in-a-changing-world/",
@@ -1126,17 +1137,6 @@
       "summary": "What are the implications of artificial intelligence for religion?",
       "publishedAt": "2026-05-11T19:41:15.000Z",
       "articleId": "8c9089dc38167fc3"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-inference-shift/",
-      "title": "The Inference Shift",
-      "url": "https://stratechery.com/2026/the-inference-shift/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Agentic inference is going to be different than the inference we use today, and it will change compute infrastructure because speed won't matter when humans aren't involved.",
-      "publishedAt": "2026-05-11T10:00:00.000Z",
-      "articleId": "5618a9906da7df47"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/tyrants-are-losing-wars",
@@ -1665,28 +1665,6 @@
       "summary": "The world is looking to Volodymyr Zelensky for leadership.",
       "publishedAt": "2026-04-27T18:39:38.000Z",
       "articleId": "4de24e8dbda7cf18"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-moderately-easy-problem-of-consciousness",
-      "title": "The moderately easy problem of consciousness",
-      "url": "https://www.noahpinion.blog/p/the-moderately-easy-problem-of-consciousness",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Before deciding if computers are self-aware, let's figure out how humans become self-aware.",
-      "publishedAt": "2026-04-27T09:58:07.000Z",
-      "articleId": "2c3728fb30af6b24"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7232603/2026/04/27/joe-schoen-giants-gm-job-security-john-harbaugh/",
-      "title": "The end of the draft marked the end of Joe Schoen's trial period. What now?",
-      "url": "https://www.nytimes.com/athletic/7232603/2026/04/27/joe-schoen-giants-gm-job-security-john-harbaugh/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "If John Harbaugh is unhappy with his GM, he has done an impressive job masking his feelings.",
-      "publishedAt": "2026-04-27T09:30:22.000Z",
-      "articleId": "568c612859c84fc7"
     }
   ],
   "sources": [
@@ -1701,10 +1679,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
