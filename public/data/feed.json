@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-28T04:36:14.033Z",
-  "fetchedAt": "2026-05-28T04:36:14.028Z",
+  "generatedAt": "2026-05-28T08:51:47.651Z",
+  "fetchedAt": "2026-05-28T08:51:47.647Z",
   "sourceCount": 21,
   "itemCount": 152,
-  "totalItemCount": 752,
+  "totalItemCount": 762,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-toby-wilkinson.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-toby-wilkinson",
@@ -1690,10 +1690,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
