@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-05-28T08:51:47.651Z",
-  "fetchedAt": "2026-05-28T08:51:47.647Z",
+  "generatedAt": "2026-05-28T12:42:53.350Z",
+  "fetchedAt": "2026-05-28T12:42:53.347Z",
   "sourceCount": 21,
-  "itemCount": 152,
+  "itemCount": 153,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/review-recession-by-tyler-godspeed",
+      "title": "Review: Recession by Tyler Goodspeed",
+      "url": "https://www.worksinprogress.news/p/review-recession-by-tyler-godspeed",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "How a grasshopper caused the 1873 panic, and why recessions are usually just bad luck.",
+      "publishedAt": "2026-05-28T12:35:39.000Z",
+      "articleId": "99e8c36a15cf7545"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+      "title": "Where Are the Economies of Scale in Homebuilding?",
+      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Over the last few months we&#8217;ve examined the extent of the construction industry&#8217;s productivity problem.",
+      "publishedAt": "2026-05-28T12:03:26.000Z",
+      "articleId": "767984ae3ebbd84b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html?utm_source=rss&utm_medium=rss&utm_campaign=doc-in-a-box",
+      "title": "Doc in a Box",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The first review of the pilot for AI prescriptions refills in Utah is out and it looks very reasonable. In the 72% of cases where the AI recommend a refill at least one of two physicians agreed in 97% of cases. In the 28% of Cases Where the AI Escalated to a Physician Without Recommending [&#8230;] The post Doc in a Box appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-28T11:17:45.000Z",
+      "articleId": "a7b525ce9edcf148"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/union-enthusiasts-should-support",
+      "title": "Union enthusiasts should support abundance",
+      "url": "https://www.slowboring.com/p/union-enthusiasts-should-support",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "You want it to be one way, but it&#8217;s the other.",
+      "publishedAt": "2026-05-28T10:03:21.000Z",
+      "articleId": "d76d73ae3012b5af"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
+      "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
+      "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.",
+      "publishedAt": "2026-05-28T10:00:00.000Z",
+      "articleId": "19dc6fb920a7ae06"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
+      "title": "Three Ways Trump Is Losing the War",
+      "url": "https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The president is giving a master class in what not to do in Iran.",
+      "publishedAt": "2026-05-28T09:07:34.000Z",
+      "articleId": "05a6d7da877f3fdd"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-amazing-somewhat-mysterious-crime",
+      "title": "The amazing — somewhat mysterious — crime drop",
+      "url": "https://www.slowboring.com/p/the-amazing-somewhat-mysterious-crime",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Policy? Policing? Good luck?",
+      "publishedAt": "2026-05-28T09:02:28.000Z",
+      "articleId": "ff54c2aaa6774a27"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-toby-wilkinson.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-toby-wilkinson",
       "title": "My excellent Conversation with Toby Wilkinson",
@@ -356,17 +433,6 @@
       "summary": "1. Sampling DNA from animal skin parchments. 2. The making of Indian statistics. 3. What happens if your iPhone is stolen in London? (NYT) 4. Brazil school phone bans: &#8220;We then show that test scores, which were trending similarly in the two groups prior to the ban, improved by 0.06 s.d. in treatment schools relative [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-25T16:12:23.000Z",
       "articleId": "43bf808dd1bb1c8c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/campo-grande-bleg-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=campo-grande-bleg-brazil",
-      "title": "Campo Grande bleg, Brazil",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/campo-grande-bleg-brazil.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Soon I will be there, in Mato Grosso do Sul, wishing to observe the foundations of Brazil&#8217;s burgeoning agricultural export economy, among other reasons. So what should I do, where should I go, and what should I eat? The post Campo Grande bleg, Brazil appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-25T12:45:04.000Z",
-      "articleId": "591632b1a8fe287e"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/why-bobby-witt-jr-is-baseballs-new",
@@ -809,17 +875,6 @@
       "articleId": "56b332e232769a92"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/trumps-china-policy-is-a-disaster",
-      "title": "Trump’s China policy is a disaster",
-      "url": "https://www.slowboring.com/p/trumps-china-policy-is-a-disaster",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Surrendering American advantages in an effort to score a big soybean sale",
-      "publishedAt": "2026-05-18T10:02:34.000Z",
-      "articleId": "ada0afc74b291e2d"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
       "title": "Data Center Discontent, Understanding the Opposition, Fixing the Problem",
       "url": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
@@ -829,17 +884,6 @@
       "summary": "There are understandable reasons for people to oppose data centers; the only solution that will work is simply paying them off.",
       "publishedAt": "2026-05-18T10:00:00.000Z",
       "articleId": "4b33e1ee5bc707a5"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a02",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-a02",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-05-17T17:02:00.000Z",
-      "articleId": "b544e39bb4385bbc"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-are-the-best-acoustic-guitar",
@@ -1148,17 +1192,6 @@
       "summary": "A disease that was once a death sentence is increasingly treatable",
       "publishedAt": "2026-05-12T10:05:09.000Z",
       "articleId": "ec2f57bc88c175ff"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
-      "title": "SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future",
-      "url": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.",
-      "publishedAt": "2026-05-12T10:00:00.000Z",
-      "articleId": "92d0971e98fa464b"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
@@ -1654,28 +1687,6 @@
       "summary": "Featuring Alanis Morissette, the Black Eyed Peas, the Goo Goo Dolls, and others",
       "publishedAt": "2026-04-28T13:30:57.000Z",
       "articleId": "947781eae8c45242"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-british-nuclear-flopped",
-      "title": "Why British nuclear flopped",
-      "url": "https://www.worksinprogress.news/p/why-british-nuclear-flopped",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Britain gave an elite group of engineers sweeping power and massive resources to deliver a nuclear power revolution. But their nuclear dreams crumbled.",
-      "publishedAt": "2026-04-28T11:45:01.000Z",
-      "articleId": "e44e3bdf88c8ee16"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7236468/2026/04/28/new-york-giants-draft-board-rank-notebook/",
-      "title": "If Arvell Reese wasn't available, who would the Giants have taken?: Draft notebook",
-      "url": "https://www.nytimes.com/athletic/7236468/2026/04/28/new-york-giants-draft-board-rank-notebook/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, Mauigoa's back, the Thibodeaux trade talks, and more from draft weekend.",
-      "publishedAt": "2026-04-28T09:30:44.000Z",
-      "articleId": "a19c039040b0385d"
     }
   ],
   "sources": [

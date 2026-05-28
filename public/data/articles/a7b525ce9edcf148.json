@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html",
+  "source": "Marginal Revolution",
+  "title": "Doc in a Box",
+  "subtitle": null,
+  "byline": "Alex Tabarrok",
+  "publishedAt": "2026-05-28T11:17:45.000Z",
+  "contentHtml": "<p>The first review of&nbsp; the pilot for <a href=\"https://commerce.utah.gov/wp-content/uploads/2026/05/Doctronic-Outcomes-May-2026.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">AI prescriptions refills in Utah</a> is out and it looks very reasonable. In the 72% of cases where the AI recommend a refill at least one of two physicians agreed in 97% of cases.</p>\n<blockquote><p>In the 28% of Cases Where the AI Escalated to a Physician Without Recommending Renewal<br>\no When the AI declined to recommend renewal without further information, a human telehealth appointment was arranged.<br>\n▪ For these patients, 69% of physician reviews agreed that the escalation was appropriate, and more information was needed to authorize a renewal.<br>\n▪ In the other 31% of cases, the physician determined the escalation was overly cautious.<br>\n● For a new system like this, overcaution is appropriate and welcome. In the long term, reducing overcaution without compromising safety would improve patient access to care, but we aren’t rushing to see that happen.</p></blockquote>\n<p>The <a href=\"https://www.doctronic.ai/blog/the-status-quo-is-the-biggest-risk/\" target=\"_blank\" rel=\"noopener noreferrer\">founders of Doctronic</a>, the firm running the AI doc, write:</p>\n<blockquote><p>The cost of compute drops roughly 10x every five years. At the same time, the demand for care continues to rise. An AI consultation that costs a few dollars today will cost pennies in a few years. So if AI can safely handle even a fraction of care, we’ve turned an unsolvable supply problem into an engineering problem. And engineering problems have solutions.</p></blockquote>",
+  "wordCount": 220,
+  "imageCount": 0,
+  "linkCount": 2
+}
