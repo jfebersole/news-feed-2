@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-27T23:37:59.391Z",
-  "fetchedAt": "2026-05-27T23:37:59.386Z",
+  "generatedAt": "2026-05-28T04:36:14.033Z",
+  "fetchedAt": "2026-05-28T04:36:14.028Z",
   "sourceCount": 21,
   "itemCount": 152,
-  "totalItemCount": 762,
+  "totalItemCount": 752,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-toby-wilkinson.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-toby-wilkinson",
+      "title": "My excellent Conversation with Toby Wilkinson",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-toby-wilkinson.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Most of all, we cover Ptolemaic Egypt. Here is part of the episode summary: Tyler and Toby cover how Alexander took over the empire almost without a fight, why Alexandria became the Manhattan of the ancient world, whether the era was as philosophically fertile as it was scientifically, [&#8230;] The post My excellent Conversation with Toby Wilkinson appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-28T04:33:45.000Z",
+      "articleId": "8fed362aab5acb75"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-should-i-ask-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-richard-hanania",
       "title": "What should I ask Richard Hanania?",
@@ -389,17 +400,6 @@
       "summary": "Every few weeks there's a new disaster that would have sunk any other president.",
       "publishedAt": "2026-05-25T08:14:11.000Z",
       "articleId": "5705142cb06bb8dc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-carousel-trade-arbitrage.html?utm_source=rss&utm_medium=rss&utm_campaign=the-carousel-trade-arbitrage",
-      "title": "The carousel trade (arbitrage)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-carousel-trade-arbitrage.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Imagine two companies which are secretly controlled by the same people. If company A imported some phones, then sold them to company B, it charged VAT on the deal. If company B then exported the phones, it reclaimed &#8212; from the government &#8212; the VAT it had paid to company A. the integrity of the [&#8230;] The post The carousel trade (arbitrage) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-25T05:51:46.000Z",
-      "articleId": "d7587a4c4a8e71a5"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7304277/2026/05/24/jaxson-dart-trump-giants-john-harbaugh/",
@@ -1690,10 +1690,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
