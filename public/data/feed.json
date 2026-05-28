@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-28T17:01:09.680Z",
-  "fetchedAt": "2026-05-28T17:01:09.676Z",
+  "generatedAt": "2026-05-28T19:43:54.372Z",
+  "fetchedAt": "2026-05-28T19:43:54.367Z",
   "sourceCount": 21,
-  "itemCount": 152,
-  "totalItemCount": 752,
+  "itemCount": 153,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-rock-hall-was-never-just-about",
+      "title": "The Rock Hall Was Never Just About Rock",
+      "url": "https://www.cantgetmuchhigher.com/p/the-rock-hall-was-never-just-about",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "And that's okay",
+      "publishedAt": "2026-05-28T17:30:52.000Z",
+      "articleId": "711bb3190721e968"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/00o29z01g7f0bub3nf8y.html",
+      "title": "Money Stuff: The Bitcoin Lost-and-Found",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/00o29z01g7f0bub3nf8y.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Paramount, Polymarket, AI hiring. View in browser Finders keepers In the early days of Bitcoin, it was (1) not worth very much and (2) used mostly to buy drugs online. So a lot of people had the experience of, like, acquiring 500 Bitcoins to buy some molly, getting 100 Bitcoins back in change, taking the drugs and forgetting about the whole transaction for a decade. And then reading a news story about Bitcoin and thinking “oh damn that’s like $7 million, I wonder where my Bitcoins are,” and not being able to find them. Somewhere there’s a Bitcoin wallet that they “own,” but they have long since forgotten the private key or password that would unlock it. Oops! On some estimates this is like 20% of all Bitcoins , an absolutely incredible financial system. Various technologies offer some hope for recovering those Bitcoins. Last week I mentioned “a guy who used Claude to recover his Bitcoin wallet password that he lost 11 years ago while stoned,” through some combination of fixing a bug in the password configuration and, I hope, psychoanalyzing him to figure out what words he was thinking about while stoned in 2015. Possibly a promising approach. Or of course quantum computing might unlock all the Bitcoin wallets. That wouldn’t help the people who lost them — it would help the people with quantum computers — but, in the crypto ethos of “code is law” and “not your keys not your coins,” maybe that’s fine. If you’re smart enough to crack open a Bitcoin wallet, the Bitcoins are yours, arguably, sort of. There is another, older, somewhat less effective technology, which is law. If you can get a court to declare that you own a wallet full of Bitcoins, that’s something . It’s not as good as having the private key to that wallet: Without the private key (which the court can’t give you), you can’t transfer the Bitcoins on the blockchain, so you can’t spend them or use them in the ways people normally use Bitcoins. But it’s better than nothing. If you had a final judgment from a New York court saying that you own 100 Bitcoins at some particular blockchain address, then you could tell people “I own $7 million worth of Bitcoin” and that would be true in a legal, though not a cryptographic, sense. What could you do with that $7 million of inaccessible wealth? Things? Could you borrow against it? Would a bank lend you $1 million of real dollars against $7 million of legally owned but inaccessible Bitcoin? I mean, probably not, but worth a shot? [1] Something like this is sort of what James Howells , the funniest Bitcoin guy, is going for. Howells at one point had 8,000 Bitcoins, but the hard drive containing the private keys is now at the bottom of a garbage dump, and nobody will let him dig up the dump to find it. A minor setback! He has, if not quite a...",
+      "publishedAt": "2026-05-28T17:26:19.135Z",
+      "articleId": "2db4dcc4d5c97cc3"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/ai-in-gdp.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-gdp",
+      "title": "AI in gdp",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ai-in-gdp.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Quality-adjusted AI production in the United States grew at over 2,000 percent per year in 2024 and 2025, driven by three compounding forces: expanding data-center capacity, hardware efficiency gains, and—the largest of the three—algorithmic progress. Treating the AI sector as a coherent economic entity yields preliminary estimates of nominal AI GDP at approximately $250 billion [&#8230;] The post AI in gdp appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-28T17:19:16.000Z",
+      "articleId": "9ae9cb65e35e0bbb"
+    },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/jl7sta78vpk8nrbmvvd5.html",
       "title": "The Brew Shop - Weekly Email Update",
@@ -446,17 +479,6 @@
       "articleId": "68ab2ed827847728"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/silent-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=silent-friend",
-      "title": "*Silent Friend*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/silent-friend.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An excellent and profound movie, large screen essential. I take this movie to be an engagement with the truths of German romanticism (set in Marburg, with Geothe and Rilke as relevant texts), and asking whether that romanticism decays over time, or simply morphs into new forms and thus renews itself, even in an age of [&#8230;] The post *Silent Friend* appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-25T23:35:48.000Z",
-      "articleId": "cc9dc854c79c4f92"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
       "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
       "url": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
@@ -862,17 +884,6 @@
       "summary": "All warfare is drone warfare now.",
       "publishedAt": "2026-05-19T08:19:41.000Z",
       "articleId": "b185e2504751a629"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/csdbsavmp088qd5alrre.html",
-      "title": "Money Stuff: Sometimes Andrew Left Was Right",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/csdbsavmp088qd5alrre.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Marks, 10Qs, slop, ILPA, IBD. View in browser Citron Andrew Left is an activist short seller with a following on social media, where he goes by Citron Research. In 2024, he was arrested and charged with criminal market manipulation ; his trial started last week. The theory of the US Department of Justice and the Securities and Exchange Commission is essentially that Left was doing a pump-and-dump scheme in reverse: He would pick some random stock and sell it short. He’d go on Twitter and say “this stock is a fraud, and I am shorting it until it hits zero.” His legions of devoted followers would sell the stock, pushing its price down. Then Left would buy back his short at a profit. Or sometimes the other way, with stocks he was long. The view of the DOJ and the SEC appears to be that Left was lying about his own intentions, his social-media followers believed those lies, and those lies were material to them. “We want to sell any stocks that Andrew Left is short,” his followers perhaps thought; had they known that Left was just doing short-term trades against them, they would not have trusted him. Left’s defense is basically : Saying “I’m short this stock” was not a commitment to keep the position on forever , and he had the right to do risk management and to take profits when the stocks moved; and His statements about the stocks were made in good faith and often true. When he said “this company is a fraud,” he meant it. There are several cases in the government’s complaints where Left said that some company was a fraud and he was short, and the company was a fraud — like, the SEC brought a fraud case against it — and its stock price collapsed. The government’s theory is that people who followed Left’s Twitter and shorted those stocks were deceived, because they thought that Left was short for the long term and in fact he covered quickly. But the people who followed Left’s Twitter and shorted those stocks did well , because those stocks were frauds . Anyway the trial started last week, and the government called as witnesses some retail traders who followed Left and lost money. You might think: “Ah, yes, retail traders who followed Left’s advice, shorted stocks that he said he was short, and then lost money because he was lying and just pushing around those stocks to make a quick buck.” But no! The government called witnesses who proved Left’s point . Business Insider reports : Billy Banks, a retired firefighter from Texas, testified at Left's trial in a Los Angeles federal court on Thursday. ... He testified he took about $110,000 that was previously invested in mutual funds in his 401(k) to buy shares in a cannabis company called CV Sciences, with the stock ticker CVSI. Banks said he bought CVSI because he believed the company had great...",
-      "publishedAt": "2026-05-18T18:11:58.046Z",
-      "articleId": "1669ef682841d24e"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html",
@@ -1690,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
