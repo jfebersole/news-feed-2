@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-29T22:02:37.825Z",
-  "fetchedAt": "2026-05-29T22:02:37.821Z",
+  "generatedAt": "2026-05-29T23:40:12.337Z",
+  "fetchedAt": "2026-05-29T23:40:12.333Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 762,
+  "itemCount": 155,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/breaking-down-the-clarity-act",
+      "title": "Breaking down the Clarity Act",
+      "url": "https://www.slowboring.com/p/breaking-down-the-clarity-act",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Everything you need to know about the single most significant piece of crypto legislation to pass the House",
+      "publishedAt": "2026-05-29T22:01:30.000Z",
+      "articleId": "aa266d7c2429850c"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
       "title": "Three Ways Trump Is Losing the War in Iran",
@@ -1793,7 +1804,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 13,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
