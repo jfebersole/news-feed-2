@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-05-29T16:52:22.287Z",
-  "fetchedAt": "2026-05-29T16:52:22.283Z",
+  "generatedAt": "2026-05-29T19:39:08.366Z",
+  "fetchedAt": "2026-05-29T19:39:08.360Z",
   "sourceCount": 21,
-  "itemCount": 153,
+  "itemCount": 154,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7318088/2026/05/29/jaxson-dart-donald-trump-new-york-giants/",
+      "title": "Giants QB Jaxson Dart on his decision to introduce Donald Trump at rally",
+      "url": "https://www.nytimes.com/athletic/7318088/2026/05/29/jaxson-dart-donald-trump-new-york-giants/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "\"This was a unique opportunity, being asked and given the opportunity to introduce the President of the United States.\"",
+      "publishedAt": "2026-05-29T19:28:54.000Z",
+      "articleId": "3dc471d0fde827ca"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
+      "title": "Three Ways Trump Is Losing the War in Iran",
+      "url": "https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Three reasons Trump is losing the war in Iran.",
+      "publishedAt": "2026-05-29T19:14:56.000Z",
+      "articleId": "05a6d7da877f3fdd"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-574",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-574.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Where are the economies of scale in homebuilding? 2. Peter Thiel and Argentina (NYT). 3. Discourse on classical guitar. 4. How many dissertations are AI-written? 5. NYT talks with Macca. 6. New algorithm for ranking VCs. The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-29T18:08:16.000Z",
+      "articleId": "f4864560ef8ef32e"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/luceing-their-mind/",
+      "title": "2026.22: Luceing Their Mind",
+      "url": "https://stratechery.com/2026/luceing-their-mind/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of May 25, 2026, including why everyone hates Luce, how to monetize AI answers, and social mobility in China.",
+      "publishedAt": "2026-05-29T17:00:00.000Z",
+      "articleId": "da6428d823f19f4b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-i-have-been-learning-doing-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=what-i-have-been-learning-doing-new-aesthetics",
       "title": "What I have been learning doing New Aesthetics",
@@ -169,17 +213,6 @@
       "summary": "1. &#8220;Robinhood launched agentic trading and an agentic credit card today that will allow AI agents to trade equities and make credit card purchases on customers&#8217; behalf.&#8221; With cash back, of course. 2. Cultural Tutor and beauty. 3. Why has Napoleon so rarely been captured well on screen? 4. Guatemala agrees to joint strikes, with [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-28T15:30:58.000Z",
       "articleId": "007415d9d6b689ca"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
-      "title": "Three Ways Trump Is Losing the War in Iran",
-      "url": "https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Three reasons Trump is losing the war in Iran.",
-      "publishedAt": "2026-05-28T14:48:33.000Z",
-      "articleId": "05a6d7da877f3fdd"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/openais-milestone-math-breakthrough",
@@ -477,17 +510,6 @@
       "summary": "Money Stuff Carbon, Survivor, Tatis, lists, books. View in browser SpaceX and passives The basic idea of index investing is that you are not smarter than the market, so you should just buy whatever stocks the market tells you are good. It is a discipline of self-effacement, but it is hard. “The market is stupid,” you will occasionally think, and then what? The most straightforward form of indexing is that you invest in all of the public companies in proportion to their size, but the best form of indexing would clearly be “you invest in all of the good public companies in proportion to how much they will go up.” Like if there were an Index of Good Companies, you’d rather buy that than the Index of All the Companies. [1] This is hard to achieve for fairly obvious reasons: If the person picking the Index of Good Companies knew which companies would go up, she’d be managing a hedge fund, not an index. Still, there are temptations. We talked last week about SpaceX’s initial public offering, planned for next month. Three things you might not like about SpaceX are: Its governance. “When SpaceX is public,” I wrote last week , “Elon Musk still gets to run it however he wants, and he can do weird stuff, and you have to trust him, and if you don’t like it you can’t complain.” Basically SpaceX has eliminated all of the main checks on corporate managers — shareholder voting, fiduciary duties — so Musk can operate with a free hand. “The most management-favourable governance structure ever brought to the US public markets at this scale,” some big public pensions called it . Its valuation. Last year , SpaceX lost $4.9 billion on $18.7 billion in revenue; now it is trying to go public at something like 100 times revenue. Seems high! Its float. Right after the initial public offering, SpaceX won’t have very many shares available to buy. It will probably sell on the order of 5% of its stock in the IPO; the rest will be subject to lockups that restrict trading until at least August. [2] Even if you like the company, you might not want to get into a bidding war with Elon Musk fans over its scarce shares. If you are an active investor making decisions about your own portfolio, these reasons might deter you from buying SpaceX stock. Or they might not. It’s a free country! Nobody’s going to force you to buy SpaceX stock. If you are index fund manager, though, somebody — your index provider — might force you to buy SpaceX stock. You might react to that with equanimity: “Well, my job is to buy all the stocks, and SpaceX will be a stock, so here we go.” You might find it upsetting, though. “ I don’t want to sign up for a company where Elon Musk can do whatever he wants,” you might think. Or: “ I don’t want to buy a company at 100x revenue just because the final dumping place...",
       "publishedAt": "2026-05-26T18:31:10.528Z",
       "articleId": "1f8db6fd1203be66"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/quarantine-sentences-to-ponder-that-was-then-this-is-now-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=quarantine-sentences-to-ponder-that-was-then-this-is-now-edition",
-      "title": "Quarantine sentences to ponder, that was then this is now edition…",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/quarantine-sentences-to-ponder-that-was-then-this-is-now-edition.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Trump administration officials, confronted by overlapping outbreaks of Ebola and the hantavirus, have taken a more aggressive approach to locking down potentially exposed people than in past outbreaks, surprising many public health experts&#8230; Dr. Jay Bhattacharya, acting director of the Centers for Disease Control and Prevention, drew notice during the Covid-19 pandemic for suggesting that [&#8230;] The post Quarantine sentences to ponder, that was then this is now edition&#8230; appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-26T17:53:24.000Z",
-      "articleId": "1cac87ca5375256e"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/americas-national-style-is-hiding",
@@ -1181,17 +1203,6 @@
       "summary": "...",
       "publishedAt": "2026-05-13T12:16:41.000Z",
       "articleId": "3b76f8e1a22fdeb5"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
-      "title": "The Deployment Company, Back to the 70s, Apple and Intel",
-      "url": "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "OpenAI is forming a new company to deploy AI, and the other labs aren't far behind, reinforcing the thesis that AI's impact will require top-down implementation. Then, Apple has economic reasons to work with Intel.",
-      "publishedAt": "2026-05-13T10:00:00.000Z",
-      "articleId": "73f7949394039a8a"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/trump-actually-started-to-decouple",
