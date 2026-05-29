@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-29T04:39:13.606Z",
-  "fetchedAt": "2026-05-29T04:39:13.597Z",
+  "generatedAt": "2026-05-29T08:50:02.210Z",
+  "fetchedAt": "2026-05-29T08:50:02.205Z",
   "sourceCount": 21,
-  "itemCount": 151,
+  "itemCount": 152,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/book-review-the-dialectical-imagination",
+      "title": "Book Review: The Dialectical Imagination",
+      "url": "https://www.astralcodexten.com/p/book-review-the-dialectical-imagination",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-05-29T08:14:27.000Z",
+      "articleId": "2778e8d8da1ac57b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/are-we-undermeasuring-inflation-for-lower-earners.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-undermeasuring-inflation-for-lower-earners",
+      "title": "Are we undermeasuring inflation for lower earners?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/are-we-undermeasuring-inflation-for-lower-earners.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We document a new source of fluctuations in inflation inequality. When the cost of upstream inputs rises, varieties within a product category tend to have similar absolute price increases. However, the same absolute price increase constitutes a larger percentage change for low-price products, resulting in excess inflation at the low end (“cheapflation”). Since low-income households [&#8230;] The post Are we undermeasuring inflation for lower earners? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-29T06:50:42.000Z",
+      "articleId": "884bab9711e71ef9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/how-much-has-shale-gas-saved-u-s-consumers.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-has-shale-gas-saved-u-s-consumers",
+      "title": "How Much Has Shale Gas Saved U.S. Consumers?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/how-much-has-shale-gas-saved-u-s-consumers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It may seem like a distant memory now, but as of the mid-2000s, U.S. natural gas production had been flat for a decade, and the U.S. was importing liquefied natural gas (LNG), with plans to import much more. Then shale gas happened. Advances in hydraulic fracturing and horizontal drilling caused U.S. natural gas production to [&#8230;] The post How Much Has Shale Gas Saved U.S. Consumers? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-29T04:46:21.000Z",
+      "articleId": "643d32b7ade2a04f"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/claude-lemieux-was-a-good-player",
       "title": "Claude Lemieux Was a Good Player Who Turned Great For the Playoffs",
@@ -455,28 +488,6 @@
       "summary": "Nvidia is changing its reporting to delineate between hyperscaler sales — where Nvidia is fighting commoditization — and everyone else, where Nvidia runs the whole stack.",
       "publishedAt": "2026-05-26T10:00:00.000Z",
       "articleId": "9582ccaf165bd100"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html?utm_source=rss&utm_medium=rss&utm_campaign=the-corporate-tax-rate-really-matters",
-      "title": "The corporate tax rate really matters",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Three findings emerge. First, improvements in aggregate tax competitiveness are positively and significantly associated with real GDP per capita growth, robust to a wide range of controls. Second, this aggregate effect is driven entirely by the corporate tax pillar; no other component displays a significant growth effect. Third, the corporate tax effect materializes contemporaneously and [&#8230;] The post The corporate tax rate really matters appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-26T07:51:18.000Z",
-      "articleId": "d2d06a9b55545067"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-289.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-289",
-      "title": "What I’ve been reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-ive-been-reading-289.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Paul Mendes-Flohr, Martin Buber: A Life of Faith and Dissent. A beautifully written, first-rate intellectual biography of Buber. It is hard to imagine finding a better book on him. 2. Robert C. Austin and Artan R. Hoxha, Enver Hoxha: Twentieth-Century Tyrant. How did this strange story end up happening? This book offers the best [&#8230;] The post What I&#8217;ve been reading appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-26T04:48:40.000Z",
-      "articleId": "68ab2ed827847728"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
