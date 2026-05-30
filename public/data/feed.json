@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-05-30T10:12:32.409Z",
-  "fetchedAt": "2026-05-30T10:12:32.404Z",
+  "generatedAt": "2026-05-30T12:13:44.277Z",
+  "fetchedAt": "2026-05-30T12:13:44.270Z",
   "sourceCount": 21,
-  "itemCount": 155,
+  "itemCount": 156,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-053026",
+      "title": "Reading List 05/30/26",
+      "url": "https://www.construction-physics.com/p/reading-list-053026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A California chemical leak, weapons-grade plutonium for nuclear reactor startups, a startup that will clean your house to get robot training data, Blue Origin&#8217;s rocket explosion, and more.",
+      "publishedAt": "2026-05-30T12:02:52.000Z",
+      "articleId": "23baf9d852bb4147"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/80000-hours-the-book.html?utm_source=rss&utm_medium=rss&utm_campaign=80000-hours-the-book",
+      "title": "80,000 Hours: The Book",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/80000-hours-the-book.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Forty hours a week, fifty weeks a year, forty years: a career is about 80,000 hours. Yet it&#8217;s striking how little serious thought goes into career decisions relative to, say, choosing a mortgage. Indeed, you are almost supposed to tell a story about how a random incident changed your life. One summer a circus came [&#8230;] The post 80,000 Hours: The Book appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-30T11:16:52.000Z",
+      "articleId": "340aa2036cde2fac"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/30/opinion/murder-crime-rate-america.html",
+      "title": "The Best News in America",
+      "url": "https://www.nytimes.com/2026/05/30/opinion/murder-crime-rate-america.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "A low murder rate is by no means the only measure of a good society. But it’s a pretty good measure of a society’s underlying stability.",
+      "publishedAt": "2026-05-30T11:00:16.000Z",
+      "articleId": "d20a1bb796b7392f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/how-to-improve-british-procurement.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-improve-british-procurement",
       "title": "How to improve British procurement",
@@ -477,17 +510,6 @@
       "summary": "Malaria is caused not by a virus or bacterium, but by a complex, shape-shifting parasite that has evolved alongside us for millennia. This has made vaccine development a brutal challenge.",
       "publishedAt": "2026-05-27T08:01:55.000Z",
       "articleId": "e401488417981949"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=seven-ways-to-avoid-losing-your-job-to-ai",
-      "title": "Seven ways to avoid losing your job to AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the theme of my latest Free Press column, here is one excerpt: Principle five: Run experiments. This is a more general version of the healthcare point. AI will generate so many new ideas and hypotheses, including for drugs and medical devices, but not only. Become a tester. Test new battery designs, new educational techniques, [&#8230;] The post Seven ways to avoid losing your job to AI appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-27T05:54:07.000Z",
-      "articleId": "639b2f473f6eab0b"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/use-ai-this-election",
@@ -1698,17 +1720,6 @@
       "summary": "Welcome back to Can&#8217;t Get Much Higher, the internet&#8217;s favorite place for music and data.",
       "publishedAt": "2026-04-30T17:30:52.000Z",
       "articleId": "98c936ab0171325d"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "title": "How an Oil Refinery Works",
-      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Though wind and solar continue to carve out larger and larger shares of world energy supply, the modern world still runs on petroleum, and will continue to do so for the foreseeable future.",
-      "publishedAt": "2026-04-30T12:03:35.000Z",
-      "articleId": "6dd71529fed02dcb"
     }
   ],
   "sources": [
@@ -1851,10 +1862,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
