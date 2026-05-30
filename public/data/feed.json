@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-30T12:13:44.277Z",
-  "fetchedAt": "2026-05-30T12:13:44.270Z",
+  "generatedAt": "2026-05-30T14:46:20.456Z",
+  "fetchedAt": "2026-05-30T14:46:20.451Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 763,
+  "totalItemCount": 759,
   "items": [
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-053026",
@@ -1774,10 +1774,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 6,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -1798,10 +1798,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Noahpinion",
@@ -1862,10 +1862,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
