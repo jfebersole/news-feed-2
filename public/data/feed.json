@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-30T16:13:54.694Z",
-  "fetchedAt": "2026-05-30T16:13:54.690Z",
+  "generatedAt": "2026-05-30T18:14:05.326Z",
+  "fetchedAt": "2026-05-30T18:14:05.320Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 753,
+  "itemCount": 154,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-563",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Which foreign food chains have made it in NYC? 2. Testing products on AI-generated buyers. 3. Are Vatican pronouncements rising in status? 4. A saner Argentina take. I notice that PTDS is spreading. 5. Yupsy-dupsy. 6. Japan lost three million people over the last five years (NYT). 7. The most 2020s art ever? The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-30T16:21:20.000Z",
+      "articleId": "7687fa560c7e1017"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-053026",
       "title": "Reading List 05/30/26",
@@ -457,17 +468,6 @@
       "articleId": "799ee65b810f864b"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-555",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. As meat prices rise, the economics of Texas barbecue. 2. Economic historian Eric Jones has passed away. 3. Claims about the Pope and Claude. If true, further evidence for my Straussian hypothesis. 4. Koyama reviews Tyler Goodspeed on business cycles. 5. &#8220;Chinese battery manufacturer Calb has broken ground on a €2 Billion gigafactory in [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-27T15:19:16.000Z",
-      "articleId": "b4a77e5e06174a64"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/time-to-freak-out-about-the-national",
       "title": "Time to freak out about the national debt",
       "url": "https://www.slowboring.com/p/time-to-freak-out-about-the-national",
@@ -906,17 +906,6 @@
       "summary": "Lessons from sports fandom on why traditions fade.",
       "publishedAt": "2026-05-20T14:35:01.000Z",
       "articleId": "4ca1d875ca93bcfd"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/we-can-fix-the-trumpwarren-build",
-      "title": "We can fix the Trump/Warren build-to-rent ban",
-      "url": "https://www.slowboring.com/p/we-can-fix-the-trumpwarren-build",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The House of Representatives to the rescue?",
-      "publishedAt": "2026-05-20T10:03:20.000Z",
-      "articleId": "1aefe3ecb8becaa3"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/",
@@ -1709,17 +1698,6 @@
       "summary": "...",
       "publishedAt": "2026-04-30T23:11:09.000Z",
       "articleId": "62fc3d102623ac0d"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/ai-companies-cant-stop-infringing",
-      "title": "AI Companies Can't Stop Stealing Music",
-      "url": "https://www.cantgetmuchhigher.com/p/ai-companies-cant-stop-infringing",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Welcome back to Can&#8217;t Get Much Higher, the internet&#8217;s favorite place for music and data.",
-      "publishedAt": "2026-04-30T17:30:52.000Z",
-      "articleId": "98c936ab0171325d"
     }
   ],
   "sources": [
@@ -1734,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1815,7 +1793,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 12,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
