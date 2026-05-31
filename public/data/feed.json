@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-31T16:21:11.454Z",
-  "fetchedAt": "2026-05-31T16:21:11.449Z",
+  "generatedAt": "2026-05-31T18:15:24.134Z",
+  "fetchedAt": "2026-05-31T18:15:24.129Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 762,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-496",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-496",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-05-31T17:02:10.000Z",
+      "articleId": "2cfc9cb0bdc3d98a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/a-new-american-exceptionalism.html?utm_source=rss&utm_medium=rss&utm_campaign=a-new-american-exceptionalism",
       "title": "A new American exceptionalism?",
@@ -1687,17 +1698,6 @@
       "summary": "The Democrats’ fundamental condition is a late-Trumpian stasis.",
       "publishedAt": "2026-05-02T11:00:18.000Z",
       "articleId": "a91f97b632ed3567"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/monetary-policy-and-libertarianism",
-      "title": "Monetary policy and libertarianism",
-      "url": "https://scottsumner.substack.com/p/monetary-policy-and-libertarianism",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "More specifically, pragmatic libertarianism",
-      "publishedAt": "2026-05-01T16:47:27.000Z",
-      "articleId": "21072a4a1872103f"
     }
   ],
   "sources": [
@@ -1793,7 +1793,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 13,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
