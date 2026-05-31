@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-31T11:48:43.688Z",
-  "fetchedAt": "2026-05-31T11:48:43.684Z",
+  "generatedAt": "2026-05-31T14:08:41.005Z",
+  "fetchedAt": "2026-05-31T14:08:41.000Z",
   "sourceCount": 21,
   "itemCount": 155,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-the-greatest-punk-album-mailbag",
+      "title": "What's the Greatest Punk Album? Mailbag",
+      "url": "https://www.cantgetmuchhigher.com/p/whats-the-greatest-punk-album-mailbag",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "This month we dive into questions about Casey Kasem, music gambling, silly 1960s hits, and so much more",
+      "publishedAt": "2026-05-31T13:30:39.000Z",
+      "articleId": "a959971996da21f6"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html",
+      "title": "We Have to Take the Future of A.I. Into Our Own Hands",
+      "url": "https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?",
+      "publishedAt": "2026-05-31T13:09:23.000Z",
+      "articleId": "2c2353a5e157370e"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
       "title": "The Museum of Wretched Ideas Has Reopened",
@@ -15,17 +37,6 @@
       "summary": "We seem to have forgotten more or less everything.",
       "publishedAt": "2026-05-31T11:00:15.000Z",
       "articleId": "c8f89f8c322f272e"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html",
-      "title": "We Have to Take the Future of A.I. Into Our Own Hands",
-      "url": "https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?",
-      "publishedAt": "2026-05-31T11:00:13.000Z",
-      "articleId": "2c2353a5e157370e"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-way-we-treat-pigs-is-a-sin",
@@ -1698,17 +1709,6 @@
       "summary": "What should we do when a chatbot behaves like a criminal?",
       "publishedAt": "2026-05-01T14:54:51.000Z",
       "articleId": "a381b8c5d9135d95"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/one-week-left-to-apply-for-invisible",
-      "title": "One week left to apply for Invisible College 2026",
-      "url": "https://www.worksinprogress.news/p/one-week-left-to-apply-for-invisible",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Our residential seminar for 18&#8211;22 year olds was such a success that we are running it again. Apply this week or forever hold your peace.",
-      "publishedAt": "2026-05-01T13:13:46.000Z",
-      "articleId": "a5f1acc8a94c6416"
     }
   ],
   "sources": [
