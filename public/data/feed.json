@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-31T14:08:41.005Z",
-  "fetchedAt": "2026-05-31T14:08:41.000Z",
+  "generatedAt": "2026-05-31T16:21:11.454Z",
+  "fetchedAt": "2026-05-31T16:21:11.449Z",
   "sourceCount": 21,
-  "itemCount": 155,
+  "itemCount": 154,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/a-new-american-exceptionalism.html?utm_source=rss&utm_medium=rss&utm_campaign=a-new-american-exceptionalism",
+      "title": "A new American exceptionalism?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-new-american-exceptionalism.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Paul Krugman: Let me be clear: I am not arguing that European productivity is mismeasured, and never said that. I am, instead, arguing that standard measures of productivity do not have the implications for cross-country comparisons of living standards and economic welfare that many people – including many economists – think they have. To put it [&#8230;] The post A new American exceptionalism? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-05-31T15:51:11.000Z",
+      "articleId": "0dee892c703ca3fe"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
+      "title": "The Museum of Wretched Ideas Has Reopened",
+      "url": "https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "We seem to have forgotten more or less everything.",
+      "publishedAt": "2026-05-31T15:06:24.000Z",
+      "articleId": "c8f89f8c322f272e"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-the-greatest-punk-album-mailbag",
       "title": "What's the Greatest Punk Album? Mailbag",
@@ -26,17 +48,6 @@
       "summary": "We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?",
       "publishedAt": "2026-05-31T13:09:23.000Z",
       "articleId": "2c2353a5e157370e"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
-      "title": "The Museum of Wretched Ideas Has Reopened",
-      "url": "https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "We seem to have forgotten more or less everything.",
-      "publishedAt": "2026-05-31T11:00:15.000Z",
-      "articleId": "c8f89f8c322f272e"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-way-we-treat-pigs-is-a-sin",
@@ -411,17 +422,6 @@
       "summary": "Over the last few months we&#8217;ve examined the extent of the construction industry&#8217;s productivity problem.",
       "publishedAt": "2026-05-28T12:03:26.000Z",
       "articleId": "767984ae3ebbd84b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html?utm_source=rss&utm_medium=rss&utm_campaign=doc-in-a-box",
-      "title": "Doc in a Box",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The first review of the pilot for AI prescriptions refills in Utah is out and it looks very reasonable. In the 72% of cases where the AI recommend a refill at least one of two physicians agreed in 97% of cases. In the 28% of Cases Where the AI Escalated to a Physician Without Recommending [&#8230;] The post Doc in a Box appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-28T11:17:45.000Z",
-      "articleId": "a7b525ce9edcf148"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/union-enthusiasts-should-support",
@@ -1698,17 +1698,6 @@
       "summary": "More specifically, pragmatic libertarianism",
       "publishedAt": "2026-05-01T16:47:27.000Z",
       "articleId": "21072a4a1872103f"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
-      "title": "There’s a 900-Year-Old Answer to Our Most Modern Problem",
-      "url": "https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "What should we do when a chatbot behaves like a criminal?",
-      "publishedAt": "2026-05-01T14:54:51.000Z",
-      "articleId": "a381b8c5d9135d95"
     }
   ],
   "sources": [
