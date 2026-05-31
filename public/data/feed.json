@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-31T20:19:28.687Z",
-  "fetchedAt": "2026-05-31T20:19:28.681Z",
+  "generatedAt": "2026-05-31T22:11:25.896Z",
+  "fetchedAt": "2026-05-31T22:11:25.890Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 763,
+  "totalItemCount": 753,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-returns-to-good-data-are-rising.html?utm_source=rss&utm_medium=rss&utm_campaign=the-returns-to-good-data-are-rising",
@@ -1712,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
