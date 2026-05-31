@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-05-31T09:21:18.133Z",
-  "fetchedAt": "2026-05-31T09:21:18.128Z",
+  "generatedAt": "2026-05-31T11:48:43.688Z",
+  "fetchedAt": "2026-05-31T11:48:43.684Z",
   "sourceCount": 21,
-  "itemCount": 153,
+  "itemCount": 155,
   "totalItemCount": 762,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
+      "title": "The Museum of Wretched Ideas Has Reopened",
+      "url": "https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "We seem to have forgotten more or less everything.",
+      "publishedAt": "2026-05-31T11:00:15.000Z",
+      "articleId": "c8f89f8c322f272e"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html",
+      "title": "We Have to Take the Future of A.I. Into Our Own Hands",
+      "url": "https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?",
+      "publishedAt": "2026-05-31T11:00:13.000Z",
+      "articleId": "2c2353a5e157370e"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-way-we-treat-pigs-is-a-sin",
       "title": "The way we treat pigs is a sin",
