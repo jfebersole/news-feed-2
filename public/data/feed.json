@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-05-31T22:11:25.896Z",
-  "fetchedAt": "2026-05-31T22:11:25.890Z",
+  "generatedAt": "2026-06-01T00:14:35.358Z",
+  "fetchedAt": "2026-06-01T00:14:35.352Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 753,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/seventeen-thoughts-on-graham-platner",
+      "title": "Seventeen thoughts on Graham Platner",
+      "url": "https://www.slowboring.com/p/seventeen-thoughts-on-graham-platner",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Issues still matter, but can he make the case for himself?",
+      "publishedAt": "2026-05-31T22:55:21.000Z",
+      "articleId": "f2e4a643297d0815"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/the-returns-to-good-data-are-rising.html?utm_source=rss&utm_medium=rss&utm_campaign=the-returns-to-good-data-are-rising",
       "title": "The returns to good data are rising",
@@ -908,17 +919,6 @@
       "articleId": "63d6c5901a25737c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-strategic-case-against-chinese",
-      "title": "The strategic case against Chinese EVs",
-      "url": "https://www.slowboring.com/p/the-strategic-case-against-chinese",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Rank protectionism is bad, but America needs an industrial base.",
-      "publishedAt": "2026-05-21T09:02:40.000Z",
-      "articleId": "cccaf7634a90b87f"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-82-staring-in-wonder-at-the",
       "title": "Roundup #82: Staring in wonder at the world",
       "url": "https://www.noahpinion.blog/p/roundup-82-staring-in-wonder-at-the",
@@ -1712,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
