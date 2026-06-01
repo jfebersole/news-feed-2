@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-01T18:47:40.520Z",
-  "fetchedAt": "2026-06-01T18:47:40.515Z",
+  "generatedAt": "2026-06-01T22:16:08.336Z",
+  "fetchedAt": "2026-06-01T22:16:08.332Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 763,
+  "itemCount": 157,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-primaries-are-heating-up",
+      "title": "The primaries are heating up",
+      "url": "https://www.slowboring.com/p/the-primaries-are-heating-up",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Crypto, AIPAC, and Republican maps are stoking the midterms.",
+      "publishedAt": "2026-06-01T22:01:22.000Z",
+      "articleId": "cd5561fe207bfb04"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/were-building-a-different-kind-of",
+      "title": "We're building a different kind of AI newsroom",
+      "url": "https://www.understandingai.org/p/were-building-a-different-kind-of",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Your subscription dollars now directly support Kai Williams.",
+      "publishedAt": "2026-06-01T19:03:42.000Z",
+      "articleId": "4b9a4d45fec10993"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/23iqob960zm3jwkab9w8.html",
       "title": "Money Stuff: The SpaceX Squeeze",
@@ -26,6 +48,17 @@
       "summary": "Our findings suggest that policies intended to subsidize health insurance of higher income groups, for example, the enhanced premium subsidies, are far less efficient than policies intended to further expand public insurance to low-income groups, for example, in non-expansion states. That is from a new NBER working paper by Anuj Gangopadhyaya &#38; Robert Kaestner. The post The chimera of universal coverage in a large, diverse country appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-01T18:18:34.000Z",
       "articleId": "2faf6d0b5d6de5af"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-south-china-shock-and-the-worlds",
+      "title": "The South China shock and the world's biggest rustbelt",
+      "url": "https://scottsumner.substack.com/p/the-south-china-shock-and-the-worlds",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Thoughts on the Chinese economy",
+      "publishedAt": "2026-06-01T17:41:30.000Z",
+      "articleId": "6c7f0169acef0d55"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html",
@@ -199,7 +232,7 @@
       "source": "Ezra Klein (NYT)",
       "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
-      "summary": "We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?",
+      "summary": "We’ve heard a lot about what A.I. can do for businesses, and for individuals, but what about society?",
       "publishedAt": "2026-05-31T13:09:23.000Z",
       "articleId": "2c2353a5e157370e"
     },
@@ -1793,7 +1826,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1840,10 +1873,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
