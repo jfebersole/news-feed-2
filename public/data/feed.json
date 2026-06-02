@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-02T01:35:00.081Z",
-  "fetchedAt": "2026-06-02T01:35:00.075Z",
+  "generatedAt": "2026-06-02T06:53:14.738Z",
+  "fetchedAt": "2026-06-02T06:53:14.733Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 764,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-republic-of-love.html?utm_source=rss&utm_medium=rss&utm_campaign=the-republic-of-love",
+      "title": "*The Republic of Love*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-republic-of-love.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Martha C. Nussbaum, and the subtitle is Opera &#38; Political Freedom. Martha decided she did not wish to do a podcast after all, so since I put some real prep time in I thought I would offer some thoughts on the book directly, in part because it is not receiving substantive reviews [&#8230;] The post *The Republic of Love* appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-02T05:25:46.000Z",
+      "articleId": "2c3e5fa55162f66a"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-primaries-are-heating-up",
       "title": "The primaries are heating up",
@@ -68,7 +79,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "We seem to have forgotten more or less everything.",
-      "publishedAt": "2026-06-01T17:37:59.000Z",
+      "publishedAt": "2026-06-01T17:38:00.000Z",
       "articleId": "c8f89f8c322f272e"
     },
     {
@@ -400,17 +411,6 @@
       "summary": "The best Stratechery content from the week of May 25, 2026, including why everyone hates Luce, how to monetize AI answers, and social mobility in China.",
       "publishedAt": "2026-05-29T17:00:00.000Z",
       "articleId": "da6428d823f19f4b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/what-i-have-been-learning-doing-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=what-i-have-been-learning-doing-new-aesthetics",
-      "title": "What I have been learning doing New Aesthetics",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-i-have-been-learning-doing-new-aesthetics.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Patrick offered his observations here, I will add a few points of my own. I very often think in terms of regions and geographic places. Currently, artistic movements (of most sorts, not just &#8220;New Aesthetics&#8221;) seem to lack a centrality of place. New York City is no longer the center of the art world, high [&#8230;] The post What I have been learning doing New Aesthetics appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-29T15:45:41.000Z",
-      "articleId": "16ed9272828e5995"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-mystery-of-inheritance",
@@ -1743,7 +1743,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
