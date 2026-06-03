@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-03T01:46:45.266Z",
-  "fetchedAt": "2026-06-03T01:46:45.260Z",
+  "generatedAt": "2026-06-03T07:04:25.850Z",
+  "fetchedAt": "2026-06-03T07:04:25.847Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 763,
+  "itemCount": 160,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/consent-based-laws-and-aggregate-fertility.html?utm_source=rss&utm_medium=rss&utm_campaign=consent-based-laws-and-aggregate-fertility",
+      "title": "Consent-based laws and aggregate fertility",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/consent-based-laws-and-aggregate-fertility.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper examines how expanding the legal definition of sexual assault affects fertility and sexual behavior, using a panel of European countries. I find that switching to tacit consent-based legislation reduces fertility by about 4% relative to the mean. This effect is driven by a decrease in couple formation and an increase in abortion rates. [&#8230;] The post Consent-based laws and aggregate fertility appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-03T05:15:17.000Z",
+      "articleId": "3f229d17f1b246eb"
+    },
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/low-conscientiousness-losers-are",
+      "title": "Low-Conscientiousness Losers Are Bad Senate Candidates",
+      "url": "https://www.joshbarro.com/p/low-conscientiousness-losers-are",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "John Fetterman and Graham Platner both flailed into adulthood, living off their affluent parents while not amounting to much. Why have leftists decided this is a good resume for the U.S. Senate?",
+      "publishedAt": "2026-06-03T04:01:37.000Z",
+      "articleId": "d77899e9d207d7d2"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
       "title": "Graham Platner, Ken Paxton and the Amoral Center",
@@ -422,17 +444,6 @@
       "summary": "A California chemical leak, weapons-grade plutonium for nuclear reactor startups, a startup that will clean your house to get robot training data, Blue Origin&#8217;s rocket explosion, and more.",
       "publishedAt": "2026-05-30T12:02:52.000Z",
       "articleId": "23baf9d852bb4147"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/80000-hours-the-book.html?utm_source=rss&utm_medium=rss&utm_campaign=80000-hours-the-book",
-      "title": "80,000 Hours: The Book",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/80000-hours-the-book.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Forty hours a week, fifty weeks a year, forty years: a career is about 80,000 hours. Yet it&#8217;s striking how little serious thought goes into career decisions relative to, say, choosing a mortgage. Indeed, you are almost supposed to tell a story about how a random incident changed your life. One summer a circus came [&#8230;] The post 80,000 Hours: The Book appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-30T11:16:52.000Z",
-      "articleId": "340aa2036cde2fac"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/30/opinion/murder-crime-rate-america.html",
@@ -1767,10 +1778,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
