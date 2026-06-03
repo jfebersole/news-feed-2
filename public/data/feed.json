@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-06-03T07:04:25.850Z",
-  "fetchedAt": "2026-06-03T07:04:25.847Z",
+  "generatedAt": "2026-06-03T12:06:57.310Z",
+  "fetchedAt": "2026-06-03T12:06:57.306Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 753,
+  "itemCount": 162,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/learning-from-polands-economic-success",
+      "title": "Learning from Poland’s economic success story",
+      "url": "https://www.slowboring.com/p/learning-from-polands-economic-success",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "&#8220;European&#8221; features like universal health care and a high minimum wage are fine.",
+      "publishedAt": "2026-06-03T10:01:18.000Z",
+      "articleId": "0e2d161516c56192"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+      "title": "The Nvidia AI PC, Project Solara, Microsoft AI",
+      "url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The Nvidia AI PC feels like a relic of another AI era; Microsoft's vision for devices at Build was much more compelling.",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "articleId": "08d03e5410e959c8"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-japan-stopped-civil-war",
+      "title": "How Japan stopped civil war",
+      "url": "https://www.worksinprogress.news/p/how-japan-stopped-civil-war",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "For three hundred years, Japan enjoyed enviable stability and peace. All it took was locking up its warlike samurai elite in the world&#8217;s least efficient city.",
+      "publishedAt": "2026-06-03T09:33:48.000Z",
+      "articleId": "223eba9115e26034"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sentences-to-ponder-139.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-139",
+      "title": "Sentences to ponder",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sentences-to-ponder-139.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In 2019, there were about 150,000 people working in autism therapy. Six years later, there were 654,000—more than the number of people who work in mining and logging, or telecommunications, or at the US Postal Service. That is from Derek Thompson. And here is the seven-miinute nap story from the NYT: At Compleat Kidz, a [&#8230;] The post Sentences to ponder appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-03T07:24:54.000Z",
+      "articleId": "25106d25d443e722"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/consent-based-laws-and-aggregate-fertility.html?utm_source=rss&utm_medium=rss&utm_campaign=consent-based-laws-and-aggregate-fertility",
       "title": "Consent-based laws and aggregate fertility",
@@ -422,17 +466,6 @@
       "summary": "Since the Eisenhower administration, the U.S. hasn’t collected comprehensive statistics on the number of citizens leaving. Yet data on residence permits, foreign home purchases, student enrollments and other metrics from more than 50 countries show that Americans are voting with their feet to an unprecedented degree. A millions-strong diaspora is studying, telecommuting and retiring overseas. [&#8230;] The post Lifestyle and living standards arbitrage appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-05-31T05:13:38.000Z",
       "articleId": "35d90866c28e54fb"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-563",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Which foreign food chains have made it in NYC? 2. Testing products on AI-generated buyers. 3. Are Vatican pronouncements rising in status? 4. A saner Argentina take. I notice that PTDS is spreading. 5. Yupsy-dupsy. 6. Japan lost three million people over the last five years (NYT). 7. The most 2020s art ever? The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-05-30T16:21:20.000Z",
-      "articleId": "7687fa560c7e1017"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-053026",
@@ -1183,17 +1216,6 @@
       "articleId": "56b332e232769a92"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
-      "title": "Data Center Discontent, Understanding the Opposition, Fixing the Problem",
-      "url": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "There are understandable reasons for people to oppose data centers; the only solution that will work is simply paying them off.",
-      "publishedAt": "2026-05-18T10:00:00.000Z",
-      "articleId": "4b33e1ee5bc707a5"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/what-are-the-best-acoustic-guitar",
       "title": "What are the Best Acoustic Guitar Solos? Link Drop",
       "url": "https://www.cantgetmuchhigher.com/p/what-are-the-best-acoustic-guitar",
@@ -1859,7 +1881,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
