@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-02T23:06:54.266Z",
-  "fetchedAt": "2026-06-02T23:06:54.261Z",
+  "generatedAt": "2026-06-03T01:46:45.266Z",
+  "fetchedAt": "2026-06-03T01:46:45.260Z",
   "sourceCount": 21,
   "itemCount": 159,
-  "totalItemCount": 753,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
@@ -1767,10 +1767,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
