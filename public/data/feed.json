@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T21:51:55.955Z",
-  "fetchedAt": "2026-06-04T21:51:55.950Z",
+  "generatedAt": "2026-06-04T23:21:37.278Z",
+  "fetchedAt": "2026-06-04T23:21:37.275Z",
   "sourceCount": 21,
   "itemCount": 164,
-  "totalItemCount": 766,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
@@ -59,6 +59,17 @@
       "summary": "Because I'm getting married this weekend",
       "publishedAt": "2026-06-04T17:31:08.000Z",
       "articleId": "e811f5a2f8faa21b"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-world-is-bigger-than-you-can",
+      "title": "The world is bigger than you can imagine",
+      "url": "https://scottsumner.substack.com/p/the-world-is-bigger-than-you-can",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Why it is difficult to evaluate an economy",
+      "publishedAt": "2026-06-04T16:44:20.000Z",
+      "articleId": "3fff8344185f255b"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/0b90sncfvqwyt6p9lgr1.html",
@@ -433,17 +444,6 @@
       "summary": "It&#8217;s been a great generation to have started out rich.",
       "publishedAt": "2026-06-02T10:02:23.000Z",
       "articleId": "5c95730ee83dbc5b"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-2026-stanley-cup-final-is-about",
-      "title": "The 2026 Stanley Cup Final Is About Who Can Outrun Regression",
-      "url": "https://neilpaine.substack.com/p/the-2026-stanley-cup-final-is-about",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Vegas and Carolina have plenty of true stars. But the Cup may be decided by the players whose playoff runs have already exceeded expectations.",
-      "publishedAt": "2026-06-02T10:02:00.000Z",
-      "articleId": "1be711ae38ebad49"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-google-capital-company/",
@@ -1887,7 +1887,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
