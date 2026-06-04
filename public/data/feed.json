@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-03T21:28:12.760Z",
-  "fetchedAt": "2026-06-03T21:28:12.755Z",
+  "generatedAt": "2026-06-03T23:58:43.115Z",
+  "fetchedAt": "2026-06-03T23:58:43.110Z",
   "sourceCount": 21,
   "itemCount": 163,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-housing-regulator-is-now-also",
+      "title": "The housing regulator is now also the spymaster",
+      "url": "https://www.slowboring.com/p/the-housing-regulator-is-now-also",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus a $6.8 billion bet on homebuilding, $70,000 in Chicago grants, and what sex toy data tells us about the affordability crisis",
+      "publishedAt": "2026-06-03T22:01:40.000Z",
+      "articleId": "bb60eb82733e286d"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7n2szb884se3v99db1kb.html",
       "title": "Money Stuff: Opting Out of the AI Boom",
@@ -919,17 +930,6 @@
       "articleId": "250f5f8e4011119b"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-man-behind-memorial-day",
-      "title": "The man behind Memorial Day",
-      "url": "https://www.slowboring.com/p/the-man-behind-memorial-day",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A John Logan appreciation post",
-      "publishedAt": "2026-05-25T10:02:37.000Z",
-      "articleId": "e8a164a359fe06ec"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-you-tired-of-the-trump-era-yet",
       "title": "Are you tired of the Trump era yet?",
       "url": "https://www.noahpinion.blog/p/are-you-tired-of-the-trump-era-yet",
@@ -1811,10 +1811,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
