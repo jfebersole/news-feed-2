@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-06-04T16:27:57.512Z",
-  "fetchedAt": "2026-06-04T16:27:57.507Z",
+  "generatedAt": "2026-06-04T19:29:50.020Z",
+  "fetchedAt": "2026-06-04T19:29:50.013Z",
   "sourceCount": 21,
   "itemCount": 164,
   "totalItemCount": 756,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/04/opinion/hacks-friendship-comedians-relationships.html",
+      "title": "‘Hacks’ Is One of the Best Shows About Friendship I’ve Ever Seen",
+      "url": "https://www.nytimes.com/2026/06/04/opinion/hacks-friendship-comedians-relationships.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Two comedians walk into a … friendship.",
+      "publishedAt": "2026-06-04T18:34:34.000Z",
+      "articleId": "92a8b1ddfdd64685"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pivg3kjn8pyugvjo7uat.html",
+      "title": "Money Stuff: Get Your SpaceX Bets in Now",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pivg3kjn8pyugvjo7uat.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Perps, prime, Santos, Frec. View in browser Pre-IPO perpetual futures A lot of people want to bet on SpaceX’s stock. A lot of other people want to bet against SpaceX’s stock. In approximately one week, the people who want to bet on SpaceX will be able to do so to their hearts’ content: SpaceX will be publicly traded, albeit with a fairly low float, and you’ll be able to buy as much as you want at some price. People who want to bet against SpaceX will also get more or less what they want at more or less the same time: Once SpaceX is public, you will be able to borrow shares and sell them short . On the other hand: A week is a long time, there will be a lot of SpaceX news in the next week, and a lot of people want to get their bets in now . Even in a week, not everyone who wants to bet on, or especially against , SpaceX will get exactly what they want. The supply of shares to borrow (for short selling) might be tight and expensive. Many current shareholders — employees, venture investors, special purpose vehicles — have lockup agreements that prevent them from selling their stock, or selling short to hedge, for months after the IPO. [1] A more freewheeling, general-purpose way to bet against SpaceX stock might fill a need even once SpaceX is public. Also, a more freewheeling, general-purpose way to bet against SpaceX might help people who want to bet on SpaceX, by creating more supply. The expectation now is that SpaceX will go public with a $1.77 trillion market capitalization but a free float — shares available to buy on the market — of only $75 billion. The rest of the stock will be locked up for at least several months. There could be, as it were, a bit of a squeeze to get into the stock : SpaceX’s market value will represent on the order of 2% to 3% of the entire US stock market , but its available float will be something like 0.1% of the market. If everyone wants to own SpaceX in proportion to its market weight, they won’t be able to; if they try, they will push up the price. But if, instead, they can buy SpaceX stock from people who want to bet against it — if the people betting against it could create new synthetic shares — then the supply squeeze would be eased. A major theme of this column over the past year has been : That’s coming. Historically, a lot of people have had thoughts of the form “I would like to bet on the stocks of hot private startups,” and of the form “I would like to bet against the stocks of hot private startups.” Occasionally they have even launched public exchanges to facilitate it: You set up a website, people who want to bet on or against a startup can show up, and the website can pair them off against each other and facilitate their bets. Historically the problem with this is that it is illegal under US...",
+      "publishedAt": "2026-06-04T18:17:54.936Z",
+      "articleId": "c1d09b7e18eb1971"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-twenty-minute-ai-talk-for-the-swedish-company-sana.html?utm_source=rss&utm_medium=rss&utm_campaign=my-twenty-minute-ai-talk-for-the-swedish-company-sana",
+      "title": "My twenty-minute AI talk for the Swedish company Sana",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-twenty-minute-ai-talk-for-the-swedish-company-sana.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The post My twenty-minute AI talk for the Swedish company Sana appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-04T17:49:53.000Z",
+      "articleId": "7b19a4b4b2baa45e"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/weddings-wedding-songs-etc",
+      "title": "Weddings, Wedding Songs, Etc.",
+      "url": "https://www.cantgetmuchhigher.com/p/weddings-wedding-songs-etc",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Because I'm getting married this weekend",
+      "publishedAt": "2026-06-04T17:31:08.000Z",
+      "articleId": "e811f5a2f8faa21b"
+    },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/0b90sncfvqwyt6p9lgr1.html",
       "title": "The Brew Shop - Weekly Email Update",
@@ -37,17 +81,6 @@
       "summary": "Many folks, including me, have observed that it seems to take much longer to build infrastructure in the US than it used to.",
       "publishedAt": "2026-06-04T15:24:24.000Z",
       "articleId": "fe434eea1f4db48b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/04/opinion/hacks-friendship-comedians-relationships.html",
-      "title": "Two Comedians Walk Into a … Friendship",
-      "url": "https://www.nytimes.com/2026/06/04/opinion/hacks-friendship-comedians-relationships.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "I just realized why I liked ‘Hacks’ so much.",
-      "publishedAt": "2026-06-04T14:36:37.000Z",
-      "articleId": "92a8b1ddfdd64685"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7331851/2026/06/04/ny-giants-odell-beckham-otas/",
@@ -523,17 +556,6 @@
       "articleId": "d5c7712404aa0345"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/europe-demands-family-dynasties.html?utm_source=rss&utm_medium=rss&utm_campaign=europe-demands-family-dynasties",
-      "title": "Europe Demands Family Dynasties",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/europe-demands-family-dynasties.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In the US, someone with wealth is free to give it away more or less as they see fit (spousal claims excepted, which partly reflect marital co-ownership). In much of Europe, however, there is forced heirship&#8211;a large fraction of wealth must be handed down to children which makes it harder to direct large portions of [&#8230;] The post Europe Demands Family Dynasties appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-01T11:17:12.000Z",
-      "articleId": "0f50239d06c8b1cb"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/james-talarico-has-an-obligation",
       "title": "James Talarico has an obligation to win",
       "url": "https://www.slowboring.com/p/james-talarico-has-an-obligation",
@@ -950,17 +972,6 @@
       "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
       "publishedAt": "2026-05-26T19:56:01.000Z",
       "articleId": "575c7b4c2c43367c"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/8xf53vgp2ihlw2vojpch.html",
-      "title": "Money Stuff: Index Funds Can’t Say No to SpaceX",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/8xf53vgp2ihlw2vojpch.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Carbon, Survivor, Tatis, lists, books. View in browser SpaceX and passives The basic idea of index investing is that you are not smarter than the market, so you should just buy whatever stocks the market tells you are good. It is a discipline of self-effacement, but it is hard. “The market is stupid,” you will occasionally think, and then what? The most straightforward form of indexing is that you invest in all of the public companies in proportion to their size, but the best form of indexing would clearly be “you invest in all of the good public companies in proportion to how much they will go up.” Like if there were an Index of Good Companies, you’d rather buy that than the Index of All the Companies. [1] This is hard to achieve for fairly obvious reasons: If the person picking the Index of Good Companies knew which companies would go up, she’d be managing a hedge fund, not an index. Still, there are temptations. We talked last week about SpaceX’s initial public offering, planned for next month. Three things you might not like about SpaceX are: Its governance. “When SpaceX is public,” I wrote last week , “Elon Musk still gets to run it however he wants, and he can do weird stuff, and you have to trust him, and if you don’t like it you can’t complain.” Basically SpaceX has eliminated all of the main checks on corporate managers — shareholder voting, fiduciary duties — so Musk can operate with a free hand. “The most management-favourable governance structure ever brought to the US public markets at this scale,” some big public pensions called it . Its valuation. Last year , SpaceX lost $4.9 billion on $18.7 billion in revenue; now it is trying to go public at something like 100 times revenue. Seems high! Its float. Right after the initial public offering, SpaceX won’t have very many shares available to buy. It will probably sell on the order of 5% of its stock in the IPO; the rest will be subject to lockups that restrict trading until at least August. [2] Even if you like the company, you might not want to get into a bidding war with Elon Musk fans over its scarce shares. If you are an active investor making decisions about your own portfolio, these reasons might deter you from buying SpaceX stock. Or they might not. It’s a free country! Nobody’s going to force you to buy SpaceX stock. If you are index fund manager, though, somebody — your index provider — might force you to buy SpaceX stock. You might react to that with equanimity: “Well, my job is to buy all the stocks, and SpaceX will be a stock, so here we go.” You might find it upsetting, though. “ I don’t want to sign up for a company where Elon Musk can do whatever he wants,” you might think. Or: “ I don’t want to buy a company at 100x revenue just because the final dumping place...",
-      "publishedAt": "2026-05-26T18:31:10.528Z",
-      "articleId": "1f8db6fd1203be66"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/americas-national-style-is-hiding",
@@ -1797,17 +1808,6 @@
       "summary": "With Ukraine, you can glimpse the shape of success.",
       "publishedAt": "2026-05-05T21:00:04.000Z",
       "articleId": "de35d1b00c2128bc"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/immigration-and-assimilation",
-      "title": "Immigration and Assimilation",
-      "url": "https://walkingtheworld.substack.com/p/immigration-and-assimilation",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Thick and thin culture, imagined communities, and what is a nation?",
-      "publishedAt": "2026-05-05T19:27:38.000Z",
-      "articleId": "eb55a223a8bb3e42"
     }
   ],
   "sources": [
