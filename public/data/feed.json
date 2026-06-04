@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-04T19:29:50.020Z",
-  "fetchedAt": "2026-06-04T19:29:50.013Z",
+  "generatedAt": "2026-06-04T21:51:55.955Z",
+  "fetchedAt": "2026-06-04T21:51:55.950Z",
   "sourceCount": 21,
   "itemCount": 164,
-  "totalItemCount": 756,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+      "title": "Co-Existence and the End of Co-Intelligence",
+      "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Also: how pitch a book to an AI!",
+      "publishedAt": "2026-06-04T21:13:42.000Z",
+      "articleId": "8f2641506fcba087"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/04/opinion/hacks-friendship-comedians-relationships.html",
       "title": "‘Hacks’ Is One of the Best Shows About Friendship I’ve Ever Seen",
@@ -1797,17 +1808,6 @@
       "summary": "What's really needed is humility.",
       "publishedAt": "2026-05-06T06:08:15.000Z",
       "articleId": "9e00a74a7f092586"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
-      "title": "Trump’s Ukraine Policy Is Succeeding While His Iran Policy Flails",
-      "url": "https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "With Ukraine, you can glimpse the shape of success.",
-      "publishedAt": "2026-05-05T21:00:04.000Z",
-      "articleId": "de35d1b00c2128bc"
     }
   ],
   "sources": [
@@ -1822,10 +1822,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
