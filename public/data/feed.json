@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T19:06:35.563Z",
-  "fetchedAt": "2026-06-05T19:06:35.559Z",
+  "generatedAt": "2026-06-05T20:55:22.468Z",
+  "fetchedAt": "2026-06-05T20:55:22.463Z",
   "sourceCount": 21,
-  "itemCount": 164,
+  "itemCount": 163,
   "totalItemCount": 766,
   "items": [
     {
@@ -1797,17 +1797,6 @@
       "summary": "...",
       "publishedAt": "2026-05-07T06:04:44.000Z",
       "articleId": "8a3604724a986b3b"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists",
-      "title": "I don’t think we are close to “AI scientists”",
-      "url": "https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "Today's AI agents are not designed to extract deep insights from new observations.",
-      "publishedAt": "2026-05-06T20:31:32.000Z",
-      "articleId": "5b50a916102ccced"
     }
   ],
   "sources": [
