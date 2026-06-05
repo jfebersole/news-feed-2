@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-05T12:18:48.397Z",
-  "fetchedAt": "2026-06-05T12:18:48.393Z",
+  "generatedAt": "2026-06-05T16:08:09.372Z",
+  "fetchedAt": "2026-06-05T16:08:09.367Z",
   "sourceCount": 21,
-  "itemCount": 163,
-  "totalItemCount": 765,
+  "itemCount": 165,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/cured-in-china",
+      "title": "The blood cancer that became solvable",
+      "url": "https://www.worksinprogress.news/p/cured-in-china",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Multiple myeloma is brutal. We may finally have a cure, but American regulatory inertia means that it was discovered abroad.",
+      "publishedAt": "2026-06-05T14:53:36.000Z",
+      "articleId": "e36132007cc09118"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-and-alex-speak-to-openai",
       "title": "Tyler and Alex Speak to OpenAI",
@@ -26,6 +37,17 @@
       "summary": "Plus my charity dreams, some oyster salesman, and the use and misuse of political capital",
       "publishedAt": "2026-06-05T10:02:11.000Z",
       "articleId": "74d939367ba6ebbb"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/is-the-us-mens-national-team-finally",
+      "title": "Is the U.S. Men’s National Team Finally Ready for a Breakthrough?",
+      "url": "https://neilpaine.substack.com/p/is-the-us-mens-national-team-finally",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "After years of wondering what was holding American men’s soccer back, the U.S. looks more talented, more connected and more sophisticated than ever. Now it needs a World Cup result to prove it.",
+      "publishedAt": "2026-06-05T10:01:13.000Z",
+      "articleId": "2456682ced625205"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=western-hemisphere-fact-of-the-day",
@@ -68,7 +90,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Two comedians walk into a … friendship.",
-      "publishedAt": "2026-06-04T18:34:34.000Z",
+      "publishedAt": "2026-06-04T18:34:35.000Z",
       "articleId": "92a8b1ddfdd64685"
     },
     {
@@ -1876,7 +1898,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
