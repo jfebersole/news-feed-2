@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-05T20:55:22.468Z",
-  "fetchedAt": "2026-06-05T20:55:22.463Z",
+  "generatedAt": "2026-06-05T22:22:31.444Z",
+  "fetchedAt": "2026-06-05T22:22:31.439Z",
   "sourceCount": 21,
-  "itemCount": 163,
-  "totalItemCount": 766,
+  "itemCount": 162,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-colonial-williamsburg-can-teach",
+      "title": "What Colonial Williamsburg can teach us about the trades revival",
+      "url": "https://www.slowboring.com/p/what-colonial-williamsburg-can-teach",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Everyone is vulnerable except for the mantua-maker.",
+      "publishedAt": "2026-06-05T22:01:46.000Z",
+      "articleId": "85d9b95f51b414b1"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/power-shifts/",
       "title": "2026.23: Power Shifts",
@@ -389,17 +400,6 @@
       "summary": "The Nvidia AI PC feels like a relic of another AI era; Microsoft's vision for devices at Build was much more compelling.",
       "publishedAt": "2026-06-03T10:00:00.000Z",
       "articleId": "08d03e5410e959c8"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-spurs-rebuilt-their-dynasty-in",
-      "title": "The Spurs Rebuilt Their Dynasty in Fast-Forward",
-      "url": "https://neilpaine.substack.com/p/the-spurs-rebuilt-their-dynasty-in",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "San Antonio let one Finals team disappear completely, hit rock-bottom... and then built another around Victor Wembanyama in a hurry.",
-      "publishedAt": "2026-06-03T09:57:50.000Z",
-      "articleId": "95ddbb3b8f9d4cd2"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-japan-stopped-civil-war",
@@ -917,17 +917,6 @@
       "summary": "Policy? Policing? Good luck?",
       "publishedAt": "2026-05-28T09:02:28.000Z",
       "articleId": "ff54c2aaa6774a27"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-21st-century-road-to-housing",
-      "title": "The 21st Century ROAD to Housing Act finally passed the House",
-      "url": "https://www.slowboring.com/p/the-21st-century-road-to-housing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Stripped of its pesky build-to-rent provision, the bill now heads back to the Senate.",
-      "publishedAt": "2026-05-27T22:00:15.000Z",
-      "articleId": "2819eb4ae1da7cce"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
@@ -1811,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1876,7 +1865,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
