@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-05T16:08:09.372Z",
-  "fetchedAt": "2026-06-05T16:08:09.367Z",
+  "generatedAt": "2026-06-05T19:06:35.563Z",
+  "fetchedAt": "2026-06-05T19:06:35.559Z",
   "sourceCount": 21,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/power-shifts/",
+      "title": "2026.23: Power Shifts",
+      "url": "https://stratechery.com/2026/power-shifts/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of June 1, 2026, including Google and Microsoft, YouTubers taking over Hollywood, and a guide to the NBA Finals.",
+      "publishedAt": "2026-06-05T17:00:00.000Z",
+      "articleId": "5f4e0052543c68b3"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-575",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-575.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Rob Wiblin interviews Rohin Shah, who leads AGI alignment/safety at DeepMind. 2. Books Arnold Kling has reread. 3. Wemby and Star Wars. 4. Even (especially?) for ontologists, supply is elastic. 5. SSRN is getting worse. 6. Major layoffs at The New School. 7. New forthcoming Ethan Mollick AI book. 8. &#8220;Scientists at Columbia University [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-05T16:32:16.000Z",
+      "articleId": "12897a19f1ae482b"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/cured-in-china",
       "title": "The blood cancer that became solvable",
@@ -488,17 +510,6 @@
       "summary": "The Giants can’t chase memories. They can’t have any illusions that the highlights of the past will be repeated.",
       "publishedAt": "2026-06-02T13:26:53.000Z",
       "articleId": "10bc8ee0d820dd3a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-us-exports-intelligence.html?utm_source=rss&utm_medium=rss&utm_campaign=the-us-exports-intelligence",
-      "title": "The US Exports Intelligence",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-us-exports-intelligence.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Most Americans work in the service sector so it&#8217;s not surprising that most export-related jobs are in the service sector (The U.S. exports about $2.2 trillion of goods and $1.2 trillion of services, but services are more labor intensive than manufacturing so they support more export jobs per dollar.) Richard Baldwin writes: In 2022, US [&#8230;] The post The US Exports Intelligence appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-02T11:18:39.000Z",
-      "articleId": "23dc2c6636a3200d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-triumph-of-capital",
@@ -1227,17 +1238,6 @@
       "articleId": "53ba05e5741bdb5d"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
-      "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
-      "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
-      "publishedAt": "2026-05-21T10:00:00.000Z",
-      "articleId": "35c0d4bf06623dde"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7293471/2026/05/21/john-harbaugh-giants-front-office-changes-joe-schoen/",
       "title": "Why did John Harbaugh make so few changes to the New York Giants' front office?",
       "url": "https://www.nytimes.com/athletic/7293471/2026/05/21/john-harbaugh-giants-front-office-changes-joe-schoen/",
@@ -1808,17 +1808,6 @@
       "summary": "Today's AI agents are not designed to extract deep insights from new observations.",
       "publishedAt": "2026-05-06T20:31:32.000Z",
       "articleId": "5b50a916102ccced"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-beauty-of-tautologies",
-      "title": "The beauty of tautologies",
-      "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Seeing the world in a new way",
-      "publishedAt": "2026-05-06T17:13:51.000Z",
-      "articleId": "3f7f92001e4acba6"
     }
   ],
   "sources": [
