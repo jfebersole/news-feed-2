@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-05T22:22:31.444Z",
-  "fetchedAt": "2026-06-05T22:22:31.439Z",
+  "generatedAt": "2026-06-06T00:17:45.319Z",
+  "fetchedAt": "2026-06-06T00:17:45.314Z",
   "sourceCount": 21,
   "itemCount": 162,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-colonial-williamsburg-can-teach",
@@ -1800,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
