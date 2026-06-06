@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-06T10:18:16.559Z",
-  "fetchedAt": "2026-06-06T10:18:16.555Z",
+  "generatedAt": "2026-06-06T12:14:08.652Z",
+  "fetchedAt": "2026-06-06T12:14:08.646Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 765,
+  "itemCount": 165,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-060626",
+      "title": "Reading List 06/06/26",
+      "url": "https://www.construction-physics.com/p/reading-list-060626",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Chatbots replacing realtors, Chinese synthetic diamonds, Australian batteries, Meta&#8217;s data center tents, and more",
+      "publishedAt": "2026-06-06T12:02:44.000Z",
+      "articleId": "13808119e74878ea"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html",
+      "title": "When Is It Wrong to Use A.I.?",
+      "url": "https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "How to criticize an inevitable disruption.",
+      "publishedAt": "2026-06-06T11:00:08.000Z",
+      "articleId": "d3046b312aa5f17e"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-1-5-2026",
+      "title": "The Week That Was (June 1-5, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-june-1-5-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-06-06T10:02:02.000Z",
+      "articleId": "15a5d1e83e8042d2"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-europe-should-put-up-trade-barriers",
       "title": "Why Europe should put up trade barriers against Chinese goods",
@@ -1865,7 +1898,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
