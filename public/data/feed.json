@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T05:04:07.003Z",
-  "fetchedAt": "2026-06-06T05:04:06.998Z",
+  "generatedAt": "2026-06-06T08:01:56.130Z",
+  "fetchedAt": "2026-06-06T08:01:56.123Z",
   "sourceCount": 21,
-  "itemCount": 162,
+  "itemCount": 161,
   "totalItemCount": 765,
   "items": [
     {
@@ -1775,17 +1775,6 @@
       "summary": "Mostly not very long",
       "publishedAt": "2026-05-07T15:23:28.000Z",
       "articleId": "61d20435d50caf55"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-everyone-on-taste",
-      "title": "Contra Everyone On Taste",
-      "url": "https://www.astralcodexten.com/p/contra-everyone-on-taste",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-05-07T06:04:44.000Z",
-      "articleId": "8a3604724a986b3b"
     }
   ],
   "sources": [
@@ -1928,18 +1917,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
