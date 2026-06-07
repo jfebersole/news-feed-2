@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-07T14:17:29.139Z",
-  "fetchedAt": "2026-06-07T14:17:29.134Z",
+  "generatedAt": "2026-06-07T16:41:56.897Z",
+  "fetchedAt": "2026-06-07T16:41:56.893Z",
   "sourceCount": 21,
-  "itemCount": 157,
+  "itemCount": 155,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-high-skill-immigration-restrictions-eroded-regional-productivity-evidence-from-the-2017-baha-executive-order.html?utm_source=rss&utm_medium=rss&utm_campaign=how-high-skill-immigration-restrictions-eroded-regional-productivity-evidence-from-the-2017-baha-executive-order",
+      "title": "How High-Skill Immigration Restrictions Eroded Regional Productivity: Evidence from the 2017 BAHA Executive Order",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-high-skill-immigration-restrictions-eroded-regional-productivity-evidence-from-the-2017-baha-executive-order.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper estimates the regional economic impact of high-skill immigration restrictions by analyzing the 2017 &#8220;Buy American, Hire American&#8221; (BAHA) policy as a quasi-experimental policy shock. By significantly tightening H-1B visa adjudication, BAHA caused new employment petition denial rates to double from 7% to 17%, while STEM-specific rejections tripled to 31%. Using a difference-indifferences framework, [&#8230;] The post How High-Skill Immigration Restrictions Eroded Regional Productivity: Evidence from the 2017 BAHA Executive Order appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-07T16:34:40.000Z",
+      "articleId": "4251f374ba10ef3e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/let-me-disinherit-my-children-sil-vous-plait.html?utm_source=rss&utm_medium=rss&utm_campaign=let-me-disinherit-my-children-sil-vous-plait",
       "title": "Let Me Disinherit My Children, S’il vous plaît",
@@ -400,17 +411,6 @@
       "summary": "The struggle against excessive corporate power needs better standard-bearers.",
       "publishedAt": "2026-06-04T05:52:29.000Z",
       "articleId": "b42e40bbaf41bd6f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html?utm_source=rss&utm_medium=rss&utm_campaign=law-professors-prefer-ai-over-peer-answers",
-      "title": "Law professors prefer AI over peer answers",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Large language models (LLMs) are increasingly promoted as educational tutors, yet most evaluations focus on domains with a single ground truth. Many disciplines, however, hinge on judgment: reasoning, weighing ambiguity, and reaching defensible conclusions. Law provides a sharp test. We conducted a blinded evaluation of short-answer tutoring in contracts courses with sixteen U.S. law professors. [&#8230;] The post Law professors prefer AI over peer answers appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-04T05:01:38.000Z",
-      "articleId": "b739739d2a790f4f"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-housing-regulator-is-now-also",
@@ -1709,28 +1709,6 @@
       "summary": "That's probably the wrong question.",
       "publishedAt": "2026-05-09T09:58:53.000Z",
       "articleId": "6762af6252a6b336"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/the-redistricting-loss-means-democrats",
-      "title": "The Redistricting Loss Means Democrats Must Moderate to Win",
-      "url": "https://www.joshbarro.com/p/the-redistricting-loss-means-democrats",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "The way to compensate for a less-favorable map is by winning a larger share of the vote, so Democrats must move closer to the median voter.",
-      "publishedAt": "2026-05-08T15:47:02.000Z",
-      "articleId": "47a0d7b8661cd8c2"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-      "title": "True Believers Blow Trump’s Mind",
-      "url": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Our most transactional president is having trouble processing.",
-      "publishedAt": "2026-05-08T14:37:56.000Z",
-      "articleId": "0f1bbea2a4f957ca"
     }
   ],
   "sources": [
