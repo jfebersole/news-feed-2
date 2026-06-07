@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-07T00:15:44.412Z",
-  "fetchedAt": "2026-06-07T00:15:44.406Z",
+  "generatedAt": "2026-06-07T05:51:37.846Z",
+  "fetchedAt": "2026-06-07T05:51:37.842Z",
   "sourceCount": 21,
   "itemCount": 162,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/why-drugs-are-here-to-stay-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=why-drugs-are-here-to-stay-from-my-email",
+      "title": "Why drugs are here to stay (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/why-drugs-are-here-to-stay-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This is anonymized, I can vouch that the person is very smart and has excellent taste: Some thoughts [referring to my recent Free Press piece on marijuana]. My feeling is that you read quickly enough that I can dump words on you and it will not be an imposition. So I have not really edited [&#8230;] The post Why drugs are here to stay (from my email) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-07T04:25:45.000Z",
+      "articleId": "dbd1f6f232348869"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/is-work-from-home-bad-for-your-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=is-work-from-home-bad-for-your-mental-health",
       "title": "Is work from home bad for your mental health?",
@@ -433,17 +444,6 @@
       "summary": "1. One hundred greatest bird names of all time. 2. The method for counting 52,019 puffins. 3. Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty. Yet a third link from Jodi Ettenberg. 4. Pet Sounds at sixty years. 5. How cowboy culture remade Brazil. 6. Are India&#8217;s gdp [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-03T18:12:41.000Z",
       "articleId": "ef1ca9f843defab6"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/richard-feynmans-formula-for-the-best-holiday-restaurant.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-feynmans-formula-for-the-best-holiday-restaurant",
-      "title": "Richard Feynman’s formula for the best holiday restaurant",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/richard-feynmans-formula-for-the-best-holiday-restaurant.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "According to Feynman’s approach, in this context, people should try a different restaurant each night until they find one that exceeds a particular threshold that reflects a desired quality. In Feynman’s equations this threshold is not fixed. Instead it declines more and more rapidly as the number of days left in the city reduces. In [&#8230;] The post Richard Feynman&#8217;s formula for the best holiday restaurant appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-03T15:59:03.000Z",
-      "articleId": "dd376cd430248423"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-lost-art-of-building-cities",
@@ -1800,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
