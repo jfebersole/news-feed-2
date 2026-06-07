@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T05:51:37.846Z",
-  "fetchedAt": "2026-06-07T05:51:37.842Z",
+  "generatedAt": "2026-06-07T09:32:24.814Z",
+  "fetchedAt": "2026-06-07T09:32:24.809Z",
   "sourceCount": 21,
-  "itemCount": 162,
+  "itemCount": 159,
   "totalItemCount": 755,
   "items": [
     {
@@ -1753,39 +1753,6 @@
       "summary": "Write for Works in Progress.",
       "publishedAt": "2026-05-08T13:30:31.000Z",
       "articleId": "75802e007eae9899"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7262573/2026/05/08/new-york-giants-undrafted-free-agents/",
-      "title": "John Harbaugh has a history of UDFA success stories. Who in this Giants class is next?",
-      "url": "https://www.nytimes.com/athletic/7262573/2026/05/08/new-york-giants-undrafted-free-agents/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "A deeper dive into this year's undrafted free-agent class.",
-      "publishedAt": "2026-05-08T09:30:48.000Z",
-      "articleId": "540ab9f54641512a"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/three-model-organisms-for-taste",
-      "title": "Three Model Organisms For Taste",
-      "url": "https://www.astralcodexten.com/p/three-model-organisms-for-taste",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-05-08T08:50:41.000Z",
-      "articleId": "13124e2dda033b97"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/barack-obama-was-a-successful-president-7bb",
-      "title": "Barack Obama was a successful President",
-      "url": "https://www.noahpinion.blog/p/barack-obama-was-a-successful-president-7bb",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A repost, because I'm annoyed.",
-      "publishedAt": "2026-05-08T06:22:14.000Z",
-      "articleId": "784c387403bbb841"
     }
   ],
   "sources": [
