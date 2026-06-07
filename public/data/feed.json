@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-07T09:32:24.814Z",
-  "fetchedAt": "2026-06-07T09:32:24.809Z",
+  "generatedAt": "2026-06-07T12:01:03.838Z",
+  "fetchedAt": "2026-06-07T12:01:03.833Z",
   "sourceCount": 21,
   "itemCount": 159,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/let-me-disinherit-my-children-sil-vous-plait.html?utm_source=rss&utm_medium=rss&utm_campaign=let-me-disinherit-my-children-sil-vous-plait",
+      "title": "Let Me Disinherit My Children, S’il vous plaît",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/let-me-disinherit-my-children-sil-vous-plait.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Following John Arnold, I posted earlier about how European laws often require wealthy people to give most of their wealth to their children. Here is an example: Pierre-Edouard Sterin, founder of Smartbox and worth about €1.4 billion, told French senators he wants to disinherit his five children and donate everything to charity. French law, under [&#8230;] The post Let Me Disinherit My Children, S&#8217;il vous plaît appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-07T11:12:37.000Z",
+      "articleId": "778ca3d3c45bdf92"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/why-drugs-are-here-to-stay-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=why-drugs-are-here-to-stay-from-my-email",
       "title": "Why drugs are here to stay (from my email)",
@@ -433,17 +444,6 @@
       "summary": "...",
       "publishedAt": "2026-06-03T19:57:08.000Z",
       "articleId": "75d90586e9b1efaa"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-556.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-556",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-556.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. One hundred greatest bird names of all time. 2. The method for counting 52,019 puffins. 3. Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty. Yet a third link from Jodi Ettenberg. 4. Pet Sounds at sixty years. 5. How cowboy culture remade Brazil. 6. Are India&#8217;s gdp [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-03T18:12:41.000Z",
-      "articleId": "ef1ca9f843defab6"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-lost-art-of-building-cities",
@@ -1767,10 +1767,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
