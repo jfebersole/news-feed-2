@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-08T00:19:50.960Z",
-  "fetchedAt": "2026-06-08T00:19:50.956Z",
+  "generatedAt": "2026-06-08T06:06:00.781Z",
+  "fetchedAt": "2026-06-08T06:06:00.775Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/might-ai-hurt-corporate-profits-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=might-ai-hurt-corporate-profits-from-my-email",
+      "title": "Might AI hurt corporate profits? (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/might-ai-hurt-corporate-profits-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Clifford Sosin: I loved your talk about AI and wanted to bounce an idea off you. I think AI may be bad for corporate profit margins. A lot of companies make money because their customers can’t be bothered to monitor them more closely, or to insource something. Customers let the company make some money [&#8230;] The post Might AI hurt corporate profits? (from my email) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-08T05:08:15.000Z",
+      "articleId": "1e5aba8b31d88241"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-570",
       "title": "Sunday assorted links",
@@ -356,17 +367,6 @@
       "summary": "Beckham has the opportunity he craved to end his career on his terms. Now it’s up to him to make the most of it.",
       "publishedAt": "2026-06-04T11:30:00.000Z",
       "articleId": "793c2d13df49677f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/ca-logic.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-logic",
-      "title": "CA Logic",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ca-logic.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In California a 17 year-old can drive a car but can&#8217;t ride alone in an Uber or a Waymo. I long for the days when you could put a kid in the post. We have weakened as a civilization. The post CA Logic appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-04T11:17:23.000Z",
-      "articleId": "9b9a01d15cd4cb44"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/elizabeth-warrens-new-child-care",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
