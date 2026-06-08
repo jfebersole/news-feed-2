@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-08T11:19:51.617Z",
-  "fetchedAt": "2026-06-08T11:19:51.614Z",
+  "generatedAt": "2026-06-08T16:16:01.322Z",
+  "fetchedAt": "2026-06-08T16:16:01.316Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 756,
+  "itemCount": 155,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/virginia-postrel-and-charles-c-mann-have-a-new-podcast.html?utm_source=rss&utm_medium=rss&utm_campaign=virginia-postrel-and-charles-c-mann-have-a-new-podcast",
+      "title": "Virginia Postrel and Charles C. Mann have a new podcast",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/virginia-postrel-and-charles-c-mann-have-a-new-podcast.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Everyday Abundance it is called, self-recommending&#8230;sponsored by the Abundance Institute. The post Virginia Postrel and Charles C. Mann have a new podcast appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-08T13:19:37.000Z",
+      "articleId": "2c95406f8501bbb2"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/hayekian-literary-criticism.html?utm_source=rss&utm_medium=rss&utm_campaign=hayekian-literary-criticism",
       "title": "Hayekian Literary Criticism",
@@ -312,17 +323,6 @@
       "summary": "Overall, the Western Hemisphere now produces more oil than the Middle East did before the crisis. Canada is the world’s fourth-largest oil producer. Brazil produces four times as much oil as Venezuela; and in Guyana, where production began only seven years ago, output almost equals Venezuela’s. In Argentina’s Vaca Muerta region, shale oil production has [&#8230;] The post Western hemisphere fact of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-05T07:28:41.000Z",
       "articleId": "667561a9cb9b5c52"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/rubber-rationing-in-world-war-ii.html?utm_source=rss&utm_medium=rss&utm_campaign=rubber-rationing-in-world-war-ii",
-      "title": "Rubber rationing in World War II",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/rubber-rationing-in-world-war-ii.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "When during the meetings the Americans offered that at most they could convert 15 percent of U.S. auto plants to military production, Beaverbrook replies that 100 percent of British automobile factories had been converted, and encouraged Roosevelt to aim higher. He did, and on January 1 he ordered U.S. auto production halted by late Februrary. [&#8230;] The post Rubber rationing in World War II appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-05T04:41:55.000Z",
-      "articleId": "55d6dc30e0f42f10"
     },
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
@@ -1709,17 +1709,6 @@
       "summary": "The demand for hyper-specific tax exemptions is just a more respectable manifestation of the same impulse that leads people to justify shoplifting.",
       "publishedAt": "2026-05-09T16:36:42.000Z",
       "articleId": "27505fbb9f69c75d"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-05092026",
-      "title": "Reading List 05/09/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-05092026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Trapped buildings, in-home data centers, cardboard military drones, Brightline&#8217;s potential bankruptcy, and more.",
-      "publishedAt": "2026-05-09T12:02:50.000Z",
-      "articleId": "4a60f37721326a35"
     }
   ],
   "sources": [
@@ -1734,16 +1723,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
