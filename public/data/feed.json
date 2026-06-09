@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-09T19:28:26.790Z",
-  "fetchedAt": "2026-06-09T19:28:26.784Z",
+  "generatedAt": "2026-06-09T21:57:32.231Z",
+  "fetchedAt": "2026-06-09T21:57:32.227Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 754,
+  "itemCount": 156,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+      "title": "For America’s 250th, Let’s Get Something Clear About Our National Identity",
+      "url": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Our national identity depends on both ideas and cultural inheritance.",
+      "publishedAt": "2026-06-09T21:00:09.000Z",
+      "articleId": "e74499871e209c7f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-new-mythos-release.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-mythos-release",
+      "title": "The new Mythos release",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-new-mythos-release.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My prompt: Write your own exam question and answer it, for microeconomics. Not a math question, but a high level PhD level question. You will be graded on the quality, interest, and creativity of the question as much as by your answer. The answer. Here is Ethan Mollick on Mythos. The post The new Mythos release appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-09T19:40:29.000Z",
+      "articleId": "1663eca1460cd2dd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-well-does-current-ai-find-errors-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-current-ai-find-errors-in-economics-papers",
       "title": "How well does current AI find errors in economics papers?",
@@ -323,17 +345,6 @@
       "summary": "From the &#8220;Results&#8221; section: Relative to those in nonremotable jobs, workers in remotable jobs spent approximately one additional hour alone per workday after the pandemic. Those in remotable jobs also differentially increased days spent entirely alone and decreased after-work socializing. The rise in isolation was sharpest for those living alone, whose likelihood of spending the [&#8230;] The post Is work from home bad for your mental health? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-06T18:10:13.000Z",
       "articleId": "ba824aefddd2a010"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-564",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-564.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. &#8220;A little noticed thread in @Pontifex encyclical. &#8220;Innovation&#8221; appears at least 15 times.&#8221; Link here. 2. The (other) man who reads books for a living. 3. Did the credibility revolution skip public management? 4. Excellent Scott Sumner post on epistemics. But how do I know it is good? 5. How long does it take to [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-06T16:41:07.000Z",
-      "articleId": "2221e0a9e26cb20b"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-060626",
@@ -1723,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
