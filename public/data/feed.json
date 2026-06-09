@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-08T23:22:26.665Z",
-  "fetchedAt": "2026-06-08T23:22:26.660Z",
+  "generatedAt": "2026-06-09T04:21:00.865Z",
+  "fetchedAt": "2026-06-09T04:21:00.860Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 764,
+  "totalItemCount": 754,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/berkeley-meetup-this-wednesday-77b",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
