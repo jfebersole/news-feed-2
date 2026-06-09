@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-09T12:14:27.390Z",
-  "fetchedAt": "2026-06-09T12:14:27.385Z",
+  "generatedAt": "2026-06-09T16:12:42.905Z",
+  "fetchedAt": "2026-06-09T16:12:42.899Z",
   "sourceCount": 21,
   "itemCount": 156,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-572",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-572.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Birthing a child in South Korea. 2. Those new service sector jobs (NYT). 3. Britain launches AI Economics Institute. 4. House Committee makes effort to speed up clinical trials. 5. Those new manufacturing sector jobs. 6. More comments on phones and fertility. 7. Gordon Wood, RIP (NYT), his books are great. The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-09T15:57:55.000Z",
+      "articleId": "839bcdebc5f0c9db"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/this-year-an-album-a-day",
+      "title": "This Year: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/this-year-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Paul McCartney, Wendy Eisenberg, Violet Grohl, and others",
+      "publishedAt": "2026-06-09T13:30:37.000Z",
+      "articleId": "8ca5faaf90c2b9e5"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/nobody-knows-what-theyre-talking",
       "title": "Nobody knows what they’re talking about on A.I. consciousness",
@@ -334,17 +356,6 @@
       "summary": "There are benefits far beyond protectionism.",
       "publishedAt": "2026-06-06T08:10:50.000Z",
       "articleId": "142f6e594aaf3d85"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/should-you-move-to-argentina-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-move-to-argentina-from-my-email",
-      "title": "Should you move to Argentina? (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/should-you-move-to-argentina-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "My name is Josh Neuman, and I&#8217;m writing from Buenos Aires, Argentina where Peter Thiel&#8217;s move is all over the news here. He lives in [redacted], only a xx minute drive from my own apartment in Recoleta. I want to pitch a piece&#8230;arguing that Thiel is right to be in Argentina, but wrong about why. [&#8230;] The post Should you move to Argentina? (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-06T04:45:01.000Z",
-      "articleId": "e8a9ec76aa16f986"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-colonial-williamsburg-can-teach",
@@ -1709,17 +1720,6 @@
       "summary": "Plus thoughts on monetary policy and the current economy",
       "publishedAt": "2026-05-10T17:55:11.000Z",
       "articleId": "88840d8b1a29f701"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
-      "title": "A Hard Day's Night: A Conversation with Samira Ahmed",
-      "url": "https://www.cantgetmuchhigher.com/p/a-hard-days-night-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Author Samira Ahmed stops by to talk about her latest book about The Beatles first film",
-      "publishedAt": "2026-05-10T13:30:47.000Z",
-      "articleId": "64dcb8421314b922"
     }
   ],
   "sources": [
@@ -1862,10 +1862,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
