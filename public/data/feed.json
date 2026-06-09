@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-09T16:12:42.905Z",
-  "fetchedAt": "2026-06-09T16:12:42.899Z",
+  "generatedAt": "2026-06-09T19:28:26.790Z",
+  "fetchedAt": "2026-06-09T19:28:26.784Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 765,
+  "itemCount": 155,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-well-does-current-ai-find-errors-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-current-ai-find-errors-in-economics-papers",
+      "title": "How well does current AI find errors in economics papers?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-well-does-current-ai-find-errors-in-economics-papers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Can artificial intelligence (AI) refute economic theory? I document experiments in which I asked several AI models (Gemini, Refine, Claude, and ChatGPT) to check the correctness of four published papers in economic theory, each containing an error that I helped identify or correct. ChatGPT Pro performed best, occasionally constructing counterexamples and corrected proofs, while other [&#8230;] The post How well does current AI find errors in economics papers? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-09T18:20:40.000Z",
+      "articleId": "cac63f58e849999a"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/4lzrzxjyh3iwshced1rk.html",
+      "title": "Money Stuff: You Can Just Not Buy SpaceX",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/4lzrzxjyh3iwshced1rk.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Alpha, legal AI, retraining, sports risk. View in browser Exit vs. voice The simple model is that, if you don’t like SpaceX, you don’t have to buy it. For whatever reason. If you think that SpaceX is worth $1 trillion, or $780 billion , or zero, and it sells shares in its initial public offering at a $1.78 trillion valuation, you can just not buy any shares. (If the price later drops, you can revisit that decision.) Or if you think that SpaceX’s governance — in which Elon Musk has total control of the company and can’t be sued or second-guessed by shareholders — is oppressive for shareholders, then just don’t buy any shares. Nobody is forcing you to become an oppressed SpaceX shareholder. [1] If you want to go around telling people that SpaceX is bad and that they shouldn’t buy it either, that’s your prerogative. But your main defense against SpaceX’s governance and valuation is not to buy the stock. I feel like there is another model? I am not sure that anyone quite puts it in words, but I think it goes something like this: Public companies are owned by public shareholders. Big institutional public shareholders — and particularly widely diversified indexed or quasi-indexed public shareholders — have a sort of stewardship responsibility for public companies. A private company “belongs” to its founders, but in some meaningful sense a public company “belongs” to BlackRock and Vanguard and the big public pension funds. They are the large universal repeat players; they take responsibility for the companies as a whole. Those big public shareholders, in their role as stewards of public companies, have a grim obligation to own some shares of every company and tell the companies what to do . If they have to sue those companies for securities fraud or fiduciary violations or overpaying their chief executive officers, well, they won’t enjoy it, but that’s what they will do. SpaceX’s governance breaks this social compact: The big public pensions can buy shares of SpaceX in or after its IPO, but they won’t be able to supervise SpaceX. If they ask for a meeting with Elon Musk to express their concerns as shareholders, he will text them back a poop emoji . If they run a proxy fight to install new directors, he will use his super-voting shares to stop them. If they try to sue him for conflicts of interest or getting paid too much, SpaceX’s corporate charter will effectively stop them. They have no tools to exercise their stewardship responsibility over SpaceX. That’s not allowed! This model is not correct , but you can sort of understand why people — at least at the big asset managers and pension funds — might believe it. For one thing, they are used to it; they really do have levers to supervise (and sue) most public companies. (And there at least...",
+      "publishedAt": "2026-06-09T17:56:23.242Z",
+      "articleId": "09f87c337597bcd2"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "title": "What it feels like to work with Mythos",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Claude Fable represents another big jump in AI",
+      "publishedAt": "2026-06-09T17:11:22.000Z",
+      "articleId": "a4aa2e5dc2a76566"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-572",
       "title": "Tuesday assorted links",
@@ -303,17 +336,6 @@
       "articleId": "2221e0a9e26cb20b"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/barter-markets-in-everything-3.html?utm_source=rss&utm_medium=rss&utm_campaign=barter-markets-in-everything-3",
-      "title": "Barter markets in everything",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/barter-markets-in-everything-3.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A clean house in return for your data?: We record first-person cleaning footage to help train the next generation of household robots. That data is valuable enough for us to offer cleaning services free of charge for a limited time. Here is the link, via Glenn Mercer. The post Barter markets in everything appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-06T13:22:54.000Z",
-      "articleId": "05f18e4dfe364baf"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-060626",
       "title": "Reading List 06/06/26",
       "url": "https://www.construction-physics.com/p/reading-list-060626",
@@ -334,17 +356,6 @@
       "summary": "How to criticize an inevitable disruption.",
       "publishedAt": "2026-06-06T11:00:08.000Z",
       "articleId": "d3046b312aa5f17e"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-1-5-2026",
-      "title": "The Week That Was (June 1-5, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-june-1-5-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-06-06T10:02:02.000Z",
-      "articleId": "15a5d1e83e8042d2"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-europe-should-put-up-trade-barriers",
@@ -972,17 +983,6 @@
       "summary": "And that's okay",
       "publishedAt": "2026-05-28T17:30:52.000Z",
       "articleId": "711bb3190721e968"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/00o29z01g7f0bub3nf8y.html",
-      "title": "Money Stuff: The Bitcoin Lost-and-Found",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/00o29z01g7f0bub3nf8y.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Paramount, Polymarket, AI hiring. View in browser Finders keepers In the early days of Bitcoin, it was (1) not worth very much and (2) used mostly to buy drugs online. So a lot of people had the experience of, like, acquiring 500 Bitcoins to buy some molly, getting 100 Bitcoins back in change, taking the drugs and forgetting about the whole transaction for a decade. And then reading a news story about Bitcoin and thinking “oh damn that’s like $7 million, I wonder where my Bitcoins are,” and not being able to find them. Somewhere there’s a Bitcoin wallet that they “own,” but they have long since forgotten the private key or password that would unlock it. Oops! On some estimates this is like 20% of all Bitcoins , an absolutely incredible financial system. Various technologies offer some hope for recovering those Bitcoins. Last week I mentioned “a guy who used Claude to recover his Bitcoin wallet password that he lost 11 years ago while stoned,” through some combination of fixing a bug in the password configuration and, I hope, psychoanalyzing him to figure out what words he was thinking about while stoned in 2015. Possibly a promising approach. Or of course quantum computing might unlock all the Bitcoin wallets. That wouldn’t help the people who lost them — it would help the people with quantum computers — but, in the crypto ethos of “code is law” and “not your keys not your coins,” maybe that’s fine. If you’re smart enough to crack open a Bitcoin wallet, the Bitcoins are yours, arguably, sort of. There is another, older, somewhat less effective technology, which is law. If you can get a court to declare that you own a wallet full of Bitcoins, that’s something . It’s not as good as having the private key to that wallet: Without the private key (which the court can’t give you), you can’t transfer the Bitcoins on the blockchain, so you can’t spend them or use them in the ways people normally use Bitcoins. But it’s better than nothing. If you had a final judgment from a New York court saying that you own 100 Bitcoins at some particular blockchain address, then you could tell people “I own $7 million worth of Bitcoin” and that would be true in a legal, though not a cryptographic, sense. What could you do with that $7 million of inaccessible wealth? Things? Could you borrow against it? Would a bank lend you $1 million of real dollars against $7 million of legally owned but inaccessible Bitcoin? I mean, probably not, but worth a shot? [1] Something like this is sort of what James Howells , the funniest Bitcoin guy, is going for. Howells at one point had 8,000 Bitcoins, but the hard drive containing the private keys is now at the bottom of a garbage dump, and nobody will let him dig up the dump to find it. A minor setback! He has, if not quite a...",
-      "publishedAt": "2026-05-28T17:26:19.135Z",
-      "articleId": "2db4dcc4d5c97cc3"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/jl7sta78vpk8nrbmvvd5.html",
@@ -1709,17 +1709,6 @@
       "summary": "Ruthlessness and machismo will only get you so far in a technological world.",
       "publishedAt": "2026-05-11T08:36:24.000Z",
       "articleId": "4a1cab8ccde35d82"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-eclectically-optimal",
-      "title": "Basil Halperin on eclectically optimal policy",
-      "url": "https://scottsumner.substack.com/p/basil-halperin-on-eclectically-optimal",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus thoughts on monetary policy and the current economy",
-      "publishedAt": "2026-05-10T17:55:11.000Z",
-      "articleId": "88840d8b1a29f701"
     }
   ],
   "sources": [
@@ -1734,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1799,7 +1788,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1862,10 +1851,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
