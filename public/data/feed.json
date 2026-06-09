@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-09T04:21:00.865Z",
-  "fetchedAt": "2026-06-09T04:21:00.860Z",
+  "generatedAt": "2026-06-09T08:39:06.760Z",
+  "fetchedAt": "2026-06-09T08:39:06.755Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 754,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/seb-krier-3.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-3",
+      "title": "Séb Krier",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/seb-krier-3.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I really loved this article. A one-time increase in per capita growth from 2% to 2.1% for a single year, then dropping back to 2%, would permanently raises the level of GDP per capita &#8211; and because that small gain recurs and compounds every year afterward across the population, it would add up to roughly [&#8230;] The post Séb Krier appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-09T07:17:08.000Z",
+      "articleId": "f479f0f9298f0ed9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sao-paulo-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=sao-paulo-notes",
+      "title": "Sao Paulo notes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sao-paulo-notes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The old saw &#8220;Brazil is the country of the future, and always will be&#8221; now seems so wrong. The place feels increasingly conservative, and it is aging rapidly. In the domestic airport you see couples with only a single kid, not two or three kids, never mind four. Country and Western music, in their Brazilian [&#8230;] The post Sao Paulo notes appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-09T05:10:49.000Z",
+      "articleId": "896400efb95dff55"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/berkeley-meetup-this-wednesday-77b",
       "title": "Berkeley Meetup This Wednesday",
@@ -314,17 +336,6 @@
       "articleId": "5f4e0052543c68b3"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-575",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Rob Wiblin interviews Rohin Shah, who leads AGI alignment/safety at DeepMind. 2. Books Arnold Kling has reread. 3. Wemby and Star Wars. 4. Even (especially?) for ontologists, supply is elastic. 5. SSRN is getting worse. 6. Major layoffs at The New School. 7. New forthcoming Ethan Mollick AI book. 8. &#8220;Scientists at Columbia University [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-05T16:32:16.000Z",
-      "articleId": "12897a19f1ae482b"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/cured-in-china",
       "title": "The blood cancer that became solvable",
       "url": "https://www.worksinprogress.news/p/cured-in-china",
@@ -334,17 +345,6 @@
       "summary": "Multiple myeloma is brutal. We may finally have a cure, but American regulatory inertia means that it was discovered abroad.",
       "publishedAt": "2026-06-05T14:53:36.000Z",
       "articleId": "e36132007cc09118"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-and-alex-speak-to-openai",
-      "title": "Tyler and Alex Speak to OpenAI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We were honored to speak to OpenAI about the economics of AI. Lots of good material here. Self-recommending. The post Tyler and Alex Speak to OpenAI appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-05T11:15:52.000Z",
-      "articleId": "927b3a2047788de5"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-origins-of-horseshoe-politics",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
