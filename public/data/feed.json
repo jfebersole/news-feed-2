@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-09T21:57:32.231Z",
-  "fetchedAt": "2026-06-09T21:57:32.227Z",
+  "generatedAt": "2026-06-09T23:39:30.272Z",
+  "fetchedAt": "2026-06-09T23:39:30.267Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 764,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
@@ -1830,18 +1830,18 @@
     {
       "name": "Ross Douthat (NYT)",
       "url": "https://www.nytimes.com/column/ross-douthat",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 10,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml",
-      "error": null
+      "error": "Status code 500 Using previous snapshot data."
     },
     {
       "name": "Ezra Klein (NYT)",
       "url": "https://www.nytimes.com/by/ezra-klein",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml",
-      "error": null
+      "error": "Status code 500 Using previous snapshot data."
     },
     {
       "name": "David French (NYT)",
