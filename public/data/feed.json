@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-09T08:39:06.760Z",
-  "fetchedAt": "2026-06-09T08:39:06.755Z",
+  "generatedAt": "2026-06-09T12:14:27.390Z",
+  "fetchedAt": "2026-06-09T12:14:27.385Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 764,
+  "itemCount": 156,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/nobody-knows-what-theyre-talking",
+      "title": "Nobody knows what they’re talking about on A.I. consciousness",
+      "url": "https://www.slowboring.com/p/nobody-knows-what-theyre-talking",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Your hot takes won&#8217;t solve the major riddles of Western philosophy.",
+      "publishedAt": "2026-06-09T10:02:44.000Z",
+      "articleId": "a3ff2809f31c2c32"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/no-lead-is-safe-in-the-2026-stanley",
+      "title": "No Lead Is Safe In the 2026 Stanley Cup Final",
+      "url": "https://neilpaine.substack.com/p/no-lead-is-safe-in-the-2026-stanley",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "After three games of huge comebacks and historic win-probability chaos, being ahead has never looked so dangerous.",
+      "publishedAt": "2026-06-09T10:02:02.000Z",
+      "articleId": "d00163b9ae6a5136"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-iphones-last-stand/",
+      "title": "The iPhone’s Last Stand",
+      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Siri isn't state of the art, but as long as it works — and it appears it does — it's good enough for the consumer market.",
+      "publishedAt": "2026-06-09T10:00:00.000Z",
+      "articleId": "91c1e284f35f639d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/seb-krier-3.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-3",
       "title": "Séb Krier",
@@ -842,17 +875,6 @@
       "articleId": "d20a1bb796b7392f"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/breaking-down-the-clarity-act",
-      "title": "Breaking down the Clarity Act",
-      "url": "https://www.slowboring.com/p/breaking-down-the-clarity-act",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Everything you need to know about the single most significant piece of crypto legislation to pass the House",
-      "publishedAt": "2026-05-29T22:01:30.000Z",
-      "articleId": "aa266d7c2429850c"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
       "title": "Three Ways Trump Is Losing the War in Iran",
       "url": "https://www.nytimes.com/2026/05/28/opinion/trump-iran-war.html",
@@ -1104,17 +1126,6 @@
       "summary": "Featuring Bob Dylan, R.E.M., U2, and others",
       "publishedAt": "2026-05-26T13:31:02.000Z",
       "articleId": "2eadf98407d33869"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
-      "title": "Nvidia Earnings, The AI Stack, Nvidia’s New Reporting",
-      "url": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Nvidia is changing its reporting to delineate between hyperscaler sales — where Nvidia is fighting commoditization — and everyone else, where Nvidia runs the whole stack.",
-      "publishedAt": "2026-05-26T10:00:00.000Z",
-      "articleId": "9582ccaf165bd100"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
@@ -1788,7 +1799,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
