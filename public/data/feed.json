@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-10T16:43:40.985Z",
-  "fetchedAt": "2026-06-10T16:43:40.980Z",
+  "generatedAt": "2026-06-10T19:43:50.257Z",
+  "fetchedAt": "2026-06-10T19:43:50.253Z",
   "sourceCount": 21,
-  "itemCount": 156,
+  "itemCount": 157,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/anthropic-has-caught-up-to-openai",
+      "title": "Anthropic has caught up to OpenAI in image understanding",
+      "url": "https://www.understandingai.org/p/anthropic-has-caught-up-to-openai",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "But neither one is all that good.",
+      "publishedAt": "2026-06-10T19:21:18.000Z",
+      "articleId": "22484abe03d29d18"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/515ig3mjucha1ff82y17.html",
+      "title": "Money Stuff: You Can’t Bet on Little League",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/515ig3mjucha1ff82y17.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Sports, lists, net issuance, league tables. Prediction market regulation For a while, sports betting in the US was regulated by state law. Some states banned sports betting; others allowed it under various regulatory regimes. But then Kalshi, the prediction market, started offering sports gambling nationwide and claiming, mostly successfully, that it was exempt from state regulation . Kalshi is a commodities exchange registered with the US Commodity Futures Trading Commission; its theory is that (1) sports bets are a sort of commodity “swap” subject to CFTC regulation and (2) the CFTC has exclusive jurisdiction to regulate those swaps. The states can’t regulate Kalshi, because the CFTC does. But the CFTC didn’t , not really. CFTC regulation of sports betting was mostly hypothetical: Kalshi would “self-certify” the sports bets it wanted to list, and the CFTC wouldn’t say anything, and that was that. There were no federal statutes or regulations about what sports bets are allowed. Kalshi just decided on its own what bets to list, and if the CFTC objected it could let Kalshi know. I get the sense that the CFTC didn’t object much, though I don’t really know; for all I know there was an informal back-channel regulatory process in which Kalshi regularly asked the CFTC “hey can we take these bets” and the CFTC was like “nah.” But as a formal matter, Kalshi’s sports betting was essentially unregulated: It was exempt from state gambling regulation because it was subject to federal gambling regulation, but there was no federal gambling regulation. Now that’s changing : Trump regulators are proposing an expansive new set of rules on how they will govern the booming prediction markets, with parameters that will continue to allow most sports-related bets while trying to avoid inviting obvious manipulation. The Commodity Futures Trading Commission is seeking the ability to block prediction wagers it finds aren’t in the public interest or that seem highly susceptible to manipulation, such as in cases where one person could have outsize impact on the result. The regulator proposed the new rules on Wednesday, confirming an earlier report in The Wall Street Journal. Here is the CFTC’s announcement , and here is the text of the proposed rulemaking . These rules, if they eventually go into effect, will be the first set of federal sports gambling regulations, which is just interesting. The CFTC has to answer questions that no federal financial-markets regulator has ever considered, questions like: Should there be betting on Little League games? No, says the CFTC (page 122): The Commission preliminarily believes that event contracts that settle solely by reference to games, sporting events, or outcomes in which participants are below the collegiate level...",
+      "publishedAt": "2026-06-10T18:21:48.933Z",
+      "articleId": "fc3dd8e2e7728103"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/are-the-ais-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=are-the-ais-conscious",
+      "title": "Are the AIs conscious?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/are-the-ais-conscious.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column. I will spare you the discussion of the AIs, but here is what I have to say about the humans: I am here to tell you that there is no ghost in the machine. But perhaps more importantly, there is barely a “ghost” in your [&#8230;] The post Are the AIs conscious? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-10T17:44:35.000Z",
+      "articleId": "466df75a4aa5d03c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-557.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-557",
       "title": "Wednesday assorted links",
@@ -15,6 +48,17 @@
       "summary": "1. New edition of Copernicus on money. 2. Denazification of the United States? Denazification actually consisted of: &#8220;&#8230;dissolution of Nazi organizations, licensing/control of new political organizations, individual classification by denazification tribunals, and temporary or permanent disabilities on voting, standing for office, party membership, officeholding, public speech professions, and public/private employment.&#8221; 3. Faster replies increase your [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-10T16:15:54.000Z",
       "articleId": "8cd8e32f061a1c93"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-silent-revolutionaries",
+      "title": "The silent revolutionaries",
+      "url": "https://scottsumner.substack.com/p/the-silent-revolutionaries",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Babies don't create public policy",
+      "publishedAt": "2026-06-10T13:38:11.000Z",
+      "articleId": "0d7581fb6bcb3afb"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-labor-share-fell-so-what.html?utm_source=rss&utm_medium=rss&utm_campaign=the-labor-share-fell-so-what",
@@ -356,17 +400,6 @@
       "summary": "From Clifford Sosin: I loved your talk about AI and wanted to bounce an idea off you. I think AI may be bad for corporate profit margins. A lot of companies make money because their customers can’t be bothered to monitor them more closely, or to insource something. Customers let the company make some money [&#8230;] The post Might AI hurt corporate profits? (from my email) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-08T05:08:15.000Z",
       "articleId": "1e5aba8b31d88241"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-570",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-570.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The Hyman Rickover corpus. 2. Redux of a 2009 essay by me on poverty and a documentary film. 3. Shruti on AI and copyright law. 4. Will the number of lawyers go up or down? 5. One view on where Somalia stands right now. 6. Alan Riding, RIP (NYT). His Distant Neighbors remains a [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-07T18:13:04.000Z",
-      "articleId": "8515ea484267517a"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-66a",
@@ -785,17 +818,6 @@
       "summary": "Your subscription dollars now directly support Kai Williams.",
       "publishedAt": "2026-06-01T19:03:42.000Z",
       "articleId": "4b9a4d45fec10993"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/23iqob960zm3jwkab9w8.html",
-      "title": "Money Stuff: The SpaceX Squeeze",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/23iqob960zm3jwkab9w8.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Indexes, Universal, lost and found. View in browser Index demand You could take the cynical view, and a lot of people do. [1] The cynical view is that SpaceX has a private market valuation of, let’s say, $1.25 trillion, but that valuation has been set by Elon Musk and his friends without a lot of robust debate, and is arguably a little high given that SpaceX loses money on something like $20 billion a year of revenue. Elon Musk and his friends would now like to sell their SpaceX stock to the public, ideally at a large markup to that $1.25 trillion valuation. (Maybe $2 trillion , or at least $1.8 trillion .) The advantage of doing this is that the public is very large and has a lot of money, so it can buy a lot of stock. The disadvantage is that the public is not made up entirely of Elon Musk and his friends, and if you say to public investors “hey this company is worth $2 trillion,” they might say “why?” But not all of them. There are, traditionally, two sorts of investors who will buy stock without worrying about the price: Index funds, and Retail investors. Index funds are definitionally in the buying-stock-without-questioning-the-price business: An index fund buys the stocks in the index, weighted by their market capitalizations; it is a pure price taker. Retail investors are not exactly like that, but on the other hand there are a lot of retail investors who really like Elon Musk and have been hankering for years to get some SpaceX stock, so perhaps they won’t be too choosy about the price. (Though perhaps they will be .) Also, retail investors in initial public offerings tend not to be price-sensitive: IPO prices are generally set based on the institutional order book, with retail happy to come along for the ride. So the schematic maximally cynical approach [2] for SpaceX would be something like: Do an IPO. Sell, like, one share of stock to the most ardent possible Elon Musk-fan asset manager at a $2 trillion valuation Sell perhaps tens of billions of dollars of stock to ardent Elon Musk-fan retail investors , whoever’s willing to buy at that $2 trillion valuation. Lock up all the rest of the stock so that no one can sell. Get in all the indexes, because you are huge. Something like 24% of the stock of the average member of the S&P 500 index is held by index funds. At a $2 trillion valuation, that’s like $500 billion of stock. Sell $500 billion of stock to index funds at that $2 trillion valuation. They can’t say no! That is, the maximally cynical approach is to sell as little stock as possible to price-sensitive investors, in order to keep the supply low and the price high, and then sell as much stock as possible to index funds, who can’t negotiate on price. Actually “can’t negotiate on price” understates the issue. If index funds...",
-      "publishedAt": "2026-06-01T18:28:50.157Z",
-      "articleId": "02ee2de8c667677c"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/the-south-china-shock-and-the-worlds",
@@ -1709,17 +1731,6 @@
       "summary": "A disease that was once a death sentence is increasingly treatable",
       "publishedAt": "2026-05-12T10:05:09.000Z",
       "articleId": "ec2f57bc88c175ff"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "title": "The Atheist and the Machine God",
-      "url": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "What are the implications of artificial intelligence for religion?",
-      "publishedAt": "2026-05-11T19:41:15.000Z",
-      "articleId": "8c9089dc38167fc3"
     }
   ],
   "sources": [
