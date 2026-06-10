@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-10T12:35:22.772Z",
-  "fetchedAt": "2026-06-10T12:35:22.765Z",
+  "generatedAt": "2026-06-10T16:43:40.985Z",
+  "fetchedAt": "2026-06-10T16:43:40.980Z",
   "sourceCount": 21,
   "itemCount": 156,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-557.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-557",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-557.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. New edition of Copernicus on money. 2. Denazification of the United States? Denazification actually consisted of: &#8220;&#8230;dissolution of Nazi organizations, licensing/control of new political organizations, individual classification by denazification tribunals, and temporary or permanent disabilities on voting, standing for office, party membership, officeholding, public speech professions, and public/private employment.&#8221; 3. Faster replies increase your [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-10T16:15:54.000Z",
+      "articleId": "8cd8e32f061a1c93"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-labor-share-fell-so-what.html?utm_source=rss&utm_medium=rss&utm_campaign=the-labor-share-fell-so-what",
       "title": "The Labor Share Fell. So What?",
@@ -90,7 +101,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "It depends on both ideas and cultural inheritance.",
-      "publishedAt": "2026-06-09T23:06:17.000Z",
+      "publishedAt": "2026-06-09T23:06:18.000Z",
       "articleId": "e74499871e209c7f"
     },
     {
@@ -367,17 +378,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-06-07T17:02:14.000Z",
       "articleId": "4f2978814480cafa"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-high-skill-immigration-restrictions-eroded-regional-productivity-evidence-from-the-2017-baha-executive-order.html?utm_source=rss&utm_medium=rss&utm_campaign=how-high-skill-immigration-restrictions-eroded-regional-productivity-evidence-from-the-2017-baha-executive-order",
-      "title": "How High-Skill Immigration Restrictions Eroded Regional Productivity: Evidence from the 2017 BAHA Executive Order",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-high-skill-immigration-restrictions-eroded-regional-productivity-evidence-from-the-2017-baha-executive-order.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper estimates the regional economic impact of high-skill immigration restrictions by analyzing the 2017 &#8220;Buy American, Hire American&#8221; (BAHA) policy as a quasi-experimental policy shock. By significantly tightening H-1B visa adjudication, BAHA caused new employment petition denial rates to double from 7% to 17%, while STEM-specific rejections tripled to 31%. Using a difference-indifferences framework, [&#8230;] The post How High-Skill Immigration Restrictions Eroded Regional Productivity: Evidence from the 2017 BAHA Executive Order appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-07T16:34:40.000Z",
-      "articleId": "4251f374ba10ef3e"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-060626",
@@ -1862,10 +1862,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
