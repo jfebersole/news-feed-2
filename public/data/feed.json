@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-10T19:43:50.257Z",
-  "fetchedAt": "2026-06-10T19:43:50.253Z",
+  "generatedAt": "2026-06-10T22:18:56.666Z",
+  "fetchedAt": "2026-06-10T22:18:56.661Z",
   "sourceCount": 21,
   "itemCount": 157,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
+      "title": "A market moves, with a crisis unresolved",
+      "url": "https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Sales rebound and development continues, yet stalled reforms, shrinking budgets, and flawed affordability targets are leaving the housing shortage largely intact.",
+      "publishedAt": "2026-06-10T22:01:03.000Z",
+      "articleId": "dd9cf813f8ed0578"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/anthropic-has-caught-up-to-openai",
       "title": "Anthropic has caught up to OpenAI in image understanding",
@@ -884,17 +895,6 @@
       "summary": "New Jersey, Snapping Turtles, and a great book.",
       "publishedAt": "2026-06-01T09:22:09.000Z",
       "articleId": "f5f3e416887549a3"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/seventeen-thoughts-on-graham-platner",
-      "title": "Seventeen thoughts on Graham Platner",
-      "url": "https://www.slowboring.com/p/seventeen-thoughts-on-graham-platner",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Issues still matter, but can he make the case for himself?",
-      "publishedAt": "2026-05-31T22:55:21.000Z",
-      "articleId": "f2e4a643297d0815"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-the-greatest-punk-album-mailbag",
