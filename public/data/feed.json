@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-06-10T08:59:45.040Z",
-  "fetchedAt": "2026-06-10T08:59:45.035Z",
+  "generatedAt": "2026-06-10T12:35:22.772Z",
+  "fetchedAt": "2026-06-10T12:35:22.765Z",
   "sourceCount": 21,
   "itemCount": 156,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-labor-share-fell-so-what.html?utm_source=rss&utm_medium=rss&utm_campaign=the-labor-share-fell-so-what",
+      "title": "The Labor Share Fell. So What?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-labor-share-fell-so-what.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The share of Gross Domestic Income accruing to labor has been declining in recent decades while the share accruing to capital has been rising. In the graph below, I show labor compensation as a share of GDI (left axis). Labor share has indeed been trending down&#8211;some of this could be an artifact of the data, [&#8230;] The post The Labor Share Fell. So What? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-10T11:16:41.000Z",
+      "articleId": "402d292e4dea1ff9"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trumps-war-on-state-capacity-is-coming",
+      "title": "Trump’s war on state capacity is coming home to roost",
+      "url": "https://www.slowboring.com/p/trumps-war-on-state-capacity-is-coming",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "From the screwworm to Ebola and beyond, there&#8217;s a price to pay.",
+      "publishedAt": "2026-06-10T10:03:53.000Z",
+      "articleId": "076f8c5995056bc9"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-same-old-trick-has-a",
+      "title": "The Brewers' Same Old Trick Has a New October Twist",
+      "url": "https://neilpaine.substack.com/p/the-brewers-same-old-trick-has-a",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Milwaukee has mastered the art of regular-season regeneration. After last year's Dodgers disaster, the question is whether a more top-heavy roster can make this version different when it matters.",
+      "publishedAt": "2026-06-10T10:03:50.000Z",
+      "articleId": "db5c7074b0b32286"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+      "title": "Fable 5, Anthropic Alignment, AI Tiers",
+      "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+      "publishedAt": "2026-06-10T10:00:00.000Z",
+      "articleId": "c9d675b7b2379e80"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/therapy-to-make-cells-young-again-trialled-in-a-person.html?utm_source=rss&utm_medium=rss&utm_campaign=therapy-to-make-cells-young-again-trialled-in-a-person",
+      "title": "Therapy to make cells young again trialled in a person",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/therapy-to-make-cells-young-again-trialled-in-a-person.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the Nature article. The post Therapy to make cells young again trialled in a person appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-10T09:40:15.000Z",
+      "articleId": "e086c709b25e7a62"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of",
       "title": "Insurers aren't the main villain of the U.S. health care system",
@@ -248,17 +303,6 @@
       "articleId": "64ac13479291468e"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-knicks-picked-the-perfect-time",
-      "title": "The Knicks Picked the Perfect Time to (Apparently) Become a Superteam",
-      "url": "https://neilpaine.substack.com/p/the-knicks-picked-the-perfect-time",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The Knicks came into the playoffs looking like just another contender. Now up 2-0 in the Finals, New York is tracking for one of the most dominant postseason runs in NBA history.",
-      "publishedAt": "2026-06-08T10:02:51.000Z",
-      "articleId": "f117eed8f42ca170"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-neglected-importance-of-boring",
       "title": "The neglected importance of boring methodological disputes",
       "url": "https://www.slowboring.com/p/the-neglected-importance-of-boring",
@@ -334,28 +378,6 @@
       "summary": "This paper estimates the regional economic impact of high-skill immigration restrictions by analyzing the 2017 &#8220;Buy American, Hire American&#8221; (BAHA) policy as a quasi-experimental policy shock. By significantly tightening H-1B visa adjudication, BAHA caused new employment petition denial rates to double from 7% to 17%, while STEM-specific rejections tripled to 31%. Using a difference-indifferences framework, [&#8230;] The post How High-Skill Immigration Restrictions Eroded Regional Productivity: Evidence from the 2017 BAHA Executive Order appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-07T16:34:40.000Z",
       "articleId": "4251f374ba10ef3e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/let-me-disinherit-my-children-sil-vous-plait.html?utm_source=rss&utm_medium=rss&utm_campaign=let-me-disinherit-my-children-sil-vous-plait",
-      "title": "Let Me Disinherit My Children, S’il vous plaît",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/let-me-disinherit-my-children-sil-vous-plait.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Following John Arnold, I posted earlier about how European laws often require wealthy people to give most of their wealth to their children. Here is an example: Pierre-Edouard Sterin, founder of Smartbox and worth about €1.4 billion, told French senators he wants to disinherit his five children and donate everything to charity. French law, under [&#8230;] The post Let Me Disinherit My Children, S&#8217;il vous plaît appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-07T11:12:37.000Z",
-      "articleId": "778ca3d3c45bdf92"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/why-drugs-are-here-to-stay-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=why-drugs-are-here-to-stay-from-my-email",
-      "title": "Why drugs are here to stay (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/why-drugs-are-here-to-stay-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This is anonymized, I can vouch that the person is very smart and has excellent taste: Some thoughts [referring to my recent Free Press piece on marijuana]. My feeling is that you read quickly enough that I can dump words on you and it will not be an imposition. So I have not really edited [&#8230;] The post Why drugs are here to stay (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-07T04:25:45.000Z",
-      "articleId": "dbd1f6f232348869"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-060626",
@@ -853,17 +875,6 @@
       "articleId": "f2e4a643297d0815"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-496",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-496",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-05-31T17:02:10.000Z",
-      "articleId": "2cfc9cb0bdc3d98a"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-the-greatest-punk-album-mailbag",
       "title": "What's the Greatest Punk Album? Mailbag",
       "url": "https://www.cantgetmuchhigher.com/p/whats-the-greatest-punk-album-mailbag",
@@ -1082,17 +1093,6 @@
       "summary": "Don't steer the car, move the road",
       "publishedAt": "2026-05-27T16:36:31.000Z",
       "articleId": "799ee65b810f864b"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
-      "title": "The SpaceX IPO and Data Centers in Space",
-      "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "There isn't a financial model that justifies the SpaceX IPO, but data centers in space are plausible, and that might be enough.",
-      "publishedAt": "2026-05-27T10:00:00.000Z",
-      "articleId": "a43d4ed6f1c0f659"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
@@ -1862,10 +1862,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
