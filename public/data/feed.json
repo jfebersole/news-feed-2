@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-09T23:39:30.272Z",
-  "fetchedAt": "2026-06-09T23:39:30.267Z",
+  "generatedAt": "2026-06-10T04:42:56.386Z",
+  "fetchedAt": "2026-06-10T04:42:56.381Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/stanislaw-lem-foresaw-drones.html?utm_source=rss&utm_medium=rss&utm_campaign=stanislaw-lem-foresaw-drones",
+      "title": "Stanislaw Lem foresaw drones",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/stanislaw-lem-foresaw-drones.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This was published in English (and Polish) in 1986 under the title One Human Minute: So it was not humanoid automata that former the new armies but synthetic insects (synsects) &#8212; ceramic microcrustacea, titanium annelids, and flying pseudo-hymenoptera with nerve centers made of arsenic compounds and with stingers of heavy, fissionable elements&#8230;The flying synsect combined [&#8230;] The post Stanislaw Lem foresaw drones appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-10T04:21:33.000Z",
+      "articleId": "d91ad4783ca53e6f"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
       "title": "For America’s 250th, Let’s Get Something Clear About Our National Identity",
@@ -12,8 +23,8 @@
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "Our national identity depends on both ideas and cultural inheritance.",
-      "publishedAt": "2026-06-09T21:00:09.000Z",
+      "summary": "It depends on both ideas and cultural inheritance.",
+      "publishedAt": "2026-06-09T23:06:17.000Z",
       "articleId": "e74499871e209c7f"
     },
     {
@@ -334,17 +345,6 @@
       "summary": "This is anonymized, I can vouch that the person is very smart and has excellent taste: Some thoughts [referring to my recent Free Press piece on marijuana]. My feeling is that you read quickly enough that I can dump words on you and it will not be an imposition. So I have not really edited [&#8230;] The post Why drugs are here to stay (from my email) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-07T04:25:45.000Z",
       "articleId": "dbd1f6f232348869"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/is-work-from-home-bad-for-your-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=is-work-from-home-bad-for-your-mental-health",
-      "title": "Is work from home bad for your mental health?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/is-work-from-home-bad-for-your-mental-health.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From the &#8220;Results&#8221; section: Relative to those in nonremotable jobs, workers in remotable jobs spent approximately one additional hour alone per workday after the pandemic. Those in remotable jobs also differentially increased days spent entirely alone and decreased after-work socializing. The rise in isolation was sharpest for those living alone, whose likelihood of spending the [&#8230;] The post Is work from home bad for your mental health? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-06T18:10:13.000Z",
-      "articleId": "ba824aefddd2a010"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-060626",
@@ -1830,18 +1830,18 @@
     {
       "name": "Ross Douthat (NYT)",
       "url": "https://www.nytimes.com/column/ross-douthat",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 10,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml",
-      "error": "Status code 500 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Ezra Klein (NYT)",
       "url": "https://www.nytimes.com/by/ezra-klein",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml",
-      "error": "Status code 500 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "David French (NYT)",
