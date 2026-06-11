@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-06-11T07:01:54.173Z",
-  "fetchedAt": "2026-06-11T07:01:54.168Z",
+  "generatedAt": "2026-06-11T11:46:06.959Z",
+  "fetchedAt": "2026-06-11T11:46:06.954Z",
   "sourceCount": 21,
-  "itemCount": 157,
+  "itemCount": 159,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-the-squamish-struck-gold-in-vancouver",
+      "title": "How the Squamish struck gold in Vancouver",
+      "url": "https://www.worksinprogress.news/p/how-the-squamish-struck-gold-in-vancouver",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Just beyond central Vancouver, the Squamish Nation is building one of the most ambitious and unusual housing developments in the world, and getting rich in the process. How they did it has lessons for",
+      "publishedAt": "2026-06-11T11:16:37.000Z",
+      "articleId": "9bfa43f7dfcc3e8c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nationalization-of-american-science",
+      "title": "The Nationalization of American Science",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "OMB, joined by some forty grantmaking agencies—NSF, HHS, DOE, NASA, DOD among them—has proposed a sweeping rewrite of the rules governing all federal grants, the Regulation for Federal Financial Assistance. American science has long been state funded but not state directed. Since Vannevar Bush, money has flowed through many agencies to independent universities, allocated largely [&#8230;] The post The Nationalization of American Science appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-11T11:16:13.000Z",
+      "articleId": "314f5812faafac49"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/can-we-retire-public-safety",
+      "title": "Can we retire “public safety”?",
+      "url": "https://www.slowboring.com/p/can-we-retire-public-safety",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Just talk about crime.",
+      "publishedAt": "2026-06-11T10:03:10.000Z",
+      "articleId": "55ced3f4596d69b7"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+      "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+      "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "articleId": "b12184652daccaff"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html",
+      "title": "The Terrible Man Theory of History",
+      "url": "https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The solution to Trumpism isn’t to conform to the spirit of the age, but to transform it.",
+      "publishedAt": "2026-06-11T09:05:53.000Z",
+      "articleId": "b897b08cb5124ec8"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/matt-and-jerusalem-read-silent-spring",
+      "title": "Matt and Jerusalem read “Silent Spring”",
+      "url": "https://www.slowboring.com/p/matt-and-jerusalem-read-silent-spring",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Can a return to the classic text save environmentalism?",
+      "publishedAt": "2026-06-11T09:01:24.000Z",
+      "articleId": "0e2f1d22f890ccd1"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/are-you-finally-ready-to-admit-its",
+      "title": "Are you finally ready to admit it's the phones?",
+      "url": "https://www.noahpinion.blog/p/are-you-finally-ready-to-admit-its",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "We didn't evolve to live our lives as terminals of a digital hive-mind.",
+      "publishedAt": "2026-06-11T07:38:27.000Z",
+      "articleId": "1bbc1184f66b72ea"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-excellent-conversation-with-katja-hoyer.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-katja-hoyer",
       "title": "My excellent Conversation with Katja Hoyer",
@@ -367,17 +444,6 @@
       "summary": "Everyday Abundance it is called, self-recommending&#8230;sponsored by the Abundance Institute. The post Virginia Postrel and Charles C. Mann have a new podcast appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-08T13:19:37.000Z",
       "articleId": "2c95406f8501bbb2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/hayekian-literary-criticism.html?utm_source=rss&utm_medium=rss&utm_campaign=hayekian-literary-criticism",
-      "title": "Hayekian Literary Criticism",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/hayekian-literary-criticism.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In economics, Marx is relegated to the history of thought as his ideas were an economic dead end and a political disaster. Yet Marx-influenced literary criticism is a dominant mode of analysis in nearly every English department in the country. It&#8217;s not that the English professors are all Marxists, it&#8217;s that even the non-Marxists reach [&#8230;] The post Hayekian Literary Criticism appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-08T11:16:50.000Z",
-      "articleId": "19d60390b3f4a2bf"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-neglected-importance-of-boring",
@@ -809,17 +875,6 @@
       "articleId": "7fa7864b7fb5df5c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-primaries-are-heating-up",
-      "title": "The primaries are heating up",
-      "url": "https://www.slowboring.com/p/the-primaries-are-heating-up",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Crypto, AIPAC, and Republican maps are stoking the midterms.",
-      "publishedAt": "2026-06-01T22:01:22.000Z",
-      "articleId": "cd5561fe207bfb04"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/were-building-a-different-kind-of",
       "title": "We're building a different kind of AI newsroom",
       "url": "https://www.understandingai.org/p/were-building-a-different-kind-of",
@@ -862,17 +917,6 @@
       "summary": "Wide receiver Odell Beckham Jr. is reuniting with the team that drafted him more than a decade ago, signing a one-year contract with the New York Giants, the team announced Monday. The 33-year-old worked out for the Giants on Monday morning alongside a handful of veteran receivers that included JuJu Smith-Schuster, Braxton Berrios and Anthony Miller. It turned out to be a fruitful workout, because along with Beckham, the Giants also signed Smith-Schuster and Berrios to one-year deals, the team announced. The three of them will help bolster a wide receiver group that has been beset by injuries,...",
       "publishedAt": "2026-06-01T15:49:33.000Z",
       "articleId": "d5c7712404aa0345"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/james-talarico-has-an-obligation",
-      "title": "James Talarico has an obligation to win",
-      "url": "https://www.slowboring.com/p/james-talarico-has-an-obligation",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ken Paxton is a terrible candidate, but don&#8217;t take anything for granted.",
-      "publishedAt": "2026-06-01T10:02:34.000Z",
-      "articleId": "0bf8d5fe9f4313e3"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
@@ -1082,17 +1126,6 @@
       "summary": "Over the last few months we&#8217;ve examined the extent of the construction industry&#8217;s productivity problem.",
       "publishedAt": "2026-05-28T12:03:26.000Z",
       "articleId": "767984ae3ebbd84b"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
-      "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
-      "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.",
-      "publishedAt": "2026-05-28T10:00:00.000Z",
-      "articleId": "19dc6fb920a7ae06"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
@@ -1720,17 +1753,6 @@
       "summary": "Featuring Steve Martin, Jackie Chan, Zooey Deschanel, and others",
       "publishedAt": "2026-05-12T13:30:56.000Z",
       "articleId": "d7182b939ec68895"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/pancreatic-cancer-just-met-its-match",
-      "title": "Pancreatic cancer just met its match",
-      "url": "https://www.worksinprogress.news/p/pancreatic-cancer-just-met-its-match",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "A disease that was once a death sentence is increasingly treatable",
-      "publishedAt": "2026-05-12T10:05:09.000Z",
-      "articleId": "ec2f57bc88c175ff"
     }
   ],
   "sources": [
