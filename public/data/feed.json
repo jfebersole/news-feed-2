@@ -1,13 +1,57 @@
 {
-  "generatedAt": "2026-06-11T11:46:06.959Z",
-  "fetchedAt": "2026-06-11T11:46:06.954Z",
+  "generatedAt": "2026-06-11T16:18:35.738Z",
+  "fetchedAt": "2026-06-11T16:18:35.734Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 764,
+  "itemCount": 160,
+  "totalItemCount": 765,
   "items": [
     {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-556.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-556",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-556.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Fable 5 describes humanity. And Anthropic policy proposals, including for economics. 2. &#8220;Can you build a working chess board which then illustrates and can play the moves of the famous &#8220;Evergreen game&#8221;?&#8221; The response. Much better yet is Fable 5 explaining Riemann. 3. Marcus Nunes on Chile vs. Argentina. 4. In the video world, [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-11T15:45:52.000Z",
+      "articleId": "024426bd9c454a06"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/dc-area-happy-hour-on-june-23",
+      "title": "DC-area happy hour on June 23!",
+      "url": "https://www.understandingai.org/p/dc-area-happy-hour-on-june-23",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Meet the Understanding AI team &#8212; and some friends of the newsletter.",
+      "publishedAt": "2026-06-11T14:47:17.000Z",
+      "articleId": "436e8719b62934ae"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html",
+      "title": "The Terrible Man Theory of History",
+      "url": "https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The solution to Trumpism isn’t to conform to the spirit of the age, but to transform it.",
+      "publishedAt": "2026-06-11T14:13:30.000Z",
+      "articleId": "b897b08cb5124ec8"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/biological-evolution-and-information",
+      "title": "Biological Evolution and Information Acquisition",
+      "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A few weeks ago we looked at a simulation of technological evolution by economist Brian Arthur, in which he was able to start with simple building blocks (such as a NAND gate) and evolve surprisingly complex circuits (such as a 12-way AND gate or a 4-bit adder) by randomly combining increasingly useful existing components.",
+      "publishedAt": "2026-06-11T12:01:31.000Z",
+      "articleId": "b04f32a9c91d8a27"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-the-squamish-struck-gold-in-vancouver",
-      "title": "How the Squamish struck gold in Vancouver",
+      "title": "How the Squamish built Senakw",
       "url": "https://www.worksinprogress.news/p/how-the-squamish-struck-gold-in-vancouver",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -39,6 +83,17 @@
       "articleId": "55ced3f4596d69b7"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/brazil-is-still-brazil-but-is-that",
+      "title": "Brazil Is Still Brazil. But Is That Enough Anymore?",
+      "url": "https://neilpaine.substack.com/p/brazil-is-still-brazil-but-is-that",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The Seleção still have their history, stars and iconic yellow shirts. But in the modern World Cup, Brazil is less \"default favorite\" than one contender among many.",
+      "publishedAt": "2026-06-11T10:02:48.000Z",
+      "articleId": "544cc677b5244899"
+    },
+    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
       "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
       "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
@@ -48,17 +103,6 @@
       "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
       "publishedAt": "2026-06-11T10:00:00.000Z",
       "articleId": "b12184652daccaff"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html",
-      "title": "The Terrible Man Theory of History",
-      "url": "https://www.nytimes.com/2026/06/11/opinion/platner-trump-character-leadership.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The solution to Trumpism isn’t to conform to the spirit of the age, but to transform it.",
-      "publishedAt": "2026-06-11T09:05:53.000Z",
-      "articleId": "b897b08cb5124ec8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/matt-and-jerusalem-read-silent-spring",
@@ -433,17 +477,6 @@
       "summary": "1. It seems Piketty has become a degrowther. And other views. Maybe it is rude to say this, but some of our best-known economists basically have a negative-valued understanding of how the world works. And a bit more. 2. Claims about soil (speculative). Here is GPT Pro analysis. 3. Stepping up. 4. An interactive feature [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-08T16:43:05.000Z",
       "articleId": "e60f87e883103b06"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/virginia-postrel-and-charles-c-mann-have-a-new-podcast.html?utm_source=rss&utm_medium=rss&utm_campaign=virginia-postrel-and-charles-c-mann-have-a-new-podcast",
-      "title": "Virginia Postrel and Charles C. Mann have a new podcast",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/virginia-postrel-and-charles-c-mann-have-a-new-podcast.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Everyday Abundance it is called, self-recommending&#8230;sponsored by the Abundance Institute. The post Virginia Postrel and Charles C. Mann have a new podcast appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-08T13:19:37.000Z",
-      "articleId": "2c95406f8501bbb2"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-neglected-importance-of-boring",
@@ -1731,28 +1764,6 @@
       "summary": "The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
       "publishedAt": "2026-05-12T19:18:54.000Z",
       "articleId": "000db4bb19b4d1e3"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/a-library-of-distractions",
-      "title": "A Library of Distractions",
-      "url": "https://walkingtheworld.substack.com/p/a-library-of-distractions",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Some recent books, and a TV series, I appreciate",
-      "publishedAt": "2026-05-12T14:36:17.000Z",
-      "articleId": "91908c63ddeb8ef4"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/actors-who-play-an-album-a-day",
-      "title": "Actors Who Play: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/actors-who-play-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Steve Martin, Jackie Chan, Zooey Deschanel, and others",
-      "publishedAt": "2026-05-12T13:30:56.000Z",
-      "articleId": "d7182b939ec68895"
     }
   ],
   "sources": [
@@ -1832,7 +1843,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
