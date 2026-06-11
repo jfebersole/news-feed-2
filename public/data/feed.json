@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-11T19:43:11.833Z",
-  "fetchedAt": "2026-06-11T19:43:11.828Z",
+  "generatedAt": "2026-06-11T22:12:48.778Z",
+  "fetchedAt": "2026-06-11T22:12:48.773Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 765,
+  "itemCount": 159,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/my-ai-opinions",
+      "title": "My AI Opinions",
+      "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-06-11T20:50:39.000Z",
+      "articleId": "a7b9fde853276d95"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lezei6y9rqwjlwy0rb15.html",
+      "title": "Money Stuff: SpaceX Priced Already",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lezei6y9rqwjlwy0rb15.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff SpaceX, trade-through, Saba, Kraftwerk. View in browser SpaceX SpaceX SpaceX The normal thing to say is that SpaceX’s initial public offering “ is set to price June 11 ” — today — “and trade the following day.” SpaceX’s bankers have been marketing its shares to investors for the past week, and this afternoon, after the market closes, they will get together, review the demand for the IPO, and “price” the IPO, that is, decide the price at which SpaceX will sell shares to investors. Then they will decide how many shares each investor will get and tell the investors what they’re getting. Then, sometime tomorrow, the stock will open for trading: Some people who got shares in the IPO will put in orders to sell, [1] people who didn’t get shares in the IPO (or who want more) will put in orders to buy, the stock exchange will take a few hours figuring out how to match up those orders, and eventually the orders will be matched and the stock will start trading. That’s the normal approach. SpaceX, though, started with a price. SpaceX launched its IPO marketing by saying that it is selling 555,555,555 shares at $135 per share. The deal is “pricing” this afternoon, in a formal sense, and I suppose it’s possible the price or size might still change, but probably the real pricing happened a week ago. (The “offering has attracted demand for more than four times the available shares” at that $135 price, Bloomberg reports , and the order books closed yesterday.) The Financial Times reports : Elon Musk’s lossmaking rockets-to-AI group is expected to make its market debut on Friday following what is set to be the biggest IPO on record, offering shares at $135 each, a set price that several people involved in the deal said left underwriters with less flexibility than is typical in a conventional listing. … “Elon just came in and said what the price was . . . there was no price discovery,” said an executive at a large US hedge fund. Is that right? Here are four possibilities: Musk picked an arbitrary price that is way off-base, and the stock will fall 50% or go up 300% tomorrow. Musk picked a price that was precisely correct, because he is a genius, and the stock will go up 20% tomorrow. (Twenty percent is the perfect IPO pop, making money for investors without leaving too much on the table.) Musk picked an arbitrary price, but because of his reality-distortion powers, it became the precisely correct price. “If Elon Musk says the IPO price is $135 then that’s the perfect IPO price,” everyone will say, and there will be a perfect 20% IPO pop tomorrow. It doesn’t matter what anyone else thinks SpaceX is worth ; it matters what Musk says. Actually there was some price discovery, and SpaceX is going public at roughly the market-clearing price. It just didn’t need...",
+      "publishedAt": "2026-06-11T19:58:57.158Z",
+      "articleId": "e90a67f2e2d70b1a"
+    },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/9ncik2u6edxfbyba8te2.html",
       "title": "The Brew Shop - Weekly Email Update",
@@ -864,17 +886,6 @@
       "articleId": "3b006ec985dd5ad6"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bv4x4ovlo6e6iwrph94c.html",
-      "title": "Money Stuff: Google Needs More Money",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bv4x4ovlo6e6iwrph94c.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff AI equity, AI debt, shorts and bar tabs. View in browser Google You could tell a stylized story of the stock market in three phases. Historically, the point of the stock market was to raise money for companies to do stuff. You wanted to start a railroad, you needed money to build tracks, so you went out and sold stock to investors to raise the money. People bought stock to fund companies, and when the companies did well, they were able to pay nice dividends to their investors. The stock market of the 21st century is different, in at least three ways: A lot of the biggest and most successful modern companies are not particularly capital-intensive . They’re, like, websites. You don’t need that much capital to build a social media site, or a ridesharing platform, or a software-as-a-service business. These are businesses with low marginal costs that can scale up without raising new capital. To the extent they do need to raise a lot of money, they often do it early and in private markets. “Private markets are the new public markets,” I often say: There’s a lot of money in private markets, it is easier and more pleasant to stay private, and so companies tend to fund their growth in private markets before going public. Now companies tend to return money to investors by buying back stock rather than by paying dividends. I wrote back in 2015 that “the public stock markets are increasingly about capital return rather than capital raising ”: The main thing that public companies do in the stock market is buy back stock, not sell it. “Equity retirements have been consistently greater than issuances,” said the Federal Reserve back in 2017 , and since then net equity issuance by US companies — the amount of stock they sell to raise money, minus the amount they buy back — has remained consistently negative . Meta Platforms Inc., which has a market capitalization of $1.5 trillion, has sold a total of about $11.2 billion of stock in its history; it bought back about $23.6 billion of stock last year. Building a website doesn’t cost very much money, but if it’s the right website it generates a lot of money. But perhaps now we are entering into a third phase: A lot of the biggest and most successful companies now are enormously capital-intensive . They are artificial-intelligence hyperscalers, and their business model is like “build nuclear power plants and orbital data centers and massive chip fabrication facilities.” After years in which the cutting edge of the economy was nearly zero-marginal-cost software, now the cutting edge of the economy is extremely capital-intensive, uh, software . The private markets can provide many tens of billions of dollars to those companies, but there’s some limit. Even if the successful companies redirect their huge profits...",
-      "publishedAt": "2026-06-02T18:16:47.984Z",
-      "articleId": "3f18793530da11a9"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/grammy-losers-and-winners-an-album",
       "title": "Grammy Losers and Winners: An Album a Day",
       "url": "https://www.cantgetmuchhigher.com/p/grammy-losers-and-winners-an-album",
@@ -895,17 +906,6 @@
       "summary": "The Giants can’t chase memories. They can’t have any illusions that the highlights of the past will be repeated.",
       "publishedAt": "2026-06-02T13:26:53.000Z",
       "articleId": "10bc8ee0d820dd3a"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-triumph-of-capital",
-      "title": "The triumph of capital",
-      "url": "https://www.slowboring.com/p/the-triumph-of-capital",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It&#8217;s been a great generation to have started out rich.",
-      "publishedAt": "2026-06-02T10:02:23.000Z",
-      "articleId": "5c95730ee83dbc5b"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-google-capital-company/",
@@ -1753,17 +1753,6 @@
       "summary": "The \"economic divorce\" between the two countries is proceeding slowly, but it is proceeding.",
       "publishedAt": "2026-05-13T09:40:06.000Z",
       "articleId": "964ea640c2801667"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/a-big-lesson-of-my-china-visit-compute",
-      "title": "A big lesson of my China visit: compute shortages are holding back Chinese AI",
-      "url": "https://www.understandingai.org/p/a-big-lesson-of-my-china-visit-compute",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "One estimate suggests that OpenAI has about as much compute as the entire Chinese AI industry.",
-      "publishedAt": "2026-05-12T21:15:27.000Z",
-      "articleId": "d05bfa232c3f34ca"
     }
   ],
   "sources": [
@@ -1778,16 +1767,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1859,7 +1848,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
