@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-12T21:04:18.113Z",
-  "fetchedAt": "2026-06-12T21:04:18.110Z",
+  "generatedAt": "2026-06-12T22:45:27.423Z",
+  "fetchedAt": "2026-06-12T22:45:27.419Z",
   "sourceCount": 21,
   "itemCount": 159,
   "totalItemCount": 755,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-german-soccer-fan-walks-into-a",
+      "title": "A German soccer fan walks into a Buc-ee’s and discovers abundance",
+      "url": "https://www.slowboring.com/p/a-german-soccer-fan-walks-into-a",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The World Cup tourists helping me see America",
+      "publishedAt": "2026-06-12T22:00:45.000Z",
+      "articleId": "b032708ec8c1e0df"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/safety-and-nation-building-in-mexico.html?utm_source=rss&utm_medium=rss&utm_campaign=safety-and-nation-building-in-mexico",
       "title": "Safety and nation-building in Mexico",
@@ -884,17 +895,6 @@
       "summary": "Come work with us, part time",
       "publishedAt": "2026-06-03T15:02:00.000Z",
       "articleId": "3575dc1945a490d3"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/learning-from-polands-economic-success",
-      "title": "Learning from Poland’s economic success story",
-      "url": "https://www.slowboring.com/p/learning-from-polands-economic-success",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "&#8220;European&#8221; features like universal health care and a high minimum wage are fine.",
-      "publishedAt": "2026-06-03T10:01:18.000Z",
-      "articleId": "0e2d161516c56192"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
