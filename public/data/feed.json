@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-12T11:07:44.119Z",
-  "fetchedAt": "2026-06-12T11:07:44.114Z",
+  "generatedAt": "2026-06-12T15:35:29.317Z",
+  "fetchedAt": "2026-06-12T15:35:29.311Z",
   "sourceCount": 21,
-  "itemCount": 162,
+  "itemCount": 161,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-june-2026",
+      "title": "What’s new in biology: June 2026",
+      "url": "https://www.worksinprogress.news/p/whats-new-in-biology-june-2026",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "The most effective weight-loss drug so far, cancer breakthroughs, gene editing for cholesterol, ancestral CRISPR systems, and more.",
+      "publishedAt": "2026-06-12T13:02:51.000Z",
+      "articleId": "ab17b0cd0e7fa696"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/here-comes-the-sunscreen.html?utm_source=rss&utm_medium=rss&utm_campaign=here-comes-the-sunscreen",
+      "title": "Here Comes the Sun(screen)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/here-comes-the-sunscreen.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I have been banging on about FDA delay in approving new sunscreens since 2013. Well it has finally happened. Twenty six years after being approved by the European Union and thirteen years after then-FDA Commissioner Margaret A. Hamburg told lawmakers that sorting out the sunscreen issue was “one of the highest priorities” the FDA has [&#8230;] The post Here Comes the Sun(screen) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-12T11:19:38.000Z",
+      "articleId": "99fd8bf5d63ac8c3"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/hard-work-is-good",
       "title": "Hard work is good",
@@ -477,17 +499,6 @@
       "summary": "Claude Fable represents another big jump in AI",
       "publishedAt": "2026-06-09T17:11:22.000Z",
       "articleId": "a4aa2e5dc2a76566"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-572",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-572.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Birthing a child in South Korea. 2. Those new service sector jobs (NYT). 3. Britain launches AI Economics Institute. 4. House Committee makes effort to speed up clinical trials. 5. Those new manufacturing sector jobs. 6. More comments on phones and fertility. 7. Gordon Wood, RIP (NYT), his books are great. The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-09T15:57:55.000Z",
-      "articleId": "839bcdebc5f0c9db"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/this-year-an-album-a-day",
@@ -1764,28 +1775,6 @@
       "summary": "The procedure for the New York Giants receiver was described as a \"clean up.\"",
       "publishedAt": "2026-05-13T20:07:15.000Z",
       "articleId": "518d33688ee84a0e"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/how-asml-took-over-the-world",
-      "title": "How ASML took over the world",
-      "url": "https://www.worksinprogress.news/p/how-asml-took-over-the-world",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The strange path to global monopoly",
-      "publishedAt": "2026-05-13T14:02:38.000Z",
-      "articleId": "1d95d79d5e6cacdd"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nostalgebraists-hydrogen-jukeboxes",
-      "title": "Nostalgebraist's Hydrogen Jukeboxes",
-      "url": "https://www.astralcodexten.com/p/nostalgebraists-hydrogen-jukeboxes",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-05-13T12:16:41.000Z",
-      "articleId": "3b76f8e1a22fdeb5"
     }
   ],
   "sources": [
