@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-11T22:12:48.778Z",
-  "fetchedAt": "2026-06-11T22:12:48.773Z",
+  "generatedAt": "2026-06-12T01:37:17.485Z",
+  "fetchedAt": "2026-06-12T01:37:17.480Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 755,
+  "itemCount": 160,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/anthropics-fable-is-the-most-locked",
+      "title": "Anthropic’s Fable is the most locked-down public model we’ve ever seen",
+      "url": "https://www.understandingai.org/p/anthropics-fable-is-the-most-locked",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "How Anthropic decides which questions are too dangerous for Claude to answer.",
+      "publishedAt": "2026-06-11T22:50:11.000Z",
+      "articleId": "4354e55b097d601f"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/my-ai-opinions",
       "title": "My AI Opinions",
@@ -26,6 +37,17 @@
       "summary": "Money Stuff SpaceX, trade-through, Saba, Kraftwerk. View in browser SpaceX SpaceX SpaceX The normal thing to say is that SpaceX’s initial public offering “ is set to price June 11 ” — today — “and trade the following day.” SpaceX’s bankers have been marketing its shares to investors for the past week, and this afternoon, after the market closes, they will get together, review the demand for the IPO, and “price” the IPO, that is, decide the price at which SpaceX will sell shares to investors. Then they will decide how many shares each investor will get and tell the investors what they’re getting. Then, sometime tomorrow, the stock will open for trading: Some people who got shares in the IPO will put in orders to sell, [1] people who didn’t get shares in the IPO (or who want more) will put in orders to buy, the stock exchange will take a few hours figuring out how to match up those orders, and eventually the orders will be matched and the stock will start trading. That’s the normal approach. SpaceX, though, started with a price. SpaceX launched its IPO marketing by saying that it is selling 555,555,555 shares at $135 per share. The deal is “pricing” this afternoon, in a formal sense, and I suppose it’s possible the price or size might still change, but probably the real pricing happened a week ago. (The “offering has attracted demand for more than four times the available shares” at that $135 price, Bloomberg reports , and the order books closed yesterday.) The Financial Times reports : Elon Musk’s lossmaking rockets-to-AI group is expected to make its market debut on Friday following what is set to be the biggest IPO on record, offering shares at $135 each, a set price that several people involved in the deal said left underwriters with less flexibility than is typical in a conventional listing. … “Elon just came in and said what the price was . . . there was no price discovery,” said an executive at a large US hedge fund. Is that right? Here are four possibilities: Musk picked an arbitrary price that is way off-base, and the stock will fall 50% or go up 300% tomorrow. Musk picked a price that was precisely correct, because he is a genius, and the stock will go up 20% tomorrow. (Twenty percent is the perfect IPO pop, making money for investors without leaving too much on the table.) Musk picked an arbitrary price, but because of his reality-distortion powers, it became the precisely correct price. “If Elon Musk says the IPO price is $135 then that’s the perfect IPO price,” everyone will say, and there will be a perfect 20% IPO pop tomorrow. It doesn’t matter what anyone else thinks SpaceX is worth ; it matters what Musk says. Actually there was some price discovery, and SpaceX is going public at roughly the market-clearing price. It just didn’t need...",
       "publishedAt": "2026-06-11T19:58:57.158Z",
       "articleId": "e90a67f2e2d70b1a"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/las-vegas-and-a-mcdonalds-convention",
+      "title": "Las Vegas and a McDonald's Convention",
+      "url": "https://walkingtheworld.substack.com/p/las-vegas-and-a-mcdonalds-convention",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Sheltering from the sun, hedonism, and emptiness at McDonald's Worldwide 2026",
+      "publishedAt": "2026-06-11T19:30:46.000Z",
+      "articleId": "619e69095b0e55ec"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/9ncik2u6edxfbyba8te2.html",
@@ -433,17 +455,6 @@
       "summary": "Your hot takes won&#8217;t solve the major riddles of Western philosophy.",
       "publishedAt": "2026-06-09T10:02:44.000Z",
       "articleId": "a3ff2809f31c2c32"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/no-lead-is-safe-in-the-2026-stanley",
-      "title": "No Lead Is Safe In the 2026 Stanley Cup Final",
-      "url": "https://neilpaine.substack.com/p/no-lead-is-safe-in-the-2026-stanley",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "After three games of huge comebacks and historic win-probability chaos, being ahead has never looked so dangerous.",
-      "publishedAt": "2026-06-09T10:02:02.000Z",
-      "articleId": "d00163b9ae6a5136"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-iphones-last-stand/",
@@ -1767,10 +1778,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1832,7 +1843,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
