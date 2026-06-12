@@ -1,18 +1,51 @@
 {
-  "generatedAt": "2026-06-12T06:54:13.773Z",
-  "fetchedAt": "2026-06-12T06:54:13.769Z",
+  "generatedAt": "2026-06-12T11:07:44.119Z",
+  "fetchedAt": "2026-06-12T11:07:44.114Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 764,
+  "itemCount": 162,
+  "totalItemCount": 766,
   "items": [
     {
+      "id": "Slow Boring:https://www.slowboring.com/p/hard-work-is-good",
+      "title": "Hard work is good",
+      "url": "https://www.slowboring.com/p/hard-work-is-good",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus an Ike-less America, the case for Alex Bores, and basketball globalization",
+      "publishedAt": "2026-06-12T10:01:58.000Z",
+      "articleId": "3b3598316679b2fc"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-lynx-lost-their-mvp-somehow-they",
+      "title": "The Lynx Lost Their MVP. Somehow, They Got Better.",
+      "url": "https://neilpaine.substack.com/p/the-lynx-lost-their-mvp-somehow-they",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Minnesota was supposed to be in survival mode until Napheesa Collier returned. Instead, rookie Olivia Miles has turned them into WNBA title favorites — and maybe something even scarier later on.",
+      "publishedAt": "2026-06-12T10:01:38.000Z",
+      "articleId": "5e535c814e5bef56"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7352160/2026/06/12/ny-giants-malik-nabers-john-harbaugh-minicamp/",
+      "title": "Giants' offense needs Malik Nabers to get well soon: Minicamp takeaways",
+      "url": "https://www.nytimes.com/athletic/7352160/2026/06/12/ny-giants-malik-nabers-john-harbaugh-minicamp/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Nabers’ return is critical because the wide receiver room is full of parts that could complement him, but is uninspiring in his absence.",
+      "publishedAt": "2026-06-12T09:00:56.000Z",
+      "articleId": "237f877f139d8b4d"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html?utm_source=rss&utm_medium=rss&utm_campaign=again-the-paper-format-will-be-dying-out",
-      "title": "Again, the paper format will be dying out",
+      "title": "Again, the research paper format will be dying out",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "From Xudong Han: &#8216;Recently, I came across a paper co-authored by 37 authors from Stanford, CMU, Michigan, and elsewhere: *The Last Human-Written Paper*. The core argument is pretty brutal: the paper format we&#8217;ve been using for centuries might already be obsolete in the AI era. The authors point out two &#8220;invisible taxes&#8221; that we&#8217;ve long [&#8230;] The post Again, the paper format will be dying out appeared first on Marginal REVOLUTION .",
+      "summary": "From Xudong Han: &#8216;Recently, I came across a paper co-authored by 37 authors from Stanford, CMU, Michigan, and elsewhere: *The Last Human-Written Paper*. The core argument is pretty brutal: the paper format we&#8217;ve been using for centuries might already be obsolete in the AI era. The authors point out two &#8220;invisible taxes&#8221; that we&#8217;ve long [&#8230;] The post Again, the research paper format will be dying out appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-12T06:44:10.000Z",
       "articleId": "c2ce8c76adf85be4"
     },
@@ -1753,17 +1786,6 @@
       "summary": "...",
       "publishedAt": "2026-05-13T12:16:41.000Z",
       "articleId": "3b76f8e1a22fdeb5"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/trump-actually-started-to-decouple",
-      "title": "Trump actually started to decouple America from China",
-      "url": "https://www.noahpinion.blog/p/trump-actually-started-to-decouple",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The \"economic divorce\" between the two countries is proceeding slowly, but it is proceeding.",
-      "publishedAt": "2026-05-13T09:40:06.000Z",
-      "articleId": "964ea640c2801667"
     }
   ],
   "sources": [
@@ -1843,7 +1865,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1859,7 +1881,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
