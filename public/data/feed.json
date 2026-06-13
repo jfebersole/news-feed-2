@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-12T22:45:27.423Z",
-  "fetchedAt": "2026-06-12T22:45:27.419Z",
+  "generatedAt": "2026-06-13T01:33:22.792Z",
+  "fetchedAt": "2026-06-13T01:33:22.788Z",
   "sourceCount": 21,
   "itemCount": 159,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-german-soccer-fan-walks-into-a",
@@ -1767,10 +1767,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
