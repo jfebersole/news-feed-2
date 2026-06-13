@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-13T18:22:05.334Z",
-  "fetchedAt": "2026-06-13T18:22:05.323Z",
+  "generatedAt": "2026-06-13T20:38:23.044Z",
+  "fetchedAt": "2026-06-13T20:38:23.039Z",
   "sourceCount": 21,
-  "itemCount": 156,
+  "itemCount": 155,
   "totalItemCount": 765,
   "items": [
     {
@@ -1709,17 +1709,6 @@
       "summary": "Comfortable, leisurely, pleasant stagnation is just not good enough for the modern age.",
       "publishedAt": "2026-05-15T07:55:22.000Z",
       "articleId": "9978bafc4a5438d9"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
-      "title": "Why it might not make sense for you to own a self-driving car",
-      "url": "https://www.understandingai.org/p/why-it-might-not-make-sense-for-you",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "Tensor let me sit in their driverless car. It might go on sale in the US next year.",
-      "publishedAt": "2026-05-14T19:36:17.000Z",
-      "articleId": "93a05d275c47bea8"
     }
   ],
   "sources": [
