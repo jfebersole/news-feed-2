@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-13T16:42:24.508Z",
-  "fetchedAt": "2026-06-13T16:42:24.504Z",
+  "generatedAt": "2026-06-13T18:22:05.334Z",
+  "fetchedAt": "2026-06-13T18:22:05.323Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 766,
+  "itemCount": 156,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-565",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-565.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Soccer and economic growth. 2. The AI scenario for Europe? 3. The smart version of the AI is a bubble argument. 4. Ken Opalo reviews Studwell on Africa. 5. The influence of AI on non-fiction books? 6. The economics behind the San Antonio Spurs. 7. On the new Macca album. The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-13T17:26:54.000Z",
+      "articleId": "df54fbfca9ea28f4"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
       "title": "Does U.F.O. Disclosure Threaten Faith?",
@@ -468,17 +479,6 @@
       "articleId": "466df75a4aa5d03c"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-557.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-557",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-557.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. New edition of Copernicus on money. 2. Denazification of the United States? Denazification actually consisted of: &#8220;&#8230;dissolution of Nazi organizations, licensing/control of new political organizations, individual classification by denazification tribunals, and temporary or permanent disabilities on voting, standing for office, party membership, officeholding, public speech professions, and public/private employment.&#8221; 3. Faster replies increase your [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-10T16:15:54.000Z",
-      "articleId": "8cd8e32f061a1c93"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/the-silent-revolutionaries",
       "title": "The silent revolutionaries",
       "url": "https://scottsumner.substack.com/p/the-silent-revolutionaries",
@@ -928,17 +928,6 @@
       "summary": "Episode 18 is about Victorian urbanism",
       "publishedAt": "2026-06-03T15:12:34.000Z",
       "articleId": "4fd8dcf60be19a49"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/were-hiring-3ab",
-      "title": "We're hiring!",
-      "url": "https://www.slowboring.com/p/were-hiring-3ab",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Come work with us, part time",
-      "publishedAt": "2026-06-03T15:02:00.000Z",
-      "articleId": "3575dc1945a490d3"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
@@ -1731,39 +1720,6 @@
       "summary": "Tensor let me sit in their driverless car. It might go on sale in the US next year.",
       "publishedAt": "2026-05-14T19:36:17.000Z",
       "articleId": "93a05d275c47bea8"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-great-forgetting",
-      "title": "The Great Forgetting",
-      "url": "https://scottsumner.substack.com/p/the-great-forgetting",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "How motivated reasoning frames economic debates",
-      "publishedAt": "2026-05-14T18:08:13.000Z",
-      "articleId": "f46abcf1c4d0de08"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/12/opinion/uk-elections-post-liberalism.html",
-      "title": "Britain’s Post-Liberal Disorder",
-      "url": "https://www.nytimes.com/2026/05/12/opinion/uk-elections-post-liberalism.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Britain’s post-liberal disorder.",
-      "publishedAt": "2026-05-14T17:32:22.000Z",
-      "articleId": "0668fb107ab540af"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/settling-the-greatest-guitar-solo",
-      "title": "Settling the Greatest Guitar Solo Debate",
-      "url": "https://www.cantgetmuchhigher.com/p/settling-the-greatest-guitar-solo",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, just making you angrier",
-      "publishedAt": "2026-05-14T17:31:45.000Z",
-      "articleId": "25f1293dec5fd454"
     }
   ],
   "sources": [
@@ -1859,7 +1815,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
