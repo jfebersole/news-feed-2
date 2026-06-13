@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-13T06:30:47.362Z",
-  "fetchedAt": "2026-06-13T06:30:47.357Z",
+  "generatedAt": "2026-06-13T10:06:59.232Z",
+  "fetchedAt": "2026-06-13T10:06:59.227Z",
   "sourceCount": 21,
-  "itemCount": 158,
-  "totalItemCount": 765,
+  "itemCount": 159,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-7-12-2026",
+      "title": "The Week That Was (June 7-12, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-june-7-12-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-06-13T10:01:38.000Z",
+      "articleId": "26aef46355a8c505"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/degrowth-would-make-europeans-into",
+      "title": "Degrowth would make Europeans into \"Europoors\"",
+      "url": "https://www.noahpinion.blog/p/degrowth-would-make-europeans-into",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Why Europe must grow.",
+      "publishedAt": "2026-06-13T08:25:32.000Z",
+      "articleId": "26992d85e247d6e9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-did-stanislaw-lem-imagine-advanced-computer-intelligence.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-stanislaw-lem-imagine-advanced-computer-intelligence",
+      "title": "How did Stanislaw Lem imagine advanced computer intelligence?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-did-stanislaw-lem-imagine-advanced-computer-intelligence.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "&#8230;GOLEM&#8217;s behavior is unpredictable. Sometimes it converses courteously with people, whereas on other occasions any attempt at contact misfires. GOLEM sometimes cracks jokes, too, though its sense of humor is fundamentally different from man&#8217;s. Much depends on its interlocutors. In exceptional casese GOLEM will show a certain interest in people who are talented in a [&#8230;] The post How did Stanislaw Lem imagine advanced computer intelligence? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-13T07:22:02.000Z",
+      "articleId": "733f3d9d3c065663"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/why-is-america-less-of-a-24-7-society.html?utm_source=rss&utm_medium=rss&utm_campaign=why-is-america-less-of-a-24-7-society",
       "title": "Why is America less of a 24/7 society?",
@@ -455,17 +488,6 @@
       "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
       "publishedAt": "2026-06-10T10:00:00.000Z",
       "articleId": "c9d675b7b2379e80"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/therapy-to-make-cells-young-again-trialled-in-a-person.html?utm_source=rss&utm_medium=rss&utm_campaign=therapy-to-make-cells-young-again-trialled-in-a-person",
-      "title": "Therapy to make cells young again trialled in a person",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/therapy-to-make-cells-young-again-trialled-in-a-person.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the Nature article. The post Therapy to make cells young again trialled in a person appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-10T09:40:15.000Z",
-      "articleId": "e086c709b25e7a62"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of",
@@ -1731,17 +1753,6 @@
       "summary": "The secrets of one of the architects of the religious right are being revealed. One of the secrets is that they weren’t really secrets.",
       "publishedAt": "2026-05-14T15:09:01.000Z",
       "articleId": "8da41ce019065592"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7277890/2026/05/14/new-york-giants-notebook-defensive-tackle-signings/",
-      "title": "How the Giants rebuilt their defensive tackle depth chart in 3 weeks",
-      "url": "https://www.nytimes.com/athletic/7277890/2026/05/14/new-york-giants-notebook-defensive-tackle-signings/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, why an Odell Beckham Jr. reunion remains unlikely, and the latest on Malik Nabers and the kicking competition.",
-      "publishedAt": "2026-05-14T09:30:25.000Z",
-      "articleId": "5528546bbc421c9f"
     }
   ],
   "sources": [
@@ -1821,7 +1832,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
