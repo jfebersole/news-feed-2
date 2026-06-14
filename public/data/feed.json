@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-14T12:13:01.275Z",
-  "fetchedAt": "2026-06-14T12:13:01.270Z",
+  "generatedAt": "2026-06-14T15:15:53.895Z",
+  "fetchedAt": "2026-06-14T15:15:53.891Z",
   "sourceCount": 21,
-  "itemCount": 154,
+  "itemCount": 155,
   "totalItemCount": 755,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
+      "title": "What the Cult of Efficiency Costs Us",
+      "url": "https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The Save Our Bacon Act is bad for pigs and bad for us.",
+      "publishedAt": "2026-06-14T13:48:07.000Z",
+      "articleId": "8350b58dc9642f12"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/big-in-the-uk-not-so-much-in-the",
+      "title": "Big in the UK, Not So Much in the US",
+      "url": "https://www.cantgetmuchhigher.com/p/big-in-the-uk-not-so-much-in-the",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "When each side of the Atlantic disagrees",
+      "publishedAt": "2026-06-14T13:31:27.000Z",
+      "articleId": "cb3c0bf56c7a8c88"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-cultural-war-is-a-civil-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-cultural-war-is-a-civil-war",
       "title": "The Cultural War is a Civil War",
@@ -26,17 +48,6 @@
       "summary": "Christian nationalism has dark forebears.",
       "publishedAt": "2026-06-14T10:00:21.000Z",
       "articleId": "bfe111bddf3bdbb7"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
-      "title": "What the Cult of Efficiency Costs Us",
-      "url": "https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The Save Our Bacon Act is bad for pigs and bad for us.",
-      "publishedAt": "2026-06-14T10:00:19.000Z",
-      "articleId": "8350b58dc9642f12"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=the-bullish-case-for-brazil",
