@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T19:54:22.484Z",
-  "fetchedAt": "2026-06-14T19:54:22.480Z",
+  "generatedAt": "2026-06-14T21:36:18.454Z",
+  "fetchedAt": "2026-06-14T21:36:18.449Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
