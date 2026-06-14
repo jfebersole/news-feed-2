@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-14T09:54:39.315Z",
-  "fetchedAt": "2026-06-14T09:54:39.310Z",
+  "generatedAt": "2026-06-14T12:13:01.275Z",
+  "fetchedAt": "2026-06-14T12:13:01.270Z",
   "sourceCount": 21,
-  "itemCount": 153,
-  "totalItemCount": 765,
+  "itemCount": 154,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-cultural-war-is-a-civil-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-cultural-war-is-a-civil-war",
+      "title": "The Cultural War is a Civil War",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-cultural-war-is-a-civil-war.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Kevin Bryan riffs on on my post The Nationalization of American Science. He is rightfully incensed: AT is right this is a red tape-filled science policy of &#8220;losers&#8221;. If you think &#8220;cut funds from DEI-driven professors in the small departments no one cares about&#8221; is more important than &#8220;make sure the world&#8217;s strongest fundamental science [&#8230;] The post The Cultural War is a Civil War appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-14T11:18:35.000Z",
+      "articleId": "6717e4f08696e1ad"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
+      "title": "MAGA’s French Connection",
+      "url": "https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Christian nationalism has dark forebears.",
+      "publishedAt": "2026-06-14T10:00:21.000Z",
+      "articleId": "bfe111bddf3bdbb7"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
+      "title": "What the Cult of Efficiency Costs Us",
+      "url": "https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The Save Our Bacon Act is bad for pigs and bad for us.",
+      "publishedAt": "2026-06-14T10:00:19.000Z",
+      "articleId": "8350b58dc9642f12"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=the-bullish-case-for-brazil",
       "title": "The bullish case for Brazil",
@@ -433,17 +466,6 @@
       "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Katja discuss why communism made East Germans more loyal to the system while it bred dissidents in Poland and Hungary, how happy or unhappy life in the GDR actually was, Tyler’s own bleak day-trip to East Berlin in 1984, [&#8230;] The post My excellent Conversation with Katja Hoyer appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-11T05:15:39.000Z",
       "articleId": "5c4622813b096923"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/what-do-the-ais-think-of-us.html?utm_source=rss&utm_medium=rss&utm_campaign=what-do-the-ais-think-of-us",
-      "title": "What do the AIs think of us?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/what-do-the-ais-think-of-us.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Asked to answer as a typical human, every cutting-edge model rated us markedly more neurotic, less open, less agreeable and less conscientious than they rated themselves. The gap on Neuroticism alone is 1.69 points on a 5-point scale. Here is more material of interest. And this: Across 31 models from those seven labs they answer [&#8230;] The post What do the AIs think of us? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-11T01:06:14.000Z",
-      "articleId": "4dfffea15aa80f23"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
@@ -1676,17 +1698,6 @@
       "summary": "Does Xi Jinping see the world this way?",
       "publishedAt": "2026-05-16T11:28:09.000Z",
       "articleId": "4862f80f6a3eff60"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/fed-board-members-stay-in-your-seats",
-      "title": "Fed Board Members: Stay In Your Seats",
-      "url": "https://www.joshbarro.com/p/fed-board-members-stay-in-your-seats",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Protecting central bank independence will be an ongoing struggle; the most important thing is that no board members resign anytime soon.",
-      "publishedAt": "2026-05-15T11:39:19.000Z",
-      "articleId": "3ab7a03ce2626242"
     }
   ],
   "sources": [
@@ -1701,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
