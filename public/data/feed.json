@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-14T15:15:53.895Z",
-  "fetchedAt": "2026-06-14T15:15:53.891Z",
+  "generatedAt": "2026-06-14T17:42:21.082Z",
+  "fetchedAt": "2026-06-14T17:42:21.077Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-06-14T17:01:48.000Z",
+      "articleId": "3a33d9512928f678"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-571",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-571.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Chinese overtake Dominicans as NYC&#8217;s most numerous foreign-born group. 2. David Hockney embraced tech (NYT). And do not forget his writings, not to mention his persona and also his role in gay history and liberation. He was truly one of the great Englishmen, as he had been doing first-rate work since what, 1954? 3. [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-14T15:41:52.000Z",
+      "articleId": "6801c7e5f8960960"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
       "title": "What the Cult of Efficiency Costs Us",
@@ -90,7 +112,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "Steven Spielberg’s ‘Disclosure Day’ and the God-and-aliens debate.",
-      "publishedAt": "2026-06-13T12:08:04.000Z",
+      "publishedAt": "2026-06-13T12:08:05.000Z",
       "articleId": "e50f427490f638dc"
     },
     {
@@ -466,17 +488,6 @@
       "summary": "We didn't evolve to live our lives as terminals of a digital hive-mind.",
       "publishedAt": "2026-06-11T07:38:27.000Z",
       "articleId": "1bbc1184f66b72ea"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-excellent-conversation-with-katja-hoyer.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-katja-hoyer",
-      "title": "My excellent Conversation with Katja Hoyer",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-excellent-conversation-with-katja-hoyer.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Katja discuss why communism made East Germans more loyal to the system while it bred dissidents in Poland and Hungary, how happy or unhappy life in the GDR actually was, Tyler’s own bleak day-trip to East Berlin in 1984, [&#8230;] The post My excellent Conversation with Katja Hoyer appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-11T05:15:39.000Z",
-      "articleId": "5c4622813b096923"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
@@ -917,17 +928,6 @@
       "summary": "The struggle against excessive corporate power needs better standard-bearers.",
       "publishedAt": "2026-06-04T05:52:29.000Z",
       "articleId": "b42e40bbaf41bd6f"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-housing-regulator-is-now-also",
-      "title": "The housing regulator is now also the spymaster",
-      "url": "https://www.slowboring.com/p/the-housing-regulator-is-now-also",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus a $6.8 billion bet on homebuilding, $70,000 in Chicago grants, and what sex toy data tells us about the affordability crisis",
-      "publishedAt": "2026-06-03T22:01:40.000Z",
-      "articleId": "bb60eb82733e286d"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7n2szb884se3v99db1kb.html",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
