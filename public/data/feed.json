@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-14T17:42:21.082Z",
-  "fetchedAt": "2026-06-14T17:42:21.077Z",
+  "generatedAt": "2026-06-14T19:54:22.484Z",
+  "fetchedAt": "2026-06-14T19:54:22.480Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
+      "title": "MAGA’s French Connection",
+      "url": "https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "This is MAGA’s French connection.",
+      "publishedAt": "2026-06-14T17:44:49.000Z",
+      "articleId": "bfe111bddf3bdbb7"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
       "title": "Sunday Thread + Mailbag",
@@ -59,17 +70,6 @@
       "summary": "Kevin Bryan riffs on on my post The Nationalization of American Science. He is rightfully incensed: AT is right this is a red tape-filled science policy of &#8220;losers&#8221;. If you think &#8220;cut funds from DEI-driven professors in the small departments no one cares about&#8221; is more important than &#8220;make sure the world&#8217;s strongest fundamental science [&#8230;] The post The Cultural War is a Civil War appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-14T11:18:35.000Z",
       "articleId": "6717e4f08696e1ad"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
-      "title": "MAGA’s French Connection",
-      "url": "https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Christian nationalism has dark forebears.",
-      "publishedAt": "2026-06-14T10:00:21.000Z",
-      "articleId": "bfe111bddf3bdbb7"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=the-bullish-case-for-brazil",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
