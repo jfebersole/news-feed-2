@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/06/general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks.html",
+  "source": "Marginal Revolution",
+  "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-06-15T05:16:01.000Z",
+  "contentHtml": "<p>This result does not surprise me at all.&nbsp; Here is part of the abstract:</p>\n<blockquote><p>Frontier LLMs outperformed clinical AI tools in all three evaluations. Clinical AI tools performed comparably to auto-enabled Google Search AI Overview on the RCQ. These findings highlight the need for independent, real-world evaluation of AI tools before they enter clinical settings.</p></blockquote>\n<p><a href=\"https://www.nature.com/articles/s41591-026-04431-5\" target=\"_blank\" rel=\"noopener noreferrer\">From Krithik Viswanath, et.al</a>.&nbsp; As a side note, this (and the more general version of the point) is one big reason why some fairly large number of Emergent Ventures proposals are rejected rather quickly.</p>",
+  "wordCount": 89,
+  "imageCount": 0,
+  "linkCount": 1
+}
