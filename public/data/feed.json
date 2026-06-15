@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-06-15T05:24:29.371Z",
-  "fetchedAt": "2026-06-15T05:24:29.367Z",
+  "generatedAt": "2026-06-15T12:39:30.054Z",
+  "fetchedAt": "2026-06-15T12:39:30.050Z",
   "sourceCount": 21,
-  "itemCount": 155,
+  "itemCount": 154,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/republic-of-ireland-china-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=republic-of-ireland-china-fact-of-the-day",
+      "title": "Republic of Ireland (China) fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/republic-of-ireland-china-fact-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Sam Enright emails me: In the most recent census (2022), 1,017,437 people in Ireland were born abroad. Even if you classify people from Taiwan as &#8220;foreigners&#8221;, there are 845,697 + 157,886 = 1,003,583 immigrants to China. There are now more foreigners in Ireland than in China in absolute terms, despite having a population that is 260 times smaller. The post Republic of Ireland (China) fact of the day appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-15T11:54:45.000Z",
+      "articleId": "adc37749afed1826"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/against-the-positive-good-theory",
+      "title": "Against the “Positive Good” theory of Platner",
+      "url": "https://www.slowboring.com/p/against-the-positive-good-theory",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "An absurd cope to avoid wrestling with reality",
+      "publishedAt": "2026-06-15T10:02:01.000Z",
+      "articleId": "307200afd1b3a16e"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/anthropics-safety-superpower/",
+      "title": "Anthropic’s Safety Superpower",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+      "publishedAt": "2026-06-15T10:00:00.000Z",
+      "articleId": "1ec498fc7b2df08b"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/will-china-inc-be-zombified",
+      "title": "Will China, Inc. be zombified?",
+      "url": "https://www.noahpinion.blog/p/will-china-inc-be-zombified",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A question surprisingly few people are asking.",
+      "publishedAt": "2026-06-15T09:17:45.000Z",
+      "articleId": "1a861034ca22335d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html?utm_source=rss&utm_medium=rss&utm_campaign=who-leads-relative-age-effects-on-social-capital",
+      "title": "Who Leads? Relative Age Effects on Social Capital",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A fascinating paper and result: This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with [&#8230;] The post Who Leads? Relative Age Effects on Social Capital appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-15T06:12:08.000Z",
+      "articleId": "9eedf8fc2a34271c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks.html?utm_source=rss&utm_medium=rss&utm_campaign=general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks",
       "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
@@ -314,17 +369,6 @@
       "articleId": "c2ce8c76adf85be4"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/orwell-on-dickens-and-progress.html?utm_source=rss&utm_medium=rss&utm_campaign=orwell-on-dickens-and-progress",
-      "title": "Orwell on Dickens and progress",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/orwell-on-dickens-and-progress.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "What is more striking, in a seemingly ‘progressive’ radical, is that he is not mechanically minded. He shows no interest either in the details of machinery or in the things machinery can do. As Gissing remarks, Dickens nowhere describes a railway journey with anything like the enthusiasm he shows in describing journeys by stage-coach. In [&#8230;] The post Orwell on Dickens and progress appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-12T04:59:16.000Z",
-      "articleId": "a60eed4dec2e74af"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/anthropics-fable-is-the-most-locked",
       "title": "Anthropic’s Fable is the most locked-down public model we’ve ever seen",
       "url": "https://www.understandingai.org/p/anthropics-fable-is-the-most-locked",
@@ -378,17 +422,6 @@
       "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-06-11T18:48:19.406Z",
       "articleId": "378969512c64f107"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/a-simple-reason-for-skepticism-about-the-iphones-fertility-link.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-reason-for-skepticism-about-the-iphones-fertility-link",
-      "title": "A simple reason for skepticism about the iPhones/fertility link",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/a-simple-reason-for-skepticism-about-the-iphones-fertility-link.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the background to the debate. Here is more from Noah. Here is a thread from researcher Caitlin Myers. And here is some basic information: In 2008, 1.9% is the share of the mobile-subscribing population with an iPhone wireless subscription. As a percent of all adults that is 1.6%. In 2009, it is 4.3%. [&#8230;] The post A simple reason for skepticism about the iPhones/fertility link appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-11T18:07:22.000Z",
-      "articleId": "fb30831c1c8152f6"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/can-pop-music-be-epic",
@@ -908,17 +941,6 @@
       "articleId": "edb5b3da2f4b3a89"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/can-ai-cure-cancer",
-      "title": "Can AI Cure Cancer?",
-      "url": "https://www.slowboring.com/p/can-ai-cure-cancer",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A special live episode with Kelsey Piper and Jerusalem Demsas",
-      "publishedAt": "2026-06-04T09:02:11.000Z",
-      "articleId": "2b6327793c413c4c"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/im-kind-of-over-the-whole-anti-monopoly",
       "title": "I'm kind of over the whole \"Anti-monopoly\" movement",
       "url": "https://www.noahpinion.blog/p/im-kind-of-over-the-whole-anti-monopoly",
@@ -1093,17 +1115,6 @@
       "summary": "Wide receiver Odell Beckham Jr. is reuniting with the team that drafted him more than a decade ago, signing a one-year contract with the New York Giants, the team announced Monday. The 33-year-old worked out for the Giants on Monday morning alongside a handful of veteran receivers that included JuJu Smith-Schuster, Braxton Berrios and Anthony Miller. It turned out to be a fruitful workout, because along with Beckham, the Giants also signed Smith-Schuster and Berrios to one-year deals, the team announced. The three of them will help bolster a wide receiver group that has been beset by injuries,...",
       "publishedAt": "2026-06-01T15:49:33.000Z",
       "articleId": "d5c7712404aa0345"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
-      "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
-      "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "YouTubers are ruling the box office, and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.",
-      "publishedAt": "2026-06-01T10:00:00.000Z",
-      "articleId": "088bc86a00b02984"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/walking-to-the-world-cup-and-other",
@@ -1687,28 +1698,6 @@
       "summary": "Don't believe the incel stuff. Romance is very possible for regular, average men.",
       "publishedAt": "2026-05-17T09:00:12.000Z",
       "articleId": "5c0b115ca299c4f4"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-051626",
-      "title": "Reading List 05/16/26",
-      "url": "https://www.construction-physics.com/p/reading-list-051626",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Tokyo&#8217;s cheap housing and expensive land, the House response to the Senate housing bill, an IED near an Alabama dam, Fervo&#8217;s IPO, and more.",
-      "publishedAt": "2026-05-16T12:01:26.000Z",
-      "articleId": "f6c4047531a535d8"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
-      "title": "China’s Peak Is Now",
-      "url": "https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Does Xi Jinping see the world this way?",
-      "publishedAt": "2026-05-16T11:28:09.000Z",
-      "articleId": "4862f80f6a3eff60"
     }
   ],
   "sources": [
