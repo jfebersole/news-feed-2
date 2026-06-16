@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-15T21:17:56.995Z",
-  "fetchedAt": "2026-06-15T21:17:56.990Z",
+  "generatedAt": "2026-06-15T23:59:44.423Z",
+  "fetchedAt": "2026-06-15T23:59:44.419Z",
   "sourceCount": 21,
   "itemCount": 155,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/good-news-and-bad-news-for-democrats",
+      "title": "Good news and bad news for Democrats’ Senate odds",
+      "url": "https://www.slowboring.com/p/good-news-and-bad-news-for-democrats",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The midterm landscape is becoming less predictable.",
+      "publishedAt": "2026-06-15T22:02:05.000Z",
+      "articleId": "c04cdf4613bb118d"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/the-maga-power-struggle-that-could",
       "title": "The MAGA power struggle that could decide the fate of Anthropic",
@@ -939,17 +950,6 @@
       "summary": "Beckham has the opportunity he craved to end his career on his terms. Now it’s up to him to make the most of it.",
       "publishedAt": "2026-06-04T11:30:00.000Z",
       "articleId": "793c2d13df49677f"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/elizabeth-warrens-new-child-care",
-      "title": "Elizabeth Warren’s “new“ child care push doesn’t make sense",
-      "url": "https://www.slowboring.com/p/elizabeth-warrens-new-child-care",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A poorly designed idea that nobody is asking for",
-      "publishedAt": "2026-06-04T10:01:09.000Z",
-      "articleId": "f4ea9eb62428314b"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
