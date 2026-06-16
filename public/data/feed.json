@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-06-16T17:18:26.864Z",
-  "fetchedAt": "2026-06-16T17:18:26.860Z",
+  "generatedAt": "2026-06-16T21:16:20.985Z",
+  "fetchedAt": "2026-06-16T21:16:20.981Z",
   "sourceCount": 21,
-  "itemCount": 157,
+  "itemCount": 159,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
+      "title": "The Battle With Anthropic Is the Start of a New Kind of Conflict",
+      "url": "https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "The A.I. wars are here.",
+      "publishedAt": "2026-06-16T21:00:04.000Z",
+      "articleId": "5bcf3ce514d2b0ea"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/never-cross-a-river-four-feet-deep",
+      "title": "Never Cross a River Four Feet Deep on Average",
+      "url": "https://www.astralcodexten.com/p/never-cross-a-river-four-feet-deep",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Guest post by Alexander \"Sasha\" Putilin",
+      "publishedAt": "2026-06-16T20:07:52.000Z",
+      "articleId": "d124b057c28a89f6"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cdx7rjs400pts34cbpxi.html",
+      "title": "Money Stuff: AI Builds Some Pyramids",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cdx7rjs400pts34cbpxi.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Cabo Verde, MSTR, Caymans, Cursor, slop. View in browser Pyramids The situation with artificial intelligence companies is: The founders of AI companies place a high value on keeping control of their companies, not surrendering control to outside investors or boards of directors. Part of the reason for this is that all tech founders love control, but part of it is that AI founders believe they are creating a uniquely powerful and dangerous technology and don’t want it to fall into the wrong (BlackRock’s) hands. As Elon Musk put it : “I just don’t feel comfortable building a robot army here, and then being ousted because of some asinine recommendations from ISS and Glass Lewis, who have no freaking clue.” AI companies need to raise a kajillion dollars of outside equity to build their robot armies. This is a problem. The AI founders want to keep control of their companies, but traditionally control goes with stock ownership, and they need to raise so much money that they can’t really keep a majority of their companies’ shares. There are technologies to address this problem. With SpaceX’s initial public offering last week, Elon Musk advanced the state of the art of this technology : He gave himself super-voting stock so that he can keep control even if he sells a majority of the company’s economic ownership; He separately gave himself the ability to appoint a majority of the board of directors; and He made it essentially impossible for shareholders to sue him if they don’t like his decisions. Nobody has ever gone quite this far before, but on the other hand nobody has ever taken a giant existential-threat-to-humanity AI company public before. [1] I wonder a bit whether OpenAI and Anthropic, which are also thinking about going public, will take some pointers from Musk. Musk’s approach caused a certain amount of complaining , but it did not stop him from raising $75 billion from enthusiastic investors at a giant valuation, so I guess it works. There is, however, an older technology. Back in the day (the 1920s) it was called “pyramiding,” and it worked like this: You have a company, Company A. It’s worth $100. You own 100% of it. It needs to raise money. You sell 30% of Company A to outside shareholders for $30. Now you have raised $30, and you own 70% of the voting stock of the company. You need more money. You plop your 70% stake into a new holding company, Company B. You own 100% of Company B, and Company B’s only asset is 70% of the voting stock of Company A ($70 worth). You sell 30% of Company B to outside shareholders for $21. Now you have raised $51, and you own 70% of Company B, which owns 70% of Company A. You own a 49% economic stake in the operating company (Company A). But Company B owns a majority of the votes in Company A, and you...",
+      "publishedAt": "2026-06-16T19:22:16.752Z",
+      "articleId": "306ec6d6ae6460f6"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-stanley-cup-final-was-a-celebration",
+      "title": "The Stanley Cup Final Was a Celebration of Hockey's Glorious Weirdness",
+      "url": "https://neilpaine.substack.com/p/the-stanley-cup-final-was-a-celebration",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The Hurricanes were the logical champion. Everything else was a tribute to the beautiful messiness that makes hockey great.",
+      "publishedAt": "2026-06-16T19:00:36.000Z",
+      "articleId": "f57b4316e25b7058"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/can-online-activity-be-regulated-evidence-from-adult-websites.html?utm_source=rss&utm_medium=rss&utm_campaign=can-online-activity-be-regulated-evidence-from-adult-websites",
+      "title": "Can Online Activity Be Regulated? Evidence from Adult Websites",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/can-online-activity-be-regulated-evidence-from-adult-websites.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The consequences of online regulations depend on the extent to which users can circumvent restrictions or substitute toward noncompliant platforms. Since 2023, 25 U.S. states have implemented age verification laws that caused prominent adult websites (including Pornhub) to restrict local access for all users. We study how these restrictions affected browsing activity using individual-level panel [&#8230;] The post Can Online Activity Be Regulated? Evidence from Adult Websites appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-16T18:16:18.000Z",
+      "articleId": "9e2e9099a568c694"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-573",
       "title": "Tuesday assorted links",
@@ -345,28 +400,6 @@
       "summary": "From Drew Crawford: Start with the most important number in economics, even though no one on Wall Street talks about it: calories per acre. Human civilization runs on food. Ten billion people will inhabit this planet by 2050. The amount of arable land is not growing. It is shrinking, every year, to urbanization, desertification, salinization, [&#8230;] The post The bullish case for Brazil appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-14T04:23:30.000Z",
       "articleId": "19bceb10fe92d204"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-knicks-are-the-perfect-champ",
-      "title": "The Knicks Are the Perfect Champ For the NBA's Weirdest Era",
-      "url": "https://neilpaine.substack.com/p/the-knicks-are-the-perfect-champ",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "New York ended 53 years of frustration not with a textbook superteam or an alien-level superstar, but with a roster built perfectly for a league where nobody stays on top for long.",
-      "publishedAt": "2026-06-14T03:29:47.000Z",
-      "articleId": "a5a1446bb78fc175"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-565",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-565.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Soccer and economic growth. 2. The AI scenario for Europe? 3. The smart version of the AI is a bubble argument. 4. Ken Opalo reviews Studwell on Africa. 5. The influence of AI on non-fiction books? 6. The economics behind the San Antonio Spurs. 7. On the new Macca album. The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-13T17:26:54.000Z",
-      "articleId": "df54fbfca9ea28f4"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
@@ -939,17 +972,6 @@
       "summary": "Two comedians walk into a … friendship.",
       "publishedAt": "2026-06-04T18:34:35.000Z",
       "articleId": "92a8b1ddfdd64685"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pivg3kjn8pyugvjo7uat.html",
-      "title": "Money Stuff: Get Your SpaceX Bets in Now",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pivg3kjn8pyugvjo7uat.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Perps, prime, Santos, Frec. View in browser Pre-IPO perpetual futures A lot of people want to bet on SpaceX’s stock. A lot of other people want to bet against SpaceX’s stock. In approximately one week, the people who want to bet on SpaceX will be able to do so to their hearts’ content: SpaceX will be publicly traded, albeit with a fairly low float, and you’ll be able to buy as much as you want at some price. People who want to bet against SpaceX will also get more or less what they want at more or less the same time: Once SpaceX is public, you will be able to borrow shares and sell them short . On the other hand: A week is a long time, there will be a lot of SpaceX news in the next week, and a lot of people want to get their bets in now . Even in a week, not everyone who wants to bet on, or especially against , SpaceX will get exactly what they want. The supply of shares to borrow (for short selling) might be tight and expensive. Many current shareholders — employees, venture investors, special purpose vehicles — have lockup agreements that prevent them from selling their stock, or selling short to hedge, for months after the IPO. [1] A more freewheeling, general-purpose way to bet against SpaceX stock might fill a need even once SpaceX is public. Also, a more freewheeling, general-purpose way to bet against SpaceX might help people who want to bet on SpaceX, by creating more supply. The expectation now is that SpaceX will go public with a $1.77 trillion market capitalization but a free float — shares available to buy on the market — of only $75 billion. The rest of the stock will be locked up for at least several months. There could be, as it were, a bit of a squeeze to get into the stock : SpaceX’s market value will represent on the order of 2% to 3% of the entire US stock market , but its available float will be something like 0.1% of the market. If everyone wants to own SpaceX in proportion to its market weight, they won’t be able to; if they try, they will push up the price. But if, instead, they can buy SpaceX stock from people who want to bet against it — if the people betting against it could create new synthetic shares — then the supply squeeze would be eased. A major theme of this column over the past year has been : That’s coming. Historically, a lot of people have had thoughts of the form “I would like to bet on the stocks of hot private startups,” and of the form “I would like to bet against the stocks of hot private startups.” Occasionally they have even launched public exchanges to facilitate it: You set up a website, people who want to bet on or against a startup can show up, and the website can pair them off against each other and facilitate their bets. Historically the problem with this is that it is illegal under US...",
-      "publishedAt": "2026-06-04T18:17:54.936Z",
-      "articleId": "c1d09b7e18eb1971"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/weddings-wedding-songs-etc",
