@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-16T21:16:20.985Z",
-  "fetchedAt": "2026-06-16T21:16:20.981Z",
+  "generatedAt": "2026-06-16T23:45:55.983Z",
+  "fetchedAt": "2026-06-16T23:45:55.978Z",
   "sourceCount": 21,
   "itemCount": 159,
-  "totalItemCount": 765,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/iran-is-trumps-katrina",
+      "title": "Iran is Trump's Katrina",
+      "url": "https://www.noahpinion.blog/p/iran-is-trumps-katrina",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Thoughts on the fallout from the Iran debacle.",
+      "publishedAt": "2026-06-16T22:29:17.000Z",
+      "articleId": "06927d355a904ae0"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
       "title": "The Battle With Anthropic Is the Start of a New Kind of Conflict",
@@ -941,17 +952,6 @@
       "articleId": "e36132007cc09118"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-origins-of-horseshoe-politics",
-      "title": "The origins of horseshoe politics",
-      "url": "https://www.slowboring.com/p/the-origins-of-horseshoe-politics",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus my charity dreams, some oyster salesman, and the use and misuse of political capital",
-      "publishedAt": "2026-06-05T10:02:11.000Z",
-      "articleId": "74d939367ba6ebbb"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
       "title": "Co-Existence and the End of Co-Intelligence",
       "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
@@ -1848,7 +1848,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
