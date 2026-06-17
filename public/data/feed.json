@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-17T11:15:51.463Z",
-  "fetchedAt": "2026-06-17T11:15:51.459Z",
+  "generatedAt": "2026-06-17T15:59:38.757Z",
+  "fetchedAt": "2026-06-17T15:59:38.753Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 755,
+  "itemCount": 161,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-24-rats-the-glorious-revolution",
+      "title": "Issue 24: Rats, The Glorious Revolution and the secret to ultra-Orthodox fertility",
+      "url": "https://www.worksinprogress.news/p/issue-24-rats-the-glorious-revolution",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "A preview of everything to come in Issue 24",
+      "publishedAt": "2026-06-17T15:07:49.000Z",
+      "articleId": "b3ca1c257cdaacb4"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-to-fix-transit-construction-in",
+      "title": "How to fix transit construction in America",
+      "url": "https://www.slowboring.com/p/how-to-fix-transit-construction-in",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Introducing the Transit Abundance Playbook",
+      "publishedAt": "2026-06-17T13:02:08.000Z",
+      "articleId": "f56d15bce2c48fec"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/tommy-fleetwood-is-running-out-of",
       "title": "Tommy Fleetwood Is Running Out of Reasons Not to Win a Major",
@@ -1753,17 +1775,6 @@
       "summary": "Defeating a sclerotic rump of a party is no achievement. Instead, one-party rule enables corruption. It fosters stagnation.",
       "publishedAt": "2026-05-18T16:27:42.000Z",
       "articleId": "8a4dc847581d0d9b"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7288516/2026/05/18/new-york-giants-mailbag-2026-harbaugh-otas/",
-      "title": "Submit your questions for Dan Duggan’s Giants mailbag",
-      "url": "https://www.nytimes.com/athletic/7288516/2026/05/18/new-york-giants-mailbag-2026-harbaugh-otas/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "OTAs under John Harbaugh start on Thursday.",
-      "publishedAt": "2026-05-18T14:25:55.000Z",
-      "articleId": "56b332e232769a92"
     }
   ],
   "sources": [
@@ -1778,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1859,7 +1870,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
