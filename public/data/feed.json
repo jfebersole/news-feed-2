@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-06-17T05:09:43.200Z",
-  "fetchedAt": "2026-06-17T05:09:43.196Z",
+  "generatedAt": "2026-06-17T11:15:51.463Z",
+  "fetchedAt": "2026-06-17T11:15:51.459Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 754,
+  "itemCount": 160,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/tommy-fleetwood-is-running-out-of",
+      "title": "Tommy Fleetwood Is Running Out of Reasons Not to Win a Major",
+      "url": "https://neilpaine.substack.com/p/tommy-fleetwood-is-running-out-of",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Fleetwood has already authored two of the greatest U.S. Open closing rounds ever. Now, back at the course where he nearly stole one, the numbers say he can finally take the trophy.",
+      "publishedAt": "2026-06-17T10:30:12.000Z",
+      "articleId": "9d342328af5bb04e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-real-problem-with-gifted-education",
+      "title": "The real problem with “gifted” education",
+      "url": "https://www.slowboring.com/p/the-real-problem-with-gifted-education",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "It&#8217;s almost all selection effects! We should care more about actual efficacy in teaching.",
+      "publishedAt": "2026-06-17T10:03:04.000Z",
+      "articleId": "4ebdc9d1fcde1b77"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+      "url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "articleId": "1df3b6a1ad5c455f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/facts-about-american-men-and-women.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-american-men-and-women",
+      "title": "Facts about American men and women",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/facts-about-american-men-and-women.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Much of what looks like changing marriage preferences over the twentieth century is actually demographics. Exploiting plausibly exogenous variation in sex ratios across U.S. birth cohorts (1870, 1930, 1950), we jointly identify preferences, match quality dynamics, and the costs of marriage and divorce. Demographics alone explain two-thirds of cross-cohort differences. Women’s premium for older husbands [&#8230;] The post Facts about American men and women appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-17T07:05:56.000Z",
+      "articleId": "c47ce0099ff27159"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/do-teens-regret-their-social-media-use.html?utm_source=rss&utm_medium=rss&utm_campaign=do-teens-regret-their-social-media-use",
       "title": "Do teens regret their social media use?",
@@ -400,17 +444,6 @@
       "summary": "When each side of the Atlantic disagrees",
       "publishedAt": "2026-06-14T13:31:27.000Z",
       "articleId": "cb3c0bf56c7a8c88"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-cultural-war-is-a-civil-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-cultural-war-is-a-civil-war",
-      "title": "The Cultural War is a Civil War",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-cultural-war-is-a-civil-war.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Kevin Bryan riffs on on my post The Nationalization of American Science. He is rightfully incensed: AT is right this is a red tape-filled science policy of &#8220;losers&#8221;. If you think &#8220;cut funds from DEI-driven professors in the small departments no one cares about&#8221; is more important than &#8220;make sure the world&#8217;s strongest fundamental science [&#8230;] The post The Cultural War is a Civil War appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-14T11:18:35.000Z",
-      "articleId": "6717e4f08696e1ad"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
@@ -919,17 +952,6 @@
       "articleId": "142f6e594aaf3d85"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-colonial-williamsburg-can-teach",
-      "title": "What Colonial Williamsburg can teach us about the trades revival",
-      "url": "https://www.slowboring.com/p/what-colonial-williamsburg-can-teach",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Everyone is vulnerable except for the mantua-maker.",
-      "publishedAt": "2026-06-05T22:01:46.000Z",
-      "articleId": "85d9b95f51b414b1"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/power-shifts/",
       "title": "2026.23: Power Shifts",
       "url": "https://stratechery.com/2026/power-shifts/",
@@ -1071,17 +1093,6 @@
       "summary": "Episode 18 is about Victorian urbanism",
       "publishedAt": "2026-06-03T15:12:34.000Z",
       "articleId": "4fd8dcf60be19a49"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
-      "title": "The Nvidia AI PC, Project Solara, Microsoft AI",
-      "url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The Nvidia AI PC feels like a relic of another AI era; Microsoft's vision for devices at Build was much more compelling.",
-      "publishedAt": "2026-06-03T10:00:00.000Z",
-      "articleId": "08d03e5410e959c8"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-japan-stopped-civil-war",
@@ -1832,7 +1843,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
