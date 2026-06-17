@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-16T23:45:55.983Z",
-  "fetchedAt": "2026-06-16T23:45:55.978Z",
+  "generatedAt": "2026-06-17T05:09:43.200Z",
+  "fetchedAt": "2026-06-17T05:09:43.196Z",
   "sourceCount": 21,
   "itemCount": 159,
-  "totalItemCount": 764,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/do-teens-regret-their-social-media-use.html?utm_source=rss&utm_medium=rss&utm_campaign=do-teens-regret-their-social-media-use",
+      "title": "Do teens regret their social media use?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/do-teens-regret-their-social-media-use.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A new study by Irish researcher Eoin Whelan attempts to answer this. Dr. Whelan told me he was specifically inspired by Haidt’s 2024 claims and sought to examine them rigorously and in the context of other regrets. This is a great use of science…testing dramatic public claims. So…do they hold up? In Dr. Whelan’s study, 389 young [&#8230;] The post Do teens regret their social media use? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-17T05:08:52.000Z",
+      "articleId": "e260bfdbf21cf14b"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/iran-is-trumps-katrina",
       "title": "Iran is Trump's Katrina",
@@ -400,17 +411,6 @@
       "summary": "Kevin Bryan riffs on on my post The Nationalization of American Science. He is rightfully incensed: AT is right this is a red tape-filled science policy of &#8220;losers&#8221;. If you think &#8220;cut funds from DEI-driven professors in the small departments no one cares about&#8221; is more important than &#8220;make sure the world&#8217;s strongest fundamental science [&#8230;] The post The Cultural War is a Civil War appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-14T11:18:35.000Z",
       "articleId": "6717e4f08696e1ad"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=the-bullish-case-for-brazil",
-      "title": "The bullish case for Brazil",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Drew Crawford: Start with the most important number in economics, even though no one on Wall Street talks about it: calories per acre. Human civilization runs on food. Ten billion people will inhabit this planet by 2050. The amount of arable land is not growing. It is shrinking, every year, to urbanization, desertification, salinization, [&#8230;] The post The bullish case for Brazil appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-14T04:23:30.000Z",
-      "articleId": "19bceb10fe92d204"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
@@ -1767,10 +1767,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
