@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-18T20:37:16.529Z",
-  "fetchedAt": "2026-06-18T20:37:16.523Z",
+  "generatedAt": "2026-06-18T23:02:29.691Z",
+  "fetchedAt": "2026-06-18T23:02:29.686Z",
   "sourceCount": 21,
-  "itemCount": 161,
-  "totalItemCount": 767,
+  "itemCount": 160,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
@@ -941,17 +941,6 @@
       "articleId": "8ca5faaf90c2b9e5"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/nobody-knows-what-theyre-talking",
-      "title": "Nobody knows what they’re talking about on A.I. consciousness",
-      "url": "https://www.slowboring.com/p/nobody-knows-what-theyre-talking",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Your hot takes won&#8217;t solve the major riddles of Western philosophy.",
-      "publishedAt": "2026-06-09T10:02:44.000Z",
-      "articleId": "a3ff2809f31c2c32"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/the-iphones-last-stand/",
       "title": "The iPhone’s Last Stand",
       "url": "https://stratechery.com/2026/the-iphones-last-stand/",
@@ -1870,7 +1859,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1917,18 +1906,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
