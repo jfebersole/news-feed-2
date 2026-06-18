@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-18T04:58:41.975Z",
-  "fetchedAt": "2026-06-18T04:58:41.972Z",
+  "generatedAt": "2026-06-18T09:43:10.600Z",
+  "fetchedAt": "2026-06-18T09:43:10.595Z",
   "sourceCount": 21,
   "itemCount": 160,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
+      "title": "Trump and Netanyahu Have Really Stepped in It Now",
+      "url": "https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "America and Israel have snatched defeat from victory.",
+      "publishedAt": "2026-06-18T09:04:22.000Z",
+      "articleId": "19ae14cb8372a9f9"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/grading-the-internets-dating-advice",
+      "title": "Grading the internet’s dating advice",
+      "url": "https://www.slowboring.com/p/grading-the-internets-dating-advice",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Every young person needs a married political pundit&#8217;s take on dating",
+      "publishedAt": "2026-06-18T09:02:27.000Z",
+      "articleId": "695a47ab3967f475"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-native-firms",
+      "title": "AI-Native Firms",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Very important work from Hyunjin Kim and Rembrand Koning. Insead and HBS respectively: We study how firms built around AI capabilities-&#8220;AI-native&#8221; firms-are organized. Drawing on Y Combinator batches W20-F24 and U.S. venture-backed startups whose first financing closed between 2020 and 2024, we classify each firm&#8217;s AI-native status and link it to workforce microdata on team [&#8230;] The post AI-Native Firms appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-18T08:55:30.000Z",
+      "articleId": "72a06d1632ef0101"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-dave-baszucki",
       "title": "My Conversation with Dave Baszucki",
@@ -444,17 +477,6 @@
       "summary": "A question surprisingly few people are asking.",
       "publishedAt": "2026-06-15T09:17:45.000Z",
       "articleId": "1a861034ca22335d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html?utm_source=rss&utm_medium=rss&utm_campaign=who-leads-relative-age-effects-on-social-capital",
-      "title": "Who Leads? Relative Age Effects on Social Capital",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A fascinating paper and result: This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with [&#8230;] The post Who Leads? Relative Age Effects on Social Capital appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-15T06:12:08.000Z",
-      "articleId": "9eedf8fc2a34271c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
@@ -906,17 +928,6 @@
       "summary": "Most flags used to be ugly. They were probably better that way.",
       "publishedAt": "2026-06-08T17:38:28.000Z",
       "articleId": "157f9caea73632b2"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-neglected-importance-of-boring",
-      "title": "The neglected importance of boring methodological disputes",
-      "url": "https://www.slowboring.com/p/the-neglected-importance-of-boring",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It&#8217;s annoyingly hard to find out what&#8217;s true.",
-      "publishedAt": "2026-06-08T10:02:25.000Z",
-      "articleId": "ae18b2c196ed61b8"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
@@ -1753,17 +1764,6 @@
       "summary": "...",
       "publishedAt": "2026-05-19T10:19:35.000Z",
       "articleId": "0f7689e63985f8ee"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/all-non-drone-militaries-are-obsolete",
-      "title": "All non-drone militaries are obsolete",
-      "url": "https://www.noahpinion.blog/p/all-non-drone-militaries-are-obsolete",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "All warfare is drone warfare now.",
-      "publishedAt": "2026-05-19T08:19:41.000Z",
-      "articleId": "b185e2504751a629"
     }
   ],
   "sources": [
