@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-17T23:48:40.263Z",
-  "fetchedAt": "2026-06-17T23:48:40.258Z",
+  "generatedAt": "2026-06-18T04:58:41.975Z",
+  "fetchedAt": "2026-06-18T04:58:41.972Z",
   "sourceCount": 21,
-  "itemCount": 159,
-  "totalItemCount": 765,
+  "itemCount": 160,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-dave-baszucki",
+      "title": "My Conversation with Dave Baszucki",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Dave is CEO and co-founder of Roblox, and here is the audio, video, and transcript. From the episode summary: With over 100 million daily active users and projected revenue bookings of $7 billion this year, it is one of the largest gaming economies in the world—and one that has made millionaires out of teenage developers [&#8230;] The post My Conversation with Dave Baszucki appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-18T04:51:32.000Z",
+      "articleId": "7a1c1e05431e712f"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/waiting-for-the-miracle",
+      "title": "Waiting For The Miracle",
+      "url": "https://www.astralcodexten.com/p/waiting-for-the-miracle",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-06-18T04:42:50.000Z",
+      "articleId": "db414369b742b742"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-cuts-a-deal-on-the-21st",
       "title": "Congress cuts a deal on the 21st Century ROAD to Housing Act",
@@ -433,17 +455,6 @@
       "summary": "A fascinating paper and result: This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with [&#8230;] The post Who Leads? Relative Age Effects on Social Capital appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-15T06:12:08.000Z",
       "articleId": "9eedf8fc2a34271c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks.html?utm_source=rss&utm_medium=rss&utm_campaign=general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks",
-      "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This result does not surprise me at all. Here is part of the abstract: Frontier LLMs outperformed clinical AI tools in all three evaluations. Clinical AI tools performed comparably to auto-enabled Google Search AI Overview on the RCQ. These findings highlight the need for independent, real-world evaluation of AI tools before they enter clinical settings. [&#8230;] The post General-purpose large language models outperform specialized clinical AI tools on medical benchmarks appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-15T05:16:01.000Z",
-      "articleId": "9c95bdfead173dbc"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
@@ -1776,7 +1787,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
