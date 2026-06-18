@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-18T17:25:00.263Z",
-  "fetchedAt": "2026-06-18T17:25:00.258Z",
+  "generatedAt": "2026-06-18T20:37:16.529Z",
+  "fetchedAt": "2026-06-18T20:37:16.523Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 757,
+  "itemCount": 161,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
+      "title": "Trump and Netanyahu Have Really Stepped in It Now",
+      "url": "https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "America and Israel have snatched defeat from victory.",
+      "publishedAt": "2026-06-18T20:10:42.000Z",
+      "articleId": "19ae14cb8372a9f9"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/brothers-from-other-mothers-the-curious",
+      "title": "Brothers From Other Mothers: The Curious Geography of Fake Country Siblings",
+      "url": "https://www.cantgetmuchhigher.com/p/brothers-from-other-mothers-the-curious",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "There's nothing like making music with your brother, or at least someone people think is your brother",
+      "publishedAt": "2026-06-18T17:30:07.000Z",
+      "articleId": "fad5854aeb8871ca"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/quyq19fenuqoz8hnodyr.html",
       "title": "Money Stuff: Synthetic IPO Pops",
@@ -26,17 +48,6 @@
       "summary": "1. &#8220;We’re building the data and infrastructure layer to give AI models and agents taste.&#8221; 2. What would actually be required for &#8220;Sovereign AI&#8221;? 3. Cliff Asness on the affordability crisis. 4. How usury became more accepted. 5. New Yorker profile of Ken Griffin. 6. Refine is an amazing referee. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-18T16:22:51.000Z",
       "articleId": "6e2565ec67b0520c"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
-      "title": "Trump and Netanyahu Have Really Stepped in It Now",
-      "url": "https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "America and Israel have snatched defeat from victory.",
-      "publishedAt": "2026-06-18T15:57:33.000Z",
-      "articleId": "19ae14cb8372a9f9"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/kdpy42la8uf97ksphn6n.html",
@@ -1778,10 +1789,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
