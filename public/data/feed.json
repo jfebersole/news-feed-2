@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-19T21:18:45.357Z",
-  "fetchedAt": "2026-06-19T21:18:45.353Z",
+  "generatedAt": "2026-06-19T23:12:25.436Z",
+  "fetchedAt": "2026-06-19T23:12:25.431Z",
   "sourceCount": 21,
-  "itemCount": 163,
-  "totalItemCount": 757,
+  "itemCount": 162,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/important-committees-in-history.html?utm_source=rss&utm_medium=rss&utm_campaign=important-committees-in-history",
@@ -15,6 +15,17 @@
       "summary": "Robin Hanson queries: Missing book: Glorious Committees of History, on great committees that accomplished great things as committees. GPT Pro has an impressive response, here is the start: 1. The King James Bible translation companies. This is maybe the purest literary example: 47 scholars organized into six companies at Westminster, Oxford, and Cambridge, with review [&#8230;] The post Important committees in history appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-19T20:04:51.000Z",
       "articleId": "7d8a85061e6a5d78"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/americas-non-violent-future",
+      "title": "America's non-violent future",
+      "url": "https://scottsumner.substack.com/p/americas-non-violent-future",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus: Trends in (pot/booze/cigarette/opioid) addiction",
+      "publishedAt": "2026-06-19T18:10:50.000Z",
+      "articleId": "aef59d446ea5b63d"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-stuff-of-mythos/",
@@ -941,17 +952,6 @@
       "articleId": "0d7581fb6bcb3afb"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/trumps-war-on-state-capacity-is-coming",
-      "title": "Trump’s war on state capacity is coming home to roost",
-      "url": "https://www.slowboring.com/p/trumps-war-on-state-capacity-is-coming",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "From the screwworm to Ebola and beyond, there&#8217;s a price to pay.",
-      "publishedAt": "2026-06-10T10:03:53.000Z",
-      "articleId": "076f8c5995056bc9"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
       "title": "Fable 5, Anthropic Alignment, AI Tiers",
       "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
@@ -1786,17 +1786,6 @@
       "summary": "Crime; ICE raids; AI hate; Oligarchy; AI math; Small businesses; Neoliberal Claude; Slacker AGI; The Technium",
       "publishedAt": "2026-05-21T06:51:31.000Z",
       "articleId": "7a8eb38ec9eef42f"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/ever-more-links-52026",
-      "title": "Ever more links (5/20/26)",
-      "url": "https://scottsumner.substack.com/p/ever-more-links-52026",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Too busy to write a new post",
-      "publishedAt": "2026-05-20T22:01:39.000Z",
-      "articleId": "dc43034b7043e155"
     }
   ],
   "sources": [
@@ -1811,10 +1800,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1892,7 +1881,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
