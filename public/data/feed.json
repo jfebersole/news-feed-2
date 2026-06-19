@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-19T01:51:10.108Z",
-  "fetchedAt": "2026-06-19T01:51:10.103Z",
+  "generatedAt": "2026-06-19T07:22:40.523Z",
+  "fetchedAt": "2026-06-19T07:22:40.519Z",
   "sourceCount": 21,
-  "itemCount": 160,
+  "itemCount": 162,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/does-anything-i-write-matter-anymore",
+      "title": "Does anything I write matter anymore?",
+      "url": "https://www.noahpinion.blog/p/does-anything-i-write-matter-anymore",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Punditry in the age of populism, AI, and monetization.",
+      "publishedAt": "2026-06-19T06:35:04.000Z",
+      "articleId": "32c968b38ec02315"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
+      "title": "Preliminary Thoughts On The Midjourney Scanner",
+      "url": "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-06-19T05:32:51.000Z",
+      "articleId": "b522b16fbe78e8dd"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-research-in-math-will-change-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=how-research-in-math-will-change-from-my-email",
+      "title": "How research in math will change (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-research-in-math-will-change-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From GA: I am a mathematician&#8230;and some of your recent comments on MR about the role of AI in Econ research as well as the (disappearing?) role of academic papers inspired this response. (It is partially but not exclusively about academia, so I hope it is ok that I&#8217;m sending it to your GMU address. [&#8230;] The post How research in math will change (from my email) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-19T04:34:18.000Z",
+      "articleId": "71427c63e1169ed5"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
       "title": "Trump and Netanyahu Have Really Stepped in It Now",
@@ -499,17 +532,6 @@
       "summary": "This is MAGA’s French connection.",
       "publishedAt": "2026-06-15T19:47:53.000Z",
       "articleId": "bfe111bddf3bdbb7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/germany-fact-of-the-day-sentence-to-ponder.html?utm_source=rss&utm_medium=rss&utm_campaign=germany-fact-of-the-day-sentence-to-ponder",
-      "title": "Germany fact of the day sentence to ponder",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/germany-fact-of-the-day-sentence-to-ponder.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Champions of a European AI model should ask themselves if a European effort would be more effective than Meta, which this year will spend more on chips ($125 billion) than Germany spends on defense ($114 billion) and offer salaries of over $100 million to attract the best researchers, and is still failing to catch up. Here is [&#8230;] The post Germany fact of the day sentence to ponder appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-15T18:38:29.000Z",
-      "articleId": "e798136c76a40ea3"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/1k3f64kiuzjm15do9z1e.html",
