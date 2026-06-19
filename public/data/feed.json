@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-19T19:08:15.873Z",
-  "fetchedAt": "2026-06-19T19:08:15.869Z",
+  "generatedAt": "2026-06-19T21:18:45.357Z",
+  "fetchedAt": "2026-06-19T21:18:45.353Z",
   "sourceCount": 21,
   "itemCount": 163,
-  "totalItemCount": 767,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/important-committees-in-history.html?utm_source=rss&utm_medium=rss&utm_campaign=important-committees-in-history",
+      "title": "Important committees in history",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/important-committees-in-history.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Robin Hanson queries: Missing book: Glorious Committees of History, on great committees that accomplished great things as committees. GPT Pro has an impressive response, here is the start: 1. The King James Bible translation companies. This is maybe the purest literary example: 47 scholars organized into six companies at Westminster, Oxford, and Cambridge, with review [&#8230;] The post Important committees in history appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-19T20:04:51.000Z",
+      "articleId": "7d8a85061e6a5d78"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-stuff-of-mythos/",
       "title": "2026.25: The Stuff of Myth(os)",
@@ -499,17 +510,6 @@
       "summary": "Featuring Pink Floyd, Coldplay, the Velvet Underground, and others",
       "publishedAt": "2026-06-16T13:32:20.000Z",
       "articleId": "ebea20b473af8972"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/montanas-sb535-and-a-potential-biotech-renaissance-in-america.html?utm_source=rss&utm_medium=rss&utm_campaign=montanas-sb535-and-a-potential-biotech-renaissance-in-america",
-      "title": "Montana’s SB535 and a Potential Biotech Renaissance in America",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/montanas-sb535-and-a-potential-biotech-renaissance-in-america.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In 2024, China&#8217;s NMPA approved 83 new drugs, the FDA approved 50. China&#8217;s share of new commercial clinical trials jumped from 8% globally in 2013 to 30% in 2024, just behind the US at 35%. Last year, China-based Jiangsu Hengrui Pharmaceuticals overtook AstraZeneca as the top clinical trial sponsor in the world. What&#8217;s remarkable is [&#8230;] The post Montana&#8217;s SB535 and a Potential Biotech Renaissance in America appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-16T11:18:52.000Z",
-      "articleId": "ad0220629a3631c0"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/better-immigration-can-help-fix-the",
@@ -1811,10 +1811,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
