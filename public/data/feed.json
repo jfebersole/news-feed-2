@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-19T07:22:40.523Z",
-  "fetchedAt": "2026-06-19T07:22:40.519Z",
+  "generatedAt": "2026-06-19T12:16:32.335Z",
+  "fetchedAt": "2026-06-19T12:16:32.330Z",
   "sourceCount": 21,
-  "itemCount": 162,
-  "totalItemCount": 766,
+  "itemCount": 163,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/converting-coal-plants-to-natural",
+      "title": "Converting Coal Plants to Natural Gas",
+      "url": "https://www.construction-physics.com/p/converting-coal-plants-to-natural",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "For the better part of the last several hundred years, coal was the fuel of choice for generating power.",
+      "publishedAt": "2026-06-19T12:03:02.000Z",
+      "articleId": "7f9cc501847fe6b6"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/colorados-funeral-mistake.html?utm_source=rss&utm_medium=rss&utm_campaign=colorados-funeral-mistake",
+      "title": "Colorado’s Funeral Mistake",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/colorados-funeral-mistake.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Today about a quarter of the US workforce are required to have a license to work in their chosen profession, up from just 5 percent in 1950. Almost always the trend has been to add occupational licensing over time, but in 1983 Colorado did something unusual: it delicensed funeral service workers such as funeral directors. [&#8230;] The post Colorado&#8217;s Funeral Mistake appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-19T11:20:08.000Z",
+      "articleId": "4771adf82c4de61e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/happy-juneteenth",
+      "title": "Happy Juneteenth",
+      "url": "https://www.slowboring.com/p/happy-juneteenth",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A day off &#8212; and some news.",
+      "publishedAt": "2026-06-19T10:02:44.000Z",
+      "articleId": "77b693527a581394"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/does-anything-i-write-matter-anymore",
       "title": "Does anything I write matter anymore?",
@@ -477,17 +510,6 @@
       "summary": "Most of my Free Press column deals with Mythos, but here are some remarks on Europe: There is yet another huge problem behind all these first-order problems. Let us say, for instance, that France’s Mistral AI develops very nicely and serves as an EU counterpart of Anthropic and OpenAI. Well, then the other European countries [&#8230;] The post AI nationalism, Europe included appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-16T04:31:55.000Z",
       "articleId": "dcb06d81c333196a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/disclosure-day-doubt-if-there-are-net-spoilers-in-this-post.html?utm_source=rss&utm_medium=rss&utm_campaign=disclosure-day-doubt-if-there-are-net-spoilers-in-this-post",
-      "title": "*Disclosure Day* (doubt if there are net spoilers in this post)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/disclosure-day-doubt-if-there-are-net-spoilers-in-this-post.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Perhaps rewatching The Omen is better prep for this movie than thinking about UFOs? In this regard Disclosure Day is somewhat more interesting than I had been expecting. Peter Thiel, Ross Douthat, telephone! And yet I have plenty of quibbles. It was a little too long. The acting is entirely serviceable, but none of the [&#8230;] The post *Disclosure Day* (doubt if there are net spoilers in this post) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-16T02:17:40.000Z",
-      "articleId": "433c27e72492332f"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/good-news-and-bad-news-for-democrats",
@@ -1775,17 +1797,6 @@
       "summary": "Lessons from sports fandom on why traditions fade.",
       "publishedAt": "2026-05-20T14:35:01.000Z",
       "articleId": "4ca1d875ca93bcfd"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/where-did-all-the-good-sculptors",
-      "title": "Where did all the good sculptors go?",
-      "url": "https://www.worksinprogress.news/p/where-did-all-the-good-sculptors",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Episode 17 is about carving a new sculpture tradition.",
-      "publishedAt": "2026-05-20T08:17:45.000Z",
-      "articleId": "1bd6c6f5504c9f2f"
     }
   ],
   "sources": [
@@ -1881,7 +1892,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
