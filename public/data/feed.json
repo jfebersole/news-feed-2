@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-20T11:24:44.495Z",
-  "fetchedAt": "2026-06-20T11:24:44.491Z",
+  "generatedAt": "2026-06-20T14:27:28.170Z",
+  "fetchedAt": "2026-06-20T14:27:28.165Z",
   "sourceCount": 21,
-  "itemCount": 160,
+  "itemCount": 159,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-062026",
+      "title": "Reading List 06/20/26",
+      "url": "https://www.construction-physics.com/p/reading-list-062026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A new housing bill, General Motors joining the grid-scale battery game, skepticism about data center delays, solid-state air conditioning, and more.",
+      "publishedAt": "2026-06-20T12:01:56.000Z",
+      "articleId": "101179ed05cb3081"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-defines-japans-national-identity",
       "title": "What defines Japan's national identity?",
@@ -1742,28 +1753,6 @@
       "summary": "Welcome back to Can&#8217;t Get Much Higher, the internet&#8217;s favorite place for music and data.",
       "publishedAt": "2026-05-21T17:31:54.000Z",
       "articleId": "6ca42d6c595f8fe9"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing",
-      "title": "The Rise of Build-to-Rent Housing",
-      "url": "https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A major shift in the housing market in the last several years is the rapidly increasing popularity of &#8220;build-to-rent&#8221; homes &#8212; single-family homes that are built specifically for the purpose of being rented out.",
-      "publishedAt": "2026-05-21T12:03:24.000Z",
-      "articleId": "dd904930f2fa7753"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/modern-hindu-temples",
-      "title": "Modern Hindu Temples",
-      "url": "https://www.worksinprogress.news/p/modern-hindu-temples",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Most ancient architectural traditions have withered, but one is enjoying a golden age: Hindu temple architecture.",
-      "publishedAt": "2026-05-21T11:30:44.000Z",
-      "articleId": "48b47d727aa5d306"
     }
   ],
   "sources": [
