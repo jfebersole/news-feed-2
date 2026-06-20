@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-20T18:44:38.262Z",
-  "fetchedAt": "2026-06-20T18:44:38.258Z",
+  "generatedAt": "2026-06-20T20:38:54.279Z",
+  "fetchedAt": "2026-06-20T20:38:54.275Z",
   "sourceCount": 21,
   "itemCount": 158,
-  "totalItemCount": 766,
+  "totalItemCount": 756,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-aesthetics-podcast-with-benjamin-lima.html?utm_source=rss&utm_medium=rss&utm_campaign=my-aesthetics-podcast-with-benjamin-lima",
@@ -1756,10 +1756,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
