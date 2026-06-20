@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-20T16:44:28.838Z",
-  "fetchedAt": "2026-06-20T16:44:28.833Z",
+  "generatedAt": "2026-06-20T18:44:38.262Z",
+  "fetchedAt": "2026-06-20T18:44:38.258Z",
   "sourceCount": 21,
-  "itemCount": 160,
-  "totalItemCount": 757,
+  "itemCount": 158,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-aesthetics-podcast-with-benjamin-lima.html?utm_source=rss&utm_medium=rss&utm_campaign=my-aesthetics-podcast-with-benjamin-lima",
+      "title": "My aesthetics podcast with Benjamin Lima",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-aesthetics-podcast-with-benjamin-lima.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Spotify: https://open.spotify.com/episode/0HBFWS1avb6tYY1IoLefYb Web: https://athenaeumreview.org/podcast/aesthetics-a-conversation-with-tyler-cowen/ Apple: https://podcasts.apple.com/us/podcast/aesthetics-a-conversation-with-tyler-cowen/id1509089416?i=1000773451248 Here is basic information about art scholar Benjamin Lima, it was great fun for me to do this one. The post My aesthetics podcast with Benjamin Lima appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-20T17:57:03.000Z",
+      "articleId": "e99127c67d1c9029"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/cuba.html?utm_source=rss&utm_medium=rss&utm_campaign=cuba",
       "title": "Cuba",
@@ -411,17 +422,6 @@
       "summary": "Latin America&#8217;s momentous fertility transition is now in the domain of history, allowing a cohort perspective on the decline of completed fertility. Using census microdata from 17 Latin American countries, we track female birth cohorts from the 1920s to the 1970s by subnational region to document the extent to which cohort fertility decline coincided with [&#8230;] The post A Cohort Perspective on Latin America&#8217;s Fertility Transition appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-17T17:26:14.000Z",
       "articleId": "4843dca228009a50"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-558.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-558",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-558.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. &#8220;This is a database to help you to find a forager near you!&#8221; (those new service sector jobs) 2. Apply to Coase workshop on institutional analysis in Mexico City. 3. How does a mechanical watch work? 4. New immigration debate video from Caplan-Garett Jones. 5. Do stolen French fries taste better? 6. New minimum [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-17T16:02:34.000Z",
-      "articleId": "44577ff987ffb1cd"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/issue-24-rats-the-glorious-revolution",
@@ -939,17 +939,6 @@
       "summary": "We didn't evolve to live our lives as terminals of a digital hive-mind.",
       "publishedAt": "2026-06-11T07:38:27.000Z",
       "articleId": "1bbc1184f66b72ea"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
-      "title": "A market moves, with a crisis unresolved",
-      "url": "https://www.slowboring.com/p/a-market-moves-with-a-crisis-unresolved",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Sales rebound and development continues, yet stalled reforms, shrinking budgets, and flawed affordability targets are leaving the housing shortage largely intact.",
-      "publishedAt": "2026-06-10T22:01:03.000Z",
-      "articleId": "dd9cf813f8ed0578"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/anthropic-has-caught-up-to-openai",
@@ -1753,17 +1742,6 @@
       "summary": "Schoen has gone 22-45-1 so far as general manager of the New York Giants.",
       "publishedAt": "2026-05-21T23:03:00.000Z",
       "articleId": "f9472b05fa71e49b"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/drake-is-the-past-drake-is-the-future",
-      "title": "Drake is the Past. Drake is the Future.",
-      "url": "https://www.cantgetmuchhigher.com/p/drake-is-the-past-drake-is-the-future",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Welcome back to Can&#8217;t Get Much Higher, the internet&#8217;s favorite place for music and data.",
-      "publishedAt": "2026-05-21T17:31:54.000Z",
-      "articleId": "6ca42d6c595f8fe9"
     }
   ],
   "sources": [
@@ -1778,10 +1756,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1859,7 +1837,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
