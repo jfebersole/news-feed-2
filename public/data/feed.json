@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-21T06:17:19.551Z",
-  "fetchedAt": "2026-06-21T06:17:19.546Z",
+  "generatedAt": "2026-06-21T10:41:38.347Z",
+  "fetchedAt": "2026-06-21T10:41:38.341Z",
   "sourceCount": 21,
-  "itemCount": 157,
+  "itemCount": 156,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
+      "title": "A Malicious Chapter in the History of American Justice",
+      "url": "https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
+      "publishedAt": "2026-06-21T10:00:23.000Z",
+      "articleId": "06e0059d273d84ed"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/labor-market-effects-of-the-tax-cuts-and-jobs-act.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-market-effects-of-the-tax-cuts-and-jobs-act",
+      "title": "Labor market effects of the Tax Cuts and Jobs Act",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/labor-market-effects-of-the-tax-cuts-and-jobs-act.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Tax Cuts and Jobs Act (TCJA) of 2017 represents the most significant reform of the U.S. income tax code since the Tax Reform Act of 1986. Previous analyses of the TCJA’s economic impact often rely on estimates based on data prior to the enactment of the legislation. This paper leverages plausibly exogenous variations in [&#8230;] The post Labor market effects of the Tax Cuts and Jobs Act appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-21T06:53:30.000Z",
+      "articleId": "da79b4798ef02be8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/music-markets-remain-deglobalized.html?utm_source=rss&utm_medium=rss&utm_campaign=music-markets-remain-deglobalized",
       "title": "Music markets remain deglobalized",
@@ -378,17 +400,6 @@
       "summary": "Very important work from Hyunjin Kim and Rembrand Koning. Insead and HBS respectively: We study how firms built around AI capabilities-&#8220;AI-native&#8221; firms-are organized. Drawing on Y Combinator batches W20-F24 and U.S. venture-backed startups whose first financing closed between 2020 and 2024, we classify each firm&#8217;s AI-native status and link it to workforce microdata on team [&#8230;] The post AI-Native Firms appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-18T08:55:30.000Z",
       "articleId": "72a06d1632ef0101"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-dave-baszucki",
-      "title": "My Conversation with Dave Baszucki",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Dave is CEO and co-founder of Roblox, and here is the audio, video, and transcript. From the episode summary: With over 100 million daily active users and projected revenue bookings of $7 billion this year, it is one of the largest gaming economies in the world—and one that has made millionaires out of teenage developers [&#8230;] The post My Conversation with Dave Baszucki appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-18T04:51:32.000Z",
-      "articleId": "7a1c1e05431e712f"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/waiting-for-the-miracle",
@@ -1709,28 +1720,6 @@
       "summary": "Robertson-Harris is the second Giant to tear his Achilles tendon in the past week, following undrafted rookie cornerback Thaddeus Dixon.",
       "publishedAt": "2026-05-22T13:11:51.000Z",
       "articleId": "ab25804120f3ff84"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7299369/2026/05/22/new-york-giants-ota-malik-nabers-knee-surgeries/",
-      "title": "John Harbaugh's different tune on Malik Nabers' recovery: Giants OTAs notebook",
-      "url": "https://www.nytimes.com/athletic/7299369/2026/05/22/new-york-giants-ota-malik-nabers-knee-surgeries/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, what's on Jaxson Dart's plate, the O-line takes shape, and more from Harbaugh's OTAs.",
-      "publishedAt": "2026-05-22T09:30:45.000Z",
-      "articleId": "f100e6826aaa8494"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/new-paradigms-wont-save-you",
-      "title": "New Paradigms Won't Save You",
-      "url": "https://www.astralcodexten.com/p/new-paradigms-wont-save-you",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-05-22T08:49:25.000Z",
-      "articleId": "3013717d989f4171"
     }
   ],
   "sources": [
