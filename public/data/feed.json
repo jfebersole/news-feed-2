@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-21T16:07:19.663Z",
-  "fetchedAt": "2026-06-21T16:07:19.658Z",
+  "generatedAt": "2026-06-21T18:46:10.926Z",
+  "fetchedAt": "2026-06-21T18:46:10.922Z",
   "sourceCount": 21,
   "itemCount": 155,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a03",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-a03",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-06-21T17:02:27.000Z",
+      "articleId": "bc837016a7258661"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-572",
       "title": "Sunday assorted links",
@@ -939,17 +950,6 @@
       "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
       "publishedAt": "2026-06-11T10:00:00.000Z",
       "articleId": "b12184652daccaff"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/matt-and-jerusalem-read-silent-spring",
-      "title": "Matt and Jerusalem read “Silent Spring”",
-      "url": "https://www.slowboring.com/p/matt-and-jerusalem-read-silent-spring",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Can a return to the classic text save environmentalism?",
-      "publishedAt": "2026-06-11T09:01:24.000Z",
-      "articleId": "0e2f1d22f890ccd1"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-you-finally-ready-to-admit-its",
