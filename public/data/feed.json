@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-21T20:44:59.150Z",
-  "fetchedAt": "2026-06-21T20:44:59.146Z",
+  "generatedAt": "2026-06-21T22:21:26.657Z",
+  "fetchedAt": "2026-06-21T22:21:26.652Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 766,
+  "totalItemCount": 756,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/bastiats-revenge-2.html?utm_source=rss&utm_medium=rss&utm_campaign=bastiats-revenge-2",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
