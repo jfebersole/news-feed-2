@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-21T10:41:38.347Z",
-  "fetchedAt": "2026-06-21T10:41:38.341Z",
+  "generatedAt": "2026-06-21T13:16:36.117Z",
+  "fetchedAt": "2026-06-21T13:16:36.111Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 766,
+  "itemCount": 155,
+  "totalItemCount": 756,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
@@ -13,7 +13,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
-      "publishedAt": "2026-06-21T10:00:23.000Z",
+      "publishedAt": "2026-06-21T10:00:24.000Z",
       "articleId": "06e0059d273d84ed"
     },
     {
@@ -1709,17 +1709,6 @@
       "summary": "With the thin Republican majorities, Democrats could plausibly force a trial of the acting Attorney General over the \"Anti-Weaponization Fund\"",
       "publishedAt": "2026-05-22T15:19:46.000Z",
       "articleId": "a70d8ed0b0c441b0"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7300357/2026/05/22/roy-robertson-harris-achilles-injury-giants-nfl/",
-      "title": "Giants' DL Roy Robertson-Harris suffers Achilles tendon tear in OTAs: Sources",
-      "url": "https://www.nytimes.com/athletic/7300357/2026/05/22/roy-robertson-harris-achilles-injury-giants-nfl/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Robertson-Harris is the second Giant to tear his Achilles tendon in the past week, following undrafted rookie cornerback Thaddeus Dixon.",
-      "publishedAt": "2026-05-22T13:11:51.000Z",
-      "articleId": "ab25804120f3ff84"
     }
   ],
   "sources": [
@@ -1734,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
