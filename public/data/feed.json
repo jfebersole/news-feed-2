@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-21T13:16:36.117Z",
-  "fetchedAt": "2026-06-21T13:16:36.111Z",
+  "generatedAt": "2026-06-21T16:07:19.663Z",
+  "fetchedAt": "2026-06-21T16:07:19.658Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 756,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-572",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-572.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. &#8220;Cuba se abre al capitalismo y aprueba su mayor reforma en décadas: banca privada, mercado de cambios y fin de los subsidios.&#8221; 2. Short TV clip of me on the Brazilian economy. 3. Patrick Collison on Paris. 4. &#8220;Thrilled to announce the inaugural cohort of the 1991 Fellowship @mercatus. Meet some of the most talented [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-21T16:00:58.000Z",
+      "articleId": "ba8ea3f3e0c1c49f"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-behind-the-declining-chart",
+      "title": "What's Behind the Declining Chart Performance of British Music in America?",
+      "url": "https://www.cantgetmuchhigher.com/p/whats-behind-the-declining-chart",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Or, why there was never a third British Invasion",
+      "publishedAt": "2026-06-21T13:31:19.000Z",
+      "articleId": "874f5003729e495b"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
       "title": "A Malicious Chapter in the History of American Justice",
@@ -389,17 +411,6 @@
       "summary": "Every young person needs a married political pundit&#8217;s take on dating",
       "publishedAt": "2026-06-18T09:02:27.000Z",
       "articleId": "695a47ab3967f475"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-native-firms",
-      "title": "AI-Native Firms",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Very important work from Hyunjin Kim and Rembrand Koning. Insead and HBS respectively: We study how firms built around AI capabilities-&#8220;AI-native&#8221; firms-are organized. Drawing on Y Combinator batches W20-F24 and U.S. venture-backed startups whose first financing closed between 2020 and 2024, we classify each firm&#8217;s AI-native status and link it to workforce microdata on team [&#8230;] The post AI-Native Firms appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-18T08:55:30.000Z",
-      "articleId": "72a06d1632ef0101"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/waiting-for-the-miracle",
@@ -1698,17 +1709,6 @@
       "summary": "But if we act now, we can avert disaster.",
       "publishedAt": "2026-05-23T08:23:19.000Z",
       "articleId": "156ff2a2fb8d2f04"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/impeach-todd-blanche",
-      "title": "Impeach Todd Blanche",
-      "url": "https://www.joshbarro.com/p/impeach-todd-blanche",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "With the thin Republican majorities, Democrats could plausibly force a trial of the acting Attorney General over the \"Anti-Weaponization Fund\"",
-      "publishedAt": "2026-05-22T15:19:46.000Z",
-      "articleId": "a70d8ed0b0c441b0"
     }
   ],
   "sources": [
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
