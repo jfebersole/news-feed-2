@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-22T21:11:46.844Z",
-  "fetchedAt": "2026-06-22T21:11:46.840Z",
+  "generatedAt": "2026-06-22T23:42:13.075Z",
+  "fetchedAt": "2026-06-22T23:42:13.071Z",
   "sourceCount": 21,
-  "itemCount": 153,
-  "totalItemCount": 754,
+  "itemCount": 154,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
+      "title": "A Malicious Chapter in the History of American Justice",
+      "url": "https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
+      "publishedAt": "2026-06-22T22:22:39.000Z",
+      "articleId": "06e0059d273d84ed"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/when-trumps-influence-is-no-match",
+      "title": "When Trump’s influence is no match for money’s",
+      "url": "https://www.slowboring.com/p/when-trumps-influence-is-no-match",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus D.C. goes D.S.A. and why ranked-choice voting took so long in Maine",
+      "publishedAt": "2026-06-22T22:01:23.000Z",
+      "articleId": "fbbe7826815e8425"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gyli6ncubfflt1monzsq.html",
       "title": "Money Stuff: Poiymarket Has Some Fake Traders",
@@ -169,17 +191,6 @@
       "summary": "Or, why there was never a third British Invasion",
       "publishedAt": "2026-06-21T13:31:19.000Z",
       "articleId": "874f5003729e495b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
-      "title": "A Malicious Chapter in the History of American Justice",
-      "url": "https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
-      "publishedAt": "2026-06-21T10:00:24.000Z",
-      "articleId": "06e0059d273d84ed"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/labor-market-effects-of-the-tax-cuts-and-jobs-act.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-market-effects-of-the-tax-cuts-and-jobs-act",
@@ -1701,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1782,7 +1793,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
