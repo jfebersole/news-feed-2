@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-06-22T06:40:32.280Z",
-  "fetchedAt": "2026-06-22T06:40:32.275Z",
+  "generatedAt": "2026-06-22T13:04:02.715Z",
+  "fetchedAt": "2026-06-22T13:04:02.711Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 765,
+  "itemCount": 153,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/alan-greenspan-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=alan-greenspan-rip",
+      "title": "Alan Greenspan, RIP",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/alan-greenspan-rip.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is a NYT obituary. The post Alan Greenspan, RIP appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-22T13:01:35.000Z",
+      "articleId": "3606f4c2170aa5c5"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/californias-gay-certification-program.html?utm_source=rss&utm_medium=rss&utm_campaign=californias-gay-certification-program",
+      "title": "California’s Gay Certification Program",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/californias-gay-certification-program.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Chris Rufo and Austen Hufford have a good piece on California&#8217;s Gay Certification program. Yes, you read that right. In 1986, Governor George Deukmejian signed Assembly Bill 3678, which required certain CPUC-regulated utilities to submit annual “plans” for buying goods and services from woman- and minority-owned companies. Two years later, CPUC created its “Supplier Diversity [&#8230;] The post California&#8217;s Gay Certification Program appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-22T11:18:16.000Z",
+      "articleId": "4c396cad85778bc3"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/against-urban-planning",
+      "title": "Against urban planning",
+      "url": "https://www.slowboring.com/p/against-urban-planning",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "What I didn&#8217;t learn from playing SimCity with a former mayor",
+      "publishedAt": "2026-06-22T10:03:21.000Z",
+      "articleId": "5944dff0a0766367"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+      "title": "Apple Price Increases, Apple Intelligence and the E.U.",
+      "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple is (finally) raising prices, but they're not shipping Siri AI to the E.U.",
+      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "articleId": "49b5540058fca05e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/scotland-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=scotland-facts-of-the-day",
+      "title": "Scotland facts of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/scotland-facts-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "By one metric there are 841,000 practicing Catholics in Scotland, with 184,283 attending Mass regularly. That puts Catholics as far outnumbering Protestants in Scotland, for the first time since the Reformation. Between 2012 and 2022, the number of obese adults in Scotland rose 46 percent, to comprise about one-third of the population. In 1950, 76 [&#8230;] The post Scotland facts of the day appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-22T07:09:26.000Z",
+      "articleId": "2a48927cd8930647"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/what-ive-been-reading-290.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-290",
       "title": "What I’ve been reading",
@@ -248,17 +303,6 @@
       "articleId": "84fd3c2a940fd95e"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/our-colleague-vincent-geloso-has-a-substack.html?utm_source=rss&utm_medium=rss&utm_campaign=our-colleague-vincent-geloso-has-a-substack",
-      "title": "Our colleague Vincent Geloso has a Substack",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/our-colleague-vincent-geloso-has-a-substack.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here goes! The post Our colleague Vincent Geloso has a Substack appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-19T15:18:25.000Z",
-      "articleId": "612d9604236b65b3"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
       "title": "The secret cause of the industrial revolution",
       "url": "https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
@@ -279,17 +323,6 @@
       "summary": "For the better part of the last several hundred years, coal was the fuel of choice for generating power.",
       "publishedAt": "2026-06-19T12:03:02.000Z",
       "articleId": "7f9cc501847fe6b6"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/colorados-funeral-mistake.html?utm_source=rss&utm_medium=rss&utm_campaign=colorados-funeral-mistake",
-      "title": "Colorado’s Funeral Mistake",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/colorados-funeral-mistake.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Today about a quarter of the US workforce are required to have a license to work in their chosen profession, up from just 5 percent in 1950. Almost always the trend has been to add occupational licensing over time, but in 1983 Colorado did something unusual: it delicensed funeral service workers such as funeral directors. [&#8230;] The post Colorado&#8217;s Funeral Mistake appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-19T11:20:08.000Z",
-      "articleId": "4771adf82c4de61e"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/kevin-harvicks-second-prime-made",
@@ -334,17 +367,6 @@
       "summary": "...",
       "publishedAt": "2026-06-19T05:32:51.000Z",
       "articleId": "b522b16fbe78e8dd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/how-research-in-math-will-change-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=how-research-in-math-will-change-from-my-email",
-      "title": "How research in math will change (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-research-in-math-will-change-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From GA: I am a mathematician&#8230;and some of your recent comments on MR about the role of AI in Econ research as well as the (disappearing?) role of academic papers inspired this response. (It is partially but not exclusively about academia, so I hope it is ok that I&#8217;m sending it to your GMU address. [&#8230;] The post How research in math will change (from my email) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-19T04:34:18.000Z",
-      "articleId": "71427c63e1169ed5"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
@@ -930,17 +952,6 @@
       "articleId": "9bfa43f7dfcc3e8c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/can-we-retire-public-safety",
-      "title": "Can we retire “public safety”?",
-      "url": "https://www.slowboring.com/p/can-we-retire-public-safety",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Just talk about crime.",
-      "publishedAt": "2026-06-11T10:03:10.000Z",
-      "articleId": "55ced3f4596d69b7"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
       "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
       "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
@@ -1082,17 +1093,6 @@
       "summary": "Most flags used to be ugly. They were probably better that way.",
       "publishedAt": "2026-06-08T17:38:28.000Z",
       "articleId": "157f9caea73632b2"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
-      "title": "Google Buys Compute From SpaceX, Broadcom’s Outlook, Apple’s AI Politics",
-      "url": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Google's deal with SpaceX, and Broadcom's earnings, both seem bullish for Nvidia. Then, what I'm looking for at WWDC.",
-      "publishedAt": "2026-06-08T10:00:00.000Z",
-      "articleId": "4c0db9048abc2be2"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-83-i-told-you-so",
@@ -1687,28 +1687,6 @@
       "summary": "Author Keith Jopling stops by to talk about how the album has survived in the digital age",
       "publishedAt": "2026-05-24T13:31:14.000Z",
       "articleId": "84db4a4df3395f13"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-052326",
-      "title": "Reading List 05/23/26",
-      "url": "https://www.construction-physics.com/p/reading-list-052326",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Squatter removal services, Apple finding uses for defective chips, process heat use in California, the brewing Colorado River crisis, and more.",
-      "publishedAt": "2026-05-23T12:02:39.000Z",
-      "articleId": "3806760fc5f6e928"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-heading-for-a-debtpocalypse",
-      "title": "America is heading for a debtpocalypse",
-      "url": "https://www.noahpinion.blog/p/america-is-heading-for-a-debtpocalypse",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "But if we act now, we can avert disaster.",
-      "publishedAt": "2026-05-23T08:23:19.000Z",
-      "articleId": "156ff2a2fb8d2f04"
     }
   ],
   "sources": [
@@ -1723,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
