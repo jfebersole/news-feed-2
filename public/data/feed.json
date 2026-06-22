@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-06-22T13:04:02.715Z",
-  "fetchedAt": "2026-06-22T13:04:02.711Z",
+  "generatedAt": "2026-06-22T17:47:09.643Z",
+  "fetchedAt": "2026-06-22T17:47:09.638Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 755,
+  "totalItemCount": 764,
   "items": [
     {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-565",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-565.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. John Horton: &#8220;The &#8220;literature&#8221; is going to become a collection of nodes/papers representing temporarily suspended computation with &#8220;citations&#8221; being contingent edges that describe how they sink uses the source; new data, better models &#38; methodological changes will cause a Makefile-like cascading of update through the literature/graph. AI agents will autonomously add new edges + [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-22T16:50:18.000Z",
+      "articleId": "2b13218fb20414a3"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/alan-greenspan-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=alan-greenspan-rip",
-      "title": "Alan Greenspan, RIP",
+      "title": "Alan Greenspan, RIP at 100",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/06/alan-greenspan-rip.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is a NYT obituary. The post Alan Greenspan, RIP appeared first on Marginal REVOLUTION .",
+      "summary": "Here is a NYT obituary. Here is a WSJ obituary. The post Alan Greenspan, RIP at 100 appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-22T13:01:35.000Z",
       "articleId": "3606f4c2170aa5c5"
     },
@@ -290,17 +301,6 @@
       "summary": "The best Stratechery content from the week of June 15, 2026, including Anthropic, e-commerce in the age of AI, and the NBA Finals being a perfect 10.",
       "publishedAt": "2026-06-19T17:00:00.000Z",
       "articleId": "5c0d037806a77f1a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-577",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-577.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Liberalism and weaponized interdependence. 2. Is the AI shock like the China shock? 3. Can AI agents be individuated? 4. Who is liked by GPT 5.5? (from a partial list, if I understand this correctly) 5. &#8220;A policy-induced rural broadband expansion lowered adolescent fertility, and the response appears to operate through the information and [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-19T16:07:03.000Z",
-      "articleId": "84fd3c2a940fd95e"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
@@ -1701,16 +1701,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
