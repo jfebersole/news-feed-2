@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-22T00:20:40.708Z",
-  "fetchedAt": "2026-06-22T00:20:40.704Z",
+  "generatedAt": "2026-06-22T06:40:32.280Z",
+  "fetchedAt": "2026-06-22T06:40:32.275Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 766,
+  "itemCount": 155,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/what-ive-been-reading-290.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-290",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/what-ive-been-reading-290.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Allison Schrager is very good, including her new book Worth the Risk: The Seven Myths that Keep Us from Taking the Chances We Need to Take. 2. Dialogues of Confucius, translated and edited by Brian Buya and Wenwen Li. It seems these works, once considered doubtful in provenance, are likely by Confucius after all? [&#8230;] The post What I&#8217;ve been reading appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-22T04:59:04.000Z",
+      "articleId": "fd8bca829d13327d"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
       "title": "Pizza wheels are bad, Japanese toilets are great",
@@ -15,6 +26,17 @@
       "summary": "So why do Americans use the former and not the latter?",
       "publishedAt": "2026-06-21T23:33:20.000Z",
       "articleId": "49214c73a3eb6937"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-us-is-off-to-a-historic-world",
+      "title": "The U.S. is Off to a Historic World Cup Start. How Much Does That Matter?",
+      "url": "https://neilpaine.substack.com/p/the-us-is-off-to-a-historic-world",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The USMNT's group-stage numbers rank among the best in tournament history, but history tells us what comes next is complicated.",
+      "publishedAt": "2026-06-21T20:18:59.000Z",
+      "articleId": "4f6ca5b9c92911f1"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/bastiats-revenge-2.html?utm_source=rss&utm_medium=rss&utm_campaign=bastiats-revenge-2",
@@ -358,17 +380,6 @@
       "articleId": "38bbe78e3b801d82"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-557.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-557",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-557.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. &#8220;We’re building the data and infrastructure layer to give AI models and agents taste.&#8221; 2. What would actually be required for &#8220;Sovereign AI&#8221;? 3. Cliff Asness on the affordability crisis. 4. How usury became more accepted. 5. New Yorker profile of Ken Griffin. 6. Refine is an amazing referee. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-18T16:22:51.000Z",
-      "articleId": "6e2565ec67b0520c"
-    },
-    {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/kdpy42la8uf97ksphn6n.html",
       "title": "The Brew Shop - Weekly Email Update",
       "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/kdpy42la8uf97ksphn6n.html",
@@ -490,17 +501,6 @@
       "articleId": "f56d15bce2c48fec"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/tommy-fleetwood-is-running-out-of",
-      "title": "Tommy Fleetwood Is Running Out of Reasons Not to Win a Major",
-      "url": "https://neilpaine.substack.com/p/tommy-fleetwood-is-running-out-of",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Fleetwood has already authored two of the greatest U.S. Open closing rounds ever. Now, back at the course where he nearly stole one, the numbers say he can finally take the trophy.",
-      "publishedAt": "2026-06-17T10:30:12.000Z",
-      "articleId": "9d342328af5bb04e"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-real-problem-with-gifted-education",
       "title": "The real problem with “gifted” education",
       "url": "https://www.slowboring.com/p/the-real-problem-with-gifted-education",
@@ -565,17 +565,6 @@
       "summary": "Money Stuff Cabo Verde, MSTR, Caymans, Cursor, slop. View in browser Pyramids The situation with artificial intelligence companies is: The founders of AI companies place a high value on keeping control of their companies, not surrendering control to outside investors or boards of directors. Part of the reason for this is that all tech founders love control, but part of it is that AI founders believe they are creating a uniquely powerful and dangerous technology and don’t want it to fall into the wrong (BlackRock’s) hands. As Elon Musk put it : “I just don’t feel comfortable building a robot army here, and then being ousted because of some asinine recommendations from ISS and Glass Lewis, who have no freaking clue.” AI companies need to raise a kajillion dollars of outside equity to build their robot armies. This is a problem. The AI founders want to keep control of their companies, but traditionally control goes with stock ownership, and they need to raise so much money that they can’t really keep a majority of their companies’ shares. There are technologies to address this problem. With SpaceX’s initial public offering last week, Elon Musk advanced the state of the art of this technology : He gave himself super-voting stock so that he can keep control even if he sells a majority of the company’s economic ownership; He separately gave himself the ability to appoint a majority of the board of directors; and He made it essentially impossible for shareholders to sue him if they don’t like his decisions. Nobody has ever gone quite this far before, but on the other hand nobody has ever taken a giant existential-threat-to-humanity AI company public before. [1] I wonder a bit whether OpenAI and Anthropic, which are also thinking about going public, will take some pointers from Musk. Musk’s approach caused a certain amount of complaining , but it did not stop him from raising $75 billion from enthusiastic investors at a giant valuation, so I guess it works. There is, however, an older technology. Back in the day (the 1920s) it was called “pyramiding,” and it worked like this: You have a company, Company A. It’s worth $100. You own 100% of it. It needs to raise money. You sell 30% of Company A to outside shareholders for $30. Now you have raised $30, and you own 70% of the voting stock of the company. You need more money. You plop your 70% stake into a new holding company, Company B. You own 100% of Company B, and Company B’s only asset is 70% of the voting stock of Company A ($70 worth). You sell 30% of Company B to outside shareholders for $21. Now you have raised $51, and you own 70% of Company B, which owns 70% of Company A. You own a 49% economic stake in the operating company (Company A). But Company B owns a majority of the votes in Company A, and you...",
       "publishedAt": "2026-06-16T19:22:16.752Z",
       "articleId": "306ec6d6ae6460f6"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-stanley-cup-final-was-a-celebration",
-      "title": "The Stanley Cup Final Was a Celebration of Hockey's Glorious Weirdness",
-      "url": "https://neilpaine.substack.com/p/the-stanley-cup-final-was-a-celebration",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The Hurricanes were the logical champion. Everything else was a tribute to the beautiful messiness that makes hockey great.",
-      "publishedAt": "2026-06-16T19:00:36.000Z",
-      "articleId": "f57b4316e25b7058"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/europes-housing-shortages-are-even",
@@ -1799,7 +1788,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 5,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
