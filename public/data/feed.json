@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-21T22:21:26.657Z",
-  "fetchedAt": "2026-06-21T22:21:26.652Z",
+  "generatedAt": "2026-06-22T00:20:40.708Z",
+  "fetchedAt": "2026-06-22T00:20:40.704Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 756,
+  "itemCount": 156,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
+      "title": "Pizza wheels are bad, Japanese toilets are great",
+      "url": "https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "So why do Americans use the former and not the latter?",
+      "publishedAt": "2026-06-21T23:33:20.000Z",
+      "articleId": "49214c73a3eb6937"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/bastiats-revenge-2.html?utm_source=rss&utm_medium=rss&utm_campaign=bastiats-revenge-2",
       "title": "Bastiat’s telephone?",
@@ -1723,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
