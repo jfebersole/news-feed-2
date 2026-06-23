@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-22T23:42:13.075Z",
-  "fetchedAt": "2026-06-22T23:42:13.071Z",
+  "generatedAt": "2026-06-23T04:17:38.814Z",
+  "fetchedAt": "2026-06-23T04:17:38.809Z",
   "sourceCount": 21,
-  "itemCount": 154,
+  "itemCount": 155,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
+      "title": "Should People Avoid Whole-Body Screening Info?",
+      "url": "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-06-23T00:41:37.000Z",
+      "articleId": "640c1cd88e1337d3"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
       "title": "A Malicious Chapter in the History of American Justice",
@@ -13,7 +24,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
-      "publishedAt": "2026-06-22T22:22:39.000Z",
+      "publishedAt": "2026-06-22T22:22:40.000Z",
       "articleId": "06e0059d273d84ed"
     },
     {
