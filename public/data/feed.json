@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T21:05:45.864Z",
-  "fetchedAt": "2026-06-23T21:05:45.859Z",
+  "generatedAt": "2026-06-23T22:37:40.275Z",
+  "fetchedAt": "2026-06-23T22:37:40.269Z",
   "sourceCount": 21,
-  "itemCount": 156,
-  "totalItemCount": 755,
+  "itemCount": 155,
+  "totalItemCount": 754,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3ewb7bm8cdphs13ralix.html",
@@ -884,17 +884,6 @@
       "summary": "Why Europe must grow.",
       "publishedAt": "2026-06-13T08:25:32.000Z",
       "articleId": "26992d85e247d6e9"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-german-soccer-fan-walks-into-a",
-      "title": "A German soccer fan walks into a Buc-ee’s and discovers abundance",
-      "url": "https://www.slowboring.com/p/a-german-soccer-fan-walks-into-a",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The World Cup tourists helping me see America",
-      "publishedAt": "2026-06-12T22:00:45.000Z",
-      "articleId": "b032708ec8c1e0df"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
@@ -1815,7 +1804,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
