@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T18:13:12.350Z",
-  "fetchedAt": "2026-06-23T18:13:12.345Z",
+  "generatedAt": "2026-06-23T21:05:45.864Z",
+  "fetchedAt": "2026-06-23T21:05:45.859Z",
   "sourceCount": 21,
   "itemCount": 156,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3ewb7bm8cdphs13ralix.html",
@@ -26,6 +26,17 @@
       "summary": "1. This paper was presented 57 different times!? Is that good or bad? 2. Benny Goodman and Lionel Hampton doing &#8220;I Got Rhythm.&#8221; 3. Claims about advancements in cancer testing. 4. Reconstructing Welles&#8217;s Don Quixote? 5. The obesity penalty in political elections. 6. Zvi on GLM-5.2. 7. New work by Mozart. And more information here. [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-23T16:46:01.000Z",
       "articleId": "5ea8f4b9d937e890"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/estonian-day-dreams",
+      "title": "Estonian Day Dreams",
+      "url": "https://walkingtheworld.substack.com/p/estonian-day-dreams",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "My brief love affair with an unique country",
+      "publishedAt": "2026-06-23T14:03:40.000Z",
+      "articleId": "c1425bf3953bfe78"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/short-and-sweet-an-album-a-day",
@@ -1709,17 +1720,6 @@
       "summary": "Every few weeks there's a new disaster that would have sunk any other president.",
       "publishedAt": "2026-05-25T08:14:11.000Z",
       "articleId": "5705142cb06bb8dc"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7304277/2026/05/24/jaxson-dart-trump-giants-john-harbaugh/",
-      "title": "Dart-Carter controversy is over, but Giants can't let big team personalities become a distraction",
-      "url": "https://www.nytimes.com/athletic/7304277/2026/05/24/jaxson-dart-trump-giants-john-harbaugh/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Everything is magnified in New York, and this Trump-Dart-Carter episode is John Harbaugh's first real taste of that.",
-      "publishedAt": "2026-05-24T18:33:19.000Z",
-      "articleId": "7499775ceed8e038"
     }
   ],
   "sources": [
@@ -1734,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
