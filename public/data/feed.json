@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-23T12:14:10.445Z",
-  "fetchedAt": "2026-06-23T12:14:10.440Z",
+  "generatedAt": "2026-06-23T16:05:49.775Z",
+  "fetchedAt": "2026-06-23T16:05:49.771Z",
   "sourceCount": 21,
   "itemCount": 156,
   "totalItemCount": 755,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/short-and-sweet-an-album-a-day",
+      "title": "Short and Sweet: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/short-and-sweet-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Dolly Parton, Earl Sweatshirt, Marvin Gaye, and others",
+      "publishedAt": "2026-06-23T13:31:15.000Z",
+      "articleId": "c227e4126127e3d0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/china-runs-australia-delegates-america-streamlines.html?utm_source=rss&utm_medium=rss&utm_campaign=china-runs-australia-delegates-america-streamlines",
       "title": "Two Roads to Fast Clinical Trials, and the US Takes Neither",
@@ -1709,17 +1720,6 @@
       "summary": "Everything is magnified in New York, and this Trump-Dart-Carter episode is John Harbaugh's first real taste of that.",
       "publishedAt": "2026-05-24T18:33:19.000Z",
       "articleId": "7499775ceed8e038"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/you-cant-kill-it-if-you-tried-a-conversation",
-      "title": "You Can't Kill It If You Tried: A Conversation with Keith Jopling",
-      "url": "https://www.cantgetmuchhigher.com/p/you-cant-kill-it-if-you-tried-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Author Keith Jopling stops by to talk about how the album has survived in the digital age",
-      "publishedAt": "2026-05-24T13:31:14.000Z",
-      "articleId": "84db4a4df3395f13"
     }
   ],
   "sources": [
@@ -1737,7 +1737,7 @@
       "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
