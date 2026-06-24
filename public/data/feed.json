@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-24T09:49:08.205Z",
-  "fetchedAt": "2026-06-24T09:49:08.202Z",
+  "generatedAt": "2026-06-24T12:28:36.850Z",
+  "fetchedAt": "2026-06-24T12:28:36.845Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 764,
+  "itemCount": 156,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/canadas-sun-belt-hockey-talent-drain",
+      "title": "Canada's Sun Belt Hockey Talent-Drain Is Real",
+      "url": "https://neilpaine.substack.com/p/canadas-sun-belt-hockey-talent-drain",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Brady Tkachuk joining his brother in Florida is just the latest case of Canadian teams bleeding value to U.S. markets — especially warm-weather ones.",
+      "publishedAt": "2026-06-24T10:03:38.000Z",
+      "articleId": "eece4d2678d86e9b"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/should-data-centers-pay-a-carbon",
+      "title": "Should data centers pay a carbon tax?",
+      "url": "https://www.slowboring.com/p/should-data-centers-pay-a-carbon",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Two things voters hate, together at last!",
+      "publishedAt": "2026-06-24T10:00:55.000Z",
+      "articleId": "922a5e4ab268f046"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+      "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+      "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
+      "publishedAt": "2026-06-24T10:00:00.000Z",
+      "articleId": "b111bf4f05a670c1"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
       "title": "China is winning the other tech race",
@@ -444,17 +477,6 @@
       "summary": "For the better part of the last several hundred years, coal was the fuel of choice for generating power.",
       "publishedAt": "2026-06-19T12:03:02.000Z",
       "articleId": "7f9cc501847fe6b6"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/kevin-harvicks-second-prime-made",
-      "title": "Kevin Harvick's Second Prime Made Him a First-Ballot Hall of Famer",
-      "url": "https://neilpaine.substack.com/p/kevin-harvicks-second-prime-made",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Thrown into Dale Earnhardt's shadow as a rookie, Harvick chased his first Cup title for years before a late-career team change unlocked one of the greatest peaks of the modern era.",
-      "publishedAt": "2026-06-19T10:03:37.000Z",
-      "articleId": "3ad7022ca98e57c5"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/happy-juneteenth",
@@ -1071,17 +1093,6 @@
       "summary": "Babies don't create public policy",
       "publishedAt": "2026-06-10T13:38:11.000Z",
       "articleId": "0d7581fb6bcb3afb"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
-      "title": "Fable 5, Anthropic Alignment, AI Tiers",
-      "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
-      "publishedAt": "2026-06-10T10:00:00.000Z",
-      "articleId": "c9d675b7b2379e80"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of",
@@ -1723,10 +1734,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1804,7 +1815,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
