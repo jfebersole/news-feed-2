@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-24T21:42:57.915Z",
-  "fetchedAt": "2026-06-24T21:42:57.911Z",
+  "generatedAt": "2026-06-24T23:20:19.151Z",
+  "fetchedAt": "2026-06-24T23:20:19.145Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 764,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/congress-passed-the-biggest-housing",
+      "title": "Congress passed the biggest housing bill in a generation. Trump is holding it hostage.",
+      "url": "https://www.slowboring.com/p/congress-passed-the-biggest-housing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The president said he will not sign it until lawmakers pass his SAVE America Act.",
+      "publishedAt": "2026-06-24T22:01:21.000Z",
+      "articleId": "9195a62d4677641d"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/543ec8qvb1070v2k4u54.html",
       "title": "Money Stuff: Insider Trading Isn't Romantic",
@@ -100,7 +111,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Aliaksandra Melnichenka, Belarus/Kentucky, to support science and math writing. Guilherme Pinho, Sao Paulo, real estate titling and transactions in Brazil. Diyar Zhakpelov, Astana, Kazakhstan, 17, exam prep app for Kazakhs, general career support. Randy Chang, AI policy writings, Ontario/Chapel Hill. Jesse Casana, Dartmouth, archaeology tranche, “Drone-acquired synthetic aperture radar (SAR), a novel and experimental technology, [&#8230;] The post Emergent Ventures winners, 55th cohort appeared first on Marginal REVOLUTION .",
+      "summary": "Aliaksandr Melnichenka, Belarus/Kentucky, to support science and math writing. Guilherme Pinho, Sao Paulo, real estate titling and transactions in Brazil. Diyar Zhakpelov, Astana, Kazakhstan, 17, exam prep app for Kazakhs, general career support. Randy Chang, AI policy writings, Ontario/Chapel Hill. Jesse Casana, Dartmouth, archaeology tranche, “Drone-acquired synthetic aperture radar (SAR), a novel and experimental technology, [&#8230;] The post Emergent Ventures winners, 55th cohort appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-24T05:17:02.000Z",
       "articleId": "32ecf0b7561bc022"
     },
@@ -840,17 +851,6 @@
       "summary": "A question surprisingly few people are asking.",
       "publishedAt": "2026-06-15T09:17:45.000Z",
       "articleId": "1a861034ca22335d"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-8cb",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-06-14T17:01:48.000Z",
-      "articleId": "3a33d9512928f678"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
@@ -1712,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1848,10 +1848,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
