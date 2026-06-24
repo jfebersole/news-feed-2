@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T18:05:09.214Z",
-  "fetchedAt": "2026-06-24T18:05:09.209Z",
+  "generatedAt": "2026-06-24T20:04:36.840Z",
+  "fetchedAt": "2026-06-24T20:04:36.835Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 765,
+  "itemCount": 154,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/what-should-the-uap-scientific-advisory-board-do.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-the-uap-scientific-advisory-board-do",
@@ -411,17 +411,6 @@
       "summary": "A new housing bill, General Motors joining the grid-scale battery game, skepticism about data center delays, solid-state air conditioning, and more.",
       "publishedAt": "2026-06-20T12:01:56.000Z",
       "articleId": "101179ed05cb3081"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-14-19-2026",
-      "title": "The Week That Was (June 14-19, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-june-14-19-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-06-20T10:01:30.000Z",
-      "articleId": "23977af7aedc06b2"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-defines-japans-national-identity",
@@ -1788,7 +1777,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1851,10 +1840,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
