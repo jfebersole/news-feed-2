@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T00:08:10.331Z",
-  "fetchedAt": "2026-06-24T00:08:10.327Z",
+  "generatedAt": "2026-06-24T05:11:00.194Z",
+  "fetchedAt": "2026-06-24T05:11:00.190Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 764,
+  "totalItemCount": 754,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3ewb7bm8cdphs13ralix.html",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
