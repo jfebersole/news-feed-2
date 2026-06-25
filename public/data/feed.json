@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T23:20:19.151Z",
-  "fetchedAt": "2026-06-24T23:20:19.145Z",
+  "generatedAt": "2026-06-25T04:20:57.182Z",
+  "fetchedAt": "2026-06-25T04:20:57.178Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 754,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-passed-the-biggest-housing",
@@ -1712,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1848,10 +1848,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
