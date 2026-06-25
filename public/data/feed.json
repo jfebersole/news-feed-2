@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-25T20:20:20.847Z",
-  "fetchedAt": "2026-06-25T20:20:20.844Z",
+  "generatedAt": "2026-06-25T22:42:28.529Z",
+  "fetchedAt": "2026-06-25T22:42:28.525Z",
   "sourceCount": 21,
-  "itemCount": 155,
-  "totalItemCount": 764,
+  "itemCount": 153,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/cricket-and-the-railways.html?utm_source=rss&utm_medium=rss&utm_campaign=cricket-and-the-railways",
@@ -840,17 +840,6 @@
       "summary": "Featuring Pink Floyd, Coldplay, the Velvet Underground, and others",
       "publishedAt": "2026-06-16T13:32:20.000Z",
       "articleId": "ebea20b473af8972"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/better-immigration-can-help-fix-the",
-      "title": "Better immigration can help fix the debt",
-      "url": "https://www.slowboring.com/p/better-immigration-can-help-fix-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "We should be more selective &#8212; and select more people",
-      "publishedAt": "2026-06-16T10:03:22.000Z",
-      "articleId": "12d5cc8cfbab22d4"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7362938/2026/06/16/new-york-giants-roster-projection-53/",
@@ -1698,17 +1687,6 @@
       "summary": "Malaria is caused not by a virus or bacterium, but by a complex, shape-shifting parasite that has evolved alongside us for millennia. This has made vaccine development a brutal challenge.",
       "publishedAt": "2026-05-27T08:01:55.000Z",
       "articleId": "e401488417981949"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/use-ai-this-election",
-      "title": "Use AI This Election",
-      "url": "https://www.astralcodexten.com/p/use-ai-this-election",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-05-26T20:22:30.000Z",
-      "articleId": "703ccf229c248189"
     }
   ],
   "sources": [
@@ -1804,7 +1782,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
