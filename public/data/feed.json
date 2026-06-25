@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-25T11:48:45.887Z",
-  "fetchedAt": "2026-06-25T11:48:45.882Z",
+  "generatedAt": "2026-06-25T14:52:21.646Z",
+  "fetchedAt": "2026-06-25T14:52:21.642Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 764,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
+      "title": "Two-Party System, One-Party Rule",
+      "url": "https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Why does our seemingly competitive political system produce so much stagnation and corruption?",
+      "publishedAt": "2026-06-25T14:11:35.000Z",
+      "articleId": "022c6b37e08abf27"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages",
+      "title": "US Subways Build Too Many Cross Passages",
+      "url": "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "I wrote the following piece for IFP&#8217;s Transit Abundance Playbook, a collection of 15 ideas to improve transit delivery in the US.",
+      "publishedAt": "2026-06-25T13:55:49.000Z",
+      "articleId": "ba5668b78ec9496e"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "title": "What's really slowing down the AI buildout",
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
+      "publishedAt": "2026-06-25T13:36:03.000Z",
+      "articleId": "ab089a912d848ee4"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html?utm_source=rss&utm_medium=rss&utm_campaign=more-firms-more-dynamism",
       "title": "New Business Formation is Surging–Again.",
@@ -48,17 +81,6 @@
       "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
       "publishedAt": "2026-06-25T10:00:00.000Z",
       "articleId": "0132d18e67d01748"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
-      "title": "Two-Party System, One-Party Rule",
-      "url": "https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Why does our seemingly competitive political system produce so much stagnation and corruption?",
-      "publishedAt": "2026-06-25T09:05:20.000Z",
-      "articleId": "022c6b37e08abf27"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/ranking-joe-bidens-mistakes",
@@ -1687,28 +1709,6 @@
       "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
       "publishedAt": "2026-05-26T19:56:01.000Z",
       "articleId": "575c7b4c2c43367c"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/americas-national-style-is-hiding",
-      "title": "What Samuel Hughes thinks about Washington, DC",
-      "url": "https://www.worksinprogress.news/p/americas-national-style-is-hiding",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "In this diary, Samuel Hughes visits Washington, DC, the world&#8217;s imperial capital, and reflects on a national style hiding in plain sight.",
-      "publishedAt": "2026-05-26T13:51:46.000Z",
-      "articleId": "b422c332c90e1047"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/artists-you-hate-an-album-a-day",
-      "title": "Artists You Hate: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/artists-you-hate-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Bob Dylan, R.E.M., U2, and others",
-      "publishedAt": "2026-05-26T13:31:02.000Z",
-      "articleId": "2eadf98407d33869"
     }
   ],
   "sources": [
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
