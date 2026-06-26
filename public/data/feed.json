@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-25T22:42:28.529Z",
-  "fetchedAt": "2026-06-25T22:42:28.525Z",
+  "generatedAt": "2026-06-26T00:21:17.388Z",
+  "fetchedAt": "2026-06-26T00:21:17.383Z",
   "sourceCount": 21,
-  "itemCount": 153,
-  "totalItemCount": 763,
+  "itemCount": 154,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy",
+      "title": "The Metaculus Democracy Threat Index",
+      "url": "https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-06-25T23:59:00.000Z",
+      "articleId": "09e01328a10dc4f1"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
+      "title": "One-Party Rule Is Hiding in Plain Sight",
+      "url": "https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Why does our seemingly competitive political system produce so much stagnation and corruption?",
+      "publishedAt": "2026-06-25T23:40:05.000Z",
+      "articleId": "022c6b37e08abf27"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/cricket-and-the-railways.html?utm_source=rss&utm_medium=rss&utm_campaign=cricket-and-the-railways",
       "title": "Cricket and the railways",
@@ -37,17 +59,6 @@
       "summary": "Or, how pop went from the streets to the farm",
       "publishedAt": "2026-06-25T17:31:04.000Z",
       "articleId": "5f3e3a84f7736812"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
-      "title": "One-Party Rule Is Hiding in Plain Sight",
-      "url": "https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Why does our seemingly competitive political system produce so much stagnation and corruption?",
-      "publishedAt": "2026-06-25T17:24:11.000Z",
-      "articleId": "022c6b37e08abf27"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-558.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-558",
@@ -1701,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
