@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-26T05:20:40.845Z",
-  "fetchedAt": "2026-06-26T05:20:40.841Z",
+  "generatedAt": "2026-06-26T09:49:11.776Z",
+  "fetchedAt": "2026-06-26T09:49:11.772Z",
   "sourceCount": 21,
-  "itemCount": 155,
+  "itemCount": 153,
   "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation",
+      "title": "Aaron Levie on current implicit AI regulation",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. Realistically, as AI models became more and more powerful this was going to be inevitable (I [&#8230;] The post Aaron Levie on current implicit AI regulation appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-26T06:10:38.000Z",
+      "articleId": "ad0ff3d547350c90"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/does-fasting-harm-cognitive-performance.html?utm_source=rss&utm_medium=rss&utm_campaign=does-fasting-harm-cognitive-performance",
       "title": "Does fasting harm cognitive performance?",
@@ -433,17 +444,6 @@
       "summary": "He starts his new essay with this: In 2014 I wrote in The New York Times that if your own team is not in the World Cup, you should root for the one whose victory would do the most good. Add up the happiness a title would create, more where more people care, more where [&#8230;] The post Dean Karlan has a Substack appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-23T07:07:53.000Z",
       "articleId": "1290140c02c07491"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/elderly-health-and-longevity-in-the-us.html?utm_source=rss&utm_medium=rss&utm_campaign=elderly-health-and-longevity-in-the-us",
-      "title": "Elderly Health and Longevity in the US",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/elderly-health-and-longevity-in-the-us.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Rising elderly life expectancy is a well-known source of fiscal pressure on Social Security and Medicare – but how have declining mortality and morbidity affected the two programs’ relative finances? Using nearly three decades of Medicare Current Beneficiary Survey data (1992-2019), we estimate that these demographic changes raised expected lifetime Social Security spending by over [&#8230;] The post Elderly Health and Longevity in the US appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-23T05:21:16.000Z",
-      "articleId": "6d372e57105b0b99"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
@@ -1687,28 +1687,6 @@
       "summary": "Don't steer the car, move the road",
       "publishedAt": "2026-05-27T16:36:31.000Z",
       "articleId": "799ee65b810f864b"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
-      "title": "Your future job will be to keep AI on task",
-      "url": "https://www.noahpinion.blog/p/your-future-job-will-be-to-keep-ai",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The one thing humans will always be comparatively good at is knowing what we want.",
-      "publishedAt": "2026-05-27T08:32:31.000Z",
-      "articleId": "6e3005203db15f0f"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/inventing-the-second-malaria-vaccine",
-      "title": "Inventing the second malaria vaccine with Katharine Collins",
-      "url": "https://www.worksinprogress.news/p/inventing-the-second-malaria-vaccine",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Malaria is caused not by a virus or bacterium, but by a complex, shape-shifting parasite that has evolved alongside us for millennia. This has made vaccine development a brutal challenge.",
-      "publishedAt": "2026-05-27T08:01:55.000Z",
-      "articleId": "e401488417981949"
     }
   ],
   "sources": [
