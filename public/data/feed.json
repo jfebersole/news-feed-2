@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-26T12:25:00.909Z",
-  "fetchedAt": "2026-06-26T12:25:00.899Z",
+  "generatedAt": "2026-06-26T15:33:20.576Z",
+  "fetchedAt": "2026-06-26T15:33:20.571Z",
   "sourceCount": 21,
   "itemCount": 155,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html?utm_source=rss&utm_medium=rss&utm_campaign=works-in-progress-grid-connection-auctions",
@@ -1723,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
