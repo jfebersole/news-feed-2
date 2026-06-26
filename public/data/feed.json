@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-26T00:21:17.388Z",
-  "fetchedAt": "2026-06-26T00:21:17.383Z",
+  "generatedAt": "2026-06-26T05:20:40.845Z",
+  "fetchedAt": "2026-06-26T05:20:40.841Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 753,
+  "itemCount": 155,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/does-fasting-harm-cognitive-performance.html?utm_source=rss&utm_medium=rss&utm_campaign=does-fasting-harm-cognitive-performance",
+      "title": "Does fasting harm cognitive performance?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/does-fasting-harm-cognitive-performance.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "More than 2 billion people participate annually in Ramadan fasting, making its potential effects on cognitive performance important for workplaces, education and high-stakes decision-making. We study these effects in tournament chess, an incentivised, real-world cognitive task in which move quality can be evaluated objectively by a strong chess engine. We analyse nearly 300,000 games and more [&#8230;] The post Does fasting harm cognitive performance? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-26T04:51:04.000Z",
+      "articleId": "012982744a41817f"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
+      "title": "The Democrats have their own MAGA now",
+      "url": "https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The shape of America's new Left is becoming clearer.",
+      "publishedAt": "2026-06-26T02:19:26.000Z",
+      "articleId": "e65ab8189b73d7d0"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy",
       "title": "The Metaculus Democracy Threat Index",
@@ -466,17 +488,6 @@
       "summary": "Money Stuff BBB SpaceX, wearables, STRC, stock. View in browser Fake Polymarket traders In traditional finance, there are stock exchanges and there are brokerages. Stocks are bought and sold on the stock exchange, but you can’t just walk in and buy some stock. Only certain selected professionals can trade stocks on the stock exchange. If you want to trade stocks, you have to open an account with a brokerage; your broker will buy the stock for you on the stock exchange. [1] You can’t just open an account on the stock exchange and buy stock. The stock exchange doesn’t have accounts for retail investors. This is more or less a matter of historical contingency, though there are some benefits to this division of labor, and stock exchanges and regulators are sort of attached to it now. One arguable advantage of this division is that retail brokerages can be kind of embarrassing, without thereby rendering the whole stock market kind of embarrassing. Like: Robinhood used to show little animations of confetti when its customers bought stock, and regulators found that embarrassing , but it was embarrassing for Robinhood . If you were a stock trader at Goldman Sachs or Jane Street or BlackRock or whatever, moving tens of millions of dollars of stock at a clip, and your uncle was like “heheheh what about the confetti,” you could reasonably reply “that has nothing to do with me, I do not use Robinhood, that’s a retail brokerage, I am a sophisticated professional and there is almost no confetti at the New York Stock Exchange.” Nobody who started a retail financial market from scratch today , or even 10 years ago, would set it up this way, though. Nobody would be like “I am going to set up a central venue for trading of Pokémons, and offer a limited number of memberships to professional Pokémon trading firms, who can sign up customers and trade on their behalf on my venue.” What? No. You set up a website , and you let people open accounts on the website, and they can trade with each other. Perhaps professional trading firms will come to your website, perhaps you will enter into special arrangements with professional market makers to provide liquidity, but in general you are going to have an account-opening function and let people open accounts. In financial history this is more or less an innovation of crypto — crypto exchanges were the big financial institutions that most notably combined the roles of exchanges and retail-facing brokerages — but realistically it is an innovation of websites . The New York Stock Exchange started as a building where people met; the building could only fit so many people, and they all had to be in New York. A financial platform starting in the 2020s is naturally an online platform, and those constraints do not apply, so there is no...",
       "publishedAt": "2026-06-22T18:34:08.116Z",
       "articleId": "68a5660ad8612804"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/the-migrants-a-memoir-with-manuscripts.html?utm_source=rss&utm_medium=rss&utm_campaign=the-migrants-a-memoir-with-manuscripts",
-      "title": "*The Migrants: A Memoir with Manuscripts*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-migrants-a-memoir-with-manuscripts.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Christopher de Hamel&#8217;s Meetings with Remarkable Manuscripts is one of the very greatest books of the last twenty years. So I buy whatever else he puts out, and I did not regret my purchase of this one. Imagine an intersecting tale of a boyhood in New Zealand (!), the medieval manuscript collecting habits of Colonial [&#8230;] The post *The Migrants: A Memoir with Manuscripts* appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-22T18:00:49.000Z",
-      "articleId": "ff4dd827dee929fb"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/against-urban-planning",
@@ -1712,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
