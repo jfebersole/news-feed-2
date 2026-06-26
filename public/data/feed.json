@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-26T21:39:46.346Z",
-  "fetchedAt": "2026-06-26T21:39:46.341Z",
+  "generatedAt": "2026-06-26T23:21:43.587Z",
+  "fetchedAt": "2026-06-26T23:21:43.581Z",
   "sourceCount": 21,
   "itemCount": 152,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-save-america-act-and-related",
+      "title": "The SAVE America Act (and related orders), explained",
+      "url": "https://www.slowboring.com/p/the-save-america-act-and-related",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Trump says he won&#8217;t sign a popular housing bill until Congress passes his voting overhaul.",
+      "publishedAt": "2026-06-26T22:00:48.000Z",
+      "articleId": "0be7c73e671fec77"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/azeem-azhar-and-others-on-the-state-of-the-ai-economy.html?utm_source=rss&utm_medium=rss&utm_campaign=azeem-azhar-and-others-on-the-state-of-the-ai-economy",
       "title": "Azeem Azhar (and others) on the state of the AI economy",
@@ -807,17 +818,6 @@
       "summary": "Introducing the Transit Abundance Playbook",
       "publishedAt": "2026-06-17T13:02:08.000Z",
       "articleId": "f56d15bce2c48fec"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-real-problem-with-gifted-education",
-      "title": "The real problem with “gifted” education",
-      "url": "https://www.slowboring.com/p/the-real-problem-with-gifted-education",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It&#8217;s almost all selection effects! We should care more about actual efficacy in teaching.",
-      "publishedAt": "2026-06-17T10:03:04.000Z",
-      "articleId": "4ebdc9d1fcde1b77"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
@@ -1818,18 +1818,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
