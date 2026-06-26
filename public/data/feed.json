@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-26T18:02:07.806Z",
-  "fetchedAt": "2026-06-26T18:02:07.801Z",
+  "generatedAt": "2026-06-26T20:06:06.279Z",
+  "fetchedAt": "2026-06-26T20:06:06.274Z",
   "sourceCount": 21,
-  "itemCount": 154,
-  "totalItemCount": 765,
+  "itemCount": 153,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/azeem-azhar-and-others-on-the-state-of-the-ai-economy.html?utm_source=rss&utm_medium=rss&utm_campaign=azeem-azhar-and-others-on-the-state-of-the-ai-economy",
+      "title": "Azeem Azhar (and others) on the state of the AI economy",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/azeem-azhar-and-others-on-the-state-of-the-ai-economy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Due to travel I have not had time to read this detailed report, but it is getting very good reviews The post Azeem Azhar (and others) on the state of the AI economy appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-26T18:19:08.000Z",
+      "articleId": "328970749765064a"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/summer-vibes/",
       "title": "2026.26: Summer Vibes",
@@ -424,17 +435,6 @@
       "articleId": "c227e4126127e3d0"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/china-runs-australia-delegates-america-streamlines.html?utm_source=rss&utm_medium=rss&utm_campaign=china-runs-australia-delegates-america-streamlines",
-      "title": "Two Roads to Fast Clinical Trials, and the US Takes Neither",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/china-runs-australia-delegates-america-streamlines.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The HHS (FDA, NIH, ARPA-H and related agencies) is moving to speed clinical trials in what they are calling Operation TrialBlazer (kudos on the pun). The motivator, of course, is China: China has made biotechnology a strategic national priority, systematically expanding its clinical research infrastructure with government backing, streamlined regulatory pathways, and sustained investment. In [&#8230;] The post Two Roads to Fast Clinical Trials, and the US Takes Neither appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-23T11:19:28.000Z",
-      "articleId": "9d717a30482fa148"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/what-i-learned-as-chuck-schumers",
       "title": "What I learned as Chuck Schumer’s intern",
       "url": "https://www.slowboring.com/p/what-i-learned-as-chuck-schumers",
@@ -444,17 +444,6 @@
       "summary": "Lessons from a time when everyone cared about swing voters",
       "publishedAt": "2026-06-23T10:02:16.000Z",
       "articleId": "f6cee7c4f681c807"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-2026-nba-drafts-real-value-saving",
-      "title": "The 2026 NBA Draft's Real Value? Saving Teams From Themselves.",
-      "url": "https://neilpaine.substack.com/p/the-2026-nba-drafts-real-value-saving",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Historically, stacked drafts don't make the No. 1 pick more likely to become a superstar. Instead, they reduce the chances that teams at the top pick a bust.",
-      "publishedAt": "2026-06-23T10:00:10.000Z",
-      "articleId": "6a793c82ae7930f1"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
@@ -1777,7 +1766,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1840,10 +1829,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
