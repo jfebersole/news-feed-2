@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-26T15:33:20.576Z",
-  "fetchedAt": "2026-06-26T15:33:20.571Z",
+  "generatedAt": "2026-06-26T18:02:07.806Z",
+  "fetchedAt": "2026-06-26T18:02:07.801Z",
   "sourceCount": 21,
-  "itemCount": 155,
+  "itemCount": 154,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/summer-vibes/",
+      "title": "2026.26: Summer Vibes",
+      "url": "https://stratechery.com/2026/summer-vibes/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of June 22, 2026, including a vibe coding adventure, Apple in Europe, and a midsummer mailbag.",
+      "publishedAt": "2026-06-26T17:00:00.000Z",
+      "articleId": "510e62ae79f0dc8b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-578",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Can we make respiratory infections a thing of the past? 2. The new balance of power across companies and governments. 3. Using AI to find Brazil&#8217;s next soccer star? (NYT) 4. Token resale markets in everything. 5. A music critic reviews himself at age 93. 6. A claim that the World Cup is damaging [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-26T15:37:14.000Z",
+      "articleId": "b8d1c18027fc700e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html?utm_source=rss&utm_medium=rss&utm_campaign=works-in-progress-grid-connection-auctions",
       "title": "Works in Progress: Grid Connection Auctions",
@@ -444,17 +466,6 @@
       "summary": "The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.",
       "publishedAt": "2026-06-23T10:00:00.000Z",
       "articleId": "1272ff9a2f59637a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/is-the-uk-improving.html?utm_source=rss&utm_medium=rss&utm_campaign=is-the-uk-improving",
-      "title": "Is the UK improving?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/is-the-uk-improving.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Barney Hussey-Yeo: From a very credible Labour source: &#8211; Wes Streeting promised the Chancellorship for not running. &#8211; Capital gains raised to match income tax. Possible exit tax. &#8211; Economic focus: devolution, plus state ownership of cost-of-living essentials (energy, water, transport). &#8211; Nothing on AI or tech, bar higher capital gains and an EIS/SEIS-style [&#8230;] The post Is the UK improving? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-23T09:20:27.000Z",
-      "articleId": "7bfb7508eb910475"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/epidurals-are-miraculous",
@@ -1005,17 +1016,6 @@
       "summary": "Why Europe must grow.",
       "publishedAt": "2026-06-13T08:25:32.000Z",
       "articleId": "26992d85e247d6e9"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
-      "title": "2026.24: Hey Siri, Tell Me a Fable",
-      "url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of June 8, 2026, including Apple finally shipping Intelligence, Anthropic's fable, and the future of European industry.",
-      "publishedAt": "2026-06-12T17:00:00.000Z",
-      "articleId": "0f6f35e092ec863b"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-june-2026",
@@ -1698,17 +1698,6 @@
       "summary": "He is both a critic and a normalizer of artificial intelligence.",
       "publishedAt": "2026-05-27T21:39:42.000Z",
       "articleId": "e186c2277269eb8a"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-great-helmsman",
-      "title": "The great helmsman?",
-      "url": "https://scottsumner.substack.com/p/the-great-helmsman",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Don't steer the car, move the road",
-      "publishedAt": "2026-05-27T16:36:31.000Z",
-      "articleId": "799ee65b810f864b"
     }
   ],
   "sources": [
@@ -1851,10 +1840,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
