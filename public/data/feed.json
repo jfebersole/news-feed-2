@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-26T09:49:11.776Z",
-  "fetchedAt": "2026-06-26T09:49:11.772Z",
+  "generatedAt": "2026-06-26T12:25:00.909Z",
+  "fetchedAt": "2026-06-26T12:25:00.899Z",
   "sourceCount": 21,
-  "itemCount": 153,
-  "totalItemCount": 763,
+  "itemCount": 155,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html?utm_source=rss&utm_medium=rss&utm_campaign=works-in-progress-grid-connection-auctions",
+      "title": "Works in Progress: Grid Connection Auctions",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The latest issue of Works in Progress is superb. Every article is interesting. Chris Gillett points out something surprising: the US has plenty of electricity generation capacity ready to go, the problem is connecting it to the grid. Grid connection is complicated because on the grid, supply must equal demand at every moment in time. [&#8230;] The post Works in Progress: Grid Connection Auctions appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-26T11:22:26.000Z",
+      "articleId": "4f969a553f331fe9"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-paradoxes-of-populism",
+      "title": "The paradoxes of populism",
+      "url": "https://www.slowboring.com/p/the-paradoxes-of-populism",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus nuclear cargo ships, the ROAD to Housing Act, and when results matter",
+      "publishedAt": "2026-06-26T10:02:14.000Z",
+      "articleId": "a6e992b6280d3501"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/mlb-owners-want-the-union-playing",
+      "title": "MLB Owners Want the Union Playing Checkers While They Play Chess",
+      "url": "https://neilpaine.substack.com/p/mlb-owners-want-the-union-playing",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The cap-and-floor debate looks like a fight over payroll fairness. But it's really about tying players to baseball's uncertain revenues while owners keep the upside of rising franchise values.",
+      "publishedAt": "2026-06-26T10:00:29.000Z",
+      "articleId": "2b9cc1207ef5d8b5"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation",
       "title": "Aaron Levie on current implicit AI regulation",
@@ -433,17 +466,6 @@
       "summary": "Childbirth may be the most painful thing a person can experience, but we have the technology to numb the pain.",
       "publishedAt": "2026-06-23T08:29:58.000Z",
       "articleId": "90ed3777c74b372d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/dean-karlan-has-a-substack.html?utm_source=rss&utm_medium=rss&utm_campaign=dean-karlan-has-a-substack",
-      "title": "Dean Karlan has a Substack",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/dean-karlan-has-a-substack.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "He starts his new essay with this: In 2014 I wrote in The New York Times that if your own team is not in the World Cup, you should root for the one whose victory would do the most good. Add up the happiness a title would create, more where more people care, more where [&#8230;] The post Dean Karlan has a Substack appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-23T07:07:53.000Z",
-      "articleId": "1290140c02c07491"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
@@ -1701,10 +1723,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1766,7 +1788,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1782,7 +1804,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
