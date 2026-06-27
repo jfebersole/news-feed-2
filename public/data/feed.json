@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-27T10:21:22.208Z",
-  "fetchedAt": "2026-06-27T10:21:22.204Z",
+  "generatedAt": "2026-06-27T12:16:42.234Z",
+  "fetchedAt": "2026-06-27T12:16:42.228Z",
   "sourceCount": 21,
   "itemCount": 154,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-062726",
+      "title": "Reading List 06/27/26",
+      "url": "https://www.construction-physics.com/p/reading-list-062726",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Trump refuses to sign a housing bill, the high cost of US-made doors, slow trucking, why we stopped making new land, and more.",
+      "publishedAt": "2026-06-27T12:02:02.000Z",
+      "articleId": "034159bf61d65215"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-22-26-2026",
       "title": "The Week That Was (June 22-26, 2026)",
@@ -1687,17 +1698,6 @@
       "summary": "How a grasshopper caused the 1873 panic, and why recessions are usually just bad luck.",
       "publishedAt": "2026-05-28T12:35:39.000Z",
       "articleId": "99e8c36a15cf7545"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "title": "Where Are the Economies of Scale in Homebuilding?",
-      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Over the last few months we&#8217;ve examined the extent of the construction industry&#8217;s productivity problem.",
-      "publishedAt": "2026-05-28T12:03:26.000Z",
-      "articleId": "767984ae3ebbd84b"
     }
   ],
   "sources": [
@@ -1712,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
