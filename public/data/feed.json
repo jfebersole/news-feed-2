@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T12:16:42.234Z",
-  "fetchedAt": "2026-06-27T12:16:42.228Z",
+  "generatedAt": "2026-06-27T14:53:20.890Z",
+  "fetchedAt": "2026-06-27T14:53:20.885Z",
   "sourceCount": 21,
-  "itemCount": 154,
+  "itemCount": 152,
   "totalItemCount": 765,
   "items": [
     {
@@ -1676,28 +1676,6 @@
       "summary": "And that's okay",
       "publishedAt": "2026-05-28T17:30:52.000Z",
       "articleId": "711bb3190721e968"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/openais-milestone-math-breakthrough",
-      "title": "OpenAI’s math breakthrough played to AI’s strengths",
-      "url": "https://www.understandingai.org/p/openais-milestone-math-breakthrough",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "I tried to explain OpenAI&#8217;s solution more clearly than OpenAI did.",
-      "publishedAt": "2026-05-28T13:54:00.000Z",
-      "articleId": "7b07c147688f746f"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/review-recession-by-tyler-godspeed",
-      "title": "Review: Recession by Tyler Goodspeed",
-      "url": "https://www.worksinprogress.news/p/review-recession-by-tyler-godspeed",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "How a grasshopper caused the 1873 panic, and why recessions are usually just bad luck.",
-      "publishedAt": "2026-05-28T12:35:39.000Z",
-      "articleId": "99e8c36a15cf7545"
     }
   ],
   "sources": [
