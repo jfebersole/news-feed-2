@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-27T14:53:20.890Z",
-  "fetchedAt": "2026-06-27T14:53:20.885Z",
+  "generatedAt": "2026-06-27T16:17:49.546Z",
+  "fetchedAt": "2026-06-27T16:17:49.542Z",
   "sourceCount": 21,
   "itemCount": 152,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-567",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-567.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Can we create more prodigies in the empirical sciences? 2. Bronze Age markets. 3. How did Europe become the world champion of heat deaths? 4. New, The Journal of Economic Freedom. 5. Siena (Houston) fact of the day. 6. John Burn-Murdoch on economic growth (FT). And a chart from the piece. 7. Economist David [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-27T16:06:15.000Z",
+      "articleId": "6cf9aeb875ac0904"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-062726",
       "title": "Reading List 06/27/26",
@@ -433,17 +444,6 @@
       "summary": "They understand the importance of the electric revolution. America, so far, does not.",
       "publishedAt": "2026-06-24T09:01:34.000Z",
       "articleId": "703d442d27d6ba46"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/glp-1-drugs-and-marriage.html?utm_source=rss&utm_medium=rss&utm_campaign=glp-1-drugs-and-marriage",
-      "title": "GLP-1 drugs and marriage",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/glp-1-drugs-and-marriage.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "GLP-1 medications generate large weight loss and may also alter social and economic outcomes. Using the Understanding America Study, I compare women starting GLP-1s for weight loss with matched women who would like to start a GLP-1 but have not. Single women’s marriage/cohabitation rates rise by 29 percentage points and employment among baseline non-employed women [&#8230;] The post GLP-1 drugs and marriage appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-24T06:25:04.000Z",
-      "articleId": "58f3d257f7a2844f"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3ewb7bm8cdphs13ralix.html",
@@ -1690,10 +1690,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
