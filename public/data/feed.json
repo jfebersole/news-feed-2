@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-27T08:04:29.783Z",
-  "fetchedAt": "2026-06-27T08:04:29.778Z",
+  "generatedAt": "2026-06-27T10:21:22.208Z",
+  "fetchedAt": "2026-06-27T10:21:22.204Z",
   "sourceCount": 21,
-  "itemCount": 153,
-  "totalItemCount": 764,
+  "itemCount": 154,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-22-26-2026",
+      "title": "The Week That Was (June 22-26, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-june-22-26-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-06-27T09:01:44.000Z",
+      "articleId": "8700d8c5d0faf045"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/an-infovore-shares-his-chats.html?utm_source=rss&utm_medium=rss&utm_campaign=an-infovore-shares-his-chats",
+      "title": "An infovore shares his chats",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/an-infovore-shares-his-chats.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In conjunction with OpenAI, here is a short piece by me on how to use GPT Pro for travel and a few other matters. Excerpt: 6. Learn what to look for in an art museum I’m visiting the Detroit Institute of Arts. Which pictures in particular should I be looking for, and what is some [&#8230;] The post An infovore shares his chats appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-27T08:22:18.000Z",
+      "articleId": "f7e4efdbca203e3c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-joanne-paul.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-joanne-paul",
       "title": "My Conversation with Joanne Paul",
@@ -411,17 +433,6 @@
       "summary": "GLP-1 medications generate large weight loss and may also alter social and economic outcomes. Using the Understanding America Study, I compare women starting GLP-1s for weight loss with matched women who would like to start a GLP-1 but have not. Single women’s marriage/cohabitation rates rise by 29 percentage points and employment among baseline non-employed women [&#8230;] The post GLP-1 drugs and marriage appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-24T06:25:04.000Z",
       "articleId": "58f3d257f7a2844f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/emergent-ventures-winners-55th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-55th-cohort",
-      "title": "Emergent Ventures winners, 55th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/emergent-ventures-winners-55th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Aliaksandr Melnichenka, Belarus/Kentucky, to support science and math writing. Guilherme Pinho, Sao Paulo, real estate titling and transactions in Brazil. Diyar Zhakpelov, Astana, Kazakhstan, 17, exam prep app for Kazakhs, general career support. Randy Chang, AI policy writings, Ontario/Chapel Hill. Jesse Casana, Dartmouth, archaeology tranche, “Drone-acquired synthetic aperture radar (SAR), a novel and experimental technology, [&#8230;] The post Emergent Ventures winners, 55th cohort appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-24T05:17:02.000Z",
-      "articleId": "32ecf0b7561bc022"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3ewb7bm8cdphs13ralix.html",
@@ -1701,10 +1712,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1766,7 +1777,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
