@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-27T16:17:49.546Z",
-  "fetchedAt": "2026-06-27T16:17:49.542Z",
+  "generatedAt": "2026-06-27T18:16:31.200Z",
+  "fetchedAt": "2026-06-27T18:16:31.196Z",
   "sourceCount": 21,
-  "itemCount": 152,
-  "totalItemCount": 755,
+  "itemCount": 150,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/blackpool-fact-of-the-day-observations-on-northern-england.html?utm_source=rss&utm_medium=rss&utm_campaign=blackpool-fact-of-the-day-observations-on-northern-england",
+      "title": "Blackpool fact of the day, observations on northern England",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/blackpool-fact-of-the-day-observations-on-northern-england.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Blackpool Central was the world&#8217;s busiest station in 1911. It was the station with the most platforms to close in UK in the Beeching cuts of 1964. That is from the recent fun book Lancashire: Exploring the Historic County that Made the Modern World, by Chris Moss. And I enjoyed this paragraph: I&#8217;ve never felt [&#8230;] The post Blackpool fact of the day, observations on northern England appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-27T17:56:26.000Z",
+      "articleId": "10fbf4057377a6bf"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-567",
       "title": "Saturday assorted links",
@@ -389,17 +400,6 @@
       "summary": "There are more and more frauds, charlatans, and lunatics entering this area of inquiry. It is important to stay disciplined on data-driven questions, most importantly to what extent are released (and unreleased) videos backed by radar, satellite, eyewitness and other forms of confirming evidence? By confirming, I do not mean &#8220;confirming they are aliens,&#8221; rather [&#8230;] The post What should the UAP Scientific Advisory Board do? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-24T18:03:12.000Z",
       "articleId": "1c98e47141a1b9ed"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-559.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-559",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-559.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. From my colleague Jonathan Beauchamp. 2. Why is China still exporting T-shirts? 3. Greenspan and Keynes crossed paths in 1944. Clarinet! 4. Robert Shiller opposes AI negativity (NYT). 5. The opportunity cost of Trae is really not that large. Think in terms of opportunity cost here, not &#8220;cost.&#8221; By the time the Wizards need [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-24T16:02:51.000Z",
-      "articleId": "e1e83c06eb3b4850"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/canadas-sun-belt-hockey-talent-drain",
@@ -840,17 +840,6 @@
       "summary": "A preview of everything to come in Issue 24",
       "publishedAt": "2026-06-17T15:07:49.000Z",
       "articleId": "b3ca1c257cdaacb4"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/how-to-fix-transit-construction-in",
-      "title": "How to fix transit construction in America",
-      "url": "https://www.slowboring.com/p/how-to-fix-transit-construction-in",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Introducing the Transit Abundance Playbook",
-      "publishedAt": "2026-06-17T13:02:08.000Z",
-      "articleId": "f56d15bce2c48fec"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
@@ -1665,17 +1654,6 @@
       "summary": "...",
       "publishedAt": "2026-05-29T08:14:27.000Z",
       "articleId": "2778e8d8da1ac57b"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-rock-hall-was-never-just-about",
-      "title": "The Rock Hall Was Never Just About Rock",
-      "url": "https://www.cantgetmuchhigher.com/p/the-rock-hall-was-never-just-about",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "And that's okay",
-      "publishedAt": "2026-05-28T17:30:52.000Z",
-      "articleId": "711bb3190721e968"
     }
   ],
   "sources": [
@@ -1690,10 +1668,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1771,7 +1749,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
