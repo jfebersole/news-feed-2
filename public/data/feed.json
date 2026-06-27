@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-26T23:21:43.587Z",
-  "fetchedAt": "2026-06-26T23:21:43.581Z",
+  "generatedAt": "2026-06-27T04:13:22.254Z",
+  "fetchedAt": "2026-06-27T04:13:22.249Z",
   "sourceCount": 21,
-  "itemCount": 152,
-  "totalItemCount": 764,
+  "itemCount": 153,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/alan-greenspan-rip",
+      "title": "Alan Greenspan, RIP",
+      "url": "https://scottsumner.substack.com/p/alan-greenspan-rip",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus links from June 2026",
+      "publishedAt": "2026-06-26T23:02:44.000Z",
+      "articleId": "f324a280a9a88011"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-save-america-act-and-related",
       "title": "The SAVE America Act (and related orders), explained",
@@ -1690,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1821,7 +1832,7 @@
       "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
@@ -1829,7 +1840,7 @@
       "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
