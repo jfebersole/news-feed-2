@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-27T04:13:22.254Z",
-  "fetchedAt": "2026-06-27T04:13:22.249Z",
+  "generatedAt": "2026-06-27T08:04:29.783Z",
+  "fetchedAt": "2026-06-27T08:04:29.778Z",
   "sourceCount": 21,
   "itemCount": 153,
-  "totalItemCount": 754,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-joanne-paul.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-joanne-paul",
+      "title": "My Conversation with Joanne Paul",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-joanne-paul.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Joanne Paul is a historian at the University of Sussex, author, and a go-to Tudor expert on YouTube. She tells Tyler she’s drawn to the 16th century because it sits between the medieval and the modern, and because its paths not taken are [&#8230;] The post My Conversation with Joanne Paul appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-27T05:15:23.000Z",
+      "articleId": "047598db7d026c67"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/alan-greenspan-rip",
       "title": "Alan Greenspan, RIP",
@@ -422,17 +433,6 @@
       "summary": "Money Stuff Avis, ESG, carry, vibecoding, events. View in browser Avis/Pentwater If you run a public company and you want to raise money, you can sell stock, but you probably won’t. Many companies feel a certain squeamishness about selling stock, and we have talked a couple of times recently about the “de-equitization” of public companies over the last few decades. Companies mostly buy back stock; they don’t sell it. One problem with selling stock is the price. If you run a public company, you probably think your stock price is too low. If you sell stock to new shareholders, you are diluting your existing shareholders: You are selling too cheap, transferring some of the company’s existing value to new shareholders at the expense of old ones. Occasionally, though, a public company will think its stock price is too high: The stock price is above the present value of all the cash flows that management expects the company to have. This is a more pleasant problem: If you sell overpriced stock to new shareholders, that is accretive for your existing shareholders. [1] But it is still, I think, a problem. You are in some sense ripping off the new shareholders, selling them stock for more than it is worth. You might feel some sense of fiduciary duty to them too, and feel bad about giving them a bad deal. In the big meme-stock wave of 2021, companies were initially nervous about selling stock into meme frenzies: Are you even allowed to sell stock at prices you know are too high? [2] The ideal, most pleasant solution would be to sell overpriced stock to non-shareholders, people to whom you have no fiduciary responsibilities and whom you don’t mind ripping off. (“I would tax foreigners living abroad” is Monty Python’s ideal tax policy .) For instance: Your stock is trading at around $100 per share, though you think it’s really worth more like $200. Then magic occurs, and for a little while you have the opportunity to sell stock at $700 per share. If you sold stock at $700 to nice enthusiastic retail investors who love your company, you’d feel bad: They’re overpaying for the stock and will lose a lot of money when the magic ceases and the stock reverts to $100, or perhaps to $200. But what if you sold stock at $700 to evil hedge funds who hate your company? Evil hedge funds who have shorted your stock to bet that it will go down: They’re not shareholders; they’re the opposite of shareholders. Wouldn’t that be nice? You’d get money by selling stock at high prices, which is accretive to your real long-term shareholders. The short-selling hedge funds would lose money by buying the stock at high prices, but you want that. Everybody wins, except the people who should lose. It’s a perfect trade. All you have to do is figure out how to make the magic occur. Avis Budget...",
       "publishedAt": "2026-06-23T17:34:55.276Z",
       "articleId": "a494f7aaaa72f3b6"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-574",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-574.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. This paper was presented 57 different times!? Is that good or bad? 2. Benny Goodman and Lionel Hampton doing &#8220;I Got Rhythm.&#8221; 3. Claims about advancements in cancer testing. 4. Reconstructing Welles&#8217;s Don Quixote? 5. The obesity penalty in political elections. 6. Zvi on GLM-5.2. 7. New work by Mozart. And more information here. [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-23T16:46:01.000Z",
-      "articleId": "5ea8f4b9d937e890"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/estonian-day-dreams",
@@ -1701,10 +1701,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1829,18 +1829,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
