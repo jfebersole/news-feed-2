@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-27T20:17:48.305Z",
-  "fetchedAt": "2026-06-27T20:17:48.300Z",
+  "generatedAt": "2026-06-27T22:14:29.419Z",
+  "fetchedAt": "2026-06-27T22:14:29.407Z",
   "sourceCount": 21,
   "itemCount": 150,
-  "totalItemCount": 764,
+  "totalItemCount": 754,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/blackpool-fact-of-the-day-observations-on-northern-england.html?utm_source=rss&utm_medium=rss&utm_campaign=blackpool-fact-of-the-day-observations-on-northern-england",
@@ -1668,10 +1668,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
