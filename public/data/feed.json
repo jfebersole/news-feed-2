@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-28T09:29:23.804Z",
-  "fetchedAt": "2026-06-28T09:29:23.800Z",
+  "generatedAt": "2026-06-28T11:57:33.490Z",
+  "fetchedAt": "2026-06-28T11:57:33.485Z",
   "sourceCount": 21,
-  "itemCount": 150,
-  "totalItemCount": 764,
+  "itemCount": 149,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/chloe-vs-history.html?utm_source=rss&utm_medium=rss&utm_campaign=chloe-vs-history",
+      "title": "Chloe vs. History",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/chloe-vs-history.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Excellent use of AI to create relatively accurate and realistic tours through history. Chloe is an engaging and personable guide&#8211;a fact of some importance. Hat tip: Kevin Bryan. The post Chloe vs. History appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-28T11:16:41.000Z",
+      "articleId": "bda6e0495fe17c42"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "title": "Beware the Purging of General Donahue",
+      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The dangers of Pete Hegseth are mounting.",
+      "publishedAt": "2026-06-28T10:00:15.000Z",
+      "articleId": "714cf36b99abca50"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=my-arc-talk-on-ai-and-jobs",
       "title": "My ARC talk on AI and jobs",
@@ -378,17 +400,6 @@
       "summary": "How did he fuck up? Let us count the ways.",
       "publishedAt": "2026-06-25T09:02:12.000Z",
       "articleId": "87983382f0ae12af"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/i-am-told-james-mill-is-buried-there-also.html?utm_source=rss&utm_medium=rss&utm_campaign=i-am-told-james-mill-is-buried-there-also",
-      "title": "I am told James Mill is buried there also",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/i-am-told-james-mill-is-buried-there-also.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "St. Mary&#8217;s Abbot&#8217;s Church in Kensington. The post I am told James Mill is buried there also appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-25T06:50:18.000Z",
-      "articleId": "7ca8e594573013c4"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-passed-the-biggest-housing",
@@ -1632,28 +1643,6 @@
       "summary": "In the 1940s, scientists made a discovery now fundamental to biology: genes are encoded in DNA. The story involves bacteria, dead mice, and a kitchen cream separator.",
       "publishedAt": "2026-05-29T14:28:45.000Z",
       "articleId": "82d3f4dcc7a7cb67"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/america-needs-liberal-nationalism",
-      "title": "America needs liberal nationalism back",
-      "url": "https://www.noahpinion.blog/p/america-needs-liberal-nationalism",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The most successful ideology of the 20th century is still right for the 21st.",
-      "publishedAt": "2026-05-29T09:42:27.000Z",
-      "articleId": "c63d12816686a245"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7315523/2026/05/29/new-york-giants-mailbag-otas-roster-jaxson-dart-development/",
-      "title": "What Jaxson Dart needs next in his on-field development: Giants mailbag",
-      "url": "https://www.nytimes.com/athletic/7315523/2026/05/29/new-york-giants-mailbag-otas-roster-jaxson-dart-development/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Plus, Malik Nabers' recovery, and the long-term outlooks for some of the Giants' young offensive linemen, and where Abdul Carter will align.",
-      "publishedAt": "2026-05-29T09:30:56.000Z",
-      "articleId": "93b4ee2c8bdb5dd9"
     }
   ],
   "sources": [
@@ -1668,10 +1657,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
