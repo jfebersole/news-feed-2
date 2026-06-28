@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-28T05:43:33.623Z",
-  "fetchedAt": "2026-06-28T05:43:33.618Z",
+  "generatedAt": "2026-06-28T09:29:23.804Z",
+  "fetchedAt": "2026-06-28T09:29:23.800Z",
   "sourceCount": 21,
   "itemCount": 150,
-  "totalItemCount": 754,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=my-arc-talk-on-ai-and-jobs",
+      "title": "My ARC talk on AI and jobs",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Twelve minutes long: &#8220;One stop shopping&#8221; for why AI will not put everyone out of work. The post My ARC talk on AI and jobs appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-28T06:46:42.000Z",
+      "articleId": "1cbb2bb8c4ac7619"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/europes-resistance-to-ac-is-driving",
+      "title": "Europe's resistance to AC is driving it insane",
+      "url": "https://www.noahpinion.blog/p/europes-resistance-to-ac-is-driving",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A timely repost, with some updates.",
+      "publishedAt": "2026-06-28T06:26:35.000Z",
+      "articleId": "70e51e98e5877a3b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/renationalising-british-utilities.html?utm_source=rss&utm_medium=rss&utm_campaign=renationalising-british-utilities",
       "title": "Renationalising British utilities",
@@ -367,17 +389,6 @@
       "summary": "St. Mary&#8217;s Abbot&#8217;s Church in Kensington. The post I am told James Mill is buried there also appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-25T06:50:18.000Z",
       "articleId": "7ca8e594573013c4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/translated-from-the-chinese.html?utm_source=rss&utm_medium=rss&utm_campaign=translated-from-the-chinese",
-      "title": "Translated from the Chinese",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/translated-from-the-chinese.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I think this is the Cursor moment for academia. The Stanford REAP team has made their move, http://CoPaper.AI is mass-terminating the manual labor of traditional empirical papers. Link: https://copaper.ai/landing If using large models to write papers before was just about polishing and compiling references for you, then this Project from Professor Ross Griebenow&#8217;s team at [&#8230;] The post Translated from the Chinese appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-25T04:21:43.000Z",
-      "articleId": "2eb6fffcc6d32feb"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-passed-the-biggest-housing",
@@ -1643,17 +1654,6 @@
       "summary": "Plus, Malik Nabers' recovery, and the long-term outlooks for some of the Giants' young offensive linemen, and where Abdul Carter will align.",
       "publishedAt": "2026-05-29T09:30:56.000Z",
       "articleId": "93b4ee2c8bdb5dd9"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/book-review-the-dialectical-imagination",
-      "title": "Book Review: The Dialectical Imagination",
-      "url": "https://www.astralcodexten.com/p/book-review-the-dialectical-imagination",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-05-29T08:14:27.000Z",
-      "articleId": "2778e8d8da1ac57b"
     }
   ],
   "sources": [
@@ -1668,10 +1668,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
