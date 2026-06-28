@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T14:12:16.982Z",
-  "fetchedAt": "2026-06-28T14:12:16.977Z",
+  "generatedAt": "2026-06-28T16:22:13.669Z",
+  "fetchedAt": "2026-06-28T16:22:13.664Z",
   "sourceCount": 21,
-  "itemCount": 150,
-  "totalItemCount": 754,
+  "itemCount": 149,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/who-really-invented-the-concept-album",
@@ -1643,17 +1643,6 @@
       "summary": "\"This was a unique opportunity, being asked and given the opportunity to introduce the President of the United States,\" Dart said.",
       "publishedAt": "2026-05-29T19:28:54.000Z",
       "articleId": "3dc471d0fde827ca"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/the-mystery-of-inheritance",
-      "title": "How we learned what genes are made of",
-      "url": "https://www.worksinprogress.news/p/the-mystery-of-inheritance",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "In the 1940s, scientists made a discovery now fundamental to biology: genes are encoded in DNA. The story involves bacteria, dead mice, and a kitchen cream separator.",
-      "publishedAt": "2026-05-29T14:28:45.000Z",
-      "articleId": "82d3f4dcc7a7cb67"
     }
   ],
   "sources": [
@@ -1668,10 +1657,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
