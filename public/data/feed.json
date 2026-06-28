@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-28T11:57:33.490Z",
-  "fetchedAt": "2026-06-28T11:57:33.485Z",
+  "generatedAt": "2026-06-28T14:12:16.982Z",
+  "fetchedAt": "2026-06-28T14:12:16.977Z",
   "sourceCount": 21,
-  "itemCount": 149,
+  "itemCount": 150,
   "totalItemCount": 754,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/who-really-invented-the-concept-album",
+      "title": "Who Really Invented The Concept Album?",
+      "url": "https://www.cantgetmuchhigher.com/p/who-really-invented-the-concept-album",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "(hint: it wasn't The Beatles)",
+      "publishedAt": "2026-06-28T13:31:25.000Z",
+      "articleId": "24376fda7b3477bb"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "title": "Beware the Purging of General Donahue",
+      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The dangers of Pete Hegseth are mounting.",
+      "publishedAt": "2026-06-28T12:10:33.000Z",
+      "articleId": "714cf36b99abca50"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/chloe-vs-history.html?utm_source=rss&utm_medium=rss&utm_campaign=chloe-vs-history",
       "title": "Chloe vs. History",
@@ -15,17 +37,6 @@
       "summary": "Excellent use of AI to create relatively accurate and realistic tours through history. Chloe is an engaging and personable guide&#8211;a fact of some importance. Hat tip: Kevin Bryan. The post Chloe vs. History appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-28T11:16:41.000Z",
       "articleId": "bda6e0495fe17c42"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
-      "title": "Beware the Purging of General Donahue",
-      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The dangers of Pete Hegseth are mounting.",
-      "publishedAt": "2026-06-28T10:00:15.000Z",
-      "articleId": "714cf36b99abca50"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=my-arc-talk-on-ai-and-jobs",
