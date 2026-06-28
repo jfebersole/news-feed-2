@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T18:16:08.448Z",
-  "fetchedAt": "2026-06-28T18:16:08.443Z",
+  "generatedAt": "2026-06-28T20:21:36.757Z",
+  "fetchedAt": "2026-06-28T20:21:36.752Z",
   "sourceCount": 21,
-  "itemCount": 150,
-  "totalItemCount": 754,
+  "itemCount": 149,
+  "totalItemCount": 764,
   "items": [
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/europe-needs-air-conditioning",
@@ -1643,17 +1643,6 @@
       "summary": "Three reasons Trump is losing the war in Iran.",
       "publishedAt": "2026-05-29T21:20:54.000Z",
       "articleId": "05a6d7da877f3fdd"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7318088/2026/05/29/jaxson-dart-donald-trump-new-york-giants/",
-      "title": "Giants' Jaxson Dart explains Trump rally decision; Abdul Carter details his objection",
-      "url": "https://www.nytimes.com/athletic/7318088/2026/05/29/jaxson-dart-donald-trump-new-york-giants/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "\"This was a unique opportunity, being asked and given the opportunity to introduce the President of the United States,\" Dart said.",
-      "publishedAt": "2026-05-29T19:28:54.000Z",
-      "articleId": "3dc471d0fde827ca"
     }
   ],
   "sources": [
@@ -1668,10 +1657,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
