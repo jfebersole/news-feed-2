@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-28T16:22:13.669Z",
-  "fetchedAt": "2026-06-28T16:22:13.664Z",
+  "generatedAt": "2026-06-28T18:16:08.448Z",
+  "fetchedAt": "2026-06-28T18:16:08.443Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 764,
+  "itemCount": 150,
+  "totalItemCount": 754,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/europe-needs-air-conditioning",
+      "title": "Europe Needs Air Conditioning",
+      "url": "https://www.joshbarro.com/p/europe-needs-air-conditioning",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Sorry if I'm boring any Europeans with this observation",
+      "publishedAt": "2026-06-28T17:17:23.000Z",
+      "articleId": "7ecb33317eb910ff"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-5f7",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-5f7",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-06-28T17:01:54.000Z",
+      "articleId": "474dd1932d8f974d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-573",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-573.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Why were the Covid vaccine trials so quick? 2. Sumner on Greenspan, Giannis, and more. 3. 100 best books of the 21st century? (NYT). 4. AI and the crisis of classical liberalism. 5. The memory tax, good thing supply is elastic. 6. Is Teortaxes solving for the political equilibrium? 7. Frank Lloyd Wright house [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-28T16:45:28.000Z",
+      "articleId": "7f93dc869771d157"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/who-really-invented-the-concept-album",
       "title": "Who Really Invented The Concept Album?",
@@ -356,17 +389,6 @@
       "summary": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
       "publishedAt": "2026-06-25T13:36:03.000Z",
       "articleId": "ab089a912d848ee4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html?utm_source=rss&utm_medium=rss&utm_campaign=more-firms-more-dynamism",
-      "title": "New Business Formation is Surging–Again.",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "New business formation is surging&#8211;again. Business formation first jumped in 2020 as the pandemic reorganized work, shopping and logistics. After the pandemic ended, business formation leveled off, but it did not return to its old path. It remained historically high. Moreover, in the past 18 months or so business formation has surged again. Registered Agents [&#8230;] The post New Business Formation is Surging&#8211;Again. appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-25T11:21:24.000Z",
-      "articleId": "c155d184c8c1fd8e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-narrow-path-to-saving-the-republic",
@@ -840,17 +862,6 @@
       "summary": "...",
       "publishedAt": "2026-06-18T04:42:50.000Z",
       "articleId": "db414369b742b742"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/congress-cuts-a-deal-on-the-21st",
-      "title": "Congress cuts a deal on the 21st Century ROAD to Housing Act",
-      "url": "https://www.slowboring.com/p/congress-cuts-a-deal-on-the-21st",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Meanwhile, housing starts and Houston homeownership dip, even as YIGBY persists.",
-      "publishedAt": "2026-06-17T22:01:59.000Z",
-      "articleId": "83e386cc7e21dc7a"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/5xhs0b9or51lsr0qs7m1.html",
@@ -1657,10 +1668,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
