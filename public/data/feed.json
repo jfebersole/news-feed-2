@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-29T20:55:11.526Z",
-  "fetchedAt": "2026-06-29T20:55:11.520Z",
+  "generatedAt": "2026-06-29T22:18:24.637Z",
+  "fetchedAt": "2026-06-29T22:18:24.634Z",
   "sourceCount": 21,
   "itemCount": 149,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
+      "title": "New York’s insurgent left sent ripples across America",
+      "url": "https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "How big is the Mamdani tsunami?",
+      "publishedAt": "2026-06-29T22:02:04.000Z",
+      "articleId": "0b136547cca1a0fe"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/7-charts-that-show-why-you-should",
       "title": "7 charts that show why you should advertise on Understanding AI",
@@ -884,17 +895,6 @@
       "summary": "Vaccinating wild animals can protect human health, and spare animals from extinction and suffering.",
       "publishedAt": "2026-06-18T13:52:46.000Z",
       "articleId": "2d9e4f696cb00de7"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-new-york-used-to-be",
-      "title": "What New York used to be",
-      "url": "https://www.slowboring.com/p/what-new-york-used-to-be",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus the Ottoman Empire, the realities of polarization, and where the left is struggling",
-      "publishedAt": "2026-06-18T10:01:22.000Z",
-      "articleId": "affecebf7a66e631"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
