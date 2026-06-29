@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-29T16:06:11.166Z",
-  "fetchedAt": "2026-06-29T16:06:11.161Z",
+  "generatedAt": "2026-06-29T18:22:22.185Z",
+  "fetchedAt": "2026-06-29T18:22:22.180Z",
   "sourceCount": 21,
   "itemCount": 148,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-566",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-566.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The great Scott Wheeler on Stephen Sondheim (Free Press). 2. Is space the most underrated policy area? 3. On the USAID and deaths debate. Hardly the final word, but an injection of sanity into what has been a low quality debate. Here is commentary from GPT Pro. In a few years we might have [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-29T17:47:16.000Z",
+      "articleId": "b5b89dc64e6deb65"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "title": "Beware the Purging of General Donahue",
+      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The dangers of Pete Hegseth are mounting.",
+      "publishedAt": "2026-06-29T17:30:42.000Z",
+      "articleId": "714cf36b99abca50"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-cheating-on-math-econ",
       "title": "AI cheating on math econ at Brown",
@@ -15,17 +37,6 @@
       "summary": "The temptation to use artificial intelligence (AI) to cheat is shaking up elite universities in the United States. Professor Roberto Serrano, who is the Harrison S. Kravis University Professor of Economics at Brown University, has detected a massive fraud in one of the classes he teaches, ECON 1170, an advanced undergraduate course in mathematical economics. He has [&#8230;] The post AI cheating on math econ at Brown appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-29T16:00:50.000Z",
       "articleId": "f62deb1b972efd5b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
-      "title": "Beware the Purging of General Donahue",
-      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The dangers of Pete Hegseth are mounting.",
-      "publishedAt": "2026-06-29T15:14:59.000Z",
-      "articleId": "714cf36b99abca50"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
@@ -323,17 +334,6 @@
       "summary": "1. Can we make respiratory infections a thing of the past? 2. The new balance of power across companies and governments. 3. Using AI to find Brazil&#8217;s next soccer star? (NYT) 4. Token resale markets in everything. 5. A music critic reviews himself at age 93. 6. A claim that the World Cup is damaging [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-26T15:37:14.000Z",
       "articleId": "b8d1c18027fc700e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html?utm_source=rss&utm_medium=rss&utm_campaign=works-in-progress-grid-connection-auctions",
-      "title": "Works in Progress: Grid Connection Auctions",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The latest issue of Works in Progress is superb. Every article is interesting. Chris Gillett points out something surprising: the US has plenty of electricity generation capacity ready to go, the problem is connecting it to the grid. Grid connection is complicated because on the grid, supply must equal demand at every moment in time. [&#8230;] The post Works in Progress: Grid Connection Auctions appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-26T11:22:26.000Z",
-      "articleId": "4f969a553f331fe9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-paradoxes-of-populism",
@@ -1710,10 +1710,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Noahpinion",
