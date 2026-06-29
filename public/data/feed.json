@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-29T18:22:22.185Z",
-  "fetchedAt": "2026-06-29T18:22:22.180Z",
+  "generatedAt": "2026-06-29T20:55:11.526Z",
+  "fetchedAt": "2026-06-29T20:55:11.520Z",
   "sourceCount": 21,
-  "itemCount": 148,
+  "itemCount": 149,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/7-charts-that-show-why-you-should",
+      "title": "7 charts that show why you should advertise on Understanding AI",
+      "url": "https://www.understandingai.org/p/7-charts-that-show-why-you-should",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "The newsletter will remain ad-free for paying readers.",
+      "publishedAt": "2026-06-29T18:51:49.000Z",
+      "articleId": "3f98860d7b32687e"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/azylw8nbomalwmvo4f97.html",
+      "title": "Money Stuff: People Are Worried About Stock Market Leverage",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/azylw8nbomalwmvo4f97.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff SPV, BNPL, MTM PE fees, dinosaurs. View in browser Leverage Companies issue debt and they issue equity. There are various corporate-finance-y reasons to choose one or the other or some particular mix: Debt is often cheaper and tax deductible, equity is less risky and good for motivating employees, etc. But you could also tell a sort of market segmentation story. Some people want to own debt: They have some money, they want to keep it, and they want to invest it in something that promises to repay the money with a reasonable return. Other people want to own equity: They have some money, they’re willing to risk it to get a high return, and they want to invest it in something that could go to zero but also offers a potentially unlimited payoff. Companies sell some debt because there are people who want to buy debt, and they sell some equity because there are people who want to buy equity, and companies that need a lot of money will sell the stuff that people will buy. On the other hand, there are all those corporate-finance-y reasons. You could imagine a world in which: There is an enormous amount of demand for debt, from various institutions that are quite averse to risk and want a steady known return; and There is a small but quite intense demand for equity: Some people have a little money to play with, they want to invest that money in stuff that could go to zero or offer a huge payoff, and they want the most concentrated possible form of that. They want stuff that will double or go to zero, tomorrow. Not, like, earn 6% over Treasuries for 20 years: double or zero, now. Companies could collectively cater to that desire by financing themselves with, you know, 70% senior debt and 28% mezzanine debt and 2% equity: The senior debt would be reasonably safe, the mezzanine debt would be risky but offer a steady known return most of the time, and the equity would be a lottery ticket. This would, however, be terrible corporate finance. That’s too much debt; companies would be going bankrupt constantly. This is not how the world works, at all. The debt-to-total capital ratio of US companies is about 15% and has declined over time. But what if that imagined world is right, or right-ish? What if investors want more debt than companies are offering them, and also riskier and higher-octane equity than companies are offering? That sounds like a job for the financial industry: shifting risk around, giving more risk to people who want it. The financial industry is good at putting stuff in boxes and issuing tranches of those boxes . If you have too much equity, you put the equity in a box and issue debt and equity against the box. The debt of the box adds to the stock of debt in the world; the equity of the box is riskier — more likely to double or go to...",
+      "publishedAt": "2026-06-29T18:31:12.725Z",
+      "articleId": "4c7e281d0a953178"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-566",
       "title": "Monday assorted links",
@@ -895,17 +917,6 @@
       "summary": "...",
       "publishedAt": "2026-06-18T04:42:50.000Z",
       "articleId": "db414369b742b742"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/5xhs0b9or51lsr0qs7m1.html",
-      "title": "Money Stuff: The New Bird Is Smartbird",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/5xhs0b9or51lsr0qs7m1.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Birds, stock-picking, SBF, GPs, CIA. View in browser AIbirds It does seem like the preferred way to raise money for an idea in artificial intelligence is with institutional venture capital. Some once quite far-fetched AI ideas have paid off richly and rapidly in recent years, and there’s a lot of venture capital looking for more. We’ve talked about Mira Murati’s AI startup, Thinking Machines, which apparently raised $2 billion from top venture firms without telling them anything about its product or business plan. It had people with good AI credentials, it was doing something in AI, good enough! Probably if you’re one or two tiers down from Murati, in terms of your AI pedigree, you can still get a pretty good deal from good VCs. Not everyone can, though. Presumably there are people with (1) decent AI credentials and (2) a desire to raise a pot of money to do something in AI, who nonetheless can’t get $1 billion or even $100 million from VCs even in this hot market. There are other sources of money? For instance, retail investors in the public market seem interested in AI. You can’t necessarily start a company, raise no venture capital, and do an immediate initial public offering with a proposal like “ehhhh gonna do some AI stuff, trust me.” But there are plenty of existing small US public companies that don’t have much going on. You could take control of one, announce “ehhhh gonna do some AI stuff,” and the stock will pop: Before , the company was mostly an empty shell, or a deli , but now it is a speculative bet on your AI plans and talents. It’s an AI lottery ticket, and a lot of people are in the market for AI lottery tickets. Then you do an at-the-market stock offering — or a floating-strike convertible — to sell stock, at new AI-inflated prices, to retail investors. Then you have $100 million to do your AI thing. Then you can do your AI thing. Will your AI thing be as good as Murati’s AI thing? I mean. It is tempting to think that the top venture capitalists have better sorting and vetting capacities than microcap retail stock investors do. But everyone’s moving pretty fast and making lottery-like bets, and what do I know? Bloomberg’s Zsana Hoskins reports : Allbirds Inc., the maker of once-viral wool sneakers that suddenly announced a pivot to artificial intelligence earlier this year, has officially renamed itself Smartbird Inc. and is tapping the former leader of a Danish AI infrastructure group as its new chief. Nadia Carlsten is taking over as chief executive officer, replacing Joe Vernachio who has resigned from the company and the board of directors. Smartbird is among the many struggling companies that have sought another lease on life by seizing onto the buzziest trend, AI in this instance. Such name and business switches...",
-      "publishedAt": "2026-06-17T18:00:30.796Z",
-      "articleId": "53a61761dc94281f"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/issue-24-rats-the-glorious-revolution",
