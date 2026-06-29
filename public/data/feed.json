@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-29T11:22:23.525Z",
-  "fetchedAt": "2026-06-29T11:22:23.521Z",
+  "generatedAt": "2026-06-29T16:06:11.166Z",
+  "fetchedAt": "2026-06-29T16:06:11.161Z",
   "sourceCount": 21,
   "itemCount": 148,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-cheating-on-math-econ",
+      "title": "AI cheating on math econ at Brown",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The temptation to use artificial intelligence (AI) to cheat is shaking up elite universities in the United States. Professor Roberto Serrano, who is the Harrison S. Kravis University Professor of Economics at Brown University, has detected a massive fraud in one of the classes he teaches, ECON 1170, an advanced undergraduate course in mathematical economics. He has [&#8230;] The post AI cheating on math econ at Brown appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-29T16:00:50.000Z",
+      "articleId": "f62deb1b972efd5b"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "title": "Beware the Purging of General Donahue",
+      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The dangers of Pete Hegseth are mounting.",
+      "publishedAt": "2026-06-29T15:14:59.000Z",
+      "articleId": "714cf36b99abca50"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
+      "title": "The US now has a de facto model licensing system",
+      "url": "https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "OpenAI&#8217;s latest model, GPT-5.6, is waiting for government approval.",
+      "publishedAt": "2026-06-29T14:03:17.000Z",
+      "articleId": "5aea296517fd1a39"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap.html?utm_source=rss&utm_medium=rss&utm_campaign=politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap",
       "title": "Politically Incorrect Paper of the Day: The US Racial Wealth Gap",
@@ -125,17 +158,6 @@
       "summary": "(hint: it wasn't The Beatles)",
       "publishedAt": "2026-06-28T13:31:25.000Z",
       "articleId": "24376fda7b3477bb"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
-      "title": "Beware the Purging of General Donahue",
-      "url": "https://www.nytimes.com/2026/06/28/opinion/hegseth-donahue-military-purge.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The dangers of Pete Hegseth are mounting.",
-      "publishedAt": "2026-06-28T12:10:33.000Z",
-      "articleId": "714cf36b99abca50"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/chloe-vs-history.html?utm_source=rss&utm_medium=rss&utm_campaign=chloe-vs-history",
@@ -334,17 +356,6 @@
       "summary": "The cap-and-floor debate looks like a fight over payroll fairness. But it's really about tying players to baseball's uncertain revenues while owners keep the upside of rising franchise values.",
       "publishedAt": "2026-06-26T10:00:29.000Z",
       "articleId": "2b9cc1207ef5d8b5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation",
-      "title": "Aaron Levie on current implicit AI regulation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. Realistically, as AI models became more and more powerful this was going to be inevitable (I [&#8230;] The post Aaron Levie on current implicit AI regulation appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-26T06:10:38.000Z",
-      "articleId": "ad0ff3d547350c90"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
@@ -1621,17 +1632,6 @@
       "summary": "The practice of \"crating\" is torture, plain and simple. Voters want to end it, but Congress might not let them.",
       "publishedAt": "2026-05-31T08:38:50.000Z",
       "articleId": "2bbb3c33a42080e4"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-053026",
-      "title": "Reading List 05/30/26",
-      "url": "https://www.construction-physics.com/p/reading-list-053026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A California chemical leak, weapons-grade plutonium for nuclear reactor startups, a startup that will clean your house to get robot training data, Blue Origin&#8217;s rocket explosion, and more.",
-      "publishedAt": "2026-05-30T12:02:52.000Z",
-      "articleId": "23baf9d852bb4147"
     }
   ],
   "sources": [
