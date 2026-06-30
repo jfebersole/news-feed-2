@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-30T21:02:51.657Z",
-  "fetchedAt": "2026-06-30T21:02:51.653Z",
+  "generatedAt": "2026-06-30T22:36:25.372Z",
+  "fetchedAt": "2026-06-30T22:36:25.367Z",
   "sourceCount": 21,
   "itemCount": 148,
-  "totalItemCount": 747,
+  "totalItemCount": 753,
   "items": [
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "title": "The twilight of the chatbots",
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "How work changes along the exponential",
+      "publishedAt": "2026-06-30T22:18:12.000Z",
+      "articleId": "28b4d4894e7b8222"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/differentiation-drives-the-erosion-of-positivity-on-social-media.html?utm_source=rss&utm_medium=rss&utm_campaign=differentiation-drives-the-erosion-of-positivity-on-social-media",
+      "title": "Differentiation drives the erosion of positivity on social media",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/differentiation-drives-the-erosion-of-positivity-on-social-media.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We live in a digital age, where billions of people engage in dialogue within topic-bound communities and threads. In an archival analysis of over 2 billion Reddit comments and an experiment, we show that this dialogue becomes more negative over time. Further analyses suggest that negativity rises over time because social media users seek to [&#8230;] The post Differentiation drives the erosion of positivity on social media appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-30T21:29:50.000Z",
+      "articleId": "ba0c412202164cde"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lu06v9il1m1am53q4yti.html",
       "title": "Money Stuff: Susquehanna Sold Some Suspicious Puts",
@@ -356,17 +378,6 @@
       "summary": "Blackpool Central was the world&#8217;s busiest station in 1911. It was the station with the most platforms to close in UK in the Beeching cuts of 1964. That is from the recent fun book Lancashire: Exploring the Historic County that Made the Modern World, by Chris Moss. And I enjoyed this paragraph: I&#8217;ve never felt [&#8230;] The post Blackpool fact of the day, observations on northern England appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-06-27T17:56:26.000Z",
       "articleId": "10fbf4057377a6bf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-567",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-567.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Can we create more prodigies in the empirical sciences? 2. Bronze Age markets. 3. How did Europe become the world champion of heat deaths? 4. New, The Journal of Economic Freedom. 5. Siena (Houston) fact of the day. 6. John Burn-Murdoch on economic growth (FT). And a chart from the piece. 7. Economist David [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-27T16:06:15.000Z",
-      "articleId": "6cf9aeb875ac0904"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-062726",
@@ -840,17 +851,6 @@
       "summary": "For the better part of the last several hundred years, coal was the fuel of choice for generating power.",
       "publishedAt": "2026-06-19T12:03:02.000Z",
       "articleId": "7f9cc501847fe6b6"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/happy-juneteenth",
-      "title": "Happy Juneteenth",
-      "url": "https://www.slowboring.com/p/happy-juneteenth",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A day off &#8212; and some news.",
-      "publishedAt": "2026-06-19T10:02:44.000Z",
-      "articleId": "77b693527a581394"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/does-anything-i-write-matter-anymore",
@@ -1678,10 +1678,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
@@ -1727,7 +1727,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
