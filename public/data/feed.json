@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-06-30T09:57:59.120Z",
-  "fetchedAt": "2026-06-30T09:57:59.115Z",
+  "generatedAt": "2026-06-30T12:22:39.605Z",
+  "fetchedAt": "2026-06-30T12:22:39.600Z",
   "sourceCount": 21,
-  "itemCount": 148,
-  "totalItemCount": 764,
+  "itemCount": 149,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trumps-weird-dc-specific-initiatives",
+      "title": "Trump’s weird D.C.-specific initiatives, ranked",
+      "url": "https://www.slowboring.com/p/trumps-weird-dc-specific-initiatives",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The good, the bad, and the merely wasteful",
+      "publishedAt": "2026-06-30T10:02:47.000Z",
+      "articleId": "f930f1d4438f5ddc"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/everyone-is-coping-with-the-knicks",
       "title": "Everyone Is Coping With the Knicks' Title in Their Own Way",
@@ -1727,7 +1738,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
