@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-06-30T15:39:19.607Z",
-  "fetchedAt": "2026-06-30T15:39:19.602Z",
+  "generatedAt": "2026-06-30T18:08:37.320Z",
+  "fetchedAt": "2026-06-30T18:08:37.314Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 765,
+  "itemCount": 148,
+  "totalItemCount": 764,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lu06v9il1m1am53q4yti.html",
+      "title": "Money Stuff: Susquehanna Sold Some Suspicious Puts",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lu06v9il1m1am53q4yti.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Millennium, Elliott, Stretch, Mirae. View in browser Suspicious puts The basic job of a market maker is to buy low, sell high, and not get adversely selected. You bop along, buying stock at the bid (say, $9.99), selling it at the offer (say, $10.01), and collecting the bid/ask spread ($0.02) on each pair of trades. If people trade with you essentially at random, you keep the whole spread as profit: Someone comes in to sell at $9.99 one second, someone else comes in to buy at $10.01 the next, and you keep the $0.02. But if someone sells you a lot of stock at $9.99 one second, and the next second the stock crashes to $9, then you lose $0.99. That is, roughly, adverse selection : buying stock when it is about to go down, or selling it when it’s about to go up. What you want is to trade with people at random; what you don’t want is to trade with people who know which way the price will move. And so some of the business of market making is about avoiding adverse selection by knowing what the price should be, some of it is about charging a big enough spread to cover your adverse selection losses, and some of it is about trying not to trade with people who know too much . In the US stock market, one way to do that is to pay retail brokers to trade with their customers’ orders : Retail traders, stereotypically, trade at random, so if you buy some stock from them you have no reason to think the stock will go down. [1] That’s stock market making. Options market making is the same but more so. [2] Options tend to have wide bid/ask spreads and be bought by retail gamblers , so market makers make a lot of money on options. ( Robinhood makes about four times as much money from payment for order flow on options as it does on stocks.) But options also have a lot of risk of adverse selection. If you sell someone short-dated out-of-the-money call options, they will probably expire worthless and you’ll make money — unless the company announces a merger tomorrow. Then you’ll get blown up. But the people buying those options might know something about a merger. There’s a reason that my Second Law of Insider Trading is about buying short-dated out-of-the-money call options on merger targets. It happens a lot! That is arguably an annoying example. Most of the time, “adverse selection” doesn’t mean “insider trading.” The more standard sort of adverse selection in market making is, like, a big institutional investor wants to buy a lot of shares, so the price goes up a lot after you sell some. Or a sophisticated hedge fund has done research suggesting that the fundamental value of a stock is above its price. Or a high-frequency trading firm knows that futures have moved up a tick before you do. Stuff like that. On the other hand, if you are making markets in...",
+      "publishedAt": "2026-06-30T17:40:21.374Z",
+      "articleId": "aeea698c63a2d976"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-575",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Korinek, Autor, and Gimbel on AI and jobs (WSJ). 2. New economics job at OpenAI. 3. State capacity as an organizational problem. 4. Alex Ross is stepping down as music critic for The New Yorker. 5. More on the depolarizing effects of current AI. 6. The end of landlines in Finland is pending. The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-06-30T16:14:14.000Z",
+      "articleId": "d14b856ca35a60b2"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/low-dose-radiation-is-probably-fine",
       "title": "How p-hacking built the world's most expensive safety regime",
@@ -369,17 +391,6 @@
       "articleId": "8700d8c5d0faf045"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/an-infovore-shares-his-chats.html?utm_source=rss&utm_medium=rss&utm_campaign=an-infovore-shares-his-chats",
-      "title": "An infovore shares his chats",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/an-infovore-shares-his-chats.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In conjunction with OpenAI, here is a short piece by me on how to use GPT Pro for travel and a few other matters. Excerpt: 6. Learn what to look for in an art museum I’m visiting the Detroit Institute of Arts. Which pictures in particular should I be looking for, and what is some [&#8230;] The post An infovore shares his chats appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-27T08:22:18.000Z",
-      "articleId": "f7e4efdbca203e3c"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/alan-greenspan-rip",
       "title": "Alan Greenspan, RIP",
       "url": "https://scottsumner.substack.com/p/alan-greenspan-rip",
@@ -422,17 +433,6 @@
       "summary": "Plus nuclear cargo ships, the ROAD to Housing Act, and when results matter",
       "publishedAt": "2026-06-26T10:02:14.000Z",
       "articleId": "a6e992b6280d3501"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/mlb-owners-want-the-union-playing",
-      "title": "MLB Owners Want the Union Playing Checkers While They Play Chess",
-      "url": "https://neilpaine.substack.com/p/mlb-owners-want-the-union-playing",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The cap-and-floor debate looks like a fight over payroll fairness. But it's really about tying players to baseball's uncertain revenues while owners keep the upside of rising franchise values.",
-      "publishedAt": "2026-06-26T10:00:29.000Z",
-      "articleId": "2b9cc1207ef5d8b5"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
@@ -895,17 +895,6 @@
       "summary": "There's nothing like making music with your brother, or at least someone people think is your brother",
       "publishedAt": "2026-06-18T17:30:07.000Z",
       "articleId": "fad5854aeb8871ca"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/quyq19fenuqoz8hnodyr.html",
-      "title": "Money Stuff: Synthetic IPO Pops",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/quyq19fenuqoz8hnodyr.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff NAV, alpha, football, dogs. View in browser IPO arb A simple good trade is: Buy stock in a hot initial public offering at the IPO price. For instance, buy stock in SpaceX’s IPO at $135 per share. When the stock starts trading publicly and immediately goes up 20% or so, sell it. This trade is not perfect. For one thing, occasionally IPOs trade down , not up, so there is some risk. For another thing, you might be leaving money on the table if you sell after just one day. SpaceX went up another 20% on its second day of trading. “SpaceX shares have surged nearly 50% in their first days of trading and left a trail of remorseful traders in their wake: those who sold too early,” the Wall Street Journal reported this week . Plus maybe in 10 years it will be worth a quadrillion dollars. All in all, though, this is an excellent trade; there are not a lot of trades that offer fairly reliable 20% one-day returns. And so the main problem with this trade is that nobody wants to let you do it. For one thing, it is hard to buy shares in a hot IPO. Retail investors often don’t have any opportunity to buy shares at the IPO price; even institutional investors who put in orders will not necessarily get any shares. Or, if you do get shares, you’ll get less than you hoped for. SpaceX’s $75 billion IPO “drew more than $350 billion in demand from institutions and retail investors,” Bloomberg reported : “Among the firms that placed orders, close to one-third of them didn’t receive any stock,” and retail investors asked for $100 billion of stock and got only $15 billion. For another thing, if you do get shares in a hot IPO, it is probably because you pinky-swore not to sell them. When SpaceX and its bankers allocated shares to institutional investors in its IPO, “they assessed who would be committed long-term owners and weeded out those most likely to dump the stock for a quick profit,” the Financial Times reported , and most of the shares went to long-only investors rather than hedge funds. (Long-only holders could dump the stock for a quick profit, but if you do that too often you will get a bad reputation and won’t get stock in the next hot IPO.) And retail brokerages “ typically have policies discouraging users from quickly selling, or ‘flipping,’ IPO shares,” and will also cut you off from the next IPO if you flip this one. This is an annoying state of affairs: There’s a good, low-risk, high-return, short-term trade that is available on paper but that you can’t easily do. You want to do it. How? The very best way to do it is probably to be a big hedge fund that pays a lot of fees to the big banks. Companies actually do want some IPO investors to flip their stock — if no one sold it, no one could buy it, and there’d be no IPO pop and no liquidity — but...",
-      "publishedAt": "2026-06-18T16:57:32.197Z",
-      "articleId": "38bbe78e3b801d82"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/kdpy42la8uf97ksphn6n.html",
@@ -1722,7 +1711,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
