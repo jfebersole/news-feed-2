@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T22:18:24.637Z",
-  "fetchedAt": "2026-06-29T22:18:24.634Z",
+  "generatedAt": "2026-06-30T00:16:13.454Z",
+  "fetchedAt": "2026-06-30T00:16:13.449Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 764,
+  "itemCount": 148,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
@@ -488,17 +488,6 @@
       "summary": "A look at the state of the midterms",
       "publishedAt": "2026-06-25T10:02:06.000Z",
       "articleId": "aa54db6de5c6536e"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/cliff-lee-had-a-hall-of-fame-peak",
-      "title": "Cliff Lee Had a Hall of Fame Peak, and a 0.5% Ballot Exit",
-      "url": "https://neilpaine.substack.com/p/cliff-lee-had-a-hall-of-fame-peak",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Whether in Philadelphia, Cleveland, Texas or Seattle, Lee was one of baseball's best (and clutchest) pitchers in his prime — even if he didn’t stay long enough for a HOF plaque.",
-      "publishedAt": "2026-06-25T10:01:18.000Z",
-      "articleId": "556b2c16cba925f9"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
@@ -1721,10 +1710,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 4,
+      "mode": "rss-proxy",
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Noahpinion",
