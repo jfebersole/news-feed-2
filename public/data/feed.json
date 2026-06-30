@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T18:08:37.320Z",
-  "fetchedAt": "2026-06-30T18:08:37.314Z",
+  "generatedAt": "2026-06-30T21:02:51.657Z",
+  "fetchedAt": "2026-06-30T21:02:51.653Z",
   "sourceCount": 21,
   "itemCount": 148,
-  "totalItemCount": 764,
+  "totalItemCount": 747,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lu06v9il1m1am53q4yti.html",
@@ -1646,10 +1646,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1678,10 +1678,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 3,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
