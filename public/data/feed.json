@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T22:36:25.372Z",
-  "fetchedAt": "2026-06-30T22:36:25.367Z",
+  "generatedAt": "2026-07-01T00:18:17.310Z",
+  "fetchedAt": "2026-07-01T00:18:17.306Z",
   "sourceCount": 21,
   "itemCount": 148,
-  "totalItemCount": 753,
+  "totalItemCount": 763,
   "items": [
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
@@ -1646,10 +1646,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
