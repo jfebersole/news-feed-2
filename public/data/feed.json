@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-01T21:44:39.045Z",
-  "fetchedAt": "2026-07-01T21:44:39.040Z",
+  "generatedAt": "2026-07-01T23:40:11.348Z",
+  "fetchedAt": "2026-07-01T23:40:11.343Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 754,
+  "itemCount": 150,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/congress-waits-cities-experiment",
+      "title": "Congress waits, cities experiment",
+      "url": "https://www.slowboring.com/p/congress-waits-cities-experiment",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Trump leaves a bipartisan housing bill unsigned while cities take matters into their own hands.",
+      "publishedAt": "2026-07-01T22:00:57.000Z",
+      "articleId": "5883e82a3e67e946"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/how-to-ask-for-help-from-a-stranger.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-ask-for-help-from-a-stranger",
       "title": "How to ask for help from a stranger",
@@ -1738,7 +1749,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
