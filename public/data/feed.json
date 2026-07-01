@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-01T05:52:34.141Z",
-  "fetchedAt": "2026-07-01T05:52:34.136Z",
+  "generatedAt": "2026-07-01T10:09:24.180Z",
+  "fetchedAt": "2026-07-01T10:09:24.173Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 763,
+  "itemCount": 151,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/nobody-likes-a-party-crasher",
+      "title": "Nobody likes a party crasher",
+      "url": "https://www.slowboring.com/p/nobody-likes-a-party-crasher",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Trump has ruined America&#8217;s 250th anniversary. I&#8217;m still celebrating.",
+      "publishedAt": "2026-07-01T10:00:52.000Z",
+      "articleId": "51576110cb23d861"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/bobby-bonilla-day-2026",
+      "title": "Bobby Bonilla Was More Than The Patron Saint Of Bad Contracts",
+      "url": "https://neilpaine.substack.com/p/bobby-bonilla-day-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "You’ve heard of “Bobby Bonilla Day” — but the full story of how he got paid (and mostly earned it!) is even more interesting.",
+      "publishedAt": "2026-07-01T09:00:11.000Z",
+      "articleId": "a3d0640c0d439f60"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-84-bears-on-bikes",
+      "title": "Roundup #84: Bears on bikes",
+      "url": "https://www.noahpinion.blog/p/roundup-84-bears-on-bikes",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Vibecession (or not); AI depolarization; Existential AI risk; Millennials vs. Boomers; Deindustrialization; Russian oil revenue; GLP-1s; AI and jobs",
+      "publishedAt": "2026-07-01T06:31:00.000Z",
+      "articleId": "b1e63b973f82b258"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/reconstruction-of-the-fables.html?utm_source=rss&utm_medium=rss&utm_campaign=reconstruction-of-the-fables",
       "title": "Fables of the Reconstruction/Reconstruction of the Fables",
@@ -1632,17 +1665,6 @@
       "summary": "Wide receiver Odell Beckham Jr. is reuniting with the team that drafted him more than a decade ago, signing a one-year contract with the New York Giants, the team announced Monday. The 33-year-old worked out for the Giants on Monday morning alongside a handful of veteran receivers that included JuJu Smith-Schuster, Braxton Berrios and Anthony Miller. It turned out to be a fruitful workout, because along with Beckham, the Giants also signed Smith-Schuster and Berrios to one-year deals, the team announced. The three of them will help bolster a wide receiver group that has been beset by injuries,...",
       "publishedAt": "2026-06-01T15:49:33.000Z",
       "articleId": "d5c7712404aa0345"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/walking-to-the-world-cup-and-other",
-      "title": "Walking to the World Cup, and Other Distractions",
-      "url": "https://walkingtheworld.substack.com/p/walking-to-the-world-cup-and-other",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "New Jersey, Snapping Turtles, and a great book.",
-      "publishedAt": "2026-06-01T09:22:09.000Z",
-      "articleId": "f5f3e416887549a3"
     }
   ],
   "sources": [
@@ -1722,7 +1744,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1738,7 +1760,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1785,10 +1807,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
