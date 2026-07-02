@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-02T04:18:07.341Z",
-  "fetchedAt": "2026-07-02T04:18:07.336Z",
+  "generatedAt": "2026-07-02T08:22:15.032Z",
+  "fetchedAt": "2026-07-02T08:22:15.027Z",
   "sourceCount": 21,
   "itemCount": 150,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-alexander-calder-the-great-american-artist.html?utm_source=rss&utm_medium=rss&utm_campaign=is-alexander-calder-the-great-american-artist",
+      "title": "Is Alexander Calder the great American artist?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-alexander-calder-the-great-american-artist.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I am not ready to make this claim, but I wondered this after seeing the marvelous exhibit at Fondation Vuitton. To Calder&#8217;s credit: 1. His work is both beautiful and deep. It also can be fun. Unlike many other high-status artists, most Americans like or could like his work. 2. It is immediately recognizable and [&#8230;] The post Is Alexander Calder the great American artist? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-02T07:18:45.000Z",
+      "articleId": "40f49891e08ce268"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-india-17th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-17th-cohort",
+      "title": "Emergent Ventures India, 17th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-india-17th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This is all from Shruti: Aryamman Bhatia is part of the team building HackerFab IITB, an open-source student-built chip microfabrication lab. He received his grant to build what he hopes will become the world&#8217;s cheapest fabrication tools and to inspire bottom-up contributions to India&#8217;s Semiconductor Mission. Yashi Garg, 17, received her grant for Neurosole, a [&#8230;] The post Emergent Ventures India, 17th cohort appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-02T04:22:49.000Z",
+      "articleId": "1a3c8f6c5d37c2fe"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-waits-cities-experiment",
       "title": "Congress waits, cities experiment",
@@ -411,28 +433,6 @@
       "summary": "Carlos Mendoza became the latest Mets skipper to take the fall for an old, expensive, hastily-remade and massively underachieving roster.",
       "publishedAt": "2026-06-29T09:01:51.000Z",
       "articleId": "a905fb8c48c75598"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/will-future-biomedical-advances-be-low-marginal-cost.html?utm_source=rss&utm_medium=rss&utm_campaign=will-future-biomedical-advances-be-low-marginal-cost",
-      "title": "Will future biomedical advances be low marginal cost?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/will-future-biomedical-advances-be-low-marginal-cost.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Most pharmaceuticals involve high upfront costs, to discover and test the drug, and very low marginal costs. Another pill can be printed almost for free. That cost structure favors health systems, such as that of Britain, that try to pay lower for services. They can end up getting a relatively good deal from price discrimination. [&#8230;] The post Will future biomedical advances be low marginal cost? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-29T06:07:10.000Z",
-      "articleId": "c7028484fbd04b31"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/typewriters-and-fertility.html?utm_source=rss&utm_medium=rss&utm_campaign=typewriters-and-fertility",
-      "title": "Typewriters and fertility",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/typewriters-and-fertility.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Workplace technological changes were instrumental in creating new tasks for women over the last century. This paper studies the adoption of the typewriter into US workplaces. Exploiting exogenous variation in typist demand across sectors, I document that the typewriter increased women’s labor force participation, leading to lower rates of marriage and fertility. These developments stemmed [&#8230;] The post Typewriters and fertility appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-29T05:06:03.000Z",
-      "articleId": "4d84f2791a53a0a1"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/europe-needs-air-conditioning",
@@ -1668,10 +1668,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
