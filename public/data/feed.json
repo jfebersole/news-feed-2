@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T11:41:41.069Z",
-  "fetchedAt": "2026-07-02T11:41:41.064Z",
+  "generatedAt": "2026-07-02T14:26:40.375Z",
+  "fetchedAt": "2026-07-02T14:26:40.369Z",
   "sourceCount": 21,
-  "itemCount": 149,
+  "itemCount": 147,
   "totalItemCount": 765,
   "items": [
     {
@@ -37,6 +37,17 @@
       "summary": "Is it true that &#8220;Muslims&#8221; &#8212; or anyone else &#8212; &#8220;shouldn&#8217;t have to assimilate to belong&#8221;?",
       "publishedAt": "2026-07-02T09:00:53.000Z",
       "articleId": "84472454225e3bb8"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-bicentennial-summer-that-made",
+      "title": "The Bicentennial Summer That Made Modern Sports",
+      "url": "https://neilpaine.substack.com/p/the-bicentennial-summer-that-made",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "America spent 1976 looking backward. But beneath all the red, white and blue pageantry, sports were changing in ways that would define the next half-century.",
+      "publishedAt": "2026-07-02T09:00:12.000Z",
+      "articleId": "a927c5d9b1d7504d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-alexander-calder-the-great-american-artist.html?utm_source=rss&utm_medium=rss&utm_campaign=is-alexander-calder-the-great-american-artist",
@@ -444,17 +455,6 @@
       "summary": "Maybe both.",
       "publishedAt": "2026-06-29T09:16:02.000Z",
       "articleId": "b9bc488c36d86fa2"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/how-to-get-fired-by-the-mets",
-      "title": "How to Get Fired by the Mets",
-      "url": "https://neilpaine.substack.com/p/how-to-get-fired-by-the-mets",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Carlos Mendoza became the latest Mets skipper to take the fall for an old, expensive, hastily-remade and massively underachieving roster.",
-      "publishedAt": "2026-06-29T09:01:51.000Z",
-      "articleId": "a905fb8c48c75598"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/europe-needs-air-conditioning",
@@ -1621,28 +1621,6 @@
       "summary": "Why a morally divided country might find sleazy candidates reassuring.",
       "publishedAt": "2026-06-02T22:55:30.000Z",
       "articleId": "3b006ec985dd5ad6"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/grammy-losers-and-winners-an-album",
-      "title": "Grammy Losers and Winners: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/grammy-losers-and-winners-an-album",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Beck, Mariah Carey, Billy Joel, and others",
-      "publishedAt": "2026-06-02T13:32:00.000Z",
-      "articleId": "316e745ba9b36f93"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7325291/2026/06/02/ny-giants-odell-beckham-jr-reunion-return/",
-      "title": "Like most sequels, Odell Beckham Jr.’s second act in NY will pale in comparison to original",
-      "url": "https://www.nytimes.com/athletic/7325291/2026/06/02/ny-giants-odell-beckham-jr-reunion-return/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The Giants can’t chase memories. They can’t have any illusions that the highlights of the past will be repeated.",
-      "publishedAt": "2026-06-02T13:26:53.000Z",
-      "articleId": "10bc8ee0d820dd3a"
     }
   ],
   "sources": [
@@ -1785,10 +1763,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
