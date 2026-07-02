@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T20:36:00.466Z",
-  "fetchedAt": "2026-07-02T20:36:00.461Z",
+  "generatedAt": "2026-07-02T22:17:23.452Z",
+  "fetchedAt": "2026-07-02T22:17:23.447Z",
   "sourceCount": 21,
-  "itemCount": 150,
-  "totalItemCount": 756,
+  "itemCount": 149,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/stop-screeching-about-immigration",
@@ -864,17 +864,6 @@
       "articleId": "06e0059d273d84ed"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/when-trumps-influence-is-no-match",
-      "title": "When Trump’s influence is no match for money’s",
-      "url": "https://www.slowboring.com/p/when-trumps-influence-is-no-match",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus D.C. goes D.S.A. and why ranked-choice voting took so long in Maine",
-      "publishedAt": "2026-06-22T22:01:23.000Z",
-      "articleId": "fbbe7826815e8425"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
       "title": "Apple Price Increases, Apple Intelligence and the E.U.",
       "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
@@ -1668,10 +1657,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1749,7 +1738,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1796,18 +1785,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
