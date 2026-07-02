@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-02T14:26:40.375Z",
-  "fetchedAt": "2026-07-02T14:26:40.369Z",
+  "generatedAt": "2026-07-02T17:00:07.789Z",
+  "fetchedAt": "2026-07-02T17:00:07.784Z",
   "sourceCount": 21,
   "itemCount": 147,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-559.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-559",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-559.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. There is massive synaptic pruning between birth and adulthood. 2. Some major city populations from 1854. 3. From Samuel Hammond: &#8220;The AI boom is doubly upsetting to progressive economic commentators because it a) shows &#8220;financialization&#8221; was largely a macro story that eventually solved itself, and b) the boom is being driven by AI rather [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-02T16:02:28.000Z",
+      "articleId": "c4f68c54a677b7e4"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/rent-control-the-ceiling-trap.html?utm_source=rss&utm_medium=rss&utm_campaign=rent-control-the-ceiling-trap",
       "title": "Rent Control: The Ceiling Trap",
@@ -400,17 +411,6 @@
       "summary": "The dangers of Pete Hegseth are mounting.",
       "publishedAt": "2026-06-29T17:30:42.000Z",
       "articleId": "714cf36b99abca50"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-cheating-on-math-econ",
-      "title": "AI cheating on math econ at Brown",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The temptation to use artificial intelligence (AI) to cheat is shaking up elite universities in the United States. Professor Roberto Serrano, who is the Harrison S. Kravis University Professor of Economics at Brown University, has detected a massive fraud in one of the classes he teaches, ECON 1170, an advanced undergraduate course in mathematical economics. He has [&#8230;] The post AI cheating on math econ at Brown appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-29T16:00:50.000Z",
-      "articleId": "f62deb1b972efd5b"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
@@ -1763,10 +1763,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
