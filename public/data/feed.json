@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-03T16:43:22.308Z",
-  "fetchedAt": "2026-07-03T16:43:22.303Z",
+  "generatedAt": "2026-07-03T18:23:20.023Z",
+  "fetchedAt": "2026-07-03T18:23:20.018Z",
   "sourceCount": 21,
   "itemCount": 148,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html?utm_source=rss&utm_medium=rss&utm_campaign=do-falling-birth-rates-boost-per-capita-income",
+      "title": "Do falling birth rates boost per capita income?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across [&#8230;] The post Do falling birth rates boost per capita income? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-03T17:23:44.000Z",
+      "articleId": "b8981f97abc4eee5"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-579",
       "title": "Friday assorted links",
@@ -400,17 +411,6 @@
       "summary": "How work changes along the exponential",
       "publishedAt": "2026-06-30T22:18:12.000Z",
       "articleId": "28b4d4894e7b8222"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/differentiation-drives-the-erosion-of-positivity-on-social-media.html?utm_source=rss&utm_medium=rss&utm_campaign=differentiation-drives-the-erosion-of-positivity-on-social-media",
-      "title": "Differentiation drives the erosion of positivity on social media",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/differentiation-drives-the-erosion-of-positivity-on-social-media.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We live in a digital age, where billions of people engage in dialogue within topic-bound communities and threads. In an archival analysis of over 2 billion Reddit comments and an experiment, we show that this dialogue becomes more negative over time. Further analyses suggest that negativity rises over time because social media users seek to [&#8230;] The post Differentiation drives the erosion of positivity on social media appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-30T21:29:50.000Z",
-      "articleId": "ba0c412202164cde"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/lu06v9il1m1am53q4yti.html",
@@ -1774,18 +1774,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
