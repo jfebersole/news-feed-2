@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-03T11:40:18.624Z",
-  "fetchedAt": "2026-07-03T11:40:18.619Z",
+  "generatedAt": "2026-07-03T14:29:21.403Z",
+  "fetchedAt": "2026-07-03T14:29:21.398Z",
   "sourceCount": 21,
-  "itemCount": 148,
+  "itemCount": 149,
   "totalItemCount": 755,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "title": "The Fall and Rise of Screwworm",
+      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.",
+      "publishedAt": "2026-07-03T12:02:57.000Z",
+      "articleId": "3692d70ce4d8af03"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html?utm_source=rss&utm_medium=rss&utm_campaign=how-britain-became-as-poor-as-mississippi",
       "title": "How Britain Became as Poor as Mississippi",
@@ -1649,7 +1660,7 @@
       "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
