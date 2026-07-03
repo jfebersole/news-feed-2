@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-03T14:29:21.403Z",
-  "fetchedAt": "2026-07-03T14:29:21.398Z",
+  "generatedAt": "2026-07-03T16:43:22.308Z",
+  "fetchedAt": "2026-07-03T16:43:22.303Z",
   "sourceCount": 21,
-  "itemCount": 149,
-  "totalItemCount": 755,
+  "itemCount": 148,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-579",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-579.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Rohit is solving for the AI equilibrium. 2. Robin Hanson explains his political evolution. 3. Restoring the Book of Kells. 4. More Scott Sumner movie reviews. 5. Peter Howitt YouTube talk on golf? (I have not heard) 6. &#8220;Academics need to change, not the AI.&#8221; 7. I answer questions about AI for Berkman Klein [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-03T16:13:46.000Z",
+      "articleId": "4ef227c8d488ee7b"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
       "title": "The Fall and Rise of Screwworm",
@@ -411,17 +422,6 @@
       "summary": "Money Stuff Millennium, Elliott, Stretch, Mirae. View in browser Suspicious puts The basic job of a market maker is to buy low, sell high, and not get adversely selected. You bop along, buying stock at the bid (say, $9.99), selling it at the offer (say, $10.01), and collecting the bid/ask spread ($0.02) on each pair of trades. If people trade with you essentially at random, you keep the whole spread as profit: Someone comes in to sell at $9.99 one second, someone else comes in to buy at $10.01 the next, and you keep the $0.02. But if someone sells you a lot of stock at $9.99 one second, and the next second the stock crashes to $9, then you lose $0.99. That is, roughly, adverse selection : buying stock when it is about to go down, or selling it when it’s about to go up. What you want is to trade with people at random; what you don’t want is to trade with people who know which way the price will move. And so some of the business of market making is about avoiding adverse selection by knowing what the price should be, some of it is about charging a big enough spread to cover your adverse selection losses, and some of it is about trying not to trade with people who know too much . In the US stock market, one way to do that is to pay retail brokers to trade with their customers’ orders : Retail traders, stereotypically, trade at random, so if you buy some stock from them you have no reason to think the stock will go down. [1] That’s stock market making. Options market making is the same but more so. [2] Options tend to have wide bid/ask spreads and be bought by retail gamblers , so market makers make a lot of money on options. ( Robinhood makes about four times as much money from payment for order flow on options as it does on stocks.) But options also have a lot of risk of adverse selection. If you sell someone short-dated out-of-the-money call options, they will probably expire worthless and you’ll make money — unless the company announces a merger tomorrow. Then you’ll get blown up. But the people buying those options might know something about a merger. There’s a reason that my Second Law of Insider Trading is about buying short-dated out-of-the-money call options on merger targets. It happens a lot! That is arguably an annoying example. Most of the time, “adverse selection” doesn’t mean “insider trading.” The more standard sort of adverse selection in market making is, like, a big institutional investor wants to buy a lot of shares, so the price goes up a lot after you sell some. Or a sophisticated hedge fund has done research suggesting that the fundamental value of a stock is above its price. Or a high-frequency trading firm knows that futures have moved up a tick before you do. Stuff like that. On the other hand, if you are making markets in...",
       "publishedAt": "2026-06-30T17:40:21.374Z",
       "articleId": "aeea698c63a2d976"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-575",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Korinek, Autor, and Gimbel on AI and jobs (WSJ). 2. New economics job at OpenAI. 3. State capacity as an organizational problem. 4. Alex Ross is stepping down as music critic for The New Yorker. 5. More on the depolarizing effects of current AI. 6. The end of landlines in Finland is pending. The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-06-30T16:14:14.000Z",
-      "articleId": "d14b856ca35a60b2"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/low-dose-radiation-is-probably-fine",
@@ -1632,17 +1632,6 @@
       "summary": "...",
       "publishedAt": "2026-06-03T19:57:08.000Z",
       "articleId": "75d90586e9b1efaa"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/the-lost-art-of-building-cities",
-      "title": "The lost art of building cities",
-      "url": "https://www.worksinprogress.news/p/the-lost-art-of-building-cities",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Episode 18 is about Victorian urbanism",
-      "publishedAt": "2026-06-03T15:12:34.000Z",
-      "articleId": "4fd8dcf60be19a49"
     }
   ],
   "sources": [
@@ -1657,10 +1646,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
