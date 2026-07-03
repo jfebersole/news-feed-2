@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-02T22:17:23.452Z",
-  "fetchedAt": "2026-07-02T22:17:23.447Z",
+  "generatedAt": "2026-07-03T00:16:40.346Z",
+  "fetchedAt": "2026-07-03T00:16:40.341Z",
   "sourceCount": 21,
   "itemCount": 149,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "title": "The AI Superforecasters Are Here",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-02T23:14:12.000Z",
+      "articleId": "05f4d7289526a160"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/stop-screeching-about-immigration",
       "title": "Stop screeching about immigration, and get smart about it",
@@ -1632,17 +1643,6 @@
       "summary": "John Fetterman and Graham Platner both flailed into adulthood, living off their affluent parents while not amounting to much. Why have leftists decided this is a good resume for the U.S. Senate?",
       "publishedAt": "2026-06-03T04:01:37.000Z",
       "articleId": "d77899e9d207d7d2"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
-      "title": "Graham Platner, Ken Paxton and the Amoral Center",
-      "url": "https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Why a morally divided country might find sleazy candidates reassuring.",
-      "publishedAt": "2026-06-02T22:55:30.000Z",
-      "articleId": "3b006ec985dd5ad6"
     }
   ],
   "sources": [
@@ -1785,18 +1785,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
