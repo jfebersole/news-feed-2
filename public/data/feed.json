@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-03T20:21:03.134Z",
-  "fetchedAt": "2026-07-03T20:21:03.129Z",
+  "generatedAt": "2026-07-03T22:14:21.293Z",
+  "fetchedAt": "2026-07-03T22:14:21.288Z",
   "sourceCount": 21,
-  "itemCount": 147,
-  "totalItemCount": 765,
+  "itemCount": 148,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/happy-independence-day-weekend",
+      "title": "Happy Independence Day weekend",
+      "url": "https://www.slowboring.com/p/happy-independence-day-weekend",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "I&#8217;m grateful for this country and for you. Here&#8217;s how I&#8217;m celebrating.",
+      "publishedAt": "2026-07-03T22:00:53.000Z",
+      "articleId": "933b78808668818c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-most-profitable-crypto-investors-and-firms.html?utm_source=rss&utm_medium=rss&utm_campaign=the-most-profitable-crypto-investors-and-firms",
+      "title": "The most profitable crypto investors and firms",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-most-profitable-crypto-investors-and-firms.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the source. Here is from the editors at The Free Press. Here is more from Mene Ukueberuwa. The post The most profitable crypto investors and firms appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-03T21:23:00.000Z",
+      "articleId": "636bb9d29fe42f2d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html?utm_source=rss&utm_medium=rss&utm_campaign=do-falling-birth-rates-boost-per-capita-income",
       "title": "Do falling birth rates boost per capita income?",
@@ -378,17 +400,6 @@
       "summary": "The post Fables of the Reconstruction/Reconstruction of the Fables appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-01T05:02:24.000Z",
       "articleId": "ba7605d65d9c4bc2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-ive-been-reading-291.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-291",
-      "title": "What I’ve been reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-ive-been-reading-291.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Elizabeth Buchanan, So You Want to Own Greenland? A useful and dispassionate overview of the relevant history and issues. The author is from Australia. I had not known that Norway unilaterally claimed parts of eastern Greenland in the early 1930s, though gave it back to Denmark following a Hague adjudication and ruling. 2. Andrea [&#8230;] The post What I&#8217;ve been reading appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-01T05:01:57.000Z",
-      "articleId": "d2b87abd69209cb6"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/chip-off-the-old-block",
@@ -1716,7 +1727,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1771,10 +1782,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
