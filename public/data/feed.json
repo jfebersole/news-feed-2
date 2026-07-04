@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-04T10:22:38.087Z",
-  "fetchedAt": "2026-07-04T10:22:38.080Z",
+  "generatedAt": "2026-07-04T12:14:56.065Z",
+  "fetchedAt": "2026-07-04T12:14:56.060Z",
   "sourceCount": 21,
   "itemCount": 148,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-070426",
+      "title": "Reading List 07/04/26",
+      "url": "https://www.construction-physics.com/p/reading-list-070426",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Households without homeowners insurance, crackdowns on AI chip smuggling, Japan&#8217;s two electrical frequencies, Meta&#8217;s AI compute business, and more.",
+      "publishedAt": "2026-07-04T12:03:22.000Z",
+      "articleId": "e166d0ca82728bd9"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-american-age-was-the-human-age",
       "title": "The American age was the human age",
@@ -15,6 +26,17 @@
       "summary": "Reflections on 250 years.",
       "publishedAt": "2026-07-04T09:31:52.000Z",
       "articleId": "943eee4af4b9b316"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-june-29-july-3",
+      "title": "The Week That Was (June 29-July 3, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-june-29-july-3",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-07-04T09:01:21.000Z",
+      "articleId": "27dccd3c82cd7aac"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/america-the-beautiful.html?utm_source=rss&utm_medium=rss&utm_campaign=america-the-beautiful",
@@ -477,17 +499,6 @@
       "summary": "The good, the bad, and the merely wasteful",
       "publishedAt": "2026-06-30T10:02:47.000Z",
       "articleId": "f930f1d4438f5ddc"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/everyone-is-coping-with-the-knicks",
-      "title": "Everyone Is Coping With the Knicks' Title in Their Own Way",
-      "url": "https://neilpaine.substack.com/p/everyone-is-coping-with-the-knicks",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "In a league caught between wide-open parity and looming dynasties, every contender is talking itself into a different path forward.",
-      "publishedAt": "2026-06-30T09:01:36.000Z",
-      "articleId": "29e0e12d7f732115"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
@@ -1621,17 +1632,6 @@
       "summary": "Many folks, including me, have observed that it seems to take much longer to build infrastructure in the US than it used to.",
       "publishedAt": "2026-06-04T15:24:24.000Z",
       "articleId": "fe434eea1f4db48b"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7331851/2026/06/04/ny-giants-odell-beckham-otas/",
-      "title": "Odell Beckham Jr. knows he must earn roster spot: Giants OTA observations",
-      "url": "https://www.nytimes.com/athletic/7331851/2026/06/04/ny-giants-odell-beckham-otas/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Beckham has the opportunity he craved to end his career on his terms. Now it’s up to him to make the most of it.",
-      "publishedAt": "2026-06-04T11:30:00.000Z",
-      "articleId": "793c2d13df49677f"
     }
   ],
   "sources": [
@@ -1782,10 +1782,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
