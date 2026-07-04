@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T20:15:33.843Z",
-  "fetchedAt": "2026-07-04T20:15:33.837Z",
+  "generatedAt": "2026-07-04T22:08:43.254Z",
+  "fetchedAt": "2026-07-04T22:08:43.249Z",
   "sourceCount": 21,
-  "itemCount": 143,
-  "totalItemCount": 765,
+  "itemCount": 142,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-we-love-this-country.html?utm_source=rss&utm_medium=rss&utm_campaign=why-we-love-this-country",
@@ -1566,17 +1566,6 @@
       "summary": "Multiple myeloma is brutal. We may finally have a cure, but American regulatory inertia means that it was discovered abroad.",
       "publishedAt": "2026-06-05T14:53:36.000Z",
       "articleId": "e36132007cc09118"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
-      "title": "Co-Existence and the End of Co-Intelligence",
-      "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "Also: how pitch a book to an AI!",
-      "publishedAt": "2026-06-04T21:13:42.000Z",
-      "articleId": "8f2641506fcba087"
     }
   ],
   "sources": [
@@ -1591,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
