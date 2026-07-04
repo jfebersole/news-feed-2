@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T04:48:04.552Z",
-  "fetchedAt": "2026-07-04T04:48:04.547Z",
+  "generatedAt": "2026-07-04T08:02:47.359Z",
+  "fetchedAt": "2026-07-04T08:02:47.355Z",
   "sourceCount": 21,
-  "itemCount": 148,
-  "totalItemCount": 766,
+  "itemCount": 147,
+  "totalItemCount": 756,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/america-the-beautiful.html?utm_source=rss&utm_medium=rss&utm_campaign=america-the-beautiful",
@@ -1621,17 +1621,6 @@
       "summary": "Beckham has the opportunity he craved to end his career on his terms. Now it’s up to him to make the most of it.",
       "publishedAt": "2026-06-04T11:30:00.000Z",
       "articleId": "793c2d13df49677f"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/im-kind-of-over-the-whole-anti-monopoly",
-      "title": "I'm kind of over the whole \"Anti-monopoly\" movement",
-      "url": "https://www.noahpinion.blog/p/im-kind-of-over-the-whole-anti-monopoly",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The struggle against excessive corporate power needs better standard-bearers.",
-      "publishedAt": "2026-06-04T05:52:29.000Z",
-      "articleId": "b42e40bbaf41bd6f"
     }
   ],
   "sources": [
@@ -1646,10 +1635,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
