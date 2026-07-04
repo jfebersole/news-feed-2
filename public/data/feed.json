@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T16:13:50.641Z",
-  "fetchedAt": "2026-07-04T16:13:50.637Z",
+  "generatedAt": "2026-07-04T18:12:39.209Z",
+  "fetchedAt": "2026-07-04T18:12:39.206Z",
   "sourceCount": 21,
-  "itemCount": 147,
-  "totalItemCount": 756,
+  "itemCount": 144,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-568",
@@ -831,17 +831,6 @@
       "articleId": "b5af08be3ac786f8"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/should-data-centers-pay-a-carbon",
-      "title": "Should data centers pay a carbon tax?",
-      "url": "https://www.slowboring.com/p/should-data-centers-pay-a-carbon",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Two things voters hate, together at last!",
-      "publishedAt": "2026-06-24T10:00:55.000Z",
-      "articleId": "922a5e4ab268f046"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
       "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
       "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
@@ -1599,28 +1588,6 @@
       "summary": "Two comedians walk into a … friendship.",
       "publishedAt": "2026-06-04T18:34:35.000Z",
       "articleId": "92a8b1ddfdd64685"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/weddings-wedding-songs-etc",
-      "title": "Weddings, Wedding Songs, Etc.",
-      "url": "https://www.cantgetmuchhigher.com/p/weddings-wedding-songs-etc",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Because I'm getting married this weekend",
-      "publishedAt": "2026-06-04T17:31:08.000Z",
-      "articleId": "e811f5a2f8faa21b"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-world-is-bigger-than-you-can",
-      "title": "The world is bigger than you can imagine",
-      "url": "https://scottsumner.substack.com/p/the-world-is-bigger-than-you-can",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Why it is difficult to evaluate an economy",
-      "publishedAt": "2026-06-04T16:44:20.000Z",
-      "articleId": "3fff8344185f255b"
     }
   ],
   "sources": [
@@ -1635,10 +1602,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1716,7 +1683,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1771,10 +1738,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
