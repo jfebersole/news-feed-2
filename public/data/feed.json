@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-04T08:02:47.359Z",
-  "fetchedAt": "2026-07-04T08:02:47.355Z",
+  "generatedAt": "2026-07-04T10:22:38.087Z",
+  "fetchedAt": "2026-07-04T10:22:38.080Z",
   "sourceCount": 21,
-  "itemCount": 147,
-  "totalItemCount": 756,
+  "itemCount": 148,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-american-age-was-the-human-age",
+      "title": "The American age was the human age",
+      "url": "https://www.noahpinion.blog/p/the-american-age-was-the-human-age",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Reflections on 250 years.",
+      "publishedAt": "2026-07-04T09:31:52.000Z",
+      "articleId": "943eee4af4b9b316"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/america-the-beautiful.html?utm_source=rss&utm_medium=rss&utm_campaign=america-the-beautiful",
       "title": "America the Beautiful, 250 years!",
@@ -1635,10 +1646,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1771,10 +1782,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
