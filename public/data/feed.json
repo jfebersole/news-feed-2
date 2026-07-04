@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T22:14:21.293Z",
-  "fetchedAt": "2026-07-03T22:14:21.288Z",
+  "generatedAt": "2026-07-04T00:15:47.595Z",
+  "fetchedAt": "2026-07-04T00:15:47.591Z",
   "sourceCount": 21,
   "itemCount": 148,
   "totalItemCount": 766,
@@ -1782,10 +1782,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
