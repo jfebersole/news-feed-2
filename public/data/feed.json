@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T22:08:43.254Z",
-  "fetchedAt": "2026-07-04T22:08:43.249Z",
+  "generatedAt": "2026-07-05T00:10:48.040Z",
+  "fetchedAt": "2026-07-05T00:10:48.034Z",
   "sourceCount": 21,
   "itemCount": 142,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-we-love-this-country.html?utm_source=rss&utm_medium=rss&utm_campaign=why-we-love-this-country",
@@ -1580,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
