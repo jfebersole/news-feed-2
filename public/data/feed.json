@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-05T15:35:46.434Z",
-  "fetchedAt": "2026-07-05T15:35:46.430Z",
+  "generatedAt": "2026-07-05T17:30:42.189Z",
+  "fetchedAt": "2026-07-05T17:30:42.184Z",
   "sourceCount": 21,
   "itemCount": 142,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-da8",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-da8",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-07-05T17:02:32.000Z",
+      "articleId": "32537c04c1f797b3"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-574",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-574.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The family keeping watch over a 52-year-old pot of soup (WSJ). I guessed the country wrong. 2. The rise of grocery tourism. 3. PEPFAR interview. Much of this is substantive, and interesting. But some of Mike&#8217;s claims are absurd, for instance: &#8220;Elon Musk, on his own, if he paid his taxes, could end world [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-05T16:09:47.000Z",
+      "articleId": "4b117e122339c9c2"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
       "title": "Obama vs. Trump Is the Election Day We Needed but Never Got",
@@ -312,17 +334,6 @@
       "summary": "1. There is massive synaptic pruning between birth and adulthood. 2. Some major city populations from 1854. 3. From Samuel Hammond: &#8220;The AI boom is doubly upsetting to progressive economic commentators because it a) shows &#8220;financialization&#8221; was largely a macro story that eventually solved itself, and b) the boom is being driven by AI rather [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-02T16:02:28.000Z",
       "articleId": "c4f68c54a677b7e4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/rent-control-the-ceiling-trap.html?utm_source=rss&utm_medium=rss&utm_campaign=rent-control-the-ceiling-trap",
-      "title": "Rent Control: The Ceiling Trap",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/rent-control-the-ceiling-trap.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Rent control is in the news again. Check out my new website, Rent Control: The Ceiling Trap. Here is just one bit: Norway abolished its rent control in 1982, and the economist Are Oust realized the newspapers had been quietly recording the whole experiment. He collected housing classifieds from Oslo’s Aftenposten from 1970 to 2008 and watched [&#8230;] The post Rent Control: The Ceiling Trap appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-02T11:16:43.000Z",
-      "articleId": "5a87d80310e37ee8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/they-should-teach-patriotism-in-schools",
@@ -818,17 +829,6 @@
       "summary": "How did he fuck up? Let us count the ways.",
       "publishedAt": "2026-06-25T09:02:12.000Z",
       "articleId": "87983382f0ae12af"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/congress-passed-the-biggest-housing",
-      "title": "Congress passed the biggest housing bill in a generation. Trump is holding it hostage.",
-      "url": "https://www.slowboring.com/p/congress-passed-the-biggest-housing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The president said he will not sign it until lawmakers pass his SAVE America Act.",
-      "publishedAt": "2026-06-24T22:01:21.000Z",
-      "articleId": "9195a62d4677641d"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/543ec8qvb1070v2k4u54.html",
@@ -1580,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1644,10 +1644,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Noahpinion",
