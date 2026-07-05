@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-05T08:16:23.136Z",
-  "fetchedAt": "2026-07-05T08:16:23.132Z",
+  "generatedAt": "2026-07-05T11:10:57.147Z",
+  "fetchedAt": "2026-07-05T11:10:57.143Z",
   "sourceCount": 21,
-  "itemCount": 142,
-  "totalItemCount": 755,
+  "itemCount": 143,
+  "totalItemCount": 759,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
+      "title": "Obama vs. Trump Is the Election Day We Needed but Never Got",
+      "url": "https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The proxy battles we got instead have not settled questions we have to settle.",
+      "publishedAt": "2026-07-05T10:00:26.000Z",
+      "articleId": "67adeece8b61b344"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-michael-moritz",
       "title": "What should I ask Michael Moritz?",
@@ -1580,10 +1591,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1620,10 +1631,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 4,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -1644,10 +1655,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Noahpinion",
