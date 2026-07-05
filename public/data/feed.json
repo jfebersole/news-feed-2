@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T14:04:04.760Z",
-  "fetchedAt": "2026-07-05T14:04:04.755Z",
+  "generatedAt": "2026-07-05T15:35:46.434Z",
+  "fetchedAt": "2026-07-05T15:35:46.430Z",
   "sourceCount": 21,
-  "itemCount": 143,
-  "totalItemCount": 765,
+  "itemCount": 142,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
@@ -1566,17 +1566,6 @@
       "summary": "There are benefits far beyond protectionism.",
       "publishedAt": "2026-06-06T08:10:50.000Z",
       "articleId": "142f6e594aaf3d85"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/cured-in-china",
-      "title": "The blood cancer that became solvable",
-      "url": "https://www.worksinprogress.news/p/cured-in-china",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Multiple myeloma is brutal. We may finally have a cure, but American regulatory inertia means that it was discovered abroad.",
-      "publishedAt": "2026-06-05T14:53:36.000Z",
-      "articleId": "e36132007cc09118"
     }
   ],
   "sources": [
@@ -1591,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1727,10 +1716,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
