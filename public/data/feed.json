@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T11:10:57.147Z",
-  "fetchedAt": "2026-07-05T11:10:57.143Z",
+  "generatedAt": "2026-07-05T14:04:04.760Z",
+  "fetchedAt": "2026-07-05T14:04:04.755Z",
   "sourceCount": 21,
   "itemCount": 143,
-  "totalItemCount": 759,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
@@ -13,7 +13,7 @@
       "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
       "summary": "The proxy battles we got instead have not settled questions we have to settle.",
-      "publishedAt": "2026-07-05T10:00:26.000Z",
+      "publishedAt": "2026-07-05T13:49:29.000Z",
       "articleId": "67adeece8b61b344"
     },
     {
@@ -1631,10 +1631,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 4,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
@@ -1655,10 +1655,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Noahpinion",
@@ -1727,10 +1727,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
