@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-05T05:07:10.527Z",
-  "fetchedAt": "2026-07-05T05:07:10.522Z",
+  "generatedAt": "2026-07-05T08:16:23.136Z",
+  "fetchedAt": "2026-07-05T08:16:23.132Z",
   "sourceCount": 21,
   "itemCount": 142,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-michael-moritz",
+      "title": "What should I ask Michael Moritz?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a Conversation with him, based around his new book Ausländer: One Family&#8217;s Story of Escape and Exile. Mike of course was a pioneering venture capitalist through Sequoia, and before that had a distinguished career as a journalist, which included books on Chrysler, Apple (the first such book I believe?), and soccer [&#8230;] The post What should I ask Michael Moritz? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-05T07:04:40.000Z",
+      "articleId": "60ad3a5ef75722e0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tyler-nabeel-and-jackson-on-french-thinkers.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-nabeel-and-jackson-on-french-thinkers",
       "title": "Tyler, Nabeel, and Jackson on French thinkers",
@@ -334,17 +345,6 @@
       "summary": "America spent 1976 looking backward. But beneath all the red, white and blue pageantry, sports were changing in ways that would define the next half-century.",
       "publishedAt": "2026-07-02T09:00:12.000Z",
       "articleId": "a927c5d9b1d7504d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-alexander-calder-the-great-american-artist.html?utm_source=rss&utm_medium=rss&utm_campaign=is-alexander-calder-the-great-american-artist",
-      "title": "Is Alexander Calder the great American artist?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-alexander-calder-the-great-american-artist.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I am not ready to make this claim, but I wondered this after seeing the marvelous exhibit at Fondation Vuitton. To Calder&#8217;s credit: 1. His work is both beautiful and deep. It also can be fun. Unlike many other high-status artists, most Americans like or could like his work. 2. It is immediately recognizable and [&#8230;] The post Is Alexander Calder the great American artist? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-02T07:18:45.000Z",
-      "articleId": "40f49891e08ce268"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-waits-cities-experiment",
@@ -1580,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
