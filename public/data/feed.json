@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-06T20:11:38.319Z",
-  "fetchedAt": "2026-07-06T20:11:38.314Z",
+  "generatedAt": "2026-07-06T22:33:59.856Z",
+  "fetchedAt": "2026-07-06T22:33:59.850Z",
   "sourceCount": 21,
   "itemCount": 141,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/where-key-battleground-races-stand",
+      "title": "Where key battleground races stand four months before the midterm elections",
+      "url": "https://www.slowboring.com/p/where-key-battleground-races-stand",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "There is plenty of time before November, but, halfway through the primaries, conditions are telling.",
+      "publishedAt": "2026-07-06T22:00:28.000Z",
+      "articleId": "664e3ad176a24386"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+      "title": "For America’s 250th, Let’s Get Something Clear About Our National Identity",
+      "url": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "It depends on both ideas and cultural inheritance.",
+      "publishedAt": "2026-07-06T20:19:10.000Z",
+      "articleId": "e74499871e209c7f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/ilya-somin-defends-the-american-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=ilya-somin-defends-the-american-revolution",
       "title": "Ilya Somin defends the American Revolution",
@@ -842,17 +864,6 @@
       "articleId": "ab089a912d848ee4"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-narrow-path-to-saving-the-republic",
-      "title": "The narrow path to saving the republic",
-      "url": "https://www.slowboring.com/p/the-narrow-path-to-saving-the-republic",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A look at the state of the midterms",
-      "publishedAt": "2026-06-25T10:02:06.000Z",
-      "articleId": "aa54db6de5c6536e"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
       "title": "An Interview with Figma CEO Dylan Field About Design and AI",
       "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
@@ -1491,17 +1502,6 @@
       "articleId": "f2216af8d2030bc7"
     },
     {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-      "title": "For America’s 250th, Let’s Get Something Clear About Our National Identity",
-      "url": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "It depends on both ideas and cultural inheritance.",
-      "publishedAt": "2026-06-09T23:06:18.000Z",
-      "articleId": "e74499871e209c7f"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
       "title": "What it feels like to work with Mythos",
       "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
@@ -1705,10 +1705,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
