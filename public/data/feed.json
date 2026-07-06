@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-06T14:01:21.778Z",
-  "fetchedAt": "2026-07-06T14:01:21.772Z",
+  "generatedAt": "2026-07-06T17:13:39.715Z",
+  "fetchedAt": "2026-07-06T17:13:39.710Z",
   "sourceCount": 21,
   "itemCount": 141,
-  "totalItemCount": 743,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-567",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-567.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Advice for aspiring policy analysts. 2. Ten underrated history books. 3. AI superforecasters. 4. Fable makes a movie out of Last and First Men. 5. A lot of them should have been fired anyway. 6. The world&#8217;s first fully robot-run hotel in China? 7. Will the UK run out of air conditioning units? The post Monday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-06T15:49:36.000Z",
+      "articleId": "b39a7f28ce79f4ad"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/capital-gains-can-be-labor-income.html?utm_source=rss&utm_medium=rss&utm_campaign=capital-gains-can-be-labor-income",
       "title": "Capital Gains Can Be Labor Income",
@@ -26,6 +37,17 @@
       "summary": "Socialism is not the answer, but the status quo isn&#8217;t working.",
       "publishedAt": "2026-07-06T10:02:30.000Z",
       "articleId": "d479c8d098e67224"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/world-cup-soccer-is-a-lot-less-random",
+      "title": "World Cup Soccer Is a Lot Less Random Than You Think",
+      "url": "https://neilpaine.substack.com/p/world-cup-soccer-is-a-lot-less-random",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "For a chaotic sport where most games are decided by 1 goal, the better team usually prevails — especially in the biggest games.",
+      "publishedAt": "2026-07-06T09:01:05.000Z",
+      "articleId": "820bbeaae86c8768"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/no-china-did-not-manage-to-avoid",
@@ -270,17 +292,6 @@
       "articleId": "3692d70ce4d8af03"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html?utm_source=rss&utm_medium=rss&utm_campaign=how-britain-became-as-poor-as-mississippi",
-      "title": "How Britain Became as Poor as Mississippi",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "How Britain Became as Poor as Mississippi is a good piece in the Atlantic by Idrees Kahloon filled with colorful anecdotes of a nation in decline: The health service now has to spend more money settling maternity-malpractice claims than it does on actually providing maternity care. Many Brits can neither obtain an appointment with a [&#8230;] The post How Britain Became as Poor as Mississippi appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-03T11:18:16.000Z",
-      "articleId": "9dbcbd2a984ea98b"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7414102/2026/07/03/new-york-giants-training-camp-roster/",
       "title": "N.Y. Giants training camp preview: One thought on Skattebo, Dart and every player on offense",
       "url": "https://www.nytimes.com/athletic/7414102/2026/07/03/new-york-giants-training-camp-roster/",
@@ -466,17 +477,6 @@
       "summary": "Trump has ruined America&#8217;s 250th anniversary. I&#8217;m still celebrating.",
       "publishedAt": "2026-07-01T10:00:52.000Z",
       "articleId": "51576110cb23d861"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/bobby-bonilla-day-2026",
-      "title": "Bobby Bonilla Was More Than The Patron Saint Of Bad Contracts",
-      "url": "https://neilpaine.substack.com/p/bobby-bonilla-day-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "You’ve heard of “Bobby Bonilla Day” — but the full story of how he got paid (and mostly earned it!) is even more interesting.",
-      "publishedAt": "2026-07-01T09:00:11.000Z",
-      "articleId": "a3d0640c0d439f60"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-84-bears-on-bikes",
@@ -1601,18 +1601,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 5,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
@@ -1633,10 +1633,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Noahpinion",
@@ -1697,18 +1697,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
