@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-06T17:13:39.715Z",
-  "fetchedAt": "2026-07-06T17:13:39.710Z",
+  "generatedAt": "2026-07-06T20:11:38.319Z",
+  "fetchedAt": "2026-07-06T20:11:38.314Z",
   "sourceCount": 21,
   "itemCount": 141,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/ilya-somin-defends-the-american-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=ilya-somin-defends-the-american-revolution",
+      "title": "Ilya Somin defends the American Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/ilya-somin-defends-the-american-revolution.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Far from retarding the abolition of slavery, the Revolution actually accelerated it. Its triumph gave a big boost to Enlightenment liberalism, which inspired the First Emancipation in the US (the abolition of slavery in the North that became the first large-scale emancipation of slaves in modern history), and boosted antislavery movements in Europe, as well. 2. [&#8230;] The post Ilya Somin defends the American Revolution appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-06T18:32:47.000Z",
+      "articleId": "06a808ba5af6618f"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hj1x45mc0ap1u2n6uin2.html",
+      "title": "Money Stuff: Untruth Machines",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hj1x45mc0ap1u2n6uin2.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Bots, memes, puts, loans, Korea, bowling. View in browser Kalshi/Spotify The order of magnitude is that artists get a few dollars for every 1,000 times their songs are streamed on Spotify, but bots can generate fake Spotify streams at a cost of something like $1 per 1,000 streams. [1] If you can generate 1,000 streams for $1, and those 1,000 streams pay you $2, then you’re in business, sort of. We have discussed the economics of that business . It’s not a business that Spotify likes, or US federal prosecutors. We discussed it because a guy who allegedly did it was arrested for fraud. But the key point here is that bots can, and sometimes do, generate fake Spotify streams for something like $1 per 1,000 streams. And then the question is: If you can generate fake Spotify streams at a cost of around $1 per 1,000, and you don’t mind doing a little crime, what is the best way to monetize that? Getting paid $2 per 1,000 streams as artist royalties is not terrible. (It’s like a 100% return on investment?) I’m sure that there are more complicated big-picture sorts of answers. (“Generate lots of fake streams and get a record deal,” etc.) But now there are better, simpler answers. Bloomberg’s Denitsa Tsekova reports : Spotify spotted and removed over 500,000 artificial streams that had unexpectedly turned Malcolm Todd’s song “Earrings” into one of the most popular songs on its charts, according to a person familiar with the matter. The artificial numbers had already been used to settle a Kalshi market tied to the most frequently streamed Spotify song in the US in June, which had attracted $3 million in trading. Todd had been declared one of the winners based on figures published before Spotify completed its investigation. Spotify reached out to the companies after finding the problem, the person said. “We’re in touch with Spotify and are actively investigating this matter,” said Elisabeth Diana, a spokesperson for Kalshi. Don’t take my numbers too literally — there is not, like, a Bloomberg chart of the price of illegal Spotify bot streams — but, as far as I can tell, generating 500,000 artificial streams would cost on the order of hundreds of dollars. Kalshi’s contracts on Todd’s song traded well below $0.10 for most of June, and then paid off $1 when it unexpectedly finished first. (After Spotify’s investigation and removal of fake streams it fell back to fourth , but the Kalshi contract had already settled.) Open interest, by the end of the month, was about 76,000 contracts , meaning that you could have made tens of thousands of dollars on Kalshi by spending hundreds of dollars to manipulate Spotify, on the order of a 10,000% return on investment. Did someone? Is there a connection between the Kalshi market and the fake Spotify streams? I...",
+      "publishedAt": "2026-07-06T18:32:20.582Z",
+      "articleId": "bdc1ab1eebce0459"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-567.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-567",
       "title": "Monday assorted links",
@@ -268,17 +290,6 @@
       "summary": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across [&#8230;] The post Do falling birth rates boost per capita income? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-03T17:23:44.000Z",
       "articleId": "b8981f97abc4eee5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-579",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-579.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Rohit is solving for the AI equilibrium. 2. Robin Hanson explains his political evolution. 3. Restoring the Book of Kells. 4. More Scott Sumner movie reviews. 5. Peter Howitt YouTube talk on golf? (I have not heard) 6. &#8220;Academics need to change, not the AI.&#8221; 7. I answer questions about AI for Berkman Klein [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-03T16:13:46.000Z",
-      "articleId": "4ef227c8d488ee7b"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
@@ -851,17 +862,6 @@
       "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
       "publishedAt": "2026-06-25T10:00:00.000Z",
       "articleId": "0132d18e67d01748"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/543ec8qvb1070v2k4u54.html",
-      "title": "Money Stuff: Insider Trading Isn't Romantic",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/543ec8qvb1070v2k4u54.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Arena, SpaceTesla, AI SPAC, SK Hynix. View in browser PR insider trading Every financial services firm will tell its new employees, in their first week or two of work, the same thing: “Be careful with our confidential information. Don’t tell anyone outside of the firm what you’re working on. Don’t talk carelessly in elevators. Don’t leave your laptop unlocked. Don’t even tell your spouse what you’re working on.” Every new employee will take that to heart, for a week or two; they will go home and their boyfriends or girlfriends will ask “so what did you do at work today” and they will say “I can’t tell you it’s a seeeeeeeeecret” and their boyfriends and girlfriends will be like “aww that’s cute.” And then they will work there for a few months, and some of this scrupulousness will get sanded away, and they will come home after a long day at work and be like “ugh John Smith at Amalgamated Sprockets is really getting on my nerves, he keeps demanding revisions on the model for the merger with Consolidated Widgets that they want to announce next Wednesday,” and their boyfriends or girlfriends will be like “yeah you complained about that yesterday too.” Not quite what compliance wanted, but understandable. I feel like the actual rule — and this is extremely not legal or compliance or career advice — is more like “don’t tell your brother-in-law or your college buddy any confidential information, because they will definitely insider trade on it, but if you really feel like you have to you can probably tell your spouse, as long as you are absolutely sure that he or she will keep it secret and won’t insider trade on it.” People sometimes get this wrong . What about some guy you’re dating? Well. I dunno. Do you trust him? Here’s a US Securities and Exchange Commission case : On June 23, 2026, the Securities and Exchange Commission charged Justin Jennings and Vortex Strategies LLC, a Wyoming limited liability company Jennings owned and controlled, with insider trading based on material nonpublic information Jennings allegedly misappropriated from his romantic partner and used to trade in advance of several corporate announcements. According to the SEC’s complaint, between February 2022 and October 2024, Jennings misappropriated inside information from his then-romantic partner, an account executive who worked at a strategic communications and investor relations firm. As alleged, Jennings used his romantic partner’s work-issued laptop computer to access material nonpublic information, including information related to mergers and acquisitions, earnings announcements, and other significant corporate events involving several of the communication and investor relations firm’s public company clients, without her authorization. The complaint further alleges...",
-      "publishedAt": "2026-06-24T18:31:19.302Z",
-      "articleId": "b5af08be3ac786f8"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
@@ -1569,10 +1569,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
