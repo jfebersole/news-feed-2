@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-07T15:48:55.064Z",
-  "fetchedAt": "2026-07-07T15:48:55.057Z",
+  "generatedAt": "2026-07-07T18:16:00.068Z",
+  "fetchedAt": "2026-07-07T18:16:00.062Z",
   "sourceCount": 21,
   "itemCount": 143,
-  "totalItemCount": 766,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-we-stopped-making-land.html?utm_source=rss&utm_medium=rss&utm_campaign=why-we-stopped-making-land",
+      "title": "Why we stopped making land",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/why-we-stopped-making-land.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Zigmund Forrest and Maxwell Tabarrok in Works in Progress: In total, around eight percent of the land in America’s major coastal cities was underwater in the 1890s and has since been reclaimed. This includes the land under several major airports, like Newark, Logan, and SFO, as well as neighborhoods like the Financial District in [&#8230;] The post Why we stopped making land appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-07T17:57:23.000Z",
+      "articleId": "870678ab74bca328"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-576",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-576.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Survey of AI security issues for USG and potential responses. 2. Vacancy tax elasticity of resident supply. 3. Will Substack save philosophy? 4. AI firms hiring philosophers (NYT). 5. Podcast with Jonathan Ross. 6. Some reasons why doctors will not give you probabilities, of course those are not the only reasons. 7. Pending AI [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-07T15:55:56.000Z",
+      "articleId": "156bbd8cd0970e9a"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/supergroups-an-album-a-day",
       "title": "Supergroups: An Album a Day",
@@ -292,17 +314,6 @@
       "articleId": "01fc29b47685676a"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-568",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The pending evolution of Chile&#8217;s school age population. 2. Markets in everything those new service sector jobs. 3. Survey on the economics of caste. 4. J.D. Vance on Milton Friedman. And Mamdani on Hayek. 5. &#8220;Firms that adopt AI heavily grow headcount 10% over two years following adoption.&#8221; 6. Browse all Criterion films. 7. [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-04T16:11:49.000Z",
-      "articleId": "130525d189f7eaf8"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-070426",
       "title": "Reading List 07/04/26",
       "url": "https://www.construction-physics.com/p/reading-list-070426",
@@ -334,17 +345,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-07-04T09:01:21.000Z",
       "articleId": "27dccd3c82cd7aac"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/america-the-beautiful.html?utm_source=rss&utm_medium=rss&utm_campaign=america-the-beautiful",
-      "title": "America the Beautiful, 250 years!",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/america-the-beautiful.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The post America the Beautiful, 250 years! appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-04T04:04:50.000Z",
-      "articleId": "cf4ba9d36676ff44"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/happy-independence-day-weekend",
@@ -1591,10 +1591,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
