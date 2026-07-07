@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T05:04:36.288Z",
-  "fetchedAt": "2026-07-07T05:04:36.283Z",
+  "generatedAt": "2026-07-07T08:38:47.387Z",
+  "fetchedAt": "2026-07-07T08:38:47.382Z",
   "sourceCount": 21,
   "itemCount": 141,
   "totalItemCount": 755,
@@ -655,17 +655,6 @@
       "articleId": "4241487a7d9d386e"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/summer-break-week-of-june-29/",
-      "title": "Summer Break: Week of June 29",
-      "url": "https://stratechery.com/2026/summer-break-week-of-june-29/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Tuesday, July 7. Dithering, Sharp Tech, and Sharp China will also return the week of July 6. Greatest of All Talk and Asianometry will continue to publish. The full Stratechery posting schedule is here.",
-      "publishedAt": "2026-06-29T10:00:00.000Z",
-      "articleId": "a0b20c9d7df62980"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/will-ai-make-companies-outsource",
       "title": "Will AI make companies outsource more, or less?",
       "url": "https://www.noahpinion.blog/p/will-ai-make-companies-outsource",
@@ -1271,6 +1260,17 @@
       "articleId": "bfe111bddf3bdbb7"
     },
     {
+      "id": "Stratechery:https://stratechery.com/2026/anthropics-safety-superpower/",
+      "title": "Anthropic’s Safety Superpower",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+      "publishedAt": "2026-06-15T10:00:00.000Z",
+      "articleId": "1ec498fc7b2df08b"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/will-china-inc-be-zombified",
       "title": "Will China, Inc. be zombified?",
       "url": "https://www.noahpinion.blog/p/will-china-inc-be-zombified",
@@ -1572,7 +1572,7 @@
       "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
