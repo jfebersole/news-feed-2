@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-07T18:16:00.068Z",
-  "fetchedAt": "2026-07-07T18:16:00.062Z",
+  "generatedAt": "2026-07-07T20:56:21.115Z",
+  "fetchedAt": "2026-07-07T20:56:21.110Z",
   "sourceCount": 21,
   "itemCount": 143,
-  "totalItemCount": 756,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ip1yj6eukisstq82gn18.html",
+      "title": "Money Stuff: Index Traders Had a Good Month",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ip1yj6eukisstq82gn18.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Rebalance, Strategy, AI-to-EA. View in browser Good pods On Wednesday, 109.3 million shares of SpaceX traded on the stock market; of those, about 5.4 million were traded in the Nasdaq closing auction at 4 p.m. that set the closing price for the day ($157.54). [1] On Thursday, before the holiday, 61.3 million shares traded, 2.6 million of them in the closing auction; the stock closed at $162. Yesterday, 188.8 million shares traded, 74.9 million of them in the closing auction. The closing price was $160.42, down about 1% from Thursday; the broad market was up. SpaceX was down some more this morning. Why was yesterday’s closing auction an order of magnitude bigger than it usually is? This is not a great mystery. The Wall Street Journal reported yesterday : SpaceX will officially join the Nasdaq-100 on Tuesday, and investors holding some funds tied to the index will end up exposed whether they like it or not. Mutual and exchange-traded funds with a collective $800 billion in assets under management that track Nasdaq’s flagship tech index, including the popular Invesco QQQ ETF, are set to buy SpaceX shares at Monday’s closing price in order to mirror the index’s performance. That comes after Elon Musk’s artificial-intelligence and-rocket-making company was fast-tracked into the Nasdaq-100 under new rules that aim to include newly public megacap companies sooner. Index funds that want to mirror the performance of the Nasdaq 100 essentially had to buy SpaceX at yesterday’s closing price, since as of today the index includes SpaceX’s performance. “Bloomberg Intelligence analyst Rob Du Boff estimated that SpaceX’s inclusion in the Nasdaq 100 and FTSE Russell gauges would drive at least $5.4 billion in buying from index-tracking funds,” most of that from the Nasdaq 100. If you figure there was about $5 billion of index fund demand yesterday, that explains about 31.2 million of the 74.9 million shares that were purchased in the closing auction. What about the rest? Well, it was a big day for SpaceX generally; the banks who ran its initial public offering initiated (bullish) research coverage yesterday. (That happened after the close, but was anticipated; maybe people were buying in anticipation of it.) Also, though, here is a 2024 paper by Alex Chinco and Marco Sammon titled “ The Passive Ownership Share Is Double What You Think It Is ,” which pretty much says that [2] : While index funds held 16% of the US stock market in 2021, we put the overall passive ownership share at 33.5%. Our headline number is twice as large because it reflects index funds as well as other kinds of passive investors, such as institutional investors with internally managed index portfolios and active managers who are closet indexing. If you are an investor who benchmarks...",
+      "publishedAt": "2026-07-07T18:33:55.212Z",
+      "articleId": "2312eddb93465dfa"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-we-stopped-making-land.html?utm_source=rss&utm_medium=rss&utm_campaign=why-we-stopped-making-land",
       "title": "Why we stopped making land",
@@ -831,17 +842,6 @@
       "articleId": "022c6b37e08abf27"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o3toeoedzvs2ojrq2x8d.html",
-      "title": "Money Stuff: There’s a SpaceX Treasury Company",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o3toeoedzvs2ojrq2x8d.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff SPV^3, AI, BDCs, SpaceTesla, lint. View in browser SpaceX treasury company No no no no no, the time to do this was a year ago: Triller Group Inc (Nasdaq: ILLR; ILLRW) (“Triller” or the “Company”) today announced that it has entered into definitive agreements to acquire a significant position providing economic exposure to SpaceX (Nasdaq: SPCX), to be held as a strategic treasury asset on the Company’s balance sheet. The Company is acquiring the position — held through an established fund structure — through a wholly-owned special-purpose subsidiary, financed through a secured financing arrangement. The position was established well ahead of SpaceX’s public listing and is being acquired at a meaningful discount to its current market value. “This is a transformational step for our Company,” said Wing-Fai Ng, Group Chief Executive Officer. “SpaceX is one of the most extraordinary companies of our generation, and we are securing meaningful exposure to it at a compelling entry point and placing it at the very heart of our balance sheet. We believe this fundamentally changes how investors should look at Triller, and we are proud to give our shareholders a stake in that story.” The transaction establishes a dedicated SpaceX treasury position and positions Triller as one of the only Nasdaq-listed companies with disclosed, balance-sheet SpaceX exposure. The financing is secured by the underlying position, and the Company retains a portion of the position as treasury for the benefit of its shareholders. When I say “the time to do this was a year ago,” I mean two things. First of all, a year ago, the “_____ treasury company” trade was hot. Mostly it was the “digital asset treasury company,” or DAT: A company would acquire a pot of crypto (say, $500 million of Bitcoin or Ether or Solana or whatever), and investors would get so excited that its stock would go up and it would be worth $1 billion. “The US public stock market will pay $2 or more for $1 worth of crypto,” as I put it , and a lot of companies noticed. There were many, many DATs , and the idea expanded beyond crypto. There was a gold treasury company , and a GameStop one . [1] That trade is stone dead now ; lots of DATs now trade below their net asset value, and investors have lost a lot of money . Second, a year ago, the “pay a huge premium for exposure to SpaceX stock” trade was also hot. SpaceX was a private company, ordinary investors could not easily get their hands on shares, and they wanted to. There were all sorts of people peddling all sorts of ways — closed-end funds , special-purpose vehicles , forward contracts , tokenization , EchoStar — to get exposure to SpaceX stock, and the going rate for that exposure really was a 50% or 100% premium to the stock price. But now SpaceX is...",
-      "publishedAt": "2026-06-25T17:40:35.597Z",
-      "articleId": "c0e72049582dbbd6"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/adapt-or-die-how-country-took-raps",
       "title": "Adapt or Die: How Country Took Rap’s Place Atop The Charts",
       "url": "https://www.cantgetmuchhigher.com/p/adapt-or-die-how-country-took-raps",
@@ -1591,10 +1591,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
