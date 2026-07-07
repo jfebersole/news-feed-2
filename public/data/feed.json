@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-07T00:18:00.477Z",
-  "fetchedAt": "2026-07-07T00:18:00.473Z",
+  "generatedAt": "2026-07-07T05:04:36.288Z",
+  "fetchedAt": "2026-07-07T05:04:36.283Z",
   "sourceCount": 21,
   "itemCount": 141,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wiesbaden-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=wiesbaden-notes",
+      "title": "Wiesbaden notes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wiesbaden-notes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Who goes to Wiesbaden these days? The era of Russian nobles taking the cure here and gambling is long since gone. And yet here we are. The proximate cause of this trip is the desire to see Grigory Sokolov, one of the world&#8217;s great pianists and a cult figure of sorts. He rarely tours North [&#8230;] The post Wiesbaden notes appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-07T04:41:11.000Z",
+      "articleId": "3fa15d876e8ca251"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/more-talent-and-one-big-fifa-reversal",
+      "title": "More Talent — and One Big FIFA Reversal — Still Bought the USMNT the Same Old Result",
+      "url": "https://neilpaine.substack.com/p/more-talent-and-one-big-fifa-reversal",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Despite higher expectations than ever, the Stars and Stripes bowed out in the Round of 16 like always.",
+      "publishedAt": "2026-07-07T01:59:33.000Z",
+      "articleId": "0f76b7d5a9c5a005"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/where-key-battleground-races-stand",
       "title": "Where key battleground races stand four months before the midterm elections",
@@ -303,17 +325,6 @@
       "articleId": "636bb9d29fe42f2d"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html?utm_source=rss&utm_medium=rss&utm_campaign=do-falling-birth-rates-boost-per-capita-income",
-      "title": "Do falling birth rates boost per capita income?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across [&#8230;] The post Do falling birth rates boost per capita income? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-03T17:23:44.000Z",
-      "articleId": "b8981f97abc4eee5"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
       "title": "The Fall and Rise of Screwworm",
       "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
@@ -433,17 +444,6 @@
       "summary": "Is it true that &#8220;Muslims&#8221; &#8212; or anyone else &#8212; &#8220;shouldn&#8217;t have to assimilate to belong&#8221;?",
       "publishedAt": "2026-07-02T09:00:53.000Z",
       "articleId": "84472454225e3bb8"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-bicentennial-summer-that-made",
-      "title": "The Bicentennial Summer That Made Modern Sports",
-      "url": "https://neilpaine.substack.com/p/the-bicentennial-summer-that-made",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "America spent 1976 looking backward. But beneath all the red, white and blue pageantry, sports were changing in ways that would define the next half-century.",
-      "publishedAt": "2026-07-02T09:00:12.000Z",
-      "articleId": "a927c5d9b1d7504d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/congress-waits-cities-experiment",
@@ -1569,10 +1569,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
