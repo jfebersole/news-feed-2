@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T20:56:21.115Z",
-  "fetchedAt": "2026-07-07T20:56:21.110Z",
+  "generatedAt": "2026-07-07T22:20:36.318Z",
+  "fetchedAt": "2026-07-07T22:20:36.314Z",
   "sourceCount": 21,
-  "itemCount": 143,
-  "totalItemCount": 766,
+  "itemCount": 142,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ip1yj6eukisstq82gn18.html",
@@ -798,17 +798,6 @@
       "articleId": "510e62ae79f0dc8b"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-paradoxes-of-populism",
-      "title": "The paradoxes of populism",
-      "url": "https://www.slowboring.com/p/the-paradoxes-of-populism",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus nuclear cargo ships, the ROAD to Housing Act, and when results matter",
-      "publishedAt": "2026-06-26T10:02:14.000Z",
-      "articleId": "a6e992b6280d3501"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
       "title": "The Democrats have their own MAGA now",
       "url": "https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
@@ -1591,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1672,7 +1661,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1719,18 +1708,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
