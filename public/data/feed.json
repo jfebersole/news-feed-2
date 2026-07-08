@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-08T21:20:42.789Z",
-  "fetchedAt": "2026-07-08T21:20:42.783Z",
+  "generatedAt": "2026-07-08T23:21:57.085Z",
+  "fetchedAt": "2026-07-08T23:21:57.079Z",
   "sourceCount": 21,
   "itemCount": 141,
-  "totalItemCount": 764,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/upzoned-overbid-under-construction",
+      "title": "Upzoned, overbid, under construction",
+      "url": "https://www.slowboring.com/p/upzoned-overbid-under-construction",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Congress, California, Chicago, and a collapsing office conversion made for a busy housing week.",
+      "publishedAt": "2026-07-08T22:01:16.000Z",
+      "articleId": "1dd5ee68784b66d1"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html?utm_source=rss&utm_medium=rss&utm_campaign=just-wondering-what-the-correct-model-of-iran-is-here",
       "title": "Just wondering what the correct model of Iran is here",
@@ -1544,17 +1555,6 @@
       "summary": "Featuring Paul McCartney, Wendy Eisenberg, Violet Grohl, and others",
       "publishedAt": "2026-06-09T13:30:37.000Z",
       "articleId": "8ca5faaf90c2b9e5"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/berkeley-meetup-this-wednesday-77b",
-      "title": "Berkeley Meetup This Wednesday",
-      "url": "https://www.astralcodexten.com/p/berkeley-meetup-this-wednesday-77b",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-08T23:12:38.000Z",
-      "articleId": "e62539f8322443e2"
     }
   ],
   "sources": [
@@ -1650,7 +1650,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
