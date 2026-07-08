@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-08T10:29:44.866Z",
-  "fetchedAt": "2026-07-08T10:29:44.857Z",
+  "generatedAt": "2026-07-08T12:49:12.704Z",
+  "fetchedAt": "2026-07-08T12:49:12.699Z",
   "sourceCount": 21,
   "itemCount": 142,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-to-watch-and-not.html?utm_source=rss&utm_medium=rss&utm_campaign=what-to-watch-and-not",
+      "title": "What to Watch and Not",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-to-watch-and-not.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Spider Noir (Prime): I&#8217;ve had enough of the Marvel multiverse so I was worried about Spider-Noir. The writers, however, have written an excellent noir in the style of Raymond Chandler with Nicholas Cage channeling Humphrey Bogart. The Spiderman stuff is all there but it is appropriately embedded. There are some excellent lines. Most notably an [&#8230;] The post What to Watch and Not appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-08T11:20:32.000Z",
+      "articleId": "743889adef3c471c"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-resistances-favorite-poker-metaphor",
       "title": "The Resistance’s favorite poker metaphor makes no sense",
@@ -356,17 +367,6 @@
       "summary": "The proxy battles we got instead have not settled questions we have to settle.",
       "publishedAt": "2026-07-05T13:49:29.000Z",
       "articleId": "67adeece8b61b344"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-michael-moritz",
-      "title": "What should I ask Michael Moritz?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with him, based around his new book Ausländer: One Family&#8217;s Story of Escape and Exile. Mike of course was a pioneering venture capitalist through Sequoia, and before that had a distinguished career as a journalist, which included books on Chrysler, Apple (the first such book I believe?), and soccer [&#8230;] The post What should I ask Michael Moritz? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-05T07:04:40.000Z",
-      "articleId": "60ad3a5ef75722e0"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-070426",
@@ -1580,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
