@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-08T17:49:47.028Z",
-  "fetchedAt": "2026-07-08T17:49:47.024Z",
+  "generatedAt": "2026-07-08T19:51:32.998Z",
+  "fetchedAt": "2026-07-08T19:51:32.993Z",
   "sourceCount": 21,
   "itemCount": 141,
   "totalItemCount": 764,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html?utm_source=rss&utm_medium=rss&utm_campaign=just-wondering-what-the-correct-model-of-iran-is-here",
+      "title": "Just wondering what the correct model of Iran is here",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Prior to the war, I linked to a tweet from Matt Yglesias which explained why Matt opposed the war, and I expressed my agreement with his stance. While I feel plenty has gone on which I do not observe, I can report that the course of the war did not change my initial assessment. Then [&#8230;] The post Just wondering what the correct model of Iran is here appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-08T17:58:31.000Z",
+      "articleId": "744abebc90a428d5"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/d496t9zxm5tksnkc373n.html",
       "title": "Money Stuff: GameStop Has Enough Stock Now",
@@ -345,17 +356,6 @@
       "summary": "I will not double indent, all of what follows is from economic historian Daniel Gallardo Albarrán of the Netherlands: &#8220;&#8230;you posted a link to an article on how Europe became the world champion of heat deaths. Something that the article did not cover, which I find particularly outrageous is that Europe used to be at the forefront of [&#8230;] The post The history of heat deaths in Europe (from my email) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-06T05:12:29.000Z",
       "articleId": "e2f5e1bf30a575bf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-makes-a-great-composer-a-data-driven-exploration-of-music-history.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-a-great-composer-a-data-driven-exploration-of-music-history",
-      "title": "*What Makes a Great Composer?: A Data-Driven Exploration of Music History*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-makes-a-great-composer-a-data-driven-exploration-of-music-history.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A very good book, forthcoming, by Karol J. Borowiecki and Marc Lawx, here is the Amazon link, here is the Princeton University Press page. The post *What Makes a Great Composer?: A Data-Driven Exploration of Music History* appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-05T18:02:06.000Z",
-      "articleId": "87be029d67245c6a"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/kakistocracy",
@@ -1697,10 +1697,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
