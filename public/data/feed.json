@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-09T12:14:07.779Z",
-  "fetchedAt": "2026-07-09T12:14:07.774Z",
+  "generatedAt": "2026-07-09T16:08:18.882Z",
+  "fetchedAt": "2026-07-09T16:08:18.877Z",
   "sourceCount": 21,
-  "itemCount": 145,
+  "itemCount": 144,
   "totalItemCount": 766,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
+      "title": "Is America’s MAGA Wing Giving Up on America?",
+      "url": "https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The right’s birthright meltdown is in full effect.",
+      "publishedAt": "2026-07-09T15:33:18.000Z",
+      "articleId": "30f004cd1dd1c596"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/land-reclamation.html?utm_source=rss&utm_medium=rss&utm_campaign=land-reclamation",
       "title": "Land Reclamation!",
@@ -48,17 +59,6 @@
       "summary": "The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "articleId": "e9717fb151f9a02b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
-      "title": "Is America’s MAGA Wing Giving Up on America?",
-      "url": "https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The right’s birthright meltdown is in full effect.",
-      "publishedAt": "2026-07-09T09:04:02.000Z",
-      "articleId": "30f004cd1dd1c596"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/jane-jacobss-urbanism-without-economics",
@@ -1588,17 +1588,6 @@
       "summary": "Claude Fable represents another big jump in AI",
       "publishedAt": "2026-06-09T17:11:22.000Z",
       "articleId": "a4aa2e5dc2a76566"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/this-year-an-album-a-day",
-      "title": "This Year: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/this-year-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Paul McCartney, Wendy Eisenberg, Violet Grohl, and others",
-      "publishedAt": "2026-06-09T13:30:37.000Z",
-      "articleId": "8ca5faaf90c2b9e5"
     }
   ],
   "sources": [
