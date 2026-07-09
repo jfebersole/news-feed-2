@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T23:21:57.085Z",
-  "fetchedAt": "2026-07-08T23:21:57.079Z",
+  "generatedAt": "2026-07-09T04:09:28.154Z",
+  "fetchedAt": "2026-07-09T04:09:28.149Z",
   "sourceCount": 21,
-  "itemCount": 141,
-  "totalItemCount": 765,
+  "itemCount": 142,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/upzoned-overbid-under-construction",
@@ -15,6 +15,17 @@
       "summary": "Congress, California, Chicago, and a collapsing office conversion made for a busy housing week.",
       "publishedAt": "2026-07-08T22:01:16.000Z",
       "articleId": "1dd5ee68784b66d1"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-world-cups-party-crashers-make",
+      "title": "The World Cup's Party-Crashers Make Their Last Stand",
+      "url": "https://neilpaine.substack.com/p/the-world-cups-party-crashers-make",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The greatest Final Four in World Cup history is within reach — and France, Argentina, Spain and England should each win. But the odds say at least one of them probably won't.",
+      "publishedAt": "2026-07-08T18:40:30.000Z",
+      "articleId": "523e83606c258af1"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html?utm_source=rss&utm_medium=rss&utm_campaign=just-wondering-what-the-correct-model-of-iran-is-here",
@@ -1634,7 +1645,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
