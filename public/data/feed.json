@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-09T20:54:29.038Z",
-  "fetchedAt": "2026-07-09T20:54:29.033Z",
+  "generatedAt": "2026-07-09T22:41:57.359Z",
+  "fetchedAt": "2026-07-09T22:41:57.354Z",
   "sourceCount": 21,
-  "itemCount": 144,
-  "totalItemCount": 766,
+  "itemCount": 143,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
@@ -785,17 +785,6 @@
       "summary": "The good, the bad, and the merely wasteful",
       "publishedAt": "2026-06-30T10:02:47.000Z",
       "articleId": "f930f1d4438f5ddc"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
-      "title": "New York’s insurgent left sent ripples across America",
-      "url": "https://www.slowboring.com/p/new-yorks-insurgent-left-sent-ripples",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "How big is the Mamdani tsunami?",
-      "publishedAt": "2026-06-29T22:02:04.000Z",
-      "articleId": "0b136547cca1a0fe"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/7-charts-that-show-why-you-should",
@@ -1683,7 +1672,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
