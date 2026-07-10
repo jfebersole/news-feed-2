@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-07-10T14:50:46.498Z",
-  "fetchedAt": "2026-07-10T14:50:46.494Z",
+  "generatedAt": "2026-07-10T17:05:45.478Z",
+  "fetchedAt": "2026-07-10T17:05:45.472Z",
   "sourceCount": 21,
-  "itemCount": 143,
-  "totalItemCount": 766,
+  "itemCount": 146,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/xbox-on-the-rocks/",
+      "title": "2026.28: XBOX On the Rocks",
+      "url": "https://stratechery.com/2026/xbox-on-the-rocks/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
+      "publishedAt": "2026-07-10T17:00:00.000Z",
+      "articleId": "8fc35a37726b378d"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/terraforming-earth",
+      "title": "Terraforming Earth",
+      "url": "https://www.worksinprogress.news/p/terraforming-earth",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Large swaths of America&#8217;s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.",
+      "publishedAt": "2026-07-10T16:08:48.000Z",
+      "articleId": "bf0fd8488ce89a97"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-580",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-580.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. On Jewish culture. 2. How much have the top last names changed since 1790? 3. Bernanke appointed to the Long-Term Benefit Trust of Anthropic. 4. The India 1991 Fellowship is going great. 5. UK Dynamism Fund. 6. Peter Gray on phones and social media. 7. The new Richard Hanania book is out. 8. Warsh [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-10T16:02:09.000Z",
+      "articleId": "2f67173353917a5a"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ig2zbqvpyayi5o9ac7ny.html",
+      "title": "Money Stuff: Sports Gambling ETF",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ig2zbqvpyayi5o9ac7ny.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Sports gambling ETF, Edgar, AI pivot. View in browser Programming note: This is a somewhat special edition of Money Stuff, because sports gambling ETF. Also this week’s episode of the Money Stuff podcast is out now, in which Katie and I discuss no-Elon ETFs, index rebalancing and egg Libor. You can listen to it here . Sports gambling ETF Sports gambling ETF : The Subversive All Season Sports ETF … is an actively managed exchange-traded fund (“ETF”) that seeks to provide capital appreciation through exposure to a portfolio of derivative instruments known as “event contracts” across a variety of sporting events. … The Fund seeks to mitigate the risk of loss on exposure to any individual event contract by holding a portfolio with exposure to approximately 40 to 80 different event contracts across the sports events noted above. The Fund will hold exposure to event contracts that are based on the aggregate outcomes of the sporting events only (i.e., final scores of games, point differentials, win-loss records, tournament advancement and team or individual statistical performance compiled over an entire game or season). Such event contracts will settle based on objective and verifiable settlement criteria and will be based on events that are coordinated by relevant sports governing bodies. The Adviser will allocate exposure based on its assessment of relative value and market-implied probabilities of certain outcomes and actively manages position sizing and allocation among the categories of event contracts noted above. That is a filing from Tidal Investments LLC and Subversive Capital, who are also responsible for the no-Elon-Musk index ETFs that we discussed yesterday . You give the sports ETF your money, and the ETF uses your money to make 40 to 80 sports bets. (The bets will be on “North American professional sports leagues,” “National Collegiate Athletic Association championships,” “international sporting events such as the World Cup or English Premier League,” and “other sporting events, such as individual golf or tennis championships, mixed martial arts fights or boxing matches.”) If it wins those bets, it uses the winnings to make more bets and you make money. If it loses the bets, you lose money. It is an ETF for making sports bets. [1] It will trade on the stock exchange, you can buy it from your stockbroker, and it will make sports bets. We have talked any number of times about my prediction that there would be a sports gambling ETF by March 2027, and here we are. The filing is not effective yet, and, as we have discussed , the SEC is still considering whether and how to allow sports gambling ETFs. This might never actually launch. But we remain ahead of schedule. When we discussed sports gambling structured notes a while back, I...",
+      "publishedAt": "2026-07-10T15:59:44.288Z",
+      "articleId": "dcd7915b523dfb41"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
+      "title": "MAGA's attack on science is even worse than it looks",
+      "url": "https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The engine that powered history's greatest nation is in danger.",
+      "publishedAt": "2026-07-10T15:23:02.000Z",
+      "articleId": "ef9c50428dfbf807"
+    },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/two-interviews-an-author-and-a-painter",
       "title": "Two Interviews: An Author and a Painter",
@@ -400,17 +455,6 @@
       "summary": "From Zigmund Forrest and Maxwell Tabarrok in Works in Progress: In total, around eight percent of the land in America’s major coastal cities was underwater in the 1890s and has since been reclaimed. This includes the land under several major airports, like Newark, Logan, and SFO, as well as neighborhoods like the Financial District in [&#8230;] The post Why we stopped making land appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-07T17:57:23.000Z",
       "articleId": "870678ab74bca328"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-576",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-576.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Survey of AI security issues for USG and potential responses. 2. Vacancy tax elasticity of resident supply. 3. Will Substack save philosophy? 4. AI firms hiring philosophers (NYT). 5. Podcast with Jonathan Ross. 6. Some reasons why doctors will not give you probabilities, of course those are not the only reasons. 7. Pending AI [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-07T15:55:56.000Z",
-      "articleId": "156bbd8cd0970e9a"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/supergroups-an-album-a-day",
@@ -1260,17 +1304,6 @@
       "articleId": "2d9e4f696cb00de7"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
-      "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
-      "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles.",
-      "publishedAt": "2026-06-18T10:00:00.000Z",
-      "articleId": "49be6de7fe6560f1"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/waiting-for-the-miracle",
       "title": "Waiting For The Miracle",
       "url": "https://www.astralcodexten.com/p/waiting-for-the-miracle",
@@ -1591,10 +1624,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1720,17 +1753,17 @@
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "mode": "rss",
-      "itemCount": 6,
+      "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
       "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
