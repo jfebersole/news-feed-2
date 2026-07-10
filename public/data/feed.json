@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T12:07:14.501Z",
-  "fetchedAt": "2026-07-10T12:07:14.496Z",
+  "generatedAt": "2026-07-10T14:50:46.498Z",
+  "fetchedAt": "2026-07-10T14:50:46.494Z",
   "sourceCount": 21,
-  "itemCount": 144,
+  "itemCount": 143,
   "totalItemCount": 766,
   "items": [
     {
@@ -1577,17 +1577,6 @@
       "summary": "But neither one is all that good.",
       "publishedAt": "2026-06-10T19:21:18.000Z",
       "articleId": "22484abe03d29d18"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-silent-revolutionaries",
-      "title": "The silent revolutionaries",
-      "url": "https://scottsumner.substack.com/p/the-silent-revolutionaries",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Babies don't create public policy",
-      "publishedAt": "2026-06-10T13:38:11.000Z",
-      "articleId": "0d7581fb6bcb3afb"
     }
   ],
   "sources": [
@@ -1738,10 +1727,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
