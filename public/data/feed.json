@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-07-10T08:38:05.884Z",
-  "fetchedAt": "2026-07-10T08:38:05.879Z",
+  "generatedAt": "2026-07-10T12:07:14.501Z",
+  "fetchedAt": "2026-07-10T12:07:14.496Z",
   "sourceCount": 21,
-  "itemCount": 142,
-  "totalItemCount": 755,
+  "itemCount": 144,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/two-interviews-an-author-and-a-painter",
+      "title": "Two Interviews: An Author and a Painter",
+      "url": "https://walkingtheworld.substack.com/p/two-interviews-an-author-and-a-painter",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "A book about baseball, and community, and a man who paints Japan",
+      "publishedAt": "2026-07-10T10:30:40.000Z",
+      "articleId": "e338add828fbf789"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/andrew-hall-is-on-a-roll.html?utm_source=rss&utm_medium=rss&utm_campaign=andrew-hall-is-on-a-roll",
+      "title": "Andrew Hall is on a roll",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/andrew-hall-is-on-a-roll.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "He is one of the new(ish) thinkers on the rise, here is his latest piece. Excerpt: For most of the past decade, anti-billionaire language was a niche product. Democratic emails invoked billionaires in the mid-single digits through 2017 and 2018, spiked briefly to around 14 percent during the Warren and Sanders primary surge in 2019, [&#8230;] The post Andrew Hall is on a roll appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-10T10:21:58.000Z",
+      "articleId": "6349d0d2b25cd32c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-promise-and-peril-of-an-abundance",
+      "title": "The promise and peril of an abundance faction",
+      "url": "https://www.slowboring.com/p/the-promise-and-peril-of-an-abundance",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus Platner, the Costco economy, and some inexplicable internet beefs",
+      "publishedAt": "2026-07-10T10:04:13.000Z",
+      "articleId": "b1dda09c6713b45b"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-worst-players-in-baseball-might",
+      "title": "The Worst Players in Baseball Might Be Pretty Good (Or They Used to Be, At Least)",
+      "url": "https://neilpaine.substack.com/p/the-worst-players-in-baseball-might",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Baseball's worst performers are not always the worst players. Sometimes they're just the ones with enough track record to be allowed to fail spectacularly.",
+      "publishedAt": "2026-07-10T09:02:46.000Z",
+      "articleId": "8efd40e856021191"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/redux-of-my-homers-odyssey-essay.html?utm_source=rss&utm_medium=rss&utm_campaign=redux-of-my-homers-odyssey-essay",
       "title": "Redux of my Homer’s Odyssey essay",
@@ -378,17 +422,6 @@
       "summary": "Featuring Audioslave, Traveling Wilburys, boygenius, and others",
       "publishedAt": "2026-07-07T13:31:46.000Z",
       "articleId": "ac9ff45371a64632"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/from-prediction-markets-to-decision-markets-and-beyond.html?utm_source=rss&utm_medium=rss&utm_campaign=from-prediction-markets-to-decision-markets-and-beyond",
-      "title": "From Prediction Markets to Decision Markets and Beyond!",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/from-prediction-markets-to-decision-markets-and-beyond.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Arin Dube points to a great illustration of the power of prediction markets. Yesterday due to a new scandal the probability that Graham Platner would drop out of the Maine Democratic primary exploded from 9% to 96% (+87 percentage points). At the same time, the probability that the Democrats would win the election jumped by [&#8230;] The post From Prediction Markets to Decision Markets and Beyond! appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-07T11:18:21.000Z",
-      "articleId": "a4ec818e5dce1edc"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/baltimores-incredible-crime-fighting",
@@ -774,17 +807,6 @@
       "summary": "Featuring Sleater-Kinney, The Raincoats, The Linda Lindas, and others",
       "publishedAt": "2026-06-30T13:31:33.000Z",
       "articleId": "14b8341e1a8a050f"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/trumps-weird-dc-specific-initiatives",
-      "title": "Trump’s weird D.C.-specific initiatives, ranked",
-      "url": "https://www.slowboring.com/p/trumps-weird-dc-specific-initiatives",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The good, the bad, and the merely wasteful",
-      "publishedAt": "2026-06-30T10:02:47.000Z",
-      "articleId": "f930f1d4438f5ddc"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/7-charts-that-show-why-you-should",
@@ -1580,10 +1602,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1645,7 +1667,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
