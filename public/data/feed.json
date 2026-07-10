@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T18:43:45.774Z",
-  "fetchedAt": "2026-07-10T18:43:45.767Z",
+  "generatedAt": "2026-07-10T20:40:02.033Z",
+  "fetchedAt": "2026-07-10T20:40:02.028Z",
   "sourceCount": 21,
-  "itemCount": 146,
+  "itemCount": 145,
   "totalItemCount": 766,
   "items": [
     {
@@ -1599,17 +1599,6 @@
       "summary": "We didn't evolve to live our lives as terminals of a digital hive-mind.",
       "publishedAt": "2026-06-11T07:38:27.000Z",
       "articleId": "1bbc1184f66b72ea"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/anthropic-has-caught-up-to-openai",
-      "title": "Anthropic has caught up to OpenAI in image understanding",
-      "url": "https://www.understandingai.org/p/anthropic-has-caught-up-to-openai",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "But neither one is all that good.",
-      "publishedAt": "2026-06-10T19:21:18.000Z",
-      "articleId": "22484abe03d29d18"
     }
   ],
   "sources": [
@@ -1752,10 +1741,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
