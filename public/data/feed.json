@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-10T17:05:45.478Z",
-  "fetchedAt": "2026-07-10T17:05:45.472Z",
+  "generatedAt": "2026-07-10T18:43:45.774Z",
+  "fetchedAt": "2026-07-10T18:43:45.767Z",
   "sourceCount": 21,
   "itemCount": 146,
-  "totalItemCount": 757,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-crushed-top-human",
+      "title": "An OpenAI model crushed top human programmers at a world coding competition",
+      "url": "https://www.understandingai.org/p/an-openai-model-crushed-top-human",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "But human programmers aren&#8217;t obsolete &#8212; at least not yet.",
+      "publishedAt": "2026-07-10T18:16:14.000Z",
+      "articleId": "5d07ea3f5f5d25bb"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/xbox-on-the-rocks/",
       "title": "2026.28: XBOX On the Rocks",
@@ -18,7 +29,7 @@
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/terraforming-earth",
-      "title": "Terraforming Earth",
+      "title": "Why San Francisco isn’t bigger",
       "url": "https://www.worksinprogress.news/p/terraforming-earth",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -488,17 +499,6 @@
       "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
       "publishedAt": "2026-07-07T10:00:00.000Z",
       "articleId": "87056ab842dd6289"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/more-talent-and-one-big-fifa-reversal",
-      "title": "More Talent — and One Big FIFA Reversal — Still Bought the USMNT the Same Old Result",
-      "url": "https://neilpaine.substack.com/p/more-talent-and-one-big-fifa-reversal",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Despite higher expectations than ever, the Stars and Stripes bowed out in the Round of 16 like always.",
-      "publishedAt": "2026-07-07T01:59:33.000Z",
-      "articleId": "0f76b7d5a9c5a005"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/where-key-battleground-races-stand",
@@ -1624,10 +1624,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1689,7 +1689,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1752,10 +1752,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
