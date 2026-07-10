@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-10T05:05:27.538Z",
-  "fetchedAt": "2026-07-10T05:05:27.533Z",
+  "generatedAt": "2026-07-10T08:38:05.884Z",
+  "fetchedAt": "2026-07-10T08:38:05.879Z",
   "sourceCount": 21,
-  "itemCount": 143,
-  "totalItemCount": 765,
+  "itemCount": 142,
+  "totalItemCount": 755,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/redux-of-my-homers-odyssey-essay.html?utm_source=rss&utm_medium=rss&utm_campaign=redux-of-my-homers-odyssey-essay",
+      "title": "Redux of my Homer’s Odyssey essay",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/redux-of-my-homers-odyssey-essay.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "On EconLib, you will find all three parts here, in reverse order. The post Redux of my Homer&#8217;s Odyssey essay appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-10T06:59:51.000Z",
+      "articleId": "6c8d4e7fcb77ec83"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/my-conversation-with-the-excellent-joel-mokyr.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-the-excellent-joel-mokyr",
       "title": "My Conversation with the excellent Joel Mokyr",
@@ -133,7 +144,7 @@
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/",
       "access": "paywalled",
-      "summary": "The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
+      "summary": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "articleId": "e9717fb151f9a02b"
     },
@@ -400,17 +411,6 @@
       "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
       "publishedAt": "2026-07-07T10:00:00.000Z",
       "articleId": "87056ab842dd6289"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-liaquat-ahamed.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-liaquat-ahamed",
-      "title": "What should I ask Liaquat Ahamed?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-liaquat-ahamed.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with him. From Wikipedia: Ahamed is the author of Lords of Finance: The Bankers Who Broke the World (2009). The book was awarded the 2010 Pulitzer Prize for History, the 2010 Spear&#8217;s Book Award (Financial History Book of the Year), the 2010 Arthur Ross Book Award Gold Medal, the 2009 Financial Times and Goldman Sachs Business Book [&#8230;] The post What should I ask Liaquat Ahamed? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-07T09:58:11.000Z",
-      "articleId": "3840634bf5524007"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/more-talent-and-one-big-fifa-reversal",
@@ -1566,17 +1566,6 @@
       "summary": "Babies don't create public policy",
       "publishedAt": "2026-06-10T13:38:11.000Z",
       "articleId": "0d7581fb6bcb3afb"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of",
-      "title": "Insurers aren't the main villain of the U.S. health care system",
-      "url": "https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A repost from the Noahpinion archive.",
-      "publishedAt": "2026-06-10T07:10:26.000Z",
-      "articleId": "f2216af8d2030bc7"
     }
   ],
   "sources": [
@@ -1591,10 +1580,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
