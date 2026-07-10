@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-10T20:40:02.033Z",
-  "fetchedAt": "2026-07-10T20:40:02.028Z",
+  "generatedAt": "2026-07-10T22:13:39.613Z",
+  "fetchedAt": "2026-07-10T22:13:39.608Z",
   "sourceCount": 21,
-  "itemCount": 145,
-  "totalItemCount": 766,
+  "itemCount": 146,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-party-cant-fire-you",
+      "title": "The party can’t fire you",
+      "url": "https://www.slowboring.com/p/the-party-cant-fire-you",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Considering controversy and the consequences of stubbornness in Senate races",
+      "publishedAt": "2026-07-10T22:00:33.000Z",
+      "articleId": "341182e9295c7d38"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-crushed-top-human",
       "title": "An OpenAI model crushed top human programmers at a world coding competition",
@@ -1613,10 +1624,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
@@ -1694,7 +1705,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
