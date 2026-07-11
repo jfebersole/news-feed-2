@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T22:03:34.541Z",
-  "fetchedAt": "2026-07-11T22:03:34.537Z",
+  "generatedAt": "2026-07-11T23:07:04.655Z",
+  "fetchedAt": "2026-07-11T23:07:04.650Z",
   "sourceCount": 21,
-  "itemCount": 139,
+  "itemCount": 138,
   "totalItemCount": 767,
   "items": [
     {
@@ -1522,17 +1522,6 @@
       "summary": "Nabers’ return is critical because the wide receiver room is full of parts that could complement him, but is uninspiring in his absence.",
       "publishedAt": "2026-06-12T09:00:56.000Z",
       "articleId": "237f877f139d8b4d"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/anthropics-fable-is-the-most-locked",
-      "title": "Anthropic’s Fable is the most locked-down public model we’ve ever seen",
-      "url": "https://www.understandingai.org/p/anthropics-fable-is-the-most-locked",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "How Anthropic decides which questions are too dangerous for Claude to answer.",
-      "publishedAt": "2026-06-11T22:50:11.000Z",
-      "articleId": "4354e55b097d601f"
     }
   ],
   "sources": [
