@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-10T22:13:39.613Z",
-  "fetchedAt": "2026-07-10T22:13:39.608Z",
+  "generatedAt": "2026-07-11T00:07:19.001Z",
+  "fetchedAt": "2026-07-11T00:07:18.997Z",
   "sourceCount": 21,
   "itemCount": 146,
-  "totalItemCount": 757,
+  "totalItemCount": 767,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-party-cant-fire-you",
@@ -1624,10 +1624,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
