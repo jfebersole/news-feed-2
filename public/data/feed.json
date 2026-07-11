@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T19:21:54.035Z",
-  "fetchedAt": "2026-07-11T19:21:54.030Z",
+  "generatedAt": "2026-07-11T21:02:02.314Z",
+  "fetchedAt": "2026-07-11T21:02:02.309Z",
   "sourceCount": 21,
-  "itemCount": 141,
+  "itemCount": 139,
   "totalItemCount": 767,
   "items": [
     {
@@ -1533,28 +1533,6 @@
       "summary": "How Anthropic decides which questions are too dangerous for Claude to answer.",
       "publishedAt": "2026-06-11T22:50:11.000Z",
       "articleId": "4354e55b097d601f"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/my-ai-opinions",
-      "title": "My AI Opinions",
-      "url": "https://www.astralcodexten.com/p/my-ai-opinions",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-11T20:50:39.000Z",
-      "articleId": "a7b9fde853276d95"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/las-vegas-and-a-mcdonalds-convention",
-      "title": "Las Vegas and a McDonald's Convention",
-      "url": "https://walkingtheworld.substack.com/p/las-vegas-and-a-mcdonalds-convention",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Sheltering from the sun, hedonism, and emptiness at McDonald's Worldwide 2026",
-      "publishedAt": "2026-06-11T19:30:46.000Z",
-      "articleId": "619e69095b0e55ec"
     }
   ],
   "sources": [
