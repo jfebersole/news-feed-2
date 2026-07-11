@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T10:23:27.968Z",
-  "fetchedAt": "2026-07-11T10:23:27.964Z",
+  "generatedAt": "2026-07-11T12:01:46.947Z",
+  "fetchedAt": "2026-07-11T12:01:46.942Z",
   "sourceCount": 21,
-  "itemCount": 146,
+  "itemCount": 144,
   "totalItemCount": 768,
   "items": [
     {
@@ -1588,28 +1588,6 @@
       "summary": "The solution to Trumpism isn’t to conform to the spirit of the age, but to transform it.",
       "publishedAt": "2026-06-11T14:13:30.000Z",
       "articleId": "b897b08cb5124ec8"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/biological-evolution-and-information",
-      "title": "Biological Evolution and Information Acquisition",
-      "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A few weeks ago we looked at a simulation of technological evolution by economist Brian Arthur, in which he was able to start with simple building blocks (such as a NAND gate) and evolve surprisingly complex circuits (such as a 12-way AND gate or a 4-bit adder) by randomly combining increasingly useful existing components.",
-      "publishedAt": "2026-06-11T12:01:31.000Z",
-      "articleId": "b04f32a9c91d8a27"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/how-the-squamish-struck-gold-in-vancouver",
-      "title": "How the Squamish built Senakw",
-      "url": "https://www.worksinprogress.news/p/how-the-squamish-struck-gold-in-vancouver",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Just beyond central Vancouver, the Squamish Nation is building one of the most ambitious and unusual housing developments in the world, and getting rich in the process. How they did it has lessons for",
-      "publishedAt": "2026-06-11T11:16:37.000Z",
-      "articleId": "9bfa43f7dfcc3e8c"
     }
   ],
   "sources": [
@@ -1760,10 +1738,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
