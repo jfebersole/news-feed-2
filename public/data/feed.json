@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-11T08:56:55.185Z",
-  "fetchedAt": "2026-07-11T08:56:55.181Z",
+  "generatedAt": "2026-07-11T10:23:27.968Z",
+  "fetchedAt": "2026-07-11T10:23:27.964Z",
   "sourceCount": 21,
-  "itemCount": 145,
-  "totalItemCount": 767,
+  "itemCount": 146,
+  "totalItemCount": 768,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-6-10-2026",
+      "title": "The Week That Was (July 6-10, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-6-10-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-07-11T09:01:42.000Z",
+      "articleId": "04b61eefd41e5b22"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=winston-marshall-podcasts-with-me-on-ai",
       "title": "Winston Marshall podcasts with me on AI",
@@ -1678,7 +1689,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1749,10 +1760,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
