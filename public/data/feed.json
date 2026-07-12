@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-12T11:22:40.460Z",
-  "fetchedAt": "2026-07-12T11:22:40.455Z",
+  "generatedAt": "2026-07-12T13:50:41.707Z",
+  "fetchedAt": "2026-07-12T13:50:41.703Z",
   "sourceCount": 21,
-  "itemCount": 140,
+  "itemCount": 139,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+      "title": "Trump’s Corruption Stains, From Texas to Maine",
+      "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Something is wrong if vice is all them and virtue is all you.",
+      "publishedAt": "2026-07-12T13:15:55.000Z",
+      "articleId": "6bcbf5f4cfe4a875"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html?utm_source=rss&utm_medium=rss&utm_campaign=the-trump-administrations-threat-to-scientific-research",
       "title": "The Trump Administration’s Threat to Scientific Research",
@@ -15,17 +26,6 @@
       "summary": "In The Nationalization of American Science I warned that the Trump administration&#8217;s rewriting of the seemingly mundane Regulation for Federal Financial Assistance was a tremendous threat to America&#8217;s historically successful decentralized system of science funding. Many others are now sounding the alarm. It&#8217;s not surprising that organizations like the AAAS oppose the rule, albeit with unusually [&#8230;] The post The Trump Administration&#8217;s Threat to Scientific Research appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-12T11:18:43.000Z",
       "articleId": "5641602125936550"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
-      "title": "Trump’s Corruption Stains, From Texas to Maine",
-      "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Something is wrong if vice is all them and virtue is all you.",
-      "publishedAt": "2026-07-12T10:00:32.000Z",
-      "articleId": "6bcbf5f4cfe4a875"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
@@ -1533,17 +1533,6 @@
       "summary": "Why Europe must grow.",
       "publishedAt": "2026-06-13T08:25:32.000Z",
       "articleId": "26992d85e247d6e9"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-june-2026",
-      "title": "What’s new in biology: June 2026",
-      "url": "https://www.worksinprogress.news/p/whats-new-in-biology-june-2026",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The most effective weight-loss drug so far, cancer breakthroughs, gene editing for cholesterol, ancestral CRISPR systems, and more.",
-      "publishedAt": "2026-06-12T13:02:51.000Z",
-      "articleId": "ab17b0cd0e7fa696"
     }
   ],
   "sources": [
@@ -1694,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
