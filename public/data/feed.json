@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T13:50:41.707Z",
-  "fetchedAt": "2026-07-12T13:50:41.703Z",
+  "generatedAt": "2026-07-12T15:11:17.975Z",
+  "fetchedAt": "2026-07-12T15:11:17.970Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 767,
+  "totalItemCount": 757,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
@@ -1547,10 +1547,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
