@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-12T17:13:10.444Z",
-  "fetchedAt": "2026-07-12T17:13:10.439Z",
+  "generatedAt": "2026-07-12T19:20:59.658Z",
+  "fetchedAt": "2026-07-12T19:20:59.652Z",
   "sourceCount": 21,
   "itemCount": 139,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-575",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. NYT overview of Foucault. 2. Solar mirrors to turn night into day? (NYT) 3. How does the butterfly retain the memories of the caterpillar? 4. The Taliban declares war on smartphones. 5. Links from Sam Enright. 6. Why are U.S. ambulance rides so costly? 7. Richard Hanania on The Sopranos. The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-12T17:21:15.000Z",
+      "articleId": "3d521645bc7e1583"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
       "title": "Sunday Thread + Mailbag",
@@ -378,17 +389,6 @@
       "summary": "1. Facts about Bryan Caplan. I can vouch for many of these. 2. How exactly did movies become so much less sumptuous? 3. Twenty lessons about China. 4. Silvana Renreyro will be the new IMF chief economist. 5. Simon Baron-Cohen improves his views on autism. 6. Obamacare premia due for second straight double-digit jump. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-09T16:12:35.000Z",
       "articleId": "709863c9c183b659"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/land-reclamation.html?utm_source=rss&utm_medium=rss&utm_campaign=land-reclamation",
-      "title": "Land Reclamation!",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/land-reclamation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "&#8220;Buy land,&#8221; they said, &#8220;they aren&#8217;t making any more.&#8221; But in fact, we used to make a lot of land. Half the land area of Boston, a quarter of Manhattan, and 15% of San Francisco were raised from the sea before 1970. Tyler has already pointed to Zigmund Forrest and Max Tabarrok&#8217;s piece on land [&#8230;] The post Land Reclamation! appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-09T11:18:32.000Z",
-      "articleId": "084de0ca99c84a1f"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/mark-carneys-national-liberalism",
@@ -1683,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
