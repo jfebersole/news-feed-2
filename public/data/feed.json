@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-12T07:36:53.030Z",
-  "fetchedAt": "2026-07-12T07:36:53.025Z",
+  "generatedAt": "2026-07-12T09:59:54.136Z",
+  "fetchedAt": "2026-07-12T09:59:54.131Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 767,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
+      "title": "I have never been working class",
+      "url": "https://www.noahpinion.blog/p/i-have-never-been-working-class",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Unlike some American elites, I actually understand this fact.",
+      "publishedAt": "2026-07-12T09:22:33.000Z",
+      "articleId": "9d08e4b4db038772"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-three-cities",
       "title": "*A Tale of Three Cities*",
@@ -1522,17 +1533,6 @@
       "summary": "The most effective weight-loss drug so far, cancer breakthroughs, gene editing for cholesterol, ancestral CRISPR systems, and more.",
       "publishedAt": "2026-06-12T13:02:51.000Z",
       "articleId": "ab17b0cd0e7fa696"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7352160/2026/06/12/ny-giants-malik-nabers-john-harbaugh-minicamp/",
-      "title": "Giants' offense needs Malik Nabers to get well soon: Minicamp takeaways",
-      "url": "https://www.nytimes.com/athletic/7352160/2026/06/12/ny-giants-malik-nabers-john-harbaugh-minicamp/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Nabers’ return is critical because the wide receiver room is full of parts that could complement him, but is uninspiring in his absence.",
-      "publishedAt": "2026-06-12T09:00:56.000Z",
-      "articleId": "237f877f139d8b4d"
     }
   ],
   "sources": [
@@ -1547,10 +1547,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1683,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
