@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-12T09:59:54.136Z",
-  "fetchedAt": "2026-07-12T09:59:54.131Z",
+  "generatedAt": "2026-07-12T11:22:40.460Z",
+  "fetchedAt": "2026-07-12T11:22:40.455Z",
   "sourceCount": 21,
-  "itemCount": 139,
-  "totalItemCount": 757,
+  "itemCount": 140,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html?utm_source=rss&utm_medium=rss&utm_campaign=the-trump-administrations-threat-to-scientific-research",
+      "title": "The Trump Administration’s Threat to Scientific Research",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In The Nationalization of American Science I warned that the Trump administration&#8217;s rewriting of the seemingly mundane Regulation for Federal Financial Assistance was a tremendous threat to America&#8217;s historically successful decentralized system of science funding. Many others are now sounding the alarm. It&#8217;s not surprising that organizations like the AAAS oppose the rule, albeit with unusually [&#8230;] The post The Trump Administration&#8217;s Threat to Scientific Research appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-12T11:18:43.000Z",
+      "articleId": "5641602125936550"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+      "title": "Trump’s Corruption Stains, From Texas to Maine",
+      "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Something is wrong if vice is all them and virtue is all you.",
+      "publishedAt": "2026-07-12T10:00:32.000Z",
+      "articleId": "6bcbf5f4cfe4a875"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
       "title": "I have never been working class",
@@ -411,17 +433,6 @@
       "summary": "A synthetic cell made via chemistry, laser phase plate electron microscopy, the first base-edited human embryo, lab-grown eggs and sperm, and more.",
       "publishedAt": "2026-07-09T08:30:57.000Z",
       "articleId": "3fa52df2c948231d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-tomb-of-duns-scotus.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tomb-of-duns-scotus",
-      "title": "The tomb of Duns Scotus",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-tomb-of-duns-scotus.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Köln! We spent a few days in the city, and once again I marveled at the splendors of the Cathedral. If it had its original stained glass, it would count as one of the very best churches ever. It still stands in the top tier as it is. Plus the Ludwig and Wallraf museums are [&#8230;] The post The tomb of Duns Scotus appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-09T07:04:00.000Z",
-      "articleId": "eb92a16409262e48"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/upzoned-overbid-under-construction",
@@ -1547,10 +1558,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1683,10 +1694,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
