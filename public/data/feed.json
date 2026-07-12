@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-12T15:11:17.975Z",
-  "fetchedAt": "2026-07-12T15:11:17.970Z",
+  "generatedAt": "2026-07-12T17:13:10.444Z",
+  "fetchedAt": "2026-07-12T17:13:10.439Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 757,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-051",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-07-12T17:02:19.000Z",
+      "articleId": "0c22462739478f39"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
       "title": "Trump’s Corruption Stains, From Texas to Maine",
@@ -798,17 +809,6 @@
       "articleId": "84472454225e3bb8"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/congress-waits-cities-experiment",
-      "title": "Congress waits, cities experiment",
-      "url": "https://www.slowboring.com/p/congress-waits-cities-experiment",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Trump leaves a bipartisan housing bill unsigned while cities take matters into their own hands.",
-      "publishedAt": "2026-07-01T22:00:57.000Z",
-      "articleId": "5883e82a3e67e946"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
       "title": "Money Stuff: Egg Libor",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
@@ -1547,10 +1547,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
