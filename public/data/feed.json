@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-12T04:34:51.590Z",
-  "fetchedAt": "2026-07-12T04:34:51.585Z",
+  "generatedAt": "2026-07-12T07:36:53.030Z",
+  "fetchedAt": "2026-07-12T07:36:53.025Z",
   "sourceCount": 21,
   "itemCount": 139,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-three-cities",
+      "title": "*A Tale of Three Cities*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Bob Harris, and the subtitle is The Life and Times of Lord Daer 1763-1794. Who is Lord Daer? Don&#8217;t worry about that! So many books on the Scottish Enlightenment cover one particular thing, but somehow fail to give the reader a proper sense of life on the ground. I found this is [&#8230;] The post *A Tale of Three Cities* appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-12T07:17:21.000Z",
+      "articleId": "d071656d21af5385"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/who-thinks-like-an-economist.html?utm_source=rss&utm_medium=rss&utm_campaign=who-thinks-like-an-economist",
+      "title": "*Who Thinks Like an Economist?*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/who-thinks-like-an-economist.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the title of a recent book by Beatrice Magistro. Some key results are: Economic knowledge consistently predicts higher support for welfare-enhancing policies (Eurozone membership, free trade, and EU immigration), independent on whether individuals stand to gain or lose initially from globalization. This challenges conventional self-interest accounts and instead highlights the role of economic [&#8230;] The post *Who Thinks Like an Economist?* appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-12T06:18:59.000Z",
+      "articleId": "e556727b6dd94a8d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/new-space-policy-substack-from-mercatus.html?utm_source=rss&utm_medium=rss&utm_campaign=new-space-policy-substack-from-mercatus",
       "title": "New space policy Substack from Mercatus",
@@ -391,17 +413,6 @@
       "articleId": "eb92a16409262e48"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/single-payer-health-care-systems-are-looking-worse-all-the-time.html?utm_source=rss&utm_medium=rss&utm_campaign=single-payer-health-care-systems-are-looking-worse-all-the-time",
-      "title": "Single-payer health care systems are looking worse all the time",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/single-payer-health-care-systems-are-looking-worse-all-the-time.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the theme of my latest Free Press piece, here is one excerpt from it: Government-run systems often (not always) do a perfectly fine job setting a broken arm or administering a long-standing, well-known medication. They do much less well when it comes to developing, financing, and delivering a new immunological approach to fighting [&#8230;] The post Single-payer health care systems are looking worse all the time appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-09T05:07:34.000Z",
-      "articleId": "45ab64aaf72a837d"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/upzoned-overbid-under-construction",
       "title": "Upzoned, overbid, under construction",
       "url": "https://www.slowboring.com/p/upzoned-overbid-under-construction",
@@ -422,17 +433,6 @@
       "summary": "The greatest Final Four in World Cup history is within reach — and France, Argentina, Spain and England should each win. But the odds say at least one of them probably won't.",
       "publishedAt": "2026-07-08T18:40:30.000Z",
       "articleId": "523e83606c258af1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html?utm_source=rss&utm_medium=rss&utm_campaign=just-wondering-what-the-correct-model-of-iran-is-here",
-      "title": "Just wondering what the correct model of Iran is here",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Prior to the war, I linked to a tweet from Matt Yglesias which explained why Matt opposed the war, and I expressed my agreement with his stance. While I feel plenty has gone on which I do not observe, I can report that the course of the war did not change my initial assessment. Then [&#8230;] The post Just wondering what the correct model of Iran is here appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-08T17:58:31.000Z",
-      "articleId": "744abebc90a428d5"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/d496t9zxm5tksnkc373n.html",
@@ -1683,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
