@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-13T12:15:39.246Z",
-  "fetchedAt": "2026-07-13T12:15:39.241Z",
+  "generatedAt": "2026-07-13T15:49:48.108Z",
+  "fetchedAt": "2026-07-13T15:49:48.101Z",
   "sourceCount": 21,
-  "itemCount": 136,
-  "totalItemCount": 756,
+  "itemCount": 138,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
+      "title": "Graham Platner Was Just Hunter Biden With Worse Ink",
+      "url": "https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Beware seductive men with volatile personalities and substance abuse problems. Do not let them into your bedroom or public office.",
+      "publishedAt": "2026-07-13T15:46:47.000Z",
+      "articleId": "af66e3bef8a30d22"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-568",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-568.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Robots learn from puffins? 2. Claims about cats (NYT). I guess they have no Coase theorem after all. 3. Iran and the Strait (WSJ). 4. &#8220;I used to be one of these people.&#8221; And Timothy Lee. As for this exchange, in the 2040 scenario strong AI is a power magnet in a way that [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-13T15:30:03.000Z",
+      "articleId": "56015460d1d53fb9"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-american-suburbs-are-better-than",
+      "title": "The American suburbs are better than you think",
+      "url": "https://www.noahpinion.blog/p/the-american-suburbs-are-better-than",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "They're not my personal cup of tea, but there are good reasons people like them.",
+      "publishedAt": "2026-07-13T12:38:16.000Z",
+      "articleId": "33f5dad377a3d58a"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-midterm-candidates-who-deserve",
       "title": "The midterm candidates who deserve your money",
@@ -356,17 +389,6 @@
       "summary": "On EconLib, you will find all three parts here, in reverse order. The post Redux of my Homer&#8217;s Odyssey essay appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-10T06:59:51.000Z",
       "articleId": "6c8d4e7fcb77ec83"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/my-conversation-with-the-excellent-joel-mokyr.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-the-excellent-joel-mokyr",
-      "title": "My Conversation with the excellent Joel Mokyr",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-conversation-with-the-excellent-joel-mokyr.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Joel discuss European corporations vs. Chinese clans, why the Catholic Church became obsessed with cousin-marriage, how persistent cultural trends really are, why Chinese cities became so populous relative to Europe, why it took so long for European living standards [&#8230;] The post My Conversation with the excellent Joel Mokyr appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-10T04:44:33.000Z",
-      "articleId": "22c4033233953e03"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
@@ -1514,10 +1536,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1642,18 +1664,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
