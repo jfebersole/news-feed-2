@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-13T04:40:54.907Z",
-  "fetchedAt": "2026-07-13T04:40:54.901Z",
+  "generatedAt": "2026-07-13T08:26:52.862Z",
+  "fetchedAt": "2026-07-13T08:26:52.857Z",
   "sourceCount": 21,
-  "itemCount": 139,
-  "totalItemCount": 757,
+  "itemCount": 138,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-are-competitive-if-and-only-if-p-np",
+      "title": "“Markets are competitive if and only if P != NP”",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I prove that competitive market outcomes require computational intractability. If P = NP, firms can efficiently solve the collusion detection problem, identifying deviations from cooperative agreements in complex, noisy markets and thereby making collusion sustainable as an equilibrium. If P != NP, the collusion detection problem is computationally infeasible for markets satisfying a natural instance-hardness [&#8230;] The post &#8220;Markets are competitive if and only if P != NP&#8221; appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-13T06:55:13.000Z",
+      "articleId": "6051835263f7c35b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/my-talk-at-deepmind-2.html?utm_source=rss&utm_medium=rss&utm_campaign=my-talk-at-deepmind-2",
+      "title": "My talk at DeepMind",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-talk-at-deepmind-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is a transcript of my remarks, anything from the audience (Q&#38;A with comments) has been cut out. Excerpt: The problem will not be how does my life get meaning, but how do I deal with all the meaning my life will have? A kind of exhaustion. And this comes up in the labor supply [&#8230;] The post My talk at DeepMind appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-13T04:58:41.000Z",
+      "articleId": "33ebf9a6fb5a9214"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-575",
       "title": "Sunday assorted links",
@@ -325,17 +347,6 @@
       "articleId": "30f004cd1dd1c596"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/that-was-then-this-is-now-59.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-59",
-      "title": "That was then, this is now",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/that-was-then-this-is-now-59.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "One of the cool things about European football is that it provides good evidence that high-income, high-ability individuals move in response to tax rates&#8230; That is from Jeremy Horpendahl, citing research by&#8230;Emanuel Saez. The post That was then, this is now appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-09T19:10:36.000Z",
-      "articleId": "f8edb6684c6c2922"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xn7rpd6f4fzyko503ikt.html",
       "title": "Money Stuff: Leave the Oil in the Pipes",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xn7rpd6f4fzyko503ikt.html",
@@ -378,17 +389,6 @@
       "summary": "...",
       "publishedAt": "2026-07-09T16:19:53.000Z",
       "articleId": "0b2da671b23e59d4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-560.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-560",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-560.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Facts about Bryan Caplan. I can vouch for many of these. 2. How exactly did movies become so much less sumptuous? 3. Twenty lessons about China. 4. Silvana Renreyro will be the new IMF chief economist. 5. Simon Baron-Cohen improves his views on autism. 6. Obamacare premia due for second straight double-digit jump. The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-09T16:12:35.000Z",
-      "articleId": "709863c9c183b659"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/mark-carneys-national-liberalism",
@@ -1522,17 +1522,6 @@
       "summary": "Homes being built on top of libraries, Patriot missile manufacturing, an effort to construct new US coal plants, a tunnel between the US and Russia, and more.",
       "publishedAt": "2026-06-13T12:01:19.000Z",
       "articleId": "773d403f53571ee6"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/degrowth-would-make-europeans-into",
-      "title": "Degrowth would make Europeans into \"Europoors\"",
-      "url": "https://www.noahpinion.blog/p/degrowth-would-make-europeans-into",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Why Europe must grow.",
-      "publishedAt": "2026-06-13T08:25:32.000Z",
-      "articleId": "26992d85e247d6e9"
     }
   ],
   "sources": [
@@ -1547,10 +1536,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
