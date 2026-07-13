@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-13T21:10:13.692Z",
-  "fetchedAt": "2026-07-13T21:10:13.686Z",
+  "generatedAt": "2026-07-13T23:08:56.122Z",
+  "fetchedAt": "2026-07-13T23:08:56.117Z",
   "sourceCount": 21,
   "itemCount": 137,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/two-grahams-one-wild-week",
+      "title": "Two Grahams, one wild week",
+      "url": "https://www.slowboring.com/p/two-grahams-one-wild-week",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Graham&#8217;s death, Platner&#8217;s withdrawal, and record-breaking fundraising in Texas and Alaska have scrambled the midterm map in just seven days.",
+      "publishedAt": "2026-07-13T22:00:44.000Z",
+      "articleId": "2f3b25cdd33e8718"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/persistent-inequality-in-publishing-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=persistent-inequality-in-publishing-in-economics",
       "title": "Persistent Inequality in Publishing in Economics",
@@ -820,17 +831,6 @@
       "articleId": "8b299aaac4bb8d43"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/they-should-teach-patriotism-in-schools",
-      "title": "They should teach patriotism in schools",
-      "url": "https://www.slowboring.com/p/they-should-teach-patriotism-in-schools",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Public schools have an important civic purpose beyond reading and math.",
-      "publishedAt": "2026-07-02T10:02:10.000Z",
-      "articleId": "eabd2c6e9eedfcc3"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
       "title": "Money Stuff: Egg Libor",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
@@ -1525,10 +1525,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
