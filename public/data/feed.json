@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T00:10:48.850Z",
-  "fetchedAt": "2026-07-13T00:10:48.846Z",
+  "generatedAt": "2026-07-13T04:40:54.907Z",
+  "fetchedAt": "2026-07-13T04:40:54.901Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 767,
+  "totalItemCount": 757,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-575",
@@ -1547,10 +1547,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
