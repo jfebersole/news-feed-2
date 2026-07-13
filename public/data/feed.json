@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T19:45:47.852Z",
-  "fetchedAt": "2026-07-13T19:45:47.848Z",
+  "generatedAt": "2026-07-13T21:10:13.692Z",
+  "fetchedAt": "2026-07-13T21:10:13.686Z",
   "sourceCount": 21,
   "itemCount": 137,
-  "totalItemCount": 765,
+  "totalItemCount": 755,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/persistent-inequality-in-publishing-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=persistent-inequality-in-publishing-in-economics",
@@ -1525,10 +1525,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 403"
     },
     {
       "name": "Astral Codex Ten",
