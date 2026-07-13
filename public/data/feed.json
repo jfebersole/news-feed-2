@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-13T08:26:52.862Z",
-  "fetchedAt": "2026-07-13T08:26:52.857Z",
+  "generatedAt": "2026-07-13T12:15:39.246Z",
+  "fetchedAt": "2026-07-13T12:15:39.241Z",
   "sourceCount": 21,
-  "itemCount": 138,
-  "totalItemCount": 767,
+  "itemCount": 136,
+  "totalItemCount": 756,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-midterm-candidates-who-deserve",
+      "title": "The midterm candidates who deserve your money",
+      "url": "https://www.slowboring.com/p/the-midterm-candidates-who-deserve",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Our updated recommendations for political giving",
+      "publishedAt": "2026-07-13T10:04:02.000Z",
+      "articleId": "af0c6682b990f6a5"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "title": "Apple Sues OpenAI, Apple’s Real Problem",
+      "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "articleId": "a151d0da252bb375"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
+      "title": "The HR Derby's Lefties Are Poised to Break The Bank",
+      "url": "https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Citizens Bank Park has become the most lefty-friendly Derby venue in recent history, giving Kyle Schwarber and Bryce Harper — among others — a built-in advantage Monday night.",
+      "publishedAt": "2026-07-13T09:01:30.000Z",
+      "articleId": "c4d2fd3dc36027f2"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-are-competitive-if-and-only-if-p-np",
       "title": "“Markets are competitive if and only if P != NP”",
@@ -512,17 +545,6 @@
       "articleId": "85065b16b660e395"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-past-month-has-broken-the-2026",
-      "title": "The Past Month Has Broken the 2026 MLB Season",
-      "url": "https://neilpaine.substack.com/p/the-past-month-has-broken-the-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "One of the strangest Junes in baseball history has thrown everything we thought we knew about this year into doubt.",
-      "publishedAt": "2026-07-08T09:01:39.000Z",
-      "articleId": "6b299879e3a8a564"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/jd-vances-crusade-against-gdp-is",
       "title": "JD Vance's crusade against GDP is wrong and bad",
       "url": "https://www.noahpinion.blog/p/jd-vances-crusade-against-gdp-is",
@@ -796,17 +818,6 @@
       "summary": "Public schools have an important civic purpose beyond reading and math.",
       "publishedAt": "2026-07-02T10:02:10.000Z",
       "articleId": "eabd2c6e9eedfcc3"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-case-for-assimilation",
-      "title": "The case for assimilation",
-      "url": "https://www.slowboring.com/p/the-case-for-assimilation",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Is it true that &#8220;Muslims&#8221; &#8212; or anyone else &#8212; &#8220;shouldn&#8217;t have to assimilate to belong&#8221;?",
-      "publishedAt": "2026-07-02T09:00:53.000Z",
-      "articleId": "84472454225e3bb8"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
@@ -1260,17 +1271,6 @@
       "articleId": "aef59d446ea5b63d"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/the-stuff-of-mythos/",
-      "title": "2026.25: The Stuff of Myth(os)",
-      "url": "https://stratechery.com/2026/the-stuff-of-mythos/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of June 15, 2026, including Anthropic, e-commerce in the age of AI, and the NBA Finals being a perfect 10.",
-      "publishedAt": "2026-06-19T17:00:00.000Z",
-      "articleId": "5c0d037806a77f1a"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
       "title": "The secret cause of the industrial revolution",
       "url": "https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
@@ -1500,28 +1500,6 @@
       "summary": "When each side of the Atlantic disagrees",
       "publishedAt": "2026-06-14T13:31:27.000Z",
       "articleId": "cb3c0bf56c7a8c88"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
-      "title": "Does U.F.O. Disclosure Threaten Faith?",
-      "url": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Steven Spielberg’s ‘Disclosure Day’ and the God-and-aliens debate.",
-      "publishedAt": "2026-06-13T12:08:05.000Z",
-      "articleId": "e50f427490f638dc"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-06132026",
-      "title": "Reading List 06/13/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-06132026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Homes being built on top of libraries, Patriot missile manufacturing, an effort to construct new US coal plants, a tunnel between the US and Russia, and more.",
-      "publishedAt": "2026-06-13T12:01:19.000Z",
-      "articleId": "773d403f53571ee6"
     }
   ],
   "sources": [
@@ -1536,16 +1514,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 11,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
