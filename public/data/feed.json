@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-14T14:08:48.971Z",
-  "fetchedAt": "2026-07-14T14:08:48.966Z",
+  "generatedAt": "2026-07-14T16:35:24.596Z",
+  "fetchedAt": "2026-07-14T16:35:24.591Z",
   "sourceCount": 21,
   "itemCount": 138,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-577",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Were the 1980s so great for kids? 2. Elasticity Institute, new for the economics of AI. 3. Can you get a job at Bending Spoons? (WSJ) 4. How are AI agents changing basketball analytics? 5. Terminal lucidity for dementia patients? (NYT) 6. Why are Australian real wages collapsing? The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-14T16:09:08.000Z",
+      "articleId": "b85fc924c2a8fb20"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/hip-hop-groups-an-album-a-day",
       "title": "Hip-Hop Groups: An Album a Day",
@@ -323,17 +334,6 @@
       "summary": "Christoph Henking and Ben Baumberg Geiger found that while there has been a steep rise in the share of young Britons reporting a mental illness, the share of people who say a mental health problem limits their day-to-day functioning has barely budged. &#8230;when asked if they would consider someone experiencing typical fluctuations in mood (described [&#8230;] The post Mental health sentences to ponder appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-11T18:13:49.000Z",
       "articleId": "b8adc972ca2bc0d5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-569",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-569.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The tiny economist on my shoulder. 2. Beethoven in Indian classical raga. 3. Too many books? (NYT) 4. Roon on slop. 5. MIE. Taylor Swift. 6. Rolling Stones fact of the day. 7. More balloons! 8. Seb Krier. The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-11T16:23:17.000Z",
-      "articleId": "eba82166c361807e"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-071126",
@@ -1664,10 +1664,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
