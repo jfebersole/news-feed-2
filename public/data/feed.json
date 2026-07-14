@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-13T23:08:56.122Z",
-  "fetchedAt": "2026-07-13T23:08:56.117Z",
+  "generatedAt": "2026-07-14T03:27:58.497Z",
+  "fetchedAt": "2026-07-14T03:27:58.494Z",
   "sourceCount": 21,
   "itemCount": 137,
   "totalItemCount": 765,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
+      "title": "Money Stuff: ETFs Are for Bets",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff ETFs, TXSE, HR, AI. View in browser Sports gambling ETF We talked on Friday about a proposed sports gambling exchange-traded fund . On the one hand: cool. On the other hand: If what you want is “sports gambling in ETF form,” this is not quite that. The proposed fund would be managed by a professional sports gambler, who would run a diversified portfolio of 40 to 80 bets at a time. (The bets would be made on Kalshi, or rather, they would be made in the form of over-the-counter swaps giving the ETF exposure to Kalshi event contracts.) If the portfolio manager (gambler) wins, the ETF will go up, which is good for the investors. But the investors won’t get to pick the bets, or maybe even know what the bets are. If you want to buy a sports gambling ETF for uncorrelated returns and dark comedy, this is great. If you want to buy a sports gambling ETF to bet on the Mets, it isn’t. I wrote: I sort of imagined … a Knicks Win ETF, or a Jets/Bills Over ETF or whatever, where you could bet on sports in an ETF wrapper. You’d get the fun of sports gambling, but in your ETF portfolio. But that is very hard to implement in practice: Sports bets mostly resolve quickly, and the main imperative of an ETF manager is to continue managing the ETF. So the implementation has to be more or less like what Subversive and Tidal are doing: a diversified portfolio of sports bets, actively managed by professional gamblers, aiming to achieve long-term capital appreciation. I wonder if you could do better? I mean, worse. I mean: What about an ETF that just bets on the Mets to win every day? Let’s say the “Mets win” contract on Kalshi is trading at $0.33. Investors (?) put money into the ETF each morning if they think the Mets will win. If the Mets win, the ETF more or less triples its money. Investors can withdraw their money the next day, or keep it in to bet on the Mets again. If the Mets lose, the ETF more or less goes to zero, oops. (Perhaps it bets less than all of its money, to avoid that outcome.) But of course the next day investors can put new money in — at $0.32 per share, or whatever the price is for the “Mets win” contract that day — to make the bet again. You’re not aiming to achieve long-term capital appreciation. You are just offering a market-priced Mets bet every day. In ETF form. This is obviously a bad product, in the sense that its long-run expected value is zero. Not just because it’s the Mets, I mean, but the overall expected return on sports bets — after bid/ask spread and other expenses of the fund [1] — is negative if you are betting with no information, and “always bet on the Mets” is a no-information strategy. But so what? As a fund — as a long-term investment — this is an incredibly stupid idea, but that’s true of a lot of ETFs. Not all ETFs...",
+      "publishedAt": "2026-07-13T23:36:45.850Z",
+      "articleId": "634ce8b1b707cec6"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/two-grahams-one-wild-week",
       "title": "Two Grahams, one wild week",
@@ -829,17 +840,6 @@
       "summary": "One man's journey to catalogue the world's greatest band",
       "publishedAt": "2026-07-02T17:31:16.000Z",
       "articleId": "8b299aaac4bb8d43"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
-      "title": "Money Stuff: Egg Libor",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h7yypt23g4jw9jbjrob5.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Eggs, puts, sports, ETFs. View in browser Egg Libor There’s an electronic egg exchange that sets the market price of eggs. [1] It’s called Egg Clearinghouse Inc., or ECI; its website is eggs.org . It is not the main place to buy eggs. You buy eggs at the supermarket. Supermarkets and restaurants and bakeries and other big egg users also do not go to the Egg Clearinghouse to buy most of their eggs. [2] They enter into supply arrangements with egg producers, who deliver them the eggs they need at the times and places they need them. The Egg Clearinghouse is for extra eggs. Sometimes the egg producers have too many eggs: Their hens have laid more eggs than they have sold to their customers. Other times, the egg producers are “net short”: Their hens have laid fewer eggs than they have sold, and they need to buy more eggs to deliver to their customers. The Egg Clearinghouse is a place for the egg producers who are short eggs to buy eggs from the egg producers who have extra eggs. The price of eggs on the Egg Clearinghouse is whatever price balances supply and demand on the exchange: If egg producers want eggs, they bid for them; if they have extra eggs, they offer them. There is some market-clearing price, and producers who need extra eggs pay that price. What about supermarkets and restaurants and other egg users? They pay the price they negotiate with producers. How is that price set? You could imagine a supply contract saying, like, “we will sell you 100 dozen eggs a week for the next year at $0.30 per dozen,” or whatever. But in fact egg prices are variable, and the supply arrangements are often based on benchmark market prices. There is a reporting agency, now called Expana but formerly called Urner Barry, that computes daily benchmark egg prices based on trades (and bids and offers) on the Egg Clearinghouse. [3] And “egg producers … often sell eggs to retailers including grocery stores and restaurants under contracts for which the price of eggs is based on the daily price quotations published by Urner Barry.” [4] The market price on the Egg Clearinghouse determines the wholesale price charged to customers. “Egg Clearinghouse Inc. is nationally recognized as an exchange to help determine and establish the market value for eggs and egg products,” says eggs.org . “This is known as ‘Price Discovery.’” I could stop there. This is a familiar story and you probably know the ending. There’s a big market (egg producers selling eggs to supermarkets etc.), and there’s a small market (egg producers selling extra eggs to each other on an electronic exchange). The price in the small market determines the price in the big market. Participants in the small market are also participants in the big market. You can spend a little money in the small market...",
-      "publishedAt": "2026-07-01T17:08:01.145Z",
-      "articleId": "6ee7ac09a2e7261f"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026q2",
