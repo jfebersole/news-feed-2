@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-14T11:42:19.690Z",
-  "fetchedAt": "2026-07-14T11:42:19.686Z",
+  "generatedAt": "2026-07-14T14:08:48.971Z",
+  "fetchedAt": "2026-07-14T14:08:48.966Z",
   "sourceCount": 21,
-  "itemCount": 139,
+  "itemCount": 138,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/hip-hop-groups-an-album-a-day",
+      "title": "Hip-Hop Groups: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/hip-hop-groups-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Geto Boys, Three 6 Mafia, Boogie Down Productions, and others",
+      "publishedAt": "2026-07-14T13:31:54.000Z",
+      "articleId": "70c0314e698c30e1"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=occupational-licensing-around-the-world",
       "title": "Occupational Licensing Around the World",
@@ -1511,28 +1522,6 @@
       "summary": "A question surprisingly few people are asking.",
       "publishedAt": "2026-06-15T09:17:45.000Z",
       "articleId": "1a861034ca22335d"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
-      "title": "What the Cult of Efficiency Costs Us",
-      "url": "https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The Save Our Bacon Act is bad for pigs and bad for us.",
-      "publishedAt": "2026-06-14T13:48:07.000Z",
-      "articleId": "8350b58dc9642f12"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/big-in-the-uk-not-so-much-in-the",
-      "title": "Big in the UK, Not So Much in the US",
-      "url": "https://www.cantgetmuchhigher.com/p/big-in-the-uk-not-so-much-in-the",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "When each side of the Atlantic disagrees",
-      "publishedAt": "2026-06-14T13:31:27.000Z",
-      "articleId": "cb3c0bf56c7a8c88"
     }
   ],
   "sources": [
@@ -1675,10 +1664,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
