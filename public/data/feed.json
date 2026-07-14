@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T16:35:24.596Z",
-  "fetchedAt": "2026-07-14T16:35:24.591Z",
+  "generatedAt": "2026-07-14T18:15:21.786Z",
+  "fetchedAt": "2026-07-14T18:15:21.783Z",
   "sourceCount": 21,
-  "itemCount": 138,
-  "totalItemCount": 767,
+  "itemCount": 137,
+  "totalItemCount": 766,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-577",
@@ -444,17 +444,6 @@
       "summary": "Plus Platner, the Costco economy, and some inexplicable internet beefs",
       "publishedAt": "2026-07-10T10:04:13.000Z",
       "articleId": "b1dda09c6713b45b"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-worst-players-in-baseball-might",
-      "title": "The Worst Players in Baseball Might Be Pretty Good (Or They Used to Be, At Least)",
-      "url": "https://neilpaine.substack.com/p/the-worst-players-in-baseball-might",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Baseball's worst performers are not always the worst players. Sometimes they're just the ones with enough track record to be allowed to fail spectacularly.",
-      "publishedAt": "2026-07-10T09:02:46.000Z",
-      "articleId": "8efd40e856021191"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
@@ -1601,7 +1590,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1664,18 +1653,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
