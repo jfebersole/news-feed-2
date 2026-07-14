@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-07-14T09:14:41.561Z",
-  "fetchedAt": "2026-07-14T09:14:41.558Z",
+  "generatedAt": "2026-07-14T11:42:19.690Z",
+  "fetchedAt": "2026-07-14T11:42:19.686Z",
   "sourceCount": 21,
-  "itemCount": 137,
-  "totalItemCount": 765,
+  "itemCount": 139,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=occupational-licensing-around-the-world",
+      "title": "Occupational Licensing Around the World",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Hartley and Kleiner have a new Fed Minneapolis working paper surveying workers around the world to measure occupational licensing by country. In the United States, occupational licensing has increased substantially over time, so one might expect licensing to rise with income. Their headline result is the opposite: occupational licensing is negatively correlated with GDP per [&#8230;] The post Occupational Licensing Around the World appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-14T11:17:07.000Z",
+      "articleId": "c0f5f17de0d7e966"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trump-hasnt-even-tried-to-pass-an",
+      "title": "Trump hasn’t even tried to pass an immigration bill",
+      "url": "https://www.slowboring.com/p/trump-hasnt-even-tried-to-pass-an",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "You can&#8217;t change the Constitution with executive orders, but Trump might be able to destroy it.",
+      "publishedAt": "2026-07-14T10:02:30.000Z",
+      "articleId": "d50731bfd52b7e94"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+      "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
+      "publishedAt": "2026-07-14T10:00:00.000Z",
+      "articleId": "abfeab3db38afb8d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
+      "title": "Baseball's All-Stars Live in the Present",
+      "url": "https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "First-half performance dominates All-Star Game selections more than ever — except in the bullpen, where reputation still matters some.",
+      "publishedAt": "2026-07-14T09:01:46.000Z",
+      "articleId": "6ff14bd39b4c0607"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/incentives-matter-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=incentives-matter-installment-1637-2",
       "title": "Incentives matter, installment #1637",
@@ -301,17 +345,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-07-11T09:01:42.000Z",
       "articleId": "04b61eefd41e5b22"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=winston-marshall-podcasts-with-me-on-ai",
-      "title": "Winston Marshall podcasts with me on AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "He is from the star musical group Mumford &#38; Sons, but is also an excellent podcaster. Here is the episode, recorded before the Fable ban was lifted: Of course I do sneak in some music analogies, including a mention of Dock Boggs. The post Winston Marshall podcasts with me on AI appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-11T07:20:40.000Z",
-      "articleId": "91b7abea4e3a4cb4"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-party-cant-fire-you",
@@ -1216,17 +1249,6 @@
       "articleId": "06e0059d273d84ed"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
-      "title": "Apple Price Increases, Apple Intelligence and the E.U.",
-      "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple is (finally) raising prices, but they're not shipping Siri AI to the E.U.",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "articleId": "49b5540058fca05e"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
       "title": "Pizza wheels are bad, Japanese toilets are great",
       "url": "https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
@@ -1590,7 +1612,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1606,7 +1628,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
