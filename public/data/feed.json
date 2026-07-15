@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T19:33:51.744Z",
-  "fetchedAt": "2026-07-15T19:33:51.739Z",
+  "generatedAt": "2026-07-15T21:11:59.746Z",
+  "fetchedAt": "2026-07-15T21:11:59.741Z",
   "sourceCount": 21,
-  "itemCount": 139,
+  "itemCount": 137,
   "totalItemCount": 766,
   "items": [
     {
@@ -1511,28 +1511,6 @@
       "summary": "Will the Giants keep three QBs? How many WRs will make the roster, and will Odell Beckham Jr. be one of them?",
       "publishedAt": "2026-06-16T10:00:00.000Z",
       "articleId": "684a9894e7398ab1"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/the-maga-power-struggle-that-could",
-      "title": "The MAGA power struggle that could decide the fate of Anthropic",
-      "url": "https://www.understandingai.org/p/the-maga-power-struggle-that-could",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "It may not be easy for Anthropic to escape the Trump export ban.",
-      "publishedAt": "2026-06-15T21:08:45.000Z",
-      "articleId": "c66240be06820804"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
-      "title": "MAGA’s French Connection",
-      "url": "https://www.nytimes.com/2026/06/14/opinion/christian-nationalism-maga-france.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "This is MAGA’s French connection.",
-      "publishedAt": "2026-06-15T19:47:53.000Z",
-      "articleId": "bfe111bddf3bdbb7"
     }
   ],
   "sources": [
@@ -1683,10 +1661,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
