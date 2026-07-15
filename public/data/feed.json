@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-15T17:35:07.816Z",
-  "fetchedAt": "2026-07-15T17:35:07.812Z",
+  "generatedAt": "2026-07-15T19:33:51.744Z",
+  "fetchedAt": "2026-07-15T19:33:51.739Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 767,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/those-new-service-sector-jobs-16.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-16",
+      "title": "Those new service sector jobs",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/those-new-service-sector-jobs-16.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It’s 85 years since Brian O’Nolan, better known as Flann O’Brien and Myles na gCopaleen, proposed a Book Handling Agency in The Irish Times. On Sunday evening, Flann’s idea became reality. In a Berlin bar’s back room, Cabinet Magazine, a literary quarterly, assembled a crack team of white-coated literary experts to make your unread books look well-read – at [&#8230;] The post Those new service sector jobs appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-15T18:31:09.000Z",
+      "articleId": "267f17091ce5f6ba"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7gnjthuq3824wm5uol2k.html",
+      "title": "Money Stuff: Keeping Mergers Under the Radar",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7gnjthuq3824wm5uol2k.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff HSR, PWM, lockup, Apollo, debanking. View in browser HSR The way mergers-and-acquisitions regulation works in the US is that if you want to buy a biggish company, you need to ask the government for permission first. [1] You fill out a form — called a “ Hart-Scott-Rodino premerger notification filing ” — and send it to the US Federal Trade Commission and Department of Justice, which will review it to see if your merger would create any antitrust problems. If the FTC and DOJ think it’s fine, then you can close your merger. If they don’t, they’ll call you up and ask you to make some concessions to preserve competition or sue you to stop the deal. If you own a hardware store in a small town, and you want to buy the other hardware store in town, you could imagine someone saying “ah, that raises competition problems,” but in practice there is a size cutoff for this sort of thing: The FTC and DOJ concern themselves with biggish acquisitions, not every transaction for every business. The size cutoff changes each year but is currently $133.9 million . If you buy a company for $130 million, you don’t have to file the form; if you buy a company for $135 million, you do. You also have to file the form if you buy $133.9 million of stock , with certain exceptions, which sometimes trips up activist hedge funds or index funds or Ryan Cohen . You do not have to file the form, probably (not legal advice!), if you just hire someone with an employment contract that involves paying her $133.9 million, which these days is often a reasonable substitute for M&A . Most of the times that I have thought about this topic, it has been for deals that are well above the threshold. But right around the threshold you can get some weird effects. Let’s say you want to buy a company for $150 million, but you think the antitrust regulators will object. You’d rather not file the form, hoping not to attract the regulators’ attention. There is a standard playbook in situations like this, which we discuss from time to time . It goes like this: You go to the target’s owners and say “we know your company is worth $150 million, but if we pay you $150 million we’ll have to make an HSR filing and the regulators will stop the deal, leaving you with nothing. So what if we paid you $125 million instead?” The target’s owners say “no, we really want $150 million.” You say: “Well, what if we paid you $125 million, but then also, unrelatedly, we gave you a $25 million Christmas present? Then we will have done a $125 million deal, which does not require an HSR filing, but you will have $150 million.” You do the deal for $125 million, you file nothing, and if anyone asks it was a $125 million deal. You also give the target’s owners $25 million, and if anyone asks it was a Christmas present....",
+      "publishedAt": "2026-07-15T17:58:45.788Z",
+      "articleId": "d27c923a959cc5ac"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-562",
       "title": "Wednesday assorted links",
@@ -15,6 +37,17 @@
       "summary": "1. New Stephen Dubner talk show. 2. &#8220;Spain accelerates and already contributes 65% of the population growth in Europe&#8221; 3. Scott Alexander defends AI chip regulation. If AI can be that powerful (which Scott believes), there will be a significant way to make lots of money building a very strong open model. I do not [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-15T15:34:23.000Z",
       "articleId": "51c81a2c2097c36b"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/why-is-fable-a-keynesian",
+      "title": "Why is Fable a Keynesian?",
+      "url": "https://scottsumner.substack.com/p/why-is-fable-a-keynesian",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "And where does IS-LM come from?",
+      "publishedAt": "2026-07-15T13:51:41.000Z",
+      "articleId": "e9cef8a897fa1860"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
@@ -380,17 +413,6 @@
       "articleId": "0c22462739478f39"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html?utm_source=rss&utm_medium=rss&utm_campaign=the-trump-administrations-threat-to-scientific-research",
-      "title": "The Trump Administration’s Threat to Scientific Research",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In The Nationalization of American Science I warned that the Trump administration&#8217;s rewriting of the seemingly mundane Regulation for Federal Financial Assistance was a tremendous threat to America&#8217;s historically successful decentralized system of science funding. Many others are now sounding the alarm. It&#8217;s not surprising that organizations like the AAAS oppose the rule, albeit with unusually [&#8230;] The post The Trump Administration&#8217;s Threat to Scientific Research appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-12T11:18:43.000Z",
-      "articleId": "5641602125936550"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
       "title": "I have never been working class",
       "url": "https://www.noahpinion.blog/p/i-have-never-been-working-class",
@@ -422,17 +444,6 @@
       "summary": "Adults living with their parents, Samsung&#8217;s profits, Native American data centers, Puerto Rico&#8217;s electricity grid, and more.",
       "publishedAt": "2026-07-11T12:01:33.000Z",
       "articleId": "04300a3fd17ecb54"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-6-10-2026",
-      "title": "The Week That Was (July 6-10, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-6-10-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-07-11T09:01:42.000Z",
-      "articleId": "04b61eefd41e5b22"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-party-cant-fire-you",
@@ -763,17 +774,6 @@
       "summary": "It depends on both ideas and cultural inheritance.",
       "publishedAt": "2026-07-06T20:19:10.000Z",
       "articleId": "e74499871e209c7f"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hj1x45mc0ap1u2n6uin2.html",
-      "title": "Money Stuff: Untruth Machines",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hj1x45mc0ap1u2n6uin2.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Bots, memes, puts, loans, Korea, bowling. View in browser Kalshi/Spotify The order of magnitude is that artists get a few dollars for every 1,000 times their songs are streamed on Spotify, but bots can generate fake Spotify streams at a cost of something like $1 per 1,000 streams. [1] If you can generate 1,000 streams for $1, and those 1,000 streams pay you $2, then you’re in business, sort of. We have discussed the economics of that business . It’s not a business that Spotify likes, or US federal prosecutors. We discussed it because a guy who allegedly did it was arrested for fraud. But the key point here is that bots can, and sometimes do, generate fake Spotify streams for something like $1 per 1,000 streams. And then the question is: If you can generate fake Spotify streams at a cost of around $1 per 1,000, and you don’t mind doing a little crime, what is the best way to monetize that? Getting paid $2 per 1,000 streams as artist royalties is not terrible. (It’s like a 100% return on investment?) I’m sure that there are more complicated big-picture sorts of answers. (“Generate lots of fake streams and get a record deal,” etc.) But now there are better, simpler answers. Bloomberg’s Denitsa Tsekova reports : Spotify spotted and removed over 500,000 artificial streams that had unexpectedly turned Malcolm Todd’s song “Earrings” into one of the most popular songs on its charts, according to a person familiar with the matter. The artificial numbers had already been used to settle a Kalshi market tied to the most frequently streamed Spotify song in the US in June, which had attracted $3 million in trading. Todd had been declared one of the winners based on figures published before Spotify completed its investigation. Spotify reached out to the companies after finding the problem, the person said. “We’re in touch with Spotify and are actively investigating this matter,” said Elisabeth Diana, a spokesperson for Kalshi. Don’t take my numbers too literally — there is not, like, a Bloomberg chart of the price of illegal Spotify bot streams — but, as far as I can tell, generating 500,000 artificial streams would cost on the order of hundreds of dollars. Kalshi’s contracts on Todd’s song traded well below $0.10 for most of June, and then paid off $1 when it unexpectedly finished first. (After Spotify’s investigation and removal of fake streams it fell back to fourth , but the Kalshi contract had already settled.) Open interest, by the end of the month, was about 76,000 contracts , meaning that you could have made tens of thousands of dollars on Kalshi by spending hundreds of dollars to manipulate Spotify, on the order of a 10,000% return on investment. Did someone? Is there a connection between the Kalshi market and the fake Spotify streams? I...",
-      "publishedAt": "2026-07-06T18:32:20.582Z",
-      "articleId": "bdc1ab1eebce0459"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/to-save-capitalism-we-need-radical",
@@ -1612,7 +1612,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1683,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
