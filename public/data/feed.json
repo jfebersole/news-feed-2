@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-15T21:11:59.746Z",
-  "fetchedAt": "2026-07-15T21:11:59.741Z",
+  "generatedAt": "2026-07-15T23:10:27.941Z",
+  "fetchedAt": "2026-07-15T23:10:27.935Z",
   "sourceCount": 21,
-  "itemCount": 137,
-  "totalItemCount": 766,
+  "itemCount": 138,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
+      "title": "The abundance agenda has arrived",
+      "url": "https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The biggest federal housing package in a generation becomes law.",
+      "publishedAt": "2026-07-15T22:01:59.000Z",
+      "articleId": "daeceffe8de7a2c7"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+      "title": "Trump’s Corruption Stains, From Texas to Maine",
+      "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Something is wrong if vice is all on their side and virtue is all on yours.",
+      "publishedAt": "2026-07-15T21:29:04.000Z",
+      "articleId": "6bcbf5f4cfe4a875"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/those-new-service-sector-jobs-16.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-16",
       "title": "Those new service sector jobs",
@@ -279,17 +301,6 @@
       "summary": "This paper documents new facts about concentration in publishing in economics. First, the profession grows downward . The number of economists grew almost sixfold since 1990, but new entrants publish in lower-tier journals while incumbents hold the top. Second, there is high and persistent concentration at the top. Along with the downward growth, the top-1% [&#8230;] The post Persistent Inequality in Publishing in Economics appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-13T19:30:13.000Z",
       "articleId": "15598ff44299909b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
-      "title": "Trump’s Corruption Stains, From Texas to Maine",
-      "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Something is wrong if vice is all on their side and virtue is all on yours.",
-      "publishedAt": "2026-07-13T19:23:10.000Z",
-      "articleId": "6bcbf5f4cfe4a875"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-conor-sen-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-wisdom-of-conor-sen-3",
@@ -1606,7 +1617,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
