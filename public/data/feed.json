@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-07-15T09:19:00.688Z",
-  "fetchedAt": "2026-07-15T09:19:00.684Z",
+  "generatedAt": "2026-07-15T11:46:32.939Z",
+  "fetchedAt": "2026-07-15T11:46:32.936Z",
   "sourceCount": 21,
-  "itemCount": 137,
-  "totalItemCount": 765,
+  "itemCount": 139,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
+      "title": "AI Chip Regulation Is Not A Dystopian Surveillance State",
+      "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-15T10:19:35.000Z",
+      "articleId": "281fe4cafca24604"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/farms-arent-nature",
+      "title": "Farms aren’t nature",
+      "url": "https://www.slowboring.com/p/farms-arent-nature",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A banal take with serious consequences",
+      "publishedAt": "2026-07-15T10:01:09.000Z",
+      "articleId": "d2b5a314b069c031"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+      "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
+      "publishedAt": "2026-07-15T10:00:19.000Z",
+      "articleId": "3fbdc1bddb35e834"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/what-a-major-less-season-would-cost",
+      "title": "What a Major-Less Season Would Cost Scottie Scheffler",
+      "url": "https://neilpaine.substack.com/p/what-a-major-less-season-would-cost",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Golf's aging curve says the world's No. 1 player still has time to build his major résumé. But it also says every empty prime year matters.",
+      "publishedAt": "2026-07-15T09:02:10.000Z",
+      "articleId": "f38b6210ab054411"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
       "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
@@ -809,17 +853,6 @@
       "articleId": "943eee4af4b9b316"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/happy-independence-day-weekend",
-      "title": "Happy Independence Day weekend",
-      "url": "https://www.slowboring.com/p/happy-independence-day-weekend",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "I&#8217;m grateful for this country and for you. Here&#8217;s how I&#8217;m celebrating.",
-      "publishedAt": "2026-07-03T22:00:53.000Z",
-      "articleId": "933b78808668818c"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
       "title": "The Fall and Rise of Screwworm",
       "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
@@ -1216,17 +1249,6 @@
       "articleId": "c227e4126127e3d0"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
-      "title": "Memory Chips and China, Microsoft and Chinese Models",
-      "url": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.",
-      "publishedAt": "2026-06-23T10:00:00.000Z",
-      "articleId": "1272ff9a2f59637a"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/epidurals-are-miraculous",
       "title": "Epidurals are miraculous",
       "url": "https://www.worksinprogress.news/p/epidurals-are-miraculous",
@@ -1534,7 +1556,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 12,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1590,7 +1612,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1661,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
