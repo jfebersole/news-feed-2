@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-15T14:05:35.719Z",
-  "fetchedAt": "2026-07-15T14:05:35.714Z",
+  "generatedAt": "2026-07-15T15:47:47.531Z",
+  "fetchedAt": "2026-07-15T15:47:47.527Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 767,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-562",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-562.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. New Stephen Dubner talk show. 2. &#8220;Spain accelerates and already contributes 65% of the population growth in Europe&#8221; 3. Scott Alexander defends AI chip regulation. If AI can be that powerful (which Scott believes), there will be a significant way to make lots of money building a very strong open model. I do not [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-15T15:34:23.000Z",
+      "articleId": "51c81a2c2097c36b"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
       "title": "AI Chip Regulation Is Not A Dystopian Surveillance State",
@@ -389,17 +400,6 @@
       "summary": "Unlike some American elites, I actually understand this fact.",
       "publishedAt": "2026-07-12T09:22:33.000Z",
       "articleId": "9d08e4b4db038772"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-three-cities",
-      "title": "*A Tale of Three Cities*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is Bob Harris, and the subtitle is The Life and Times of Lord Daer 1763-1794. Who is Lord Daer? Don&#8217;t worry about that! So many books on the Scottish Enlightenment cover one particular thing, but somehow fail to give the reader a proper sense of life on the ground. I found this is [&#8230;] The post *A Tale of Three Cities* appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-12T07:17:21.000Z",
-      "articleId": "d071656d21af5385"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/the-empire-strikes-back",
@@ -1547,10 +1547,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1675,18 +1675,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
