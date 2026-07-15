@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T00:02:29.251Z",
-  "fetchedAt": "2026-07-15T00:02:29.246Z",
+  "generatedAt": "2026-07-15T03:27:35.471Z",
+  "fetchedAt": "2026-07-15T03:27:35.467Z",
   "sourceCount": 21,
   "itemCount": 137,
-  "totalItemCount": 755,
+  "totalItemCount": 765,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
@@ -1525,10 +1525,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
