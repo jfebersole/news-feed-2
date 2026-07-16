@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-16T20:09:10.482Z",
-  "fetchedAt": "2026-07-16T20:09:10.470Z",
+  "generatedAt": "2026-07-16T22:12:57.166Z",
+  "fetchedAt": "2026-07-16T22:12:57.163Z",
   "sourceCount": 21,
-  "itemCount": 138,
-  "totalItemCount": 767,
+  "itemCount": 136,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai",
+      "title": "Governing agentic AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From a new paper by Shruti Rajagopalan: AI agents now transact, publish, and act on external systems without contemporaneous human approval, creating new regulatory challenges. A growing literature has responded with proposals for legal personhood. This Article argues that personhood is neither necessary nor sufficient, shifting the question from status to enforcement. The Article first [&#8230;] The post Governing agentic AI appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-16T20:23:55.000Z",
+      "articleId": "15702369bd9889a7"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/0ic8qcs0vlb2h53lhor6.html",
       "title": "Money Stuff: Shorts Will Sell You SpaceX",
@@ -446,17 +457,6 @@
       "articleId": "15598ff44299909b"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-conor-sen-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-wisdom-of-conor-sen-3",
-      "title": "The wisdom of Conor Sen",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-conor-sen-3.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The age 20-24 unemployment rate is now ~unchanged since the AI boom began&#8230; Link and picture here. The post The wisdom of Conor Sen appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-13T16:56:28.000Z",
-      "articleId": "1fc94855629a4991"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
       "title": "Graham Platner Was Just Hunter Biden With Worse Ink",
       "url": "https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
@@ -840,17 +840,6 @@
       "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
       "publishedAt": "2026-07-07T10:00:00.000Z",
       "articleId": "87056ab842dd6289"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/where-key-battleground-races-stand",
-      "title": "Where key battleground races stand four months before the midterm elections",
-      "url": "https://www.slowboring.com/p/where-key-battleground-races-stand",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "There is plenty of time before November, but, halfway through the primaries, conditions are telling.",
-      "publishedAt": "2026-07-06T22:00:28.000Z",
-      "articleId": "664e3ad176a24386"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
@@ -1511,17 +1500,6 @@
       "summary": "Thoughts on the fallout from the Iran debacle.",
       "publishedAt": "2026-06-16T22:29:17.000Z",
       "articleId": "06927d355a904ae0"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
-      "title": "The Battle With Anthropic Is the Start of a New Kind of Conflict",
-      "url": "https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "The A.I. wars are here.",
-      "publishedAt": "2026-06-16T21:00:04.000Z",
-      "articleId": "5bcf3ce514d2b0ea"
     }
   ],
   "sources": [
@@ -1617,7 +1595,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
