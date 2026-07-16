@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-15T23:10:27.941Z",
-  "fetchedAt": "2026-07-15T23:10:27.935Z",
+  "generatedAt": "2026-07-16T03:32:02.594Z",
+  "fetchedAt": "2026-07-16T03:32:02.589Z",
   "sourceCount": 21,
-  "itemCount": 138,
+  "itemCount": 139,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
+      "title": "Six Slightly Skew Boogeymen",
+      "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-16T00:55:28.000Z",
+      "articleId": "65252590be25795c"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
       "title": "The abundance agenda has arrived",
@@ -1664,18 +1675,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
