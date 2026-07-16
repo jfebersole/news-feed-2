@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-16T11:52:02.776Z",
-  "fetchedAt": "2026-07-16T11:52:02.771Z",
+  "generatedAt": "2026-07-16T14:17:30.147Z",
+  "fetchedAt": "2026-07-16T14:17:30.142Z",
   "sourceCount": 21,
-  "itemCount": 139,
+  "itemCount": 138,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
+      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
+      "publishedAt": "2026-07-16T13:03:16.000Z",
+      "articleId": "8fad9dc8a4e4347a"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-predictable-are-laws",
+      "title": "How Predictable Are Laws?",
+      "url": "https://www.construction-physics.com/p/how-predictable-are-laws",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "An enormous amount of ink has been spilled (some of it by me) on the trials and tribulations of complying with the National Environmental Policy Act, better known as NEPA.",
+      "publishedAt": "2026-07-16T12:03:18.000Z",
+      "articleId": "1b443d5bf6f799fe"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-equal-pay-madness-just-got-madder.html?utm_source=rss&utm_medium=rss&utm_campaign=the-equal-pay-madness-just-got-madder",
       "title": "The Equal Pay Madness Just Got Madder",
@@ -37,17 +59,6 @@
       "summary": "The Supreme Court isn&#8217;t on your side.",
       "publishedAt": "2026-07-16T10:02:10.000Z",
       "articleId": "9a74326041fc6222"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
-      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
-      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
-      "publishedAt": "2026-07-16T09:04:10.000Z",
-      "articleId": "8fad9dc8a4e4347a"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
@@ -1511,28 +1522,6 @@
       "summary": "Guest post by Alexander \"Sasha\" Putilin",
       "publishedAt": "2026-06-16T20:07:52.000Z",
       "articleId": "d124b057c28a89f6"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/europes-housing-shortages-are-even",
-      "title": "Europe’s housing shortages are even worse than America’s",
-      "url": "https://www.worksinprogress.news/p/europes-housing-shortages-are-even",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Why does nobody there talk about zoning?",
-      "publishedAt": "2026-06-16T13:36:02.000Z",
-      "articleId": "57e41f3ae21ae627"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/long-closers-an-album-a-day",
-      "title": "Long Closers: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/long-closers-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Pink Floyd, Coldplay, the Velvet Underground, and others",
-      "publishedAt": "2026-06-16T13:32:20.000Z",
-      "articleId": "ebea20b473af8972"
     }
   ],
   "sources": [
