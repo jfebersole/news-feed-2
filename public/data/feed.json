@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-16T06:28:55.739Z",
-  "fetchedAt": "2026-07-16T06:28:55.734Z",
+  "generatedAt": "2026-07-16T09:23:41.620Z",
+  "fetchedAt": "2026-07-16T09:23:41.614Z",
   "sourceCount": 21,
-  "itemCount": 139,
+  "itemCount": 140,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
+      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
+      "publishedAt": "2026-07-16T09:04:10.000Z",
+      "articleId": "8fad9dc8a4e4347a"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
+      "title": "Is there any “oligarchy” to fight?",
+      "url": "https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "I don&#8217;t think a small cabal of right-wing rich people controls American politics.",
+      "publishedAt": "2026-07-16T09:02:12.000Z",
+      "articleId": "7e41184e0d01eae0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/my-excellent-conversation-with-chase-koch.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-chase-koch",
       "title": "My excellent Conversation with Chase Koch",
@@ -829,17 +851,6 @@
       "summary": "Hanania explains why politics is getting dumber",
       "publishedAt": "2026-07-05T17:34:14.000Z",
       "articleId": "e5d44a5fd9b34f78"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-da8",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-da8",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-07-05T17:02:32.000Z",
-      "articleId": "32537c04c1f797b3"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
