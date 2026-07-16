@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-16T03:32:02.594Z",
-  "fetchedAt": "2026-07-16T03:32:02.589Z",
+  "generatedAt": "2026-07-16T06:28:55.739Z",
+  "fetchedAt": "2026-07-16T06:28:55.734Z",
   "sourceCount": 21,
   "itemCount": 139,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/my-excellent-conversation-with-chase-koch.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-chase-koch",
+      "title": "My excellent Conversation with Chase Koch",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-excellent-conversation-with-chase-koch.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Chase and Tyler discuss if any of his father’s lessons never stuck, the guilt-trip letter his grandfather wrote three months after Charles was born, why Chase started throwing tennis matches, what Rafa’s grit taught him about stoicism, who he admired most [&#8230;] The post My excellent Conversation with Chase Koch appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-16T04:36:13.000Z",
+      "articleId": "9ccfa6aea373bc93"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
       "title": "Six Slightly Skew Boogeymen",
@@ -411,17 +422,6 @@
       "summary": "Here is a transcript of my remarks, anything from the audience (Q&#38;A with comments) has been cut out. Excerpt: The problem will not be how does my life get meaning, but how do I deal with all the meaning my life will have? A kind of exhaustion. And this comes up in the labor supply [&#8230;] The post My talk at DeepMind appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-13T04:58:41.000Z",
       "articleId": "33ebf9a6fb5a9214"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-575",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. NYT overview of Foucault. 2. Solar mirrors to turn night into day? (NYT) 3. How does the butterfly retain the memories of the caterpillar? 4. The Taliban declares war on smartphones. 5. Links from Sam Enright. 6. Why are U.S. ambulance rides so costly? 7. Richard Hanania on The Sopranos. The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-12T17:21:15.000Z",
-      "articleId": "3d521645bc7e1583"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
@@ -1675,18 +1675,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
