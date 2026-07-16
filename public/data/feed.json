@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-16T09:23:41.620Z",
-  "fetchedAt": "2026-07-16T09:23:41.614Z",
+  "generatedAt": "2026-07-16T11:52:02.776Z",
+  "fetchedAt": "2026-07-16T11:52:02.771Z",
   "sourceCount": 21,
-  "itemCount": 140,
+  "itemCount": 139,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-equal-pay-madness-just-got-madder.html?utm_source=rss&utm_medium=rss&utm_campaign=the-equal-pay-madness-just-got-madder",
+      "title": "The Equal Pay Madness Just Got Madder",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-equal-pay-madness-just-got-madder.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In my post Equality Act 2010 I discussed the UK&#8217;s absolutely insane wage policy: In short, supply and demand have been replaced by judges and labor boards with the authority to deem which jobs are &#8220;equal&#8221; and therefore should be paid equally&#8230;.No one is alleging that male and female warehouse workers were paid unequally or [&#8230;] The post The Equal Pay Madness Just Got Madder appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-16T11:12:11.000Z",
+      "articleId": "e60cf77f3bb162ba"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/spreading-ai-to-the-rest-of-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=spreading-ai-to-the-rest-of-the-world",
+      "title": "Spreading AI to the rest of the world",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/spreading-ai-to-the-rest-of-the-world.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Another job we’ll have, I call this imperialism, but I mean that in a value neutral way. But AI comes to different parts of the world at different speeds. I think the countries where AI changes a lot of things first, there’ll be a very high demand for people from those places, which I’ll think [&#8230;] The post Spreading AI to the rest of the world appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-16T10:49:56.000Z",
+      "articleId": "c54b8eed70dafbe5"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-progressive-executive-power-delusion",
+      "title": "The progressive executive power delusion",
+      "url": "https://www.slowboring.com/p/the-progressive-executive-power-delusion",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The Supreme Court isn&#8217;t on your side.",
+      "publishedAt": "2026-07-16T10:02:10.000Z",
+      "articleId": "9a74326041fc6222"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
       "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
@@ -15,6 +48,17 @@
       "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
       "publishedAt": "2026-07-16T09:04:10.000Z",
       "articleId": "8fad9dc8a4e4347a"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
+      "title": "We Don't Know What We Want From All-Star Games",
+      "url": "https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Fans rejected the NBA's artificial spectacle. Then baseball gave them something more real — and they hated that, too.",
+      "publishedAt": "2026-07-16T09:02:12.000Z",
+      "articleId": "7679daca1073297c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
@@ -413,39 +457,6 @@
       "articleId": "a151d0da252bb375"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
-      "title": "The HR Derby's Lefties Are Poised to Break The Bank",
-      "url": "https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Citizens Bank Park has become the most lefty-friendly Derby venue in recent history, giving Kyle Schwarber and Bryce Harper — among others — a built-in advantage Monday night.",
-      "publishedAt": "2026-07-13T09:01:30.000Z",
-      "articleId": "c4d2fd3dc36027f2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-are-competitive-if-and-only-if-p-np",
-      "title": "“Markets are competitive if and only if P != NP”",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I prove that competitive market outcomes require computational intractability. If P = NP, firms can efficiently solve the collusion detection problem, identifying deviations from cooperative agreements in complex, noisy markets and thereby making collusion sustainable as an equilibrium. If P != NP, the collusion detection problem is computationally infeasible for markets satisfying a natural instance-hardness [&#8230;] The post &#8220;Markets are competitive if and only if P != NP&#8221; appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-13T06:55:13.000Z",
-      "articleId": "6051835263f7c35b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/my-talk-at-deepmind-2.html?utm_source=rss&utm_medium=rss&utm_campaign=my-talk-at-deepmind-2",
-      "title": "My talk at DeepMind",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-talk-at-deepmind-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is a transcript of my remarks, anything from the audience (Q&#38;A with comments) has been cut out. Excerpt: The problem will not be how does my life get meaning, but how do I deal with all the meaning my life will have? A kind of exhaustion. And this comes up in the labor supply [&#8230;] The post My talk at DeepMind appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-13T04:58:41.000Z",
-      "articleId": "33ebf9a6fb5a9214"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
       "title": "Sunday Thread + Mailbag",
       "url": "https://www.slowboring.com/p/sunday-thread-mailbag-051",
@@ -818,17 +829,6 @@
       "summary": "It depends on both ideas and cultural inheritance.",
       "publishedAt": "2026-07-06T20:19:10.000Z",
       "articleId": "e74499871e209c7f"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/to-save-capitalism-we-need-radical",
-      "title": "To save capitalism we need radical land-use reform",
-      "url": "https://www.slowboring.com/p/to-save-capitalism-we-need-radical",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Socialism is not the answer, but the status quo isn&#8217;t working.",
-      "publishedAt": "2026-07-06T10:02:30.000Z",
-      "articleId": "d479c8d098e67224"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/no-china-did-not-manage-to-avoid",
@@ -1533,17 +1533,6 @@
       "summary": "Featuring Pink Floyd, Coldplay, the Velvet Underground, and others",
       "publishedAt": "2026-06-16T13:32:20.000Z",
       "articleId": "ebea20b473af8972"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7362938/2026/06/16/new-york-giants-roster-projection-53/",
-      "title": "Giants 53-man projection: Who’s in, who’s out with training camp on the horizon",
-      "url": "https://www.nytimes.com/athletic/7362938/2026/06/16/new-york-giants-roster-projection-53/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Will the Giants keep three QBs? How many WRs will make the roster, and will Odell Beckham Jr. be one of them?",
-      "publishedAt": "2026-06-16T10:00:00.000Z",
-      "articleId": "684a9894e7398ab1"
     }
   ],
   "sources": [
