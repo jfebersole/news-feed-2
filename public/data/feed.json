@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T18:17:31.295Z",
-  "fetchedAt": "2026-07-16T18:17:31.290Z",
+  "generatedAt": "2026-07-16T20:09:10.482Z",
+  "fetchedAt": "2026-07-16T20:09:10.470Z",
   "sourceCount": 21,
-  "itemCount": 139,
-  "totalItemCount": 757,
+  "itemCount": 138,
+  "totalItemCount": 767,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/0ic8qcs0vlb2h53lhor6.html",
@@ -1522,17 +1522,6 @@
       "summary": "The A.I. wars are here.",
       "publishedAt": "2026-06-16T21:00:04.000Z",
       "articleId": "5bcf3ce514d2b0ea"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/never-cross-a-river-four-feet-deep",
-      "title": "Never Cross a River Four Feet Deep on Average",
-      "url": "https://www.astralcodexten.com/p/never-cross-a-river-four-feet-deep",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Guest post by Alexander \"Sasha\" Putilin",
-      "publishedAt": "2026-06-16T20:07:52.000Z",
-      "articleId": "d124b057c28a89f6"
     }
   ],
   "sources": [
@@ -1547,10 +1536,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
