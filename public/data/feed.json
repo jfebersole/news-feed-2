@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-17T14:52:00.685Z",
-  "fetchedAt": "2026-07-17T14:52:00.680Z",
+  "generatedAt": "2026-07-17T16:23:22.232Z",
+  "fetchedAt": "2026-07-17T16:23:22.227Z",
   "sourceCount": 21,
   "itemCount": 139,
   "totalItemCount": 768,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html?utm_source=rss&utm_medium=rss&utm_campaign=cataloging-growth-a-re-evaluation-of-1900-1990",
+      "title": "Cataloging Growth: A Re-Evaluation of 1900–1990",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Verónica Bäcker-Peral and Benjamin Wittenbrink of MIT: Measuring real GDP growth requires distinguishing changes in prices from changes in product quality and composition, yet systematic quality adjustment of price indexes is unavailable for much of the twentieth century. We construct a new quality-adjusted price index for U.S. consumer goods using 5.1 million product listings [&#8230;] The post Cataloging Growth: A Re-Evaluation of 1900–1990 appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-17T15:33:38.000Z",
+      "articleId": "8bab88bc49f59f9b"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-great-and-desperate",
+      "title": "Your Book Review: Great And Desperate Cures",
+      "url": "https://www.astralcodexten.com/p/your-book-review-great-and-desperate",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #2 in the Book Review Contest",
+      "publishedAt": "2026-07-17T15:22:53.000Z",
+      "articleId": "c0d8b4fed2186233"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-phone-is-a-cow.html?utm_source=rss&utm_medium=rss&utm_campaign=a-phone-is-a-cow",
       "title": "A Phone is a Cow",
@@ -444,17 +466,6 @@
       "summary": "Featuring Geto Boys, Three 6 Mafia, Boogie Down Productions, and others",
       "publishedAt": "2026-07-14T13:31:54.000Z",
       "articleId": "70c0314e698c30e1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=occupational-licensing-around-the-world",
-      "title": "Occupational Licensing Around the World",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Hartley and Kleiner have a new Fed Minneapolis working paper surveying workers around the world to measure occupational licensing by country. In the United States, occupational licensing has increased substantially over time, so one might expect licensing to rise with income. Their headline result is the opposite: occupational licensing is negatively correlated with GDP per [&#8230;] The post Occupational Licensing Around the World appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-14T11:17:07.000Z",
-      "articleId": "c0f5f17de0d7e966"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/trump-hasnt-even-tried-to-pass-an",
@@ -1522,17 +1533,6 @@
       "summary": "...",
       "publishedAt": "2026-06-18T04:42:50.000Z",
       "articleId": "db414369b742b742"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-24-rats-the-glorious-revolution",
-      "title": "Issue 24: Rats, The Glorious Revolution and the secret to ultra-Orthodox fertility",
-      "url": "https://www.worksinprogress.news/p/issue-24-rats-the-glorious-revolution",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "A preview of everything to come in Issue 24",
-      "publishedAt": "2026-06-17T15:07:49.000Z",
-      "articleId": "b3ca1c257cdaacb4"
     }
   ],
   "sources": [
@@ -1675,10 +1675,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",

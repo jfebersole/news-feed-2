@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html",
+  "source": "Marginal Revolution",
+  "title": "Cataloging Growth: A Re-Evaluation of 1900–1990",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-07-17T15:33:38.000Z",
+  "contentHtml": "<p><a href=\"https://veronicabp.github.io/website/VBP_BHW_CostOfLiving.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">From Verónica Bäcker-Peral and Benjamin Wittenbrink</a> of MIT:</p>\n<blockquote><p>Measuring real GDP growth requires distinguishing changes in prices from changes in product quality and composition, yet systematic quality adjustment of price indexes is unavailable for much of the twentieth century. We construct a new quality-adjusted price index for U.S. consumer goods using 5.1 million product listings from Sears catalogs, 1900–1990. We use large language models to extract product information and estimate hedonic price schedules from high-dimensional text embeddings, allowing us to infer annual changes in the cost of living. The resulting cost-of-living index implies substantially lower goods inflation than conventional deflators, and consequently implies much faster real economic growth: between 1900 and 1990, real goods consumption grew by a factor of 39 using our index, compared with a factor of 10.3 using standard goods deflators. The gap between our index and canonical ones is largest before World War II, reversing the conventional view that goods consumption growth was slower before 1945 than in the post-war decades.</p></blockquote>\n<p>Here is <a href=\"https://x.com/vbperal/status/2077803583781679505?s=61\" target=\"_blank\" rel=\"noopener noreferrer\">a useful tweet storm on the paper</a>, important work.</p>",
+  "wordCount": 176,
+  "imageCount": 0,
+  "linkCount": 2
+}
