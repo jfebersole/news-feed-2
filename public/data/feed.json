@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-17T16:23:22.232Z",
-  "fetchedAt": "2026-07-17T16:23:22.227Z",
+  "generatedAt": "2026-07-17T18:16:07.647Z",
+  "fetchedAt": "2026-07-17T18:16:07.642Z",
   "sourceCount": 21,
   "itemCount": 139,
   "totalItemCount": 768,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-581",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. David Wallace-Wells on the status of reading (NYT). 2. Very good, very positive Kimi ad. 3. Balaji update. 4. An eighth-century Mayan mathematician. 5. Yet another balloon. 6. Nearby planet with helium-rich atmosphere (NYT). 7. Henry Oliver did not like The Movie. The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-17T17:12:39.000Z",
+      "articleId": "6623f779aec33172"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/mainframes-and-main-characters/",
+      "title": "2026.29: Mainframes and Main Characters",
+      "url": "https://stratechery.com/2026/mainframes-and-main-characters/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
+      "publishedAt": "2026-07-17T17:00:00.000Z",
+      "articleId": "774b484815fec037"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html?utm_source=rss&utm_medium=rss&utm_campaign=cataloging-growth-a-re-evaluation-of-1900-1990",
       "title": "Cataloging Growth: A Re-Evaluation of 1900–1990",
@@ -444,17 +466,6 @@
       "summary": "Money Stuff Debanking, LBO, AI AI AI, SPAC. View in browser Equities Here are the three main ways for a big bank to make money from stock trading: The bank’s clients want to trade stocks, so the bank helps them out, buying the stocks the clients want to sell, selling the stocks the clients want to buy and capturing some spread. This is called “market making” or “intermediation,” and tends to do best when markets are volatile. For one thing, when markets are volatile, clients are buying and selling a lot. For another thing, when markets are volatile, the bank — if it is good — will often be buying low and selling high, as customers panic and sell low and then get enthusiastic and buy high. The bank’s clients want to borrow against their stocks, to buy more stocks, and the bank lends them money to do that. This is called “prime brokerage” or “equities financing” or “margin lending,” and has become increasingly important to banks . It tends to do best when markets are going up. For one thing, when markets are going up, people get more enthusiastic and want to borrow to buy more stock. For another thing, when markets are going up, the banks’ collateral gets better: If you lend $100 against $200 of stock and the stock goes to $300, you’re in great shape; if the stock goes to $90 you’re in trouble. The bank’s corporate clients want to raise money by selling stock — in initial public offerings, or in follow-on equity offerings — so the bank helps them out, finding buyers for their stock and collecting a fee. This is called “equity capital markets,” or “ECM,” and banks tend to count it separately from the other two categories. (ECM is usually part of investment banking fee revenue, while market making and financing are part of the equities trading division.) This business also tends to do best when markets are going up and reasonably calm: Companies like to sell stock high and don’t like surprises, so they tend to sell stock when “the window is open” and confidence is high. Those are the important conceptual buckets. Another bucket is prop trading — the bank buys stocks that it thinks will go up, and they go up — which is largely disfavored these days. A fifth bucket is derivatives trading — the clients want to hedge their stocks or do other bets by trading derivatives — which is mostly a subset of market making. [1] These things to some extent offset one another. When markets are extremely volatile, you can make a killing with smart trades but can lose a lot of money on bad margin loans. When markets are placid and rising, you can get a lot of ECM fees but your traders might be bored. Occasionally markets are volatile but also up a lot; then you make a lot of money everywhere. Bloomberg’s Sridhar Natarajan reports : Five of the biggest US banks reported...",
       "publishedAt": "2026-07-14T18:18:17.633Z",
       "articleId": "97719fb7a043f237"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-577",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Were the 1980s so great for kids? 2. Elasticity Institute, new for the economics of AI. 3. Can you get a job at Bending Spoons? (WSJ) 4. How are AI agents changing basketball analytics? 5. Terminal lucidity for dementia patients? (NYT) 6. Why are Australian real wages collapsing? The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-14T16:09:08.000Z",
-      "articleId": "b85fc924c2a8fb20"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/hip-hop-groups-an-album-a-day",
@@ -1313,17 +1324,6 @@
       "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
       "publishedAt": "2026-06-25T10:00:00.000Z",
       "articleId": "0132d18e67d01748"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
-      "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
-      "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "articleId": "b111bf4f05a670c1"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
