@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-17T04:19:55.605Z",
-  "fetchedAt": "2026-07-17T04:19:55.599Z",
+  "generatedAt": "2026-07-17T07:28:35.475Z",
+  "fetchedAt": "2026-07-17T07:28:35.469Z",
   "sourceCount": 21,
   "itemCount": 137,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-crime-will-decline-in-most-of-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=why-crime-will-decline-in-most-of-brazil",
+      "title": "Why crime will decline in (most of) Brazil",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/why-crime-will-decline-in-most-of-brazil.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The system, introduced in 2024, uses facial recognition to spot people wanted by police on São Paulo’s streets. It issues alerts and officers are dispatched to pick them up. The system can also locate people who have been reported missing, identify stolen vehicles and provide footage to police investigations. Streamed to its control room in [&#8230;] The post Why crime will decline in (most of) Brazil appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-17T07:03:48.000Z",
+      "articleId": "d18ce79603a8b3f3"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-belongs-to-ai-maniacs",
       "title": "The future belongs to AI maniacs",
@@ -444,17 +455,6 @@
       "summary": "I had long wondered about this: Performance metrics can misalign individual and organizational incentives. We study a clean case: an NBA player holding the ball as a quarter expires must choose between a low-probability &#8220;heave&#8221; that can only help his team and protecting his shooting statistics. We model this decision as a metric-driven principal-agent problem [&#8230;] The post Incentives matter, installment #1637 appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-14T06:27:18.000Z",
       "articleId": "acb0dae25044fa1f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/creating-your-own-religion-in-an-ai-drenched-world.html?utm_source=rss&utm_medium=rss&utm_campaign=creating-your-own-religion-in-an-ai-drenched-world",
-      "title": "Creating your own religion in an AI-drenched world",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/creating-your-own-religion-in-an-ai-drenched-world.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Religious life, I think one thing we’ll see, and this is, again, pretty soon, it won’t be hard to create your own religion. I’m not sure many people will do this. I don’t think most people will. But they’ll be like accretions to the religions we have now. And I think with Fable 5, you [&#8230;] The post Creating your own religion in an AI-drenched world appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-14T04:32:21.000Z",
-      "articleId": "4bea2013b998e1aa"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
@@ -1661,10 +1661,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
