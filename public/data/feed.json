@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-17T10:08:48.902Z",
-  "fetchedAt": "2026-07-17T10:08:48.896Z",
+  "generatedAt": "2026-07-17T12:18:59.853Z",
+  "fetchedAt": "2026-07-17T12:18:59.848Z",
   "sourceCount": 21,
-  "itemCount": 138,
-  "totalItemCount": 767,
+  "itemCount": 139,
+  "totalItemCount": 768,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-phone-is-a-cow.html?utm_source=rss&utm_medium=rss&utm_campaign=a-phone-is-a-cow",
+      "title": "A Phone is a Cow",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-phone-is-a-cow.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Philip Auerswald&#8217;s A Phone is a Cow is three books in one, it&#8217;s a history of the mobile phone, it&#8217;s a business biography of Iqbal Quadir, who brought the cell phone to Bangladesh at at time when that seemed quixotic and doomed to fail, and it&#8217;s a theory of economic growth. It succeeds on all [&#8230;] The post A Phone is a Cow appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-17T11:20:42.000Z",
+      "articleId": "53b1acda107b4df0"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-data-center-backlash-isnt-just",
       "title": "The data center backlash isn’t just NIMBYism",
@@ -15,6 +26,17 @@
       "summary": "Plus the perils of energy fandom and some hot takes on Jaylen Brown",
       "publishedAt": "2026-07-17T10:00:37.000Z",
       "articleId": "7ea1b63d1799d622"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
+      "title": "Spain Won't Fall Behind. Argentina Can't Be Put Away. Something Has to Give.",
+      "url": "https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Spain has not trailed for a single minute of the knockout stage; Argentina has trailed more than any Finalist since 1966, only to keep escaping late.",
+      "publishedAt": "2026-07-17T09:01:37.000Z",
+      "articleId": "3e972c4374088270"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
@@ -466,17 +488,6 @@
       "summary": "First-half performance dominates All-Star Game selections more than ever — except in the bullpen, where reputation still matters some.",
       "publishedAt": "2026-07-14T09:01:46.000Z",
       "articleId": "6ff14bd39b4c0607"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/incentives-matter-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=incentives-matter-installment-1637-2",
-      "title": "Incentives matter, installment #1637",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/incentives-matter-installment-1637-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I had long wondered about this: Performance metrics can misalign individual and organizational incentives. We study a clean case: an NBA player holding the ball as a quarter expires must choose between a low-probability &#8220;heave&#8221; that can only help his team and protecting his shooting statistics. We model this decision as a metric-driven principal-agent problem [&#8230;] The post Incentives matter, installment #1637 appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-14T06:27:18.000Z",
-      "articleId": "acb0dae25044fa1f"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
@@ -1601,7 +1612,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1672,10 +1683,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
