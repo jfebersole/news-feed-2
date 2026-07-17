@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T22:03:44.236Z",
-  "fetchedAt": "2026-07-17T22:03:44.231Z",
+  "generatedAt": "2026-07-17T23:05:20.704Z",
+  "fetchedAt": "2026-07-17T23:05:20.699Z",
   "sourceCount": 21,
   "itemCount": 139,
-  "totalItemCount": 768,
+  "totalItemCount": 758,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
@@ -1547,10 +1547,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
