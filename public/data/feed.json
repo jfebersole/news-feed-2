@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-16T22:12:57.166Z",
-  "fetchedAt": "2026-07-16T22:12:57.163Z",
+  "generatedAt": "2026-07-17T00:09:24.891Z",
+  "fetchedAt": "2026-07-17T00:09:24.886Z",
   "sourceCount": 21,
   "itemCount": 136,
-  "totalItemCount": 766,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
+      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
+      "publishedAt": "2026-07-16T23:22:39.000Z",
+      "articleId": "8fad9dc8a4e4347a"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-stochastic-terrorism",
+      "title": "Against \"Stochastic Terrorism\"",
+      "url": "https://www.astralcodexten.com/p/against-stochastic-terrorism",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-16T22:18:00.000Z",
+      "articleId": "04e6091e6745982d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai",
       "title": "Governing agentic AI",
@@ -59,17 +81,6 @@
       "summary": "1. On the decline of sumptuousness in cinema, part II. 2. Funding canonical visions. 3. Thiel and Wolfe on the Pope and the Antichrist. 4. Claims about blue eyes. 5. Are the world&#8217;s best counterfeit artists in Colombia? (NYT) 6. Britain nationalizes its last major steel mill (NYT). 7. &#8220;Expected working life is 11 years [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-16T16:59:20.000Z",
       "articleId": "6ad96f6bb7acb18a"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
-      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
-      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
-      "publishedAt": "2026-07-16T13:03:16.000Z",
-      "articleId": "8fad9dc8a4e4347a"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-predictable-are-laws",
@@ -1489,17 +1500,6 @@
       "summary": "A preview of everything to come in Issue 24",
       "publishedAt": "2026-06-17T15:07:49.000Z",
       "articleId": "b3ca1c257cdaacb4"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/iran-is-trumps-katrina",
-      "title": "Iran is Trump's Katrina",
-      "url": "https://www.noahpinion.blog/p/iran-is-trumps-katrina",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Thoughts on the fallout from the Iran debacle.",
-      "publishedAt": "2026-06-16T22:29:17.000Z",
-      "articleId": "06927d355a904ae0"
     }
   ],
   "sources": [
@@ -1523,7 +1523,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 13,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
