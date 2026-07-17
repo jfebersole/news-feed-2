@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-17T07:28:35.475Z",
-  "fetchedAt": "2026-07-17T07:28:35.469Z",
+  "generatedAt": "2026-07-17T10:08:48.902Z",
+  "fetchedAt": "2026-07-17T10:08:48.896Z",
   "sourceCount": 21,
-  "itemCount": 137,
+  "itemCount": 138,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-data-center-backlash-isnt-just",
+      "title": "The data center backlash isn’t just NIMBYism",
+      "url": "https://www.slowboring.com/p/the-data-center-backlash-isnt-just",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus the perils of energy fandom and some hot takes on Jaylen Brown",
+      "publishedAt": "2026-07-17T10:00:37.000Z",
+      "articleId": "7ea1b63d1799d622"
+    },
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
+      "title": "Permanent Daylight Saving Time Is the Perfect Stupid Idea for Our Stupid Time",
+      "url": "https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Whiny people who don't know history are failing to acknowledge trade-offs. That's just how politics is now.",
+      "publishedAt": "2026-07-17T09:00:10.000Z",
+      "articleId": "1da43dc7804ae361"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-crime-will-decline-in-most-of-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=why-crime-will-decline-in-most-of-brazil",
       "title": "Why crime will decline in (most of) Brazil",
@@ -842,17 +864,6 @@
       "articleId": "ac9ff45371a64632"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/baltimores-incredible-crime-fighting",
-      "title": "Baltimore’s incredible crime-fighting success story",
-      "url": "https://www.slowboring.com/p/baltimores-incredible-crime-fighting",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "&#8220;Focused deterrence,&#8221; explained",
-      "publishedAt": "2026-07-07T10:01:34.000Z",
-      "articleId": "30c04564ce5f20e6"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
       "title": "A Script for Mark Zuckerberg",
       "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
@@ -1664,7 +1675,7 @@
       "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
