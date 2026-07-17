@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-17T18:16:07.647Z",
-  "fetchedAt": "2026-07-17T18:16:07.642Z",
+  "generatedAt": "2026-07-17T20:13:05.992Z",
+  "fetchedAt": "2026-07-17T20:13:05.987Z",
   "sourceCount": 21,
-  "itemCount": 139,
-  "totalItemCount": 768,
+  "itemCount": 138,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
+      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
+      "publishedAt": "2026-07-17T18:24:28.000Z",
+      "articleId": "8fad9dc8a4e4347a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-581",
       "title": "Friday assorted links",
@@ -125,17 +136,6 @@
       "summary": "A timely repost.",
       "publishedAt": "2026-07-17T03:52:55.000Z",
       "articleId": "089a531b578a0858"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
-      "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
-      "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
-      "publishedAt": "2026-07-16T23:22:39.000Z",
-      "articleId": "8fad9dc8a4e4347a"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-stochastic-terrorism",
@@ -499,17 +499,6 @@
       "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
       "publishedAt": "2026-07-14T10:00:00.000Z",
       "articleId": "abfeab3db38afb8d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
-      "title": "Baseball's All-Stars Live in the Present",
-      "url": "https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "First-half performance dominates All-Star Game selections more than ever — except in the bullpen, where reputation still matters some.",
-      "publishedAt": "2026-07-14T09:01:46.000Z",
-      "articleId": "6ff14bd39b4c0607"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
@@ -1547,10 +1536,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1612,7 +1601,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
