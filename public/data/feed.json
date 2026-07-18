@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T22:03:32.898Z",
-  "fetchedAt": "2026-07-18T22:03:32.892Z",
+  "generatedAt": "2026-07-18T23:06:12.084Z",
+  "fetchedAt": "2026-07-18T23:06:12.078Z",
   "sourceCount": 21,
   "itemCount": 138,
   "totalItemCount": 767,
@@ -1667,15 +1667,15 @@
       "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
