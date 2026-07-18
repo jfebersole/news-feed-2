@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T17:09:30.972Z",
-  "fetchedAt": "2026-07-18T17:09:30.962Z",
+  "generatedAt": "2026-07-18T19:20:37.383Z",
+  "fetchedAt": "2026-07-18T19:20:37.378Z",
   "sourceCount": 21,
-  "itemCount": 139,
-  "totalItemCount": 757,
+  "itemCount": 138,
+  "totalItemCount": 767,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-570",
@@ -1522,17 +1522,6 @@
       "summary": "America and Israel have snatched defeat from victory.",
       "publishedAt": "2026-06-19T00:01:41.000Z",
       "articleId": "19ae14cb8372a9f9"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/brothers-from-other-mothers-the-curious",
-      "title": "Brothers From Other Mothers: The Curious Geography of Fake Country Siblings",
-      "url": "https://www.cantgetmuchhigher.com/p/brothers-from-other-mothers-the-curious",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "There's nothing like making music with your brother, or at least someone people think is your brother",
-      "publishedAt": "2026-06-18T17:30:07.000Z",
-      "articleId": "fad5854aeb8871ca"
     }
   ],
   "sources": [
@@ -1547,10 +1536,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1675,10 +1664,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
