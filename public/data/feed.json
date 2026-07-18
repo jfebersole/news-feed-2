@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-18T06:15:44.678Z",
-  "fetchedAt": "2026-07-18T06:15:44.672Z",
+  "generatedAt": "2026-07-18T08:56:24.716Z",
+  "fetchedAt": "2026-07-18T08:56:24.711Z",
   "sourceCount": 21,
   "itemCount": 138,
   "totalItemCount": 768,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-luis-garicano",
+      "title": "What should I ask Luis Garicano?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a Conversation with him. From Wikipedia: Luis Garicano Gabilondo (pronounced [ˈlwis ɣaɾiˈkano]; born 1967) is a Spanish economist and politician who was a Member of the European Parliament (MEP) from 2019 to 2022. He was also vice president of Renew Europe and vice president of the European political party Alliance of Liberals and Democrats for [&#8230;] The post What should I ask Luis Garicano? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-18T06:17:43.000Z",
+      "articleId": "307b42e2a3f3376c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom",
       "title": "The small business boom",
@@ -444,17 +455,6 @@
       "summary": "I'd like to know exactly what the actions are.",
       "publishedAt": "2026-07-15T08:19:54.000Z",
       "articleId": "8517986ed3f56d5e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sub-saharan-africa-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=sub-saharan-africa-facts-of-the-day",
-      "title": "Sub-Saharan Africa facts of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sub-saharan-africa-facts-of-the-day.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In aggregate its farmers are growing more cereals, such as maize (corn) and rice, than ever: nearly five times as much as in the 1960s, when many countries achieved independence. But most of those gains came from cultivating more land, which cannot go on for ever (see chart 1). Africa, once sparsely populated, is getting [&#8230;] The post Sub-Saharan Africa facts of the day appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-15T06:30:06.000Z",
-      "articleId": "08d5d07529d6f01a"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
@@ -1664,18 +1664,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
