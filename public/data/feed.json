@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-18T03:30:37.538Z",
-  "fetchedAt": "2026-07-18T03:30:37.533Z",
+  "generatedAt": "2026-07-18T06:15:44.678Z",
+  "fetchedAt": "2026-07-18T06:15:44.672Z",
   "sourceCount": 21,
-  "itemCount": 139,
+  "itemCount": 138,
   "totalItemCount": 768,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom",
+      "title": "The small business boom",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Across the country, founders like Ms. Winkler are powering an entrepreneurial renaissance. Jump-started by the pandemic, when a confluence of factors including mass layoffs and remote work led to a flood of business creation, and supercharged by the rise of artificial intelligence, start-up activity is booming after a decades-long slump. Americans filed 5.7 million applications last [&#8230;] The post The small business boom appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-18T04:23:07.000Z",
+      "articleId": "a491bcd8169ea52b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-the-movie-no-real-spoilers",
       "title": "*The Odyssey*, the movie (no real spoilers)",
@@ -444,17 +455,6 @@
       "summary": "In aggregate its farmers are growing more cereals, such as maize (corn) and rice, than ever: nearly five times as much as in the 1960s, when many countries achieved independence. But most of those gains came from cultivating more land, which cannot go on for ever (see chart 1). Africa, once sparsely populated, is getting [&#8230;] The post Sub-Saharan Africa facts of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-15T06:30:06.000Z",
       "articleId": "08d5d07529d6f01a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/toward-a-theory-of-uni-context.html?utm_source=rss&utm_medium=rss&utm_campaign=toward-a-theory-of-uni-context",
-      "title": "Toward a theory of uni-context",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/toward-a-theory-of-uni-context.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is a good dialogue between Derek Thompson and Agnes Callard, excerpt: Callard: In general, goodness is more context-dependent than badness. There isn’t really anything that’s good all the time for everyone independent of context. Happiness depends on your context and who you are. There isn’t anything that will always make a person happy. But there [&#8230;] The post Toward a theory of uni-context appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-15T05:05:14.000Z",
-      "articleId": "1b359d019498e324"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
@@ -1522,17 +1522,6 @@
       "summary": "Vaccinating wild animals can protect human health, and spare animals from extinction and suffering.",
       "publishedAt": "2026-06-18T13:52:46.000Z",
       "articleId": "2d9e4f696cb00de7"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/waiting-for-the-miracle",
-      "title": "Waiting For The Miracle",
-      "url": "https://www.astralcodexten.com/p/waiting-for-the-miracle",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-18T04:42:50.000Z",
-      "articleId": "db414369b742b742"
     }
   ],
   "sources": [
@@ -1683,10 +1672,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
