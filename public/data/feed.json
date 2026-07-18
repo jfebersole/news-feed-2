@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-18T12:01:53.457Z",
-  "fetchedAt": "2026-07-18T12:01:53.450Z",
+  "generatedAt": "2026-07-18T13:43:35.853Z",
+  "fetchedAt": "2026-07-18T13:43:35.848Z",
   "sourceCount": 21,
-  "itemCount": 140,
-  "totalItemCount": 768,
+  "itemCount": 141,
+  "totalItemCount": 758,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-071826",
+      "title": "Reading List 07/18/26",
+      "url": "https://www.construction-physics.com/p/reading-list-071826",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.",
+      "publishedAt": "2026-07-18T12:01:57.000Z",
+      "articleId": "42bf4c13adaa7221"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles",
       "title": "Trial Lawyers Lobby Against Autonomous Vehicles",
@@ -1558,10 +1569,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1686,18 +1697,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
