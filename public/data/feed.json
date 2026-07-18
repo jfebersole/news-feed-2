@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-18T13:43:35.853Z",
-  "fetchedAt": "2026-07-18T13:43:35.848Z",
+  "generatedAt": "2026-07-18T15:10:27.565Z",
+  "fetchedAt": "2026-07-18T15:10:27.560Z",
   "sourceCount": 21,
-  "itemCount": 141,
-  "totalItemCount": 758,
+  "itemCount": 140,
+  "totalItemCount": 768,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+      "title": "China’s A.I. Play Is Different From America’s",
+      "url": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "When great powers disagree about the nature of A.I.",
+      "publishedAt": "2026-07-18T13:41:07.000Z",
+      "articleId": "e6e6f73e75250437"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-071826",
       "title": "Reading List 07/18/26",
@@ -26,17 +37,6 @@
       "summary": "Roughly 37,000–40,000 Americans die in auto accidents every year. We now have large‑scale, real‑world evidence—from Waymo and a joint analysis with Swiss Re—that driverless operations can be substantially safer than matched human driving within their current operating domains. The latest data show that over 220 million miles driven, Waymo vehicles&#8211;in Los Angeles, San Francisco, Phoenix, [&#8230;] The post Trial Lawyers Lobby Against Autonomous Vehicles appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-18T11:18:18.000Z",
       "articleId": "306121e70604ff9f"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-      "title": "China’s A.I. Play Is Different From America’s",
-      "url": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "When great powers disagree about the nature of A.I.",
-      "publishedAt": "2026-07-18T11:00:05.000Z",
-      "articleId": "e6e6f73e75250437"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/americas-political-economy-is-pretty",
@@ -1544,17 +1544,6 @@
       "summary": "There's nothing like making music with your brother, or at least someone people think is your brother",
       "publishedAt": "2026-06-18T17:30:07.000Z",
       "articleId": "fad5854aeb8871ca"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-we-should-vaccinate-wild-animals",
-      "title": "The wild scheme to save koalas",
-      "url": "https://www.worksinprogress.news/p/why-we-should-vaccinate-wild-animals",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Vaccinating wild animals can protect human health, and spare animals from extinction and suffering.",
-      "publishedAt": "2026-06-18T13:52:46.000Z",
-      "articleId": "2d9e4f696cb00de7"
     }
   ],
   "sources": [
@@ -1569,10 +1558,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1697,18 +1686,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
