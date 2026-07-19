@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-19T11:20:42.199Z",
-  "fetchedAt": "2026-07-19T11:20:42.195Z",
+  "generatedAt": "2026-07-19T13:47:51.727Z",
+  "fetchedAt": "2026-07-19T13:47:51.723Z",
   "sourceCount": 21,
-  "itemCount": 135,
-  "totalItemCount": 767,
+  "itemCount": 134,
+  "totalItemCount": 757,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor",
+      "title": "Building luxury homes is good for the poor",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Tej Parikh writing in the FT: &#8230;high-end developments unlock long housing chains. As higher-income households move into newly built units, they free up older properties, raising supply and slashing prices for middle- and lower-end housing through a process known as filtering. Numerous international studies underscore this positive ripple effect. One published last year tracked households [&#8230;] The post Building luxury homes is good for the poor appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-19T11:23:40.000Z",
+      "articleId": "ae212443bc5d80e7"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html?utm_source=rss&utm_medium=rss&utm_campaign=cross-ethnic-casting",
       "title": "Cross-ethnic casting",
@@ -345,17 +356,6 @@
       "summary": "An enormous amount of ink has been spilled (some of it by me) on the trials and tribulations of complying with the National Environmental Policy Act, better known as NEPA.",
       "publishedAt": "2026-07-16T12:03:18.000Z",
       "articleId": "1b443d5bf6f799fe"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-equal-pay-madness-just-got-madder.html?utm_source=rss&utm_medium=rss&utm_campaign=the-equal-pay-madness-just-got-madder",
-      "title": "The Equal Pay Madness Just Got Madder",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-equal-pay-madness-just-got-madder.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In my post Equality Act 2010 I discussed the UK&#8217;s absolutely insane wage policy: In short, supply and demand have been replaced by judges and labor boards with the authority to deem which jobs are &#8220;equal&#8221; and therefore should be paid equally&#8230;.No one is alleging that male and female warehouse workers were paid unequally or [&#8230;] The post The Equal Pay Madness Just Got Madder appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-16T11:12:11.000Z",
-      "articleId": "e60cf77f3bb162ba"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-progressive-executive-power-delusion",
@@ -1478,17 +1478,6 @@
       "summary": "In 1688, England swept away the encrusted vetocracy that had held back economic growth for centuries. Could we do the same today?",
       "publishedAt": "2026-06-19T14:15:58.000Z",
       "articleId": "f05132a9c98d0ed2"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/converting-coal-plants-to-natural",
-      "title": "Converting Coal Plants to Natural Gas",
-      "url": "https://www.construction-physics.com/p/converting-coal-plants-to-natural",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "For the better part of the last several hundred years, coal was the fuel of choice for generating power.",
-      "publishedAt": "2026-06-19T12:03:02.000Z",
-      "articleId": "7f9cc501847fe6b6"
     }
   ],
   "sources": [
@@ -1503,10 +1492,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
