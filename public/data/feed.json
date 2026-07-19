@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-19T19:21:51.479Z",
-  "fetchedAt": "2026-07-19T19:21:51.475Z",
+  "generatedAt": "2026-07-19T21:03:46.370Z",
+  "fetchedAt": "2026-07-19T21:03:46.366Z",
   "sourceCount": 21,
   "itemCount": 132,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+      "title": "China’s A.I. Play Is Different From America’s",
+      "url": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "When great powers disagree about the nature of A.I.",
+      "publishedAt": "2026-07-19T19:35:45.000Z",
+      "articleId": "e6e6f73e75250437"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-in-everything-78",
       "title": "Markets in everything?",
@@ -81,17 +92,6 @@
       "summary": "1. How Roman concrete lasted for so long. 2. All restaurants in Germany are worthy of five stars? 3. They are making improvements to Refine. 4. New limits on graduate student visas? Should we/can we make the PhD three years only? 5.&#8221;I need him to make a decision.&#8221; 6. Vesuvius scrolls update. 7. &#8220;Where will [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-18T15:43:03.000Z",
       "articleId": "524d33d03ea2f899"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-      "title": "China’s A.I. Play Is Different From America’s",
-      "url": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "When great powers disagree about the nature of A.I.",
-      "publishedAt": "2026-07-18T13:41:08.000Z",
-      "articleId": "e6e6f73e75250437"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-071826",
