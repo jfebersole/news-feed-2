@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-19T04:32:08.120Z",
-  "fetchedAt": "2026-07-19T04:32:08.115Z",
+  "generatedAt": "2026-07-19T07:35:27.899Z",
+  "fetchedAt": "2026-07-19T07:35:27.893Z",
   "sourceCount": 21,
-  "itemCount": 137,
+  "itemCount": 135,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html?utm_source=rss&utm_medium=rss&utm_campaign=cross-ethnic-casting",
+      "title": "Cross-ethnic casting",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I complained about the casting of The Odyssey per se (the blind beggar was best), but in general I do not mind cross-ethnic casting. I am glad Elizabeth Taylor played Cleopatra, Dev Patel played David Copperfield, Denzel Washington played Macbeth, black and Latino actors play white parts in Hamilton, and that Morgan Freeman can play [&#8230;] The post Cross-ethnic casting appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-19T06:29:05.000Z",
+      "articleId": "b864592aed7de6a8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/how-does-social-media-change-people.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-social-media-change-people",
       "title": "How does social media change people?",
@@ -345,17 +356,6 @@
       "summary": "In my post Equality Act 2010 I discussed the UK&#8217;s absolutely insane wage policy: In short, supply and demand have been replaced by judges and labor boards with the authority to deem which jobs are &#8220;equal&#8221; and therefore should be paid equally&#8230;.No one is alleging that male and female warehouse workers were paid unequally or [&#8230;] The post The Equal Pay Madness Just Got Madder appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-16T11:12:11.000Z",
       "articleId": "e60cf77f3bb162ba"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/spreading-ai-to-the-rest-of-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=spreading-ai-to-the-rest-of-the-world",
-      "title": "Spreading AI to the rest of the world",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/spreading-ai-to-the-rest-of-the-world.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Another job we’ll have, I call this imperialism, but I mean that in a value neutral way. But AI comes to different parts of the world at different speeds. I think the countries where AI changes a lot of things first, there’ll be a very high demand for people from those places, which I’ll think [&#8230;] The post Spreading AI to the rest of the world appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-16T10:49:56.000Z",
-      "articleId": "c54b8eed70dafbe5"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-progressive-executive-power-delusion",
@@ -1489,28 +1489,6 @@
       "summary": "For the better part of the last several hundred years, coal was the fuel of choice for generating power.",
       "publishedAt": "2026-06-19T12:03:02.000Z",
       "articleId": "7f9cc501847fe6b6"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/does-anything-i-write-matter-anymore",
-      "title": "Does anything I write matter anymore?",
-      "url": "https://www.noahpinion.blog/p/does-anything-i-write-matter-anymore",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Punditry in the age of populism, AI, and monetization.",
-      "publishedAt": "2026-06-19T06:35:04.000Z",
-      "articleId": "32c968b38ec02315"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
-      "title": "Preliminary Thoughts On The Midjourney Scanner",
-      "url": "https://www.astralcodexten.com/p/preliminary-thoughts-on-the-midjourney",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-19T05:32:51.000Z",
-      "articleId": "b522b16fbe78e8dd"
     }
   ],
   "sources": [
@@ -1653,18 +1631,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
