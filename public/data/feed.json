@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T23:06:12.084Z",
-  "fetchedAt": "2026-07-18T23:06:12.078Z",
+  "generatedAt": "2026-07-19T00:08:26.904Z",
+  "fetchedAt": "2026-07-19T00:08:26.900Z",
   "sourceCount": 21,
-  "itemCount": 138,
+  "itemCount": 137,
   "totalItemCount": 767,
   "items": [
     {
@@ -1511,17 +1511,6 @@
       "summary": "...",
       "publishedAt": "2026-06-19T05:32:51.000Z",
       "articleId": "b522b16fbe78e8dd"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
-      "title": "Trump and Netanyahu Have Really Stepped in It Now",
-      "url": "https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "America and Israel have snatched defeat from victory.",
-      "publishedAt": "2026-06-19T00:01:41.000Z",
-      "articleId": "19ae14cb8372a9f9"
     }
   ],
   "sources": [
@@ -1664,18 +1653,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
