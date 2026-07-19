@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T13:47:51.727Z",
-  "fetchedAt": "2026-07-19T13:47:51.723Z",
+  "generatedAt": "2026-07-19T15:11:06.943Z",
+  "fetchedAt": "2026-07-19T15:11:06.937Z",
   "sourceCount": 21,
-  "itemCount": 134,
-  "totalItemCount": 757,
+  "itemCount": 133,
+  "totalItemCount": 767,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor",
@@ -1467,17 +1467,6 @@
       "summary": "Plus: Trends in (pot/booze/cigarette/opioid) addiction",
       "publishedAt": "2026-06-19T18:10:50.000Z",
       "articleId": "aef59d446ea5b63d"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
-      "title": "The secret cause of the industrial revolution",
-      "url": "https://www.worksinprogress.news/p/how-smashing-the-nimbys-created-modern",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "In 1688, England swept away the encrusted vetocracy that had held back economic growth for centuries. Could we do the same today?",
-      "publishedAt": "2026-06-19T14:15:58.000Z",
-      "articleId": "f05132a9c98d0ed2"
     }
   ],
   "sources": [
@@ -1492,10 +1481,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1628,10 +1617,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
