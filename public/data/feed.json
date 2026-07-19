@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-19T17:11:49.676Z",
-  "fetchedAt": "2026-07-19T17:11:49.672Z",
+  "generatedAt": "2026-07-19T19:21:51.479Z",
+  "fetchedAt": "2026-07-19T19:21:51.475Z",
   "sourceCount": 21,
-  "itemCount": 133,
-  "totalItemCount": 757,
+  "itemCount": 132,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-in-everything-78",
+      "title": "Markets in everything?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Peter Brook‘s five-hour-plus film adaptation of “The Mahabharata” is set for a BFI Blu-ray release on Aug. 10, presented in high definition from a new 4K restoration of the 1989 production. The release centres on the triptych version of the film, running 332 minutes, which sits between Brook’s three-hour cinema cut and the six-hour television version he shot [&#8230;] The post Markets in everything? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-19T19:10:49.000Z",
+      "articleId": "65fe5c83d07f742e"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-4c8",
       "title": "Sunday Thread + Mailbag",
@@ -312,17 +323,6 @@
       "summary": "...",
       "publishedAt": "2026-07-16T22:18:00.000Z",
       "articleId": "04e6091e6745982d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai",
-      "title": "Governing agentic AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From a new paper by Shruti Rajagopalan: AI agents now transact, publish, and act on external systems without contemporaneous human approval, creating new regulatory challenges. A growing literature has responded with proposals for legal personhood. This Article argues that personhood is neither necessary nor sufficient, shifting the question from status to enforcement. The Article first [&#8230;] The post Governing agentic AI appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-16T20:23:55.000Z",
-      "articleId": "15702369bd9889a7"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/0ic8qcs0vlb2h53lhor6.html",
@@ -1456,17 +1456,6 @@
       "summary": "A guest post by Hiroko Yoda.",
       "publishedAt": "2026-06-20T07:34:35.000Z",
       "articleId": "a2e40395a731531e"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/americas-non-violent-future",
-      "title": "America's non-violent future",
-      "url": "https://scottsumner.substack.com/p/americas-non-violent-future",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus: Trends in (pot/booze/cigarette/opioid) addiction",
-      "publishedAt": "2026-06-19T18:10:50.000Z",
-      "articleId": "aef59d446ea5b63d"
     }
   ],
   "sources": [
@@ -1481,10 +1470,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
