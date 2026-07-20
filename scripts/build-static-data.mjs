@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url";
 const MAX_AGE_DAYS = parsePositiveInt(process.env.STATIC_MAX_AGE_DAYS, 30);
 const RECENT_REFRESH_COUNT = parsePositiveInt(process.env.STATIC_REFRESH_RECENT_COUNT, 40);
 const FETCH_CONCURRENCY = parsePositiveInt(process.env.STATIC_CONCURRENCY, 5);
+const WEATHER_FALLBACK_MAX_AGE_MS = 36 * 60 * 60 * 1000;
 
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dataDir = path.join(rootDir, "public", "data");
@@ -29,7 +30,10 @@ console.log(
 );
 
 const liveFeed = await aggregateSources();
-const feed = stabilizeFeedWithPreviousSnapshot(liveFeed, previousFeed);
+const feed = stabilizeWeatherWithPreviousSnapshot(
+  stabilizeFeedWithPreviousSnapshot(liveFeed, previousFeed),
+  previousFeed
+);
 const now = new Date();
 const nowIso = now.toISOString();
 const recentCutoffMs = now.getTime() - daysToMilliseconds(MAX_AGE_DAYS);
@@ -101,6 +105,8 @@ await runWithConcurrency(articleTasks, FETCH_CONCURRENCY, async (task, taskIndex
   console.log(`${marker} ${task.item.source} :: ${task.item.title}`);
 });
 
+const weather = await buildWeatherSnapshot(feed.weather);
+
 const feedPayload = {
   generatedAt: nowIso,
   fetchedAt: feed.fetchedAt || nowIso,
@@ -108,6 +114,9 @@ const feedPayload = {
   itemCount: items.length,
   totalItemCount: feed.itemCount || items.length,
   items: items.map(stripTransientFeedFields),
+  weather,
+  weatherGeneratedAt: weather ? nowIso : null,
+  weatherError: feed.weatherError || null,
   sources: feed.sources || [],
 };
 
@@ -149,6 +158,45 @@ function stripTransientFeedFields(item) {
   const output = { ...item };
   delete output.feedContentHtml;
   return output;
+}
+
+async function buildWeatherSnapshot(rawWeather) {
+  if (!rawWeather?.url) {
+    return null;
+  }
+
+  const weather = { ...rawWeather };
+  const canonicalUrl = canonicalizeUrl(weather.url) || weather.url;
+  const existingEntry = entries[canonicalUrl];
+  const articleId = existingEntry?.id || createArticleId(canonicalUrl);
+  const articlePath = path.join(articlesDir, `${articleId}.json`);
+  if (weather.stale && (await fileExists(articlePath))) {
+    weather.articleId = articleId;
+    console.log(`Weather: reused ${weather.dailyDigitLabel || "--/10"} :: ${weather.title}`);
+    return stripTransientFeedFields(weather);
+  }
+
+  const payload = await safeBuildArticlePayload(weather);
+  const outputPayload = { ...payload };
+  delete outputPayload.cached;
+
+  await writeJson(articlePath, outputPayload);
+
+  entries[canonicalUrl] = {
+    ...existingEntry,
+    id: articleId,
+    source: weather.source || "Capital Weather",
+    title: weather.title || "DC-area forecast",
+    firstSeenAt: existingEntry?.firstSeenAt || nowIso,
+    lastSeenAt: nowIso,
+    updatedAt: nowIso,
+    mode: outputPayload.mode,
+    access: outputPayload.access || weather.access || "open",
+  };
+
+  weather.articleId = articleId;
+  console.log(`Weather: ${weather.dailyDigitLabel || "--/10"} :: ${weather.title}`);
+  return stripTransientFeedFields(weather);
 }
 
 async function readJson(filePath, fallbackValue) {
@@ -245,6 +293,26 @@ function stabilizeFeedWithPreviousSnapshot(currentFeed, previousFeed) {
     itemCount: dedupedItems.length,
     items: dedupedItems,
     sources: mergedSources,
+  };
+}
+
+function stabilizeWeatherWithPreviousSnapshot(currentFeed, previousFeed) {
+  if (!currentFeed || currentFeed.weather || !previousFeed?.weather) {
+    return currentFeed;
+  }
+
+  const publishedAt = Date.parse(previousFeed.weather.publishedAt || "");
+  if (!Number.isFinite(publishedAt) || Date.now() - publishedAt > WEATHER_FALLBACK_MAX_AGE_MS) {
+    return currentFeed;
+  }
+
+  console.log("Reused previous snapshot for Capital Weather.");
+  return {
+    ...currentFeed,
+    weather: {
+      ...previousFeed.weather,
+      stale: true,
+    },
   };
 }
 

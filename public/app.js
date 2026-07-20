@@ -2,6 +2,7 @@ const state = {
   loading: true,
   items: [],
   sources: [],
+  weather: null,
   selectedSource: "all",
   searchText: "",
   generatedAt: null,
@@ -24,6 +25,9 @@ const searchInput = document.querySelector("#searchInput");
 const homeLink = document.querySelector("#homeLink");
 const brandBlock = document.querySelector(".brand-block");
 const issueKicker = document.querySelector(".issue-kicker");
+const weatherTicket = document.querySelector("#weatherTicket");
+const weatherScore = document.querySelector("#weatherScore");
+const weatherHeadline = document.querySelector("#weatherHeadline");
 const readerPanel = document.querySelector("#readerPanel");
 const readerRailTitle = document.querySelector("#readerRailTitle");
 const readerLink = document.querySelector("#readerLink");
@@ -81,7 +85,7 @@ window.addEventListener("resize", () => {
 
 window.addEventListener("popstate", (event) => {
   if (event.state?.reader && event.state.readerId) {
-    const item = state.items.find((candidate) => resolveReaderStateId(candidate) === event.state.readerId);
+    const item = findReaderItem(event.state.readerId);
     if (item) {
       openReader(item, { fromHistory: true }).catch((error) => {
         console.error(error);
@@ -112,6 +116,16 @@ homeLink.addEventListener("click", (event) => {
   selectSource("all");
   window.scrollTo({ top: 0, behavior: "smooth" });
   triggerRefresh();
+});
+
+weatherTicket?.addEventListener("click", () => {
+  if (!state.weather) {
+    return;
+  }
+
+  openReader(state.weather).catch((error) => {
+    console.error(error);
+  });
 });
 
 primeHistoryState();
@@ -169,6 +183,7 @@ async function loadFeed(force = false) {
     const payload = await response.json();
     state.items = (payload.items || []).map(normalizeFeedItemText);
     state.sources = payload.sources || [];
+    state.weather = normalizeFeedItemText(payload.weather || null);
     state.generatedAt = payload.generatedAt || payload.fetchedAt || new Date().toISOString();
     state.cached = true;
   } catch (error) {
@@ -185,9 +200,33 @@ async function loadFeed(force = false) {
 
 function render() {
   renderMeta();
+  renderWeather();
   renderSourceChips();
   renderCards();
   renderReader();
+}
+
+function renderWeather() {
+  if (!weatherTicket || !weatherScore || !weatherHeadline) {
+    return;
+  }
+
+  const weather = state.weather;
+  const digit = Number(weather?.dailyDigit);
+  const hasDigit = Number.isInteger(digit) && digit >= 0 && digit <= 10;
+
+  if (!weather?.articleId || !hasDigit) {
+    weatherTicket.hidden = true;
+    weatherTicket.removeAttribute("aria-label");
+    return;
+  }
+
+  const digitLabel = weather.dailyDigitLabel || `${digit}/10`;
+  const headline = weather.title || "Today’s DC-area forecast";
+  weatherScore.textContent = digitLabel;
+  weatherHeadline.textContent = headline.replace(/^DC-area forecast:\s*/i, "");
+  weatherTicket.setAttribute("aria-label", `DC Weather: ${digitLabel}. ${headline}`);
+  weatherTicket.hidden = false;
 }
 
 function normalizeFeedItemText(item) {
@@ -1005,6 +1044,18 @@ function resolveReaderStateId(item) {
   }
 
   return item.articleId || item.url || item.title || "";
+}
+
+function findReaderItem(readerId) {
+  if (!readerId) {
+    return null;
+  }
+
+  if (state.weather && resolveReaderStateId(state.weather) === readerId) {
+    return state.weather;
+  }
+
+  return state.items.find((candidate) => resolveReaderStateId(candidate) === readerId) || null;
 }
 
 function buildFallbackArticle(item, reason = "") {

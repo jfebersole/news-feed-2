@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NEWS FEED</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <!-- <link
@@ -85,6 +86,14 @@
         </section>
 
         <aside class="control-rail">
+          <button id="weatherTicket" class="weather-ticket" type="button" hidden>
+            <span class="weather-ticket-topline">
+              <span class="weather-ticket-label">DC Weather:</span>
+              <span id="weatherScore" class="weather-ticket-score"></span>
+            </span>
+            <span id="weatherHeadline" class="weather-ticket-headline"></span>
+            <span class="weather-ticket-cta">Read today’s forecast <span aria-hidden="true">→</span></span>
+          </button>
           <label class="search-box" for="searchInput">
             <span>Search</span>
             <input id="searchInput" type="search" placeholder="Title, source, keyword" />

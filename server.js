@@ -13,6 +13,11 @@ const SUBSTACK_PROXY_FALLBACK_ENABLED = process.env.SUBSTACK_PROXY_FALLBACK_ENAB
 const RSS_PROXY_TEMPLATE = (process.env.RSS_PROXY_TEMPLATE || "").trim();
 const RSS2JSON_API_KEY = (process.env.RSS2JSON_API_KEY || "").trim();
 const DEFAULT_RSS_PROXY_BASE_URL = "https://api.rss2json.com/v1/api.json";
+const DC_WEATHER_SOURCE = Object.freeze({
+  name: "Capital Weather",
+  url: "https://www.capitalweather.com/",
+  feedUrl: "https://www.capitalweather.com/rss/",
+});
 
 const parser = new Parser({
   timeout: 15_000,
@@ -377,18 +382,24 @@ async function buildArticlePayload({
 }
 
 async function aggregateSources() {
-  const sourceResults = await mapWithConcurrency(SOURCES, SOURCE_FETCH_CONCURRENCY, async (source) => {
-    try {
-      return await pullSource(source);
-    } catch (error) {
-      return {
-        source,
-        mode: "failed",
-        items: [],
-        error: error instanceof Error ? error.message : "Unknown source error",
-      };
-    }
-  });
+  const [sourceResults, weatherResult] = await Promise.all([
+    mapWithConcurrency(SOURCES, SOURCE_FETCH_CONCURRENCY, async (source) => {
+      try {
+        return await pullSource(source);
+      } catch (error) {
+        return {
+          source,
+          mode: "failed",
+          items: [],
+          error: error instanceof Error ? error.message : "Unknown source error",
+        };
+      }
+    }),
+    pullDailyWeather().catch((error) => ({
+      item: null,
+      error: error instanceof Error ? error.message : "Unknown Capital Weather error",
+    })),
+  ]);
   const allItems = sourceResults.flatMap((result) => result.items);
   const deduped = dedupeByUrl(allItems);
 
@@ -403,6 +414,8 @@ async function aggregateSources() {
     sourceCount: SOURCES.length,
     itemCount: deduped.length,
     items: deduped,
+    weather: weatherResult.item,
+    weatherError: weatherResult.error || null,
     sources: sourceResults.map((result) => ({
       name: result.source.name,
       url: result.source.url,
@@ -411,6 +424,67 @@ async function aggregateSources() {
       feedUrl: result.feedUrl || null,
       error: result.error || null,
     })),
+  };
+}
+
+async function pullDailyWeather() {
+  const parsed = await withRetry(() => parser.parseURL(DC_WEATHER_SOURCE.feedUrl), {
+    attempts: 3,
+    baseDelayMs: 450,
+  });
+  const candidates = (parsed.items || [])
+    .map((item) => normalizeFeedItem(item, DC_WEATHER_SOURCE))
+    .filter((item) => item && /^dc-area forecast\s*:/i.test(item.title))
+    .sort((a, b) => {
+      const aTime = a.publishedAt ? Date.parse(a.publishedAt) : 0;
+      const bTime = b.publishedAt ? Date.parse(b.publishedAt) : 0;
+      return bTime - aTime;
+    });
+
+  for (const candidate of candidates) {
+    const digit = extractDailyDigit(candidate.feedContentHtml || candidate.summary);
+    if (!digit) {
+      continue;
+    }
+
+    return {
+      item: {
+        ...candidate,
+        dailyDigit: digit.value,
+        dailyDigitLabel: `${digit.value}/10`,
+        dailyDigitSummary: digit.summary,
+      },
+      error: null,
+    };
+  }
+
+  throw new Error("Capital Weather RSS did not include a DC-area forecast with a daily digit.");
+}
+
+function extractDailyDigit(value) {
+  const text = cleanText(typeof value === "string" ? value : "");
+  if (!text) {
+    return null;
+  }
+
+  const marker =
+    /(?:today(?:'|’)?s\s+)?daily\s+digit(?:\s+(?:is|was))?\s*(?:—|–|-|:)?\s*(10|[0-9])\s*\/\s*10/i;
+  const match = text.match(marker);
+  if (!match || match.index === undefined) {
+    return null;
+  }
+
+  const parsedValue = Number.parseInt(match[1], 10);
+  if (!Number.isInteger(parsedValue) || parsedValue < 0 || parsedValue > 10) {
+    return null;
+  }
+
+  const afterMarker = text.slice(match.index + match[0].length);
+  const summaryMatch = afterMarker.match(/^\s*:\s*([\s\S]{1,360}?)(?=\s*\|\s*(?:🤚|your call)|\s+the\s+digit\s+is\b|$)/i);
+
+  return {
+    value: parsedValue,
+    summary: cleanText(summaryMatch?.[1] || ""),
   };
 }
 
@@ -1088,7 +1162,16 @@ function cleanText(value) {
     .replace(/&quot;|&#34;/gi, '"')
     .replace(/&#39;|&#x27;|&apos;/gi, "'")
     .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">");
+    .replace(/&gt;/gi, ">")
+    .replace(/&#(x[0-9a-f]+|\d+);/gi, (entity, rawCodePoint) => {
+      const isHex = rawCodePoint.toLowerCase().startsWith("x");
+      const codePoint = Number.parseInt(isHex ? rawCodePoint.slice(1) : rawCodePoint, isHex ? 16 : 10);
+      if (!Number.isInteger(codePoint) || codePoint < 0 || codePoint > 0x10ffff) {
+        return entity;
+      }
+
+      return String.fromCodePoint(codePoint);
+    });
 
   const stripped = normalized
     .replace(/<!--[\s\S]*?-->/g, " ")
@@ -1674,6 +1757,10 @@ function shouldKeepContentBlock($, element, options = {}) {
   }
 
   if (tag === "p" && text.length < 18 && !hasLinks && !hasImages) {
+    if (text.length >= 3 && node.children("strong").length > 0) {
+      return true;
+    }
+
     if (/:\s*$/.test(text) && text.length >= 5) {
       return true;
     }
@@ -2810,4 +2897,12 @@ async function mapWithConcurrency(items, limit, mapper) {
   return output;
 }
 
-export { SOURCES, aggregateSources, buildArticlePayload, canonicalizeUrl, inferAccessLevel };
+export {
+  SOURCES,
+  aggregateSources,
+  buildArticlePayload,
+  canonicalizeUrl,
+  extractDailyDigit,
+  inferAccessLevel,
+  pullDailyWeather,
+};

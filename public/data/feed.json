@@ -1836,5 +1836,21 @@
       "feedUrl": "https://www.joshbarro.com/feed",
       "error": null
     }
-  ]
+  ],
+  "weather": {
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
+    "title": "DC-area forecast: Nice today but threat of severe storms Tuesday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
+    "source": "Capital Weather",
+    "sourceUrl": "https://www.capitalweather.com/",
+    "access": "open",
+    "summary": "HAPPENING NOW: Great-looking weather today with sunshine, manageable humidity, and afternoon highs in the 80s.",
+    "publishedAt": "2026-07-20T09:00:10.000Z",
+    "dailyDigit": 8,
+    "dailyDigitLabel": "8/10",
+    "dailyDigitSummary": "Worry-free weather today, a welcome change after days of smoke, heat and storms.",
+    "articleId": "21c48eefa4bdf39d"
+  },
+  "weatherGeneratedAt": "2026-07-20T20:23:55.444Z",
+  "weatherError": null
 }

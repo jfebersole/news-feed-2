@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "build:data": "node scripts/build-static-data.mjs",
+    "build:weather": "node scripts/build-static-weather.mjs",
+    "test": "node --test",
     "start": "node server.js",
     "dev": "node server.js"
   },

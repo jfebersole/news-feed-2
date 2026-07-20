@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-15T03:35:13.072Z",
+  "generatedAt": "2026-07-20T20:23:55.444Z",
   "entries": {
     "https://neilpaine.substack.com/p/challengers-and-challenges": {
       "id": "31e42f3c449df213",
@@ -3667,6 +3667,16 @@
       "updatedAt": "2026-04-15T03:35:13.072Z",
       "mode": "excerpt",
       "access": "paywalled"
+    },
+    "https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/": {
+      "id": "21c48eefa4bdf39d",
+      "source": "Capital Weather",
+      "title": "DC-area forecast: Nice today but threat of severe storms Tuesday",
+      "firstSeenAt": "2026-07-20T20:22:52.806Z",
+      "lastSeenAt": "2026-07-20T20:23:55.444Z",
+      "updatedAt": "2026-07-20T20:23:55.444Z",
+      "mode": "full",
+      "access": "open"
     }
   }
 }
