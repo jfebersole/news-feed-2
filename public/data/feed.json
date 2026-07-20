@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-20T20:39:03.130Z",
-  "fetchedAt": "2026-07-20T20:39:03.126Z",
+  "generatedAt": "2026-07-20T22:10:47.384Z",
+  "fetchedAt": "2026-07-20T22:10:47.381Z",
   "sourceCount": 21,
   "itemCount": 132,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
+      "title": "Democratic fields are shifting; G.O.P. bank accounts are growing",
+      "url": "https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "From Maine to Wisconsin, Democratic primaries have been upended as G.O.P. incumbents and super PACs continue stockpiling cash ahead of 2026.",
+      "publishedAt": "2026-07-20T22:01:05.000Z",
+      "articleId": "d1f0e12cdac5cd89"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
+      "title": "Words of wisdom on Chinese AI and our responses",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The strategy for China is obvious: commoditize your complements. Note that Xi explicitly ties openness to AI “moving from the digital world into the physical world”; the physical world is the world dominated by China, and the country’s lead in areas like robotics is going to massively benefit from widely available AI models. Along the […] The post Words of wisdom on Chinese AI and our responses appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-20T21:11:03.000Z",
+      "articleId": "cadec7d74c76236b"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ajxgkb08szyhrzophhey.html",
       "title": "Money Stuff: Ice Cream Hedging",
@@ -301,17 +323,6 @@
       "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
       "publishedAt": "2026-07-17T18:24:28.000Z",
       "articleId": "8fad9dc8a4e4347a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-581",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. David Wallace-Wells on the status of reading (NYT). 2. Very good, very positive Kimi ad. 3. Balaji update. 4. An eighth-century Mayan mathematician. 5. Yet another balloon. 6. Nearby planet with helium-rich atmosphere (NYT). 7. Henry Oliver did not like The Movie. The post Friday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-17T17:12:39.000Z",
-      "articleId": "6623f779aec33172"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/mainframes-and-main-characters/",
@@ -862,17 +873,6 @@
       "summary": "...",
       "publishedAt": "2026-07-09T16:19:53.000Z",
       "articleId": "0b2da671b23e59d4"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/mark-carneys-national-liberalism",
-      "title": "Mark Carney’s national liberalism",
-      "url": "https://www.slowboring.com/p/mark-carneys-national-liberalism",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The center-left exception to the rule",
-      "publishedAt": "2026-07-09T10:01:46.000Z",
-      "articleId": "22d0d3d22e258755"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7419388/2026/07/09/new-york-giants-training-camp-roster-arvell-reese-dj-reader/",
@@ -1460,19 +1460,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
-    "title": "DC-area forecast: Nice today but threat of severe storms Tuesday",
+    "title": "DC-area forecast: Isolated storm tonight but threat of severe weather Tuesday",
     "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Great-looking weather today with sunshine, manageable humidity, and afternoon highs in the 80s.",
+    "summary": "HAPPENING NOW: It's a nice evening with modest humidity and temperatures slowly falling through the 80s.",
     "publishedAt": "2026-07-20T09:00:10.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Worry-free weather today, a welcome change after days of smoke, heat and storms.",
     "articleId": "21c48eefa4bdf39d"
   },
-  "weatherGeneratedAt": "2026-07-20T20:39:03.130Z",
+  "weatherGeneratedAt": "2026-07-20T22:10:47.384Z",
   "weatherError": null,
   "sources": [
     {
@@ -1614,10 +1614,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
