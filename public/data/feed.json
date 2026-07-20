@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-20T03:58:28.382Z",
-  "fetchedAt": "2026-07-20T03:58:28.377Z",
+  "generatedAt": "2026-07-20T07:24:49.868Z",
+  "fetchedAt": "2026-07-20T07:24:49.863Z",
   "sourceCount": 21,
-  "itemCount": 133,
+  "itemCount": 134,
   "totalItemCount": 768,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-uk-is-a-cautionary-tale-for-the",
+      "title": "The UK is a cautionary tale for the U.S.",
+      "url": "https://www.noahpinion.blog/p/the-uk-is-a-cautionary-tale-for-the",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Learning from Britain's missteps doesn't mean looking down on them.",
+      "publishedAt": "2026-07-20T06:51:10.000Z",
+      "articleId": "0de764faf2dea487"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/democrats-are-more-politically-segregated-than-are-republicans.html?utm_source=rss&utm_medium=rss&utm_campaign=democrats-are-more-politically-segregated-than-are-republicans",
+      "title": "Democrats are more politically segregated than are Republicans",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/democrats-are-more-politically-segregated-than-are-republicans.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval (CI) [10.6, 12.8]) more Democratic than the average Republican’s. After controlling for [&#8230;] The post Democrats are more politically segregated than are Republicans appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-20T05:27:38.000Z",
+      "articleId": "513685325ccf102d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-winners-56th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-56th-cohort",
+      "title": "Emergent Ventures winners, 56th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-winners-56th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Audrey London, Los Angeles, to write a book on water in California. Seyi Oluwasanmi, London, to bring Brits to SF to learn tech. Thomas Haferlach, Berlin, payments and compute layer for the long tail of AI apps. Juan Ramón Egea Fernández, Andalusia, tech. Teo Spiro, Israel, AI and biology. Amitav Krishna, suburban Ontario, 14, quantum. [&#8230;] The post Emergent Ventures winners, 56th cohort appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-20T04:33:26.000Z",
+      "articleId": "852ba0c2ad3c0976"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/spain-the-best-team-maybe-ever-won",
       "title": "Spain, the Best Team (Maybe Ever?), Won One of the Best World Cups Ever... Eventually",
@@ -290,28 +323,6 @@
       "summary": "Whiny people who don't know history are failing to acknowledge trade-offs. That's just how politics is now.",
       "publishedAt": "2026-07-17T09:00:10.000Z",
       "articleId": "1da43dc7804ae361"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/why-crime-will-decline-in-most-of-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=why-crime-will-decline-in-most-of-brazil",
-      "title": "Why crime will decline in (most of) Brazil",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/why-crime-will-decline-in-most-of-brazil.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The system, introduced in 2024, uses facial recognition to spot people wanted by police on São Paulo’s streets. It issues alerts and officers are dispatched to pick them up. The system can also locate people who have been reported missing, identify stolen vehicles and provide footage to police investigations. Streamed to its control room in [&#8230;] The post Why crime will decline in (most of) Brazil appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-17T07:03:48.000Z",
-      "articleId": "d18ce79603a8b3f3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-belongs-to-ai-maniacs",
-      "title": "The future belongs to AI maniacs",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the theme of my latest Free Press column, excerpt: An AI maniac is someone who is obsessed with working with the latest AI models. They try out new models as soon as they can, they spend hours and hours trying to master them, and they use them to regulate both their workflows and [&#8230;] The post The future belongs to AI maniacs appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-17T04:11:30.000Z",
-      "articleId": "d04fd0bba2ebbf47"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/book-review-power-and-progress-874",
@@ -1609,18 +1620,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
