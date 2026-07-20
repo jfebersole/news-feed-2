@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-20T07:24:49.868Z",
-  "fetchedAt": "2026-07-20T07:24:49.863Z",
+  "generatedAt": "2026-07-20T11:10:52.785Z",
+  "fetchedAt": "2026-07-20T11:10:52.779Z",
   "sourceCount": 21,
-  "itemCount": 134,
-  "totalItemCount": 768,
+  "itemCount": 132,
+  "totalItemCount": 762,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "title": "Who’s Afraid of Chinese Models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
+      "publishedAt": "2026-07-20T11:00:08.000Z",
+      "articleId": "39fb82bc57e50803"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-futile-quest-to-define-class",
+      "title": "The futile quest to define class in America",
+      "url": "https://www.slowboring.com/p/the-futile-quest-to-define-class",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The economy is way more complicated than workers vs. owners.",
+      "publishedAt": "2026-07-20T10:01:20.000Z",
+      "articleId": "80266e8120c927a1"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-uk-is-a-cautionary-tale-for-the",
       "title": "The UK is a cautionary tale for the U.S.",
@@ -400,17 +422,6 @@
       "summary": "The Supreme Court isn&#8217;t on your side.",
       "publishedAt": "2026-07-16T10:02:10.000Z",
       "articleId": "9a74326041fc6222"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
-      "title": "We Don't Know What We Want From All-Star Games",
-      "url": "https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Fans rejected the NBA's artificial spectacle. Then baseball gave them something more real — and they hated that, too.",
-      "publishedAt": "2026-07-16T09:02:12.000Z",
-      "articleId": "7679daca1073297c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
@@ -862,17 +873,6 @@
       "summary": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "articleId": "e9717fb151f9a02b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/jane-jacobss-urbanism-without-economics",
-      "title": "Jane Jacobs’s urbanism without economics",
-      "url": "https://www.slowboring.com/p/jane-jacobss-urbanism-without-economics",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Matt and Jerusalem revisit &#8220;The Death and Life of Great American Cities.&#8221;",
-      "publishedAt": "2026-07-09T09:01:00.000Z",
-      "articleId": "422f78a5d5429145"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-july-2026",
@@ -1359,17 +1359,6 @@
       "articleId": "ab089a912d848ee4"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
-      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
-      "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "articleId": "0132d18e67d01748"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
       "title": "China is winning the other tech race",
       "url": "https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
@@ -1467,17 +1456,6 @@
       "summary": "A new housing bill, General Motors joining the grid-scale battery game, skepticism about data center delays, solid-state air conditioning, and more.",
       "publishedAt": "2026-06-20T12:01:56.000Z",
       "articleId": "101179ed05cb3081"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/what-defines-japans-national-identity",
-      "title": "What defines Japan's national identity?",
-      "url": "https://www.noahpinion.blog/p/what-defines-japans-national-identity",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A guest post by Hiroko Yoda.",
-      "publishedAt": "2026-06-20T07:34:35.000Z",
-      "articleId": "a2e40395a731531e"
     }
   ],
   "sources": [
@@ -1532,10 +1510,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 5,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -1557,7 +1535,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1620,10 +1598,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
