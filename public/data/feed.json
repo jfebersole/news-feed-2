@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-20T11:10:52.785Z",
-  "fetchedAt": "2026-07-20T11:10:52.779Z",
+  "generatedAt": "2026-07-20T14:30:37.776Z",
+  "fetchedAt": "2026-07-20T14:30:37.771Z",
   "sourceCount": 21,
-  "itemCount": 132,
-  "totalItemCount": 762,
+  "itemCount": 131,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html?utm_source=rss&utm_medium=rss&utm_campaign=whit-stillmans-metropolitan-that-was-then-this-is-now",
+      "title": "Whit Stillman’s *Metropolitan* (that was then, this is now)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It is fun to watch/rewatch this 1990 movie circa 2026. It is about New York City debutantes (CT and the Hamptons too), and how they interact with each other. The movie is set a bit earlier in time, perhaps in the mid-1980s, though some scenes hearken back to the 1970s. Of course there is no [&#8230;] The post Whit Stillman&#8217;s *Metropolitan* (that was then, this is now) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-20T11:25:12.000Z",
+      "articleId": "d8e3e1fbdc6be680"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "title": "Who’s Afraid of Chinese Models?",
@@ -301,17 +312,6 @@
       "summary": "Finalist #2 in the Book Review Contest",
       "publishedAt": "2026-07-17T15:22:53.000Z",
       "articleId": "c0d8b4fed2186233"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-phone-is-a-cow.html?utm_source=rss&utm_medium=rss&utm_campaign=a-phone-is-a-cow",
-      "title": "A Phone is a Cow",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-phone-is-a-cow.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Philip Auerswald&#8217;s A Phone is a Cow is three books in one, it&#8217;s a history of the mobile phone, it&#8217;s a business biography of Iqbal Quadir, who brought the cell phone to Bangladesh at at time when that seemed quixotic and doomed to fail, and it&#8217;s a theory of economic growth. It succeeds on all [&#8230;] The post A Phone is a Cow appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-17T11:20:42.000Z",
-      "articleId": "53b1acda107b4df0"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-data-center-backlash-isnt-just",
@@ -1445,17 +1445,6 @@
       "summary": "Or, why there was never a third British Invasion",
       "publishedAt": "2026-06-21T13:31:19.000Z",
       "articleId": "874f5003729e495b"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-062026",
-      "title": "Reading List 06/20/26",
-      "url": "https://www.construction-physics.com/p/reading-list-062026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A new housing bill, General Motors joining the grid-scale battery game, skepticism about data center delays, solid-state air conditioning, and more.",
-      "publishedAt": "2026-06-20T12:01:56.000Z",
-      "articleId": "101179ed05cb3081"
     }
   ],
   "sources": [
@@ -1510,10 +1499,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 5,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
@@ -1606,10 +1595,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
