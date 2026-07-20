@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T16:41:55.238Z",
-  "fetchedAt": "2026-07-20T16:41:55.233Z",
+  "generatedAt": "2026-07-20T19:05:17.428Z",
+  "fetchedAt": "2026-07-20T19:05:17.423Z",
   "sourceCount": 21,
-  "itemCount": 131,
+  "itemCount": 132,
   "totalItemCount": 767,
   "items": [
     {
@@ -15,6 +15,17 @@
       "summary": "1. &#8220;In all three countries, declining places displayed higher animosity prior to salient populist campaigns.&#8221; In their tweets. 2. Sunstein on Hayek and conservatism. 3. Jacobian conjecture proved false. Fable found a counterexample that fits inside a tweet. From the strawberry guy: &#8220;in the areas that the labs are targeting, we’ve achieved artificial super intelligence. [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-20T16:34:14.000Z",
       "articleId": "5d4634b403db5743"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
+      "title": "Aah, the Machinations of Life",
+      "url": "https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Life has been, and always will be, hard, but it is still meaningful, and beautiful",
+      "publishedAt": "2026-07-20T15:27:34.000Z",
+      "articleId": "1a004acb9112bd6e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html?utm_source=rss&utm_medium=rss&utm_campaign=whit-stillmans-metropolitan-that-was-then-this-is-now",
@@ -1587,18 +1598,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
