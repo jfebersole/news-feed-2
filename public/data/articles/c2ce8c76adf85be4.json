@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html",
+  "source": "Marginal Revolution",
+  "title": "Again, the research paper format will be dying out",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-06-12T06:44:10.000Z",
+  "contentHtml": "<p><a href=\"https://x.com/xudong07452910/status/2064185716926460328?s=61\" target=\"_blank\" rel=\"noopener noreferrer\">From Xudong Han</a>:</p>\n<blockquote><p>‘Recently, I came across a paper co-authored by 37 authors from Stanford, CMU, Michigan, and elsewhere: *The Last Human-Written Paper*.</p>\n<p>The core argument is pretty brutal: the paper format we’ve been using for centuries might already be obsolete in the AI era.</p>\n<p>The authors point out two “invisible taxes” that we’ve long overlooked:</p>\n<p>One is the narrative tax. To tell a compelling story, we delete failed experiments, dead ends, and overturned hypotheses. What AI reads is a “walkthrough guide” to beating the game, but it misses the truly valuable “pitfall logs.”</p>\n<p>The other is the engineering tax. The implementation details in papers are usually enough to convince reviewers, but not enough for an Agent to directly reproduce. Many key tricks are still buried in the authors’ heads, code comments, and Slack threads.</p>\n<p>So the authors propose ARA, transforming papers directly into “research packages” that Agents can read and execute: not just telling you the conclusions, but packaging in how they were reached, how the code runs, where the evidence chain is, and which paths led nowhere.</p>\n<p>I think the most intriguing part of this paper is that it’s not discussing how AI can help humans write papers—it’s asking:</p>\n<p>When AI also becomes a reader and executor of papers, should papers still look like they do today?</p>\n<p>In the future, the core of research output might no longer be “how much it resembles a paper,” but whether it can be understood, reproduced, traced, and iteratively extended by AI.</p>\n<p>Humans have been writing papers for centuries—next, we might start writing research packages for Agents to execute.</p></blockquote>\n<p>Here is <a href=\"https://marginalrevolution.com/marginalrevolution/2026/05/will-ai-kill-the-research-paper.html\" target=\"_blank\" rel=\"noopener noreferrer\">my earlier post on whether the research paper will die out</a>.&nbsp; By the way, as a side point has anyone mentioned that, due to writing detection abilities of AI models, anonymous referee reports are now a thing of the past?</p>",
+  "wordCount": 309,
+  "imageCount": 0,
+  "linkCount": 2
+}

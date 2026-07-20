@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/05/revealing-life-preferences-through-llms.html",
+  "source": "Marginal Revolution",
+  "title": "Revealing Life Preferences Through LLMs",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-05-16T18:57:22.000Z",
+  "contentHtml": "<p>Here is some Weberian verstehen (or is it?), but from unexpected quarters:</p>\n<blockquote><p>Large Language Models (LLMs) are trained on a prodigious corpus of human writing and may reveal human preferences over characteristics of life courses, such as income, longevity, and working conditions. We present OpenAI’s GPT-5.4 and a broadly representative sample of Americans with pairs of life stories and ask them to choose the life they would prefer for themselves. A person’s choice is better predicted by the LLM’s choice than by another person’s choice over the same stories, and LLM valuations of several life attributes are similar to those derived from human responses. Our results suggest that LLM responses offer a scalable and cost-effective complement to existing methods for studying human preferences.</p></blockquote>\n<p>That is from <a href=\"https://www.nber.org/papers/w35185#fromrss\" target=\"_blank\" rel=\"noopener noreferrer\">a new NBER working paper</a> by     </p>",
+  "wordCount": 132,
+  "imageCount": 0,
+  "linkCount": 1
+}

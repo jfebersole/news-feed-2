@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html",
+  "source": "Marginal Revolution",
+  "title": "&#8220;Markets are competitive if and only if P != NP&#8221;",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-07-13T06:55:13.000Z",
+  "contentHtml": "<blockquote><p>I prove that competitive market outcomes require computational intractability. If P = NP, firms can efficiently solve the collusion detection problem, identifying deviations from cooperative agreements in complex, noisy markets and thereby making collusion sustainable as an equilibrium. If P != NP, the collusion detection problem is computationally infeasible for markets satisfying a natural instance-hardness condition on their demand structure, rendering punishment threats non-credible and collusion unstable. Combined with Maymin (2011), who proved that market efficiency requires P = NP, this yields a fundamental impossibility: markets can be informationally efficient or competitive, but not both. Artificial intelligence, by expanding firms’ computational capabilities, is pushing markets from the competitive regime toward the collusive regime, explaining the empirical emergence of algorithmic collusion without explicit coordination.</p></blockquote>\n<p><a href=\"https://arxiv.org/abs/2602.20415\" target=\"_blank\" rel=\"noopener noreferrer\">From Philip Z. Maymin</a>.&nbsp; File under “Claims…”</p>\n<p>Via <a href=\"https://soniafpearson.substack.com/p/radiating-humanity\" target=\"_blank\" rel=\"noopener noreferrer\">Sonia Farrell Pearson</a>.</p>",
+  "wordCount": 134,
+  "imageCount": 0,
+  "linkCount": 2
+}

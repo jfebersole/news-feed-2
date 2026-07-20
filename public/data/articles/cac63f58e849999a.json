@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-well-does-current-ai-find-errors-in-economics-papers.html",
+  "source": "Marginal Revolution",
+  "title": "How well does current AI find errors in economics papers?",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-06-09T18:20:40.000Z",
+  "contentHtml": "<blockquote><p>Can artificial intelligence (AI) refute economic theory? I document experiments in which I asked several AI models (Gemini, Refine, Claude, and ChatGPT) to check the correctness of four published papers in economic theory, each containing an error that I helped identify or correct. ChatGPT Pro performed best, occasionally constructing counterexamples and corrected proofs, while other models fared worse. However, no model located a true error without substantial human guidance, and data contamination complicates interpretation. I argue that a competent human paired with a frontier model can outperform current peer review, but AI cannot yet refute economic theory on its own.</p></blockquote>\n<p>That is from <a href=\"https://arxiv.org/pdf/2606.05383\" target=\"_blank\" rel=\"noopener noreferrer\">a new piece</a> by Alexis Akira Toda.</p>",
+  "wordCount": 110,
+  "imageCount": 0,
+  "linkCount": 1
+}

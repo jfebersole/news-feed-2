@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/05/using-agents-to-build-economic-datasets.html",
+  "source": "Marginal Revolution",
+  "title": "Using agents to build economic datasets",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-05-12T04:26:16.000Z",
+  "contentHtml": "<blockquote><p>Constructing datasets from primary sources is one of the costliest tasks in empirical economics. We propose Deep Research on a Loop (DRIL), a methodology that uses AI agents to assemble datasets from publicly available sources. DRIL applies a fixed research instrument across a mapped unit space (e.g., countries by years), with a two-stage architecture separating design from implementation. The instrument specifies variables and coding rules, an evidence policy governs sources and citations, and data quality mechanisms track gaps and uncertainty explicitly. We exercise DRIL on a 2025 update of the Global Tax Expenditures Database for eight Latin American and Caribbean countries. The run produces 129 sources and 136 evidence records, covering 22 qualitative fields fully and 6 quantitative estimate types with documented gaps, at the cost of a standard LLM subscription comparable to a few hours of research-assistant work. We argue that even partial automation of dataset construction can shift the production function of empirical economics.</p></blockquote>\n<p>That is from <a href=\"https://www.nber.org/papers/w35188#fromrss\" target=\"_blank\" rel=\"noopener noreferrer\">a new NBER working paper</a> by    </p>",
+  "wordCount": 165,
+  "imageCount": 0,
+  "linkCount": 1
+}

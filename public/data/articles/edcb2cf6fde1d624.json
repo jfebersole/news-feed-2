@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/04/a-comparison-of-agentic-ai-systems-and-human-economists.html",
+  "source": "Marginal Revolution",
+  "title": "A Comparison of Agentic AI Systems and Human Economists",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-04-21T04:25:44.000Z",
+  "contentHtml": "<blockquote><p>This paper compares agentic AI systems and human economists performing the same causal inference tasks. AI systems and humans generally obtain similar median causal effect estimates. While there is substantial dispersion of estimates across model instances, the human distributions of estimates have wider tails. Using AI models as reviewers to compare and rank “submissions,” the following ranking emerges regardless of reviewer model: (1) Codex GPT-5.4, (2) Codex GPT-5.3-Codex, (3) Claude Code Opus 4.6, and (4) Human Researchers. These findings suggest that agentic AI systems will allow us to scale empirical research in economics.</p></blockquote>\n<p>I enjoy the name of the author, namely Serafin Grundl.&nbsp; Here is <a href=\"https://claude-code-economist.com/data/paper.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">the paper</a>, via <a href=\"https://x.com/emollick/status/2046362044786458648\" target=\"_blank\" rel=\"noopener noreferrer\">Ethan Mollick</a>.&nbsp; You could interpret these results as showing the AIs have fewer hallucinations.&nbsp; And just to reiterate a key point from the paper:</p>\n<blockquote><p>The second part of this paper is an AI review tournament in which “submissions” (codes and write-ups) from humans and the AI models are compared and ranked against each other. The reviewers are the following AI models: Gemini 3.1 Pro Preview, Opus 4.6 and GPT-5.4. For each review the reviewer is asked to write a report comparing four submissions (human, Opus 4.6, GPT-5.3-Codex, GPT-5.4). Each reviewer model writes comparison reports for the same 300 comparison groups. The average rankings are strikingly similar across reviewer models: (1) Codex GPT-5.4, (2) Codex GPT-5.3-Codex, (3) Claude Code Opus 4.6, and 2(4) Human Researchers.</p></blockquote>\n<p>Who comes in last?&nbsp; Hi people!</p>",
+  "wordCount": 238,
+  "imageCount": 0,
+  "linkCount": 2
+}
