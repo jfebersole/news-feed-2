@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-21T14:18:10.293Z",
-  "fetchedAt": "2026-07-21T14:18:10.289Z",
+  "generatedAt": "2026-07-21T16:38:57.730Z",
+  "fetchedAt": "2026-07-21T16:38:57.725Z",
   "sourceCount": 21,
   "itemCount": 134,
   "totalItemCount": 768,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-578",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. White on Hutt’s macro. 2. Are LLMs obsessed with Japan? 3. Princeton University art museum gets landmark gift of Haitian paintings. 4. “Sight unseen” — the revenge of asymmetric information. But was it a good buy? 5. “Democratic types would give up about $210,000 and Republican types about $100,000 in annual partner income to […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T16:22:13.000Z",
+      "articleId": "0d5e210453d0b0c1"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
       "title": "Alliterative Artists: An Album a Day",
@@ -323,17 +334,6 @@
       "summary": "A setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.",
       "publishedAt": "2026-07-18T12:01:57.000Z",
       "articleId": "42bf4c13adaa7221"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles",
-      "title": "Trial Lawyers Lobby Against Autonomous Vehicles",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Roughly 37,000–40,000 Americans die in auto accidents every year. We now have large‑scale, real‑world evidence—from Waymo and a joint analysis with Swiss Re—that driverless operations can be substantially safer than matched human driving within their current operating domains. The latest data show that over 220 million miles driven, Waymo vehicles–in Los Angeles, San Francisco, Phoenix, […] The post Trial Lawyers Lobby Against Autonomous Vehicles appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T11:18:18.000Z",
-      "articleId": "306121e70604ff9f"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/americas-political-economy-is-pretty",
@@ -1482,19 +1482,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
-    "title": "DC-area forecast: Heat and humidity fuel the threat of severe storms",
+    "title": "DC-area forecast: Warm and very humid today, with a threat of severe storms",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Humid with spotty morning showers and storms. Then partly sunny, hot and steamy ahead of potentially severe thunderstorms late today.",
+    "summary": "HAPPENING NOW: Partly to mostly cloudy and very humid with afternoon highs in the upper 80s to near 90. Showers and storms are likely during the afternoon into evening, especially between 3 and 9 p.m., and some could be severe.",
     "publishedAt": "2026-07-21T09:00:01.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "Unsatisfactory all around: High heat and humidity, which fuel potential for strong to severe storms.",
+    "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
     "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-21T14:18:10.293Z",
+  "weatherGeneratedAt": "2026-07-21T16:38:57.730Z",
   "weatherError": null,
   "sources": [
     {
@@ -1644,10 +1644,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
