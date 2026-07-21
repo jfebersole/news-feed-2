@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T18:37:58.409Z",
-  "fetchedAt": "2026-07-21T18:37:58.404Z",
+  "generatedAt": "2026-07-21T20:23:01.662Z",
+  "fetchedAt": "2026-07-21T20:23:01.657Z",
   "sourceCount": 21,
   "itemCount": 134,
   "totalItemCount": 767,
@@ -1492,10 +1492,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5"
+    "articleId": "105509822dbbd8e5",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-21T18:37:58.409Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-21T20:23:01.662Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
