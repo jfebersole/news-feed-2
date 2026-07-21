@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-21T16:38:57.730Z",
-  "fetchedAt": "2026-07-21T16:38:57.725Z",
+  "generatedAt": "2026-07-21T18:37:58.409Z",
+  "fetchedAt": "2026-07-21T18:37:58.404Z",
   "sourceCount": 21,
   "itemCount": 134,
-  "totalItemCount": 768,
+  "totalItemCount": 767,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
+      "title": "Money Stuff: LSE Will Trade 22.83 Hours a Day",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff 22.83/5, BLK v. BLK, ticking, VPN, gold. View in browser 22.8333/5 trading Most stock exchanges run on old-fashioned human timeframes. The exchange opens after breakfast, it trades for a while, and then it closes so people can wrap things up, organize all of their trade tickets and leave in time for dinner. Several important exchanges close for lunch . These exchanges all started as trading floors where humans met to trade stocks and wrote down trade tickets by hand; those humans needed time to get organized and also to eat. Obviously now the way you expect to trade stock — or crypto or sports bets or anything else — is by clicking a button on your computer or phone. Your computer does not need a lunch break. You might intuitively assume that it doesn’t need a pause to organize the day’s trading and reconcile its records, either. “What, when I sell you stock, the computer takes the stock out of my account and puts it in your account; that should happen instantly; it doesn’t need to later go back and update all the records to reflect the day’s trading.” There is a sense that the old human rhythm of the trading day is outdated, and a push — caused in part by the rise of active retail trading, in part by globalization of stock markets and in part by the example of crypto — for continuous 24-hour-a-day, seven-day-a-week electronic trading. Still that seems sort of mean. The computers can do a lot of the trading, but humans still need to supervise them; those humans can eat at their desks, I guess, but they need to sleep eventually. Also it turns out that the systems for keeping track of stuff — for financing and reconciling and settling trades — are a bit more complicated than you’d intuitively assume, and the computers would appreciate a little pause to get their books in order. Anyway here’s a press release from the London Stock Exchange: London Stock Exchange today announced plans to launch London Stock Exchange 24 (LSE 24), a new 24/5 trading venue to support the next generation of digital, algorithmic and agentic trading. LSE 24 is designed to support near-continuous trading from Monday to Friday, giving global investors greater flexibility to respond to market events, access liquidity across time zones and manage risk. The venue, which will be built on LSEG’s trusted financial market infrastructure, complements existing market structures by preserving the resilience and integrity of regular trading hours, while opening new opportunities for participation outside the traditional trading day in the UK. It will operate separately from the London Stock Exchange’s Main Market, which will continue to operate its existing trading hours. A delightful footnote clarifies: London Stock Exchange 24 will operate from 17:00 to 07:50 with a 30-minute...",
+      "publishedAt": "2026-07-21T18:29:17.367Z",
+      "articleId": "ccf15ed413f1f32e"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/fable-responds",
+      "title": "Fable responds",
+      "url": "https://scottsumner.substack.com/p/fable-responds",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "My conversation with Fable (and hence the profession) continues",
+      "publishedAt": "2026-07-21T17:05:35.000Z",
+      "articleId": "e0e1a585b648586a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-578",
       "title": "Tuesday assorted links",
@@ -820,17 +842,6 @@
       "articleId": "bf0fd8488ce89a97"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ig2zbqvpyayi5o9ac7ny.html",
-      "title": "Money Stuff: Sports Gambling ETF",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ig2zbqvpyayi5o9ac7ny.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Sports gambling ETF, Edgar, AI pivot. View in browser Programming note: This is a somewhat special edition of Money Stuff, because sports gambling ETF. Also this week’s episode of the Money Stuff podcast is out now, in which Katie and I discuss no-Elon ETFs, index rebalancing and egg Libor. You can listen to it here . Sports gambling ETF Sports gambling ETF : The Subversive All Season Sports ETF … is an actively managed exchange-traded fund (“ETF”) that seeks to provide capital appreciation through exposure to a portfolio of derivative instruments known as “event contracts” across a variety of sporting events. … The Fund seeks to mitigate the risk of loss on exposure to any individual event contract by holding a portfolio with exposure to approximately 40 to 80 different event contracts across the sports events noted above. The Fund will hold exposure to event contracts that are based on the aggregate outcomes of the sporting events only (i.e., final scores of games, point differentials, win-loss records, tournament advancement and team or individual statistical performance compiled over an entire game or season). Such event contracts will settle based on objective and verifiable settlement criteria and will be based on events that are coordinated by relevant sports governing bodies. The Adviser will allocate exposure based on its assessment of relative value and market-implied probabilities of certain outcomes and actively manages position sizing and allocation among the categories of event contracts noted above. That is a filing from Tidal Investments LLC and Subversive Capital, who are also responsible for the no-Elon-Musk index ETFs that we discussed yesterday . You give the sports ETF your money, and the ETF uses your money to make 40 to 80 sports bets. (The bets will be on “North American professional sports leagues,” “National Collegiate Athletic Association championships,” “international sporting events such as the World Cup or English Premier League,” and “other sporting events, such as individual golf or tennis championships, mixed martial arts fights or boxing matches.”) If it wins those bets, it uses the winnings to make more bets and you make money. If it loses the bets, you lose money. It is an ETF for making sports bets. [1] It will trade on the stock exchange, you can buy it from your stockbroker, and it will make sports bets. We have talked any number of times about my prediction that there would be a sports gambling ETF by March 2027, and here we are. The filing is not effective yet, and, as we have discussed , the SEC is still considering whether and how to allow sports gambling ETFs. This might never actually launch. But we remain ahead of schedule. When we discussed sports gambling structured notes a while back, I...",
-      "publishedAt": "2026-07-10T15:59:44.288Z",
-      "articleId": "dcd7915b523dfb41"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
       "title": "MAGA's attack on science is even worse than it looks",
       "url": "https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
@@ -873,17 +884,6 @@
       "summary": "Is the right giving up on America?",
       "publishedAt": "2026-07-09T19:24:57.000Z",
       "articleId": "30f004cd1dd1c596"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xn7rpd6f4fzyko503ikt.html",
-      "title": "Money Stuff: Leave the Oil in the Pipes",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xn7rpd6f4fzyko503ikt.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff No Elon, egg Libor, coverage, agents. View in browser Oil tokens Here are two problems. One is that it is not very pleasant to store crude oil. Oil is voluminous and oozy and poisonous and flammable and smelly. This makes it a somewhat difficult thing to invest in. If you think that the price of SpaceX stock will go up, you buy some SpaceX stock, which is an entry in a computer database and easy to store. If you think that the price of oil will go up, you won’t buy a few barrels of oil; where would you put them? You could buy shares of an oil exchange-traded fund, but the oil ETF doesn’t want to own barrels of oil either; where would it put them? Instead, you (or the ETF) will probably buy oil futures, which are contracts for the delivery of oil at some specific future date. And then before that delivery date, you sell the futures you own (because you don’t actually want to get delivery of oil) and buy some new futures for some later delivery date. You keep doing that, “rolling” the futures to keep exposure to oil prices while never actually having to store any oil. This strikes me as fine, a reasonable way to reconcile (1) people’s desire to invest in oil with (2) their lack of desire to store oil. This is a good system. But other people find it upsetting. This is not how other things work. If you want to invest in gold, you can buy gold bars and keep them in a closet; they’re pretty small. Or you can invest in a physical gold ETF that buys gold bars and keeps them in a closet. For some dense valuable imperishable commodities, that’s fine. For other commodities it is obviously not. You would not keep pork bellies in a closet indefinitely. Oil is like pork bellies but more macroeconomically important: Lots of people want to own it, and they tend not to think about the problems of its ooziness. Therefore, a product that is like “you own one barrel of oil for as long as you like, with no rolling of contracts and no uncertainty of future delivery, just a barrel of oil in a warehouse with your name on it” has an intuitive appeal to buyers, but no one wants to actually run that warehouse. [1] The second problem is that oil companies own some oil that they can’t sell. Some of this is, you know, deep under the ocean: An oil company has a claim to some oil field, its geologists are pretty sure that there are millions of barrels of oil down there, but it has to expensively drill it up before it can sell it. But some of it is just that there are physical frictions in moving oil around. There is line fill: You can’t sell all of the oil in your pipelines, because you need some oil in the pipe to push the other oil out. [2] There are tank bottoms: You can’t sell all of the oil in your tanks, because you need some oil in the tanks to provide pressure...",
-      "publishedAt": "2026-07-09T17:42:15.404Z",
-      "articleId": "28fb2de4d296d287"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/pop-stars-are-disappearing",
@@ -1487,14 +1487,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy and very humid with afternoon highs in the upper 80s to near 90. Showers and storms are likely during the afternoon into evening, especially between 3 and 9 p.m., and some could be severe.",
+    "summary": "HAPPENING NOW: Partly to mostly cloudy and very humid with afternoon highs in the upper 80s to near 90. Showers and storms are likely during the afternoon into evening, and some could be severe.",
     "publishedAt": "2026-07-21T09:00:01.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
     "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-21T16:38:57.730Z",
+  "weatherGeneratedAt": "2026-07-21T18:37:58.409Z",
   "weatherError": null,
   "sources": [
     {
@@ -1637,7 +1637,7 @@
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "mode": "rss",
-      "itemCount": 7,
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
       "error": null
     },
