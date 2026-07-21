@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-21T03:44:05.567Z",
-  "fetchedAt": "2026-07-21T03:44:05.562Z",
+  "generatedAt": "2026-07-21T06:38:27.474Z",
+  "fetchedAt": "2026-07-21T06:38:27.469Z",
   "sourceCount": 21,
   "itemCount": 132,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
+      "title": "Is America ruled by an oligarchy?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Any time you hear claims about American government, a sanity-inducing response is to ask whether they also are true of state and local governments. Here is an excerpt from my latest piece at The Free Press: First, in people’s daily lives, they typically interact with their state and local governments more than with the feds. […] The post Is America ruled by an oligarchy? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T04:34:49.000Z",
+      "articleId": "65544d1849bef5a5"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
       "title": "Democratic fields are shifting; G.O.P. bank accounts are growing",
@@ -290,17 +301,6 @@
       "summary": "Across the country, founders like Ms. Winkler are powering an entrepreneurial renaissance. Jump-started by the pandemic, when a confluence of factors including mass layoffs and remote work led to a flood of business creation, and supercharged by the rise of artificial intelligence, start-up activity is booming after a decades-long slump. Americans filed 5.7 million applications last […] The post The small business boom appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-18T04:23:07.000Z",
       "articleId": "a491bcd8169ea52b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-the-movie-no-real-spoilers",
-      "title": "*The Odyssey*, the movie (no real spoilers)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I can’t say I loved it. The Circe scene was excellent, Cyclops was good, and the battles in Troy were well done. But most of the roles were miscast. I like Matt Damon, but he is too “Good Will Hunting” to play Odysseus. The character did not cohere. (Compare to Ralph Fiennes in the superior […] The post *The Odyssey*, the movie (no real spoilers) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T01:30:34.000Z",
-      "articleId": "d0e157cb415d1ae6"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
@@ -1470,10 +1470,11 @@
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Worry-free weather today, a welcome change after days of smoke, heat and storms.",
-    "articleId": "21c48eefa4bdf39d"
+    "articleId": "21c48eefa4bdf39d",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-21T03:44:05.567Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-21T06:38:27.474Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
