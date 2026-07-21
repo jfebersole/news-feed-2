@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-21T20:23:01.662Z",
-  "fetchedAt": "2026-07-21T20:23:01.657Z",
+  "generatedAt": "2026-07-21T22:10:33.415Z",
+  "fetchedAt": "2026-07-21T22:10:33.408Z",
   "sourceCount": 21,
   "itemCount": 134,
-  "totalItemCount": 767,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "title": "Even Under Populism, Elite Failure Is Still a Problem",
+      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "A new critique of Trumpism is too easy on elites.",
+      "publishedAt": "2026-07-21T21:16:11.000Z",
+      "articleId": "1ddedeee15548235"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
       "title": "Money Stuff: LSE Will Trade 22.83 Hours a Day",
@@ -864,17 +875,6 @@
       "articleId": "e338add828fbf789"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-promise-and-peril-of-an-abundance",
-      "title": "The promise and peril of an abundance faction",
-      "url": "https://www.slowboring.com/p/the-promise-and-peril-of-an-abundance",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus Platner, the Costco economy, and some inexplicable internet beefs",
-      "publishedAt": "2026-07-10T10:04:13.000Z",
-      "articleId": "b1dda09c6713b45b"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
       "title": "MAGA’s Birthright Meltdown Is in Full Effect",
       "url": "https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
@@ -1482,21 +1482,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
-    "title": "DC-area forecast: Warm and very humid today, with a threat of severe storms",
+    "title": "DC-area forecast: A threat of severe storms this evening and muggy tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy and very humid with afternoon highs in the upper 80s to near 90. Showers and storms are likely during the afternoon into evening, and some could be severe.",
+    "summary": "HAPPENING NOW: After highs in the upper 80s to near 90, showers and storms are likely this evening and some could be severe. A severe thunderstorm watch is in effect until 10 p.m.",
     "publishedAt": "2026-07-21T09:00:01.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5",
-    "stale": true
+    "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-21T20:23:01.662Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-21T22:10:33.415Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1590,7 +1589,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1637,18 +1636,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
