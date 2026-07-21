@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-21T06:38:27.474Z",
-  "fetchedAt": "2026-07-21T06:38:27.469Z",
+  "generatedAt": "2026-07-21T09:35:25.681Z",
+  "fetchedAt": "2026-07-21T09:35:25.675Z",
   "sourceCount": 21,
   "itemCount": 132,
   "totalItemCount": 767,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-effects-of-glp-1s",
+      "title": "The economic effects of GLP-1s",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar patients who initiate four years later. We find that GLP-1 treatment reduces long-term sickness […] The post The economic effects of GLP-1s appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T06:38:12.000Z",
+      "articleId": "bf35b6b98b8bc439"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
       "title": "Is America ruled by an oligarchy?",
@@ -290,17 +301,6 @@
       "summary": "Yes I will be doing a Conversation with him. From Wikipedia: Luis Garicano Gabilondo (pronounced [ˈlwis ɣaɾiˈkano]; born 1967) is a Spanish economist and politician who was a Member of the European Parliament (MEP) from 2019 to 2022. He was also vice president of Renew Europe and vice president of the European political party Alliance of Liberals and Democrats for […] The post What should I ask Luis Garicano? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-18T06:17:43.000Z",
       "articleId": "307b42e2a3f3376c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom",
-      "title": "The small business boom",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Across the country, founders like Ms. Winkler are powering an entrepreneurial renaissance. Jump-started by the pandemic, when a confluence of factors including mass layoffs and remote work led to a flood of business creation, and supercharged by the rise of artificial intelligence, start-up activity is booming after a decades-long slump. Americans filed 5.7 million applications last […] The post The small business boom appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T04:23:07.000Z",
-      "articleId": "a491bcd8169ea52b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
@@ -1459,22 +1459,21 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
-    "title": "DC-area forecast: Isolated storm tonight but threat of severe weather Tuesday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
+    "title": "DC-area forecast: Heat and humidity fuel the threat of severe storms",
+    "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures fall to lows about 70 to 75. There could be a quick shower or rumble as a warm front passes.",
-    "publishedAt": "2026-07-20T09:00:10.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Worry-free weather today, a welcome change after days of smoke, heat and storms.",
-    "articleId": "21c48eefa4bdf39d",
-    "stale": true
+    "summary": "HAPPENING NOW: Humid with spotty morning showers and storms. Then partly sunny, hot and steamy ahead of potentially severe thunderstorms late today.",
+    "publishedAt": "2026-07-21T09:00:01.000Z",
+    "dailyDigit": 3,
+    "dailyDigitLabel": "3/10",
+    "dailyDigitSummary": "Unsatisfactory all around: High heat and humidity, which fuel potential for strong to severe storms.",
+    "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-21T06:38:27.474Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-21T09:35:25.681Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
