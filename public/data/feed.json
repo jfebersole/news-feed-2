@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-21T11:57:47.176Z",
-  "fetchedAt": "2026-07-21T11:57:47.171Z",
+  "generatedAt": "2026-07-21T14:18:10.293Z",
+  "fetchedAt": "2026-07-21T14:18:10.289Z",
   "sourceCount": 21,
-  "itemCount": 133,
-  "totalItemCount": 758,
+  "itemCount": 134,
+  "totalItemCount": 768,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
+      "title": "Alliterative Artists: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Kriss Kross, Christopher Cross, Kris Kristofferson, and others",
+      "publishedAt": "2026-07-21T13:30:22.000Z",
+      "articleId": "e4ef242b6d363bfc"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
+      "title": "Contra Pritchard On Liberal Happiness",
+      "url": "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-21T12:30:55.000Z",
+      "articleId": "bfde6ea1fb26a15d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey",
       "title": "The Odyssey",
@@ -1456,17 +1478,6 @@
       "summary": "So why do Americans use the former and not the latter?",
       "publishedAt": "2026-06-21T23:33:20.000Z",
       "articleId": "49214c73a3eb6937"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-behind-the-declining-chart",
-      "title": "What's Behind the Declining Chart Performance of British Music in America?",
-      "url": "https://www.cantgetmuchhigher.com/p/whats-behind-the-declining-chart",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, why there was never a third British Invasion",
-      "publishedAt": "2026-06-21T13:31:19.000Z",
-      "articleId": "874f5003729e495b"
     }
   ],
   "weather": {
@@ -1481,11 +1492,10 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: High heat and humidity, which fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5",
-    "stale": true
+    "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-21T11:57:47.176Z",
-  "weatherError": "Feed not recognized as RSS 1 or 2.",
+  "weatherGeneratedAt": "2026-07-21T14:18:10.293Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1498,10 +1508,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1634,10 +1644,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
