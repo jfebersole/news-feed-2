@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T00:06:32.537Z",
-  "fetchedAt": "2026-07-21T00:06:32.531Z",
+  "generatedAt": "2026-07-21T03:44:05.567Z",
+  "fetchedAt": "2026-07-21T03:44:05.562Z",
   "sourceCount": 21,
   "itemCount": 132,
   "totalItemCount": 767,
@@ -1465,14 +1465,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It's a nice evening with modest humidity and temperatures slowly falling through the 80s.",
+    "summary": "HAPPENING NOW: Temperatures fall to lows about 70 to 75. There could be a quick shower or rumble as a warm front passes.",
     "publishedAt": "2026-07-20T09:00:10.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Worry-free weather today, a welcome change after days of smoke, heat and storms.",
     "articleId": "21c48eefa4bdf39d"
   },
-  "weatherGeneratedAt": "2026-07-21T00:06:32.537Z",
+  "weatherGeneratedAt": "2026-07-21T03:44:05.567Z",
   "weatherError": null,
   "sources": [
     {
