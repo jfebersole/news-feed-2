@@ -42,34 +42,36 @@
 
       <section class="main-grid">
         <aside class="control-rail" aria-label="Feed tools">
-          <button id="weatherTicket" class="weather-ticket" type="button" hidden>
-            <span class="weather-ticket-topline">
-              <span class="weather-ticket-label">DC</span>
-              <span id="weatherScore" class="weather-ticket-score"></span>
-            </span>
-            <span id="weatherHeadline" class="weather-ticket-headline"></span>
-            <span class="weather-ticket-cta">Forecast <span aria-hidden="true">→</span></span>
-          </button>
+          <div class="control-rail-inner">
+            <button id="weatherTicket" class="weather-ticket" type="button" hidden>
+              <span class="weather-ticket-topline">
+                <span class="weather-ticket-label">DC</span>
+                <span id="weatherScore" class="weather-ticket-score"></span>
+              </span>
+              <span id="weatherHeadline" class="weather-ticket-headline"></span>
+              <span class="weather-ticket-cta">Forecast <span aria-hidden="true">→</span></span>
+            </button>
 
-          <label class="search-box" for="searchInput">
-            <span>Search stories</span>
-            <input id="searchInput" type="search" placeholder="Search stories" />
-          </label>
+            <button
+              id="sourcePickerToggle"
+              class="source-picker-toggle"
+              type="button"
+              aria-expanded="false"
+              aria-controls="sourcePicker"
+            >
+              <span class="source-picker-toggle-kicker">Sources</span>
+              <span class="source-picker-toggle-selection">
+                <span id="sourcePickerValue">All sources</span>
+                <span id="sourcePickerCount" class="source-picker-toggle-count"></span>
+              </span>
+              <span class="source-picker-toggle-arrow" aria-hidden="true">↓</span>
+            </button>
 
-          <button
-            id="sourcePickerToggle"
-            class="source-picker-toggle"
-            type="button"
-            aria-expanded="false"
-            aria-controls="sourcePicker"
-          >
-            <span class="source-picker-toggle-kicker">Sources</span>
-            <span class="source-picker-toggle-selection">
-              <span id="sourcePickerValue">All sources</span>
-              <span id="sourcePickerCount" class="source-picker-toggle-count"></span>
-            </span>
-            <span class="source-picker-toggle-arrow" aria-hidden="true">↓</span>
-          </button>
+            <label class="search-box" for="searchInput">
+              <span>Search stories</span>
+              <input id="searchInput" type="search" placeholder="Search" />
+            </label>
+          </div>
 
           <button
             id="sourcePickerBackdrop"
@@ -142,6 +144,13 @@
           <span class="rank-pill"></span>
           <span class="source-pill"></span>
           <span class="time-pill"></span>
+          <span class="card-access-indicator" hidden>
+            <svg viewBox="0 0 16 18" focusable="false" aria-hidden="true">
+              <path d="M4.25 7V5.25a3.75 3.75 0 0 1 7.5 0V7" />
+              <rect x="2.25" y="7" width="11.5" height="8.75" rx="1.25" />
+              <path d="M8 10.25v2.5" />
+            </svg>
+          </span>
         </div>
         <a class="card-title-link" href="#" target="_blank" rel="noopener noreferrer">
           <h2 class="card-title"></h2>

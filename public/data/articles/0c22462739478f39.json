@@ -1,10 +1,11 @@
 {
   "mode": "excerpt",
-  "paywalled": false,
-  "access": "open",
+  "paywalled": true,
+  "access": "paywalled",
+  "paywallType": "full",
   "url": "https://www.slowboring.com/p/sunday-thread-mailbag-051",
   "source": "Slow Boring",
   "title": "Sunday Thread + Mailbag",
   "excerpt": "Ask your questions below.",
-  "reason": "Full text is unavailable in-app for this article."
+  "reason": "This source is typically paywalled."
 }

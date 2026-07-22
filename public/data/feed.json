@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-22T00:02:38.764Z",
-  "fetchedAt": "2026-07-22T00:02:38.759Z",
+  "generatedAt": "2026-07-22T02:50:30.871Z",
+  "fetchedAt": "2026-07-22T02:50:30.869Z",
   "sourceCount": 21,
-  "itemCount": 133,
-  "totalItemCount": 766,
+  "itemCount": 138,
+  "totalItemCount": 791,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "title": "Even Under Populism, Elite Failure Is Still a Problem",
+      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
       "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "A new critique of Trumpism is too easy on elites.",
-      "publishedAt": "2026-07-21T21:16:11.000Z",
+      "summary": "Even under populism, elite failure is still a problem.",
+      "publishedAt": "2026-07-22T00:11:01.000Z",
       "articleId": "1ddedeee15548235"
     },
     {
@@ -88,7 +88,8 @@
       "url": "https://www.slowboring.com/p/how-the-center-left-can-come-back",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "There are a bunch of issues where the establishment is to the left of most Democratic primary voters.",
       "publishedAt": "2026-07-21T10:02:37.000Z",
       "articleId": "8d532ac8dff8446a"
@@ -110,7 +111,8 @@
       "url": "https://neilpaine.substack.com/p/when-wayne-gretzky-came-to-manhattan",
       "source": "Neil Paine",
       "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "The Great One's Rangers tenure was brief, iconic and better than history remembers.",
       "publishedAt": "2026-07-21T09:00:22.000Z",
       "articleId": "c5aecd009385886d"
@@ -143,7 +145,8 @@
       "url": "https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "From Maine to Wisconsin, Democratic primaries have been upended as G.O.P. incumbents and super PACs continue stockpiling cash ahead of 2026.",
       "publishedAt": "2026-07-20T22:01:05.000Z",
       "articleId": "d1f0e12cdac5cd89"
@@ -220,7 +223,8 @@
       "url": "https://www.slowboring.com/p/the-futile-quest-to-define-class",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "The economy is way more complicated than workers vs. owners.",
       "publishedAt": "2026-07-20T10:01:20.000Z",
       "articleId": "80266e8120c927a1"
@@ -297,7 +301,8 @@
       "url": "https://www.slowboring.com/p/sunday-thread-mailbag-4c8",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "full",
       "summary": "Ask your questions below.",
       "publishedAt": "2026-07-19T17:00:24.000Z",
       "articleId": "ac54799bd7660d06"
@@ -363,7 +368,8 @@
       "url": "https://www.construction-physics.com/p/reading-list-071826",
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "A setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.",
       "publishedAt": "2026-07-18T12:01:57.000Z",
       "articleId": "42bf4c13adaa7221"
@@ -374,7 +380,8 @@
       "url": "https://www.noahpinion.blog/p/americas-political-economy-is-pretty",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "We can get some good things done, but major efforts will be difficult with our divided politics.",
       "publishedAt": "2026-07-18T10:30:47.000Z",
       "articleId": "439ec5e0eda94f71"
@@ -396,7 +403,8 @@
       "url": "https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Politics is about a different kind of platform, and no one is around to preserve the truth.",
       "publishedAt": "2026-07-17T22:00:19.000Z",
       "articleId": "6491716b5da0f7cf"
@@ -444,6 +452,17 @@
       "summary": "Plus the perils of energy fandom and some hot takes on Jaylen Brown",
       "publishedAt": "2026-07-17T10:00:37.000Z",
       "articleId": "7ea1b63d1799d622"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
+      "title": "Spain Won't Fall Behind. Argentina Can't Be Put Away. Something Has to Give.",
+      "url": "https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Spain has not trailed for a single minute of the knockout stage; Argentina has trailed more than any Finalist since 1966, only to keep escaping late.",
+      "publishedAt": "2026-07-17T09:01:37.000Z",
+      "articleId": "3e972c4374088270"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
@@ -528,10 +547,23 @@
       "url": "https://www.slowboring.com/p/the-progressive-executive-power-delusion",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "The Supreme Court isn’t on your side.",
       "publishedAt": "2026-07-16T10:02:10.000Z",
       "articleId": "9a74326041fc6222"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
+      "title": "We Don't Know What We Want From All-Star Games",
+      "url": "https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Fans rejected the NBA's artificial spectacle. Then baseball gave them something more real — and they hated that, too.",
+      "publishedAt": "2026-07-16T09:02:12.000Z",
+      "articleId": "7679daca1073297c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
@@ -539,7 +571,8 @@
       "url": "https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "I don’t think a small cabal of right-wing rich people controls American politics.",
       "publishedAt": "2026-07-16T09:02:12.000Z",
       "articleId": "7e41184e0d01eae0"
@@ -550,7 +583,8 @@
       "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
       "source": "Astral Codex Ten",
       "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "full",
       "summary": "...",
       "publishedAt": "2026-07-16T00:55:28.000Z",
       "articleId": "65252590be25795c"
@@ -561,7 +595,8 @@
       "url": "https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "The biggest federal housing package in a generation becomes law.",
       "publishedAt": "2026-07-15T22:01:59.000Z",
       "articleId": "daeceffe8de7a2c7"
@@ -633,6 +668,17 @@
       "articleId": "3fbdc1bddb35e834"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/what-a-major-less-season-would-cost",
+      "title": "What a Major-Less Season Would Cost Scottie Scheffler",
+      "url": "https://neilpaine.substack.com/p/what-a-major-less-season-would-cost",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Golf's aging curve says the world's No. 1 player still has time to build his major résumé. But it also says every empty prime year matters.",
+      "publishedAt": "2026-07-15T09:02:10.000Z",
+      "articleId": "f38b6210ab054411"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
       "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
       "url": "https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
@@ -682,7 +728,8 @@
       "url": "https://www.slowboring.com/p/trump-hasnt-even-tried-to-pass-an",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "You can’t change the Constitution with executive orders, but Trump might be able to destroy it.",
       "publishedAt": "2026-07-14T10:02:30.000Z",
       "articleId": "d50731bfd52b7e94"
@@ -697,6 +744,18 @@
       "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
       "publishedAt": "2026-07-14T10:00:00.000Z",
       "articleId": "abfeab3db38afb8d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
+      "title": "Baseball's All-Stars Live in the Present",
+      "url": "https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "First-half performance dominates All-Star Game selections more than ever — except in the bullpen, where reputation still matters some.",
+      "publishedAt": "2026-07-14T09:01:46.000Z",
+      "articleId": "6ff14bd39b4c0607"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
@@ -715,7 +774,8 @@
       "url": "https://www.slowboring.com/p/two-grahams-one-wild-week",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Graham’s death, Platner’s withdrawal, and record-breaking fundraising in Texas and Alaska have scrambled the midterm map in just seven days.",
       "publishedAt": "2026-07-13T22:00:44.000Z",
       "articleId": "2f3b25cdd33e8718"
@@ -765,12 +825,24 @@
       "articleId": "a151d0da252bb375"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
+      "title": "The HR Derby's Lefties Are Poised to Break The Bank",
+      "url": "https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Citizens Bank Park has become the most lefty-friendly Derby venue in recent history, giving Kyle Schwarber and Bryce Harper — among others — a built-in advantage Monday night.",
+      "publishedAt": "2026-07-13T09:01:30.000Z",
+      "articleId": "c4d2fd3dc36027f2"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
       "title": "Sunday Thread + Mailbag",
       "url": "https://www.slowboring.com/p/sunday-thread-mailbag-051",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "full",
       "summary": "Ask your questions below.",
       "publishedAt": "2026-07-12T17:02:19.000Z",
       "articleId": "0c22462739478f39"
@@ -792,7 +864,8 @@
       "url": "https://scottsumner.substack.com/p/the-empire-strikes-back",
       "source": "Scott Sumner",
       "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Objections to the market monetarist explanation of 2008-09",
       "publishedAt": "2026-07-11T23:25:18.000Z",
       "articleId": "fb1fecf9ed0539e3"
@@ -803,7 +876,8 @@
       "url": "https://www.construction-physics.com/p/reading-list-071126",
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more.",
       "publishedAt": "2026-07-11T12:01:33.000Z",
       "articleId": "04300a3fd17ecb54"
@@ -814,7 +888,8 @@
       "url": "https://www.slowboring.com/p/the-party-cant-fire-you",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Considering controversy and the consequences of stubbornness in Senate races",
       "publishedAt": "2026-07-10T22:00:33.000Z",
       "articleId": "341182e9295c7d38"
@@ -825,7 +900,8 @@
       "url": "https://www.understandingai.org/p/an-openai-model-crushed-top-human",
       "source": "Understanding AI",
       "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "But human programmers aren’t obsolete — at least not yet.",
       "publishedAt": "2026-07-10T18:16:14.000Z",
       "articleId": "5d07ea3f5f5d25bb"
@@ -858,7 +934,8 @@
       "url": "https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "The engine that powered history's greatest nation is in danger.",
       "publishedAt": "2026-07-10T15:23:02.000Z",
       "articleId": "ef9c50428dfbf807"
@@ -891,7 +968,8 @@
       "url": "https://www.cantgetmuchhigher.com/p/pop-stars-are-disappearing",
       "source": "Can't Get Much Higher",
       "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "But not in the way you think",
       "publishedAt": "2026-07-09T17:31:10.000Z",
       "articleId": "ef51d204e0b7ff4a"
@@ -1056,7 +1134,8 @@
       "url": "https://www.construction-physics.com/p/reading-list-070426",
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Households without homeowners insurance, crackdowns on AI chip smuggling, Japan’s two electrical frequencies, Meta’s AI compute business, and more.",
       "publishedAt": "2026-07-04T12:03:22.000Z",
       "articleId": "e166d0ca82728bd9"
@@ -1067,7 +1146,8 @@
       "url": "https://www.noahpinion.blog/p/the-american-age-was-the-human-age",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Reflections on 250 years.",
       "publishedAt": "2026-07-04T09:31:52.000Z",
       "articleId": "943eee4af4b9b316"
@@ -1254,7 +1334,8 @@
       "url": "https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
       "source": "Understanding AI",
       "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "OpenAI’s latest model, GPT-5.6, is waiting for government approval.",
       "publishedAt": "2026-06-29T14:03:17.000Z",
       "articleId": "5aea296517fd1a39"
@@ -1309,7 +1390,8 @@
       "url": "https://www.construction-physics.com/p/reading-list-062726",
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Trump refuses to sign a housing bill, the high cost of US-made doors, slow trucking, why we stopped making new land, and more.",
       "publishedAt": "2026-06-27T12:02:02.000Z",
       "articleId": "034159bf61d65215"
@@ -1331,7 +1413,8 @@
       "url": "https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "The shape of America's new Left is becoming clearer.",
       "publishedAt": "2026-06-26T02:19:26.000Z",
       "articleId": "e65ab8189b73d7d0"
@@ -1408,7 +1491,8 @@
       "url": "https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "They understand the importance of the electric revolution. America, so far, does not.",
       "publishedAt": "2026-06-24T09:01:34.000Z",
       "articleId": "703d442d27d6ba46"
@@ -1419,7 +1503,8 @@
       "url": "https://walkingtheworld.substack.com/p/estonian-day-dreams",
       "source": "Walking the World",
       "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "My brief love affair with an unique country",
       "publishedAt": "2026-06-23T14:03:40.000Z",
       "articleId": "c1425bf3953bfe78"
@@ -1471,21 +1556,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
-    "title": "DC-area forecast: A threat of severe storms this evening and muggy tonight",
+    "title": "DC-area forecast: Heavy rain this evening and muggy tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: After highs in the upper 80s to near 90, showers and storms are likely this evening and some could be severe. A severe thunderstorm watch is in effect until 10 p.m.",
+    "summary": "HAPPENING NOW: Showers and storms with heavy rain are likely this evening, tapering off by around midnight.",
     "publishedAt": "2026-07-21T09:00:01.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5",
-    "stale": true
+    "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-22T00:02:38.764Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-22T02:50:30.871Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1530,16 +1614,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -1562,8 +1646,8 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 3,
+      "mode": "rss",
+      "itemCount": 8,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },

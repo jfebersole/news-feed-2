@@ -1,10 +1,11 @@
 {
   "mode": "excerpt",
-  "paywalled": false,
-  "access": "open",
+  "paywalled": true,
+  "access": "paywalled",
+  "paywallType": "full",
   "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
   "source": "Astral Codex Ten",
   "title": "Six Slightly Skew Boogeymen",
   "excerpt": "...",
-  "reason": "Full text is unavailable in-app for this article."
+  "reason": "This source is typically paywalled."
 }

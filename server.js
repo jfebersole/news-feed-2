@@ -45,51 +45,67 @@ const SOURCES = [
     name: "Astral Codex Ten",
     url: "https://www.astralcodexten.com/",
     feedUrl: "https://www.astralcodexten.com/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Understanding AI",
     url: "https://www.understandingai.org/",
     feedUrl: "https://www.understandingai.org/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Works in Progress",
     url: "https://www.worksinprogress.news/",
     feedUrl: "https://www.worksinprogress.news/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Walking the World",
     url: "https://walkingtheworld.substack.com/",
     feedUrl: "https://walkingtheworld.substack.com/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Scott Sumner",
     url: "https://scottsumner.substack.com/",
     feedUrl: "https://scottsumner.substack.com/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "One Useful Thing",
     url: "https://www.oneusefulthing.org/",
     feedUrl: "https://www.oneusefulthing.org/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Construction Physics",
     url: "https://www.construction-physics.com/",
     feedUrl: "https://www.construction-physics.com/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Neil Paine",
     url: "https://neilpaine.substack.com/",
     feedUrl: "https://neilpaine.substack.com/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Noahpinion",
     url: "https://www.noahpinion.blog/",
     feedUrl: "https://www.noahpinion.blog/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Slow Boring",
     url: "https://www.slowboring.com/",
     feedUrl: "https://www.slowboring.com/feed",
+    accessStrategy: "substack-rss",
+    accessRules: {
+      // These community posts are subscriber-only even when a feed proxy drops
+      // Substack's normal terminal "Read more" block.
+      paywalledTitleIncludes: ["thread + mailbag"],
+      paywalledTitleType: "full",
+    },
   },
   {
     name: "Dan Duggan (The Athletic)",
@@ -130,11 +146,13 @@ const SOURCES = [
     name: "Can't Get Much Higher",
     url: "https://www.cantgetmuchhigher.com/",
     feedUrl: "https://www.cantgetmuchhigher.com/feed",
+    accessStrategy: "substack-rss",
   },
   {
     name: "Josh Barro",
     url: "https://www.joshbarro.com/",
     feedUrl: "https://www.joshbarro.com/feed",
+    accessStrategy: "substack-rss",
   },
 ];
 
@@ -257,8 +275,12 @@ async function buildArticlePayload({
   fallbackTitle = "",
   fallbackSummary = "",
   fallbackContentHtml = "",
+  accessLevel = "",
+  paywallType = "",
 }) {
-  const access = inferAccessLevel(sourceName, url);
+  const access = accessLevel === "paywalled" || accessLevel === "open"
+    ? accessLevel
+    : inferAccessLevel(sourceName, url);
   const cacheKey = canonicalizeUrl(url);
   const cached = cacheKey ? articleCache.get(cacheKey) : null;
   const now = Date.now();
@@ -280,6 +302,7 @@ async function buildArticlePayload({
         ...feedFallbackPayload,
         access: "paywalled",
         paywalled: true,
+        paywallType: normalizePaywallType(paywallType),
         subtitle: null,
       };
 
@@ -297,6 +320,7 @@ async function buildArticlePayload({
       summary: fallbackSummary,
       reason: "This source is typically paywalled.",
       paywalled: true,
+      paywallType,
     });
 
     if (cacheKey) {
@@ -329,6 +353,7 @@ async function buildArticlePayload({
           ? "This article appears to be behind a paywall."
           : "Full text is unavailable in-app for this article.",
         paywalled: extracted.isLikelyPaywalled,
+        paywallType,
       });
 
       if (cacheKey) {
@@ -368,6 +393,7 @@ async function buildArticlePayload({
       reason:
         error instanceof Error ? `Unable to fetch full text: ${error.message}` : "Unable to fetch full text.",
       paywalled: false,
+      paywallType,
     });
 
     if (feedFallbackPayload) {
@@ -618,6 +644,17 @@ function normalizeFeedItem(item, source) {
     item.summary,
     item.contentSnippet
   );
+  const access = classifyFeedItemAccess(source, {
+    title,
+    url: link,
+    contentCandidates: [
+      item["content:encoded"],
+      item.content,
+      item.description,
+      item.summary,
+      item.contentSnippet,
+    ],
+  });
 
   return {
     id: createItemId(link, source.name),
@@ -625,7 +662,7 @@ function normalizeFeedItem(item, source) {
     url: link,
     source: source.name,
     sourceUrl: source.url,
-    access: inferAccessLevel(source.name, link),
+    ...access,
     summary,
     publishedAt,
     feedContentHtml,
@@ -652,6 +689,11 @@ function normalizeProxyFeedItem(item, source) {
     item?.summary,
     item?.contentSnippet
   );
+  const access = classifyFeedItemAccess(source, {
+    title,
+    url: link,
+    contentCandidates: [item?.content, item?.description, item?.summary, item?.contentSnippet],
+  });
 
   return {
     id: createItemId(link, source.name),
@@ -659,7 +701,7 @@ function normalizeProxyFeedItem(item, source) {
     url: link,
     source: source.name,
     sourceUrl: source.url,
-    access: inferAccessLevel(source.name, link),
+    ...access,
     summary,
     publishedAt,
     feedContentHtml,
@@ -725,7 +767,100 @@ function containsEmoji(value) {
 function isLikelySubstackSource(source) {
   const sourceUrl = (source?.url || "").toLowerCase();
   const feedUrl = (source?.feedUrl || "").toLowerCase();
-  return sourceUrl.includes("substack.com") || feedUrl.includes("substack.com");
+  return (
+    source?.accessStrategy === "substack-rss" ||
+    sourceUrl.includes("substack.com") ||
+    feedUrl.includes("substack.com")
+  );
+}
+
+function classifyFeedItemAccess(source, item) {
+  const title = cleanText(item?.title || "");
+  const url = item?.url || "";
+  const defaultAccess = inferAccessLevel(source?.name, url);
+
+  if (source?.accessStrategy !== "substack-rss") {
+    return { access: defaultAccess };
+  }
+
+  const rules = source?.accessRules || {};
+  const normalizedTitle = title.toLowerCase();
+  if (textIncludesAny(normalizedTitle, rules.openTitleIncludes)) {
+    return { access: "open" };
+  }
+
+  const detected = detectSubstackFeedPaywall(item?.contentCandidates, url);
+  if (detected) {
+    return { access: "paywalled", paywallType: detected.type };
+  }
+
+  if (textIncludesAny(normalizedTitle, rules.paywalledTitleIncludes)) {
+    return {
+      access: "paywalled",
+      paywallType: rules.paywalledTitleType === "full" ? "full" : "partial",
+    };
+  }
+
+  return { access: defaultAccess };
+}
+
+function detectSubstackFeedPaywall(rawCandidates, articleUrl) {
+  const articleCanonicalUrl = canonicalizeUrl(articleUrl);
+  const candidates = asArray(rawCandidates)
+    .map((value) => normalizeFeedContentCandidate(value))
+    .filter(Boolean);
+
+  for (const candidate of candidates) {
+    const plainText = cleanText(candidate).toLowerCase();
+    if (
+      plainText.includes("this post is for paid subscribers") ||
+      plainText.includes("this content is for paid subscribers") ||
+      plainText.includes("keep reading with a free trial") ||
+      plainText.includes("unlock this post")
+    ) {
+      return { type: inferSubstackPaywallType(candidate) };
+    }
+
+    if (!containsHtmlMarkup(candidate)) {
+      continue;
+    }
+
+    try {
+      const $ = cheerio.load(`<article id="substack-feed-paywall-root">${candidate}</article>`);
+      const $root = $("#substack-feed-paywall-root");
+      const rootText = cleanText($root.text());
+      const links = $root.find("a").toArray();
+
+      for (let index = links.length - 1; index >= 0; index -= 1) {
+        const $link = $(links[index]);
+        const label = cleanText($link.text());
+        if (!/^(?:read more|keep reading|continue reading|unlock (?:this )?post)$/i.test(label)) {
+          continue;
+        }
+
+        const linkUrl = sanitizeUrl($link.attr("href") || "", articleUrl);
+        const linkCanonicalUrl = canonicalizeUrl(linkUrl);
+        const linksToArticle =
+          !articleCanonicalUrl || !linkCanonicalUrl || linkCanonicalUrl === articleCanonicalUrl;
+        const isTerminalCta = rootText.toLowerCase().endsWith(label.toLowerCase());
+        if (!linksToArticle || !isTerminalCta) {
+          continue;
+        }
+
+        $link.closest("p,div").remove();
+        return { type: inferSubstackPaywallType($root.html() || "") };
+      }
+    } catch {
+      // A malformed content fragment should not cause the entire feed to fail.
+    }
+  }
+
+  return null;
+}
+
+function inferSubstackPaywallType(previewHtml) {
+  const previewWordCount = countWords(cleanText(previewHtml));
+  return previewWordCount >= 20 ? "partial" : "full";
 }
 
 function buildRssProxyUrl(feedUrl) {
@@ -955,33 +1090,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     }
   }
 
-  if (isMoneyStuffNewsletter && content.contentHtml) {
-    const cleanedMoneyStuffHtml = cleanupMoneyStuffContentHtml(content.contentHtml, url);
-    if (cleanedMoneyStuffHtml) {
-      const $clean = cheerio.load(`<article id="money-stuff-clean-root">${cleanedMoneyStuffHtml}</article>`);
-      const $cleanRoot = $clean("#money-stuff-clean-root");
-      content = {
-        contentHtml: $cleanRoot.html() || "",
-        wordCount: countWords(cleanText($cleanRoot.text())),
-        imageCount: $cleanRoot.find("img").length,
-        linkCount: $cleanRoot.find("a[href]").length,
-      };
-    }
-  }
-
-  if (isBrewShopNewsletter && content.contentHtml) {
-    const cleanedBrewShopHtml = cleanupBrewShopContentHtml(content.contentHtml, url);
-    if (cleanedBrewShopHtml) {
-      const $clean = cheerio.load(`<article id="brew-shop-clean-root">${cleanedBrewShopHtml}</article>`);
-      const $cleanRoot = $clean("#brew-shop-clean-root");
-      content = {
-        contentHtml: $cleanRoot.html() || "",
-        wordCount: countWords(cleanText($cleanRoot.text())),
-        imageCount: $cleanRoot.find("img").length,
-        linkCount: $cleanRoot.find("a[href]").length,
-      };
-    }
-  }
+  content = normalizeArticleContentForSource(content, sourceName, url);
 
   if (content.wordCount < 35) {
     return null;
@@ -1305,12 +1414,13 @@ function inferAccessLevel(sourceName, url) {
   return "open";
 }
 
-function buildExcerptPayload({ url, sourceName, title, summary, reason, paywalled }) {
+function buildExcerptPayload({ url, sourceName, title, summary, reason, paywalled, paywallType = "" }) {
   const excerpt = cleanFeedSummary(summary || "", sourceName);
   return {
     mode: "excerpt",
     paywalled: Boolean(paywalled),
     access: paywalled ? "paywalled" : "open",
+    ...(paywalled ? { paywallType: normalizePaywallType(paywallType) } : {}),
     url,
     source: sourceName,
     title: title || "Article",
@@ -1319,6 +1429,10 @@ function buildExcerptPayload({ url, sourceName, title, summary, reason, paywalle
       "This article is best read on the original site. Open the original link to continue reading.",
     reason,
   };
+}
+
+function normalizePaywallType(value) {
+  return value === "full" ? "full" : "partial";
 }
 
 function extractArticleFromHtml({ html, url, sourceName }) {
@@ -1360,6 +1474,8 @@ function extractArticleFromHtml({ html, url, sourceName }) {
       };
     }
   }
+
+  content = normalizeArticleContentForSource(content, sourceName, url);
 
   const isLikelyPaywalled =
     paywallSignal &&
@@ -2460,6 +2576,14 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
     return "";
   }
 
+  while (trimmed.length && isMoneyStuffTrailingImageBlock(trimmed[trimmed.length - 1])) {
+    trimmed.pop();
+  }
+
+  if (!trimmed.length) {
+    return "";
+  }
+
   return stripPlaceholderNodes(
     repairInPageFootnoteTargets(removeAdjacentQuoteEchoes(dedupeHtmlBlocks(trimmed)).join("\n"))
   );
@@ -2481,9 +2605,6 @@ function cleanupBrewShopContentHtml(contentHtml, baseUrl) {
   const $root = $("#brew-shop-cleaner-root");
   $root.find("table,tbody,tr,td").each((_idx, node) => {
     const $node = $(node);
-    if ((node.tagName || "").toLowerCase() === "table" && isLikelyDataTableNode($node)) {
-      return;
-    }
     $node.replaceWith($node.contents());
   });
 
@@ -2538,7 +2659,7 @@ function cleanupBrewShopContentHtml(contentHtml, baseUrl) {
     return "";
   }
 
-  const deduped = dedupeHtmlBlocks(blocks);
+  const deduped = groupBrewShopProductBlocks(dedupeHtmlBlocks(blocks));
   const trimmed = [];
   for (const block of deduped) {
     const text = cleanText(block).toLowerCase();
@@ -2550,6 +2671,125 @@ function cleanupBrewShopContentHtml(contentHtml, baseUrl) {
 
   const output = trimmed.length ? trimmed : deduped;
   return stripPlaceholderNodes(repairInPageFootnoteTargets(output.join("\n")));
+}
+
+function groupBrewShopProductBlocks(blocks) {
+  const output = [];
+  let index = 0;
+
+  while (index < blocks.length) {
+    const first = readBrewShopProductCell(blocks, index);
+    const second = first ? readBrewShopProductCell(blocks, first.nextIndex) : null;
+    if (first && second) {
+      output.push(
+        `<div class="reader-image-row reader-brew-grid" data-columns="2">${first.html}${second.html}</div>`
+      );
+      index = second.nextIndex;
+      continue;
+    }
+
+    output.push(blocks[index]);
+    index += 1;
+  }
+
+  return output;
+}
+
+function readBrewShopProductCell(blocks, startIndex) {
+  const imageHtml = blocks[startIndex] || "";
+  if (!isBrewShopProductImageBlock(imageHtml)) {
+    return null;
+  }
+
+  const captionBlocks = [];
+  let index = startIndex + 1;
+  while (index < blocks.length && captionBlocks.length < 8) {
+    const block = blocks[index];
+    const tag = extractRootTagName(block);
+    if (!["p", "ul", "ol", "blockquote"].includes(tag) || !cleanText(block)) {
+      break;
+    }
+
+    captionBlocks.push(block);
+    index += 1;
+  }
+
+  if (!captionBlocks.length) {
+    return null;
+  }
+
+  return {
+    html: `<figure>${imageHtml}<figcaption>${captionBlocks.join("\n")}</figcaption></figure>`,
+    nextIndex: index,
+  };
+}
+
+function isBrewShopProductImageBlock(blockHtml) {
+  const html = String(blockHtml || "");
+  if (!/^<img\b/i.test(html)) {
+    return false;
+  }
+
+  const widthMatch = html.match(/\bwidth=["']?(\d+(?:\.\d+)?)/i);
+  const width = Number(widthMatch?.[1] || 0);
+  return width >= 240 && width <= 360;
+}
+
+function cleanupStratecheryContentHtml(contentHtml) {
+  if (!contentHtml) {
+    return "";
+  }
+
+  let $ = null;
+  try {
+    $ = cheerio.load(`<article id="stratechery-cleaner-root">${contentHtml}</article>`);
+  } catch {
+    return contentHtml;
+  }
+
+  const $root = $("#stratechery-cleaner-root");
+  $root.find("p,h2,h3,h4,h5,h6").each((_idx, element) => {
+    const text = cleanText($(element).text());
+    if (/^listen to this post\s*:?$/i.test(text)) {
+      $(element).remove();
+    }
+  });
+
+  return stripPlaceholderNodes($root.html() || "");
+}
+
+function normalizeArticleContentForSource(content, sourceName, baseUrl) {
+  if (!content?.contentHtml) {
+    return content || { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
+  }
+
+  const source = String(sourceName || "").toLowerCase();
+  let cleanedHtml = "";
+  let allowEmptyCleanup = false;
+  if (source.includes("money stuff")) {
+    cleanedHtml = cleanupMoneyStuffContentHtml(content.contentHtml, baseUrl);
+  } else if (source.includes("brew shop")) {
+    cleanedHtml = cleanupBrewShopContentHtml(content.contentHtml, baseUrl);
+  } else if (source.includes("stratechery")) {
+    cleanedHtml = cleanupStratecheryContentHtml(content.contentHtml);
+    allowEmptyCleanup = true;
+  } else {
+    return content;
+  }
+
+  const contentHtml = cleanedHtml || (allowEmptyCleanup ? "" : content.contentHtml);
+  if (!contentHtml) {
+    return { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
+  }
+
+  const $ = cheerio.load(`<article id="source-clean-root">${contentHtml}</article>`);
+  const $root = $("#source-clean-root");
+  return {
+    contentHtml: $root.html() || "",
+    wordCount: countWords(cleanText($root.text())),
+    imageCount: $root.find("img").length,
+    linkCount: $root.find("a[href]").length,
+  };
 }
 
 function isBrewShopBoilerplateText(text) {
@@ -2582,7 +2822,7 @@ function isLikelyMoneyStuffPromoImage(node) {
   }
 
   if (
-    /sli\.bloomberg\.com\/imp|post\.spmailtechnolo\.com|\/open\.aspx\?|data:image\/|liveintent|adchoices|money\s*stuff:\s*the\s*podcast|listen\s+on\s+apple\s+podcasts|bloomberg\s+terminal/i.test(
+    /sli\.bloomberg\.com\/imp|post\.spmailtechnolo\.com|\/open\.aspx\?|data:image\/|liveintent|adchoices|money\s*stuff:\s*the\s*podcast|listen\s+to\s+(?:the\s+)?money\s+stuff\s+podcast|listen\s+on\s+apple\s+podcasts|bloomberg\s+terminal/i.test(
       sourceSignal
     )
   ) {
@@ -2685,6 +2925,21 @@ function isMoneyStuffTailVisualBlock(blockHtml) {
   });
 
   return shouldDrop;
+}
+
+function isMoneyStuffTrailingImageBlock(blockHtml) {
+  const html = String(blockHtml || "");
+  if (!html || !/<(?:img|figure)\b/i.test(html)) {
+    return false;
+  }
+
+  try {
+    const $ = cheerio.load(`<article id="money-stuff-trailing-image-root">${html}</article>`);
+    const $root = $("#money-stuff-trailing-image-root");
+    return $root.find("img").length > 0 && !cleanText($root.text());
+  } catch {
+    return false;
+  }
 }
 
 function removeAdjacentQuoteEchoes(blocks) {
@@ -2902,7 +3157,10 @@ export {
   aggregateSources,
   buildArticlePayload,
   canonicalizeUrl,
+  classifyFeedItemAccess,
   extractDailyDigit,
+  extractArticleFromHtml,
   inferAccessLevel,
+  normalizeArticleContentForSource,
   pullDailyWeather,
 };

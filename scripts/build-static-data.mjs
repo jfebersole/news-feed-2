@@ -99,6 +99,7 @@ await runWithConcurrency(articleTasks, FETCH_CONCURRENCY, async (task, taskIndex
     updatedAt: nowIso,
     mode: outputPayload.mode,
     access: outputPayload.access || task.item.access || inferAccessLevel(task.item.source, task.item.url),
+    paywallType: outputPayload.paywallType || task.item.paywallType || null,
   };
 
   const marker = `[${taskIndex + 1}/${articleTasks.length}]`;
@@ -135,6 +136,8 @@ async function safeBuildArticlePayload(item) {
       fallbackTitle: item.title || "",
       fallbackSummary: item.summary || "",
       fallbackContentHtml: item.feedContentHtml || "",
+      accessLevel: item.access || "",
+      paywallType: item.paywallType || "",
     });
   } catch (error) {
     const access = item.access || inferAccessLevel(item.source, item.url);
@@ -145,6 +148,9 @@ async function safeBuildArticlePayload(item) {
       mode: "excerpt",
       paywalled: access === "paywalled",
       access,
+      ...(access === "paywalled"
+        ? { paywallType: item.paywallType === "full" ? "full" : "partial" }
+        : {}),
       url: item.url,
       source: item.source || "",
       title: item.title || "Article",

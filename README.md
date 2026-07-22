@@ -75,6 +75,19 @@ Current example:
 - `Neil Paine`: exclude items where description contains `Subscribe to Scoreboard`, and exclude items with emojis in the title.
 - `Slow Boring`: exclude items where the title contains `discussion post` (case-insensitive).
 
+### Substack Paywall Flags
+
+Substack sources opt into per-article detection with `accessStrategy: "substack-rss"` in
+[`server.js`](./server.js). The feed builder looks for Substack's terminal paid-preview marker and writes:
+
+- `access: "paywalled"` for any restricted article.
+- `paywallType: "partial"` when the public feed includes a meaningful preview.
+- `paywallType: "full"` when little or no article text is public.
+
+The homepage displays a lock beside the article date for either paywall type. For a publication-specific
+exception, add `accessRules.openTitleIncludes` or `accessRules.paywalledTitleIncludes` to that source;
+`accessRules.paywalledTitleType` can be `"partial"` (default) or `"full"`.
+
 ### Substack CI Fallback
 
 Some `*.substack.com` feeds may return `403` from GitHub Actions IP ranges.  

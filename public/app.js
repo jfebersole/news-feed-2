@@ -426,6 +426,7 @@ function renderCards() {
     const rankPill = fragment.querySelector(".rank-pill");
     const sourcePill = fragment.querySelector(".source-pill");
     const timePill = fragment.querySelector(".time-pill");
+    const accessIndicator = fragment.querySelector(".card-access-indicator");
     const titleLink = fragment.querySelector(".card-title-link");
     const title = fragment.querySelector(".card-title");
     const summary = fragment.querySelector(".card-summary");
@@ -449,6 +450,12 @@ function renderCards() {
       sourcePill.textContent = "Unknown source";
     }
     timePill.textContent = item.publishedAt ? formatRelative(item.publishedAt) : "Date unknown";
+    if (shouldShowPaywallIndicator(item)) {
+      const accessLabel = getPaywallLabel(item);
+      card.classList.add("is-paywalled");
+      accessIndicator.hidden = false;
+      accessIndicator.setAttribute("aria-label", accessLabel);
+    }
     title.textContent = item.title;
     titleLink.href = item.url;
     titleLink.addEventListener("click", (event) => {
@@ -1101,6 +1108,32 @@ function inferItemAccess(item) {
   }
 
   return "open";
+}
+
+function isItemPaywalled(item) {
+  return Boolean(item?.paywalled) || item?.access === "paywalled";
+}
+
+function shouldShowPaywallIndicator(item) {
+  if (!isItemPaywalled(item)) {
+    return false;
+  }
+
+  const source = String(item?.source || "").toLowerCase();
+  const url = String(item?.url || "").toLowerCase();
+  const isIncludedSubscription =
+    source.includes("nyt") ||
+    source.includes("athletic") ||
+    url.includes("nytimes.com") ||
+    url.includes("theathletic.com");
+
+  return !isIncludedSubscription;
+}
+
+function getPaywallLabel(item) {
+  return item?.paywallType === "full"
+    ? "Paid subscription required"
+    : "Part of this article requires a paid subscription";
 }
 
 function resolveArticlePath(item) {
