@@ -13,6 +13,7 @@ const state = {
   readerError: "",
   readerItem: null,
   readerArticle: null,
+  sourcePickerOpen: false,
 };
 const FEED_DATA_URL = "./data/feed.json";
 const ARTICLES_DATA_DIR = "./data/articles";
@@ -28,6 +29,12 @@ const issueKicker = document.querySelector(".issue-kicker");
 const weatherTicket = document.querySelector("#weatherTicket");
 const weatherScore = document.querySelector("#weatherScore");
 const weatherHeadline = document.querySelector("#weatherHeadline");
+const sourcePicker = document.querySelector("#sourcePicker");
+const sourcePickerToggle = document.querySelector("#sourcePickerToggle");
+const sourcePickerClose = document.querySelector("#sourcePickerClose");
+const sourcePickerBackdrop = document.querySelector("#sourcePickerBackdrop");
+const sourcePickerValue = document.querySelector("#sourcePickerValue");
+const sourcePickerCount = document.querySelector("#sourcePickerCount");
 const readerPanel = document.querySelector("#readerPanel");
 const readerRailTitle = document.querySelector("#readerRailTitle");
 const readerLink = document.querySelector("#readerLink");
@@ -58,7 +65,24 @@ searchInput.addEventListener("input", (event) => {
   render();
 });
 
+sourcePickerToggle?.addEventListener("click", () => {
+  setSourcePickerOpen(!state.sourcePickerOpen);
+});
+
+sourcePickerClose?.addEventListener("click", () => {
+  setSourcePickerOpen(false, { restoreFocus: true });
+});
+
+sourcePickerBackdrop?.addEventListener("click", () => {
+  setSourcePickerOpen(false, { restoreFocus: true });
+});
+
 window.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && state.sourcePickerOpen) {
+    setSourcePickerOpen(false, { restoreFocus: true });
+    return;
+  }
+
   if (event.key === "Escape" && state.readerOpen) {
     navigateBackFromReader();
     return;
@@ -110,6 +134,7 @@ window.addEventListener("popstate", (event) => {
 
 homeLink.addEventListener("click", (event) => {
   event.preventDefault();
+  setSourcePickerOpen(false);
   state.searchText = "";
   searchInput.value = "";
   pendingSourceSelection = null;
@@ -123,6 +148,7 @@ weatherTicket?.addEventListener("click", () => {
     return;
   }
 
+  setSourcePickerOpen(false);
   openReader(state.weather).catch((error) => {
     console.error(error);
   });
@@ -243,15 +269,30 @@ function normalizeFeedItemText(item) {
 
 function renderMeta() {
   const visible = getVisibleItems();
-  const sourceModes = summarizeModes();
+  const failedSources = state.sources.filter((source) => source.mode === "failed").length;
+  const items = [
+    createMetaItem(`${state.items.length} ${state.items.length === 1 ? "story" : "stories"}`),
+  ];
 
-  metaStrip.replaceChildren(
-    createMetaPill(`${state.items.length} total stories`),
-    createMetaPill(`${visible.length} shown`),
-    createMetaPill(`${state.sources.length} sources`),
-    createMetaPill(sourceModes),
-    createMetaPill(formatUpdatedLabel(state.generatedAt))
+  if (visible.length !== state.items.length) {
+    items.push(createMetaItem(`${visible.length} shown`));
+  }
+
+  items.push(
+    createMetaItem(`${state.sources.length} ${state.sources.length === 1 ? "source" : "sources"}`)
   );
+
+  if (failedSources > 0) {
+    items.push(
+      createMetaItem(
+        `${failedSources} ${failedSources === 1 ? "feed" : "feeds"} failed`,
+        "alert"
+      )
+    );
+  }
+
+  items.push(createMetaItem(formatUpdatedLabel(state.generatedAt)));
+  metaStrip.replaceChildren(...items);
 }
 
 function renderIssueDate() {
@@ -318,6 +359,25 @@ function renderSourceChips() {
     });
 
   sourceChips.replaceChildren(...chips);
+
+  const selectedLabel = state.selectedSource === "all" ? "All sources" : state.selectedSource;
+  const selectedCount =
+    state.selectedSource === "all"
+      ? state.items.length
+      : countsBySource.get(state.selectedSource) || 0;
+
+  if (sourcePickerValue) {
+    sourcePickerValue.textContent = selectedLabel;
+  }
+
+  if (sourcePickerCount) {
+    sourcePickerCount.textContent = `(${selectedCount})`;
+  }
+
+  sourcePickerToggle?.setAttribute(
+    "aria-label",
+    `Choose a source. Current selection: ${selectedLabel}`
+  );
 }
 
 function createSourceChip(value, label, count) {
@@ -329,6 +389,7 @@ function createSourceChip(value, label, count) {
 
   button.addEventListener("click", () => {
     selectSource(value);
+    setSourcePickerOpen(false, { restoreFocus: true });
   });
 
   return button;
@@ -437,6 +498,26 @@ function normalizeSourceSelection(value) {
   return source || "all";
 }
 
+function setSourcePickerOpen(open, options = {}) {
+  const { restoreFocus = false } = options;
+  state.sourcePickerOpen = Boolean(open);
+
+  if (sourcePicker) {
+    sourcePicker.hidden = !state.sourcePickerOpen;
+  }
+
+  if (sourcePickerBackdrop) {
+    sourcePickerBackdrop.hidden = !state.sourcePickerOpen;
+  }
+
+  sourcePickerToggle?.setAttribute("aria-expanded", state.sourcePickerOpen ? "true" : "false");
+  sourcePickerToggle?.classList.toggle("open", state.sourcePickerOpen);
+
+  if (!state.sourcePickerOpen && restoreFocus) {
+    sourcePickerToggle?.focus();
+  }
+}
+
 function selectSource(value) {
   const source = normalizeSourceSelection(value);
   if (state.readerOpen) {
@@ -469,22 +550,6 @@ function applySourceSelection(value, options = {}) {
   }
 
   render();
-}
-
-function summarizeModes() {
-  const modeCount = state.sources.reduce(
-    (acc, source) => {
-      if (source.mode === "failed") {
-        acc.failed += 1;
-      } else {
-        acc.rss += 1;
-      }
-      return acc;
-    },
-    { rss: 0, failed: 0 }
-  );
-
-  return `RSS ${modeCount.rss} | Failed ${modeCount.failed}`;
 }
 
 function toneForSource(sourceName) {
@@ -533,9 +598,9 @@ function formatRelative(input) {
   return date.toLocaleDateString();
 }
 
-function createMetaPill(text) {
+function createMetaItem(text, tone = "") {
   const span = document.createElement("span");
-  span.className = "meta-pill";
+  span.className = `meta-item${tone ? ` ${tone}` : ""}`;
   span.textContent = text;
   return span;
 }
@@ -704,10 +769,10 @@ function renderReader() {
   readerRailSource.hidden = !readerRailSource.textContent.trim();
 
   if (item.url) {
-    readerLink.textContent = "Link";
+    readerLink.textContent = "Original";
     readerLink.href = item.url;
     readerLink.hidden = false;
-    readerRailLink.textContent = "Link";
+    readerRailLink.textContent = "Original";
     readerRailLink.href = item.url;
     readerRailLink.hidden = false;
   } else {
@@ -951,11 +1016,25 @@ function buildReaderMeta(article, item) {
 
   const publishedAt = article?.publishedAt || item?.publishedAt;
   if (publishedAt) {
-    parts.push(new Date(publishedAt).toLocaleString());
+    const publishedDate = new Date(publishedAt);
+    if (!Number.isNaN(publishedDate.getTime())) {
+      const dateOptions = {
+        month: "long",
+        day: "numeric",
+      };
+
+      if (publishedDate.getFullYear() !== new Date().getFullYear()) {
+        dateOptions.year = "numeric";
+      }
+
+      parts.push(publishedDate.toLocaleDateString(undefined, dateOptions));
+    }
   }
 
-  if (article?.wordCount) {
-    parts.push(`${article.wordCount} words`);
+  const wordCount = Number(article?.wordCount);
+  if (Number.isFinite(wordCount) && wordCount > 0) {
+    const readMinutes = Math.max(1, Math.ceil(wordCount / 225));
+    parts.push(`${readMinutes} min read`);
   }
 
   return parts.join(" · ");
