@@ -1,0 +1,16 @@
+{
+  "mode": "full",
+  "paywalled": true,
+  "access": "paywalled",
+  "url": "https://www.understandingai.org/p/an-openai-model-hacked-hugging-face",
+  "source": "Understanding AI",
+  "title": "An OpenAI model hacked Hugging Face to help it cheat on a benchmark",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p><span>OpenAI </span><a href=\"https://openai.com/index/hugging-face-model-evaluation-security-incident/\" target=\"_blank\" rel=\"noopener noreferrer\"><span>disclosed on Wednesday</span></a><span> that its models hacked the website of Hugging Face, a popular platform for hosting open-weight AI models. No one asked the models to do this, at least not explicitly.</span></p>\n<p><span>OpenAI was trying to test the cybersecurity capabilities of its models, including one that hasn’t yet been released to the public. OpenAI asked the models to t…</span></p>\n<p>\n          <a href=\"https://www.understandingai.org/p/an-openai-model-hacked-hugging-face\" target=\"_blank\" rel=\"noopener noreferrer\">\n              Read more\n          </a>\n      </p>",
+  "wordCount": 62,
+  "imageCount": 0,
+  "linkCount": 2,
+  "paywallType": "partial"
+}
