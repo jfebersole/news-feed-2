@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-22T06:40:36.082Z",
-  "fetchedAt": "2026-07-22T06:40:36.075Z",
+  "generatedAt": "2026-07-22T09:35:28.517Z",
+  "fetchedAt": "2026-07-22T09:35:28.514Z",
   "sourceCount": 22,
-  "itemCount": 147,
+  "itemCount": 148,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
+      "title": "Who was the worst monster of the 20th century?",
+      "url": "https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "And who is the worst monster of the 21st?",
+      "publishedAt": "2026-07-22T07:34:05.000Z",
+      "articleId": "310c8e7a7569fbbc"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html?utm_source=rss&utm_medium=rss&utm_campaign=alec-stapp-on-the-new-science-report-from-michael-kratsios",
       "title": "Alec Stapp on the new Science report from Michael Kratsios",
@@ -1657,20 +1668,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
-    "title": "DC-area forecast: Muggy overnight with a spotty shower possible",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
+    "title": "DC-area forecast: Humidity and a shower chance linger today. Nicer tomorrow into the weekend.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and storms with heavy rain have exited the area with just a spotty shower or two possible overnight.",
-    "publishedAt": "2026-07-21T09:00:01.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5"
+    "summary": "HAPPENING NOW: Partly sunny today with humidity slow to budge and highs in the mid- to upper 80s. A few showers are possible this morning, and maybe a few showers or storms this afternoon, especially from DC to the south and east.",
+    "publishedAt": "2026-07-22T09:00:41.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
+    "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-22T06:40:36.082Z",
+  "weatherGeneratedAt": "2026-07-22T09:35:28.517Z",
   "weatherError": null,
   "sources": [
     {
@@ -1828,10 +1839,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
