@@ -90,6 +90,13 @@ const SOURCES = [
     accessStrategy: "substack-rss",
   },
   {
+    name: "Silver Bulletin",
+    url: "https://www.natesilver.net/",
+    feedUrl: "https://www.natesilver.net/feed",
+    excludeFeedUrl: "https://www.natesilver.net/feed?section=models-and-forecasts",
+    accessStrategy: "substack-rss",
+  },
+  {
     name: "Noahpinion",
     url: "https://www.noahpinion.blog/",
     feedUrl: "https://www.noahpinion.blog/feed",
@@ -525,11 +532,17 @@ async function pullSource(source) {
   }
 
   try {
-    const parsed = await withRetry(() => parser.parseURL(source.feedUrl), { attempts: 3, baseDelayMs: 450 });
+    const [parsed, excludedParsed] = await Promise.all([
+      withRetry(() => parser.parseURL(source.feedUrl), { attempts: 3, baseDelayMs: 450 }),
+      source.excludeFeedUrl
+        ? withRetry(() => parser.parseURL(source.excludeFeedUrl), { attempts: 3, baseDelayMs: 450 })
+        : null,
+    ]);
     const normalizedBase = (parsed.items || [])
       .map((item) => normalizeFeedItem(item, source))
       .filter(Boolean);
-    const normalized = applySourceItemRules(source, normalizedBase);
+    const includedBase = excludeFeedItemsByUrl(source, normalizedBase, excludedParsed?.items);
+    const normalized = applySourceItemRules(source, includedBase);
 
     if (!normalized.length) {
       if (normalizedBase.length) {
@@ -587,17 +600,33 @@ async function pullSourceViaRssProxy(source) {
     return null;
   }
 
+  const excludeProxyUrl = source.excludeFeedUrl ? buildRssProxyUrl(source.excludeFeedUrl) : null;
+  if (source.excludeFeedUrl && !excludeProxyUrl) {
+    return null;
+  }
+
   try {
-    const payload = await withRetry(() => fetchJson(proxyUrl, 12_000), { attempts: 2, baseDelayMs: 400 });
+    const [payload, excludedPayload] = await Promise.all([
+      withRetry(() => fetchJson(proxyUrl, 12_000), { attempts: 2, baseDelayMs: 400 }),
+      excludeProxyUrl
+        ? withRetry(() => fetchJson(excludeProxyUrl, 12_000), { attempts: 2, baseDelayMs: 400 })
+        : null,
+    ]);
     const status = String(payload?.status || "").toLowerCase();
     if (status && status !== "ok") {
+      return null;
+    }
+
+    const excludedStatus = String(excludedPayload?.status || "").toLowerCase();
+    if (excludedStatus && excludedStatus !== "ok") {
       return null;
     }
 
     const normalizedBase = asArray(payload?.items)
       .map((item) => normalizeProxyFeedItem(item, source))
       .filter(Boolean);
-    const normalized = applySourceItemRules(source, normalizedBase);
+    const includedBase = excludeFeedItemsByUrl(source, normalizedBase, excludedPayload?.items);
+    const normalized = applySourceItemRules(source, includedBase);
 
     if (!normalized.length) {
       if (normalizedBase.length) {
@@ -706,6 +735,32 @@ function normalizeProxyFeedItem(item, source) {
     publishedAt,
     feedContentHtml,
   };
+}
+
+function excludeFeedItemsByUrl(source, items, rawExcludedItems) {
+  if (!Array.isArray(items) || !items.length || !source?.excludeFeedUrl) {
+    return Array.isArray(items) ? items : [];
+  }
+
+  const excludedUrls = new Set(
+    asArray(rawExcludedItems)
+      .map((item) => canonicalFeedItemUrl(item, source))
+      .filter(Boolean)
+  );
+
+  if (!excludedUrls.size) {
+    throw new Error(`Exclusion feed returned no valid item URLs: ${source.excludeFeedUrl}`);
+  }
+
+  return items.filter((item) => {
+    const itemUrl = canonicalFeedItemUrl(item, source);
+    return !itemUrl || !excludedUrls.has(itemUrl);
+  });
+}
+
+function canonicalFeedItemUrl(item, source) {
+  const rawUrl = item?.url || item?.link || item?.guid || "";
+  return canonicalizeUrl(sanitizeUrl(rawUrl, source?.url || ""));
 }
 
 function applySourceItemRules(source, items) {
@@ -3158,9 +3213,11 @@ export {
   buildArticlePayload,
   canonicalizeUrl,
   classifyFeedItemAccess,
+  excludeFeedItemsByUrl,
   extractDailyDigit,
   extractArticleFromHtml,
   inferAccessLevel,
   normalizeArticleContentForSource,
+  pullSource,
   pullDailyWeather,
 };

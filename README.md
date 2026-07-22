@@ -75,6 +75,14 @@ Current example:
 - `Neil Paine`: exclude items where description contains `Subscribe to Scoreboard`, and exclude items with emojis in the title.
 - `Slow Boring`: exclude items where the title contains `discussion post` (case-insensitive).
 
+For a source that publishes unwanted items in a separate RSS section, add `excludeFeedUrl` to its entry
+in `SOURCES`. Items from the main feed are matched by canonical URL against that exclusion feed. If the
+exclusion feed cannot provide valid item URLs, the source fails closed or uses the RSS proxy fallback
+instead of allowing unwanted items through.
+
+`Silver Bulletin` uses its `Models & Forecasts` section as an exclusion feed, so the main feed retains
+articles while omitting updating dashboards, rankings, and prediction pages.
+
 ### Substack Paywall Flags
 
 Substack sources opt into per-article detection with `accessStrategy: "substack-rss"` in

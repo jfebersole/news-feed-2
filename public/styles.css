@@ -4,7 +4,7 @@
   --ink: #10100f;
   --muted: #595246;
   --line: rgba(14, 14, 12, 0.28);
-  --accent-orange: #f5881f;
+  --accent-orange: #ec7f1d;
   --accent-blue: #226eaf;
   --accent-gold: #d6b165;
   --page-gutter: clamp(36px, 2.7vw, 56px);
@@ -773,12 +773,12 @@ body::before {
   font-size: clamp(1.95rem, 4.3vw, 3.8rem);
   line-height: 0.95;
   letter-spacing: -0.02em;
-  max-width: 17ch;
+  max-width: 22ch;
 }
 
 .reader-subtitle {
   margin: 12px 0 0;
-  max-width: 32ch;
+  max-width: 42ch;
   color: #4b4439;
   font-size: clamp(1.12rem, 2vw, 1.64rem);
   font-family: "Newsreader", Georgia, serif;
@@ -1069,10 +1069,6 @@ body::before {
     padding: 24px 0 24px;
   }
 
-  .reader-title {
-    max-width: 18ch;
-  }
-
   .reader-body > img,
   .reader-body > figure,
   .reader-body > .reader-image-row,
@@ -1242,7 +1238,7 @@ body::before {
 
   .reader-subtitle {
     font-size: clamp(1.08rem, 5vw, 1.4rem);
-    max-width: 28ch;
+    max-width: 34ch;
   }
 
   .reader-meta {
