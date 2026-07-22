@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T22:10:33.415Z",
-  "fetchedAt": "2026-07-21T22:10:33.408Z",
+  "generatedAt": "2026-07-22T00:02:38.764Z",
+  "fetchedAt": "2026-07-22T00:02:38.759Z",
   "sourceCount": 21,
-  "itemCount": 134,
+  "itemCount": 133,
   "totalItemCount": 766,
   "items": [
     {
@@ -1467,17 +1467,6 @@
       "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
       "publishedAt": "2026-06-22T22:22:40.000Z",
       "articleId": "06e0059d273d84ed"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
-      "title": "Pizza wheels are bad, Japanese toilets are great",
-      "url": "https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "So why do Americans use the former and not the latter?",
-      "publishedAt": "2026-06-21T23:33:20.000Z",
-      "articleId": "49214c73a3eb6937"
     }
   ],
   "weather": {
@@ -1492,10 +1481,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5"
+    "articleId": "105509822dbbd8e5",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-21T22:10:33.415Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-22T00:02:38.764Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1636,18 +1626,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
