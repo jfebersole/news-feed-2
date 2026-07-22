@@ -74,3 +74,33 @@ test("removes the Listen to this post label from fetched Stratechery articles", 
   assert.doesNotMatch(article.contentHtml, /Listen to this post/i);
   assert.match(article.contentHtml, /actual Stratechery article/);
 });
+
+test("keeps a repeated Capital Weather description in the body instead of the subtitle", () => {
+  const happeningNow =
+    "HAPPENING NOW: Partly sunny today with humidity slow to budge and highs in the mid- to upper 80s.";
+  const html = `
+    <html><head>
+      <title>DC-area forecast test</title>
+      <meta property="og:description" content="${happeningNow}">
+    </head><body><article>
+      <p><em>Always a human at the helm: Updated around-the-clock by Capital Weather meteorologists.</em></p>
+      <p><strong>Happening now: </strong>Partly sunny today with humidity slow to budge and highs in the mid- to upper 80s.</p>
+      <p><strong>What’s next?</strong> Nicer tomorrow into the weekend.</p>
+    </article></body></html>
+  `;
+  const article = extractArticleFromHtml({
+    html,
+    url: "https://www.capitalweather.com/dc-area-forecast-test/",
+    sourceName: "Capital Weather",
+  });
+
+  assert.equal(article.subtitle, null);
+  assert.match(article.contentHtml, /<strong>Happening now: <\/strong>Partly sunny today/);
+
+  const otherSourceArticle = extractArticleFromHtml({
+    html,
+    url: "https://example.com/forecast-test/",
+    sourceName: "Another Source",
+  });
+  assert.equal(otherSourceArticle.subtitle, happeningNow);
+});

@@ -1,10 +1,133 @@
 {
-  "generatedAt": "2026-07-22T05:29:40.927Z",
-  "fetchedAt": "2026-07-22T05:29:40.925Z",
-  "sourceCount": 22,
-  "itemCount": 152,
+  "generatedAt": "2026-07-22T17:04:05.730Z",
+  "fetchedAt": "2026-07-22T17:04:05.728Z",
+  "sourceCount": 23,
+  "itemCount": 156,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
+      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Even under populism, elite failure is still a problem.",
+      "publishedAt": "2026-07-22T16:51:44.000Z",
+      "articleId": "1ddedeee15548235"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-563",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Balaji and Network State moving to Kazakhstan. 2. Why evolvable AI is not yet a Darwinian threat. 3. “This paper argues that societies with greater historical exposure to natural disasters are more likely to develop long-term-oriented norms that emphasize preparation, saving, and future well-being.” 4. And from Agustin: Questions that Are Rarely Asked. 5. MacroMusings […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-22T16:19:02.000Z",
+      "articleId": "65b257a0ffb1643b"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-july-2026-part-1",
+      "title": "Links For July 2026 (Part 1)",
+      "url": "https://www.astralcodexten.com/p/links-for-july-2026-part-1",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-22T14:57:36.000Z",
+      "articleId": "5e16a9cd8b5384ac"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-hacked-hugging-face",
+      "title": "An OpenAI model hacked Hugging Face to help it cheat on a benchmark",
+      "url": "https://www.understandingai.org/p/an-openai-model-hacked-hugging-face",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Organizations across the Internet need to move quickly to patch vulnerabilities.",
+      "publishedAt": "2026-07-22T14:40:10.000Z",
+      "articleId": "6f32120ad8cbd962"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
+      "title": "Lessons from a high-fertility subculture",
+      "url": "https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Modernity has meant fewer children in virtually every culture around the world. Holdouts like Orthodox Jews might have lessons for the rest of us.",
+      "publishedAt": "2026-07-22T13:26:59.000Z",
+      "articleId": "259cd35d6b7b6938"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html?utm_source=rss&utm_medium=rss&utm_campaign=an-openai-model-escaped-its-sandbox-and-hacked-hugging-face",
+      "title": "An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "AI has just had what I considered to be the first truly concerning security breach. The facts, as we know them so far, are wild. On July 16, Hugging Face, a vast repository housing over a million open-source AI models and data, announced in a blog post: Earlier this week, we detected and responded to […] The post An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-22T11:14:54.000Z",
+      "articleId": "9a2e5048dd655dd2"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-lost-joy-of-monoculture",
+      "title": "The lost joy of monoculture",
+      "url": "https://www.slowboring.com/p/the-lost-joy-of-monoculture",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Part of the fun of the World Cup is it felt like everyone was watching.",
+      "publishedAt": "2026-07-22T10:02:22.000Z",
+      "articleId": "a4cbde009d317479"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+      "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
+      "publishedAt": "2026-07-22T10:00:00.000Z",
+      "articleId": "0066ab9912f89216"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-red-sox-won-themselves-into-a",
+      "title": "The Red Sox Won Themselves Into a Deadline Dilemma",
+      "url": "https://neilpaine.substack.com/p/the-red-sox-won-themselves-into-a",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Boston's historic surge has turned a lost season into a likely playoff run. Now comes the harder question: How much should the front office believe in it?",
+      "publishedAt": "2026-07-22T09:01:05.000Z",
+      "articleId": "476ecb390f30e74f"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
+      "title": "Who was the worst monster of the 20th century?",
+      "url": "https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "And who is the worst monster of the 21st?",
+      "publishedAt": "2026-07-22T07:34:05.000Z",
+      "articleId": "310c8e7a7569fbbc"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html?utm_source=rss&utm_medium=rss&utm_campaign=alec-stapp-on-the-new-science-report-from-michael-kratsios",
+      "title": "Alec Stapp on the new Science report from Michael Kratsios",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Major new report from the White House Office of Science and Technology Policy. Five things in the report I really liked: 1. Proposes metascience units as a way to advance experimentation in science agencies. IFP recommended OSTP take this forward in our response to a 2025 RFI. 2. Advocates for a portfolio approach to federal […] The post Alec Stapp on the new Science report from Michael Kratsios appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-22T06:30:45.000Z",
+      "articleId": "4da930c31fd9cf26"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/betting-markets-in-everything-5.html?utm_source=rss&utm_medium=rss&utm_campaign=betting-markets-in-everything-5",
       "title": "Betting markets in everything",
@@ -15,17 +138,6 @@
       "summary": "Alan and Karen Miller’s first dance was a win-or-lose moment for many of their wedding guests. As the couple glided across the floor during their reception in New Rochelle, N.Y., last year, attendees kept track of the chosen artist and the length of the dance. Earlier in the night, they had noted their guesses on […] The post Betting markets in everything appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-22T04:35:44.000Z",
       "articleId": "bc61a0e5e857c908"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
-      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Even under populism, elite failure is still a problem.",
-      "publishedAt": "2026-07-22T00:11:01.000Z",
-      "articleId": "1ddedeee15548235"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
@@ -339,39 +451,6 @@
       "summary": "1. Female promotions and the academic pipeline. 2. NEW MONKEYS. 3. Those new service sector jobs — “One nanny isn’t cutting it anymore. Some parents are spending upward of $250,000 on teams for their children. Luxury services offer potty-training, baby chefs and bike-riding lessons.” (WSJ). 4. There some English people with the name “Ralph” who […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T16:25:48.000Z",
       "articleId": "5fb315e5740854ff"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor",
-      "title": "Building luxury homes is good for the poor",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Tej Parikh writing in the FT: …high-end developments unlock long housing chains. As higher-income households move into newly built units, they free up older properties, raising supply and slashing prices for middle- and lower-end housing through a process known as filtering. Numerous international studies underscore this positive ripple effect. One published last year tracked households […] The post Building luxury homes is good for the poor appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-19T11:23:40.000Z",
-      "articleId": "ae212443bc5d80e7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html?utm_source=rss&utm_medium=rss&utm_campaign=cross-ethnic-casting",
-      "title": "Cross-ethnic casting",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I complained about the casting of The Odyssey per se (the blind beggar was best), but in general I do not mind cross-ethnic casting. I am glad Elizabeth Taylor played Cleopatra, Dev Patel played David Copperfield, Denzel Washington played Macbeth, black and Latino actors play white parts in Hamilton, and that Morgan Freeman can play […] The post Cross-ethnic casting appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-19T06:29:05.000Z",
-      "articleId": "b864592aed7de6a8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/how-does-social-media-change-people.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-social-media-change-people",
-      "title": "How does social media change people?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-does-social-media-change-people.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I would not trust the results of this (or any) paper on this topic very much, but it is good to see some inquiry along different dimensions than the usual: Past research explored the beneficial and harmful effects of social media (SM), but no study has investigated how SM might change people’s identities. Authors suggest […] The post How does social media change people? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-19T04:21:28.000Z",
-      "articleId": "e0a0aa7d1c46421e"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
@@ -870,17 +949,6 @@
       "articleId": "a151d0da252bb375"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
-      "title": "The HR Derby's Lefties Are Poised to Break The Bank",
-      "url": "https://neilpaine.substack.com/p/the-hr-derbys-lefties-are-poised",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Citizens Bank Park has become the most lefty-friendly Derby venue in recent history, giving Kyle Schwarber and Bryce Harper — among others — a built-in advantage Monday night.",
-      "publishedAt": "2026-07-13T09:01:30.000Z",
-      "articleId": "c4d2fd3dc36027f2"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
       "title": "Sunday Thread + Mailbag",
       "url": "https://www.slowboring.com/p/sunday-thread-mailbag-051",
@@ -926,18 +994,6 @@
       "summary": "Adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more.",
       "publishedAt": "2026-07-11T12:01:33.000Z",
       "articleId": "04300a3fd17ecb54"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-party-cant-fire-you",
-      "title": "The party can’t fire you",
-      "url": "https://www.slowboring.com/p/the-party-cant-fire-you",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Considering controversy and the consequences of stubbornness in Senate races",
-      "publishedAt": "2026-07-10T22:00:33.000Z",
-      "articleId": "341182e9295c7d38"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-crushed-top-human",
@@ -1141,17 +1197,6 @@
       "summary": "Featuring Audioslave, Traveling Wilburys, boygenius, and others",
       "publishedAt": "2026-07-07T13:31:46.000Z",
       "articleId": "ac9ff45371a64632"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
-      "title": "A Script for Mark Zuckerberg",
-      "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
-      "publishedAt": "2026-07-07T10:00:00.000Z",
-      "articleId": "87056ab842dd6289"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/dont-invest-your-political-capital",
@@ -1714,20 +1759,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
-    "title": "DC-area forecast: Muggy overnight with a spotty shower possible",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
+    "title": "DC-area forecast: Humidity and a shower chance linger today. Nicer tomorrow into the weekend.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and storms with heavy rain have exited the area with just a spotty shower or two possible overnight.",
-    "publishedAt": "2026-07-21T09:00:01.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
-    "articleId": "105509822dbbd8e5"
+    "summary": "HAPPENING NOW: Partly sunny today with humidity slow to budge and highs in the mid- to upper 80s. A few showers or storms are possible this afternoon, especially from DC to the south and east.",
+    "publishedAt": "2026-07-22T09:00:41.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
+    "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-22T05:29:40.927Z",
+  "weatherGeneratedAt": "2026-07-22T17:04:05.730Z",
   "weatherError": null,
   "sources": [
     {
@@ -1888,6 +1933,14 @@
       "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
+      "error": null
+    },
+    {
+      "name": "J. Kenji López-Alt",
+      "url": "https://frienji.kenjilopezalt.com/",
+      "mode": "rss",
+      "itemCount": 0,
+      "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
     {

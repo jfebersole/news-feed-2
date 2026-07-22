@@ -74,6 +74,7 @@ Current example:
 - `Astral Codex Ten`: exclude items where the title contains `open thread` (case-insensitive).
 - `Neil Paine`: exclude items where description contains `Subscribe to Scoreboard`, and exclude items with emojis in the title.
 - `Slow Boring`: exclude items where the title contains `discussion post` (case-insensitive).
+- `J. Kenji López-Alt`: exclude Patreon's signup-confirmation email from the Kill the Newsletter feed.
 
 For a source that publishes unwanted items in a separate RSS section, add `excludeFeedUrl` to its entry
 in `SOURCES`. Items from the main feed are matched by canonical URL against that exclusion feed. If the

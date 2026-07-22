@@ -773,7 +773,8 @@ body::before {
   font-size: clamp(1.95rem, 4.3vw, 3.8rem);
   line-height: 0.95;
   letter-spacing: -0.02em;
-  max-width: 22ch;
+  max-width: 100%;
+  text-wrap: balance;
 }
 
 .reader-subtitle {
@@ -783,6 +784,7 @@ body::before {
   font-size: clamp(1.12rem, 2vw, 1.64rem);
   font-family: "Newsreader", Georgia, serif;
   line-height: 1.23;
+  text-wrap: balance;
   display: none;
 }
 

@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 
 process.env.NEWS_FEED_DISABLE_SERVER = "1";
-const { SOURCES, excludeFeedItemsByUrl } = await import("../server.js");
+const { SOURCES, applySourceItemRules, excludeFeedItemsByUrl } = await import("../server.js");
 
 test("configures Silver Bulletin with its Models & Forecasts exclusion feed", () => {
   const source = SOURCES.find((candidate) => candidate.name === "Silver Bulletin");
@@ -50,4 +50,23 @@ test("fails closed when a configured exclusion feed has no valid item URLs", () 
     () => excludeFeedItemsByUrl(source, [{ title: "Analysis", url: "https://example.com/p/analysis" }], []),
     /Exclusion feed returned no valid item URLs/
   );
+});
+
+test("configures Kenji's Patreon newsletter and excludes its signup confirmation", () => {
+  const source = SOURCES.find((candidate) => candidate.name === "J. Kenji López-Alt");
+  const confirmation = {
+    title: "Confirm your email to get started on Patreon",
+    url: "https://kill-the-newsletter.com/feeds/example/entries/confirmation.html",
+  };
+  const article = {
+    title: "Introducing: Kenji Eats Japan!",
+    url: "https://kill-the-newsletter.com/feeds/example/entries/article.html",
+  };
+
+  assert.deepEqual(source, {
+    name: "J. Kenji López-Alt",
+    url: "https://frienji.kenjilopezalt.com/",
+    feedUrl: "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
+  });
+  assert.deepEqual(applySourceItemRules(source, [confirmation, article]), [article]);
 });

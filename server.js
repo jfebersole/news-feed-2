@@ -150,6 +150,11 @@ const SOURCES = [
     feedUrl: "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
   },
   {
+    name: "J. Kenji López-Alt",
+    url: "https://frienji.kenjilopezalt.com/",
+    feedUrl: "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
+  },
+  {
     name: "Can't Get Much Higher",
     url: "https://www.cantgetmuchhigher.com/",
     feedUrl: "https://www.cantgetmuchhigher.com/feed",
@@ -173,6 +178,9 @@ const SOURCE_ITEM_RULES = Object.freeze({
   }),
   "Slow Boring": Object.freeze({
     excludeTitleIncludes: Object.freeze(["discussion post"]),
+  }),
+  "J. Kenji López-Alt": Object.freeze({
+    excludeTitleIncludes: Object.freeze(["confirm your email to get started on patreon"]),
   }),
   "Money Stuff (Bloomberg)": Object.freeze({
     excludeTitleIncludes: Object.freeze([
@@ -1501,7 +1509,7 @@ function extractArticleFromHtml({ html, url, sourceName }) {
   const ogTitle = cleanText($("meta[property='og:title']").attr("content") || "");
   const docTitle = cleanText($("title").first().text() || "");
   const title = cleanText(jsonLd.headline || jsonLd.name || ogTitle || docTitle);
-  const subtitle = extractSubtitle($, jsonLd, title);
+  let subtitle = extractSubtitle($, jsonLd, title);
   const byline = extractByline($, jsonLd);
   const publishedAt = normalizeDate(
     jsonLd.datePublished ||
@@ -1513,7 +1521,13 @@ function extractArticleFromHtml({ html, url, sourceName }) {
   const bestContainer = findBestArticleContainer($, { url, sourceName });
   let content = collectContentBlocks($, bestContainer, url, { preferSubstackMedia: isSubstackStyle });
   if (subtitle) {
-    content = stripDuplicativeLeadHeading(content, subtitle);
+    const isCapitalWeatherHappeningNow =
+      source === "capital weather" && /^happening now\s*:/i.test(cleanText(subtitle));
+    if (isCapitalWeatherHappeningNow && contentRepeatsSubtitle(content, subtitle)) {
+      subtitle = null;
+    } else {
+      content = stripDuplicativeLeadHeading(content, subtitle);
+    }
   }
 
   if (!content.contentHtml) {
@@ -2378,6 +2392,28 @@ function stripDuplicativeLeadHeading(content, subtitle) {
   };
 }
 
+function contentRepeatsSubtitle(content, subtitle) {
+  if (!content?.contentHtml || !subtitle) {
+    return false;
+  }
+
+  const normalizedSubtitle = cleanText(subtitle).toLowerCase();
+  if (!normalizedSubtitle) {
+    return false;
+  }
+
+  try {
+    const $ = cheerio.load(`<div id="reader-subtitle-check-root">${content.contentHtml}</div>`);
+    const $root = $("#reader-subtitle-check-root");
+    return $root
+      .find("h1,h2,h3,h4,h5,h6,p,blockquote")
+      .toArray()
+      .some((node) => cleanText($(node).text()).toLowerCase() === normalizedSubtitle);
+  } catch {
+    return false;
+  }
+}
+
 function splitIntoParagraphs(text, minLength = 45) {
   return text
     .split(/\n{1,}|\r{1,}/g)
@@ -3210,6 +3246,7 @@ async function mapWithConcurrency(items, limit, mapper) {
 export {
   SOURCES,
   aggregateSources,
+  applySourceItemRules,
   buildArticlePayload,
   canonicalizeUrl,
   classifyFeedItemAccess,
