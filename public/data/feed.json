@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-07-22T17:04:05.730Z",
-  "fetchedAt": "2026-07-22T17:04:05.728Z",
-  "sourceCount": 23,
-  "itemCount": 156,
-  "totalItemCount": 805,
+  "generatedAt": "2026-07-22T16:40:51.025Z",
+  "fetchedAt": "2026-07-22T16:40:51.020Z",
+  "sourceCount": 22,
+  "itemCount": 151,
+  "totalItemCount": 780,
   "items": [
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
-      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Even under populism, elite failure is still a problem.",
-      "publishedAt": "2026-07-22T16:51:44.000Z",
-      "articleId": "1ddedeee15548235"
-    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-563",
       "title": "Wednesday assorted links",
@@ -49,6 +38,17 @@
       "summary": "Organizations across the Internet need to move quickly to patch vulnerabilities.",
       "publishedAt": "2026-07-22T14:40:10.000Z",
       "articleId": "6f32120ad8cbd962"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
+      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Even under populism, elite failure is still a problem.",
+      "publishedAt": "2026-07-22T14:12:53.000Z",
+      "articleId": "1ddedeee15548235"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
@@ -489,17 +489,6 @@
       "articleId": "439ec5e0eda94f71"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-13-17-2026",
-      "title": "The Week That Was (July 13-17, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-13-17-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-07-18T09:00:31.000Z",
-      "articleId": "f6232948ff156fb9"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
       "title": "Vibes are winning, whether you like it or not",
       "url": "https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
@@ -554,17 +543,6 @@
       "summary": "Plus the perils of energy fandom and some hot takes on Jaylen Brown",
       "publishedAt": "2026-07-17T10:00:37.000Z",
       "articleId": "7ea1b63d1799d622"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
-      "title": "Spain Won't Fall Behind. Argentina Can't Be Put Away. Something Has to Give.",
-      "url": "https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Spain has not trailed for a single minute of the knockout stage; Argentina has trailed more than any Finalist since 1966, only to keep escaping late.",
-      "publishedAt": "2026-07-17T09:01:37.000Z",
-      "articleId": "3e972c4374088270"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
@@ -665,18 +643,6 @@
       "summary": "The Supreme Court isn’t on your side.",
       "publishedAt": "2026-07-16T10:02:10.000Z",
       "articleId": "9a74326041fc6222"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
-      "title": "We Don't Know What We Want From All-Star Games",
-      "url": "https://neilpaine.substack.com/p/we-dont-know-what-we-want-from-all",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Fans rejected the NBA's artificial spectacle. Then baseball gave them something more real — and they hated that, too.",
-      "publishedAt": "2026-07-16T09:02:12.000Z",
-      "articleId": "7679daca1073297c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
@@ -781,17 +747,6 @@
       "articleId": "3fbdc1bddb35e834"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/what-a-major-less-season-would-cost",
-      "title": "What a Major-Less Season Would Cost Scottie Scheffler",
-      "url": "https://neilpaine.substack.com/p/what-a-major-less-season-would-cost",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Golf's aging curve says the world's No. 1 player still has time to build his major résumé. But it also says every empty prime year matters.",
-      "publishedAt": "2026-07-15T09:02:10.000Z",
-      "articleId": "f38b6210ab054411"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
       "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
       "url": "https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
@@ -868,18 +823,6 @@
       "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
       "publishedAt": "2026-07-14T10:00:00.000Z",
       "articleId": "abfeab3db38afb8d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
-      "title": "Baseball's All-Stars Live in the Present",
-      "url": "https://neilpaine.substack.com/p/baseballs-all-stars-live-in-the-present",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "First-half performance dominates All-Star Game selections more than ever — except in the bullpen, where reputation still matters some.",
-      "publishedAt": "2026-07-14T09:01:46.000Z",
-      "articleId": "6ff14bd39b4c0607"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3orcvy2s05e5alhdzszb.html",
@@ -1772,7 +1715,7 @@
     "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
     "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-22T17:04:05.730Z",
+  "weatherGeneratedAt": "2026-07-22T16:40:51.025Z",
   "weatherError": null,
   "sources": [
     {
@@ -1818,16 +1761,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -1850,8 +1793,8 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss",
-      "itemCount": 8,
+      "mode": "rss-proxy",
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1933,14 +1876,6 @@
       "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
-    },
-    {
-      "name": "J. Kenji López-Alt",
-      "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
-      "itemCount": 0,
-      "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
     {
