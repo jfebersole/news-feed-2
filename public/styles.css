@@ -200,38 +200,11 @@ body::before {
   position: relative;
 }
 
-.feed-card::before {
-  content: "";
-  width: 12px;
-  height: 12px;
-  position: absolute;
-  top: 15px;
-  right: 0;
-}
-
-.feed-card.tone-a::before {
-  background: var(--accent-orange);
-}
-
-.feed-card.tone-b::before {
-  background: var(--accent-blue);
-  border-radius: 50%;
-}
-
-.feed-card.tone-c::before {
-  background: var(--ink);
-}
-
-.feed-card.tone-d::before {
-  background: var(--accent-gold);
-}
-
 .card-topline {
   display: flex;
   align-items: baseline;
   gap: 9px;
   flex-wrap: wrap;
-  padding-right: 26px;
 }
 
 .rank-pill {
