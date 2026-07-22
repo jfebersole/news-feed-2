@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-22T20:19:04.636Z",
-  "fetchedAt": "2026-07-22T20:19:04.633Z",
+  "generatedAt": "2026-07-22T22:14:19.935Z",
+  "fetchedAt": "2026-07-22T22:14:19.930Z",
   "sourceCount": 23,
-  "itemCount": 150,
-  "totalItemCount": 779,
+  "itemCount": 151,
+  "totalItemCount": 780,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
+      "title": "Housing is at the top of everyone’s agenda",
+      "url": "https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "New polling, research, investment, and shifting investor behavior all point to housing’s growing influence on voters, markets, states, and lawmakers.",
+      "publishedAt": "2026-07-22T22:01:12.000Z",
+      "articleId": "a0af5d8f4d84dde4"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-equilibrium-19",
       "title": "Solve for the equilibrium",
@@ -1692,21 +1704,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
-    "title": "DC-area forecast: Humidity and a shower chance linger today. Nicer tomorrow into the weekend.",
+    "title": "DC-area forecast: Humidity drops off tonight. Nicer tomorrow into the weekend.",
     "url": "https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny today with humidity slow to budge and highs in the mid-80s to near 90. A few showers or storms are possible this afternoon, especially from DC to the south and east.",
+    "summary": "HAPPENING NOW: A shower or storm possible, especially in southern Maryland through evening. Partly cloudy elsewhere with temperatures slowly falling through the 80s most spots.",
     "publishedAt": "2026-07-22T09:00:41.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
-    "articleId": "61f038246eeae3bc",
-    "stale": true
+    "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-22T20:19:04.636Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-22T22:14:19.935Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1808,7 +1819,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
