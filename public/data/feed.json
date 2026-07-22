@@ -1,10 +1,175 @@
 {
-  "generatedAt": "2026-07-20T19:05:17.428Z",
-  "fetchedAt": "2026-07-20T19:05:17.423Z",
+  "generatedAt": "2026-07-22T00:02:38.764Z",
+  "fetchedAt": "2026-07-22T00:02:38.759Z",
   "sourceCount": 21,
-  "itemCount": 132,
-  "totalItemCount": 767,
+  "itemCount": 133,
+  "totalItemCount": 766,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "title": "Even Under Populism, Elite Failure Is Still a Problem",
+      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "A new critique of Trumpism is too easy on elites.",
+      "publishedAt": "2026-07-21T21:16:11.000Z",
+      "articleId": "1ddedeee15548235"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
+      "title": "Money Stuff: LSE Will Trade 22.83 Hours a Day",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff 22.83/5, BLK v. BLK, ticking, VPN, gold. View in browser 22.8333/5 trading Most stock exchanges run on old-fashioned human timeframes. The exchange opens after breakfast, it trades for a while, and then it closes so people can wrap things up, organize all of their trade tickets and leave in time for dinner. Several important exchanges close for lunch . These exchanges all started as trading floors where humans met to trade stocks and wrote down trade tickets by hand; those humans needed time to get organized and also to eat. Obviously now the way you expect to trade stock — or crypto or sports bets or anything else — is by clicking a button on your computer or phone. Your computer does not need a lunch break. You might intuitively assume that it doesn’t need a pause to organize the day’s trading and reconcile its records, either. “What, when I sell you stock, the computer takes the stock out of my account and puts it in your account; that should happen instantly; it doesn’t need to later go back and update all the records to reflect the day’s trading.” There is a sense that the old human rhythm of the trading day is outdated, and a push — caused in part by the rise of active retail trading, in part by globalization of stock markets and in part by the example of crypto — for continuous 24-hour-a-day, seven-day-a-week electronic trading. Still that seems sort of mean. The computers can do a lot of the trading, but humans still need to supervise them; those humans can eat at their desks, I guess, but they need to sleep eventually. Also it turns out that the systems for keeping track of stuff — for financing and reconciling and settling trades — are a bit more complicated than you’d intuitively assume, and the computers would appreciate a little pause to get their books in order. Anyway here’s a press release from the London Stock Exchange: London Stock Exchange today announced plans to launch London Stock Exchange 24 (LSE 24), a new 24/5 trading venue to support the next generation of digital, algorithmic and agentic trading. LSE 24 is designed to support near-continuous trading from Monday to Friday, giving global investors greater flexibility to respond to market events, access liquidity across time zones and manage risk. The venue, which will be built on LSEG’s trusted financial market infrastructure, complements existing market structures by preserving the resilience and integrity of regular trading hours, while opening new opportunities for participation outside the traditional trading day in the UK. It will operate separately from the London Stock Exchange’s Main Market, which will continue to operate its existing trading hours. A delightful footnote clarifies: London Stock Exchange 24 will operate from 17:00 to 07:50 with a 30-minute...",
+      "publishedAt": "2026-07-21T18:29:17.367Z",
+      "articleId": "ccf15ed413f1f32e"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/fable-responds",
+      "title": "Fable responds",
+      "url": "https://scottsumner.substack.com/p/fable-responds",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "My conversation with Fable (and hence the profession) continues",
+      "publishedAt": "2026-07-21T17:05:35.000Z",
+      "articleId": "e0e1a585b648586a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-578",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. White on Hutt’s macro. 2. Are LLMs obsessed with Japan? 3. Princeton University art museum gets landmark gift of Haitian paintings. 4. “Sight unseen” — the revenge of asymmetric information. But was it a good buy? 5. “Democratic types would give up about $210,000 and Republican types about $100,000 in annual partner income to […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T16:22:13.000Z",
+      "articleId": "0d5e210453d0b0c1"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
+      "title": "Alliterative Artists: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Kriss Kross, Christopher Cross, Kris Kristofferson, and others",
+      "publishedAt": "2026-07-21T13:30:22.000Z",
+      "articleId": "e4ef242b6d363bfc"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
+      "title": "Contra Pritchard On Liberal Happiness",
+      "url": "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-21T12:30:55.000Z",
+      "articleId": "bfde6ea1fb26a15d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey",
+      "title": "The Odyssey",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Worth seeing, and I enjoyed it — but a few observations I haven’t seen elsewhere. For all the praise of IMAX and 70mm’s supposed clarity, several scenes are out of focus on the actor. Pulling focus is harder with a large-format negative. The problem is compounded by Nolan’s fondness for darkness: too many scenes are […] The post The Odyssey appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T11:18:18.000Z",
+      "articleId": "c62cbb1e9d30b3e1"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-the-center-left-can-come-back",
+      "title": "How the center-left can come back in 2028",
+      "url": "https://www.slowboring.com/p/how-the-center-left-can-come-back",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "There are a bunch of issues where the establishment is to the left of most Democratic primary voters.",
+      "publishedAt": "2026-07-21T10:02:37.000Z",
+      "articleId": "8d532ac8dff8446a"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
+      "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
+      "url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Netflix's earnings were fine, and befitting a mature company whose most exciting days are likely behind them.",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
+      "articleId": "ec177329c562e7d1"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/when-wayne-gretzky-came-to-manhattan",
+      "title": "When Wayne Gretzky Came to Manhattan",
+      "url": "https://neilpaine.substack.com/p/when-wayne-gretzky-came-to-manhattan",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The Great One's Rangers tenure was brief, iconic and better than history remembers.",
+      "publishedAt": "2026-07-21T09:00:22.000Z",
+      "articleId": "c5aecd009385886d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economic-effects-of-glp-1s",
+      "title": "The economic effects of GLP-1s",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-economic-effects-of-glp-1s.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar patients who initiate four years later. We find that GLP-1 treatment reduces long-term sickness […] The post The economic effects of GLP-1s appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T06:38:12.000Z",
+      "articleId": "bf35b6b98b8bc439"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
+      "title": "Is America ruled by an oligarchy?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Any time you hear claims about American government, a sanity-inducing response is to ask whether they also are true of state and local governments. Here is an excerpt from my latest piece at The Free Press: First, in people’s daily lives, they typically interact with their state and local governments more than with the feds. […] The post Is America ruled by an oligarchy? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-21T04:34:49.000Z",
+      "articleId": "65544d1849bef5a5"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
+      "title": "Democratic fields are shifting; G.O.P. bank accounts are growing",
+      "url": "https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "From Maine to Wisconsin, Democratic primaries have been upended as G.O.P. incumbents and super PACs continue stockpiling cash ahead of 2026.",
+      "publishedAt": "2026-07-20T22:01:05.000Z",
+      "articleId": "d1f0e12cdac5cd89"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
+      "title": "Words of wisdom on Chinese AI and our responses",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The strategy for China is obvious: commoditize your complements. Note that Xi explicitly ties openness to AI “moving from the digital world into the physical world”; the physical world is the world dominated by China, and the country’s lead in areas like robotics is going to massively benefit from widely available AI models. Along the […] The post Words of wisdom on Chinese AI and our responses appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-20T21:11:03.000Z",
+      "articleId": "cadec7d74c76236b"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ajxgkb08szyhrzophhey.html",
+      "title": "Money Stuff: Ice Cream Hedging",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ajxgkb08szyhrzophhey.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff API, LCDL, 10Q, peptides, reinspection. View in browser Ice cream hedge Oh sure : 28wishes, a bougie independent ice cream parlor in downtown Los Angeles, has been gaining cash on Kalshi, the online “prediction market” app that lets users gamble on everything from political races to Met Gala looks. According to the shop’s owner, 37-year-old Jason Jiang, he’s been clearing up to $1,500 per month on the app by being bullish on cold snaps in Southern California. “Ice cream is one of the most weather-dependent products in the world,” explained Jiang, who worked in corporate banking before swirling soft serve. “We lose about 20 percent of business when the weather goes below 70 degrees… So we’re essentially hedging that profit loss on the app.” Sure. The basic situation with Kalshi is that it really wants to be perceived as a useful platform for lovable Main Street businesses to hedge real-world risks, but it is mostly a sports gambling website . So there is a steady stream of stories about companies ( bars , sports teams ) using Kalshi to hedge real-world sports risk with sports bets. But Kalshi is not exclusively a sports gambling website. It also offers weather bets. Every Cutesy Economics 101 textbook will tell you that ice cream sales are higher when it is hot and sunny and lower when it is cold and rainy. An ice cream shop cannot control the weather, but it can hedge its weather risk with weather bets. Cutesy Financial Derivatives 101. By the way, while ice cream shops are the standard Cutesy Economics 101 example of businesses whose income depends on the weather, they are not the only or main example in the real world. Lots of other businesses are weather-dependent and hedge their weather risk. Property insurance companies have to pay more claims when hurricanes hit, and hedge by selling catastrophe bonds . Farmers lose their crops when there is no rain, and hedge by buying crop insurance. We actually talked about crop insurance a few years ago. Despite the name (“crop insurance”), US crop insurance is often structured as a bet on rainfall: It pays out “when there is less than the usual amount of precipitation” in a given area, as measured by the government weather service, “ even if the relevant farmland suffers no loss in productivity.” (It is parametric insurance , rather than loss-based insurance.) Apparently the way that the weather service measures precipitation is by putting out buckets and seeing how much water falls into them. We talked about this because some farmers were convicted of manipulating the precipitation numbers by doing things like (1) putting covers on the buckets so rain didn’t fall into them or (2) dumping out the buckets when rain did fall into them. As it happens, last month AgWeb ran a long article about...",
+      "publishedAt": "2026-07-20T18:22:03.312Z",
+      "articleId": "eda47665cdd0fcb5"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-569",
       "title": "Monday assorted links",
@@ -12,7 +177,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. &#8220;In all three countries, declining places displayed higher animosity prior to salient populist campaigns.&#8221; In their tweets. 2. Sunstein on Hayek and conservatism. 3. Jacobian conjecture proved false. Fable found a counterexample that fits inside a tweet. From the strawberry guy: &#8220;in the areas that the labs are targeting, we’ve achieved artificial super intelligence. [&#8230;] The post Monday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. “In all three countries, declining places displayed higher animosity prior to salient populist campaigns.” In their tweets. 2. Sunstein on Hayek and conservatism. 3. Jacobian conjecture proved false. Fable found a counterexample that fits inside a tweet. From the strawberry guy: “in the areas that the labs are targeting, we’ve achieved artificial super intelligence. […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-20T16:34:14.000Z",
       "articleId": "5d4634b403db5743"
     },
@@ -34,7 +199,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "It is fun to watch/rewatch this 1990 movie circa 2026. It is about New York City debutantes (CT and the Hamptons too), and how they interact with each other. The movie is set a bit earlier in time, perhaps in the mid-1980s, though some scenes hearken back to the 1970s. Of course there is no [&#8230;] The post Whit Stillman&#8217;s *Metropolitan* (that was then, this is now) appeared first on Marginal REVOLUTION .",
+      "summary": "It is fun to watch/rewatch this 1990 movie circa 2026. It is about New York City debutantes (CT and the Hamptons too), and how they interact with each other. The movie is set a bit earlier in time, perhaps in the mid-1980s, though some scenes hearken back to the 1970s. Of course there is no […] The post Whit Stillman’s *Metropolitan* (that was then, this is now) appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-20T11:25:12.000Z",
       "articleId": "d8e3e1fbdc6be680"
     },
@@ -78,7 +243,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval (CI) [10.6, 12.8]) more Democratic than the average Republican’s. After controlling for [&#8230;] The post Democrats are more politically segregated than are Republicans appeared first on Marginal REVOLUTION .",
+      "summary": "We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval (CI) [10.6, 12.8]) more Democratic than the average Republican’s. After controlling for […] The post Democrats are more politically segregated than are Republicans appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-20T05:27:38.000Z",
       "articleId": "513685325ccf102d"
     },
@@ -89,7 +254,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Audrey London, Los Angeles, to write a book on water in California. Seyi Oluwasanmi, London, to bring Brits to SF to learn tech. Thomas Haferlach, Berlin, payments and compute layer for the long tail of AI apps. Juan Ramón Egea Fernández, Andalusia, tech. Teo Spiro, Israel, AI and biology. Amitav Krishna, suburban Ontario, 14, quantum. [&#8230;] The post Emergent Ventures winners, 56th cohort appeared first on Marginal REVOLUTION .",
+      "summary": "Audrey London, Los Angeles, to write a book on water in California. Seyi Oluwasanmi, London, to bring Brits to SF to learn tech. Thomas Haferlach, Berlin, payments and compute layer for the long tail of AI apps. Juan Ramón Egea Fernández, Andalusia, tech. Teo Spiro, Israel, AI and biology. Amitav Krishna, suburban Ontario, 14, quantum. […] The post Emergent Ventures winners, 56th cohort appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-20T04:33:26.000Z",
       "articleId": "852ba0c2ad3c0976"
     },
@@ -112,7 +277,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "When great powers disagree about the nature of A.I.",
-      "publishedAt": "2026-07-19T19:35:45.000Z",
+      "publishedAt": "2026-07-19T19:35:46.000Z",
       "articleId": "e6e6f73e75250437"
     },
     {
@@ -122,7 +287,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Peter Brook‘s five-hour-plus film adaptation of “The Mahabharata” is set for a BFI Blu-ray release on Aug. 10, presented in high definition from a new 4K restoration of the 1989 production. The release centres on the triptych version of the film, running 332 minutes, which sits between Brook’s three-hour cinema cut and the six-hour television version he shot [&#8230;] The post Markets in everything? appeared first on Marginal REVOLUTION .",
+      "summary": "Peter Brook‘s five-hour-plus film adaptation of “The Mahabharata” is set for a BFI Blu-ray release on Aug. 10, presented in high definition from a new 4K restoration of the 1989 production. The release centres on the triptych version of the film, running 332 minutes, which sits between Brook’s three-hour cinema cut and the six-hour television version he shot […] The post Markets in everything? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T19:10:49.000Z",
       "articleId": "65fe5c83d07f742e"
     },
@@ -144,7 +309,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Female promotions and the academic pipeline. 2. NEW MONKEYS. 3. Those new service sector jobs &#8212; &#8220;One nanny isn’t cutting it anymore. Some parents are spending upward of $250,000 on teams for their children. Luxury services offer potty-training, baby chefs and bike-riding lessons.&#8221; (WSJ). 4. There some English people with the name &#8220;Ralph&#8221; who [&#8230;] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. Female promotions and the academic pipeline. 2. NEW MONKEYS. 3. Those new service sector jobs — “One nanny isn’t cutting it anymore. Some parents are spending upward of $250,000 on teams for their children. Luxury services offer potty-training, baby chefs and bike-riding lessons.” (WSJ). 4. There some English people with the name “Ralph” who […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T16:25:48.000Z",
       "articleId": "5fb315e5740854ff"
     },
@@ -155,7 +320,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Tej Parikh writing in the FT: &#8230;high-end developments unlock long housing chains. As higher-income households move into newly built units, they free up older properties, raising supply and slashing prices for middle- and lower-end housing through a process known as filtering. Numerous international studies underscore this positive ripple effect. One published last year tracked households [&#8230;] The post Building luxury homes is good for the poor appeared first on Marginal REVOLUTION .",
+      "summary": "Tej Parikh writing in the FT: …high-end developments unlock long housing chains. As higher-income households move into newly built units, they free up older properties, raising supply and slashing prices for middle- and lower-end housing through a process known as filtering. Numerous international studies underscore this positive ripple effect. One published last year tracked households […] The post Building luxury homes is good for the poor appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T11:23:40.000Z",
       "articleId": "ae212443bc5d80e7"
     },
@@ -166,7 +331,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "I complained about the casting of The Odyssey per se (the blind beggar was best), but in general I do not mind cross-ethnic casting. I am glad Elizabeth Taylor played Cleopatra, Dev Patel played David Copperfield, Denzel Washington played Macbeth, black and Latino actors play white parts in Hamilton, and that Morgan Freeman can play [&#8230;] The post Cross-ethnic casting appeared first on Marginal REVOLUTION .",
+      "summary": "I complained about the casting of The Odyssey per se (the blind beggar was best), but in general I do not mind cross-ethnic casting. I am glad Elizabeth Taylor played Cleopatra, Dev Patel played David Copperfield, Denzel Washington played Macbeth, black and Latino actors play white parts in Hamilton, and that Morgan Freeman can play […] The post Cross-ethnic casting appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T06:29:05.000Z",
       "articleId": "b864592aed7de6a8"
     },
@@ -177,7 +342,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "I would not trust the results of this (or any) paper on this topic very much, but it is good to see some inquiry along different dimensions than the usual: Past research explored the beneficial and harmful effects of social media (SM), but no study has investigated how SM might change people’s identities. Authors suggest [&#8230;] The post How does social media change people? appeared first on Marginal REVOLUTION .",
+      "summary": "I would not trust the results of this (or any) paper on this topic very much, but it is good to see some inquiry along different dimensions than the usual: Past research explored the beneficial and harmful effects of social media (SM), but no study has investigated how SM might change people’s identities. Authors suggest […] The post How does social media change people? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T04:21:28.000Z",
       "articleId": "e0a0aa7d1c46421e"
     },
@@ -188,7 +353,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. How Roman concrete lasted for so long. 2. All restaurants in Germany are worthy of five stars? 3. They are making improvements to Refine. 4. New limits on graduate student visas? Should we/can we make the PhD three years only? 5.&#8221;I need him to make a decision.&#8221; 6. Vesuvius scrolls update. 7. &#8220;Where will [&#8230;] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. How Roman concrete lasted for so long. 2. All restaurants in Germany are worthy of five stars? 3. They are making improvements to Refine. 4. New limits on graduate student visas? Should we/can we make the PhD three years only? 5.”I need him to make a decision.” 6. Vesuvius scrolls update. 7. “Where will […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-18T15:43:03.000Z",
       "articleId": "524d33d03ea2f899"
     },
@@ -202,17 +367,6 @@
       "summary": "A setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.",
       "publishedAt": "2026-07-18T12:01:57.000Z",
       "articleId": "42bf4c13adaa7221"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles",
-      "title": "Trial Lawyers Lobby Against Autonomous Vehicles",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Roughly 37,000–40,000 Americans die in auto accidents every year. We now have large‑scale, real‑world evidence—from Waymo and a joint analysis with Swiss Re—that driverless operations can be substantially safer than matched human driving within their current operating domains. The latest data show that over 220 million miles driven, Waymo vehicles&#8211;in Los Angeles, San Francisco, Phoenix, [&#8230;] The post Trial Lawyers Lobby Against Autonomous Vehicles appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T11:18:18.000Z",
-      "articleId": "306121e70604ff9f"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/americas-political-economy-is-pretty",
@@ -237,39 +391,6 @@
       "articleId": "f6232948ff156fb9"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-luis-garicano",
-      "title": "What should I ask Luis Garicano?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with him. From Wikipedia: Luis Garicano Gabilondo (pronounced [ˈlwis ɣaɾiˈkano]; born 1967) is a Spanish economist and politician who was a Member of the European Parliament (MEP) from 2019 to 2022. He was also vice president of Renew Europe and vice president of the European political party Alliance of Liberals and Democrats for [&#8230;] The post What should I ask Luis Garicano? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T06:17:43.000Z",
-      "articleId": "307b42e2a3f3376c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom",
-      "title": "The small business boom",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Across the country, founders like Ms. Winkler are powering an entrepreneurial renaissance. Jump-started by the pandemic, when a confluence of factors including mass layoffs and remote work led to a flood of business creation, and supercharged by the rise of artificial intelligence, start-up activity is booming after a decades-long slump. Americans filed 5.7 million applications last [&#8230;] The post The small business boom appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T04:23:07.000Z",
-      "articleId": "a491bcd8169ea52b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-the-movie-no-real-spoilers",
-      "title": "*The Odyssey*, the movie (no real spoilers)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-odyssey-the-movie-no-real-spoilers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I can&#8217;t say I loved it. The Circe scene was excellent, Cyclops was good, and the battles in Troy were well done. But most of the roles were miscast. I like Matt Damon, but he is too &#8220;Good Will Hunting&#8221; to play Odysseus. The character did not cohere. (Compare to Ralph Fiennes in the superior [&#8230;] The post *The Odyssey*, the movie (no real spoilers) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-18T01:30:34.000Z",
-      "articleId": "d0e157cb415d1ae6"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
       "title": "Vibes are winning, whether you like it or not",
       "url": "https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
@@ -290,17 +411,6 @@
       "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
       "publishedAt": "2026-07-17T18:24:28.000Z",
       "articleId": "8fad9dc8a4e4347a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-581",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-581.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. David Wallace-Wells on the status of reading (NYT). 2. Very good, very positive Kimi ad. 3. Balaji update. 4. An eighth-century Mayan mathematician. 5. Yet another balloon. 6. Nearby planet with helium-rich atmosphere (NYT). 7. Henry Oliver did not like The Movie. The post Friday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-17T17:12:39.000Z",
-      "articleId": "6623f779aec33172"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/mainframes-and-main-characters/",
@@ -334,17 +444,6 @@
       "summary": "Plus the perils of energy fandom and some hot takes on Jaylen Brown",
       "publishedAt": "2026-07-17T10:00:37.000Z",
       "articleId": "7ea1b63d1799d622"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
-      "title": "Spain Won't Fall Behind. Argentina Can't Be Put Away. Something Has to Give.",
-      "url": "https://neilpaine.substack.com/p/spain-vs-argentina-is-the-front-runners",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Spain has not trailed for a single minute of the knockout stage; Argentina has trailed more than any Finalist since 1966, only to keep escaping late.",
-      "publishedAt": "2026-07-17T09:01:37.000Z",
-      "articleId": "3e972c4374088270"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
@@ -397,7 +496,7 @@
       "source": "Can't Get Much Higher",
       "sourceUrl": "https://www.cantgetmuchhigher.com/",
       "access": "open",
-      "summary": "Gen Z &#129309; Baby Boomers",
+      "summary": "Gen Z 🤝 Baby Boomers",
       "publishedAt": "2026-07-16T17:31:20.000Z",
       "articleId": "294f77d6f1e17f5b"
     },
@@ -430,7 +529,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "The Supreme Court isn&#8217;t on your side.",
+      "summary": "The Supreme Court isn’t on your side.",
       "publishedAt": "2026-07-16T10:02:10.000Z",
       "articleId": "9a74326041fc6222"
     },
@@ -441,7 +540,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "I don&#8217;t think a small cabal of right-wing rich people controls American politics.",
+      "summary": "I don’t think a small cabal of right-wing rich people controls American politics.",
       "publishedAt": "2026-07-16T09:02:12.000Z",
       "articleId": "7e41184e0d01eae0"
     },
@@ -584,7 +683,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "You can&#8217;t change the Constitution with executive orders, but Trump might be able to destroy it.",
+      "summary": "You can’t change the Constitution with executive orders, but Trump might be able to destroy it.",
       "publishedAt": "2026-07-14T10:02:30.000Z",
       "articleId": "d50731bfd52b7e94"
     },
@@ -617,7 +716,7 @@
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "open",
-      "summary": "Graham&#8217;s death, Platner&#8217;s withdrawal, and record-breaking fundraising in Texas and Alaska have scrambled the midterm map in just seven days.",
+      "summary": "Graham’s death, Platner’s withdrawal, and record-breaking fundraising in Texas and Alaska have scrambled the midterm map in just seven days.",
       "publishedAt": "2026-07-13T22:00:44.000Z",
       "articleId": "2f3b25cdd33e8718"
     },
@@ -705,7 +804,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Adults living with their parents, Samsung&#8217;s profits, Native American data centers, Puerto Rico&#8217;s electricity grid, and more.",
+      "summary": "Adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more.",
       "publishedAt": "2026-07-11T12:01:33.000Z",
       "articleId": "04300a3fd17ecb54"
     },
@@ -727,7 +826,7 @@
       "source": "Understanding AI",
       "sourceUrl": "https://www.understandingai.org/",
       "access": "open",
-      "summary": "But human programmers aren&#8217;t obsolete &#8212; at least not yet.",
+      "summary": "But human programmers aren’t obsolete — at least not yet.",
       "publishedAt": "2026-07-10T18:16:14.000Z",
       "articleId": "5d07ea3f5f5d25bb"
     },
@@ -749,20 +848,9 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "Large swaths of America&#8217;s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.",
+      "summary": "Large swaths of America’s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.",
       "publishedAt": "2026-07-10T16:08:48.000Z",
       "articleId": "bf0fd8488ce89a97"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ig2zbqvpyayi5o9ac7ny.html",
-      "title": "Money Stuff: Sports Gambling ETF",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ig2zbqvpyayi5o9ac7ny.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Sports gambling ETF, Edgar, AI pivot. View in browser Programming note: This is a somewhat special edition of Money Stuff, because sports gambling ETF. Also this week’s episode of the Money Stuff podcast is out now, in which Katie and I discuss no-Elon ETFs, index rebalancing and egg Libor. You can listen to it here . Sports gambling ETF Sports gambling ETF : The Subversive All Season Sports ETF … is an actively managed exchange-traded fund (“ETF”) that seeks to provide capital appreciation through exposure to a portfolio of derivative instruments known as “event contracts” across a variety of sporting events. … The Fund seeks to mitigate the risk of loss on exposure to any individual event contract by holding a portfolio with exposure to approximately 40 to 80 different event contracts across the sports events noted above. The Fund will hold exposure to event contracts that are based on the aggregate outcomes of the sporting events only (i.e., final scores of games, point differentials, win-loss records, tournament advancement and team or individual statistical performance compiled over an entire game or season). Such event contracts will settle based on objective and verifiable settlement criteria and will be based on events that are coordinated by relevant sports governing bodies. The Adviser will allocate exposure based on its assessment of relative value and market-implied probabilities of certain outcomes and actively manages position sizing and allocation among the categories of event contracts noted above. That is a filing from Tidal Investments LLC and Subversive Capital, who are also responsible for the no-Elon-Musk index ETFs that we discussed yesterday . You give the sports ETF your money, and the ETF uses your money to make 40 to 80 sports bets. (The bets will be on “North American professional sports leagues,” “National Collegiate Athletic Association championships,” “international sporting events such as the World Cup or English Premier League,” and “other sporting events, such as individual golf or tennis championships, mixed martial arts fights or boxing matches.”) If it wins those bets, it uses the winnings to make more bets and you make money. If it loses the bets, you lose money. It is an ETF for making sports bets. [1] It will trade on the stock exchange, you can buy it from your stockbroker, and it will make sports bets. We have talked any number of times about my prediction that there would be a sports gambling ETF by March 2027, and here we are. The filing is not effective yet, and, as we have discussed , the SEC is still considering whether and how to allow sports gambling ETFs. This might never actually launch. But we remain ahead of schedule. When we discussed sports gambling structured notes a while back, I...",
-      "publishedAt": "2026-07-10T15:59:44.288Z",
-      "articleId": "dcd7915b523dfb41"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
@@ -787,17 +875,6 @@
       "articleId": "e338add828fbf789"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-promise-and-peril-of-an-abundance",
-      "title": "The promise and peril of an abundance faction",
-      "url": "https://www.slowboring.com/p/the-promise-and-peril-of-an-abundance",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus Platner, the Costco economy, and some inexplicable internet beefs",
-      "publishedAt": "2026-07-10T10:04:13.000Z",
-      "articleId": "b1dda09c6713b45b"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
       "title": "MAGA’s Birthright Meltdown Is in Full Effect",
       "url": "https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
@@ -807,17 +884,6 @@
       "summary": "Is the right giving up on America?",
       "publishedAt": "2026-07-09T19:24:57.000Z",
       "articleId": "30f004cd1dd1c596"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xn7rpd6f4fzyko503ikt.html",
-      "title": "Money Stuff: Leave the Oil in the Pipes",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xn7rpd6f4fzyko503ikt.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff No Elon, egg Libor, coverage, agents. View in browser Oil tokens Here are two problems. One is that it is not very pleasant to store crude oil. Oil is voluminous and oozy and poisonous and flammable and smelly. This makes it a somewhat difficult thing to invest in. If you think that the price of SpaceX stock will go up, you buy some SpaceX stock, which is an entry in a computer database and easy to store. If you think that the price of oil will go up, you won’t buy a few barrels of oil; where would you put them? You could buy shares of an oil exchange-traded fund, but the oil ETF doesn’t want to own barrels of oil either; where would it put them? Instead, you (or the ETF) will probably buy oil futures, which are contracts for the delivery of oil at some specific future date. And then before that delivery date, you sell the futures you own (because you don’t actually want to get delivery of oil) and buy some new futures for some later delivery date. You keep doing that, “rolling” the futures to keep exposure to oil prices while never actually having to store any oil. This strikes me as fine, a reasonable way to reconcile (1) people’s desire to invest in oil with (2) their lack of desire to store oil. This is a good system. But other people find it upsetting. This is not how other things work. If you want to invest in gold, you can buy gold bars and keep them in a closet; they’re pretty small. Or you can invest in a physical gold ETF that buys gold bars and keeps them in a closet. For some dense valuable imperishable commodities, that’s fine. For other commodities it is obviously not. You would not keep pork bellies in a closet indefinitely. Oil is like pork bellies but more macroeconomically important: Lots of people want to own it, and they tend not to think about the problems of its ooziness. Therefore, a product that is like “you own one barrel of oil for as long as you like, with no rolling of contracts and no uncertainty of future delivery, just a barrel of oil in a warehouse with your name on it” has an intuitive appeal to buyers, but no one wants to actually run that warehouse. [1] The second problem is that oil companies own some oil that they can’t sell. Some of this is, you know, deep under the ocean: An oil company has a claim to some oil field, its geologists are pretty sure that there are millions of barrels of oil down there, but it has to expensively drill it up before it can sell it. But some of it is just that there are physical frictions in moving oil around. There is line fill: You can’t sell all of the oil in your pipelines, because you need some oil in the pipe to push the other oil out. [2] There are tank bottoms: You can’t sell all of the oil in your tanks, because you need some oil in the tanks to provide pressure...",
-      "publishedAt": "2026-07-09T17:42:15.404Z",
-      "articleId": "28fb2de4d296d287"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/pop-stars-are-disappearing",
@@ -853,17 +919,6 @@
       "articleId": "0b2da671b23e59d4"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/mark-carneys-national-liberalism",
-      "title": "Mark Carney’s national liberalism",
-      "url": "https://www.slowboring.com/p/mark-carneys-national-liberalism",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The center-left exception to the rule",
-      "publishedAt": "2026-07-09T10:01:46.000Z",
-      "articleId": "22d0d3d22e258755"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7419388/2026/07/09/new-york-giants-training-camp-roster-arvell-reese-dj-reader/",
       "title": "Giants training camp preview: One thought on Reese, Reader and every player on defense",
       "url": "https://www.nytimes.com/athletic/7419388/2026/07/09/new-york-giants-training-camp-roster-arvell-reese-dj-reader/",
@@ -895,17 +950,6 @@
       "summary": "A synthetic cell made via chemistry, laser phase plate electron microscopy, the first base-edited human embryo, lab-grown eggs and sperm, and more.",
       "publishedAt": "2026-07-09T08:30:57.000Z",
       "articleId": "3fa52df2c948231d"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/d496t9zxm5tksnkc373n.html",
-      "title": "Money Stuff: GameStop Has Enough Stock Now",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/d496t9zxm5tksnkc373n.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff Mergers, SRTs, sports, TOS, index. View in browser GameStop has more stock GameStop Corp. is sort of trying to buy eBay Inc. Not really. We have discussed the proposal a few times, and my basic point is that this is less “GameStop wants to buy eBay” and more “GameStop’s chief executive officer, Ryan Cohen, wants to be CEO of eBay.” EBay is a much bigger company than GameStop, and GameStop does not have enough money to buy it. Instead, GameStop has proposed a merger in which it will give eBay shareholders some cash, but also they will roll their stock into a combined company in which they will own most of the stock. The point of the transaction, from the perspective of eBay shareholders, is not that their company would be acquired by another company: They’d still own most of the stock, and the stock would mostly represent the same business. Rather, the point of the transaction is that their company would be run by Ryan Cohen . He thinks that’s attractive. EBay’s board does not . It’s not clear to me, yet, what eBay’s shareholders think. If you think of the transaction that way, it’s a little silly to say things like “eBay has $50 billion of stock, and GameStop has only $10 billion of stock, so GameStop doesn’t have enough stock to buy eBay.” That’s not how this works: GameStop would be buying eBay with, economically, eBay stock. I once wrote that “eBay is financeable — people own its debt and equity now! — so Ryan Cohen should be able to finance it.” Still, GameStop would technically be buying eBay with its own stock, and, in fact, GameStop didn’t have enough stock : Its corporate charter didn’t authorize nearly enough shares to do the eBay transaction. Oops! Yesterday GameStop fixed that : GameStop Corp. … announced that its stockholders approved all proposals presented at the Company's 2026 Annual Meeting of Stockholders, including an amendment to the Company's certificate of incorporation increasing the number of authorized shares of Class A common stock. The amendment received the affirmative vote of 68.7% of votes cast, and provides the Company with the capacity to issue common stock in connection with strategic transactions, including its proposed acquisition of eBay, Inc. Terrific. It is unclear to me whether eBay’s shareholders want Cohen to run eBay, but clearly GameStop’s shareholders want that. For one thing, they like Cohen, who has done a good job turning around GameStop. For another thing, you know, they like a good time, and Cohen seems to be having fun . I’m not sure that’s what eBay’s shareholders want, but it’s gotten him the stock he needs anyway. Merger arb dispersion Arguably what you want, as a merger arbitrage trader, is dispersion in merger outcomes. Your job is to bet on which mergers will close. If the answer is...",
-      "publishedAt": "2026-07-08T17:23:25.274Z",
-      "articleId": "22dc48ebd059c423"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham",
@@ -1013,7 +1057,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "Households without homeowners insurance, crackdowns on AI chip smuggling, Japan&#8217;s two electrical frequencies, Meta&#8217;s AI compute business, and more.",
+      "summary": "Households without homeowners insurance, crackdowns on AI chip smuggling, Japan’s two electrical frequencies, Meta’s AI compute business, and more.",
       "publishedAt": "2026-07-04T12:03:22.000Z",
       "articleId": "e166d0ca82728bd9"
     },
@@ -1167,7 +1211,7 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "People are terrified that small doses of radiation will give them cancer, but they probably don&#8217;t need to be.",
+      "summary": "People are terrified that small doses of radiation will give them cancer, but they probably don’t need to be.",
       "publishedAt": "2026-06-30T14:36:40.000Z",
       "articleId": "7515bb0d58af47be"
     },
@@ -1211,7 +1255,7 @@
       "source": "Understanding AI",
       "sourceUrl": "https://www.understandingai.org/",
       "access": "open",
-      "summary": "OpenAI&#8217;s latest model, GPT-5.6, is waiting for government approval.",
+      "summary": "OpenAI’s latest model, GPT-5.6, is waiting for government approval.",
       "publishedAt": "2026-06-29T14:03:17.000Z",
       "articleId": "5aea296517fd1a39"
     },
@@ -1282,17 +1326,6 @@
       "articleId": "f324a280a9a88011"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/summer-vibes/",
-      "title": "2026.26: Summer Vibes",
-      "url": "https://stratechery.com/2026/summer-vibes/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of June 22, 2026, including a vibe coding adventure, Apple in Europe, and a midsummer mailbag.",
-      "publishedAt": "2026-06-26T17:00:00.000Z",
-      "articleId": "510e62ae79f0dc8b"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
       "title": "The Democrats have their own MAGA now",
       "url": "https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
@@ -1354,7 +1387,7 @@
       "source": "Construction Physics",
       "sourceUrl": "https://www.construction-physics.com/",
       "access": "open",
-      "summary": "I wrote the following piece for IFP&#8217;s Transit Abundance Playbook, a collection of 15 ideas to improve transit delivery in the US.",
+      "summary": "I wrote the following piece for IFP’s Transit Abundance Playbook, a collection of 15 ideas to improve transit delivery in the US.",
       "publishedAt": "2026-06-25T13:55:49.000Z",
       "articleId": "ba5668b78ec9496e"
     },
@@ -1434,30 +1467,25 @@
       "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
       "publishedAt": "2026-06-22T22:22:40.000Z",
       "articleId": "06e0059d273d84ed"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
-      "title": "Pizza wheels are bad, Japanese toilets are great",
-      "url": "https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "So why do Americans use the former and not the latter?",
-      "publishedAt": "2026-06-21T23:33:20.000Z",
-      "articleId": "49214c73a3eb6937"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-behind-the-declining-chart",
-      "title": "What's Behind the Declining Chart Performance of British Music in America?",
-      "url": "https://www.cantgetmuchhigher.com/p/whats-behind-the-declining-chart",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, why there was never a third British Invasion",
-      "publishedAt": "2026-06-21T13:31:19.000Z",
-      "articleId": "874f5003729e495b"
     }
   ],
+  "weather": {
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
+    "title": "DC-area forecast: A threat of severe storms this evening and muggy tonight",
+    "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
+    "source": "Capital Weather",
+    "sourceUrl": "https://www.capitalweather.com/",
+    "access": "open",
+    "summary": "HAPPENING NOW: After highs in the upper 80s to near 90, showers and storms are likely this evening and some could be severe. A severe thunderstorm watch is in effect until 10 p.m.",
+    "publishedAt": "2026-07-21T09:00:01.000Z",
+    "dailyDigit": 3,
+    "dailyDigitLabel": "3/10",
+    "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
+    "articleId": "105509822dbbd8e5",
+    "stale": true
+  },
+  "weatherGeneratedAt": "2026-07-22T00:02:38.764Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1598,18 +1626,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
-      "itemCount": 7,
+      "mode": "rss",
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
@@ -1627,21 +1655,5 @@
       "feedUrl": "https://www.joshbarro.com/feed",
       "error": null
     }
-  ],
-  "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
-    "title": "DC-area forecast: Nice today but threat of severe storms Tuesday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-but-threat-of-severe-storms-tuesday/",
-    "source": "Capital Weather",
-    "sourceUrl": "https://www.capitalweather.com/",
-    "access": "open",
-    "summary": "HAPPENING NOW: Great-looking weather today with sunshine, manageable humidity, and afternoon highs in the 80s.",
-    "publishedAt": "2026-07-20T09:00:10.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Worry-free weather today, a welcome change after days of smoke, heat and storms.",
-    "articleId": "21c48eefa4bdf39d"
-  },
-  "weatherGeneratedAt": "2026-07-20T20:23:55.444Z",
-  "weatherError": null
+  ]
 }
