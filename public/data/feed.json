@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-22T09:35:28.517Z",
-  "fetchedAt": "2026-07-22T09:35:28.514Z",
+  "generatedAt": "2026-07-22T12:01:23.862Z",
+  "fetchedAt": "2026-07-22T12:01:23.858Z",
   "sourceCount": 22,
   "itemCount": 148,
-  "totalItemCount": 780,
+  "totalItemCount": 776,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html?utm_source=rss&utm_medium=rss&utm_campaign=an-openai-model-escaped-its-sandbox-and-hacked-hugging-face",
+      "title": "An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "AI has just had what I considered to be the first truly concerning security breach. The facts, as we know them so far, are wild. On July 16, Hugging Face, a vast repository housing over a million open-source AI models and data, announced in a blog post: Earlier this week, we detected and responded to […] The post An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-22T11:14:54.000Z",
+      "articleId": "9a2e5048dd655dd2"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-lost-joy-of-monoculture",
+      "title": "The lost joy of monoculture",
+      "url": "https://www.slowboring.com/p/the-lost-joy-of-monoculture",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Part of the fun of the World Cup is it felt like everyone was watching.",
+      "publishedAt": "2026-07-22T10:02:22.000Z",
+      "articleId": "a4cbde009d317479"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+      "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
+      "publishedAt": "2026-07-22T10:00:00.000Z",
+      "articleId": "0066ab9912f89216"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
       "title": "Who was the worst monster of the 20th century?",
@@ -372,17 +405,6 @@
       "summary": "Tej Parikh writing in the FT: …high-end developments unlock long housing chains. As higher-income households move into newly built units, they free up older properties, raising supply and slashing prices for middle- and lower-end housing through a process known as filtering. Numerous international studies underscore this positive ripple effect. One published last year tracked households […] The post Building luxury homes is good for the poor appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-19T11:23:40.000Z",
       "articleId": "ae212443bc5d80e7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html?utm_source=rss&utm_medium=rss&utm_campaign=cross-ethnic-casting",
-      "title": "Cross-ethnic casting",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cross-ethnic-casting.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I complained about the casting of The Odyssey per se (the blind beggar was best), but in general I do not mind cross-ethnic casting. I am glad Elizabeth Taylor played Cleopatra, Dev Patel played David Copperfield, Denzel Washington played Macbeth, black and Latino actors play white parts in Hamilton, and that Morgan Freeman can play […] The post Cross-ethnic casting appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-19T06:29:05.000Z",
-      "articleId": "b864592aed7de6a8"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
@@ -882,18 +904,6 @@
       "articleId": "04300a3fd17ecb54"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-party-cant-fire-you",
-      "title": "The party can’t fire you",
-      "url": "https://www.slowboring.com/p/the-party-cant-fire-you",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Considering controversy and the consequences of stubbornness in Senate races",
-      "publishedAt": "2026-07-10T22:00:33.000Z",
-      "articleId": "341182e9295c7d38"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-crushed-top-human",
       "title": "An OpenAI model crushed top human programmers at a world coding competition",
       "url": "https://www.understandingai.org/p/an-openai-model-crushed-top-human",
@@ -1095,17 +1105,6 @@
       "summary": "Featuring Audioslave, Traveling Wilburys, boygenius, and others",
       "publishedAt": "2026-07-07T13:31:46.000Z",
       "articleId": "ac9ff45371a64632"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
-      "title": "A Script for Mark Zuckerberg",
-      "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
-      "publishedAt": "2026-07-07T10:00:00.000Z",
-      "articleId": "87056ab842dd6289"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/dont-invest-your-political-capital",
@@ -1681,7 +1680,7 @@
     "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
     "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-22T09:35:28.517Z",
+  "weatherGeneratedAt": "2026-07-22T12:01:23.862Z",
   "weatherError": null,
   "sources": [
     {
@@ -1735,10 +1734,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 6,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -1759,10 +1758,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
@@ -1839,10 +1838,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
