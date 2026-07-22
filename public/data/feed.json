@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T02:50:30.871Z",
-  "fetchedAt": "2026-07-22T02:50:30.869Z",
+  "generatedAt": "2026-07-22T03:39:14.780Z",
+  "fetchedAt": "2026-07-22T03:39:14.775Z",
   "sourceCount": 21,
   "itemCount": 138,
   "totalItemCount": 791,
@@ -1556,19 +1556,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
-    "title": "DC-area forecast: Heavy rain this evening and muggy tonight",
+    "title": "DC-area forecast: Muggy overnight with a spotty shower possible",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-fuel-the-threat-of-severe-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and storms with heavy rain are likely this evening, tapering off by around midnight.",
+    "summary": "HAPPENING NOW: Showers and storms with heavy rain have exited the area with just a spotty shower or two possible overnight.",
     "publishedAt": "2026-07-21T09:00:01.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Unsatisfactory all around: Warm and humid conditions fuel potential for strong to severe storms.",
     "articleId": "105509822dbbd8e5"
   },
-  "weatherGeneratedAt": "2026-07-22T02:50:30.871Z",
+  "weatherGeneratedAt": "2026-07-22T03:39:14.780Z",
   "weatherError": null,
   "sources": [
     {
