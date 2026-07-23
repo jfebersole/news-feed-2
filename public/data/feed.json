@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-23T12:46:38.351Z",
-  "fetchedAt": "2026-07-23T12:46:38.347Z",
+  "generatedAt": "2026-07-23T15:21:46.832Z",
+  "fetchedAt": "2026-07-23T15:21:46.826Z",
   "sourceCount": 23,
-  "itemCount": 151,
+  "itemCount": 150,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
+      "title": "How Trump and His Allies Can Corrupt the Midterms",
+      "url": "https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Stop the steal before it starts.",
+      "publishedAt": "2026-07-23T14:51:04.000Z",
+      "articleId": "3e6cc887b82140bb"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/did-medieval-people-love-their-children",
+      "title": "The myth of medieval childhood",
+      "url": "https://www.worksinprogress.news/p/did-medieval-people-love-their-children",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Is it really plausible that children survived the hardship of medieval life without devoted parents?",
+      "publishedAt": "2026-07-23T14:07:16.000Z",
+      "articleId": "722a1b8379239db3"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/can-we-lower-construction-costs-with",
+      "title": "Can We Lower Construction Costs with Cheaper Labor or Materials?",
+      "url": "https://www.construction-physics.com/p/can-we-lower-construction-costs-with",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "Last time in our series on the nature of the construction productivity problem, we looked at economies of scale, finding that capturing economies of scale in homebuilding is difficult.",
+      "publishedAt": "2026-07-23T13:05:38.000Z",
+      "articleId": "c7043a72101e993f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/alex-tabarrok-on-the-economic-analysis-of-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-tabarrok-on-the-economic-analysis-of-crime",
       "title": "Alex Tabarrok on the Economic Analysis of Crime",
@@ -38,17 +71,6 @@
       "summary": "The Giants didn't hire John Harbaugh to oversee a rebuild, but did they do enough to help the coach turn them into NFC contenders?",
       "publishedAt": "2026-07-23T10:00:42.000Z",
       "articleId": "0a991c8850166bb9"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
-      "title": "How Trump and His Allies Can Corrupt the Midterms",
-      "url": "https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Stop the steal before it starts.",
-      "publishedAt": "2026-07-23T09:05:42.000Z",
-      "articleId": "3e6cc887b82140bb"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/will-ai-take-your-job-mine-everyones",
@@ -1667,40 +1689,6 @@
       "summary": "Only 7 teams have clinched advancement --- and almost everyone has a lot to play for in their final match.",
       "publishedAt": "2026-06-24T05:58:05.000Z",
       "articleId": "c32d48417a06d47e"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/estonian-day-dreams",
-      "title": "Estonian Day Dreams",
-      "url": "https://walkingtheworld.substack.com/p/estonian-day-dreams",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "My brief love affair with an unique country",
-      "publishedAt": "2026-06-23T14:03:40.000Z",
-      "articleId": "c1425bf3953bfe78"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/short-and-sweet-an-album-a-day",
-      "title": "Short and Sweet: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/short-and-sweet-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Dolly Parton, Earl Sweatshirt, Marvin Gaye, and others",
-      "publishedAt": "2026-06-23T13:31:15.000Z",
-      "articleId": "c227e4126127e3d0"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-gavin-newsom-doing",
-      "title": "What is Gavin Newsom doing?",
-      "url": "https://www.natesilver.net/p/what-is-gavin-newsom-doing",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Losing support in polls, the governor is leaning into his role as the avatar of an unpopular Democratic establishment.",
-      "publishedAt": "2026-06-23T13:01:19.000Z",
-      "articleId": "4b006928ed45d6f9"
     }
   ],
   "weather": {
@@ -1717,7 +1705,7 @@
     "dailyDigitSummary": "Cough, cough. May need the day off.",
     "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-23T12:46:38.351Z",
+  "weatherGeneratedAt": "2026-07-23T15:21:46.832Z",
   "weatherError": null,
   "sources": [
     {
@@ -1867,18 +1855,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
