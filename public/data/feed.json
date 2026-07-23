@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-23T10:33:32.691Z",
-  "fetchedAt": "2026-07-23T10:33:32.688Z",
+  "generatedAt": "2026-07-23T12:46:38.351Z",
+  "fetchedAt": "2026-07-23T12:46:38.347Z",
   "sourceCount": 23,
   "itemCount": 151,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/alex-tabarrok-on-the-economic-analysis-of-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-tabarrok-on-the-economic-analysis-of-crime",
+      "title": "Alex Tabarrok on the Economic Analysis of Crime",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/alex-tabarrok-on-the-economic-analysis-of-crime.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I tell my Gary Becker story, why I like police more than prisons, how criminals are like children and more. The post Alex Tabarrok on the Economic Analysis of Crime appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-23T11:20:42.000Z",
+      "articleId": "910277f98716d609"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/landlords-are-inevitable",
       "title": "Landlords are inevitable",
@@ -452,17 +463,6 @@
       "summary": "Life has been, and always will be, hard, but it is still meaningful, and beautiful",
       "publishedAt": "2026-07-20T15:27:34.000Z",
       "articleId": "1a004acb9112bd6e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html?utm_source=rss&utm_medium=rss&utm_campaign=whit-stillmans-metropolitan-that-was-then-this-is-now",
-      "title": "Whit Stillman’s *Metropolitan* (that was then, this is now)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/whit-stillmans-metropolitan-that-was-then-this-is-now.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "It is fun to watch/rewatch this 1990 movie circa 2026. It is about New York City debutantes (CT and the Hamptons too), and how they interact with each other. The movie is set a bit earlier in time, perhaps in the mid-1980s, though some scenes hearken back to the 1970s. Of course there is no […] The post Whit Stillman’s *Metropolitan* (that was then, this is now) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-20T11:25:12.000Z",
-      "articleId": "d8e3e1fbdc6be680"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/whos-afraid-of-chinese-models/",
@@ -1717,7 +1717,7 @@
     "dailyDigitSummary": "Cough, cough. May need the day off.",
     "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-23T10:33:32.691Z",
+  "weatherGeneratedAt": "2026-07-23T12:46:38.351Z",
   "weatherError": null,
   "sources": [
     {
@@ -1867,10 +1867,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
