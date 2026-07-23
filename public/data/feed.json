@@ -1,10 +1,67 @@
 {
-  "generatedAt": "2026-07-23T07:43:22.776Z",
-  "fetchedAt": "2026-07-23T07:43:22.773Z",
+  "generatedAt": "2026-07-23T10:33:32.691Z",
+  "fetchedAt": "2026-07-23T10:33:32.688Z",
   "sourceCount": 23,
-  "itemCount": 149,
-  "totalItemCount": 780,
+  "itemCount": 151,
+  "totalItemCount": 781,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/landlords-are-inevitable",
+      "title": "Landlords are inevitable",
+      "url": "https://www.slowboring.com/p/landlords-are-inevitable",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "State control doesn’t make tradeoffs go away.",
+      "publishedAt": "2026-07-23T10:02:12.000Z",
+      "articleId": "9fe1678f561db6e7"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7462531/2026/07/23/ny-giants-training-camp-preview-john-harbaugh-dexter-lawrence/",
+      "title": "Giants’ 10-step plan revisited: Will New York regret lack of investment in trenches?",
+      "url": "https://www.nytimes.com/athletic/7462531/2026/07/23/ny-giants-training-camp-preview-john-harbaugh-dexter-lawrence/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants didn't hire John Harbaugh to oversee a rebuild, but did they do enough to help the coach turn them into NFC contenders?",
+      "publishedAt": "2026-07-23T10:00:42.000Z",
+      "articleId": "0a991c8850166bb9"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
+      "title": "How Trump and His Allies Can Corrupt the Midterms",
+      "url": "https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Stop the steal before it starts.",
+      "publishedAt": "2026-07-23T09:05:42.000Z",
+      "articleId": "3e6cc887b82140bb"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/will-ai-take-your-job-mine-everyones",
+      "title": "Will A.I. take your job? Mine? Everyone’s?",
+      "url": "https://www.slowboring.com/p/will-ai-take-your-job-mine-everyones",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Timothy Lee from Understanding AI tells me I’m wrong about this.",
+      "publishedAt": "2026-07-23T09:00:49.000Z",
+      "articleId": "c9593405c69a86fc"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/pete-crow-armstrong-is-the-key-to",
+      "title": "Pete Crow-Armstrong Is the Key to All of This",
+      "url": "https://neilpaine.substack.com/p/pete-crow-armstrong-is-the-key-to",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Why the fate of the Chicago Cubs — and maybe the whole MLB season — rests on the game's most mercurial superstar.",
+      "publishedAt": "2026-07-23T09:00:35.000Z",
+      "articleId": "8f41d08b83a42aaa"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-gita-gopinath",
       "title": "What should I ask Gita Gopinath?",
@@ -871,17 +928,6 @@
       "articleId": "33f5dad377a3d58a"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-midterm-candidates-who-deserve",
-      "title": "The midterm candidates who deserve your money",
-      "url": "https://www.slowboring.com/p/the-midterm-candidates-who-deserve",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Our updated recommendations for political giving",
-      "publishedAt": "2026-07-13T10:04:02.000Z",
-      "articleId": "af0c6682b990f6a5"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
       "title": "Apple Sues OpenAI, Apple’s Real Problem",
       "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
@@ -891,18 +937,6 @@
       "summary": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
       "publishedAt": "2026-07-13T10:00:00.000Z",
       "articleId": "a151d0da252bb375"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-051",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-051",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-07-12T17:02:19.000Z",
-      "articleId": "0c22462739478f39"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
@@ -1667,34 +1701,23 @@
       "summary": "Losing support in polls, the governor is leaning into his role as the avatar of an unpopular Democratic establishment.",
       "publishedAt": "2026-06-23T13:01:19.000Z",
       "articleId": "4b006928ed45d6f9"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/epidurals-are-miraculous",
-      "title": "Epidurals are miraculous",
-      "url": "https://www.worksinprogress.news/p/epidurals-are-miraculous",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Childbirth may be the most painful thing a person can experience, but we have the technology to numb the pain.",
-      "publishedAt": "2026-06-23T08:29:58.000Z",
-      "articleId": "90ed3777c74b372d"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
-    "title": "DC-area forecast: Humidity drops off tonight. Nicer tomorrow into the weekend.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-top-notch-july-weather-today-and-nice-into-the-weekend/",
+    "title": "DC-area forecast: Top-notch July weather today, and nice into the weekend",
+    "url": "https://www.capitalweather.com/dc-area-forecast-top-notch-july-weather-today-and-nice-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A shower or storm possible, especially in Southern Maryland through evening. Partly cloudy elsewhere with temperatures slowly falling through the 80s most spots.",
-    "publishedAt": "2026-07-22T09:00:41.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
-    "articleId": "61f038246eeae3bc"
+    "summary": "HAPPENING NOW: Temperatures rise into the 70s by mid-morning, then perhaps staying there most of the day. Clouds are probably most numerous early before skies become mostly sunny.",
+    "publishedAt": "2026-07-23T09:00:29.000Z",
+    "dailyDigit": 10,
+    "dailyDigitLabel": "10/10",
+    "dailyDigitSummary": "Cough, cough. May need the day off.",
+    "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-23T07:43:22.776Z",
+  "weatherGeneratedAt": "2026-07-23T10:33:32.691Z",
   "weatherError": null,
   "sources": [
     {
@@ -1773,7 +1796,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1844,10 +1867,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
@@ -1860,10 +1883,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "failed",
+      "mode": "rss",
       "itemCount": 0,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502"
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
