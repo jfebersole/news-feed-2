@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T00:11:18.147Z",
-  "fetchedAt": "2026-07-23T00:11:18.144Z",
+  "generatedAt": "2026-07-23T04:28:33.950Z",
+  "fetchedAt": "2026-07-23T04:28:33.945Z",
   "sourceCount": 23,
-  "itemCount": 150,
+  "itemCount": 149,
   "totalItemCount": 780,
   "items": [
     {
@@ -1678,17 +1678,6 @@
       "summary": "Childbirth may be the most painful thing a person can experience, but we have the technology to numb the pain.",
       "publishedAt": "2026-06-23T08:29:58.000Z",
       "articleId": "90ed3777c74b372d"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
-      "title": "Should People Avoid Whole-Body Screening Info?",
-      "url": "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-23T00:41:37.000Z",
-      "articleId": "640c1cd88e1337d3"
     }
   ],
   "weather": {
@@ -1698,16 +1687,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A shower or storm possible, especially in southern Maryland through evening. Partly cloudy elsewhere with temperatures slowly falling through the 80s most spots.",
+    "summary": "HAPPENING NOW: A shower or storm possible, especially in Southern Maryland through evening. Partly cloudy elsewhere with temperatures slowly falling through the 80s most spots.",
     "publishedAt": "2026-07-22T09:00:41.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
-    "articleId": "61f038246eeae3bc",
-    "stale": true
+    "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-23T00:11:18.147Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-23T04:28:33.950Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
