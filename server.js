@@ -1365,10 +1365,12 @@ function cleanFeedSummary(value, source = null) {
     return "";
   }
 
-  const viewInBrowserMarker = "view in browser -->";
-  const viewInBrowserIndex = text.toLowerCase().indexOf(viewInBrowserMarker);
-  if (viewInBrowserIndex >= 0 && viewInBrowserIndex <= 2_400) {
-    text = text.slice(viewInBrowserIndex + viewInBrowserMarker.length);
+  const viewInBrowserMarker = sourceName.includes("money stuff")
+    ? /\bview in browser(?:\s*-->)?/i
+    : /\bview in browser\s*-->/i;
+  const viewInBrowserMatch = viewInBrowserMarker.exec(text);
+  if (viewInBrowserMatch?.index >= 0 && viewInBrowserMatch.index <= 2_400) {
+    text = text.slice(viewInBrowserMatch.index + viewInBrowserMatch[0].length);
   }
 
   text = stripCssNoise(text);
@@ -3250,6 +3252,7 @@ export {
   buildArticlePayload,
   canonicalizeUrl,
   classifyFeedItemAccess,
+  cleanFeedSummary,
   excludeFeedItemsByUrl,
   extractDailyDigit,
   extractArticleFromHtml,
