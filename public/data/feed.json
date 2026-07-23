@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T19:41:38.857Z",
-  "fetchedAt": "2026-07-23T19:41:38.853Z",
+  "generatedAt": "2026-07-23T21:18:42.771Z",
+  "fetchedAt": "2026-07-23T21:18:42.760Z",
   "sourceCount": 23,
   "itemCount": 152,
-  "totalItemCount": 771,
+  "totalItemCount": 781,
   "items": [
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
@@ -1715,19 +1715,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-top-notch-july-weather-today-and-nice-into-the-weekend/",
-    "title": "DC-area forecast: Top-notch July weather today, and nice into the weekend",
+    "title": "DC-area forecast: After a top-notch July day, staying nice into the weekend",
     "url": "https://www.capitalweather.com/dc-area-forecast-top-notch-july-weather-today-and-nice-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures rise to highs in the upper 70s to low 80s this afternoon, with mostly sunny skies and low humidity.",
+    "summary": "HAPPENING NOW: Mostly clear with blissful 70s this evening on the way to seasonably cool lows in the upper 50s to mid-60s.",
     "publishedAt": "2026-07-23T09:00:29.000Z",
     "dailyDigit": 10,
     "dailyDigitLabel": "10/10",
     "dailyDigitSummary": "Cough, cough. May need the day off.",
     "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-23T19:41:38.857Z",
+  "weatherGeneratedAt": "2026-07-23T21:18:42.771Z",
   "weatherError": null,
   "sources": [
     {
@@ -1741,10 +1741,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
