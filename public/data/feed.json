@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T22:14:19.935Z",
-  "fetchedAt": "2026-07-22T22:14:19.930Z",
+  "generatedAt": "2026-07-23T00:11:18.147Z",
+  "fetchedAt": "2026-07-23T00:11:18.144Z",
   "sourceCount": 23,
-  "itemCount": 151,
+  "itemCount": 150,
   "totalItemCount": 780,
   "items": [
     {
@@ -1689,17 +1689,6 @@
       "summary": "...",
       "publishedAt": "2026-06-23T00:41:37.000Z",
       "articleId": "640c1cd88e1337d3"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
-      "title": "A Malicious Chapter in the History of American Justice",
-      "url": "https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
-      "publishedAt": "2026-06-22T22:22:40.000Z",
-      "articleId": "06e0059d273d84ed"
     }
   ],
   "weather": {
@@ -1714,10 +1703,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
-    "articleId": "61f038246eeae3bc"
+    "articleId": "61f038246eeae3bc",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-22T22:14:19.935Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-23T00:11:18.147Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
