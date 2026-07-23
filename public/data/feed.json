@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-23T17:42:49.361Z",
-  "fetchedAt": "2026-07-23T17:42:49.358Z",
+  "generatedAt": "2026-07-23T19:41:38.857Z",
+  "fetchedAt": "2026-07-23T19:41:38.853Z",
   "sourceCount": 23,
-  "itemCount": 151,
-  "totalItemCount": 781,
+  "itemCount": 152,
+  "totalItemCount": 771,
   "items": [
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "The Summer 2026 Edition",
+      "publishedAt": "2026-07-23T18:05:24.000Z",
+      "articleId": "3a1d098fa3da2b45"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/when-radio-died",
       "title": "When Radio Died",
@@ -1716,7 +1727,7 @@
     "dailyDigitSummary": "Cough, cough. May need the day off.",
     "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-23T17:42:49.361Z",
+  "weatherGeneratedAt": "2026-07-23T19:41:38.857Z",
   "weatherError": null,
   "sources": [
     {
@@ -1730,10 +1741,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
