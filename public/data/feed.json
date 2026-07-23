@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-07-22T16:40:51.025Z",
-  "fetchedAt": "2026-07-22T16:40:51.020Z",
-  "sourceCount": 22,
-  "itemCount": 151,
+  "generatedAt": "2026-07-23T04:28:33.950Z",
+  "fetchedAt": "2026-07-23T04:28:33.945Z",
+  "sourceCount": 23,
+  "itemCount": 149,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
+      "title": "Housing is at the top of everyone’s agenda",
+      "url": "https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "New polling, research, investment, and shifting investor behavior all point to housing’s growing influence on voters, markets, states, and lawmakers.",
+      "publishedAt": "2026-07-22T22:01:12.000Z",
+      "articleId": "a0af5d8f4d84dde4"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-equilibrium-19",
+      "title": "Solve for the equilibrium",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Something that the Ukraine and Iran wars have taught me is that for a lot of countries, including very big countries, there are a small number of buildings and infrastructure components that are required for their economy to function. And in countries that aren’t protected by oceans, like the US, drones completely change everything. You […] The post Solve for the equilibrium appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-22T18:33:35.000Z",
+      "articleId": "e25b4d088fffbdc5"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mtdisau9kxnib9lc3bud.html",
+      "title": "Money Stuff: The SEC Pays a Texting Fine",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mtdisau9kxnib9lc3bud.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Phones, 351s, lockups, zombies. View in browser Personal phones It was illegal, from about 2021 through about 2025, for employees of financial firms to text or WhatsApp about work on their personal phones. The theory was that US securities regulations require firms to keep copies of “all communications sent” by their employees, “including inter-office memoranda and communications,” that are “related to [their] business as such.” So if a financial services employee sends an email to a client, or to a colleague, her firm needs to retain a copy of that email. And if she texts a client or colleague from her personal phone, then the firm won’t have a copy, which violates the law. This theory was essentially invented by Gary Gensler, who was the chair of the US Securities and Exchange Commission at the time, and I always thought it was a strange and aggressive interpretation of the rules. But you can understand why the SEC liked it: The SEC is in the business of detecting actual fraud , and if banks and brokers make sure that all of their communications are preserved in searchable electronic form for years, then it will be relatively easy for the SEC to detect fraud . Ask for a pile of messages every once in a while, run a search on them for terms like “fraud” or “ spoof ” or “ muppets ” or “ champagne ,” and see what comes up. The SEC is in the business of extracting fines , and it extracted billions of dollars of fines, with very little effort, by charging dozens of financial firms with texting on personal phones. Every time the SEC would announce a settlement, it would issue a press release in which Gensler would say stuff like “As technology changes, it’s even more important that registrants appropriately conduct their communications about business matters within only official channels,” even though that was obviously wrong. (As I once wrote : “Imagine if that was really the rule! You can’t have lunch with a client and talk about business, or have beers with your colleagues and gripe about work, because that does not create a searchable archive for the SEC to review.”) This was a good fine-extracting business for the SEC because it is human nature, apparently, to text about work on your personal phone, and there was nothing banks could do to stop their employees from doing it. The SEC once found that Qatalyst Partners LP, the investment banking boutique, “willfully violated” the recordkeeping rules, even though (1) it had policies against texting from personal phones, (2) it frequently trained its employees on those policies, (3) it provided them with compliant text-messaging devices and told them to use them exclusively, (4) it captured and archived Slack and LinkedIn messages, etc. Qatalyst did everything it could to stop its employees...",
+      "publishedAt": "2026-07-22T18:31:21.231Z",
+      "articleId": "0499528310316ac2"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-fact-of-the-day-12",
+      "title": "Brazil fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Last year, the US exported $171bn of agricultural goods according to the Department of Agriculture, just $2bn more than the export total claimed by Brazil, which many analysts say has benefited from trade disruption set in train by President Donald Trump’s tariffs. With US exports falling and Brazil’s rising — they increased 6 per cent […] The post Brazil fact of the day appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-22T18:04:03.000Z",
+      "articleId": "dac8da82ca7481df"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
+      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Even under populism, elite failure is still a problem.",
+      "publishedAt": "2026-07-22T16:51:44.000Z",
+      "articleId": "1ddedeee15548235"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-563",
       "title": "Wednesday assorted links",
@@ -40,24 +96,13 @@
       "articleId": "6f32120ad8cbd962"
     },
     {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
-      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Even under populism, elite failure is still a problem.",
-      "publishedAt": "2026-07-22T14:12:53.000Z",
-      "articleId": "1ddedeee15548235"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
       "title": "Lessons from a high-fertility subculture",
       "url": "https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "Modernity has meant fewer children in virtually every culture around the world. Holdouts like Orthodox Jews might have lessons for the rest of us.",
+      "summary": "Modernity has meant fewer children in virtually every culture around the world. Do holdouts like Orthodox Jews have lessons for the rest of us?",
       "publishedAt": "2026-07-22T13:26:59.000Z",
       "articleId": "259cd35d6b7b6938"
     },
@@ -397,17 +442,6 @@
       "articleId": "852ba0c2ad3c0976"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/spain-the-best-team-maybe-ever-won",
-      "title": "Spain, the Best Team (Maybe Ever?), Won One of the Best World Cups Ever... Eventually",
-      "url": "https://neilpaine.substack.com/p/spain-the-best-team-maybe-ever-won",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "La Roja dominated Argentina from start to finish, but needed extra time to complete a record-breaking championship run.",
-      "publishedAt": "2026-07-19T22:26:23.000Z",
-      "articleId": "9515f27d673229f3"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
       "title": "China’s A.I. Play Is Different From America’s",
       "url": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
@@ -417,17 +451,6 @@
       "summary": "When great powers disagree about the nature of A.I.",
       "publishedAt": "2026-07-19T19:35:46.000Z",
       "articleId": "e6e6f73e75250437"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-in-everything-78",
-      "title": "Markets in everything?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-in-everything-78.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Peter Brook‘s five-hour-plus film adaptation of “The Mahabharata” is set for a BFI Blu-ray release on Aug. 10, presented in high definition from a new 4K restoration of the 1989 production. The release centres on the triptych version of the film, running 332 minutes, which sits between Brook’s three-hour cinema cut and the six-hour television version he shot […] The post Markets in everything? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-19T19:10:49.000Z",
-      "articleId": "65fe5c83d07f742e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-4c8",
@@ -440,17 +463,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-07-19T17:00:24.000Z",
       "articleId": "ac54799bd7660d06"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-576",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-576.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Female promotions and the academic pipeline. 2. NEW MONKEYS. 3. Those new service sector jobs — “One nanny isn’t cutting it anymore. Some parents are spending upward of $250,000 on teams for their children. Luxury services offer potty-training, baby chefs and bike-riding lessons.” (WSJ). 4. There some English people with the name “Ralph” who […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-19T16:25:48.000Z",
-      "articleId": "5fb315e5740854ff"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
@@ -1677,45 +1689,23 @@
       "summary": "Childbirth may be the most painful thing a person can experience, but we have the technology to numb the pain.",
       "publishedAt": "2026-06-23T08:29:58.000Z",
       "articleId": "90ed3777c74b372d"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
-      "title": "Should People Avoid Whole-Body Screening Info?",
-      "url": "https://www.astralcodexten.com/p/should-people-avoid-whole-body-screening",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-23T00:41:37.000Z",
-      "articleId": "640c1cd88e1337d3"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
-      "title": "A Malicious Chapter in the History of American Justice",
-      "url": "https://www.nytimes.com/2026/06/21/opinion/chicago-broadwater-six-misconduct-minneapolis.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The Trump administration is the nation’s chief threat to the rule of law.",
-      "publishedAt": "2026-06-22T22:22:40.000Z",
-      "articleId": "06e0059d273d84ed"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
-    "title": "DC-area forecast: Humidity and a shower chance linger today. Nicer tomorrow into the weekend.",
+    "title": "DC-area forecast: Humidity drops off tonight. Nicer tomorrow into the weekend.",
     "url": "https://www.capitalweather.com/dc-area-forecast-humidity-and-a-shower-chance-linger-today-nicer-tomorrow-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny today with humidity slow to budge and highs in the mid- to upper 80s. A few showers or storms are possible this afternoon, especially from DC to the south and east.",
+    "summary": "HAPPENING NOW: A shower or storm possible, especially in Southern Maryland through evening. Partly cloudy elsewhere with temperatures slowly falling through the 80s most spots.",
     "publishedAt": "2026-07-22T09:00:41.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some periods of sun send the digit higher, even with stubborn humidity and a lingering shower chance.",
     "articleId": "61f038246eeae3bc"
   },
-  "weatherGeneratedAt": "2026-07-22T16:40:51.025Z",
+  "weatherGeneratedAt": "2026-07-23T04:28:33.950Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,7 +1784,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1818,7 +1808,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1876,6 +1866,14 @@
       "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
+      "error": null
+    },
+    {
+      "name": "J. Kenji López-Alt",
+      "url": "https://frienji.kenjilopezalt.com/",
+      "mode": "rss",
+      "itemCount": 0,
+      "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
     {
