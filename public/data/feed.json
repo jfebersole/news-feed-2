@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-24T19:43:21.315Z",
-  "fetchedAt": "2026-07-24T19:43:21.311Z",
+  "generatedAt": "2026-07-24T21:17:39.045Z",
+  "fetchedAt": "2026-07-24T21:17:39.039Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
+      "title": "The Decision, the sequel",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Imagine your career were coming to a close, how would you want it to end? By earning an especially large sum of money? Publishing a final wonderful paper? With an amazing act of mentorship? When it comes to Lebron, had he wanted to finish his career with the guys he enjoys playing with the most, […] The post The Decision, the sequel appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-24T19:34:26.000Z",
+      "articleId": "fb205833b72e9195"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-copium-wars/",
       "title": "2026.30: The Copium Wars",
@@ -486,17 +497,6 @@
       "summary": "Major new report from the White House Office of Science and Technology Policy. Five things in the report I really liked: 1. Proposes metascience units as a way to advance experimentation in science agencies. IFP recommended OSTP take this forward in our response to a 2025 RFI. 2. Advocates for a portfolio approach to federal […] The post Alec Stapp on the new Science report from Michael Kratsios appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-22T06:30:45.000Z",
       "articleId": "4da930c31fd9cf26"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/betting-markets-in-everything-5.html?utm_source=rss&utm_medium=rss&utm_campaign=betting-markets-in-everything-5",
-      "title": "Betting markets in everything",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/betting-markets-in-everything-5.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Alan and Karen Miller’s first dance was a win-or-lose moment for many of their wedding guests. As the couple glided across the floor during their reception in New Rochelle, N.Y., last year, attendees kept track of the chosen artist and the length of the dance. Earlier in the night, they had noted their guesses on […] The post Betting markets in everything appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-22T04:35:44.000Z",
-      "articleId": "bc61a0e5e857c908"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
@@ -1747,19 +1747,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
-    "title": "DC-area forecast: Comfortable today and Saturday. Summer oozes back next week.",
+    "title": "DC-area forecast: Comfortable through Saturday. Summer oozes back next week.",
     "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Like yesterday but not quite as sunny. Sunshine is filtered by high clouds and a little smoke, but air quality is good. Highs this afternoon head for near 80 to the mid-80s.",
+    "summary": "HAPPENING NOW: Clouds are with us into the evening and much of the night. There could be a passing shower late, especially south. Lows in the 60s.",
     "publishedAt": "2026-07-24T09:00:26.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T19:43:21.315Z",
+  "weatherGeneratedAt": "2026-07-24T21:17:39.045Z",
   "weatherError": null,
   "sources": [
     {
