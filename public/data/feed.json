@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-24T14:07:52.091Z",
-  "fetchedAt": "2026-07-24T14:07:52.085Z",
+  "generatedAt": "2026-07-24T15:44:44.055Z",
+  "fetchedAt": "2026-07-24T15:44:44.050Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 770,
+  "itemCount": 154,
+  "totalItemCount": 781,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/breakdown-in-pakistan",
+      "title": "Your Book Review: Breakdown In Pakistan",
+      "url": "https://www.astralcodexten.com/p/breakdown-in-pakistan",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #3 in the Book Review Contest",
+      "publishedAt": "2026-07-24T15:04:42.000Z",
+      "articleId": "94759845a55bffd5"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
       "title": "Are miracle drugs hiding in plain sight?",
@@ -1729,14 +1740,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Like yesterday but not quite as sunny. Morning 50s and 60s head to highs near 80 to the mid-80s. Sunshine is filtered by high clouds and a little smoke, but air quality is good.",
+    "summary": "HAPPENING NOW: Like yesterday but not quite as sunny. Sunshine is filtered by high clouds and a little smoke, but air quality is good. Highs this afternoon head for near 80 to the mid-80s.",
     "publishedAt": "2026-07-24T09:00:26.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T14:07:52.091Z",
+  "weatherGeneratedAt": "2026-07-24T15:44:44.055Z",
   "weatherError": null,
   "sources": [
     {
@@ -1750,16 +1761,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
