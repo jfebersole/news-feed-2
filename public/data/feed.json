@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-24T15:44:44.055Z",
-  "fetchedAt": "2026-07-24T15:44:44.050Z",
+  "generatedAt": "2026-07-24T17:47:23.509Z",
+  "fetchedAt": "2026-07-24T17:47:23.507Z",
   "sourceCount": 23,
   "itemCount": 154,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-copium-wars/",
+      "title": "2026.30: The Copium Wars",
+      "url": "https://stratechery.com/2026/the-copium-wars/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of July 20, 2026 including Chinese models and frontier futures, what happened to Hugging Face, and the NBA and its second apron bet.",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "articleId": "321c1884909f266e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. How global was “antiquity”? 2. Why the Clarity Act is mired in muck (NYT). 3. Jim Olds on the new science plan. 4. Cyber capabilities of Kimi 3? 5. “Following a standard workplace safety check, I have just received an email from a university administrator in which my custom of keeping books on the […] The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-24T16:37:53.000Z",
+      "articleId": "df3cbebeed7760da"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/breakdown-in-pakistan",
       "title": "Your Book Review: Breakdown In Pakistan",
@@ -485,17 +507,6 @@
       "summary": "My conversation with Fable (and hence the profession) continues",
       "publishedAt": "2026-07-21T17:05:35.000Z",
       "articleId": "e0e1a585b648586a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-578",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-578.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. White on Hutt’s macro. 2. Are LLMs obsessed with Japan? 3. Princeton University art museum gets landmark gift of Haitian paintings. 4. “Sight unseen” — the revenge of asymmetric information. But was it a good buy? 5. “Democratic types would give up about $210,000 and Republican types about $100,000 in annual partner income to […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-21T16:22:13.000Z",
-      "articleId": "0d5e210453d0b0c1"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-dsa-sweet-spot-highly-educated",
@@ -1243,17 +1254,6 @@
       "articleId": "de01cc96e42ca764"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
-      "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
-      "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
-      "publishedAt": "2026-07-08T10:00:00.000Z",
-      "articleId": "85065b16b660e395"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/jd-vances-crusade-against-gdp-is",
       "title": "JD Vance's crusade against GDP is wrong and bad",
       "url": "https://www.noahpinion.blog/p/jd-vances-crusade-against-gdp-is",
@@ -1747,7 +1747,7 @@
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T15:44:44.055Z",
+  "weatherGeneratedAt": "2026-07-24T17:47:23.509Z",
   "weatherError": null,
   "sources": [
     {
