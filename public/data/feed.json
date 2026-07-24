@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T17:47:23.509Z",
-  "fetchedAt": "2026-07-24T17:47:23.507Z",
+  "generatedAt": "2026-07-24T19:43:21.315Z",
+  "fetchedAt": "2026-07-24T19:43:21.311Z",
   "sourceCount": 23,
-  "itemCount": 154,
+  "itemCount": 155,
   "totalItemCount": 781,
   "items": [
     {
@@ -15,6 +15,18 @@
       "summary": "The best Stratechery content from the week of July 20, 2026 including Chinese models and frontier futures, what happened to Hugging Face, and the NBA and its second apron bet.",
       "publishedAt": "2026-07-24T17:00:00.000Z",
       "articleId": "321c1884909f266e"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/not-just-a-cheap-date",
+      "title": "Not just a cheap date",
+      "url": "https://scottsumner.substack.com/p/not-just-a-cheap-date",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Fable is more like a high end escort",
+      "publishedAt": "2026-07-24T16:58:12.000Z",
+      "articleId": "18eb033a21703999"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
@@ -1747,7 +1759,7 @@
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T17:47:23.509Z",
+  "weatherGeneratedAt": "2026-07-24T19:43:21.315Z",
   "weatherError": null,
   "sources": [
     {
@@ -1825,10 +1837,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
