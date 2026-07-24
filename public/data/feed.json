@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-24T11:54:04.125Z",
-  "fetchedAt": "2026-07-24T11:54:04.122Z",
+  "generatedAt": "2026-07-24T14:07:52.091Z",
+  "fetchedAt": "2026-07-24T14:07:52.085Z",
   "sourceCount": 23,
-  "itemCount": 152,
-  "totalItemCount": 780,
+  "itemCount": 153,
+  "totalItemCount": 770,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
+      "title": "Are miracle drugs hiding in plain sight?",
+      "url": "https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Watch now | GLP-1 drugs have transformed the treatment of obesity and diabetes, and also help with heart disease, kidney disease and sleep apnea. But they are far from the only medicine with more than one use.",
+      "publishedAt": "2026-07-24T12:52:48.000Z",
+      "articleId": "461e3a5c9e7aa798"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/talk-therapy-is-speech.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-therapy-is-speech",
       "title": "Talk Therapy is Speech",
@@ -1718,14 +1729,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Like yesterday but not quite as sunny. Morning 60s head to highs near 80 to the mid-80s. Sunshine is filtered by high clouds and a little smoke, but air quality is good.",
+    "summary": "HAPPENING NOW: Like yesterday but not quite as sunny. Morning 50s and 60s head to highs near 80 to the mid-80s. Sunshine is filtered by high clouds and a little smoke, but air quality is good.",
     "publishedAt": "2026-07-24T09:00:26.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T11:54:04.125Z",
+  "weatherGeneratedAt": "2026-07-24T14:07:52.091Z",
   "weatherError": null,
   "sources": [
     {
@@ -1739,10 +1750,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
