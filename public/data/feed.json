@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-07-24T06:36:35.840Z",
-  "fetchedAt": "2026-07-24T06:36:35.837Z",
+  "generatedAt": "2026-07-24T09:29:16.082Z",
+  "fetchedAt": "2026-07-24T09:29:16.077Z",
   "sourceCount": 23,
   "itemCount": 152,
-  "totalItemCount": 780,
+  "totalItemCount": 770,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
+      "title": "We asked too much of the American university",
+      "url": "https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Our one remaining functional institution is going downhill.",
+      "publishedAt": "2026-07-24T07:46:56.000Z",
+      "articleId": "687e8c2ebb59acc0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html?utm_source=rss&utm_medium=rss&utm_campaign=the-optimal-bayesian-update",
+      "title": "The optimal Bayesian update?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I see at least three updates one might make from the recent OAI/Hugging Face hacking incident: 1. “This happened sooner than I expected, and the story is more dramatic than I expected,” therefore I am more worried than before. 2. “This happened, and the inferior Chinese cyber-defense seems to have performed just fine,” therefore I […] The post The optimal Bayesian update? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-24T06:52:36.000Z",
+      "articleId": "4f290b4627e99a17"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-hugging-face-incident",
       "title": "The Hugging Face Incident",
@@ -495,17 +518,6 @@
       "summary": "We estimate the causal impacts of GLP-1 treatment on labor market outcomes using linked Danish administrative data and a matched stacked difference-in-differences design. We compare patients who initiate GLP-1 treatment during the first two years of Semaglutide availability to observably similar patients who initiate four years later. We find that GLP-1 treatment reduces long-term sickness […] The post The economic effects of GLP-1s appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-21T06:38:12.000Z",
       "articleId": "bf35b6b98b8bc439"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-america-ruled-by-an-oligarchy",
-      "title": "Is America ruled by an oligarchy?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-america-ruled-by-an-oligarchy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Any time you hear claims about American government, a sanity-inducing response is to ask whether they also are true of state and local governments. Here is an excerpt from my latest piece at The Free Press: First, in people’s daily lives, they typically interact with their state and local governments more than with the feds. […] The post Is America ruled by an oligarchy? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-21T04:34:49.000Z",
-      "articleId": "65544d1849bef5a5"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
@@ -1697,35 +1709,23 @@
       "summary": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
       "publishedAt": "2026-06-25T13:36:03.000Z",
       "articleId": "ab089a912d848ee4"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
-      "title": "China is winning the other tech race",
-      "url": "https://www.noahpinion.blog/p/china-is-winning-the-other-tech-race",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "They understand the importance of the electric revolution. America, so far, does not.",
-      "publishedAt": "2026-06-24T09:01:34.000Z",
-      "articleId": "703d442d27d6ba46"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-top-notch-july-weather-today-and-nice-into-the-weekend/",
-    "title": "DC-area forecast: After a top-notch July day, staying nice into the weekend",
-    "url": "https://www.capitalweather.com/dc-area-forecast-top-notch-july-weather-today-and-nice-into-the-weekend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
+    "title": "DC-area forecast: Comfortable today and Saturday. Summer oozes back next week.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly clear with blissful 70s this evening on the way to seasonably cool lows in the upper 50s to mid-60s.",
-    "publishedAt": "2026-07-23T09:00:29.000Z",
-    "dailyDigit": 10,
-    "dailyDigitLabel": "10/10",
-    "dailyDigitSummary": "Cough, cough. May need the day off.",
-    "articleId": "773f7d7c72d40a1c"
+    "summary": "HAPPENING NOW: Like yesterday but not quite as sunny. Morning 60s head to highs near 80 to the mid-80s. Sunshine is filtered by high clouds and a little smoke, but air quality is good.",
+    "publishedAt": "2026-07-24T09:00:26.000Z",
+    "dailyDigit": 9,
+    "dailyDigitLabel": "9/10",
+    "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
+    "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T06:36:35.840Z",
+  "weatherGeneratedAt": "2026-07-24T09:29:16.082Z",
   "weatherError": null,
   "sources": [
     {
@@ -1739,10 +1739,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
