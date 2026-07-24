@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-24T21:17:39.045Z",
-  "fetchedAt": "2026-07-24T21:17:39.039Z",
+  "generatedAt": "2026-07-24T23:14:22.910Z",
+  "fetchedAt": "2026-07-24T23:14:22.904Z",
   "sourceCount": 23,
-  "itemCount": 155,
-  "totalItemCount": 781,
+  "itemCount": 156,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/thank-you-christopher-nolan",
+      "title": "Thank you, Christopher Nolan",
+      "url": "https://www.slowboring.com/p/thank-you-christopher-nolan",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "— Homer, probably",
+      "publishedAt": "2026-07-24T22:00:53.000Z",
+      "articleId": "a9ff818d4a5711dc"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
       "title": "The Decision, the sequel",
@@ -1747,7 +1759,7 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
-    "title": "DC-area forecast: Comfortable through Saturday. Summer oozes back next week.",
+    "title": "DC-area forecast: Only a stray shower possible this weekend. Summer oozes back next week.",
     "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
@@ -1759,7 +1771,7 @@
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T21:17:39.045Z",
+  "weatherGeneratedAt": "2026-07-24T23:14:22.910Z",
   "weatherError": null,
   "sources": [
     {
@@ -1862,7 +1874,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1909,18 +1921,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
