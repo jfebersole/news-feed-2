@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T23:09:31.126Z",
-  "fetchedAt": "2026-07-23T23:09:31.119Z",
+  "generatedAt": "2026-07-24T03:38:02.894Z",
+  "fetchedAt": "2026-07-24T03:38:02.889Z",
   "sourceCount": 23,
   "itemCount": 152,
   "totalItemCount": 780,
@@ -1726,7 +1726,7 @@
     "dailyDigitSummary": "Cough, cough. May need the day off.",
     "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-23T23:09:31.126Z",
+  "weatherGeneratedAt": "2026-07-24T03:38:02.894Z",
   "weatherError": null,
   "sources": [
     {
@@ -1876,10 +1876,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
