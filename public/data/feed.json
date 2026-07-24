@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-24T03:38:02.894Z",
-  "fetchedAt": "2026-07-24T03:38:02.889Z",
+  "generatedAt": "2026-07-24T06:36:35.840Z",
+  "fetchedAt": "2026-07-24T06:36:35.837Z",
   "sourceCount": 23,
   "itemCount": 152,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-hugging-face-incident",
+      "title": "The Hugging Face Incident",
+      "url": "https://www.astralcodexten.com/p/the-hugging-face-incident",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-24T05:43:14.000Z",
+      "articleId": "f1a407f59ee24385"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-ive-been-reading-292.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-292",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-ive-been-reading-292.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Christopher Priest and Nina Allan, The Illuminated Man: Life, Death and the Worlds of J.G. Ballard. Priest died before he finished this book, and his widow added material, including on Priest himself. This is in any case a good overview and introduction to the strange worlds of Ballard. There is only a UK edition […] The post What I’ve been reading appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-24T05:19:03.000Z",
+      "articleId": "1cadc1fbacc795c5"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7467014/2026/07/23/ny-giants-malik-nabers-training-camp-pup/",
       "title": "Giants WR Malik Nabers will not start training camp on PUP list",
@@ -496,17 +518,6 @@
       "summary": "From Maine to Wisconsin, Democratic primaries have been upended as G.O.P. incumbents and super PACs continue stockpiling cash ahead of 2026.",
       "publishedAt": "2026-07-20T22:01:05.000Z",
       "articleId": "d1f0e12cdac5cd89"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html?utm_source=rss&utm_medium=rss&utm_campaign=words-of-wisdom-on-chinese-ai-and-our-responses",
-      "title": "Words of wisdom on Chinese AI and our responses",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/words-of-wisdom-on-chinese-ai-and-our-responses.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The strategy for China is obvious: commoditize your complements. Note that Xi explicitly ties openness to AI “moving from the digital world into the physical world”; the physical world is the world dominated by China, and the country’s lead in areas like robotics is going to massively benefit from widely available AI models. Along the […] The post Words of wisdom on Chinese AI and our responses appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-20T21:11:03.000Z",
-      "articleId": "cadec7d74c76236b"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ajxgkb08szyhrzophhey.html",
@@ -1698,18 +1709,6 @@
       "summary": "They understand the importance of the electric revolution. America, so far, does not.",
       "publishedAt": "2026-06-24T09:01:34.000Z",
       "articleId": "703d442d27d6ba46"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/what-all-48-world-cup-teams-have",
-      "title": "What all 48 World Cup teams have at stake",
-      "url": "https://www.natesilver.net/p/what-all-48-world-cup-teams-have",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Only 7 teams have clinched advancement --- and almost everyone has a lot to play for in their final match.",
-      "publishedAt": "2026-06-24T05:58:05.000Z",
-      "articleId": "c32d48417a06d47e"
     }
   ],
   "weather": {
@@ -1726,7 +1725,7 @@
     "dailyDigitSummary": "Cough, cough. May need the day off.",
     "articleId": "773f7d7c72d40a1c"
   },
-  "weatherGeneratedAt": "2026-07-24T03:38:02.894Z",
+  "weatherGeneratedAt": "2026-07-24T06:36:35.840Z",
   "weatherError": null,
   "sources": [
     {
