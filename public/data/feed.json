@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T23:14:22.910Z",
-  "fetchedAt": "2026-07-24T23:14:22.904Z",
+  "generatedAt": "2026-07-25T03:33:47.782Z",
+  "fetchedAt": "2026-07-25T03:33:47.776Z",
   "sourceCount": 23,
   "itemCount": 156,
   "totalItemCount": 782,
@@ -1771,7 +1771,7 @@
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-24T23:14:22.910Z",
+  "weatherGeneratedAt": "2026-07-25T03:33:47.782Z",
   "weatherError": null,
   "sources": [
     {
@@ -1849,10 +1849,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -1929,18 +1929,18 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms"
     },
     {
       "name": "Can't Get Much Higher",
