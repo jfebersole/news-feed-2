@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-25T03:33:47.782Z",
-  "fetchedAt": "2026-07-25T03:33:47.776Z",
+  "generatedAt": "2026-07-25T06:26:41.585Z",
+  "fetchedAt": "2026-07-25T06:26:41.579Z",
   "sourceCount": 23,
   "itemCount": 156,
-  "totalItemCount": 782,
+  "totalItemCount": 772,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
+      "title": "A natural experiment in economics",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "To study whether and how academics respond to political pressure, we exploit a natural experiment: the publication in early 2025 of a “blacklist” of words flagged by the U.S. government. We find that the release of this list led to a sharp reduction in the use of these flagged words among economists at universities that […] The post A natural experiment in economics appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-25T05:02:26.000Z",
+      "articleId": "f36ba326dd6e0f4d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything",
+      "title": "Crypto markets in everything? (moo)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows’ tokens for trade on the country’s B3 national stock exchange. They generated nearly $20,000 in credit backed by their cattle, signaling the potential of tokenizing RWAs as a financing tool. The […] The post Crypto markets in everything? (moo) appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-25T04:40:55.000Z",
+      "articleId": "c806b14833a4104f"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
+      "title": "Money Stuff: Sports Happen So Much",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Sports index Last month, I made some jokes about a prediction-market index, which struck me as a funny idea. I wrote : Prediction-market investors could use the index to benchmark their own performance, and commentators could use it as a shorthand for how the market is doing. “Events have become more likely,” they could say, or “probabilities have gone down on profit-taking,” or “going into this week’s Fed meeting, traders expect things to happen less.” Just passive exposure to the market portfolio of probabilities. The way the world apparently works is that, when I make a dumb joke like this, two things happen: The next day, a reader emails me “I did that thing,” also as a joke. Someone did send me a prediction-market index he launched, but I think he was kidding too. In a month or two, a real financial services firm really launches the thing with dead-eyed earnestness. There’s a sports gambling exchange-traded fund filing now , after I … willed? joked? grumbled ? … it into existence. This is not quite a prediction-market index, but it’s something : FutureSports, the new independent index administrator transforming professional and college sports statistics into rules-based, benchmark financial indexes … will soon unveil its first series of exclusive partnerships with major sports leagues, paving the way for institutional investors and companies in and around the sports industry to manage their risk in an unprecedented fashion and participate in regulated, tradable, broad-based index futures contracts based on team and athlete statistical performance. FutureSports creates rules-based financial indexes, known as FutureSports Performance Indexes (FSPI), that accurately represent the performance of teams and athletes in prominent sports leagues. By utilizing transparent, rules-based methodologies based on officially reported statistical outcomes, the company creates continuous values designed to underpin tradable financial products, such as listed derivatives, exchange-traded funds (ETFs) and over-the-counter (OTC) swaps. Potential market participants will include league broadcasting partners, team and athlete sponsors and endorsers, insurers, stadium owners and operators, private equity investors, lenders, and apparel manufacturers. Asset managers, pension funds and professional trading firms are expected to participate in the contracts and contribute to liquidity in this new uncorrelated asset class. Retail investors will also be able to participate in the first-of-their-kind trading vehicles, which the company expects to capture the interest of sophisticated traders looking for more traditional financial trading instruments. Leigh Taylforth, FutureSports Co-Founder, said: \"The global sporting industry generates $650 billion a year, yet there has...",
+      "publishedAt": "2026-07-25T03:50:06.716Z",
+      "articleId": "03dcd0bd91d3f106"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thank-you-christopher-nolan",
       "title": "Thank you, Christopher Nolan",
@@ -444,17 +477,6 @@
       "articleId": "259cd35d6b7b6938"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html?utm_source=rss&utm_medium=rss&utm_campaign=an-openai-model-escaped-its-sandbox-and-hacked-hugging-face",
-      "title": "An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-openai-model-escaped-its-sandbox-and-hacked-hugging-face.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "AI has just had what I considered to be the first truly concerning security breach. The facts, as we know them so far, are wild. On July 16, Hugging Face, a vast repository housing over a million open-source AI models and data, announced in a blog post: Earlier this week, we detected and responded to […] The post An OpenAI Model Escaped Its Sandbox and Hacked Hugging Face appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-22T11:14:54.000Z",
-      "articleId": "9a2e5048dd655dd2"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-lost-joy-of-monoculture",
       "title": "The lost joy of monoculture",
       "url": "https://www.slowboring.com/p/the-lost-joy-of-monoculture",
@@ -498,17 +520,6 @@
       "summary": "And who is the worst monster of the 21st?",
       "publishedAt": "2026-07-22T07:34:05.000Z",
       "articleId": "310c8e7a7569fbbc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html?utm_source=rss&utm_medium=rss&utm_campaign=alec-stapp-on-the-new-science-report-from-michael-kratsios",
-      "title": "Alec Stapp on the new Science report from Michael Kratsios",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/alec-stapp-on-the-new-science-report-from-michael-kratsios.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Major new report from the White House Office of Science and Technology Policy. Five things in the report I really liked: 1. Proposes metascience units as a way to advance experimentation in science agencies. IFP recommended OSTP take this forward in our response to a 2025 RFI. 2. Advocates for a portfolio approach to federal […] The post Alec Stapp on the new Science report from Michael Kratsios appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-22T06:30:45.000Z",
-      "articleId": "4da930c31fd9cf26"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/h17xjom4fjh0ciwrgfwj.html",
@@ -994,17 +1005,6 @@
       "summary": "He bent the knee and made the most of it.",
       "publishedAt": "2026-07-14T21:00:04.000Z",
       "articleId": "76f2fe3aa7f17796"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ykg05uexpww4wbu2l7c0.html",
-      "title": "Money Stuff: Banks Made a Lot of Money on Stocks",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ykg05uexpww4wbu2l7c0.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Equities Here are the three main ways for a big bank to make money from stock trading: The bank’s clients want to trade stocks, so the bank helps them out, buying the stocks the clients want to sell, selling the stocks the clients want to buy and capturing some spread. This is called “market making” or “intermediation,” and tends to do best when markets are volatile. For one thing, when markets are volatile, clients are buying and selling a lot. For another thing, when markets are volatile, the bank — if it is good — will often be buying low and selling high, as customers panic and sell low and then get enthusiastic and buy high. The bank’s clients want to borrow against their stocks, to buy more stocks, and the bank lends them money to do that. This is called “prime brokerage” or “equities financing” or “margin lending,” and has become increasingly important to banks . It tends to do best when markets are going up. For one thing, when markets are going up, people get more enthusiastic and want to borrow to buy more stock. For another thing, when markets are going up, the banks’ collateral gets better: If you lend $100 against $200 of stock and the stock goes to $300, you’re in great shape; if the stock goes to $90 you’re in trouble. The bank’s corporate clients want to raise money by selling stock — in initial public offerings, or in follow-on equity offerings — so the bank helps them out, finding buyers for their stock and collecting a fee. This is called “equity capital markets,” or “ECM,” and banks tend to count it separately from the other two categories. (ECM is usually part of investment banking fee revenue, while market making and financing are part of the equities trading division.) This business also tends to do best when markets are going up and reasonably calm: Companies like to sell stock high and don’t like surprises, so they tend to sell stock when “the window is open” and confidence is high. Those are the important conceptual buckets. Another bucket is prop trading — the bank buys stocks that it thinks will go up, and they go up — which is largely disfavored these days. A fifth bucket is derivatives trading — the clients want to hedge their stocks or do other bets by trading derivatives — which is mostly a subset of market making. [1] These things to some extent offset one another. When markets are extremely volatile, you can make a killing with smart trades but can lose a lot of money on bad margin loans. When markets are placid and rising, you can get a lot of ECM fees but your traders might be bored. Occasionally markets are volatile but also up a lot; then you make a lot of money everywhere. Bloomberg’s Sridhar Natarajan reports : Five of the biggest US banks reported second-quarter results Tuesday with their divisions handling...",
-      "publishedAt": "2026-07-14T18:18:17.633Z",
-      "articleId": "97719fb7a043f237"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/12-questions-for-the-center-left",
@@ -1759,19 +1759,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
-    "title": "DC-area forecast: Only a stray shower possible this weekend. Summer oozes back next week.",
+    "title": "DC-area forecast: A few showers possible tonight. Summer oozes back next week.",
     "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds are with us into the evening and much of the night. There could be a passing shower late, especially south. Lows in the 60s.",
+    "summary": "HAPPENING NOW: Clouds are with us into the evening and much of the night. There could be a a few passing showers overnight, especially from the Beltway to the south. Lows in the 60s.",
     "publishedAt": "2026-07-24T09:00:26.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
     "articleId": "8872d4d6ce793563"
   },
-  "weatherGeneratedAt": "2026-07-25T03:33:47.782Z",
+  "weatherGeneratedAt": "2026-07-25T06:26:41.585Z",
   "weatherError": null,
   "sources": [
     {
@@ -1785,10 +1785,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1921,10 +1921,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
@@ -1937,10 +1937,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "failed",
+      "mode": "rss",
       "itemCount": 0,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Request timed out after 15000ms"
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
