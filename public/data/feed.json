@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T06:26:41.585Z",
-  "fetchedAt": "2026-07-25T06:26:41.579Z",
+  "generatedAt": "2026-07-25T09:08:39.105Z",
+  "fetchedAt": "2026-07-25T09:08:39.102Z",
   "sourceCount": 23,
   "itemCount": 156,
   "totalItemCount": 772,
@@ -1758,20 +1758,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
-    "title": "DC-area forecast: A few showers possible tonight. Summer oozes back next week.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-today-and-saturday-summer-oozes-back-next-week/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
+    "title": "DC-area forecast: Becoming mostly sunny this weekend, with heat returning to start week",
+    "url": "https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds are with us into the evening and much of the night. There could be a a few passing showers overnight, especially from the Beltway to the south. Lows in the 60s.",
-    "publishedAt": "2026-07-24T09:00:26.000Z",
-    "dailyDigit": 9,
-    "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "Sunshine is filtered at times on an otherwise comfortable, super-pleasant July day.",
-    "articleId": "8872d4d6ce793563"
+    "summary": "HAPPENING NOW: Dry and comfortable again today with low humidity and eventually more sun than clouds. Highs near 80 to the mid-80s make for a nice outdoor day.",
+    "publishedAt": "2026-07-25T09:00:30.000Z",
+    "dailyDigit": 8,
+    "dailyDigitLabel": "8/10",
+    "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
+    "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-25T06:26:41.585Z",
+  "weatherGeneratedAt": "2026-07-25T09:08:39.105Z",
   "weatherError": null,
   "sources": [
     {
