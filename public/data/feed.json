@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-25T17:11:48.824Z",
-  "fetchedAt": "2026-07-25T17:11:48.820Z",
+  "generatedAt": "2026-07-25T19:30:49.931Z",
+  "fetchedAt": "2026-07-25T19:30:49.923Z",
   "sourceCount": 23,
-  "itemCount": 156,
+  "itemCount": 155,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
+      "title": "What is agency — and how can you get more of it?",
+      "url": "https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "My interview with Cate Hall about her new book, \"You Can Just Do Things.\"",
+      "publishedAt": "2026-07-25T19:00:14.000Z",
+      "articleId": "98f104908c10f633"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/odysseus-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=odysseus-notes",
+      "title": "Odysseus notes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/odysseus-notes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The subsection of the Georgi Gospodinov novel runs like this: The Shortest Novel About Odysseus After His Return Home One night, now old and flabby and starting to forget, he leaves his home secretly. He’s sick of everything, so he heads back one last time to see the places, women, and wonders he had once […] The post Odysseus notes appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-25T18:34:27.000Z",
+      "articleId": "9f2bdf63ebacc835"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-571",
       "title": "Saturday assorted links",
@@ -453,17 +475,6 @@
       "summary": "Personal phones It was illegal, from about 2021 through about 2025, for employees of financial firms to text or WhatsApp about work on their personal phones. The theory was that US securities regulations require firms to keep copies of “all communications sent” by their employees, “including inter-office memoranda and communications,” that are “related to [their] business as such.” So if a financial services employee sends an email to a client, or to a colleague, her firm needs to retain a copy of that email. And if she texts a client or colleague from her personal phone, then the firm won’t have a copy, which violates the law. This theory was essentially invented by Gary Gensler, who was the chair of the US Securities and Exchange Commission at the time, and I always thought it was a strange and aggressive interpretation of the rules. But you can understand why the SEC liked it: The SEC is in the business of detecting actual fraud , and if banks and brokers make sure that all of their communications are preserved in searchable electronic form for years, then it will be relatively easy for the SEC to detect fraud . Ask for a pile of messages every once in a while, run a search on them for terms like “fraud” or “ spoof ” or “ muppets ” or “ champagne ,” and see what comes up. The SEC is in the business of extracting fines , and it extracted billions of dollars of fines, with very little effort, by charging dozens of financial firms with texting on personal phones. Every time the SEC would announce a settlement, it would issue a press release in which Gensler would say stuff like “As technology changes, it’s even more important that registrants appropriately conduct their communications about business matters within only official channels,” even though that was obviously wrong. (As I once wrote : “Imagine if that was really the rule! You can’t have lunch with a client and talk about business, or have beers with your colleagues and gripe about work, because that does not create a searchable archive for the SEC to review.”) This was a good fine-extracting business for the SEC because it is human nature, apparently, to text about work on your personal phone, and there was nothing banks could do to stop their employees from doing it. The SEC once found that Qatalyst Partners LP, the investment banking boutique, “willfully violated” the recordkeeping rules, even though (1) it had policies against texting from personal phones, (2) it frequently trained its employees on those policies, (3) it provided them with compliant text-messaging devices and told them to use them exclusively, (4) it captured and archived Slack and LinkedIn messages, etc. Qatalyst did everything it could to stop its employees from texting on their personal phones, but some of them did...",
       "publishedAt": "2026-07-22T18:31:21.231Z",
       "articleId": "0499528310316ac2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-fact-of-the-day-12",
-      "title": "Brazil fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Last year, the US exported $171bn of agricultural goods according to the Department of Agriculture, just $2bn more than the export total claimed by Brazil, which many analysts say has benefited from trade disruption set in train by President Donald Trump’s tariffs. With US exports falling and Brazil’s rising — they increased 6 per cent […] The post Brazil fact of the day appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-22T18:04:03.000Z",
-      "articleId": "dac8da82ca7481df"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
@@ -1734,45 +1745,23 @@
       "summary": "Why does our seemingly competitive political system produce so much stagnation and corruption?",
       "publishedAt": "2026-06-25T23:40:05.000Z",
       "articleId": "022c6b37e08abf27"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-bucks-traded-giannis-too-late",
-      "title": "The Bucks traded Giannis too late",
-      "url": "https://www.natesilver.net/p/the-bucks-traded-giannis-too-late",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "The deal is \"ehh, fine\" for both Miami and Milwaukee. But Giannis to Boston would have had a seismic effect on the league.",
-      "publishedAt": "2026-06-25T17:37:23.000Z",
-      "articleId": "5fbbd639e83f5c42"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/adapt-or-die-how-country-took-raps",
-      "title": "Adapt or Die: How Country Took Rap’s Place Atop The Charts",
-      "url": "https://www.cantgetmuchhigher.com/p/adapt-or-die-how-country-took-raps",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, how pop went from the streets to the farm",
-      "publishedAt": "2026-06-25T17:31:04.000Z",
-      "articleId": "5f3e3a84f7736812"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
-    "title": "DC-area forecast: Mostly sunny this weekend, with heat returning to start week",
+    "title": "DC-area forecast: Fair skies tonight. More humid Sunday with slight rain chance.",
     "url": "https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Dry and comfortable again today with low humidity and more sun than clouds. Highs near 80 to the mid-80s make for a nice outdoor day.",
-    "publishedAt": "2026-07-25T09:00:30.000Z",
+    "summary": "HAPPENING NOW: A quiet night ahead as mostly clear skies hang on. Evening 70s dip to lows in the 60s for most.",
+    "publishedAt": "2026-07-25T07:15:00.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
     "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-25T17:11:48.824Z",
+  "weatherGeneratedAt": "2026-07-25T19:30:49.931Z",
   "weatherError": null,
   "sources": [
     {
