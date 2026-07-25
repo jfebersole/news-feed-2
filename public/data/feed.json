@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T19:30:49.931Z",
-  "fetchedAt": "2026-07-25T19:30:49.923Z",
+  "generatedAt": "2026-07-25T21:06:06.272Z",
+  "fetchedAt": "2026-07-25T21:06:06.268Z",
   "sourceCount": 23,
   "itemCount": 155,
-  "totalItemCount": 782,
+  "totalItemCount": 772,
   "items": [
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
@@ -1749,19 +1749,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
-    "title": "DC-area forecast: Fair skies tonight. More humid Sunday with slight rain chance.",
+    "title": "DC-area forecast: Fair skies tonight. A bit more humid Sunday with slight rain chance.",
     "url": "https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A quiet night ahead as mostly clear skies hang on. Evening 70s dip to lows in the 60s for most.",
-    "publishedAt": "2026-07-25T07:15:00.000Z",
+    "summary": "HAPPENING NOW: Mostly sunny with afternoon highs around 80 to 85. A quiet evening and night ahead as mostly clear skies hang on. Evening 70s dip to lows in the 60s for most.",
+    "publishedAt": "2026-07-25T19:15:00.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
     "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-25T19:30:49.931Z",
+  "weatherGeneratedAt": "2026-07-25T21:06:06.272Z",
   "weatherError": null,
   "sources": [
     {
@@ -1775,10 +1775,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
