@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-25T11:23:35.256Z",
-  "fetchedAt": "2026-07-25T11:23:35.251Z",
+  "generatedAt": "2026-07-25T13:58:08.901Z",
+  "fetchedAt": "2026-07-25T13:58:08.898Z",
   "sourceCount": 23,
-  "itemCount": 158,
+  "itemCount": 156,
   "totalItemCount": 783,
   "items": [
     {
@@ -13,7 +13,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
-      "publishedAt": "2026-07-25T11:00:06.000Z",
+      "publishedAt": "2026-07-25T13:19:52.000Z",
       "articleId": "ae67cf5c90c8991d"
     },
     {
@@ -1755,28 +1755,6 @@
       "summary": "Or, how pop went from the streets to the farm",
       "publishedAt": "2026-06-25T17:31:04.000Z",
       "articleId": "5f3e3a84f7736812"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages",
-      "title": "US Subways Build Too Many Cross Passages",
-      "url": "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "I wrote the following piece for IFP’s Transit Abundance Playbook, a collection of 15 ideas to improve transit delivery in the US.",
-      "publishedAt": "2026-06-25T13:55:49.000Z",
-      "articleId": "ba5668b78ec9496e"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "title": "What's really slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
-      "publishedAt": "2026-06-25T13:36:03.000Z",
-      "articleId": "ab089a912d848ee4"
     }
   ],
   "weather": {
@@ -1791,10 +1769,11 @@
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
-    "articleId": "32d5f99d3081eedb"
+    "articleId": "32d5f99d3081eedb",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-25T11:23:35.256Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-25T13:58:08.901Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
