@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-25T13:58:08.901Z",
-  "fetchedAt": "2026-07-25T13:58:08.898Z",
+  "generatedAt": "2026-07-25T15:17:08.760Z",
+  "fetchedAt": "2026-07-25T15:17:08.754Z",
   "sourceCount": 23,
-  "itemCount": 156,
+  "itemCount": 157,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-072526",
+      "title": "Reading List 07/25/26",
+      "url": "https://www.construction-physics.com/p/reading-list-072526",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more.",
+      "publishedAt": "2026-07-25T14:01:08.000Z",
+      "articleId": "a66a6b5cbfff3f37"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
       "title": "Why Vance Still Trumps Rubio",
@@ -13,7 +25,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
-      "publishedAt": "2026-07-25T13:19:52.000Z",
+      "publishedAt": "2026-07-25T13:19:53.000Z",
       "articleId": "ae67cf5c90c8991d"
     },
     {
@@ -1772,7 +1784,7 @@
     "articleId": "32d5f99d3081eedb",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-07-25T13:58:08.901Z",
+  "weatherGeneratedAt": "2026-07-25T15:17:08.760Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -1930,10 +1942,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
