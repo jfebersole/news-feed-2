@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-25T15:17:08.760Z",
-  "fetchedAt": "2026-07-25T15:17:08.754Z",
+  "generatedAt": "2026-07-25T17:11:48.824Z",
+  "fetchedAt": "2026-07-25T17:11:48.820Z",
   "sourceCount": 23,
-  "itemCount": 157,
-  "totalItemCount": 783,
+  "itemCount": 156,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-571",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The 1991 Project’s oral history collection (led by Shreyas Narla and Shruti) with ~50 hours of interviews with policy reformers and witnesses to India’s market liberalization, is now available. 2. Mini Cities. 3. The new Claude, on Mondrian. 4. More on cybersecurity and cyberdefense. And Simon Willison on The Incident. And early AI fears were not about LLMs, […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-25T16:38:10.000Z",
+      "articleId": "7ff8688820c73921"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-072526",
       "title": "Reading List 07/25/26",
@@ -464,17 +475,6 @@
       "summary": "Even under populism, elite failure is still a problem.",
       "publishedAt": "2026-07-22T16:51:44.000Z",
       "articleId": "1ddedeee15548235"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-563",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-563.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Balaji and Network State moving to Kazakhstan. 2. Why evolvable AI is not yet a Darwinian threat. 3. “This paper argues that societies with greater historical exposure to natural disasters are more likely to develop long-term-oriented norms that emphasize preparation, saving, and future well-being.” 4. And from Agustin: Questions that Are Rarely Asked. 5. MacroMusings […] The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-22T16:19:02.000Z",
-      "articleId": "65b257a0ffb1643b"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-july-2026-part-1",
@@ -995,17 +995,6 @@
       "summary": "...",
       "publishedAt": "2026-07-15T10:19:35.000Z",
       "articleId": "281fe4cafca24604"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/farms-arent-nature",
-      "title": "Farms aren’t nature",
-      "url": "https://www.slowboring.com/p/farms-arent-nature",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A banal take with serious consequences",
-      "publishedAt": "2026-07-15T10:01:09.000Z",
-      "articleId": "d2b5a314b069c031"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
@@ -1771,21 +1760,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
-    "title": "DC-area forecast: Becoming mostly sunny this weekend, with heat returning to start week",
+    "title": "DC-area forecast: Mostly sunny this weekend, with heat returning to start week",
     "url": "https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Dry and comfortable again today with low humidity and eventually more sun than clouds. Highs near 80 to the mid-80s make for a nice outdoor day.",
+    "summary": "HAPPENING NOW: Dry and comfortable again today with low humidity and more sun than clouds. Highs near 80 to the mid-80s make for a nice outdoor day.",
     "publishedAt": "2026-07-25T09:00:30.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
-    "articleId": "32d5f99d3081eedb",
-    "stale": true
+    "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-25T15:17:08.760Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-25T17:11:48.824Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1887,7 +1875,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1942,10 +1930,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
