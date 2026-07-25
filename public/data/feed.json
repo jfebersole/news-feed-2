@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-25T09:08:39.105Z",
-  "fetchedAt": "2026-07-25T09:08:39.102Z",
+  "generatedAt": "2026-07-25T11:23:35.256Z",
+  "fetchedAt": "2026-07-25T11:23:35.251Z",
   "sourceCount": 23,
-  "itemCount": 156,
-  "totalItemCount": 772,
+  "itemCount": 158,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
+      "title": "Why Vance Still Trumps Rubio",
+      "url": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
+      "publishedAt": "2026-07-25T11:00:06.000Z",
+      "articleId": "ae67cf5c90c8991d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-20-24-2026",
+      "title": "The Week That Was (July 20-24, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-20-24-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-07-25T09:00:58.000Z",
+      "articleId": "a9ee7a82c0b9a9f9"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
       "title": "A natural experiment in economics",
@@ -1771,7 +1793,7 @@
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
     "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-25T09:08:39.105Z",
+  "weatherGeneratedAt": "2026-07-25T11:23:35.256Z",
   "weatherError": null,
   "sources": [
     {
@@ -1785,10 +1807,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1850,7 +1872,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
