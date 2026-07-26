@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-26T16:12:20.133Z",
-  "fetchedAt": "2026-07-26T16:12:20.128Z",
+  "generatedAt": "2026-07-26T18:10:40.067Z",
+  "fetchedAt": "2026-07-26T18:10:40.062Z",
   "sourceCount": 23,
   "itemCount": 154,
-  "totalItemCount": 772,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a90",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-a90",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-07-26T17:01:23.000Z",
+      "articleId": "81d7465914ec1b4d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-577",
       "title": "Sunday assorted links",
@@ -974,18 +986,6 @@
       "articleId": "65252590be25795c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
-      "title": "The abundance agenda has arrived",
-      "url": "https://www.slowboring.com/p/the-abundance-agenda-has-arrived",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The biggest federal housing package in a generation becomes law.",
-      "publishedAt": "2026-07-15T22:01:59.000Z",
-      "articleId": "daeceffe8de7a2c7"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
       "title": "Trump’s Corruption Stains, From Texas to Maine",
       "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
@@ -1749,7 +1749,7 @@
     "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
     "articleId": "f77e88a613373c7b"
   },
-  "weatherGeneratedAt": "2026-07-26T16:12:20.133Z",
+  "weatherGeneratedAt": "2026-07-26T18:10:40.067Z",
   "weatherError": null,
   "sources": [
     {
@@ -1763,10 +1763,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1899,26 +1899,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502"
     },
     {
       "name": "Can't Get Much Higher",
