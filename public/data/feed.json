@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T20:16:34.484Z",
-  "fetchedAt": "2026-07-26T20:16:34.480Z",
+  "generatedAt": "2026-07-26T22:09:50.514Z",
+  "fetchedAt": "2026-07-26T22:09:50.511Z",
   "sourceCount": 23,
   "itemCount": 154,
-  "totalItemCount": 779,
+  "totalItemCount": 782,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html?utm_source=rss&utm_medium=rss&utm_campaign=further-progress-in-south-america",
@@ -1737,21 +1737,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-sunshine-today-a-bit-hotter-with-increasing-storm-chances-early-week/",
-    "title": "DC-area forecast: Comfortable with a shower chance today. Storm chances increase early week.",
+    "title": "DC-area forecast: A couple storms possible this evening and Monday. Tuesday storms may be intense.",
     "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-sunshine-today-a-bit-hotter-with-increasing-storm-chances-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A mostly pleasant Sunday despite being a touch more humid. Partly to mostly sunny with afternoon highs in the mid-80s and maybe an isolated late-day shower or storm. Slap on the sunscreen and enjoy!",
+    "summary": "HAPPENING NOW: A couple showers and thunderstorms are possible this evening through around midnight. Evening 70s dip to lows within a few degrees of 65.",
     "publishedAt": "2026-07-26T09:00:50.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
-    "articleId": "f77e88a613373c7b",
-    "stale": true
+    "articleId": "f77e88a613373c7b"
   },
-  "weatherGeneratedAt": "2026-07-26T20:16:34.484Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-26T22:09:50.514Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1804,10 +1803,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 7,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
