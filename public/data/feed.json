@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-26T07:45:12.682Z",
-  "fetchedAt": "2026-07-26T07:45:12.678Z",
+  "generatedAt": "2026-07-26T10:10:01.173Z",
+  "fetchedAt": "2026-07-26T10:10:01.169Z",
   "sourceCount": 23,
-  "itemCount": 152,
+  "itemCount": 154,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
+      "title": "Why Odysseus Turned on the Trojan Horse",
+      "url": "https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
+      "publishedAt": "2026-07-26T10:00:05.000Z",
+      "articleId": "3bd7fea941ce38e8"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
+      "title": "What will more intelligence actually do for us?",
+      "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A lot, actually. But it won't look quite like what humans do with our intelligence.",
+      "publishedAt": "2026-07-26T07:56:22.000Z",
+      "articleId": "42d9f1694116b0ec"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies",
       "title": "The demand for human enhancement technologies",
@@ -1714,20 +1736,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
-    "title": "DC-area forecast: Fair skies tonight. A bit more humid Sunday with slight rain chance.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-mostly-sunny-this-weekend-with-heat-returning-to-start-week/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-sunshine-today-a-bit-hotter-with-increasing-storm-chances-early-week/",
+    "title": "DC-area forecast: Comfortable sunshine today. A bit hotter with increasing storm chances early week.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-sunshine-today-a-bit-hotter-with-increasing-storm-chances-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A quiet evening and night ahead as mostly clear skies hang on. Evening 70s dip to lows in the 60s for most.",
-    "publishedAt": "2026-07-25T19:15:00.000Z",
+    "summary": "HAPPENING NOW: A mostly pleasant Sunday despite being a touch more humid. Partly to mostly sunny with afternoon highs in the mid-80s and maybe an isolated late-day shower or storm. Slap on the sunscreen and enjoy!",
+    "publishedAt": "2026-07-26T09:00:50.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
-    "articleId": "32d5f99d3081eedb"
+    "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
+    "articleId": "f77e88a613373c7b"
   },
-  "weatherGeneratedAt": "2026-07-26T07:45:12.682Z",
+  "weatherGeneratedAt": "2026-07-26T10:10:01.173Z",
   "weatherError": null,
   "sources": [
     {
@@ -1885,10 +1907,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
