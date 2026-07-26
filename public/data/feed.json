@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-26T10:10:01.173Z",
-  "fetchedAt": "2026-07-26T10:10:01.169Z",
+  "generatedAt": "2026-07-26T12:13:12.696Z",
+  "fetchedAt": "2026-07-26T12:13:12.692Z",
   "sourceCount": 23,
   "itemCount": 154,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/lebron-james-just-took-the-biggest",
+      "title": "LeBron James Just Took the Biggest Discount of Any Modern Star",
+      "url": "https://neilpaine.substack.com/p/lebron-james-just-took-the-biggest",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "His bargain deal with the Sixers is about chasing another ring — and one last attempt to disrupt the GOAT debate.",
+      "publishedAt": "2026-07-26T12:02:59.000Z",
+      "articleId": "557ce817bb035454"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
       "title": "Why Odysseus Turned on the Trojan Horse",
@@ -13,8 +25,19 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
-      "publishedAt": "2026-07-26T10:00:05.000Z",
+      "publishedAt": "2026-07-26T11:35:50.000Z",
       "articleId": "3bd7fea941ce38e8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/oriental-rugs-atlas-and-quiz.html?utm_source=rss&utm_medium=rss&utm_campaign=oriental-rugs-atlas-and-quiz",
+      "title": "The Rug Belt Atlas and Quiz",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/oriental-rugs-atlas-and-quiz.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I have an amateur interest in Oriental rugs but my eye is untrained. Thus, for fun and learning I created with Fable an Rug Atlas and quiz. The Rug Belt Atlas Check it out. Constructive comments welcome. The post The Rug Belt Atlas and Quiz appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-26T11:18:30.000Z",
+      "articleId": "de71f9e23ba69b26"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
@@ -465,17 +488,6 @@
       "articleId": "8f41d08b83a42aaa"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-gita-gopinath",
-      "title": "What should I ask Gita Gopinath?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-gita-gopinath.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with her. From Wikipedia: Gita Gopinath…is an Indian-American economist who is currently serving as the Gregory and Ania Coffey professor of Economics at Harvard University and previously served as the first deputy managing director of the International Monetary Fund (IMF), from 21 January 2022 to 31 August 2025. Before that she also served […] The post What should I ask Gita Gopinath? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-23T07:18:33.000Z",
-      "articleId": "84f50904dc992f30"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
       "title": "Housing is at the top of everyone’s agenda",
       "url": "https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
@@ -564,18 +576,6 @@
       "summary": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
       "publishedAt": "2026-07-22T10:00:00.000Z",
       "articleId": "0066ab9912f89216"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-red-sox-won-themselves-into-a",
-      "title": "The Red Sox Won Themselves Into a Deadline Dilemma",
-      "url": "https://neilpaine.substack.com/p/the-red-sox-won-themselves-into-a",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Boston's historic surge has turned a lost season into a likely playoff run. Now comes the harder question: How much should the front office believe in it?",
-      "publishedAt": "2026-07-22T09:01:05.000Z",
-      "articleId": "476ecb390f30e74f"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
@@ -1749,7 +1749,7 @@
     "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
     "articleId": "f77e88a613373c7b"
   },
-  "weatherGeneratedAt": "2026-07-26T10:10:01.173Z",
+  "weatherGeneratedAt": "2026-07-26T12:13:12.696Z",
   "weatherError": null,
   "sources": [
     {
