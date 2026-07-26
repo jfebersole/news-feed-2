@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T00:10:00.023Z",
-  "fetchedAt": "2026-07-26T00:10:00.019Z",
+  "generatedAt": "2026-07-26T04:37:18.181Z",
+  "fetchedAt": "2026-07-26T04:37:18.177Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 782,
+  "itemCount": 152,
+  "totalItemCount": 772,
   "items": [
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
@@ -1711,18 +1711,6 @@
       "summary": "Plus links from June 2026",
       "publishedAt": "2026-06-26T23:02:44.000Z",
       "articleId": "f324a280a9a88011"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
-      "title": "The Democrats have their own MAGA now",
-      "url": "https://www.noahpinion.blog/p/the-democrats-have-their-own-maga",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The shape of America's new Left is becoming clearer.",
-      "publishedAt": "2026-06-26T02:19:26.000Z",
-      "articleId": "e65ab8189b73d7d0"
     }
   ],
   "weather": {
@@ -1732,14 +1720,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny with afternoon highs around 80 to 85. A quiet evening and night ahead as mostly clear skies hang on. Evening 70s dip to lows in the 60s for most.",
+    "summary": "HAPPENING NOW: A quiet evening and night ahead as mostly clear skies hang on. Evening 70s dip to lows in the 60s for most.",
     "publishedAt": "2026-07-25T19:15:00.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
     "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-26T00:10:00.023Z",
+  "weatherGeneratedAt": "2026-07-26T04:37:18.181Z",
   "weatherError": null,
   "sources": [
     {
@@ -1753,10 +1741,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Request timed out after 15000ms"
     },
     {
       "name": "Astral Codex Ten",
