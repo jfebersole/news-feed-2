@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T22:09:24.186Z",
-  "fetchedAt": "2026-07-25T22:09:24.181Z",
+  "generatedAt": "2026-07-26T00:10:00.023Z",
+  "fetchedAt": "2026-07-26T00:10:00.019Z",
   "sourceCount": 23,
-  "itemCount": 155,
-  "totalItemCount": 772,
+  "itemCount": 153,
+  "totalItemCount": 782,
   "items": [
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
@@ -1723,28 +1723,6 @@
       "summary": "The shape of America's new Left is becoming clearer.",
       "publishedAt": "2026-06-26T02:19:26.000Z",
       "articleId": "e65ab8189b73d7d0"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy",
-      "title": "The Metaculus Democracy Threat Index",
-      "url": "https://www.astralcodexten.com/p/the-metaculus-threat-to-democracy",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-06-25T23:59:00.000Z",
-      "articleId": "09e01328a10dc4f1"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
-      "title": "One-Party Rule Is Hiding in Plain Sight",
-      "url": "https://www.nytimes.com/2026/06/25/opinion/one-party-rule-two-party-system.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Why does our seemingly competitive political system produce so much stagnation and corruption?",
-      "publishedAt": "2026-06-25T23:40:05.000Z",
-      "articleId": "022c6b37e08abf27"
     }
   ],
   "weather": {
@@ -1761,7 +1739,7 @@
     "dailyDigitSummary": "Comfortable weather overall, but I'd take a little more sunshine.",
     "articleId": "32d5f99d3081eedb"
   },
-  "weatherGeneratedAt": "2026-07-25T22:09:24.186Z",
+  "weatherGeneratedAt": "2026-07-26T00:10:00.023Z",
   "weatherError": null,
   "sources": [
     {
@@ -1775,10 +1753,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
