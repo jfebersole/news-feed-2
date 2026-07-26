@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T12:13:12.696Z",
-  "fetchedAt": "2026-07-26T12:13:12.692Z",
+  "generatedAt": "2026-07-26T14:43:35.760Z",
+  "fetchedAt": "2026-07-26T14:43:35.757Z",
   "sourceCount": 23,
   "itemCount": 154,
-  "totalItemCount": 782,
+  "totalItemCount": 772,
   "items": [
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/lebron-james-just-took-the-biggest",
@@ -1749,7 +1749,7 @@
     "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
     "articleId": "f77e88a613373c7b"
   },
-  "weatherGeneratedAt": "2026-07-26T12:13:12.696Z",
+  "weatherGeneratedAt": "2026-07-26T14:43:35.760Z",
   "weatherError": null,
   "sources": [
     {
@@ -1763,10 +1763,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
