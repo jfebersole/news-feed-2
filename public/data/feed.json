@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T12:34:57.185Z",
-  "fetchedAt": "2026-07-27T12:34:57.180Z",
+  "generatedAt": "2026-07-27T15:49:05.201Z",
+  "fetchedAt": "2026-07-27T15:49:05.197Z",
   "sourceCount": 23,
   "itemCount": 152,
-  "totalItemCount": 782,
+  "totalItemCount": 781,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
@@ -1713,22 +1713,21 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-comfortable-sunshine-today-a-bit-hotter-with-increasing-storm-chances-early-week/",
-    "title": "DC-area forecast: A couple storms possible this evening and Monday. Tuesday storms may be intense.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-comfortable-sunshine-today-a-bit-hotter-with-increasing-storm-chances-early-week/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
+    "title": "DC-area forecast: Isolated storm today. Humid tomorrow with storms likely.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A couple showers and thunderstorms are possible this evening through around midnight. Evening 70s dip to lows within a few degrees of 65.",
-    "publishedAt": "2026-07-26T09:00:50.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
-    "articleId": "f77e88a613373c7b",
-    "stale": true
+    "summary": "HAPPENING NOW: Partly sunny and a bit more humid today. Afternoon highs are mainly in the mid- to upper 80s, with a few isolated showers or storms possible late this afternoon and evening.",
+    "publishedAt": "2026-07-27T09:00:51.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "We've seen hotter and muggier days, but",
+    "articleId": "f71236746e421adb"
   },
-  "weatherGeneratedAt": "2026-07-27T12:34:57.185Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-27T15:49:05.201Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1750,7 +1749,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
