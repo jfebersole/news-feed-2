@@ -156,6 +156,10 @@ body::before {
   padding: 14px var(--layout-gutter) 36px;
 }
 
+.story-panel:has(.reader-panel:not([hidden])) {
+  width: 100%;
+}
+
 .meta-strip {
   grid-column: 1 / -1;
   grid-row: 2;
@@ -648,7 +652,9 @@ body::before {
 }
 
 .reader-panel {
-  margin-top: 0;
+  width: 100%;
+  max-width: var(--reading-width);
+  margin: 0 auto;
   border-top: 0;
   padding-top: 0;
   --reader-shift: var(--content-shift);
@@ -669,9 +675,9 @@ body::before {
 .reader-rail {
   position: absolute;
   top: 0;
-  left: var(--reader-shift);
-  width: calc(100% - var(--reader-shift));
-  max-width: min(760px, calc(100% - var(--reader-shift)));
+  left: 50%;
+  width: min(760px, 100%);
+  transform: translateX(-50%);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -768,18 +774,18 @@ body::before {
 }
 
 .reader-title {
-  margin: 0;
+  margin: 0 auto;
   font-family: "Newsreader", Georgia, serif;
   font-size: clamp(1.95rem, 4.3vw, 3.8rem);
   line-height: 0.95;
   letter-spacing: -0.02em;
-  max-width: 100%;
+  max-width: min(760px, 100%);
   text-wrap: balance;
 }
 
 .reader-subtitle {
-  margin: 12px 0 0;
-  max-width: 42ch;
+  margin: 12px auto 0;
+  max-width: min(760px, 100%);
   color: #4b4439;
   font-size: clamp(1.12rem, 2vw, 1.64rem);
   font-family: "Newsreader", Georgia, serif;
@@ -795,7 +801,7 @@ body::before {
 .reader-byline-row {
   width: 100%;
   max-width: min(760px, 100%);
-  margin: 12px 0 0;
+  margin: 12px auto 0;
   display: flex;
   gap: 10px;
   justify-content: space-between;
@@ -844,7 +850,8 @@ body::before {
 }
 
 .reader-reason {
-  margin: 14px 0 0;
+  max-width: min(760px, 100%);
+  margin: 14px auto 0;
   padding: 10px 12px;
   border: 1px dashed var(--line);
   color: #4e483f;
@@ -857,7 +864,8 @@ body::before {
 }
 
 .reader-body {
-  margin-top: 16px;
+  max-width: min(760px, 100%);
+  margin: 16px auto 0;
   padding-top: 0;
 }
 
