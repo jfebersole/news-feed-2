@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-27T21:21:11.164Z",
-  "fetchedAt": "2026-07-27T21:21:11.159Z",
+  "generatedAt": "2026-07-27T23:17:56.993Z",
+  "fetchedAt": "2026-07-27T23:17:56.988Z",
   "sourceCount": 23,
   "itemCount": 150,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-midterms-100-days-out",
+      "title": "The midterms, 100 days out",
+      "url": "https://www.slowboring.com/p/the-midterms-100-days-out",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Which is worse in a volatile midterm landscape: no money or no enthusiasm?",
+      "publishedAt": "2026-07-27T22:00:53.000Z",
+      "articleId": "f9182d80de4e8016"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/liberal-worlds-james-bryce-and-the-democratic-intellect-2.html?utm_source=rss&utm_medium=rss&utm_campaign=liberal-worlds-james-bryce-and-the-democratic-intellect-2",
       "title": "*Liberal Worlds: James Bryce and the Democratic Intellect*",
@@ -973,18 +985,6 @@
       "articleId": "1b443d5bf6f799fe"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-progressive-executive-power-delusion",
-      "title": "The progressive executive power delusion",
-      "url": "https://www.slowboring.com/p/the-progressive-executive-power-delusion",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The Supreme Court isn’t on your side.",
-      "publishedAt": "2026-07-16T10:02:10.000Z",
-      "articleId": "9a74326041fc6222"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
       "title": "Six Slightly Skew Boogeymen",
       "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
@@ -1704,7 +1704,7 @@
     "dailyDigitSummary": "We've seen hotter and muggier days, but",
     "articleId": "f71236746e421adb"
   },
-  "weatherGeneratedAt": "2026-07-27T21:21:11.164Z",
+  "weatherGeneratedAt": "2026-07-27T23:17:56.993Z",
   "weatherError": null,
   "sources": [
     {
