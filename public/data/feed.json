@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T19:49:53.677Z",
-  "fetchedAt": "2026-07-27T19:49:53.672Z",
+  "generatedAt": "2026-07-27T21:21:11.164Z",
+  "fetchedAt": "2026-07-27T21:21:11.159Z",
   "sourceCount": 23,
-  "itemCount": 151,
+  "itemCount": 150,
   "totalItemCount": 780,
   "items": [
     {
@@ -1688,34 +1688,23 @@
       "summary": "A timely repost, with some updates.",
       "publishedAt": "2026-06-28T06:26:35.000Z",
       "articleId": "70e51e98e5877a3b"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/are-england-the-new-york-knicks",
-      "title": "Are England the New York Knicks?",
-      "url": "https://www.natesilver.net/p/are-england-the-new-york-knicks",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Another team just ended a half-century curse by becoming more than the sum of its parts. England's always had the talent — can it finally do the same?",
-      "publishedAt": "2026-06-27T20:53:51.000Z",
-      "articleId": "d0e85bf9389d84bd"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
-    "title": "DC-area forecast: Isolated storm today. Humid tomorrow with storms likely.",
+    "title": "DC-area forecast: Isolated storm into tonight. Humid tomorrow with storms likely.",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny and a bit more humid today. Afternoon highs are mainly in the mid- to upper 80s, with a few isolated showers or storms possible late this afternoon and evening.",
+    "summary": "HAPPENING NOW: Moderately muggy 80s this evening with an isolated shower or storm possible. Better rain odds toward dawn.",
     "publishedAt": "2026-07-27T09:00:51.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "We've seen hotter and muggier days, but",
     "articleId": "f71236746e421adb"
   },
-  "weatherGeneratedAt": "2026-07-27T19:49:53.677Z",
+  "weatherGeneratedAt": "2026-07-27T21:21:11.164Z",
   "weatherError": null,
   "sources": [
     {
