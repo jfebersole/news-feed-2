@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-27T04:49:42.563Z",
-  "fetchedAt": "2026-07-27T04:49:42.559Z",
+  "generatedAt": "2026-07-27T08:44:17.549Z",
+  "fetchedAt": "2026-07-27T08:44:17.541Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=could-our-preoccupation-with-mental-health-be-part-of-the-problem",
+      "title": "Could our preoccupation with mental health be part of the problem?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Could our preoccupation with mental health be part of the problem? In some ways, encouraging people to think and talk more about their mental health is a good thing. There is now less stigma around mental illness, and more people who can benefit from professional help are getting it. But there is also reason to […] The post Could our preoccupation with mental health be part of the problem? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-27T07:38:40.000Z",
+      "articleId": "2ff45791661c7dee"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
+      "title": "Christopher Nolan Has Rebuked the Spirit of the Age",
+      "url": "https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
+      "publishedAt": "2026-07-27T04:59:14.000Z",
+      "articleId": "3bd7fea941ce38e8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decline-in-the-transmission-of-scientific-ideas",
       "title": "The Decline in the Transmission of Scientific Ideas",
@@ -15,17 +37,6 @@
       "summary": "We document that the diffusion of new scientific ideas beyond their field of origin has declined substantially over the past four decades. This contraction is closely linked to increasing specialization in scientific language: research that employs more technical terminology tends to be adopted less broadly. We develop a theory of scientific discovery in which the […] The post The Decline in the Transmission of Scientific Ideas appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-27T04:18:41.000Z",
       "articleId": "ca765e9b87d82ad3"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
-      "title": "Why Odysseus Turned on the Trojan Horse",
-      "url": "https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
-      "publishedAt": "2026-07-27T01:31:07.000Z",
-      "articleId": "3bd7fea941ce38e8"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
@@ -317,17 +328,6 @@
       "summary": "IJ: On Wednesday, the United States District Court for the District of Columbia struck down a D.C. law that barred therapists from other jurisdictions from doing online teletherapy visits with clients in D.C. The decision comes nearly six years after Virginia-based counselor Elizabeth Brokamp teamed up with the Institute for Justice (IJ) to file a lawsuit arguing the law violated the First Amendment. “This decision is […] The post Talk Therapy is Speech appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-24T11:17:27.000Z",
       "articleId": "910f98d302227414"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html?utm_source=rss&utm_medium=rss&utm_campaign=european-fact-of-the-day-again",
-      "title": "European Fact of the Day, Again",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This year, like last year, “the European Union will again make more money from fining US tech companies Than from the total tax income from Europe’s own public tech companies!” The post European Fact of the Day, Again appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-24T11:15:10.000Z",
-      "articleId": "2f9101fe5d163626"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/great-speeches-need-good-ideas",
@@ -1736,11 +1736,10 @@
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
-    "articleId": "f77e88a613373c7b",
-    "stale": true
+    "articleId": "f77e88a613373c7b"
   },
-  "weatherGeneratedAt": "2026-07-27T04:49:42.563Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-27T08:44:17.549Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
