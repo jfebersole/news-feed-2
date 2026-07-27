@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-07-27T08:44:17.549Z",
-  "fetchedAt": "2026-07-27T08:44:17.541Z",
+  "generatedAt": "2026-07-27T12:34:57.185Z",
+  "fetchedAt": "2026-07-27T12:34:57.180Z",
   "sourceCount": 23,
-  "itemCount": 153,
+  "itemCount": 152,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
+      "title": "Historical accuracy is a surprisingly modern idea",
+      "url": "https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "“The Odyssey” itself is deeply anachronistic.",
+      "publishedAt": "2026-07-27T10:02:20.000Z",
+      "articleId": "a0b4146ef762bbe5"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/vacation-week-of-july-27/",
+      "title": "Vacation: Week of July 27",
+      "url": "https://stratechery.com/2026/vacation-week-of-july-27/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3. Sharp Tech, and Greatest of All Talk will also return the week of August 3. Sharp China and Asianometry will continue to publish, and there will be one episode of Dithering next week. The […]",
+      "publishedAt": "2026-07-27T10:00:00.000Z",
+      "articleId": "939d95c14ad31581"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=could-our-preoccupation-with-mental-health-be-part-of-the-problem",
       "title": "Could our preoccupation with mental health be part of the problem?",
@@ -962,18 +985,6 @@
       "articleId": "9a74326041fc6222"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
-      "title": "Is there any “oligarchy” to fight?",
-      "url": "https://www.slowboring.com/p/is-there-any-oligarchy-to-fight",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "I don’t think a small cabal of right-wing rich people controls American politics.",
-      "publishedAt": "2026-07-16T09:02:12.000Z",
-      "articleId": "7e41184e0d01eae0"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
       "title": "Six Slightly Skew Boogeymen",
       "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
@@ -1287,17 +1298,6 @@
       "summary": "What kind of impression has rookie Arvell Reese made on his new teammates? With Dexter Lawrence traded, where do things stand at DT for NY?",
       "publishedAt": "2026-07-09T10:00:54.000Z",
       "articleId": "77289302b361d5b8"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
-      "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
-      "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "articleId": "e9717fb151f9a02b"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-july-2026",
@@ -1710,18 +1710,6 @@
       "summary": "Another team just ended a half-century curse by becoming more than the sum of its parts. England's always had the talent — can it finally do the same?",
       "publishedAt": "2026-06-27T20:53:51.000Z",
       "articleId": "d0e85bf9389d84bd"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-062726",
-      "title": "Reading List 06/27/26",
-      "url": "https://www.construction-physics.com/p/reading-list-062726",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Trump refuses to sign a housing bill, the high cost of US-made doors, slow trucking, why we stopped making new land, and more.",
-      "publishedAt": "2026-06-27T12:02:02.000Z",
-      "articleId": "034159bf61d65215"
     }
   ],
   "weather": {
@@ -1736,10 +1724,11 @@
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Comfortable temperatures, manageable humidity, and substantial sunshine make for a great late-July day. Enjoy!",
-    "articleId": "f77e88a613373c7b"
+    "articleId": "f77e88a613373c7b",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-27T08:44:17.549Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-27T12:34:57.185Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
