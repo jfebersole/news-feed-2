@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-27T23:17:56.993Z",
-  "fetchedAt": "2026-07-27T23:17:56.988Z",
+  "generatedAt": "2026-07-28T03:30:08.931Z",
+  "fetchedAt": "2026-07-28T03:30:08.925Z",
   "sourceCount": 23,
-  "itemCount": 150,
+  "itemCount": 151,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
+      "title": "Roundup #85: Most policy is also industrial policy",
+      "url": "https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Trump and science; U.S. national debt; Europe and software; America and trains; China and metal refining; Indian women; Murder",
+      "publishedAt": "2026-07-28T00:33:43.000Z",
+      "articleId": "a0f4808f248e96e2"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-midterms-100-days-out",
       "title": "The midterms, 100 days out",
@@ -36,7 +47,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
-      "publishedAt": "2026-07-27T18:36:26.000Z",
+      "publishedAt": "2026-07-27T18:36:27.000Z",
       "articleId": "3bd7fea941ce38e8"
     },
     {
@@ -1692,19 +1703,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
-    "title": "DC-area forecast: Isolated storm into tonight. Humid tomorrow with storms likely.",
+    "title": "DC-area forecast: Humid tomorrow with showers and storms likely",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Moderately muggy 80s this evening with an isolated shower or storm possible. Better rain odds toward dawn.",
+    "summary": "HAPPENING NOW: Moderately muggy 70s this evening. Shower chances increase toward dawn.",
     "publishedAt": "2026-07-27T09:00:51.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "We've seen hotter and muggier days, but",
     "articleId": "f71236746e421adb"
   },
-  "weatherGeneratedAt": "2026-07-27T23:17:56.993Z",
+  "weatherGeneratedAt": "2026-07-28T03:30:08.931Z",
   "weatherError": null,
   "sources": [
     {
@@ -1862,10 +1873,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
