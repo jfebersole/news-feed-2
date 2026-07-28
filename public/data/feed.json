@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-28T15:30:07.770Z",
-  "fetchedAt": "2026-07-28T15:30:07.764Z",
+  "generatedAt": "2026-07-28T17:43:56.106Z",
+  "fetchedAt": "2026-07-28T17:43:56.095Z",
   "sourceCount": 23,
-  "itemCount": 154,
+  "itemCount": 152,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The economics of personal holding companies, including in the Nordics. 2. Jongkuch Mach is a good name for a very tall basketball player. 3. Can AI predict who will be the most important philosopher in 2046? For economics, the top pick of GPT Pro is Ludwig Straub, second choice is Stefanie Stantcheva. I like […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-28T16:27:44.000Z",
+      "articleId": "56aa6a87464e6aa9"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
       "title": "Peaked at 200: An Album a Day",
@@ -339,17 +350,6 @@
       "summary": "The subsection of the Georgi Gospodinov novel runs like this: The Shortest Novel About Odysseus After His Return Home One night, now old and flabby and starting to forget, he leaves his home secretly. He’s sick of everything, so he heads back one last time to see the places, women, and wonders he had once […] The post Odysseus notes appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-25T18:34:27.000Z",
       "articleId": "9f2bdf63ebacc835"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-571",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The 1991 Project’s oral history collection (led by Shreyas Narla and Shruti) with ~50 hours of interviews with policy reformers and witnesses to India’s market liberalization, is now available. 2. Mini Cities. 3. The new Claude, on Mondrian. 4. More on cybersecurity and cyberdefense. And Simon Willison on The Incident. And early AI fears were not about LLMs, […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-25T16:38:10.000Z",
-      "articleId": "7ff8688820c73921"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-072526",
@@ -1710,29 +1710,6 @@
       "summary": "Maybe both.",
       "publishedAt": "2026-06-29T09:16:02.000Z",
       "articleId": "b9bc488c36d86fa2"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/europe-needs-air-conditioning",
-      "title": "Europe Needs Air Conditioning",
-      "url": "https://www.joshbarro.com/p/europe-needs-air-conditioning",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Sorry if I'm boring any Europeans with this observation",
-      "publishedAt": "2026-06-28T17:17:23.000Z",
-      "articleId": "7ecb33317eb910ff"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-world-cup-knockout-round-is-here",
-      "title": "The World Cup knockout round is here. Which team got the luckiest draw?",
-      "url": "https://www.natesilver.net/p/the-world-cup-knockout-round-is-here",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "It's not the United States — though the USMNT's path is pretty favorable, too.",
-      "publishedAt": "2026-06-28T16:58:35.000Z",
-      "articleId": "5c2a0b451d439a6f"
     }
   ],
   "weather": {
@@ -1742,14 +1719,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A few light showers possible through early afternoon. Highs head for the 80s with scattered showers and storms likely midafternoon into evening. Some could be strong to severe, though that may depend on how much sunshine we see.",
+    "summary": "HAPPENING NOW: Partly sunny as afternoon highs head for the 80s. Scattered showers and storms are likely midafternoon into evening, especially 3 to 8 p.m. Some could be strong to severe, though that may depend on how much sunshine we see.",
     "publishedAt": "2026-07-28T09:00:40.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
     "articleId": "4d72fb2aea651b91"
   },
-  "weatherGeneratedAt": "2026-07-28T15:30:07.770Z",
+  "weatherGeneratedAt": "2026-07-28T17:43:56.106Z",
   "weatherError": null,
   "sources": [
     {
@@ -1899,10 +1876,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
