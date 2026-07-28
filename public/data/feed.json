@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-28T06:37:33.249Z",
-  "fetchedAt": "2026-07-28T06:37:33.246Z",
+  "generatedAt": "2026-07-28T09:43:12.517Z",
+  "fetchedAt": "2026-07-28T09:43:12.512Z",
   "sourceCount": 23,
   "itemCount": 150,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-aea-presidential-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-aea-presidential-election",
+      "title": "The AEA presidential election",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-aea-presidential-election.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "AEA is the American Economics Association, and a new president is needed, here is the candidate and likely winner: PINELOPI (PENNY) KOUJIANOU GOLDBERG, William Nordhaus Professor of Economics and Global Affairs, Yale University. Statement of Purpose: I am honored to stand for President of the American Economic Association. Economics has long contributed powerful tools to understand […] The post The AEA presidential election appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-28T06:44:56.000Z",
+      "articleId": "659208f1cac1b6ce"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-confucian-fertility-paradox.html?utm_source=rss&utm_medium=rss&utm_campaign=the-confucian-fertility-paradox",
       "title": "The Confucian fertility paradox",
@@ -306,17 +317,6 @@
       "summary": "To study whether and how academics respond to political pressure, we exploit a natural experiment: the publication in early 2025 of a “blacklist” of words flagged by the U.S. government. We find that the release of this list led to a sharp reduction in the use of these flagged words among economists at universities that […] The post A natural experiment in economics appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-25T05:02:26.000Z",
       "articleId": "f36ba326dd6e0f4d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything",
-      "title": "Crypto markets in everything? (moo)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows’ tokens for trade on the country’s B3 national stock exchange. They generated nearly $20,000 in credit backed by their cattle, signaling the potential of tokenizing RWAs as a financing tool. The […] The post Crypto markets in everything? (moo) appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-25T04:40:55.000Z",
-      "articleId": "c806b14833a4104f"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
@@ -1691,20 +1691,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
-    "title": "DC-area forecast: Humid tomorrow with showers and storms likely",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-stormier-start-to-the-week-as-humidity-rises/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-showers-and-storms-likely-today-some-could-be-strong-to-severe/",
+    "title": "DC-area forecast: Showers and storms likely today; some could be strong to severe",
+    "url": "https://www.capitalweather.com/dc-area-forecast-showers-and-storms-likely-today-some-could-be-strong-to-severe/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Moderately muggy 70s this evening. Shower chances increase toward dawn.",
-    "publishedAt": "2026-07-27T09:00:51.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "We've seen hotter and muggier days, but",
-    "articleId": "f71236746e421adb"
+    "summary": "HAPPENING NOW: Isolated to scattered showers and a storm possible this morning. Highs head for the 80s with scattered storms likely this afternoon into evening, some possibly severe with damaging winds and hail.",
+    "publishedAt": "2026-07-28T09:00:40.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
+    "articleId": "4d72fb2aea651b91"
   },
-  "weatherGeneratedAt": "2026-07-28T06:37:33.249Z",
+  "weatherGeneratedAt": "2026-07-28T09:43:12.517Z",
   "weatherError": null,
   "sources": [
     {
@@ -1782,10 +1782,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
