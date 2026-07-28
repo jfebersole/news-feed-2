@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-07-28T09:43:12.517Z",
-  "fetchedAt": "2026-07-28T09:43:12.512Z",
+  "generatedAt": "2026-07-28T12:09:13.310Z",
+  "fetchedAt": "2026-07-28T12:09:13.307Z",
   "sourceCount": 23,
-  "itemCount": 150,
-  "totalItemCount": 780,
+  "itemCount": 154,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7474234/2026/07/28/new-york-giants-training-camp-preview-malik-nabers/",
+      "title": "Giants training camp preview: Why N.Y. decided to keep Malik Nabers off PUP list",
+      "url": "https://www.nytimes.com/athletic/7474234/2026/07/28/new-york-giants-training-camp-preview-malik-nabers/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Though Nabers avoided the PUP list, there's no guarantee the star wide receiver will be ready for Week 1.",
+      "publishedAt": "2026-07-28T11:36:35.000Z",
+      "articleId": "2f8d00a95a0321fc"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html?utm_source=rss&utm_medium=rss&utm_campaign=the-apples-and-oranges-tribunal",
+      "title": "The Apples and Oranges Tribunal",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Suppose that apples sell for more than oranges and Parliament in it’s wisdom decides that, at last, apples and oranges must be compared. Not by shoppers — shoppers are biased, they merely reveal what they are willing to pay — but by a tribunal, which will determine whether apples and oranges are of truly equal […] The post The Apples and Oranges Tribunal appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-28T11:13:43.000Z",
+      "articleId": "8e6f0fea8d86f357"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
+      "title": "Psychology Research Is Mostly Fine",
+      "url": "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-28T11:05:46.000Z",
+      "articleId": "7aab3aa38597f0e6"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-great-idea-that-everyone-hates",
+      "title": "A great idea that everyone hates",
+      "url": "https://www.slowboring.com/p/a-great-idea-that-everyone-hates",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A simple way to bring down utility bills is to charge what the electricity actually costs",
+      "publishedAt": "2026-07-28T10:03:03.000Z",
+      "articleId": "6e27ed2e5775b54c"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/almost-everybody-in-baseball-is-still",
+      "title": "Almost Everybody in Baseball Is Still a Buyer",
+      "url": "https://neilpaine.substack.com/p/almost-everybody-in-baseball-is-still",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Or at least, they can make the case. How do you separate trade-deadline contenders from pretenders when 80% of MLB is within 5 games of a playoff spot?",
+      "publishedAt": "2026-07-28T09:01:55.000Z",
+      "articleId": "e7d9d3aae3e1325f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-aea-presidential-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-aea-presidential-election",
       "title": "The AEA presidential election",
@@ -306,17 +362,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-07-25T09:00:58.000Z",
       "articleId": "a9ee7a82c0b9a9f9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics",
-      "title": "A natural experiment in economics",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "To study whether and how academics respond to political pressure, we exploit a natural experiment: the publication in early 2025 of a “blacklist” of words flagged by the U.S. government. We find that the release of this list led to a sharp reduction in the use of these flagged words among economists at universities that […] The post A natural experiment in economics appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-25T05:02:26.000Z",
-      "articleId": "f36ba326dd6e0f4d"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
@@ -1704,7 +1749,7 @@
     "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
     "articleId": "4d72fb2aea651b91"
   },
-  "weatherGeneratedAt": "2026-07-28T09:43:12.517Z",
+  "weatherGeneratedAt": "2026-07-28T12:09:13.310Z",
   "weatherError": null,
   "sources": [
     {
@@ -1727,7 +1772,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1782,10 +1827,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -1807,7 +1852,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
