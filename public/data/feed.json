@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-28T21:18:32.299Z",
-  "fetchedAt": "2026-07-28T21:18:32.293Z",
+  "generatedAt": "2026-07-28T23:13:40.153Z",
+  "fetchedAt": "2026-07-28T23:13:40.150Z",
   "sourceCount": 23,
-  "itemCount": 152,
-  "totalItemCount": 783,
+  "itemCount": 151,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-to-ross-d-and-others",
+      "title": "Congratulations to Ross D. and others",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Ross Douthat, an opinion columnist at The New York Times, is leaving to join the CBS News program “60 Minutes” as a correspondent, the show’s executive producer said in a memo to staff on Tuesday. Mr. Douthat is among a group of journalists joining for the show’s 59th season, which will premiere on Sept. 13. […] The post Congratulations to Ross D. and others appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-28T21:34:00.000Z",
+      "articleId": "db7fbc157a8b9737"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
       "title": "Money Stuff: Elevators Won’t Repair Themselves",
@@ -350,17 +361,6 @@
       "summary": "My interview with Cate Hall about her new book, \"You Can Just Do Things.\"",
       "publishedAt": "2026-07-25T19:00:14.000Z",
       "articleId": "98f104908c10f633"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/odysseus-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=odysseus-notes",
-      "title": "Odysseus notes",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/odysseus-notes.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The subsection of the Georgi Gospodinov novel runs like this: The Shortest Novel About Odysseus After His Return Home One night, now old and flabby and starting to forget, he leaves his home secretly. He’s sick of everything, so he heads back one last time to see the places, women, and wonders he had once […] The post Odysseus notes appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-25T18:34:27.000Z",
-      "articleId": "9f2bdf63ebacc835"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-072526",
@@ -962,17 +962,6 @@
       "summary": "Finalist #2 in the Book Review Contest",
       "publishedAt": "2026-07-17T15:22:53.000Z",
       "articleId": "c0d8b4fed2186233"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-data-center-backlash-isnt-just",
-      "title": "The data center backlash isn’t just NIMBYism",
-      "url": "https://www.slowboring.com/p/the-data-center-backlash-isnt-just",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus the perils of energy fandom and some hot takes on Jaylen Brown",
-      "publishedAt": "2026-07-17T10:00:37.000Z",
-      "articleId": "7ea1b63d1799d622"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
@@ -1727,7 +1716,7 @@
     "articleId": "4d72fb2aea651b91",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-07-28T21:18:32.299Z",
+  "weatherGeneratedAt": "2026-07-28T23:13:40.153Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -1830,7 +1819,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
