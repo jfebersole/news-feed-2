@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-28T12:09:13.310Z",
-  "fetchedAt": "2026-07-28T12:09:13.307Z",
+  "generatedAt": "2026-07-28T15:30:07.770Z",
+  "fetchedAt": "2026-07-28T15:30:07.764Z",
   "sourceCount": 23,
   "itemCount": 154,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
+      "title": "Peaked at 200: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Otis Redding, Roger Miller, Burna Boy, and others",
+      "publishedAt": "2026-07-28T13:30:43.000Z",
+      "articleId": "f4e086855b6d164c"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7474234/2026/07/28/new-york-giants-training-camp-preview-malik-nabers/",
       "title": "Giants training camp preview: Why N.Y. decided to keep Malik Nabers off PUP list",
@@ -1722,17 +1733,6 @@
       "summary": "It's not the United States — though the USMNT's path is pretty favorable, too.",
       "publishedAt": "2026-06-28T16:58:35.000Z",
       "articleId": "5c2a0b451d439a6f"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/who-really-invented-the-concept-album",
-      "title": "Who Really Invented The Concept Album?",
-      "url": "https://www.cantgetmuchhigher.com/p/who-really-invented-the-concept-album",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "(hint: it wasn't The Beatles)",
-      "publishedAt": "2026-06-28T13:31:25.000Z",
-      "articleId": "24376fda7b3477bb"
     }
   ],
   "weather": {
@@ -1742,14 +1742,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Isolated to scattered showers and a storm possible this morning. Highs head for the 80s with scattered storms likely this afternoon into evening, some possibly severe with damaging winds and hail.",
+    "summary": "HAPPENING NOW: A few light showers possible through early afternoon. Highs head for the 80s with scattered showers and storms likely midafternoon into evening. Some could be strong to severe, though that may depend on how much sunshine we see.",
     "publishedAt": "2026-07-28T09:00:40.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
     "articleId": "4d72fb2aea651b91"
   },
-  "weatherGeneratedAt": "2026-07-28T12:09:13.310Z",
+  "weatherGeneratedAt": "2026-07-28T15:30:07.770Z",
   "weatherError": null,
   "sources": [
     {
@@ -1899,10 +1899,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
