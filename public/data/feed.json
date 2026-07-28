@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-28T17:43:56.106Z",
-  "fetchedAt": "2026-07-28T17:43:56.095Z",
+  "generatedAt": "2026-07-28T19:48:38.819Z",
+  "fetchedAt": "2026-07-28T19:48:38.816Z",
   "sourceCount": 23,
   "itemCount": 152,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
+      "title": "Money Stuff: Elevators Won’t Repair Themselves",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Independent sponsors My half-joking potted history of business is that people used to go to business school to learn how to run businesses, and then they would graduate and run businesses. They’d take over their family business back home, or climb the ranks at a big company. This was good, because it was good for businesses to be run well by smart, hard-working professionals who were familiar with best practices for management and capital allocation. And then finance became a more important part of the economy, and people who graduated from business schools decided to go into finance instead. Finance is a sort of meta-business, a layer of abstraction on top of regular businesses, so it creates leverage: Instead of working at a company and figuring out whether to build a factory or how to price a product, you could work at a hedge fund and allocate capital to dozens of companies that are good at building factories or pricing products. Over time, this makes businesses better and more efficient: You allocate capital to the good ones, the bad ones get starved of capital and go out of business, and we asymptotically approach nirvana. On the other hand not everyone can be a hedge fund manager. Someone has to build the factories and price the products. You can’t tilt too far in the direction of finance, or else everyone who is good at business will spend their days allocating capital to people who are bad at business. One solution to this problem is of the form “actually being good at business is not especially correlated with graduating from a top business school, and people who are good at building factories should build factories while people who are good at trading stocks should trade stocks,” but that is boring. Another, funnier solution is to construct a financial system that: Selects the “best” people in some sort of brutal meritocratic competition, Funnels them into prestigious finance jobs, and Makes it so that those prestigious finance jobs consist of running regular boring companies. “I have arrived at the pinnacle of my career in high finance,” you think, as you sit down to optimize the pricing of your company’s pest-control services. We talk about this all the time , because this model loosely describes aspects of the modern private equity industry. “Private equity” is an indisputably financial job, and one that you generally get by graduating from a prestigious college and then working at an investment bank for a few years. And private equity funds are mostly in the business of raising money from investors to allocate capital to businesses. But they are also in the business of business: The model is not “give money to good companies” but rather “use money to take over companies that could be run better, and then run them better.” They are...",
+      "publishedAt": "2026-07-28T18:08:02.192Z",
+      "articleId": "3447a6faea6378ff"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
       "title": "Tuesday assorted links",
@@ -1008,17 +1019,6 @@
       "articleId": "1a9bb1c18627fdef"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/0ic8qcs0vlb2h53lhor6.html",
-      "title": "Money Stuff: Shorts Will Sell You SpaceX",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/0ic8qcs0vlb2h53lhor6.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "SpaceX shorts Right now, about 5% of SpaceX’s stock is available to trade, just the 639 million shares that it sold in its initial public offering last month. By the middle of next month, about 12% of SpaceX’s stock (about 1.58 billion shares) will be available to trade, as some pre-IPO SpaceX shareholders are partially released from lockup agreements that currently prevent them from selling. [1] If you want to buy SpaceX stock now, it is fairly scarce; if you want to buy SpaceX stock in a month, it will be much less scarce. [2] This is an annoying situation. Perhaps you want to buy SpaceX stock now, because you are thinking about it and it’s in the news and stuff. “Love those rockets and data centers,” you think. You don’t necessarily have a strong view on price: Whatever the market thinks SpaceX is worth, you’ll pay; you’re just happy to be along for the ride. But this thing about temporary scarcity is annoying. Why would you compete to buy the few shares that are available now, when so many more shares will be available in a month? The market price, you might worry, reflects lots of demand but not the supply that is predictably and quickly coming. Someone should intermediate the trade for you. Like, this would be a useful service for someone to provide to the market: Buy shares from the people who will sell them in a month when the lockup expires, and then Sell them to you, now. You don’t want to buy the scarce shares that are available now; you want to buy the plentiful shares that will be available soon. But you want to buy them now. You know they are coming. Someone should do a small bit of predictable time travel to go fetch those shares from the plentiful future and deliver them to you here in the scarce present. We talked about this yesterday , and I drew a parallel to the index rebalancing trades that happened last week. Three weeks ago, 0% of SpaceX’s public float (the 639 million publicly traded shares) was owned by Nasdaq 100 index funds, because SpaceX was not in the Nasdaq 100. But everyone knew that, at 4 p.m. last Monday, July 6, it would be in the Nasdaq 100, and Nasdaq 100-indexed investors would have to buy something like 10% of the float right at that moment. [3] Annoying situation! Maybe you wanted to sell some stock on June 29, but you knew there would be a ton of demand July 6. Someone should intermediate the trade between you and the index funds: Somebody should do a small bit of very predictable time travel to buy the shares from you on June 29, sell them to the index funds on July 6, and pay you a price (on June 29) that reflects that index-fund demand (on July 6). Somebody does. That trade is called “ the index rebalance trade ,” big hedge funds do it, and they make a lot of money doing it, though it is risky. It is a...",
-      "publishedAt": "2026-07-16T17:54:54.458Z",
-      "articleId": "20739315c1d33dae"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-intergenerational-duet",
       "title": "The Intergenerational Duet",
       "url": "https://www.cantgetmuchhigher.com/p/the-intergenerational-duet",
@@ -1724,10 +1724,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
-    "articleId": "4d72fb2aea651b91"
+    "articleId": "4d72fb2aea651b91",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-07-28T17:43:56.106Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-07-28T19:48:38.819Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
