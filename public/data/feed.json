@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-28T03:30:08.931Z",
-  "fetchedAt": "2026-07-28T03:30:08.925Z",
+  "generatedAt": "2026-07-28T06:37:33.249Z",
+  "fetchedAt": "2026-07-28T06:37:33.246Z",
   "sourceCount": 23,
-  "itemCount": 151,
+  "itemCount": 150,
   "totalItemCount": 780,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-confucian-fertility-paradox.html?utm_source=rss&utm_medium=rss&utm_campaign=the-confucian-fertility-paradox",
+      "title": "The Confucian fertility paradox",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-confucian-fertility-paradox.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Total fertility rates in East Asia have fallen to levels without historical precedent, even though the region’s Confucian heritage long placed extraordinary emphasis on family continuity and large families. We argue that this “Confucian Fertility Paradox” dissolves once we separate two strands of the tradition and recognize that modernization affected them very differently. The pro-natal […] The post The Confucian fertility paradox appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-28T04:56:44.000Z",
+      "articleId": "189d9b66bcefc98d"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
       "title": "Roundup #85: Most policy is also industrial policy",
@@ -329,17 +340,6 @@
       "summary": "— Homer, probably",
       "publishedAt": "2026-07-24T22:00:53.000Z",
       "articleId": "a9ff818d4a5711dc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decision-the-sequel",
-      "title": "The Decision, the sequel",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decision-the-sequel.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Imagine your career were coming to a close, how would you want it to end? By earning an especially large sum of money? Publishing a final wonderful paper? With an amazing act of mentorship? When it comes to Lebron, had he wanted to finish his career with the guys he enjoys playing with the most, […] The post The Decision, the sequel appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-24T19:34:26.000Z",
-      "articleId": "fb205833b72e9195"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-copium-wars/",
@@ -1688,17 +1688,6 @@
       "summary": "(hint: it wasn't The Beatles)",
       "publishedAt": "2026-06-28T13:31:25.000Z",
       "articleId": "24376fda7b3477bb"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/europes-resistance-to-ac-is-driving",
-      "title": "Europe's resistance to AC is driving it insane",
-      "url": "https://www.noahpinion.blog/p/europes-resistance-to-ac-is-driving",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A timely repost, with some updates.",
-      "publishedAt": "2026-06-28T06:26:35.000Z",
-      "articleId": "70e51e98e5877a3b"
     }
   ],
   "weather": {
@@ -1715,7 +1704,7 @@
     "dailyDigitSummary": "We've seen hotter and muggier days, but",
     "articleId": "f71236746e421adb"
   },
-  "weatherGeneratedAt": "2026-07-28T03:30:08.931Z",
+  "weatherGeneratedAt": "2026-07-28T06:37:33.249Z",
   "weatherError": null,
   "sources": [
     {
@@ -1873,10 +1862,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
