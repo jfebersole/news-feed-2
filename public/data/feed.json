@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T12:16:06.147Z",
-  "fetchedAt": "2026-07-29T12:16:06.142Z",
+  "generatedAt": "2026-07-29T15:17:38.116Z",
+  "fetchedAt": "2026-07-29T15:17:38.112Z",
   "sourceCount": 23,
-  "itemCount": 150,
-  "totalItemCount": 782,
+  "itemCount": 148,
+  "totalItemCount": 781,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/why-free-markets-beat-capitalism",
@@ -15,6 +15,17 @@
       "summary": "Freedom is good; greed is not",
       "publishedAt": "2026-07-29T10:02:17.000Z",
       "articleId": "2f0d5d95d86917e6"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/in-mlbs-year-of-incomplete-contenders",
+      "title": "In MLB's Year of Incomplete Contenders, the Nationals Are the Most Lopsided of All",
+      "url": "https://neilpaine.substack.com/p/in-mlbs-year-of-incomplete-contenders",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Washington's explosive offense and terrible run-prevention make them the most extreme example in a playoff race full of teams who excel at one thing and struggle at another.",
+      "publishedAt": "2026-07-29T09:00:29.000Z",
+      "articleId": "294159dd25cfd354"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
@@ -386,17 +397,6 @@
       "articleId": "a66a6b5cbfff3f37"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-20-24-2026",
-      "title": "The Week That Was (July 20-24, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-20-24-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-07-25T09:00:58.000Z",
-      "articleId": "a9ee7a82c0b9a9f9"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
       "title": "Money Stuff: Sports Happen So Much",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
@@ -475,18 +475,6 @@
       "summary": "Plus LeBron James, the pundit’s fallacy, and alternate Robert E. Lee",
       "publishedAt": "2026-07-24T10:01:44.000Z",
       "articleId": "ed999563587ecff3"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/how-do-we-measure-a-basketball-superstar",
-      "title": "How Do We Measure a Basketball Superstar?",
-      "url": "https://neilpaine.substack.com/p/how-do-we-measure-a-basketball-superstar",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Caitlin Clark is the latest big name to make us revisit an age-old hoops question.",
-      "publishedAt": "2026-07-24T09:01:24.000Z",
-      "articleId": "691ceebee650c7d5"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
@@ -1675,18 +1663,6 @@
       "summary": "A shift to online polling and undersampling of Republicans are skewing America’s most-cited measure of consumer sentiment.",
       "publishedAt": "2026-06-29T17:29:01.000Z",
       "articleId": "2f0ab02cf762ca12"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
-      "title": "The US now has a de facto model licensing system",
-      "url": "https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "OpenAI’s latest model, GPT-5.6, is waiting for government approval.",
-      "publishedAt": "2026-06-29T14:03:17.000Z",
-      "articleId": "5aea296517fd1a39"
     }
   ],
   "weather": {
@@ -1696,14 +1672,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Not bad at all! Plenty of sun today as morning 60s and 70s rise toward afternoon highs in the mid-80s, with slowly decreasing humidity.",
+    "summary": "HAPPENING NOW: Not bad at all! Plenty of sun today and a nice breeze as afternoon highs rise to the mid-80s, with decreasing humidity.",
     "publishedAt": "2026-07-29T09:00:47.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T12:16:06.147Z",
+  "weatherGeneratedAt": "2026-07-29T15:17:38.116Z",
   "weatherError": null,
   "sources": [
     {
@@ -1782,7 +1758,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1853,26 +1829,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502"
     },
     {
       "name": "Can't Get Much Higher",
