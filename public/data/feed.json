@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-07-29T21:09:51.070Z",
-  "fetchedAt": "2026-07-29T21:09:51.063Z",
+  "generatedAt": "2026-07-29T23:10:53.001Z",
+  "fetchedAt": "2026-07-29T23:10:52.992Z",
   "sourceCount": 23,
-  "itemCount": 147,
-  "totalItemCount": 782,
+  "itemCount": 148,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/one-block-two-fights",
+      "title": "One block, two fights",
+      "url": "https://www.slowboring.com/p/one-block-two-fights",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "In San Francisco’s Marina District, two developments are facing very different public responses. Plus, there are some promising affordability solutions this week.",
+      "publishedAt": "2026-07-29T22:01:55.000Z",
+      "articleId": "6c15ede13ed18d17"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html?utm_source=rss&utm_medium=rss&utm_campaign=reforms-to-the-phd",
+      "title": "Reforms to the PhD?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Trump administration is pairing top universities with corporate giants in an effort to steer traditional PhD programs toward national scientific priorities. Today, the White House and National Science Foundation are announcing a $47 million pilot program to fund around 250 four-year doctorates in technical fields, starting this fall. Students in the pilot will be […] The post Reforms to the PhD? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-29T21:43:14.000Z",
+      "articleId": "7ef67ce5a570a56d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jared-diamond-2",
       "title": "What should I ask Jared Diamond?",
@@ -360,17 +383,6 @@
       "summary": "Despite rapid inflation in childcare and tuition prices, the goods-and-services CCI closely tracks adult prices, as these increases are offset by children’s lower exposure to shelter and by slower price growth elsewhere in the child basket. Households devote substantially more real resources to children than they did in 1990, but this increase parallels the growth […] The post In relative terms, maybe children do not cost more than before? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-26T23:16:14.000Z",
       "articleId": "2b023d024198b5ef"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html?utm_source=rss&utm_medium=rss&utm_campaign=further-progress-in-south-america",
-      "title": "Further progress in South America",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The share of people who are hungry has been decreasing faster in South America than anywhere else in the world. It is down by one-third since 2020, according to a report published on July 21st by the UN’s Food and Agriculture Organisation (FAO). Just 3.5% of people in the region consume insufficient calories, the lowest […] The post Further progress in South America appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-26T19:10:05.000Z",
-      "articleId": "dbdac24c0867443c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a90",
@@ -1662,14 +1674,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds diminish this evening with temperatures falling through the 80s and into the 70s. Breezy, with lower humidity 60s for lows overnight.",
+    "summary": "HAPPENING NOW: Clouds diminish this evening with temperatures falling into the 70s. Breezy, with lower humidity 60s for lows overnight.",
     "publishedAt": "2026-07-29T09:00:47.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T21:09:51.070Z",
+  "weatherGeneratedAt": "2026-07-29T23:10:53.001Z",
   "weatherError": null,
   "sources": [
     {
@@ -1747,10 +1759,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
@@ -1772,7 +1784,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1819,10 +1831,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
