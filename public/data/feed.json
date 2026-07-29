@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T23:13:40.153Z",
-  "fetchedAt": "2026-07-28T23:13:40.150Z",
+  "generatedAt": "2026-07-29T03:33:04.226Z",
+  "fetchedAt": "2026-07-29T03:33:04.220Z",
   "sourceCount": 23,
   "itemCount": 151,
   "totalItemCount": 782,
@@ -1703,21 +1703,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-showers-and-storms-likely-today-some-could-be-strong-to-severe/",
-    "title": "DC-area forecast: Showers and storms likely today; some could be strong to severe",
+    "title": "DC-area forecast: After storms, improving weather through Friday",
     "url": "https://www.capitalweather.com/dc-area-forecast-showers-and-storms-likely-today-some-could-be-strong-to-severe/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny as afternoon highs head for the 80s. Scattered showers and storms are likely midafternoon into evening, especially 3 to 8 p.m. Some could be strong to severe, though that may depend on how much sunshine we see.",
+    "summary": "HAPPENING NOW: Just a spotty lingering shower or two this evening with temperatures near 70 in the wake of the strong to severe storms. Partly cloudy overnight with lows in the mid-60s to near 70.",
     "publishedAt": "2026-07-28T09:00:40.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
-    "articleId": "4d72fb2aea651b91",
-    "stale": true
+    "articleId": "4d72fb2aea651b91"
   },
-  "weatherGeneratedAt": "2026-07-28T23:13:40.153Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-07-29T03:33:04.226Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1794,10 +1793,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
@@ -1874,18 +1873,18 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "failed",
       "itemCount": 0,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502"
     },
     {
       "name": "Can't Get Much Higher",
