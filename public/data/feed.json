@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-29T06:42:15.500Z",
-  "fetchedAt": "2026-07-29T06:42:15.496Z",
+  "generatedAt": "2026-07-29T09:46:41.308Z",
+  "fetchedAt": "2026-07-29T09:46:41.305Z",
   "sourceCount": 23,
-  "itemCount": 151,
-  "totalItemCount": 782,
+  "itemCount": 150,
+  "totalItemCount": 772,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
+      "title": "Data on Chinese innovation",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "China’s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies identified by the U.S. Department of Defense. Several surprising patterns emerge […] The post Data on Chinese innovation appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-29T06:57:55.000Z",
+      "articleId": "c58d84d63b89c5c1"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=you-will-learn-to-love-ai-writing",
       "title": "You will learn to love AI writing",
@@ -339,17 +350,6 @@
       "summary": "A lot, actually. But it won't look quite like what humans do with our intelligence.",
       "publishedAt": "2026-07-26T07:56:22.000Z",
       "articleId": "42d9f1694116b0ec"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies",
-      "title": "The demand for human enhancement technologies",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "When a new technology promises large private benefits but may impose social costs that markets do not price, demand need not reveal how citizens want it governed. We examine this using a nationally representative U.S. survey experiment (N=5,556) on human enhancement technologies (HET). The experiment randomizes benefit domain, mechanism, heritability, purpose, and risk across vignettes; […] The post The demand for human enhancement technologies appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-26T07:12:48.000Z",
-      "articleId": "c09ab022f715310e"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
@@ -1688,34 +1688,23 @@
       "summary": "OpenAI’s latest model, GPT-5.6, is waiting for government approval.",
       "publishedAt": "2026-06-29T14:03:17.000Z",
       "articleId": "5aea296517fd1a39"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/will-ai-make-companies-outsource",
-      "title": "Will AI make companies outsource more, or less?",
-      "url": "https://www.noahpinion.blog/p/will-ai-make-companies-outsource",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Maybe both.",
-      "publishedAt": "2026-06-29T09:16:02.000Z",
-      "articleId": "b9bc488c36d86fa2"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-showers-and-storms-likely-today-some-could-be-strong-to-severe/",
-    "title": "DC-area forecast: After storms, improving weather through Friday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-showers-and-storms-likely-today-some-could-be-strong-to-severe/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-and-not-too-humid-the-next-few-days/",
+    "title": "DC-area forecast: Nice and not too humid the next few days",
+    "url": "https://www.capitalweather.com/dc-area-forecast-nice-and-not-too-humid-the-next-few-days/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Just a spotty lingering shower or two this evening with temperatures near 70 in the wake of the strong to severe storms. Partly cloudy overnight with lows in the mid-60s to near 70.",
-    "publishedAt": "2026-07-28T09:00:40.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Beneficial rain celebration, but daily digit hesitation, due to severe storm irritation.",
-    "articleId": "4d72fb2aea651b91"
+    "summary": "HAPPENING NOW: Not bad at all! Plenty of sun today as morning 60s and 70s rise toward afternoon highs in the mid-80s, with slowly decreasing humidity.",
+    "publishedAt": "2026-07-29T09:00:47.000Z",
+    "dailyDigit": 8,
+    "dailyDigitLabel": "8/10",
+    "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
+    "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T06:42:15.500Z",
+  "weatherGeneratedAt": "2026-07-29T09:46:41.308Z",
   "weatherError": null,
   "sources": [
     {
@@ -1729,10 +1718,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1865,10 +1854,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
