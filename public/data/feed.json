@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-07-29T17:33:19.329Z",
-  "fetchedAt": "2026-07-29T17:33:19.324Z",
+  "generatedAt": "2026-07-29T19:39:11.215Z",
+  "fetchedAt": "2026-07-29T19:39:11.211Z",
   "sourceCount": 23,
   "itemCount": 147,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jared-diamond-2",
+      "title": "What should I ask Jared Diamond?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes, I will be doing a Conversation with him. His whole career is fair game, though many of my questions will cover his forthcoming book Profits, Prophets, Coaches, and Kings (When) Do Leaders Matter? From the Amazon summary: “Now, in Profits, Prophets, Coaches and Kings, he studies leaders throughout time to answer the question: do the actions […] The post What should I ask Jared Diamond? appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-29T18:36:20.000Z",
+      "articleId": "5d69a73785b5dfe9"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
+      "title": "Goodbye, Iowa. Hello, Michigan. Which Democratic primaries will matter most in 2028?",
+      "url": "https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "South Carolina will vote first, which could help moderates. But Michigan and Virginia may hold the real power.",
+      "publishedAt": "2026-07-29T18:05:25.000Z",
+      "articleId": "0cfc15fb61ab3340"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gcypshwj40ew3tw6f2z3.html",
+      "title": "Money Stuff: SpaceX Crash Insurance",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gcypshwj40ew3tw6f2z3.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. SpaceX structured notes Here’s a neat little piece of derivatives structuring. Let’s say you’re an investment bank, perhaps Morgan Stanley. You might want to buy crash insurance on SpaceX’s stock: You might be willing to pay a premium for long-term, out-of-the-money put options that pay out if SpaceX’s stock goes down a lot. Why might you want that? Off the top of my head: Your customers — institutional asset managers — might want to buy that insurance from you, and you might want to hedge. The customers might own SpaceX for its upside (rockets, artificial intelligence, etc.), but they might worry about an AI bubble, Elon Musk risk, overvaluation, etc. They might be looking to buy insurance from you, and you might be looking to source that insurance from someone else. You might run a big private wealth management business that recently signed up a bunch of multimillionaire SpaceX employees . You might be earning big fees for managing their millions, and you might also be lending them some money to buy houses and Lamborghinis and stuff. Were SpaceX’s stock to crash, they might stop being multimillionaires, which would be bad for you from a fee-income and credit-risk perspective. SpaceX puts might work as insurance for your wealth management business. Where can you buy this insurance? There are long-dated listed put options on SpaceX, but I’m not sure you could buy a lot of size in that market. You could go to a hedge fund and ask it to sell you some over-the-counter options, but it might charge you a high price. Plus there is some wrong-way risk there: A world in which SpaceX stock has crashed is not necessarily a world in which the entire AI boom has collapsed, but there is probably some correlation, and you might worry about relying on a hedge fund to pay out your insurance in that state of the world. One move is to buy the insurance from your own retail and private-wealth customers, and have them pay upfront so you know they’re good for it. That is: You buy some long-term out-of-the-money SpaceX puts from retail investors: If SpaceX ends up below some threshold price at expiration, the investors have to pay you $X for every dollar it ends up below the threshold, up to a maximum of, say, $1,000 if SpaceX goes to zero. You collect the $1,000 upfront, so you know that the insurance will pay out even in the worst-case scenario. When the puts expire, if SpaceX is flat or up, or even down but not below the crash threshold, you give the retail investors their $1,000 back, plus interest, plus some extra money to pay for the put premium. This is a kind of structured note, and one nice thing about it is that the investors might not think about the fact that they’re selling you crash...",
+      "publishedAt": "2026-07-29T17:56:48.506Z",
+      "articleId": "918ea19679a12508"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
       "title": "Enjoy a Tofu Lunch With Us | Kenji Eats Japan",
@@ -349,17 +383,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-07-26T17:01:23.000Z",
       "articleId": "81d7465914ec1b4d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-577",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-577.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Deirdre economics reading list. 2. The 1878 entrance exam for the British India civil service. 3. How good is Opus 5 on biology? 4. “A linguistic “golden age” flourished between 1,000 to 3,000 years ago when tens of thousands of languages were spoken throughout the world, according to a new study coauthored by Yale […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-26T15:51:08.000Z",
-      "articleId": "66ecb07da341b721"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/lebron-james-just-took-the-biggest",
@@ -812,17 +835,6 @@
       "summary": "From Maine to Wisconsin, Democratic primaries have been upended as G.O.P. incumbents and super PACs continue stockpiling cash ahead of 2026.",
       "publishedAt": "2026-07-20T22:01:05.000Z",
       "articleId": "d1f0e12cdac5cd89"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ajxgkb08szyhrzophhey.html",
-      "title": "Money Stuff: Ice Cream Hedging",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ajxgkb08szyhrzophhey.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Ice cream hedge Oh sure : 28wishes, a bougie independent ice cream parlor in downtown Los Angeles, has been gaining cash on Kalshi, the online “prediction market” app that lets users gamble on everything from political races to Met Gala looks. According to the shop’s owner, 37-year-old Jason Jiang, he’s been clearing up to $1,500 per month on the app by being bullish on cold snaps in Southern California. “Ice cream is one of the most weather-dependent products in the world,” explained Jiang, who worked in corporate banking before swirling soft serve. “We lose about 20 percent of business when the weather goes below 70 degrees… So we’re essentially hedging that profit loss on the app.” Sure. The basic situation with Kalshi is that it really wants to be perceived as a useful platform for lovable Main Street businesses to hedge real-world risks, but it is mostly a sports gambling website . So there is a steady stream of stories about companies ( bars , sports teams ) using Kalshi to hedge real-world sports risk with sports bets. But Kalshi is not exclusively a sports gambling website. It also offers weather bets. Every Cutesy Economics 101 textbook will tell you that ice cream sales are higher when it is hot and sunny and lower when it is cold and rainy. An ice cream shop cannot control the weather, but it can hedge its weather risk with weather bets. Cutesy Financial Derivatives 101. By the way, while ice cream shops are the standard Cutesy Economics 101 example of businesses whose income depends on the weather, they are not the only or main example in the real world. Lots of other businesses are weather-dependent and hedge their weather risk. Property insurance companies have to pay more claims when hurricanes hit, and hedge by selling catastrophe bonds . Farmers lose their crops when there is no rain, and hedge by buying crop insurance. We actually talked about crop insurance a few years ago. Despite the name (“crop insurance”), US crop insurance is often structured as a bet on rainfall: It pays out “when there is less than the usual amount of precipitation” in a given area, as measured by the government weather service, “ even if the relevant farmland suffers no loss in productivity.” (It is parametric insurance , rather than loss-based insurance.) Apparently the way that the weather service measures precipitation is by putting out buckets and seeing how much water falls into them. We talked about this because some farmers were convicted of manipulating the precipitation numbers by doing things like (1) putting covers on the buckets so rain didn’t fall into them or (2) dumping out the buckets when rain did fall into them. As it happens, last month AgWeb ran a long article about those guys, titled “ Rain Robbers: How Four Farmers Faked a Drought and...",
-      "publishedAt": "2026-07-20T18:22:03.312Z",
-      "articleId": "eda47665cdd0fcb5"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
@@ -1641,17 +1653,6 @@
       "summary": "Featuring Sleater-Kinney, The Raincoats, The Linda Lindas, and others",
       "publishedAt": "2026-06-30T13:31:33.000Z",
       "articleId": "14b8341e1a8a050f"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/7-charts-that-show-why-you-should",
-      "title": "7 charts that show why you should advertise on Understanding AI",
-      "url": "https://www.understandingai.org/p/7-charts-that-show-why-you-should",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "The newsletter will remain ad-free for paying readers.",
-      "publishedAt": "2026-06-29T18:51:49.000Z",
-      "articleId": "3f98860d7b32687e"
     }
   ],
   "weather": {
@@ -1668,7 +1669,7 @@
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T17:33:19.329Z",
+  "weatherGeneratedAt": "2026-07-29T19:39:11.215Z",
   "weatherError": null,
   "sources": [
     {
