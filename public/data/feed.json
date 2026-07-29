@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-29T09:46:41.308Z",
-  "fetchedAt": "2026-07-29T09:46:41.305Z",
+  "generatedAt": "2026-07-29T12:16:06.147Z",
+  "fetchedAt": "2026-07-29T12:16:06.142Z",
   "sourceCount": 23,
   "itemCount": 150,
-  "totalItemCount": 772,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/why-free-markets-beat-capitalism",
+      "title": "Why free markets beat capitalism",
+      "url": "https://www.slowboring.com/p/why-free-markets-beat-capitalism",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Freedom is good; greed is not",
+      "publishedAt": "2026-07-29T10:02:17.000Z",
+      "articleId": "2f0d5d95d86917e6"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
       "title": "Data on Chinese innovation",
@@ -919,18 +930,6 @@
       "articleId": "439ec5e0eda94f71"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
-      "title": "Vibes are winning, whether you like it or not",
-      "url": "https://www.slowboring.com/p/vibes-are-winning-whether-you-like",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Politics is about a different kind of platform, and no one is around to preserve the truth.",
-      "publishedAt": "2026-07-17T22:00:19.000Z",
-      "articleId": "6491716b5da0f7cf"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
       "title": "‘A Million Men With Kalashnikovs Are Dangerous’",
       "url": "https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html",
@@ -1704,7 +1703,7 @@
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T09:46:41.308Z",
+  "weatherGeneratedAt": "2026-07-29T12:16:06.147Z",
   "weatherError": null,
   "sources": [
     {
@@ -1718,10 +1717,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
