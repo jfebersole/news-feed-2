@@ -681,9 +681,9 @@ body::before {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: 34px;
+  min-height: 40px;
   gap: 12px;
-  padding: 8px 0 7px;
+  padding: 9px 0 8px;
   border-bottom: 1px solid rgba(16, 16, 15, 0.16);
   background: var(--paper-2);
   opacity: 0;
@@ -707,8 +707,8 @@ body::before {
   font-family: "Newsreader", Georgia, serif;
   font-weight: 700;
   letter-spacing: 0.01em;
-  font-size: 0.98rem;
-  line-height: 1.02;
+  font-size: 1.1rem;
+  line-height: 1.04;
   transform: translateY(1px);
   color: #2f2a21;
 }
@@ -725,6 +725,7 @@ body::before {
 
 .reader-rail-actions .reader-source,
 .reader-rail-actions .reader-access {
+  font-size: 0.78rem;
   line-height: 1;
 }
 
@@ -733,7 +734,7 @@ body::before {
   position: absolute;
   left: 0;
   top: 0;
-  height: 2px;
+  height: 3px;
   width: 100%;
   background: var(--accent-orange);
   opacity: 0;
@@ -745,7 +746,7 @@ body::before {
   position: absolute;
   left: 0;
   top: 0;
-  height: 2px;
+  height: 3px;
   width: var(--reader-progress);
   background: var(--accent-blue);
   opacity: 0;
@@ -1208,12 +1209,13 @@ body::before {
   }
 
   .reader-rail {
+    min-height: 36px;
     padding: 7px 0 6px;
     gap: 8px;
   }
 
   .reader-rail-title {
-    font-size: 0.9rem;
+    font-size: 0.96rem;
   }
 
   .reader-rail-actions .reader-source,
