@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T19:39:11.215Z",
-  "fetchedAt": "2026-07-29T19:39:11.211Z",
+  "generatedAt": "2026-07-29T21:09:51.070Z",
+  "fetchedAt": "2026-07-29T21:09:51.063Z",
   "sourceCount": 23,
   "itemCount": 147,
   "totalItemCount": 782,
@@ -1662,14 +1662,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Not bad at all! Plenty of sun today and a nice breeze as afternoon highs rise to the mid-80s, with decreasing humidity.",
+    "summary": "HAPPENING NOW: Clouds diminish this evening with temperatures falling through the 80s and into the 70s. Breezy, with lower humidity 60s for lows overnight.",
     "publishedAt": "2026-07-29T09:00:47.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T19:39:11.215Z",
+  "weatherGeneratedAt": "2026-07-29T21:09:51.070Z",
   "weatherError": null,
   "sources": [
     {
