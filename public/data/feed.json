@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-30T09:37:44.101Z",
-  "fetchedAt": "2026-07-30T09:37:44.095Z",
+  "generatedAt": "2026-07-30T12:02:03.620Z",
+  "fetchedAt": "2026-07-30T12:02:03.615Z",
   "sourceCount": 23,
-  "itemCount": 152,
+  "itemCount": 153,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-endangered-species-act-reduces-housing",
+      "title": "The Endangered Species Act Reduces Housing",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Max Tabarrok’s paper on the Endangered Species Act and housing (WP) has just been published in the Journal of Public Economics! It’s a clever paper: Max observed that the moment an animal is put on the endangered species list, developers face enhanced compliance costs and liability risk. But what’s important for an empirical economist is […] The post The Endangered Species Act Reduces Housing appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-30T11:16:05.000Z",
+      "articleId": "698afd572c2f9d83"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
+      "title": "Why did South Korean stocks just crash?",
+      "url": "https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The AI boom creates a lot of uncertainty.",
+      "publishedAt": "2026-07-30T10:18:50.000Z",
+      "articleId": "9f17d73e3f097d58"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-trump-made-america-less-popular",
+      "title": "How Trump made America less popular than China",
+      "url": "https://www.slowboring.com/p/how-trump-made-america-less-popular",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Speak loudly and blunder a lot",
+      "publishedAt": "2026-07-30T10:01:52.000Z",
+      "articleId": "2764d36b6e2cb1cf"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
       "title": "Gen Z Thinks Religion Got Too Political",
@@ -428,17 +461,6 @@
       "summary": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3. Sharp Tech, and Greatest of All Talk will also return the week of August 3. Sharp China and Asianometry will continue to publish, and there will be one episode of Dithering next week. The […]",
       "publishedAt": "2026-07-27T10:00:00.000Z",
       "articleId": "939d95c14ad31581"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=could-our-preoccupation-with-mental-health-be-part-of-the-problem",
-      "title": "Could our preoccupation with mental health be part of the problem?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/could-our-preoccupation-with-mental-health-be-part-of-the-problem.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Could our preoccupation with mental health be part of the problem? In some ways, encouraging people to think and talk more about their mental health is a good thing. There is now less stigma around mental illness, and more people who can benefit from professional help are getting it. But there is also reason to […] The post Could our preoccupation with mental health be part of the problem? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-27T07:38:40.000Z",
-      "articleId": "2ff45791661c7dee"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
@@ -924,18 +946,6 @@
       "summary": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
       "publishedAt": "2026-07-20T11:00:08.000Z",
       "articleId": "39fb82bc57e50803"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-futile-quest-to-define-class",
-      "title": "The futile quest to define class in America",
-      "url": "https://www.slowboring.com/p/the-futile-quest-to-define-class",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The economy is way more complicated than workers vs. owners.",
-      "publishedAt": "2026-07-20T10:01:20.000Z",
-      "articleId": "80266e8120c927a1"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-uk-is-a-cautionary-tale-for-the",
@@ -1724,7 +1734,7 @@
     "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
     "articleId": "e9a8a6909fcb065e"
   },
-  "weatherGeneratedAt": "2026-07-30T09:37:44.101Z",
+  "weatherGeneratedAt": "2026-07-30T12:02:03.620Z",
   "weatherError": null,
   "sources": [
     {
@@ -1874,10 +1884,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
