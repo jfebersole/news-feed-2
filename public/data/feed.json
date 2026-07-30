@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-30T03:22:01.259Z",
-  "fetchedAt": "2026-07-30T03:22:01.254Z",
+  "generatedAt": "2026-07-30T06:38:14.274Z",
+  "fetchedAt": "2026-07-30T06:38:14.269Z",
   "sourceCount": 23,
   "itemCount": 151,
-  "totalItemCount": 773,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html?utm_source=rss&utm_medium=rss&utm_campaign=forty-interesting-facts-about-australia",
+      "title": "Forty interesting facts about Australia",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Australia was the richest country on earth, per capita, for decades. After the 1850s gold rush, up until the 1890s depression, Australia had the highest per capita income in the world. In 1850, probably only the United Kingdom and the Netherlands sat above Australia, by about 20 per cent, with the United States 9 per cent […] The post Forty interesting facts about Australia appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-30T05:22:54.000Z",
+      "articleId": "22eb0d5b0afe65b4"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
       "title": "Highlights From The Discourse On The Hugging Face Incident",
@@ -405,17 +416,6 @@
       "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
       "publishedAt": "2026-07-27T01:15:34.000Z",
       "articleId": "ae67cf5c90c8991d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/in-relative-terms-maybe-children-do-not-cost-more-than-before.html?utm_source=rss&utm_medium=rss&utm_campaign=in-relative-terms-maybe-children-do-not-cost-more-than-before",
-      "title": "In relative terms, maybe children do not cost more than before?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/in-relative-terms-maybe-children-do-not-cost-more-than-before.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Despite rapid inflation in childcare and tuition prices, the goods-and-services CCI closely tracks adult prices, as these increases are offset by children’s lower exposure to shelter and by slower price growth elsewhere in the child basket. Households devote substantially more real resources to children than they did in 1990, but this increase parallels the growth […] The post In relative terms, maybe children do not cost more than before? appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-26T23:16:14.000Z",
-      "articleId": "2b023d024198b5ef"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a90",
@@ -1714,7 +1714,7 @@
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-30T03:22:01.259Z",
+  "weatherGeneratedAt": "2026-07-30T06:38:14.274Z",
   "weatherError": null,
   "sources": [
     {
@@ -1728,10 +1728,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1864,10 +1864,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
@@ -1880,10 +1880,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
