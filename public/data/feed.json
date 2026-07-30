@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-30T20:22:50.941Z",
-  "fetchedAt": "2026-07-30T20:22:50.937Z",
+  "generatedAt": "2026-07-30T22:16:36.389Z",
+  "fetchedAt": "2026-07-30T22:16:36.383Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 783,
+  "itemCount": 152,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-july-2026-part-2",
+      "title": "Links For July 2026 (Part 2)",
+      "url": "https://www.astralcodexten.com/p/links-for-july-2026-part-2",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-30T20:45:37.000Z",
+      "articleId": "5aebd99a190de98a"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
       "title": "Gen Z Thinks Religion Got Too Political",
@@ -947,18 +958,6 @@
       "articleId": "ec177329c562e7d1"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
-      "title": "Democratic fields are shifting; G.O.P. bank accounts are growing",
-      "url": "https://www.slowboring.com/p/democratic-fields-are-shifting-gop",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "From Maine to Wisconsin, Democratic primaries have been upended as G.O.P. incumbents and super PACs continue stockpiling cash ahead of 2026.",
-      "publishedAt": "2026-07-20T22:01:05.000Z",
-      "articleId": "d1f0e12cdac5cd89"
-    },
-    {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
       "title": "Aah, the Machinations of Life",
       "url": "https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
@@ -1698,17 +1697,6 @@
       "articleId": "b1e63b973f82b258"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/chip-off-the-old-block",
-      "title": "Chip Off The Old Block",
-      "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-01T03:11:23.000Z",
-      "articleId": "dae876dc198c2819"
-    },
-    {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
       "title": "The twilight of the chatbots",
       "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
@@ -1722,19 +1710,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-sun-filled-and-seasonable-as-we-wind-down-july/",
-    "title": "DC-area forecast: Mostly sun-filled and seasonable as we wind down July",
+    "title": "DC-area forecast: Fairly comfortable and seasonable as we wind down July",
     "url": "https://www.capitalweather.com/dc-area-forecast-sun-filled-and-seasonable-as-we-wind-down-july/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Brilliant sunshine as temperatures head toward afternoon highs in the mid-80s. Perhaps some increasing afternoon clouds but humidity stays pretty low.",
+    "summary": "HAPPENING NOW: Clouds that popped up during the day are with us through evening but diminish into the night. Relatively pleasant with 70s taking over this evening and 60s for lows.",
     "publishedAt": "2026-07-30T09:00:57.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
     "articleId": "e9a8a6909fcb065e"
   },
-  "weatherGeneratedAt": "2026-07-30T20:22:50.941Z",
+  "weatherGeneratedAt": "2026-07-30T22:16:36.389Z",
   "weatherError": null,
   "sources": [
     {
@@ -1837,7 +1825,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1884,18 +1872,18 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
