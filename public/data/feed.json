@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-07-30T06:38:14.274Z",
-  "fetchedAt": "2026-07-30T06:38:14.269Z",
+  "generatedAt": "2026-07-30T09:37:44.101Z",
+  "fetchedAt": "2026-07-30T09:37:44.095Z",
   "sourceCount": 23,
-  "itemCount": 151,
+  "itemCount": 152,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
+      "title": "Gen Z Thinks Religion Got Too Political",
+      "url": "https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "I wonder why that could be.",
+      "publishedAt": "2026-07-30T09:03:37.000Z",
+      "articleId": "a5af00d1301598c8"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-phillies-phavorites-or-phrauds",
+      "title": "Are the Phillies Phavorites or Phrauds?",
+      "url": "https://neilpaine.substack.com/p/are-the-phillies-phavorites-or-phrauds",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Depending on how you look at them, the answer is … yes.",
+      "publishedAt": "2026-07-30T09:02:00.000Z",
+      "articleId": "038b104c2e02b0a1"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-case-against-homeownership",
+      "title": "The case against homeownership",
+      "url": "https://www.slowboring.com/p/the-case-against-homeownership",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "(and why I don’t buy it)",
+      "publishedAt": "2026-07-30T09:01:49.000Z",
+      "articleId": "95242798e2c23408"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/an-experiment-for-our-schools.html?utm_source=rss&utm_medium=rss&utm_campaign=an-experiment-for-our-schools",
+      "title": "An experiment for our schools",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-experiment-for-our-schools.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Schools in at least three states will be equipped with drones this year that can zoom through halls, smash windows and pepper-spray active shooters if teachers report a threat. At least nine schools — three in Florida, five in Georgia and one in Colorado — will have storage boxes that house the plastic, nonlethal aircraft […] The post An experiment for our schools appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-30T08:07:55.000Z",
+      "articleId": "c84bb7980df0f2c5"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html?utm_source=rss&utm_medium=rss&utm_campaign=forty-interesting-facts-about-australia",
       "title": "Forty interesting facts about Australia",
@@ -396,17 +441,6 @@
       "articleId": "2ff45791661c7dee"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decline-in-the-transmission-of-scientific-ideas",
-      "title": "The Decline in the Transmission of Scientific Ideas",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We document that the diffusion of new scientific ideas beyond their field of origin has declined substantially over the past four decades. This contraction is closely linked to increasing specialization in scientific language: research that employs more technical terminology tends to be adopted less broadly. We develop a theory of scientific discovery in which the […] The post The Decline in the Transmission of Scientific Ideas appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-27T04:18:41.000Z",
-      "articleId": "ca765e9b87d82ad3"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
       "title": "Why Vance Still Trumps Rubio",
       "url": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
@@ -428,18 +462,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-07-26T17:01:23.000Z",
       "articleId": "81d7465914ec1b4d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/lebron-james-just-took-the-biggest",
-      "title": "LeBron James Just Took the Biggest Discount of Any Modern Star",
-      "url": "https://neilpaine.substack.com/p/lebron-james-just-took-the-biggest",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "His bargain deal with the Sixers is about chasing another ring — and one last attempt to disrupt the GOAT debate.",
-      "publishedAt": "2026-07-26T12:02:59.000Z",
-      "articleId": "557ce817bb035454"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
@@ -936,18 +958,6 @@
       "summary": "When great powers disagree about the nature of A.I.",
       "publishedAt": "2026-07-19T19:35:46.000Z",
       "articleId": "e6e6f73e75250437"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-4c8",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-4c8",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-07-19T17:00:24.000Z",
-      "articleId": "ac54799bd7660d06"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
@@ -1701,20 +1711,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-and-not-too-humid-the-next-few-days/",
-    "title": "DC-area forecast: Nice and not too humid the next few days",
-    "url": "https://www.capitalweather.com/dc-area-forecast-nice-and-not-too-humid-the-next-few-days/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-sun-filled-and-seasonable-as-we-wind-down-july/",
+    "title": "DC-area forecast: Mostly sun-filled and seasonable as we wind down July",
+    "url": "https://www.capitalweather.com/dc-area-forecast-sun-filled-and-seasonable-as-we-wind-down-july/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds diminish this evening with temperatures falling into the 70s. Breezy, with lower humidity 60s for lows overnight.",
-    "publishedAt": "2026-07-29T09:00:47.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
-    "articleId": "1df21fd612335b8e"
+    "summary": "HAPPENING NOW: Morning temperatures head into and through the 70s under lots of sun. Highs mainly head to the mid-80s with some increasing afternoon clouds.",
+    "publishedAt": "2026-07-30T09:00:57.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
+    "articleId": "e9a8a6909fcb065e"
   },
-  "weatherGeneratedAt": "2026-07-30T06:38:14.274Z",
+  "weatherGeneratedAt": "2026-07-30T09:37:44.101Z",
   "weatherError": null,
   "sources": [
     {
@@ -1880,10 +1890,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
