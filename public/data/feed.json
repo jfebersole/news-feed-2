@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-30T14:27:56.508Z",
-  "fetchedAt": "2026-07-30T14:27:56.503Z",
+  "generatedAt": "2026-07-30T16:44:23.008Z",
+  "fetchedAt": "2026-07-30T16:44:23.003Z",
   "sourceCount": 23,
-  "itemCount": 153,
+  "itemCount": 152,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
+      "title": "Gen Z Thinks Religion Got Too Political",
+      "url": "https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Does Gen Z feel welcome at church?",
+      "publishedAt": "2026-07-30T16:27:27.000Z",
+      "articleId": "a5af00d1301598c8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-563",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Joshua Rothman on lookism. 2. Young adults are using AI to manage their social media feeds (WSJ). 3. What predicts an NBA Achilles tear? 4. LLM data set on changing cultural trends over the centuries. 5. Xi’an Famous Foods is coming to Clarendon. 6. If a German expressionist movie director had filmed a silent […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-30T16:24:33.000Z",
+      "articleId": "d26e89745f79a087"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
       "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
@@ -48,17 +70,6 @@
       "summary": "Speak loudly and blunder a lot",
       "publishedAt": "2026-07-30T10:01:52.000Z",
       "articleId": "2764d36b6e2cb1cf"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
-      "title": "Gen Z Thinks Religion Got Too Political",
-      "url": "https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "I wonder why that could be.",
-      "publishedAt": "2026-07-30T09:03:37.000Z",
-      "articleId": "a5af00d1301598c8"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-phillies-phavorites-or-phrauds",
@@ -438,17 +449,6 @@
       "summary": "Record date oopsie XOMA Royalty Corp. and Ligand Pharmaceuticals Inc. are biotechnology royalty aggregators : They finance biotechnology companies by buying the rights to future drug royalty and milestone payments. [1] In April, Ligand agreed to acquire XOMA , and the merger closed on July 14 . The merger price was $39 per share in cash ($739 million total), plus a contingent value right related to some litigation. Last year, XOMA sued Janssen Biotech Inc., claiming that Janssen had used a XOMA-owned technology in developing a drug called Tremfya and owes XOMA royalties. [2] The result of that lawsuit is uncertain, and the merger agreement provided that pre-merger XOMA shareholders will get 75% of the proceeds from it, if any, whenever it is resolved. But they are no longer XOMA shareholders (they were cashed out on July 14), so there needs to be some mechanism to pay them. The contingent value right (or CVR) is a sort of certificate representing the litigation: When the merger closed, each XOMA share turned into $39 in cash plus one CVR, which is an entry on the books of Ligand representing a share of the potential litigation proceeds. The CVRs are non-transferable and not listed on any exchange. For tax purposes, XOMA values the litigation at $50 million, which works out to a CVR value of $1.84 per share, [3] but that is just a guess and there is reason to think that the market valued the CVR at more like $5. I said that “when the merger closed” each XOMA share turned into $39 plus a CVR. That is normally how mergers work: When the merger closes, the target’s shares turn into the merger consideration. That’s what, for instance, the first page of XOMA’s merger proxy says: Pursuant to the Merger Agreement, at the time the Merger becomes effective (the “Effective Time”), each share of common stock … will be automatically converted into the right to receive (i) $39.00 per Share in cash … plus (ii) one contingent value right (a “CVR”) representing a contractual right to receive contingent cash payments, if any, derived from the net proceeds of a pending litigation against Janssen Biotech, Inc. (the “Janssen Litigation”). You could imagine doing something else. Perhaps XOMA could have paid out some of the merger consideration before the closing. Like: XOMA could dividend out $1 of cash the day before the merger closes, and then Ligand could pay $38 of cash and the CVR when the merger closes; or XOMA could dividend out the CVR the day before the merger closes, and then Ligand could pay $39 of cash when the merger closes. Etc. Why would you do that? Mostly you wouldn’t. Everything is more or less contingent on the merger closing, so you want to pay everything out at the time of closing. But every so often there are weird cases where it could make sense to...",
       "publishedAt": "2026-07-27T18:11:28.120Z",
       "articleId": "4d35c58b07ec620c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-570",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/monday-assorted-links-570.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Cameroonian prison with its own record label. 2. Noah on what will AI do for us exactly. 3. The impact of the sewing machine on women. 4. Will GPTVoice boost labor supply? 5. Smart phones in North Korea. 6. SSI update. 7. “There is still time for interested scholars to apply to our next […] The post Monday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-27T16:03:12.000Z",
-      "articleId": "e3445f935d3557aa"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
@@ -1707,17 +1707,6 @@
       "summary": "How work changes along the exponential",
       "publishedAt": "2026-06-30T22:18:12.000Z",
       "articleId": "28b4d4894e7b8222"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/low-dose-radiation-is-probably-fine",
-      "title": "How p-hacking built the world's most expensive safety regime",
-      "url": "https://www.worksinprogress.news/p/low-dose-radiation-is-probably-fine",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "People are terrified that small doses of radiation will give them cancer, but they probably don’t need to be.",
-      "publishedAt": "2026-06-30T14:36:40.000Z",
-      "articleId": "7515bb0d58af47be"
     }
   ],
   "weather": {
@@ -1727,14 +1716,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Morning temperatures head into and through the 70s under lots of sun. Highs mainly head to the mid-80s with some increasing afternoon clouds.",
+    "summary": "HAPPENING NOW: Brilliant sunshine as temperatures head toward afternoon highs in the mid-80s. Perhaps some increasing afternoon clouds but humidity stays pretty low.",
     "publishedAt": "2026-07-30T09:00:57.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
     "articleId": "e9a8a6909fcb065e"
   },
-  "weatherGeneratedAt": "2026-07-30T14:27:56.508Z",
+  "weatherGeneratedAt": "2026-07-30T16:44:23.008Z",
   "weatherError": null,
   "sources": [
     {
