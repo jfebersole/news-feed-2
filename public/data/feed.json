@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-07-29T23:10:53.001Z",
-  "fetchedAt": "2026-07-29T23:10:52.992Z",
+  "generatedAt": "2026-07-30T03:22:01.259Z",
+  "fetchedAt": "2026-07-30T03:22:01.254Z",
   "sourceCount": 23,
-  "itemCount": 148,
-  "totalItemCount": 783,
+  "itemCount": 151,
+  "totalItemCount": 773,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
+      "title": "Highlights From The Discourse On The Hugging Face Incident",
+      "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-30T01:07:16.000Z",
+      "articleId": "f9e0816526c80da6"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
+      "title": "Giants camp takeaways: Jaxson Dart looks sharp, but Malik Nabers' return stole show",
+      "url": "https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Dart looked comfortable on Day 1 of camp, despite spending a lot of his time operating in a somewhat unfamiliar situation.",
+      "publishedAt": "2026-07-29T23:25:09.000Z",
+      "articleId": "db6ca3cd4f8dcae9"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/one-block-two-fights",
       "title": "One block, two fights",
@@ -27,6 +49,17 @@
       "summary": "The Trump administration is pairing top universities with corporate giants in an effort to steer traditional PhD programs toward national scientific priorities. Today, the White House and National Science Foundation are announcing a $47 million pilot program to fund around 250 four-year doctorates in technical fields, starting this fall. Students in the pilot will be […] The post Reforms to the PhD? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-29T21:43:14.000Z",
       "articleId": "7ef67ce5a570a56d"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/july-2026-links",
+      "title": "July 2026 links",
+      "url": "https://scottsumner.substack.com/p/july-2026-links",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus another reply to Fable",
+      "publishedAt": "2026-07-29T19:12:21.000Z",
+      "articleId": "c62a4a4f62ce739d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jared-diamond-2",
@@ -1681,7 +1714,7 @@
     "dailyDigitSummary": "Partial sun, a nice breeze, and humidity starts to ease.",
     "articleId": "1df21fd612335b8e"
   },
-  "weatherGeneratedAt": "2026-07-29T23:10:53.001Z",
+  "weatherGeneratedAt": "2026-07-30T03:22:01.259Z",
   "weatherError": null,
   "sources": [
     {
@@ -1695,10 +1728,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1759,10 +1792,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
