@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-30T12:02:03.620Z",
-  "fetchedAt": "2026-07-30T12:02:03.615Z",
+  "generatedAt": "2026-07-30T14:27:56.508Z",
+  "fetchedAt": "2026-07-30T14:27:56.503Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A battery technology that’s getting a lot of attention is solid-state batteries, lithium-ion batteries that replace the liquid electrolyte with a solid material.",
+      "publishedAt": "2026-07-30T12:04:25.000Z",
+      "articleId": "48f692240df25def"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-endangered-species-act-reduces-housing",
       "title": "The Endangered Species Act Reduces Housing",
@@ -1707,17 +1718,6 @@
       "summary": "People are terrified that small doses of radiation will give them cancer, but they probably don’t need to be.",
       "publishedAt": "2026-06-30T14:36:40.000Z",
       "articleId": "7515bb0d58af47be"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/punk-ladies-an-album-a-day",
-      "title": "Punk Ladies: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/punk-ladies-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Sleater-Kinney, The Raincoats, The Linda Lindas, and others",
-      "publishedAt": "2026-06-30T13:31:33.000Z",
-      "articleId": "14b8341e1a8a050f"
     }
   ],
   "weather": {
@@ -1729,12 +1729,12 @@
     "access": "open",
     "summary": "HAPPENING NOW: Morning temperatures head into and through the 70s under lots of sun. Highs mainly head to the mid-80s with some increasing afternoon clouds.",
     "publishedAt": "2026-07-30T09:00:57.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
     "articleId": "e9a8a6909fcb065e"
   },
-  "weatherGeneratedAt": "2026-07-30T12:02:03.620Z",
+  "weatherGeneratedAt": "2026-07-30T14:27:56.508Z",
   "weatherError": null,
   "sources": [
     {
@@ -1884,10 +1884,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
