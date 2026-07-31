@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-07-31T14:30:56.826Z",
-  "fetchedAt": "2026-07-31T14:30:56.822Z",
+  "generatedAt": "2026-07-31T16:53:52.816Z",
+  "fetchedAt": "2026-07-31T16:53:52.812Z",
   "sourceCount": 23,
-  "itemCount": 152,
+  "itemCount": 151,
   "totalItemCount": 783,
   "items": [
     {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Tokenizing the value from compute? 2. Will they ruin the look of Dulles airport? 3. Pathways into homelessness. 4. Defensible valuations for AI companies. 5. Further reasons why very rapid economic growth is very difficult to achieve. 6. Over 20,000 precolonial earthworks in the Southwest Amazonia. The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-31T16:05:45.000Z",
+      "articleId": "28f758657bced661"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
-      "title": "Why ugly buildings create NIMBYism",
+      "title": "How ugliness helps NIMBYs",
       "url": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -460,17 +471,6 @@
       "summary": "Though Nabers avoided the PUP list, there's no guarantee the star wide receiver will be ready for Week 1.",
       "publishedAt": "2026-07-28T11:36:35.000Z",
       "articleId": "2f8d00a95a0321fc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html?utm_source=rss&utm_medium=rss&utm_campaign=the-apples-and-oranges-tribunal",
-      "title": "The Apples and Oranges Tribunal",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-apples-and-oranges-tribunal.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Suppose that apples sell for more than oranges and Parliament in it’s wisdom decides that, at last, apples and oranges must be compared. Not by shoppers — shoppers are biased, they merely reveal what they are willing to pay — but by a tribunal, which will determine whether apples and oranges are of truly equal […] The post The Apples and Oranges Tribunal appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-28T11:13:43.000Z",
-      "articleId": "8e6f0fea8d86f357"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
@@ -1696,17 +1696,6 @@
       "summary": "One man's journey to catalogue the world's greatest band",
       "publishedAt": "2026-07-02T17:31:16.000Z",
       "articleId": "8b299aaac4bb8d43"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026q2",
-      "title": "Films of 2026:Q2",
-      "url": "https://scottsumner.substack.com/p/films-of-2026q2",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus a new sponsor and a major milestone",
-      "publishedAt": "2026-07-01T15:38:33.000Z",
-      "articleId": "66671541fde85480"
     }
   ],
   "weather": {
@@ -1716,14 +1705,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Morning 70s head for highs in the mid-80s to near 90, which is around late-July averages. Probably dry but outside chance of a brief afternoon shower or storm.",
+    "summary": "HAPPENING NOW: Afternoon highs head for the mid-80s to near 90, which is around late-July averages. Probably dry but outside chance of a stray afternoon shower or storm.",
     "publishedAt": "2026-07-31T09:00:38.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-07-31T14:30:56.826Z",
+  "weatherGeneratedAt": "2026-07-31T16:53:52.816Z",
   "weatherError": null,
   "sources": [
     {
@@ -1876,7 +1865,7 @@
       "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": "Status code 500 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
@@ -1884,7 +1873,7 @@
       "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": "Status code 500 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
@@ -1892,7 +1881,7 @@
       "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": "Status code 500 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
