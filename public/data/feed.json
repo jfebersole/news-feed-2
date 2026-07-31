@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T00:13:14.930Z",
-  "fetchedAt": "2026-07-31T00:13:14.926Z",
+  "generatedAt": "2026-07-31T04:34:39.474Z",
+  "fetchedAt": "2026-07-31T04:34:39.470Z",
   "sourceCount": 23,
   "itemCount": 153,
-  "totalItemCount": 782,
+  "totalItemCount": 772,
   "items": [
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
@@ -1733,7 +1733,7 @@
     "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
     "articleId": "e9a8a6909fcb065e"
   },
-  "weatherGeneratedAt": "2026-07-31T00:13:14.930Z",
+  "weatherGeneratedAt": "2026-07-31T04:34:39.474Z",
   "weatherError": null,
   "sources": [
     {
@@ -1747,10 +1747,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
