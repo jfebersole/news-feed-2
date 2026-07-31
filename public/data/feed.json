@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T18:41:58.760Z",
-  "fetchedAt": "2026-07-31T18:41:58.754Z",
+  "generatedAt": "2026-07-31T20:34:51.961Z",
+  "fetchedAt": "2026-07-31T20:34:51.957Z",
   "sourceCount": 23,
   "itemCount": 151,
   "totalItemCount": 783,
@@ -69,7 +69,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred years, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION .",
+      "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred yards, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-31T07:03:26.000Z",
       "articleId": "e64e9154d3dcdcc9"
     },
@@ -1712,7 +1712,7 @@
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-07-31T18:41:58.760Z",
+  "weatherGeneratedAt": "2026-07-31T20:34:51.961Z",
   "weatherError": null,
   "sources": [
     {
@@ -1790,10 +1790,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
