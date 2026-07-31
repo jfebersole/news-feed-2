@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-31T20:34:51.961Z",
-  "fetchedAt": "2026-07-31T20:34:51.957Z",
+  "generatedAt": "2026-07-31T22:13:49.194Z",
+  "fetchedAt": "2026-07-31T22:13:49.189Z",
   "sourceCount": 23,
-  "itemCount": 151,
-  "totalItemCount": 783,
+  "itemCount": 152,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/12-things-ive-learned-in-12-months",
+      "title": "12 things I’ve learned in 12 months of writing for Slow Boring",
+      "url": "https://www.slowboring.com/p/12-things-ive-learned-in-12-months",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Looking back on the year",
+      "publishedAt": "2026-07-31T22:01:16.000Z",
+      "articleId": "94ad8ad24ed3d583"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
       "title": "*Redefining Global Health in the 21st Century*",
@@ -1705,14 +1717,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Afternoon highs head for the mid-80s to near 90, which is around late-July averages. Probably dry but outside chance of a stray afternoon shower or storm.",
+    "summary": "HAPPENING NOW: Clouds that bubbled in the day diminish a bit this evening as temperatures fall through the 80s.",
     "publishedAt": "2026-07-31T09:00:38.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-07-31T20:34:51.961Z",
+  "weatherGeneratedAt": "2026-07-31T22:13:49.194Z",
   "weatherError": null,
   "sources": [
     {
@@ -1790,10 +1802,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -1815,7 +1827,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
