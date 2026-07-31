@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-07-31T08:08:26.954Z",
-  "fetchedAt": "2026-07-31T08:08:26.946Z",
+  "generatedAt": "2026-07-31T11:34:32.949Z",
+  "fetchedAt": "2026-07-31T11:34:32.943Z",
   "sourceCount": 23,
   "itemCount": 152,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/mega-events-are-the-new-monoculture",
+      "title": "Mega-events are the new monoculture",
+      "url": "https://www.slowboring.com/p/mega-events-are-the-new-monoculture",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus N.B.A. analytics, the Paramount deal, and the dream of stronger political parties",
+      "publishedAt": "2026-07-31T10:01:33.000Z",
+      "articleId": "709001dbdf52b5ea"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html?utm_source=rss&utm_medium=rss&utm_campaign=an-unprecedented-weapon",
       "title": "An unprecedented weapon?",
@@ -957,18 +969,6 @@
       "articleId": "bfde6ea1fb26a15d"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/how-the-center-left-can-come-back",
-      "title": "How the center-left can come back in 2028",
-      "url": "https://www.slowboring.com/p/how-the-center-left-can-come-back",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "There are a bunch of issues where the establishment is to the left of most Democratic primary voters.",
-      "publishedAt": "2026-07-21T10:02:37.000Z",
-      "articleId": "8d532ac8dff8446a"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
       "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
       "url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
@@ -1709,20 +1709,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-sun-filled-and-seasonable-as-we-wind-down-july/",
-    "title": "DC-area forecast: Fairly comfortable and seasonable as we wind down July",
-    "url": "https://www.capitalweather.com/dc-area-forecast-sun-filled-and-seasonable-as-we-wind-down-july/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-slowly-turning-hotter-humidity-lags-until-rain-chances-rise-sunday/",
+    "title": "DC-area forecast: Slowly turning hotter. Rain chances rise Sunday into Monday.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-slowly-turning-hotter-humidity-lags-until-rain-chances-rise-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds that popped up during the day are with us through evening but diminish into the night. Relatively pleasant with 70s taking over this evening and 60s for lows.",
-    "publishedAt": "2026-07-30T09:00:57.000Z",
+    "summary": "HAPPENING NOW: Morning 70s head for highs in the mid-80s to near 90, which is around late-July averages. Probably dry but outside chance of a brief afternoon shower or storm.",
+    "publishedAt": "2026-07-31T09:00:38.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Very sunny through at least midday and not too humid.",
-    "articleId": "e9a8a6909fcb065e"
+    "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
+    "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-07-31T08:08:26.954Z",
+  "weatherGeneratedAt": "2026-07-31T11:34:32.949Z",
   "weatherError": null,
   "sources": [
     {
@@ -1880,18 +1880,18 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
