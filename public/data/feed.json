@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-31T16:53:52.816Z",
-  "fetchedAt": "2026-07-31T16:53:52.812Z",
+  "generatedAt": "2026-07-31T18:41:58.760Z",
+  "fetchedAt": "2026-07-31T18:41:58.754Z",
   "sourceCount": 23,
   "itemCount": 151,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
+      "title": "*Redefining Global Health in the 21st Century*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […] The post *Redefining Global Health in the 21st Century* appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-07-31T17:54:16.000Z",
+      "articleId": "5c164e423fb88207"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
       "title": "Friday assorted links",
@@ -438,17 +449,6 @@
       "summary": "Independent sponsors My half-joking potted history of business is that people used to go to business school to learn how to run businesses, and then they would graduate and run businesses. They’d take over their family business back home, or climb the ranks at a big company. This was good, because it was good for businesses to be run well by smart, hard-working professionals who were familiar with best practices for management and capital allocation. And then finance became a more important part of the economy, and people who graduated from business schools decided to go into finance instead. Finance is a sort of meta-business, a layer of abstraction on top of regular businesses, so it creates leverage: Instead of working at a company and figuring out whether to build a factory or how to price a product, you could work at a hedge fund and allocate capital to dozens of companies that are good at building factories or pricing products. Over time, this makes businesses better and more efficient: You allocate capital to the good ones, the bad ones get starved of capital and go out of business, and we asymptotically approach nirvana. On the other hand not everyone can be a hedge fund manager. Someone has to build the factories and price the products. You can’t tilt too far in the direction of finance, or else everyone who is good at business will spend their days allocating capital to people who are bad at business. One solution to this problem is of the form “actually being good at business is not especially correlated with graduating from a top business school, and people who are good at building factories should build factories while people who are good at trading stocks should trade stocks,” but that is boring. Another, funnier solution is to construct a financial system that: Selects the “best” people in some sort of brutal meritocratic competition, Funnels them into prestigious finance jobs, and Makes it so that those prestigious finance jobs consist of running regular boring companies. “I have arrived at the pinnacle of my career in high finance,” you think, as you sit down to optimize the pricing of your company’s pest-control services. We talk about this all the time , because this model loosely describes aspects of the modern private equity industry. “Private equity” is an indisputably financial job, and one that you generally get by graduating from a prestigious college and then working at an investment bank for a few years. And private equity funds are mostly in the business of raising money from investors to allocate capital to businesses. But they are also in the business of business: The model is not “give money to good companies” but rather “use money to take over companies that could be run better, and then run them better.” They are...",
       "publishedAt": "2026-07-28T18:08:02.192Z",
       "articleId": "3447a6faea6378ff"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The economics of personal holding companies, including in the Nordics. 2. Jongkuch Mach is a good name for a very tall basketball player. 3. Can AI predict who will be the most important philosopher in 2046? For economics, the top pick of GPT Pro is Ludwig Straub, second choice is Stefanie Stantcheva. I like […] The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-28T16:27:44.000Z",
-      "articleId": "56aa6a87464e6aa9"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
@@ -1712,7 +1712,7 @@
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-07-31T16:53:52.816Z",
+  "weatherGeneratedAt": "2026-07-31T18:41:58.760Z",
   "weatherError": null,
   "sources": [
     {
