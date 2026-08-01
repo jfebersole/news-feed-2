@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T14:40:13.902Z",
-  "fetchedAt": "2026-08-01T14:40:13.897Z",
+  "generatedAt": "2026-08-01T16:10:28.400Z",
+  "fetchedAt": "2026-08-01T16:10:28.397Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 785,
@@ -1751,14 +1751,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny today as morning readings rise into the 70s and 80s. Highs reach the upper 80s to low 90s with moderate humidity.",
+    "summary": "HAPPENING NOW: Partly sunny today as afternoon highs reach the upper 80s to low 90s with moderate humidity.",
     "publishedAt": "2026-08-01T09:00:20.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
     "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-01T14:40:13.902Z",
+  "weatherGeneratedAt": "2026-08-01T16:10:28.400Z",
   "weatherError": null,
   "sources": [
     {
@@ -1916,10 +1916,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
