@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-08-01T10:07:50.502Z",
-  "fetchedAt": "2026-08-01T10:07:50.500Z",
+  "generatedAt": "2026-08-01T12:10:00.921Z",
+  "fetchedAt": "2026-08-01T12:10:00.916Z",
   "sourceCount": 23,
-  "itemCount": 153,
+  "itemCount": 155,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-080126",
+      "title": "Reading List 08/01/26",
+      "url": "https://www.construction-physics.com/p/reading-list-080126",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation.",
+      "publishedAt": "2026-08-01T12:04:01.000Z",
+      "articleId": "f74ab85dda1a0794"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
+      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
+      "publishedAt": "2026-08-01T11:00:13.000Z",
+      "articleId": "8874668ee2942e06"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
+      "title": "More math breakthroughs from GPT models",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models! That is from Noam Brown, at the link you will find his list of the ten breakthroughs. Here […] The post More math breakthroughs from GPT models appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-08-01T10:53:40.000Z",
+      "articleId": "3f3525df5b6525a2"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-27-31-2026",
+      "title": "The Week That Was (July 27-31, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-27-31-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-08-01T09:00:55.000Z",
+      "articleId": "b764d42ef4191ba2"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
       "title": "Immigration and Macroeconomic Outcomes in OECD Countries",
@@ -452,17 +497,6 @@
       "articleId": "294159dd25cfd354"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=data-on-chinese-innovation",
-      "title": "Data on Chinese innovation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "China’s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies identified by the U.S. Department of Defense. Several surprising patterns emerge […] The post Data on Chinese innovation appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-29T06:57:55.000Z",
-      "articleId": "c58d84d63b89c5c1"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
       "title": "Money Stuff: Elevators Won’t Repair Themselves",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
@@ -517,17 +551,6 @@
       "summary": "A simple way to bring down utility bills is to charge what the electricity actually costs",
       "publishedAt": "2026-07-28T10:03:03.000Z",
       "articleId": "6e27ed2e5775b54c"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/almost-everybody-in-baseball-is-still",
-      "title": "Almost Everybody in Baseball Is Still a Buyer",
-      "url": "https://neilpaine.substack.com/p/almost-everybody-in-baseball-is-still",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Or at least, they can make the case. How do you separate trade-deadline contenders from pretenders when 80% of MLB is within 5 games of a playoff spot?",
-      "publishedAt": "2026-07-28T09:01:55.000Z",
-      "articleId": "e7d9d3aae3e1325f"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
@@ -1735,7 +1758,7 @@
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
     "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-01T10:07:50.502Z",
+  "weatherGeneratedAt": "2026-08-01T12:10:00.921Z",
   "weatherError": null,
   "sources": [
     {
@@ -1885,26 +1908,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
