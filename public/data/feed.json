@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-01T00:09:43.980Z",
-  "fetchedAt": "2026-08-01T00:09:43.977Z",
+  "generatedAt": "2026-08-01T04:31:33.586Z",
+  "fetchedAt": "2026-08-01T04:31:33.583Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
+      "title": "Emergent Ventures India, 18th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore conceptual approaches to cosmic expansion and dark energy while continuing his formal academic preparation in cosmology. Kevin Gibson, a student […] The post Emergent Ventures India, 18th cohort appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-08-01T04:24:42.000Z",
+      "articleId": "aeca268107871927"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
       "title": "Your Book Review: The Epic Of Gilgamesh",
@@ -450,17 +461,6 @@
       "summary": "That is the theme of my latest Free Press article, excerpt: But do I wish to eschew AI writing for the rest of my life? Absolutely not. Most of all, I want AI writing to get better, so it does not irritate me with its clichés and all too obvious identifying marks. I want AI writing […] The post You will learn to love AI writing appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-29T04:52:47.000Z",
       "articleId": "07b20980cbe1f259"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-to-ross-d-and-others",
-      "title": "Congratulations to Ross D. and others",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/congratulations-to-ross-d-and-others.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Ross Douthat, an opinion columnist at The New York Times, is leaving to join the CBS News program “60 Minutes” as a correspondent, the show’s executive producer said in a memo to staff on Tuesday. Mr. Douthat is among a group of journalists joining for the show’s 59th season, which will premiere on Sept. 13. […] The post Congratulations to Ross D. and others appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-28T21:34:00.000Z",
-      "articleId": "db7fbc157a8b9737"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
@@ -1723,19 +1723,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-slowly-turning-hotter-humidity-lags-until-rain-chances-rise-sunday/",
-    "title": "DC-area forecast: Slowly turning hotter. Rain chances rise Sunday into Monday.",
+    "title": "DC-area forecast: Hotter Saturday. Rain chances rise Sunday into Monday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-slowly-turning-hotter-humidity-lags-until-rain-chances-rise-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds that bubbled in the day diminish a bit this evening as temperatures fall through the 80s.",
+    "summary": "HAPPENING NOW: Just a few clouds float by overnight. Lows end up in the mid-60s to near 70.",
     "publishedAt": "2026-07-31T09:00:38.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-08-01T00:09:43.980Z",
+  "weatherGeneratedAt": "2026-08-01T04:31:33.586Z",
   "weatherError": null,
   "sources": [
     {
