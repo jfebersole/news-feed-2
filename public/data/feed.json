@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-01T12:10:00.921Z",
-  "fetchedAt": "2026-08-01T12:10:00.916Z",
+  "generatedAt": "2026-08-01T14:40:13.902Z",
+  "fetchedAt": "2026-08-01T14:40:13.897Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
+      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
+      "publishedAt": "2026-08-01T14:25:33.000Z",
+      "articleId": "8874668ee2942e06"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-080126",
       "title": "Reading List 08/01/26",
@@ -16,17 +27,6 @@
       "summary": "Pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation.",
       "publishedAt": "2026-08-01T12:04:01.000Z",
       "articleId": "f74ab85dda1a0794"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
-      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
-      "publishedAt": "2026-08-01T11:00:13.000Z",
-      "articleId": "8874668ee2942e06"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
@@ -1758,7 +1758,7 @@
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
     "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-01T12:10:00.921Z",
+  "weatherGeneratedAt": "2026-08-01T14:40:13.902Z",
   "weatherError": null,
   "sources": [
     {
@@ -1916,10 +1916,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
