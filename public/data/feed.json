@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-01T04:31:33.586Z",
-  "fetchedAt": "2026-08-01T04:31:33.583Z",
+  "generatedAt": "2026-08-01T07:37:05.212Z",
+  "fetchedAt": "2026-08-01T07:37:05.209Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
+      "title": "Immigration and Macroeconomic Outcomes in OECD Countries",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large […] The post Immigration and Macroeconomic Outcomes in OECD Countries appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-08-01T06:48:26.000Z",
+      "articleId": "fb127b60562a9f52"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
       "title": "Emergent Ventures India, 18th cohort",
@@ -450,17 +461,6 @@
       "summary": "China’s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation ecosystem, we compile a dataset of almost 14 million domestic Chinese patent publications. We focus on the subset of critical technologies identified by the U.S. Department of Defense. Several surprising patterns emerge […] The post Data on Chinese innovation appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-07-29T06:57:55.000Z",
       "articleId": "c58d84d63b89c5c1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=you-will-learn-to-love-ai-writing",
-      "title": "You will learn to love AI writing",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the theme of my latest Free Press article, excerpt: But do I wish to eschew AI writing for the rest of my life? Absolutely not. Most of all, I want AI writing to get better, so it does not irritate me with its clichés and all too obvious identifying marks. I want AI writing […] The post You will learn to love AI writing appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-29T04:52:47.000Z",
-      "articleId": "07b20980cbe1f259"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
@@ -1735,7 +1735,7 @@
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-08-01T04:31:33.586Z",
+  "weatherGeneratedAt": "2026-08-01T07:37:05.212Z",
   "weatherError": null,
   "sources": [
     {
