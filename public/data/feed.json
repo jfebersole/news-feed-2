@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T20:14:25.732Z",
-  "fetchedAt": "2026-08-01T20:14:25.729Z",
+  "generatedAt": "2026-08-01T22:08:14.474Z",
+  "fetchedAt": "2026-08-01T22:08:14.470Z",
   "sourceCount": 23,
   "itemCount": 152,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/rothko-show-in-florence.html?utm_source=rss&utm_medium=rss&utm_campaign=rothko-show-in-florence",
@@ -1718,14 +1718,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Cloud cover increases some this evening but it's likely rain-free until nearer sunrise. Evening 80s slowly sink to lows in the upper 60s to mid-70s.",
+    "summary": "HAPPENING NOW: Cloud cover increases some this evening with a small chance of an isolated shower. Evening readings slowly fall through the 80s into the 70s.",
     "publishedAt": "2026-08-01T09:00:20.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
     "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-01T20:14:25.732Z",
+  "weatherGeneratedAt": "2026-08-01T22:08:14.474Z",
   "weatherError": null,
   "sources": [
     {
@@ -1739,10 +1739,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1883,10 +1883,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
