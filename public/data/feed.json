@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-07-31T22:13:49.194Z",
-  "fetchedAt": "2026-07-31T22:13:49.189Z",
+  "generatedAt": "2026-08-01T00:09:43.980Z",
+  "fetchedAt": "2026-08-01T00:09:43.977Z",
   "sourceCount": 23,
-  "itemCount": 152,
-  "totalItemCount": 784,
+  "itemCount": 153,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
+      "title": "Your Book Review: The Epic Of Gilgamesh",
+      "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-07-31T23:58:42.000Z",
+      "articleId": "1631f01fcfc039e7"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/12-things-ive-learned-in-12-months",
       "title": "12 things I’ve learned in 12 months of writing for Slow Boring",
@@ -1724,7 +1735,7 @@
     "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
     "articleId": "9c84916f32a844a9"
   },
-  "weatherGeneratedAt": "2026-07-31T22:13:49.194Z",
+  "weatherGeneratedAt": "2026-08-01T00:09:43.980Z",
   "weatherError": null,
   "sources": [
     {
@@ -1747,7 +1758,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
