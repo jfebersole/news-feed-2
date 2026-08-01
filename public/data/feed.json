@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T07:37:05.212Z",
-  "fetchedAt": "2026-08-01T07:37:05.209Z",
+  "generatedAt": "2026-08-01T10:07:50.502Z",
+  "fetchedAt": "2026-08-01T10:07:50.500Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 785,
@@ -1722,20 +1722,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-slowly-turning-hotter-humidity-lags-until-rain-chances-rise-sunday/",
-    "title": "DC-area forecast: Hotter Saturday. Rain chances rise Sunday into Monday.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-slowly-turning-hotter-humidity-lags-until-rain-chances-rise-sunday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-pleasant-today-before-humidity-and-storm-chances-build/",
+    "title": "DC-area forecast: Pleasant today before humidity and storm chances build",
+    "url": "https://www.capitalweather.com/dc-area-forecast-pleasant-today-before-humidity-and-storm-chances-build/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Just a few clouds float by overnight. Lows end up in the mid-60s to near 70.",
-    "publishedAt": "2026-07-31T09:00:38.000Z",
+    "summary": "HAPPENING NOW: Partly sunny today as morning readings rise into the 70s and 80s. Highs reach the upper 80s to low 90s with moderate humidity.",
+    "publishedAt": "2026-08-01T09:00:20.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Mainly bright skies, very warm highs around 85 to 90, but humidity may drop by afternoon.",
-    "articleId": "9c84916f32a844a9"
+    "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
+    "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-01T07:37:05.212Z",
+  "weatherGeneratedAt": "2026-08-01T10:07:50.502Z",
   "weatherError": null,
   "sources": [
     {
@@ -1888,7 +1888,7 @@
       "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 500 Using previous snapshot data."
+      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
@@ -1896,7 +1896,7 @@
       "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 500 Using previous snapshot data."
+      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
@@ -1904,7 +1904,7 @@
       "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 500 Using previous snapshot data."
+      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
