@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T18:08:57.765Z",
-  "fetchedAt": "2026-08-01T18:08:57.761Z",
+  "generatedAt": "2026-08-01T20:14:25.732Z",
+  "fetchedAt": "2026-08-01T20:14:25.729Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 784,
+  "itemCount": 152,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/rothko-show-in-florence.html?utm_source=rss&utm_medium=rss&utm_campaign=rothko-show-in-florence",
@@ -1709,34 +1709,23 @@
       "summary": "...",
       "publishedAt": "2026-07-02T23:14:12.000Z",
       "articleId": "05f4d7289526a160"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/stop-screeching-about-immigration",
-      "title": "Stop screeching about immigration, and get smart about it",
-      "url": "https://www.noahpinion.blog/p/stop-screeching-about-immigration",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The culture war is making it impossible for us to deal with declining population.",
-      "publishedAt": "2026-07-02T20:05:15.000Z",
-      "articleId": "9cd3fbf177ad4db1"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-pleasant-today-before-humidity-and-storm-chances-build/",
-    "title": "DC-area forecast: Pleasant today before humidity and storm chances build",
+    "title": "DC-area forecast: Calm tonight. Rain chances arrive Sunday as humidity builds.",
     "url": "https://www.capitalweather.com/dc-area-forecast-pleasant-today-before-humidity-and-storm-chances-build/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny today as afternoon highs reach the upper 80s to low 90s with moderate humidity.",
+    "summary": "HAPPENING NOW: Cloud cover increases some this evening but it's likely rain-free until nearer sunrise. Evening 80s slowly sink to lows in the upper 60s to mid-70s.",
     "publishedAt": "2026-08-01T09:00:20.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
     "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-01T18:08:57.765Z",
+  "weatherGeneratedAt": "2026-08-01T20:14:25.732Z",
   "weatherError": null,
   "sources": [
     {
@@ -1750,10 +1739,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
