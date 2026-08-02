@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-02T11:33:38.656Z",
-  "fetchedAt": "2026-08-02T11:33:38.653Z",
+  "generatedAt": "2026-08-02T13:49:19.549Z",
+  "fetchedAt": "2026-08-02T13:49:19.544Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
+      "title": "The Orchestra Returns: A Conversation with Harry Levin",
+      "url": "https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Journalist Harry Levin stops by to talk about why everyone is partying like it's 1792",
+      "publishedAt": "2026-08-02T13:30:06.000Z",
+      "articleId": "9802ea7327708843"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "title": "Christopher Nolan’s Trojan Horse",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The finest trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
+      "publishedAt": "2026-08-02T13:20:42.000Z",
+      "articleId": "8318fff3be379c5a"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
       "title": "World War Two-and-a-Half Is Breaking Out",
@@ -13,19 +36,8 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Whatever is happening in Iran, it isn’t working.",
-      "publishedAt": "2026-08-02T11:24:53.000Z",
+      "publishedAt": "2026-08-02T11:24:54.000Z",
       "articleId": "e40407d7b99824ea"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "title": "Christopher Nolan Stared Into Elon Musk’s Soul",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Then he turned toward Stephen Miller.",
-      "publishedAt": "2026-08-02T11:02:19.000Z",
-      "articleId": "8318fff3be379c5a"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
@@ -1710,17 +1722,6 @@
       "summary": "Most Americans still love their country, but patriotism is in sharp decline.",
       "publishedAt": "2026-07-03T19:00:18.000Z",
       "articleId": "3b119186faa33f6d"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
-      "title": "The Fall and Rise of Screwworm",
-      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.",
-      "publishedAt": "2026-07-03T12:02:57.000Z",
-      "articleId": "3692d70ce4d8af03"
     }
   ],
   "weather": {
@@ -1730,14 +1731,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with morning 70s rising to afternoon highs in the muggy mid-80s. A few showers and storms are possible in the afternoon, with a better chance of scattered showers and storms toward evening.",
+    "summary": "HAPPENING NOW: Mostly cloudy with morning 70s rising to afternoon highs in the muggy mid-80s. Scattered showers are mainly west and north of the Beltway this morning into early afternoon, then some hit-or-miss showers and storms possible area-wide mid- to late afternoon.",
     "publishedAt": "2026-08-02T09:00:33.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms midafternoon into evening.",
+    "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T11:33:38.656Z",
+  "weatherGeneratedAt": "2026-08-02T13:49:19.549Z",
   "weatherError": null,
   "sources": [
     {
@@ -1887,10 +1888,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
@@ -1903,10 +1904,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
