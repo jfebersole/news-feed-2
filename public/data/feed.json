@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T22:08:14.474Z",
-  "fetchedAt": "2026-08-01T22:08:14.470Z",
+  "generatedAt": "2026-08-02T00:07:56.730Z",
+  "fetchedAt": "2026-08-02T00:07:56.727Z",
   "sourceCount": 23,
-  "itemCount": 152,
+  "itemCount": 151,
   "totalItemCount": 784,
   "items": [
     {
@@ -237,7 +237,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Does Gen Z feel welcome at church?",
-      "publishedAt": "2026-07-30T20:12:59.000Z",
+      "publishedAt": "2026-07-30T20:13:00.000Z",
       "articleId": "a5af00d1301598c8"
     },
     {
@@ -1698,17 +1698,6 @@
       "summary": "What area does quarterback Jaxson Dart need to improve in to take a step forward in Year 2?",
       "publishedAt": "2026-07-03T10:30:41.000Z",
       "articleId": "a477fceb205b4126"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-      "title": "The AI Superforecasters Are Here",
-      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-02T23:14:12.000Z",
-      "articleId": "05f4d7289526a160"
     }
   ],
   "weather": {
@@ -1723,10 +1712,11 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
-    "articleId": "0925a4869fb0447e"
+    "articleId": "0925a4869fb0447e",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-01T22:08:14.474Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-02T00:07:56.730Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1883,10 +1873,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
