@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-02T13:49:19.549Z",
-  "fetchedAt": "2026-08-02T13:49:19.544Z",
+  "generatedAt": "2026-08-02T15:15:31.988Z",
+  "fetchedAt": "2026-08-02T15:15:31.984Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/on-the-acemoglu-autor-et-al-fertility-result.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-acemoglu-autor-et-al-fertility-result",
+      "title": "On the Acemoglu-Autor et.al. fertility result",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/on-the-acemoglu-autor-et-al-fertility-result.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is criticism from Revana Sharffuddin. Here is criticism from JFV. The post On the Acemoglu-Autor et.al. fertility result appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-08-02T14:16:16.000Z",
+      "articleId": "b8d2e824a7bd03ae"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
       "title": "The Orchestra Returns: A Conversation with Harry Levin",
@@ -429,17 +440,6 @@
       "summary": "(and why I don’t buy it)",
       "publishedAt": "2026-07-30T09:01:49.000Z",
       "articleId": "95242798e2c23408"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/an-experiment-for-our-schools.html?utm_source=rss&utm_medium=rss&utm_campaign=an-experiment-for-our-schools",
-      "title": "An experiment for our schools",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-experiment-for-our-schools.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Schools in at least three states will be equipped with drones this year that can zoom through halls, smash windows and pepper-spray active shooters if teachers report a threat. At least nine schools — three in Florida, five in Georgia and one in Colorado — will have storage boxes that house the plastic, nonlethal aircraft […] The post An experiment for our schools appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-30T08:07:55.000Z",
-      "articleId": "c84bb7980df0f2c5"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
@@ -1731,14 +1731,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with morning 70s rising to afternoon highs in the muggy mid-80s. Scattered showers are mainly west and north of the Beltway this morning into early afternoon, then some hit-or-miss showers and storms possible area-wide mid- to late afternoon.",
+    "summary": "HAPPENING NOW: Mostly cloudy with highs in the muggy low to mid-80s. Scattered showers are mainly west and north of the Beltway this morning into early afternoon, then some hit-or-miss showers and storms possible area-wide mid- to late afternoon.",
     "publishedAt": "2026-08-02T09:00:33.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T13:49:19.549Z",
+  "weatherGeneratedAt": "2026-08-02T15:15:31.988Z",
   "weatherError": null,
   "sources": [
     {
@@ -1896,10 +1896,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
