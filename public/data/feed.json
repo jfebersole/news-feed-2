@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T00:07:56.730Z",
-  "fetchedAt": "2026-08-02T00:07:56.727Z",
+  "generatedAt": "2026-08-02T04:34:04.552Z",
+  "fetchedAt": "2026-08-02T04:34:04.548Z",
   "sourceCount": 23,
   "itemCount": 151,
   "totalItemCount": 784,
@@ -1712,11 +1712,10 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Some sun, warmth, and moderate humidity start August with a solid day to spend outdoors.",
-    "articleId": "0925a4869fb0447e",
-    "stale": true
+    "articleId": "0925a4869fb0447e"
   },
-  "weatherGeneratedAt": "2026-08-02T00:07:56.730Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-02T04:34:04.552Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
