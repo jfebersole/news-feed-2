@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-02T15:15:31.988Z",
-  "fetchedAt": "2026-08-02T15:15:31.984Z",
+  "generatedAt": "2026-08-02T17:11:45.352Z",
+  "fetchedAt": "2026-08-02T17:11:45.349Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-506",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-506",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-08-02T17:00:30.000Z",
+      "articleId": "2bf4f120257acce7"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-578",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The inverseminar, someone else presents your paper. 2. The rise of million-dollar companies with just one employee (WSJ). 3. The political party itself is a big driver of polarization. 4. Gita Gopinath is making sense. 5. GPT Pro (not Astra) on what “Astra” means. 6. David Perell art history game. 7. New model of […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "publishedAt": "2026-08-02T15:58:08.000Z",
+      "articleId": "c49da1c5af2116ad"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/on-the-acemoglu-autor-et-al-fertility-result.html?utm_source=rss&utm_medium=rss&utm_campaign=on-the-acemoglu-autor-et-al-fertility-result",
       "title": "On the Acemoglu-Autor et.al. fertility result",
@@ -12,7 +35,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is criticism from Revana Sharffuddin. Here is criticism from JFV. The post On the Acemoglu-Autor et.al. fertility result appeared first on Marginal REVOLUTION .",
+      "summary": "Here is criticism from Revana Sharfuddin. Here is criticism from JFV. The post On the Acemoglu-Autor et.al. fertility result appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-08-02T14:16:16.000Z",
       "articleId": "b8d2e824a7bd03ae"
     },
@@ -384,17 +407,6 @@
       "summary": "A battery technology that’s getting a lot of attention is solid-state batteries, lithium-ion batteries that replace the liquid electrolyte with a solid material.",
       "publishedAt": "2026-07-30T12:04:25.000Z",
       "articleId": "48f692240df25def"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-endangered-species-act-reduces-housing",
-      "title": "The Endangered Species Act Reduces Housing",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Max Tabarrok’s paper on the Endangered Species Act and housing (WP) has just been published in the Journal of Public Economics! It’s a clever paper: Max observed that the moment an animal is put on the endangered species list, developers face enhanced compliance costs and liability risk. But what’s important for an empirical economist is […] The post The Endangered Species Act Reduces Housing appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-30T11:16:05.000Z",
-      "articleId": "698afd572c2f9d83"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
@@ -937,18 +949,6 @@
       "summary": "Timothy Lee from Understanding AI tells me I’m wrong about this.",
       "publishedAt": "2026-07-23T09:00:49.000Z",
       "articleId": "c9593405c69a86fc"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
-      "title": "Housing is at the top of everyone’s agenda",
-      "url": "https://www.slowboring.com/p/housing-is-at-the-top-of-everyones",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "New polling, research, investment, and shifting investor behavior all point to housing’s growing influence on voters, markets, states, and lawmakers.",
-      "publishedAt": "2026-07-22T22:01:12.000Z",
-      "articleId": "a0af5d8f4d84dde4"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mtdisau9kxnib9lc3bud.html",
@@ -1726,19 +1726,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
-    "title": "DC-area forecast: More humid today with a gradually rising chance for showers and storms",
+    "title": "DC-area forecast: More humid today with scattered showers and storms",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with highs in the muggy low to mid-80s. Scattered showers are mainly west and north of the Beltway this morning into early afternoon, then some hit-or-miss showers and storms possible area-wide mid- to late afternoon.",
+    "summary": "HAPPENING NOW: Mostly cloudy with highs in the muggy low to mid-80s. Scattered early to midafternoon showers, including some pockets of heavier rain and thunder, may temporarily let up during the approximately 3 to 5 p.m. window.",
     "publishedAt": "2026-08-02T09:00:33.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T15:15:31.988Z",
+  "weatherGeneratedAt": "2026-08-02T17:11:45.352Z",
   "weatherError": null,
   "sources": [
     {
@@ -1896,10 +1896,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
