@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T21:07:33.763Z",
-  "fetchedAt": "2026-08-02T21:07:33.758Z",
+  "generatedAt": "2026-08-02T23:07:25.861Z",
+  "fetchedAt": "2026-08-02T23:07:25.856Z",
   "sourceCount": 23,
   "itemCount": 152,
   "totalItemCount": 774,
@@ -1715,21 +1715,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
-    "title": "DC-area forecast: More humid today with scattered showers and storms",
+    "title": "DC-area forecast: Flood watch issued for downpours into evening",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with highs in the muggy low to mid-80s. Scattered early to midafternoon showers, including some pockets of heavier rain and thunder, may temporarily let up during the approximately 3 to 5 p.m. window.",
+    "summary": "HAPPENING NOW: Scattered storms and downpours this evening. Western half of DC, southern Montgomery County near the Beltway, and eastern Fairfax County is under a flash flood warning until 7:45 p.m. A flood watch is in effect for much of the region until midnight.",
     "publishedAt": "2026-08-02T09:00:33.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
-    "articleId": "a77932f1b82de570",
-    "stale": true
+    "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T21:07:33.763Z",
-  "weatherError": "Feed not recognized as RSS 1 or 2.",
+  "weatherGeneratedAt": "2026-08-02T23:07:25.861Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
