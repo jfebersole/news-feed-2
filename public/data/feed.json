@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-02T17:11:45.352Z",
-  "fetchedAt": "2026-08-02T17:11:45.349Z",
+  "generatedAt": "2026-08-02T19:31:11.357Z",
+  "fetchedAt": "2026-08-02T19:31:11.352Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 784,
+  "itemCount": 152,
+  "totalItemCount": 763,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
+      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
+      "publishedAt": "2026-08-02T19:13:33.000Z",
+      "articleId": "8874668ee2942e06"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-506",
       "title": "Sunday Thread + Mailbag",
@@ -63,8 +74,19 @@
       "articleId": "8318fff3be379c5a"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-dodgers-havent-ruined-baseball",
+      "title": "The Dodgers Haven't Ruined Baseball. (Yet.)",
+      "url": "https://neilpaine.substack.com/p/the-dodgers-havent-ruined-baseball",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "And a salary cap wouldn't stop them anyway — nor is it supposed to.",
+      "publishedAt": "2026-08-02T12:01:43.000Z",
+      "articleId": "111c62369a1a7bee"
+    },
+    {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
-      "title": "World War Two-and-a-Half Is Breaking Out",
+      "title": "The War That Could Swallow the World",
       "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
       "source": "David French (NYT)",
       "sourceUrl": "https://www.nytimes.com/by/david-french",
@@ -95,17 +117,6 @@
       "summary": "[Annualized] 14% GDP growth in the first half of 2026 The post Taiwan fact of the day appeared first on Marginal REVOLUTION .",
       "publishedAt": "2026-08-02T06:54:39.000Z",
       "articleId": "b32074286e542c52"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
-      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
-      "publishedAt": "2026-08-02T06:02:00.000Z",
-      "articleId": "8874668ee2942e06"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day",
@@ -542,17 +553,6 @@
       "summary": "Freedom is good; greed is not",
       "publishedAt": "2026-07-29T10:02:17.000Z",
       "articleId": "2f0d5d95d86917e6"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/in-mlbs-year-of-incomplete-contenders",
-      "title": "In MLB's Year of Incomplete Contenders, the Nationals Are the Most Lopsided of All",
-      "url": "https://neilpaine.substack.com/p/in-mlbs-year-of-incomplete-contenders",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Washington's explosive offense and terrible run-prevention make them the most extreme example in a playoff race full of teams who excel at one thing and struggle at another.",
-      "publishedAt": "2026-07-29T09:00:29.000Z",
-      "articleId": "294159dd25cfd354"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/o819zyszw1nw9pw6ktax.html",
@@ -1711,17 +1711,6 @@
       "summary": "Reflections on 250 years.",
       "publishedAt": "2026-07-04T09:31:52.000Z",
       "articleId": "943eee4af4b9b316"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/america-used-to-be-exceptionally",
-      "title": "America used to be exceptionally patriotic. Now we're below average.",
-      "url": "https://www.natesilver.net/p/america-used-to-be-exceptionally",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Most Americans still love their country, but patriotism is in sharp decline.",
-      "publishedAt": "2026-07-03T19:00:18.000Z",
-      "articleId": "3b119186faa33f6d"
     }
   ],
   "weather": {
@@ -1738,7 +1727,7 @@
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T17:11:45.352Z",
+  "weatherGeneratedAt": "2026-08-02T19:31:11.357Z",
   "weatherError": null,
   "sources": [
     {
@@ -1752,10 +1741,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1784,18 +1773,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 3,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 6,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -1896,10 +1885,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
