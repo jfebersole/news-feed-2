@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-02T10:06:09.551Z",
-  "fetchedAt": "2026-08-02T10:06:09.547Z",
+  "generatedAt": "2026-08-02T11:33:38.656Z",
+  "fetchedAt": "2026-08-02T11:33:38.653Z",
   "sourceCount": 23,
-  "itemCount": 152,
+  "itemCount": 153,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "title": "World War Two-and-a-Half Is Breaking Out",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Whatever is happening in Iran, it isn’t working.",
+      "publishedAt": "2026-08-02T11:24:53.000Z",
+      "articleId": "e40407d7b99824ea"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "title": "Christopher Nolan Stared Into Elon Musk’s Soul",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Then he turned toward Stephen Miller.",
+      "publishedAt": "2026-08-02T11:02:19.000Z",
+      "articleId": "8318fff3be379c5a"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
       "title": "Slopulism is taking over America",
@@ -1699,17 +1721,6 @@
       "summary": "Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.",
       "publishedAt": "2026-07-03T12:02:57.000Z",
       "articleId": "3692d70ce4d8af03"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7414102/2026/07/03/new-york-giants-training-camp-roster/",
-      "title": "N.Y. Giants training camp preview: One thought on Skattebo, Dart and every player on offense",
-      "url": "https://www.nytimes.com/athletic/7414102/2026/07/03/new-york-giants-training-camp-roster/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "What area does quarterback Jaxson Dart need to improve in to take a step forward in Year 2?",
-      "publishedAt": "2026-07-03T10:30:41.000Z",
-      "articleId": "a477fceb205b4126"
     }
   ],
   "weather": {
@@ -1726,7 +1737,7 @@
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms midafternoon into evening.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T10:06:09.551Z",
+  "weatherGeneratedAt": "2026-08-02T11:33:38.656Z",
   "weatherError": null,
   "sources": [
     {
@@ -1892,10 +1903,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
