@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-02T19:31:11.357Z",
-  "fetchedAt": "2026-08-02T19:31:11.352Z",
+  "generatedAt": "2026-08-02T21:07:33.763Z",
+  "fetchedAt": "2026-08-02T21:07:33.758Z",
   "sourceCount": 23,
   "itemCount": 152,
-  "totalItemCount": 763,
+  "totalItemCount": 774,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "title": "The War That Could Swallow the World",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Whatever is happening in Iran, it isn’t working.",
+      "publishedAt": "2026-08-02T19:19:38.000Z",
+      "articleId": "e40407d7b99824ea"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
       "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
@@ -15,6 +26,17 @@
       "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
       "publishedAt": "2026-08-02T19:13:33.000Z",
       "articleId": "8874668ee2942e06"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "title": "Christopher Nolan’s Trojan Horse",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
+      "publishedAt": "2026-08-02T19:13:16.000Z",
+      "articleId": "8318fff3be379c5a"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-506",
@@ -63,17 +85,6 @@
       "articleId": "9802ea7327708843"
     },
     {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "title": "Christopher Nolan’s Trojan Horse",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The finest trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
-      "publishedAt": "2026-08-02T13:20:42.000Z",
-      "articleId": "8318fff3be379c5a"
-    },
-    {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-dodgers-havent-ruined-baseball",
       "title": "The Dodgers Haven't Ruined Baseball. (Yet.)",
       "url": "https://neilpaine.substack.com/p/the-dodgers-havent-ruined-baseball",
@@ -83,17 +94,6 @@
       "summary": "And a salary cap wouldn't stop them anyway — nor is it supposed to.",
       "publishedAt": "2026-08-02T12:01:43.000Z",
       "articleId": "111c62369a1a7bee"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
-      "title": "The War That Could Swallow the World",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Whatever is happening in Iran, it isn’t working.",
-      "publishedAt": "2026-08-02T11:24:54.000Z",
-      "articleId": "e40407d7b99824ea"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
@@ -1725,10 +1725,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
-    "articleId": "a77932f1b82de570"
+    "articleId": "a77932f1b82de570",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-02T19:31:11.357Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-02T21:07:33.763Z",
+  "weatherError": "Feed not recognized as RSS 1 or 2.",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1773,18 +1774,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 6,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
@@ -1885,10 +1886,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
