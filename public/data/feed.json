@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-03T00:11:57.811Z",
-  "fetchedAt": "2026-08-03T00:11:57.805Z",
+  "generatedAt": "2026-08-03T04:42:39.999Z",
+  "fetchedAt": "2026-08-03T04:42:39.994Z",
   "sourceCount": 23,
-  "itemCount": 152,
+  "itemCount": 153,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=romes-age-of-revolution",
+      "title": "*Rome’s Age of Revolution*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Tim Whitmarsh and the subtitle is Augustus, Empire and the Making of Christianity. This is the most important book on the history of Christianity I have read in a long time, and it is also an important work in Roman history. Yet also fun and extremely readable. Excerpt: The story I have […]",
+      "publishedAt": "2026-08-03T04:33:37.000Z",
+      "articleId": "1d0693030aff73d3"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
+      "title": "Thoughts on inflation and monetary policy",
+      "url": "https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Be careful what you ask for",
+      "publishedAt": "2026-08-03T01:27:55.000Z",
+      "articleId": "c01a2a5f48de0df2"
+    },
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
+      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
+      "publishedAt": "2026-08-03T01:10:29.000Z",
+      "articleId": "8874668ee2942e06"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
       "title": "The War That Could Swallow the World",
@@ -15,17 +48,6 @@
       "summary": "Whatever is happening in Iran, it isn’t working.",
       "publishedAt": "2026-08-02T23:28:31.000Z",
       "articleId": "e40407d7b99824ea"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
-      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
-      "publishedAt": "2026-08-02T23:08:28.000Z",
-      "articleId": "8874668ee2942e06"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
@@ -57,7 +79,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. The inverseminar, someone else presents your paper. 2. The rise of million-dollar companies with just one employee (WSJ). 3. The political party itself is a big driver of polarization. 4. Gita Gopinath is making sense. 5. GPT Pro (not Astra) on what “Astra” means. 6. David Perell art history game. 7. New model of […] The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. The inverseminar, someone else presents your paper. 2. The rise of million-dollar companies with just one employee (WSJ). 3. The political party itself is a big driver of polarization. 4. Gita Gopinath is making sense. 5. GPT Pro (not Astra) on what “Astra” means. 6. David Perell art history game. 7. New model of […]",
       "publishedAt": "2026-08-02T15:58:08.000Z",
       "articleId": "c49da1c5af2116ad"
     },
@@ -68,7 +90,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Here is criticism from Revana Sharfuddin. Here is criticism from JFV. The post On the Acemoglu-Autor et.al. fertility result appeared first on Marginal REVOLUTION .",
+      "summary": "Here is criticism from Revana Sharfuddin. Here is criticism from JFV.",
       "publishedAt": "2026-08-02T14:16:16.000Z",
       "articleId": "b8d2e824a7bd03ae"
     },
@@ -114,7 +136,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "[Annualized] 14% GDP growth in the first half of 2026 The post Taiwan fact of the day appeared first on Marginal REVOLUTION .",
+      "summary": "[Annualized] 14% GDP growth in the first half of 2026",
       "publishedAt": "2026-08-02T06:54:39.000Z",
       "articleId": "b32074286e542c52"
     },
@@ -125,7 +147,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Mexico has quietly become a cornerstone of the AI boom, providing 40 per cent of US imports this year of the computer servers that are widely used in the data centres powering artificial intelligence. Taiwanese manufacturers are rapidly expanding factories in Mexico to assemble servers, which are now the country’s top US export, overtaking autos […] The post Mexico (Taiwan) fact of the day appeared first on Marginal REVOLUTION .",
+      "summary": "Mexico has quietly become a cornerstone of the AI boom, providing 40 per cent of US imports this year of the computer servers that are widely used in the data centres powering artificial intelligence. Taiwanese manufacturers are rapidly expanding factories in Mexico to assemble servers, which are now the country’s top US export, overtaking autos […]",
       "publishedAt": "2026-08-02T04:35:52.000Z",
       "articleId": "21583cf00404f8c4"
     },
@@ -136,7 +158,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "In Museo San Marco there is an ancillary exhibit, placing some smaller, lighter colored Rothkos next to their Fra Angelico frescoes. Those rooms bowled me over, as for one thing they show how much Rothko was a religious painter at heart. I also was struck by the high proportion of Chinese visitors at this show, […] The post Rothko show in Florence appeared first on Marginal REVOLUTION .",
+      "summary": "In Museo San Marco there is an ancillary exhibit, placing some smaller, lighter colored Rothkos next to their Fra Angelico frescoes. Those rooms bowled me over, as for one thing they show how much Rothko was a religious painter at heart. I also was struck by the high proportion of Chinese visitors at this show, […]",
       "publishedAt": "2026-08-01T17:50:35.000Z",
       "articleId": "d1f7451ebb644b3c"
     },
@@ -147,7 +169,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. What do consultants get paid for? 2. Ugly architecture creates coalitions against development. 3. London is (modestly) degentrifying. 4. Is the “no forward guidance” approach failing? (FT) 5. Chinese interview with Christopher Nolan. 6. “social media use and school grades are unrelated for adolescents…meta-analytic evidence is not in support of dramatic claims relating social […] The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. What do consultants get paid for? 2. Ugly architecture creates coalitions against development. 3. London is (modestly) degentrifying. 4. Is the “no forward guidance” approach failing? (FT) 5. Chinese interview with Christopher Nolan. 6. “social media use and school grades are unrelated for adolescents…meta-analytic evidence is not in support of dramatic claims relating social […]",
       "publishedAt": "2026-08-01T16:21:09.000Z",
       "articleId": "b40664ad2a7179c3"
     },
@@ -170,7 +192,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models! That is from Noam Brown, at the link you will find his list of the ten breakthroughs. Here […] The post More math breakthroughs from GPT models appeared first on Marginal REVOLUTION .",
+      "summary": "The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models! That is from Noam Brown, at the link you will find his list of the ten breakthroughs. Here […]",
       "publishedAt": "2026-08-01T10:53:40.000Z",
       "articleId": "3f3525df5b6525a2"
     },
@@ -192,7 +214,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large […] The post Immigration and Macroeconomic Outcomes in OECD Countries appeared first on Marginal REVOLUTION .",
+      "summary": "OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large […]",
       "publishedAt": "2026-08-01T06:48:26.000Z",
       "articleId": "fb127b60562a9f52"
     },
@@ -203,7 +225,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore conceptual approaches to cosmic expansion and dark energy while continuing his formal academic preparation in cosmology. Kevin Gibson, a student […] The post Emergent Ventures India, 18th cohort appeared first on Marginal REVOLUTION .",
+      "summary": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore conceptual approaches to cosmic expansion and dark energy while continuing his formal academic preparation in cosmology. Kevin Gibson, a student […]",
       "publishedAt": "2026-08-01T04:24:42.000Z",
       "articleId": "aeca268107871927"
     },
@@ -237,7 +259,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […] The post *Redefining Global Health in the 21st Century* appeared first on Marginal REVOLUTION .",
+      "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […]",
       "publishedAt": "2026-07-31T17:54:16.000Z",
       "articleId": "5c164e423fb88207"
     },
@@ -248,7 +270,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Tokenizing the value from compute? 2. Will they ruin the look of Dulles airport? 3. Pathways into homelessness. 4. Defensible valuations for AI companies. 5. Further reasons why very rapid economic growth is very difficult to achieve. 6. Over 20,000 precolonial earthworks in the Southwest Amazonia. The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "summary": "1. Tokenizing the value from compute? 2. Will they ruin the look of Dulles airport? 3. Pathways into homelessness. 4. Defensible valuations for AI companies. 5. Further reasons why very rapid economic growth is very difficult to achieve. 6. Over 20,000 precolonial earthworks in the Southwest Amazonia.",
       "publishedAt": "2026-07-31T16:05:45.000Z",
       "articleId": "28f758657bced661"
     },
@@ -294,7 +316,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred yards, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION .",
+      "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred yards, projecting some […]",
       "publishedAt": "2026-07-31T07:03:26.000Z",
       "articleId": "e64e9154d3dcdcc9"
     },
@@ -305,7 +327,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "How do “international efforts” work? Unlike most of the signatories of the letter, I have been a State Department advisor and have participated in multiple treaty negotiations. I have also been a member of technical committees for UN technical agencies. The international sector is unbelievably dysfunctional. Every single treaty or international agreement is an opportunity […] The post The wisdom of Eli Dourado appeared first on Marginal REVOLUTION .",
+      "summary": "How do “international efforts” work? Unlike most of the signatories of the letter, I have been a State Department advisor and have participated in multiple treaty negotiations. I have also been a member of technical committees for UN technical agencies. The international sector is unbelievably dysfunctional. Every single treaty or international agreement is an opportunity […]",
       "publishedAt": "2026-07-31T05:02:53.000Z",
       "articleId": "2b208b7bdb85e048"
     },
@@ -360,7 +382,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "This paper uses computational linguistics to introduce a novel measure of firm-level cyber risk exposure based on the quarterly earnings calls of listed firms. Our measure covers more than 14,000 firms from over 90 countries between 2003 and 2025. The measure is validated using human auditors and a large language model. We show that cyber […] The post The Anatomy of Cyber Risk appeared first on Marginal REVOLUTION .",
+      "summary": "This paper uses computational linguistics to introduce a novel measure of firm-level cyber risk exposure based on the quarterly earnings calls of listed firms. Our measure covers more than 14,000 firms from over 90 countries between 2003 and 2025. The measure is validated using human auditors and a large language model. We show that cyber […]",
       "publishedAt": "2026-07-30T18:06:08.000Z",
       "articleId": "04e7b432008951c9"
     },
@@ -396,17 +418,6 @@
       "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-07-30T16:53:41.942Z",
       "articleId": "2575c9a76c10d701"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-563",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-563.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Joshua Rothman on lookism. 2. Young adults are using AI to manage their social media feeds (WSJ). 3. What predicts an NBA Achilles tear? 4. LLM data set on changing cultural trends over the centuries. 5. Xi’an Famous Foods is coming to Clarendon. 6. If a German expressionist movie director had filmed a silent […] The post Thursday assorted links appeared first on Marginal REVOLUTION .",
-      "publishedAt": "2026-07-30T16:24:33.000Z",
-      "articleId": "d26e89745f79a087"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
@@ -1715,19 +1726,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
-    "title": "DC-area forecast: Flood watch issued for downpours into evening",
+    "title": "DC-area forecast: Scattered showers and an isolated downpour linger this evening",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Scattered showers and downpours this evening. A flood watch is in effect for much of the region until midnight.",
+    "summary": "HAPPENING NOW: Scattered showers linger this evening with an isolated downpour still possible. The flood watch that was in effect until midnight has been canceled.",
     "publishedAt": "2026-08-02T09:00:33.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-03T00:11:57.811Z",
+  "weatherGeneratedAt": "2026-08-03T04:42:39.999Z",
   "weatherError": null,
   "sources": [
     {
