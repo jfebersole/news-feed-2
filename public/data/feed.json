@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-08-03T08:41:05.970Z",
-  "fetchedAt": "2026-08-03T08:41:05.966Z",
+  "generatedAt": "2026-08-03T12:34:58.242Z",
+  "fetchedAt": "2026-08-03T12:34:58.240Z",
   "sourceCount": 23,
-  "itemCount": 153,
+  "itemCount": 152,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7487554/2026/08/03/new-york-giants-training-camp-jaxson-dart-john-harbaugh/",
+      "title": "Why Jaxson Dart, Giants offense have scuffled early, and why John Harbaugh isn't worried",
+      "url": "https://www.nytimes.com/athletic/7487554/2026/08/03/new-york-giants-training-camp-jaxson-dart-john-harbaugh/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Dart has been experiencing some growing pains in the first four practices of training camp.",
+      "publishedAt": "2026-08-03T11:30:23.000Z",
+      "articleId": "29ee0bc4e7ecff3e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/democrats-should-seize-the-chance",
+      "title": "Democrats should seize the chance to end the filibuster",
+      "url": "https://www.slowboring.com/p/democrats-should-seize-the-chance",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A national voter ID law is nothing to fear.",
+      "publishedAt": "2026-08-03T10:03:50.000Z",
+      "articleId": "f0cf23b2bc9eb291"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
+      "title": "Meta Earnings, Meta’s Timing Problems, The Financial Tail",
+      "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Meta's earnings were a bit disappointing; future promises about AI products were more disconcerting.",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "articleId": "6ad6fd144b98d513"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html?utm_source=rss&utm_medium=rss&utm_campaign=on-infinite-ethics",
       "title": "On infinite ethics",
@@ -679,17 +713,6 @@
       "articleId": "a0b4146ef762bbe5"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/vacation-week-of-july-27/",
-      "title": "Vacation: Week of July 27",
-      "url": "https://stratechery.com/2026/vacation-week-of-july-27/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3. Sharp Tech, and Greatest of All Talk will also return the week of August 3. Sharp China and Asianometry will continue to publish, and there will be one episode of Dithering next week. The […]",
-      "publishedAt": "2026-07-27T10:00:00.000Z",
-      "articleId": "939d95c14ad31581"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
       "title": "Why Vance Still Trumps Rubio",
       "url": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
@@ -948,18 +971,6 @@
       "summary": "The Giants didn't hire John Harbaugh to oversee a rebuild, but did they do enough to help the coach turn them into NFC contenders?",
       "publishedAt": "2026-07-23T10:00:42.000Z",
       "articleId": "0a991c8850166bb9"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/will-ai-take-your-job-mine-everyones",
-      "title": "Will A.I. take your job? Mine? Everyone’s?",
-      "url": "https://www.slowboring.com/p/will-ai-take-your-job-mine-everyones",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Timothy Lee from Understanding AI tells me I’m wrong about this.",
-      "publishedAt": "2026-07-23T09:00:49.000Z",
-      "articleId": "c9593405c69a86fc"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mtdisau9kxnib9lc3bud.html",
@@ -1698,47 +1709,23 @@
       "summary": "The proxy battles we got instead have not settled questions we have to settle.",
       "publishedAt": "2026-07-05T13:49:29.000Z",
       "articleId": "67adeece8b61b344"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-070426",
-      "title": "Reading List 07/04/26",
-      "url": "https://www.construction-physics.com/p/reading-list-070426",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Households without homeowners insurance, crackdowns on AI chip smuggling, Japan’s two electrical frequencies, Meta’s AI compute business, and more.",
-      "publishedAt": "2026-07-04T12:03:22.000Z",
-      "articleId": "e166d0ca82728bd9"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-american-age-was-the-human-age",
-      "title": "The American age was the human age",
-      "url": "https://www.noahpinion.blog/p/the-american-age-was-the-human-age",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Reflections on 250 years.",
-      "publishedAt": "2026-07-04T09:31:52.000Z",
-      "articleId": "943eee4af4b9b316"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
-    "title": "DC-area forecast: Scattered showers and an isolated downpour linger this evening",
-    "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-today-with-a-gradually-rising-chance-for-showers-and-storms/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-sticky-week-with-stubborn-storm-chances/",
+    "title": "DC-area forecast: A sticky week with stubborn storm chances",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-sticky-week-with-stubborn-storm-chances/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Scattered showers linger this evening with an isolated downpour still possible. The flood watch that was in effect until midnight has been canceled.",
-    "publishedAt": "2026-08-02T09:00:33.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
-    "articleId": "a77932f1b82de570"
+    "summary": "HAPPENING NOW: Spotty morning showers; otherwise, partly sunny and very humid with scattered showers and storms developing this afternoon and evening. Highs in the mid-80s.",
+    "publishedAt": "2026-08-03T09:00:24.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
+    "articleId": "ee1469eda945f33b"
   },
-  "weatherGeneratedAt": "2026-08-03T08:41:05.970Z",
+  "weatherGeneratedAt": "2026-08-03T12:34:58.242Z",
   "weatherError": null,
   "sources": [
     {
