@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-03T21:17:16.577Z",
-  "fetchedAt": "2026-08-03T21:17:16.574Z",
+  "generatedAt": "2026-08-03T23:16:50.608Z",
+  "fetchedAt": "2026-08-03T23:16:50.604Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 783,
+  "itemCount": 154,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
+      "title": "Does Forecasting Have Room At The Top?",
+      "url": "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-03T22:36:17.000Z",
+      "articleId": "470c4399276ec008"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/democrats-are-winning-the-polls-but",
+      "title": "Democrats are winning the polls but losing the plot",
+      "url": "https://www.slowboring.com/p/democrats-are-winning-the-polls-but",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Primary voters are far more focused on fighting each other than on fighting the G.O.P.",
+      "publishedAt": "2026-08-03T22:01:04.000Z",
+      "articleId": "e42a120a2825c9b2"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
       "title": "Christopher Nolan’s Trojan Horse",
@@ -13,7 +36,7 @@
       "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
       "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
-      "publishedAt": "2026-08-03T20:54:09.000Z",
+      "publishedAt": "2026-08-03T20:54:10.000Z",
       "articleId": "8318fff3be379c5a"
     },
     {
@@ -972,18 +995,6 @@
       "articleId": "c7043a72101e993f"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/landlords-are-inevitable",
-      "title": "Landlords are inevitable",
-      "url": "https://www.slowboring.com/p/landlords-are-inevitable",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "State control doesn’t make tradeoffs go away.",
-      "publishedAt": "2026-07-23T10:02:12.000Z",
-      "articleId": "9fe1678f561db6e7"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7462531/2026/07/23/ny-giants-training-camp-preview-john-harbaugh-dexter-lawrence/",
       "title": "Giants’ 10-step plan revisited: Will New York regret lack of investment in trenches?",
       "url": "https://www.nytimes.com/athletic/7462531/2026/07/23/ny-giants-training-camp-preview-john-harbaugh-dexter-lawrence/",
@@ -1736,7 +1747,7 @@
     "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
     "articleId": "ee1469eda945f33b"
   },
-  "weatherGeneratedAt": "2026-08-03T21:17:16.577Z",
+  "weatherGeneratedAt": "2026-08-03T23:16:50.608Z",
   "weatherError": null,
   "sources": [
     {
@@ -1759,7 +1770,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1894,10 +1905,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
