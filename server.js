@@ -1155,7 +1155,9 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
 
   content = normalizeArticleContentForSource(content, sourceName, url);
 
-  if (content.wordCount < 35) {
+  const isUsableShortMarginalRevolutionPost =
+    source.includes("marginal revolution") && content.wordCount >= 5 && content.linkCount >= 1;
+  if (content.wordCount < 35 && !isUsableShortMarginalRevolutionPost) {
     return null;
   }
 
@@ -1375,6 +1377,9 @@ function cleanFeedSummary(value, source = null) {
 
   text = stripCssNoise(text);
   text = stripFeedBoilerplate(text);
+  if (sourceName.includes("marginal revolution")) {
+    text = stripMarginalRevolutionAttributionText(text);
+  }
 
   const maxLength = sourceName.includes("bloomberg") ? 2_800 : 1_800;
   return truncateAtWordBoundary(text, maxLength);
@@ -1522,6 +1527,11 @@ function extractArticleFromHtml({ html, url, sourceName }) {
   const paywallSignal = detectPaywallSignals($, html);
   const bestContainer = findBestArticleContainer($, { url, sourceName });
   let content = collectContentBlocks($, bestContainer, url, { preferSubstackMedia: isSubstackStyle });
+  if (source.includes("marginal revolution")) {
+    // Marginal Revolution has no visual deck; Yoast fills its description from
+    // the article body, which can be the entire post for short link entries.
+    subtitle = null;
+  }
   if (subtitle) {
     const isCapitalWeatherHappeningNow =
       source === "capital weather" && /^happening now\s*:/i.test(cleanText(subtitle));
@@ -1761,6 +1771,8 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
         "table",
         "figure",
         "div[data-component-name='DatawrapperToDOM']",
+        "div[data-component-name='PredictionMarketToDOM']",
+        "a[data-component-name='Twitter2ToDOM']",
         "div[class*='imageRow']",
         "img",
         "blockquote",
@@ -1779,6 +1791,8 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
         "table",
         "figure",
         "div[data-component-name='DatawrapperToDOM']",
+        "div[data-component-name='PredictionMarketToDOM']",
+        "a[data-component-name='Twitter2ToDOM']",
         "img",
         "blockquote",
         "pre",
@@ -1905,8 +1919,12 @@ function shouldKeepContentBlock($, element, options = {}) {
   const hasLinks = node.find("a[href]").length > 0;
   const hasImages = tag === "img" || node.find("img").length > 0;
 
+  if (tag === "a" && componentName === "twitter2todom") {
+    return true;
+  }
+
   if (tag === "div") {
-    if (componentName === "datawrappertodom") {
+    if (componentName === "datawrappertodom" || componentName === "predictionmarkettodom") {
       return true;
     }
 
@@ -2116,6 +2134,12 @@ function isDisallowedWithinReaderNode(node) {
 }
 
 function normalizeLinkElement(node, attrs, baseUrl) {
+  const componentName = (attrs["data-component-name"] || "").toLowerCase();
+  if (componentName === "twitter2todom") {
+    normalizeTwitterEmbedElement(node, attrs, baseUrl);
+    return;
+  }
+
   const rawHref = typeof attrs.href === "string" ? attrs.href.trim() : "";
   if (!rawHref) {
     if (node.attr("id")) {
@@ -2263,6 +2287,11 @@ function normalizeDivElement(node, attrs, baseUrl) {
     return;
   }
 
+  if (componentName === "predictionmarkettodom") {
+    normalizePredictionMarketElement(node, attrs, baseUrl);
+    return;
+  }
+
   if (!isSubstackImageRowMarker(marker)) {
     node.replaceWith(node.contents());
     return;
@@ -2309,6 +2338,137 @@ function normalizeDatawrapperElement(node, attrs, baseUrl) {
   if (caption) {
     node.append(`<p>${escapeHtml(caption)}</p>`);
   }
+}
+
+function normalizePredictionMarketElement(node, attrs, baseUrl) {
+  const payload = parseEmbeddedJsonAttr(attrs["data-attrs"] || "");
+  const sourceUrl = sanitizeUrl(payload?.url || "", baseUrl);
+  const imageUrl = sanitizeUrl(
+    payload?.thumbnail_url_full || payload?.thumbnail_url || "",
+    baseUrl
+  );
+
+  if (!sourceUrl && !imageUrl) {
+    node.remove();
+    return;
+  }
+
+  node.empty();
+  node.removeAttr("id");
+  node.attr("class", "reader-embed-card reader-prediction-embed");
+
+  const imageHtml = imageUrl
+    ? `<img src="${escapeHtml(imageUrl)}" alt="Embedded prediction market" loading="lazy" decoding="async" />`
+    : "";
+  const labelHtml = `<span class="reader-embed-action">Open prediction market ↗</span>`;
+  if (sourceUrl) {
+    node.append(
+      `<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">${imageHtml}${labelHtml}</a>`
+    );
+  } else {
+    node.append(imageHtml);
+  }
+}
+
+function normalizeTwitterEmbedElement(node, attrs, baseUrl) {
+  const rawPayload = attrs["data-attrs"] || node.find("[data-attrs]").first().attr("data-attrs") || "";
+  const payload = parseEmbeddedJsonAttr(rawPayload);
+  const sourceUrl = sanitizeUrl(payload?.url || attrs.href || "", baseUrl);
+  if (!payload || !sourceUrl) {
+    normalizeLinkElement(node, { ...attrs, "data-component-name": "" }, baseUrl);
+    return;
+  }
+
+  const name = cleanText(payload.name || payload.username || "Post on X");
+  const username = cleanText(payload.username || "").replace(/^@+/, "");
+  const profileImageUrl = sanitizeUrl(payload.profile_image_url || "", baseUrl);
+  const bodyHtml = renderEmbeddedParagraphs(payload.full_text || "");
+  const quotedTweet = payload.quoted_tweet && typeof payload.quoted_tweet === "object"
+    ? payload.quoted_tweet
+    : null;
+  const quotedBodyHtml = quotedTweet ? renderEmbeddedParagraphs(quotedTweet.full_text || "") : "";
+  const dateText = formatEmbeddedDate(payload.date);
+  const stats = [
+    formatEmbeddedStat(payload.reply_count, "Replies"),
+    formatEmbeddedStat(payload.retweet_count, "Reposts"),
+    formatEmbeddedStat(payload.like_count, "Likes"),
+    formatEmbeddedStat(payload.impression_count, "Views"),
+  ].filter(Boolean);
+
+  const profileImageHtml = profileImageUrl
+    ? `<img class="reader-social-profile-image" src="${escapeHtml(profileImageUrl)}" alt="" loading="lazy" decoding="async" />`
+    : "";
+  const quotedHeader = quotedTweet
+    ? `<div class="reader-social-quote-header"><strong>${escapeHtml(
+        cleanText(quotedTweet.name || quotedTweet.username || "Quoted post")
+      )}</strong>${quotedTweet.username ? `<span>@${escapeHtml(cleanText(quotedTweet.username).replace(/^@+/, ""))}</span>` : ""}</div>`
+    : "";
+  const quoteHtml = quotedBodyHtml
+    ? `<blockquote class="reader-social-quote">${quotedHeader}${quotedBodyHtml}</blockquote>`
+    : "";
+  const metaParts = [dateText, stats.join(" · ")].filter(Boolean);
+
+  node.empty();
+  node.removeAttr("id");
+  node.attr("class", "reader-embed-card reader-social-embed");
+  node.attr("href", sourceUrl);
+  node.attr("target", "_blank");
+  node.attr("rel", "noopener noreferrer");
+  node.append(`
+    <div class="reader-social-header">
+      ${profileImageHtml}
+      <div class="reader-social-identity">
+        <strong>${escapeHtml(name)}</strong>
+        ${username ? `<span>@${escapeHtml(username)}</span>` : ""}
+      </div>
+      <span class="reader-social-platform" aria-label="X">𝕏</span>
+    </div>
+    <div class="reader-social-body">${bodyHtml || "<p>Open this post on X.</p>"}</div>
+    ${quoteHtml}
+    ${metaParts.length ? `<div class="reader-social-meta">${escapeHtml(metaParts.join(" · "))}</div>` : ""}
+  `);
+}
+
+function renderEmbeddedParagraphs(value) {
+  const raw = String(value || "").replace(/<br\s*\/?>/gi, "\n");
+  const paragraphs = raw
+    .split(/\n{2,}/)
+    .map((part) => cleanText(part))
+    .filter(Boolean);
+  return paragraphs.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("");
+}
+
+function formatEmbeddedDate(value) {
+  const normalized = normalizeDate(value);
+  if (!normalized) {
+    return "";
+  }
+
+  try {
+    return new Intl.DateTimeFormat("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+      timeZone: "UTC",
+    }).format(new Date(normalized));
+  } catch {
+    return normalized.slice(0, 10);
+  }
+}
+
+function formatEmbeddedStat(value, label) {
+  const count = Number(value || 0);
+  if (!Number.isFinite(count) || count <= 0) {
+    return "";
+  }
+
+  let rendered = String(Math.round(count));
+  if (count >= 1_000_000) {
+    rendered = `${(count / 1_000_000).toFixed(count >= 10_000_000 ? 0 : 1).replace(/\.0$/, "")}M`;
+  } else if (count >= 1_000) {
+    rendered = `${(count / 1_000).toFixed(count >= 100_000 ? 0 : 1).replace(/\.0$/, "")}K`;
+  }
+  return `${rendered} ${label}`;
 }
 
 function isSubstackImageRowMarker(marker) {
@@ -2444,8 +2604,18 @@ function dedupeHtmlBlocks(blocks) {
   const output = [];
 
   blocks.forEach((block) => {
+    let key = "";
+    if (/\breader-embed-card\b/i.test(block)) {
+      const embedHref = block.match(/<a\b[^>]*\bhref=["']([^"']+)["']/i)?.[1] || "";
+      if (embedHref) {
+        key = `embed:${embedHref}`;
+      }
+    }
+
     const textKey = cleanText(block).toLowerCase();
-    let key = textKey;
+    if (!key) {
+      key = textKey;
+    }
 
     if (!key) {
       const imageSrc = extractFirstImageSrcFromHtml(block);
@@ -2851,6 +3021,44 @@ function cleanupStratecheryContentHtml(contentHtml) {
   return stripPlaceholderNodes($root.html() || "");
 }
 
+function cleanupMarginalRevolutionContentHtml(contentHtml) {
+  if (!contentHtml) {
+    return "";
+  }
+
+  let $ = null;
+  try {
+    $ = cheerio.load(`<article id="marginal-revolution-cleaner-root">${contentHtml}</article>`);
+  } catch {
+    return contentHtml;
+  }
+
+  const $root = $("#marginal-revolution-cleaner-root");
+  $root.find("p").each((_idx, element) => {
+    const text = cleanText($(element).text());
+    if (isMarginalRevolutionAttributionText(text)) {
+      $(element).remove();
+    }
+  });
+
+  return stripPlaceholderNodes($root.html() || "");
+}
+
+function stripMarginalRevolutionAttributionText(value) {
+  if (!value) {
+    return "";
+  }
+
+  return value
+    .replace(/\s*the post\b[\s\S]{0,500}?\bappeared first on\s+marginal revolution\s*\.?\s*$/i, "")
+    .trim();
+}
+
+function isMarginalRevolutionAttributionText(value) {
+  const text = cleanText(value);
+  return /^the post\b[\s\S]{0,500}?\bappeared first on\s+marginal revolution\s*\.?$/i.test(text);
+}
+
 function normalizeArticleContentForSource(content, sourceName, baseUrl) {
   if (!content?.contentHtml) {
     return content || { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
@@ -2865,6 +3073,9 @@ function normalizeArticleContentForSource(content, sourceName, baseUrl) {
     cleanedHtml = cleanupBrewShopContentHtml(content.contentHtml, baseUrl);
   } else if (source.includes("stratechery")) {
     cleanedHtml = cleanupStratecheryContentHtml(content.contentHtml);
+    allowEmptyCleanup = true;
+  } else if (source.includes("marginal revolution")) {
+    cleanedHtml = cleanupMarginalRevolutionContentHtml(content.contentHtml);
     allowEmptyCleanup = true;
   } else {
     return content;

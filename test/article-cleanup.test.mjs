@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 
 process.env.NEWS_FEED_DISABLE_SERVER = "1";
-const { extractArticleFromHtml } = await import("../server.js");
+const { buildArticlePayload, cleanFeedSummary, extractArticleFromHtml } = await import("../server.js");
 
 test("removes the promotional image tail from fetched Money Stuff articles", () => {
   const article = extractArticleFromHtml({
@@ -103,4 +103,104 @@ test("keeps a repeated Capital Weather description in the body instead of the su
     sourceName: "Another Source",
   });
   assert.equal(otherSourceArticle.subtitle, happeningNow);
+});
+
+test("keeps links in very short Marginal Revolution posts and removes its RSS footer", async () => {
+  const description = "Here is criticism from Revana Sharfuddin. Here is criticism from JFV.";
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head>
+        <title>On the fertility result</title>
+        <meta property="og:description" content="${description}">
+      </head><body><article><div class="entry-content">
+        <p>Here is <a href="https://example.com/revana">criticism from Revana Sharfuddin</a>.
+        Here is <a href="https://example.com/jfv">criticism from JFV</a>.</p>
+      </div></article></body></html>
+    `,
+    url: "https://marginalrevolution.com/marginalrevolution/2026/08/test.html",
+    sourceName: "Marginal Revolution",
+  });
+
+  assert.equal(article.subtitle, null);
+  assert.equal(article.linkCount, 2);
+  assert.match(article.contentHtml, /href="https:\/\/example\.com\/revana"/);
+  assert.match(article.contentHtml, /href="https:\/\/example\.com\/jfv"/);
+
+  const feedContentHtml = `
+    <p>Here is <a href="https://example.com/revana">criticism from Revana Sharfuddin</a>.
+    Here is <a href="https://example.com/jfv">criticism from JFV</a>.</p>
+    <p>The post <a href="https://marginalrevolution.com/test">On the fertility result</a>
+    appeared first on <a href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+  `;
+  const fallback = await buildArticlePayload({
+    url: "data:text/html,<html><body><p>Unavailable</p></body></html>",
+    sourceName: "Marginal Revolution",
+    fallbackTitle: "On the fertility result",
+    fallbackSummary: cleanFeedSummary(feedContentHtml, "Marginal Revolution"),
+    fallbackContentHtml: feedContentHtml,
+    accessLevel: "open",
+  });
+
+  assert.equal(fallback.mode, "full");
+  assert.equal(fallback.linkCount, 2);
+  assert.doesNotMatch(fallback.contentHtml, /appeared first on|The post/i);
+  assert.doesNotMatch(cleanFeedSummary(feedContentHtml, "Marginal Revolution"), /appeared first on|The post/i);
+});
+
+test("renders Substack prediction-market and X embeds as reader cards", () => {
+  const predictionAttrs = JSON.stringify({
+    url: "https://manifold.markets/embed/strutheo/will-linear-a",
+    thumbnail_url: "https://substack-post-media.s3.amazonaws.com/linear-a.png",
+  }).replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+  const secondPredictionAttrs = JSON.stringify({
+    url: "https://www.metaculus.com/questions/embed/43900/",
+    thumbnail_url: "https://substack-post-media.s3.amazonaws.com/metaculus.png",
+  }).replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+  const tweetAttrs = JSON.stringify({
+    url: "https://x.com/juddrosenblatt/status/123",
+    full_text: "We're hiring AI engineers.\n\nThe thesis may contain something useful.",
+    username: "juddrosenblatt",
+    name: "Judd Rosenblatt",
+    profile_image_url: "https://pbs.substack.com/profile.jpg",
+    date: "2026-06-22T22:33:52.000Z",
+    reply_count: 109,
+    retweet_count: 36,
+    like_count: 705,
+    impression_count: 332000,
+    quoted_tweet: {
+      full_text: "A strange signal keeps showing up in my personal life.",
+      username: "shiraeis",
+      name: "shira",
+    },
+  }).replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head><title>ACX embeds</title></head><body><article>
+        <p><strong>46:</strong> The markets are skeptical:</p>
+        <div data-component-name="PredictionMarketToDOM" data-attrs="${predictionAttrs}">
+          <iframe src="https://manifold.markets/embed/strutheo/will-linear-a"></iframe>
+        </div>
+        <div data-component-name="PredictionMarketToDOM" data-attrs="${secondPredictionAttrs}">
+          <iframe src="https://www.metaculus.com/questions/embed/43900/"></iframe>
+        </div>
+        <p><strong>48:</strong> More interesting things happening in AI alignment:</p>
+        <a href="https://x.com/juddrosenblatt/status/123" data-component-name="Twitter2ToDOM">
+          <div data-attrs="${tweetAttrs}">Unstyled fallback tweet content</div>
+        </a>
+      </article></body></html>
+    `,
+    url: "https://www.astralcodexten.com/p/acx-embeds",
+    sourceName: "Astral Codex Ten",
+  });
+
+  assert.match(article.contentHtml, /class="reader-embed-card reader-prediction-embed"/);
+  assert.match(article.contentHtml, /substack-post-media\.s3\.amazonaws\.com\/linear-a\.png/);
+  assert.match(article.contentHtml, /manifold\.markets\/embed\/strutheo\/will-linear-a/);
+  assert.match(article.contentHtml, /metaculus\.com\/questions\/embed\/43900/);
+  assert.equal((article.contentHtml.match(/reader-prediction-embed/g) || []).length, 2);
+  assert.match(article.contentHtml, /class="reader-embed-card reader-social-embed"/);
+  assert.match(article.contentHtml, /Judd Rosenblatt/);
+  assert.match(article.contentHtml, /We(?:'|&#x27;)re hiring AI engineers/);
+  assert.match(article.contentHtml, /A strange signal keeps showing up/);
+  assert.doesNotMatch(article.contentHtml, /<iframe/i);
 });
