@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T23:07:25.861Z",
-  "fetchedAt": "2026-08-02T23:07:25.856Z",
+  "generatedAt": "2026-08-03T00:11:57.811Z",
+  "fetchedAt": "2026-08-03T00:11:57.805Z",
   "sourceCount": 23,
   "itemCount": 152,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
@@ -13,7 +13,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Whatever is happening in Iran, it isn’t working.",
-      "publishedAt": "2026-08-02T19:19:38.000Z",
+      "publishedAt": "2026-08-02T23:28:31.000Z",
       "articleId": "e40407d7b99824ea"
     },
     {
@@ -24,7 +24,7 @@
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
       "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
-      "publishedAt": "2026-08-02T19:13:33.000Z",
+      "publishedAt": "2026-08-02T23:08:28.000Z",
       "articleId": "8874668ee2942e06"
     },
     {
@@ -1720,14 +1720,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Scattered storms and downpours this evening. Western half of DC, southern Montgomery County near the Beltway, and eastern Fairfax County is under a flash flood warning until 7:45 p.m. A flood watch is in effect for much of the region until midnight.",
+    "summary": "HAPPENING NOW: Scattered showers and downpours this evening. A flood watch is in effect for much of the region until midnight.",
     "publishedAt": "2026-08-02T09:00:33.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A bit blah with clouds, a muggy breeze, and a rising chance for some showers and storms.",
     "articleId": "a77932f1b82de570"
   },
-  "weatherGeneratedAt": "2026-08-02T23:07:25.861Z",
+  "weatherGeneratedAt": "2026-08-03T00:11:57.811Z",
   "weatherError": null,
   "sources": [
     {
@@ -1741,10 +1741,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
