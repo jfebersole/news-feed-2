@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-03T18:01:58.134Z",
-  "fetchedAt": "2026-08-03T18:01:58.131Z",
+  "generatedAt": "2026-08-03T19:53:01.816Z",
+  "fetchedAt": "2026-08-03T19:53:01.811Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
+      "title": "How does the market regard stablecoins?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model delivers three main predictions: (i) the stablecoin deposit premium co-moves with the Treasury premium when […]",
+      "publishedAt": "2026-08-03T18:32:18.000Z",
+      "articleId": "bed3029ae840b347"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/eu5e5mxig7ra8fjfs4pa.html",
+      "title": "Money Stuff: Hedgehog Hedge Fund",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/eu5e5mxig7ra8fjfs4pa.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Situational Awareness: hedging One thing you could do, as an investor, is try to figure out which stocks will go up, and buy them. You have $100, you find 10 really good stocks, you put $10 into each of them, and if they go up you make money. One problem with this approach is that it is risky: Stocks are volatile, and even if you are good at picking the stocks that will go up, sometimes they will go down for a while for reasons that are not your fault. Another problem is that, conversely, it is too easy. Stocks mostly go up, and if you picked your list of stocks by throwing darts at the stock pages , you’d probably get a pretty good return. If you are investing as a hobby, this is a nice fact, but if you are a professional investment manager it is awkward. Your investors will want to know what they’re paying you for. “Our portfolio was up 15% last year,” you say, and potential investors say “well but the S&P 500 index was up 16% and we can buy that in an index fund that charges like 0.01%.” They want alpha , market-beating returns, not beta , exposure to the market. A simple solution to these two problems is to hedge . For instance: You have $100, you find 10 really good stocks, you put $10 into each of them, and you also sell short $100 of the S&P 500 index. If the market goes down, but your stocks go down less than the rest of the market, you will still make money. Because you are hedged against broad market moves, your portfolio is safer. Your brokers might lend you more money to do more trading: With $100 of your own money, you might be able to buy $300 worth of stocks and short $300 of the S&P, for 6:1 gross leverage ($600 of bets on $100 of equity). That is not nearly as risky as buying $600 worth of stocks, because to your S&P 500 short will cancel out some of the moves in your long portfolio. You might want to refine this solution. Why short the market ? You are good at finding the stocks that will go up, so it stands to reason you’d also be good at finding the stocks that won’t. Why not just short the bad stocks? Like: Find 10 really good stocks and put $10 into each of them; and Find 10 really bad stocks and short $10 worth of each of them. Now you are again, approximately, hedged against broad market moves: If there’s a big market crash, your longs will go down but your shorts will also go down. But you are now adding alpha (or trying to) on both sides of the trade. If the market goes up 10%, but your good stocks go up 20% and your bad stocks go down 5%, you have a 25% return. [1] Great stuff: More alpha with less risk. How do you pick the 10 stocks to buy and the 10 stocks to short? One possibility is that you do lots of deep fundamental research on the particular pros...",
+      "publishedAt": "2026-08-03T18:13:41.543Z",
+      "articleId": "2d5f92f7200c93fc"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
       "title": "What Trump's latest slump means for the midterms",
@@ -340,17 +362,6 @@
       "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […]",
       "publishedAt": "2026-07-31T17:54:16.000Z",
       "articleId": "5c164e423fb88207"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-583",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-583.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Tokenizing the value from compute? 2. Will they ruin the look of Dulles airport? 3. Pathways into homelessness. 4. Defensible valuations for AI companies. 5. Further reasons why very rapid economic growth is very difficult to achieve. 6. Over 20,000 precolonial earthworks in the Southwest Amazonia.",
-      "publishedAt": "2026-07-31T16:05:45.000Z",
-      "articleId": "28f758657bced661"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
@@ -982,17 +993,6 @@
       "summary": "The Giants didn't hire John Harbaugh to oversee a rebuild, but did they do enough to help the coach turn them into NFC contenders?",
       "publishedAt": "2026-07-23T10:00:42.000Z",
       "articleId": "0a991c8850166bb9"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mtdisau9kxnib9lc3bud.html",
-      "title": "Money Stuff: The SEC Pays a Texting Fine",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mtdisau9kxnib9lc3bud.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Personal phones It was illegal, from about 2021 through about 2025, for employees of financial firms to text or WhatsApp about work on their personal phones. The theory was that US securities regulations require firms to keep copies of “all communications sent” by their employees, “including inter-office memoranda and communications,” that are “related to [their] business as such.” So if a financial services employee sends an email to a client, or to a colleague, her firm needs to retain a copy of that email. And if she texts a client or colleague from her personal phone, then the firm won’t have a copy, which violates the law. This theory was essentially invented by Gary Gensler, who was the chair of the US Securities and Exchange Commission at the time, and I always thought it was a strange and aggressive interpretation of the rules. But you can understand why the SEC liked it: The SEC is in the business of detecting actual fraud , and if banks and brokers make sure that all of their communications are preserved in searchable electronic form for years, then it will be relatively easy for the SEC to detect fraud . Ask for a pile of messages every once in a while, run a search on them for terms like “fraud” or “ spoof ” or “ muppets ” or “ champagne ,” and see what comes up. The SEC is in the business of extracting fines , and it extracted billions of dollars of fines, with very little effort, by charging dozens of financial firms with texting on personal phones. Every time the SEC would announce a settlement, it would issue a press release in which Gensler would say stuff like “As technology changes, it’s even more important that registrants appropriately conduct their communications about business matters within only official channels,” even though that was obviously wrong. (As I once wrote : “Imagine if that was really the rule! You can’t have lunch with a client and talk about business, or have beers with your colleagues and gripe about work, because that does not create a searchable archive for the SEC to review.”) This was a good fine-extracting business for the SEC because it is human nature, apparently, to text about work on your personal phone, and there was nothing banks could do to stop their employees from doing it. The SEC once found that Qatalyst Partners LP, the investment banking boutique, “willfully violated” the recordkeeping rules, even though (1) it had policies against texting from personal phones, (2) it frequently trained its employees on those policies, (3) it provided them with compliant text-messaging devices and told them to use them exclusively, (4) it captured and archived Slack and LinkedIn messages, etc. Qatalyst did everything it could to stop its employees from texting on their personal phones, but some of them did...",
-      "publishedAt": "2026-07-22T18:31:21.231Z",
-      "articleId": "0499528310316ac2"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
@@ -1729,14 +1729,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny and very humid with scattered showers and storms this afternoon, mainly from DC to the south and east. Highs in the mid-80s.",
+    "summary": "HAPPENING NOW: Partly sunny and very humid this afternoon with highs in the mid-80s. A few showers and thunderstorms remain possible to the south and southeast this afternoon around Fredericksburg and in Southern Maryland.",
     "publishedAt": "2026-08-03T09:00:24.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
     "articleId": "ee1469eda945f33b"
   },
-  "weatherGeneratedAt": "2026-08-03T18:01:58.134Z",
+  "weatherGeneratedAt": "2026-08-03T19:53:01.816Z",
   "weatherError": null,
   "sources": [
     {
