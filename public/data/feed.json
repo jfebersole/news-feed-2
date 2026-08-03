@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-03T19:53:01.816Z",
-  "fetchedAt": "2026-08-03T19:53:01.811Z",
+  "generatedAt": "2026-08-03T21:17:16.577Z",
+  "fetchedAt": "2026-08-03T21:17:16.574Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "title": "Christopher Nolan’s Trojan Horse",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
+      "publishedAt": "2026-08-03T20:54:09.000Z",
+      "articleId": "8318fff3be379c5a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
       "title": "How does the market regard stablecoins?",
@@ -59,17 +70,6 @@
       "summary": "1. A new simulation argument? 2. PC on aesthetics. 3. An interview with Yiyang Zhuge. 4. The truth and aesthetics of going to church? 5. Some forms of math cope? And a different view. 6. At the demolition derby.",
       "publishedAt": "2026-08-03T15:43:56.000Z",
       "articleId": "116717dea10ebda8"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "title": "Christopher Nolan’s Trojan Horse",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
-      "publishedAt": "2026-08-03T14:33:45.000Z",
-      "articleId": "8318fff3be379c5a"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
@@ -1729,14 +1729,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny and very humid this afternoon with highs in the mid-80s. A few showers and thunderstorms remain possible to the south and southeast this afternoon around Fredericksburg and in Southern Maryland.",
+    "summary": "HAPPENING NOW: Falling through the 80s this evening as a few showers and thunderstorms remain possible in far Southern Maryland. Humidity is briefly down tonight behind a front.",
     "publishedAt": "2026-08-03T09:00:24.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
     "articleId": "ee1469eda945f33b"
   },
-  "weatherGeneratedAt": "2026-08-03T19:53:01.816Z",
+  "weatherGeneratedAt": "2026-08-03T21:17:16.577Z",
   "weatherError": null,
   "sources": [
     {
