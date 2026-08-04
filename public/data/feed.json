@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T21:32:14.582Z",
-  "fetchedAt": "2026-08-04T21:32:14.577Z",
+  "generatedAt": "2026-08-04T23:16:30.311Z",
+  "fetchedAt": "2026-08-04T23:16:30.302Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 785,
+  "itemCount": 158,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
@@ -12,9 +12,20 @@
       "source": "Ross Douthat (NYT)",
       "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
       "access": "paywalled",
-      "summary": "Between Iran and the midterms, his decade of rebounds and comebacks might be over.",
-      "publishedAt": "2026-08-04T21:19:14.000Z",
+      "summary": "Iran. The midterms. Can Trump wriggle out one last time?",
+      "publishedAt": "2026-08-04T21:46:30.000Z",
       "articleId": "204b16f6ae20ae47"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-beauty-of-settled-science",
+      "title": "The Beauty Of Settled Science",
+      "url": "https://www.astralcodexten.com/p/the-beauty-of-settled-science",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-04T21:32:18.000Z",
+      "articleId": "7bd3477db07034ef"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html?utm_source=rss&utm_medium=rss&utm_campaign=estimating-the-economic-value-of-zoning-reform",
@@ -973,18 +984,6 @@
       "articleId": "461e3a5c9e7aa798"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/great-speeches-need-good-ideas",
-      "title": "Great speeches need good ideas",
-      "url": "https://www.slowboring.com/p/great-speeches-need-good-ideas",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus LeBron James, the pundit’s fallacy, and alternate Robert E. Lee",
-      "publishedAt": "2026-07-24T10:01:44.000Z",
-      "articleId": "ed999563587ecff3"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
       "title": "We asked too much of the American university",
       "url": "https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
@@ -1724,17 +1723,6 @@
       "articleId": "0fd44c723d2b7610"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham",
-      "title": "Your Book Review: The Book Of Abraham",
-      "url": "https://www.astralcodexten.com/p/your-book-review-the-book-of-abraham",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-08T12:48:42.000Z",
-      "articleId": "de01cc96e42ca764"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/jd-vances-crusade-against-gdp-is",
       "title": "JD Vance's crusade against GDP is wrong and bad",
       "url": "https://www.noahpinion.blog/p/jd-vances-crusade-against-gdp-is",
@@ -1792,21 +1780,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-drier-air-today-before-heat-humidity-and-storms-return/",
-    "title": "DC-area forecast: Drier air today before heat, humidity, and storms return",
+    "title": "DC-area forecast: Downpour risk tonight before heat, humidity, and storms return",
     "url": "https://www.capitalweather.com/dc-area-forecast-drier-air-today-before-heat-humidity-and-storms-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny skies this afternoon as highs reach the mid-80s with noticeably lower humidity.",
+    "summary": "HAPPENING NOW: Clouds increase this evening but dry until late night. Flood watch starts in the pre-dawn.",
     "publishedAt": "2026-08-04T09:00:49.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
-    "articleId": "cb715a25c3fa6fcd",
-    "stale": true
+    "articleId": "cb715a25c3fa6fcd"
   },
-  "weatherGeneratedAt": "2026-08-04T21:32:14.582Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-04T23:16:30.311Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1819,10 +1806,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1908,7 +1895,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1955,10 +1942,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
