@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-03T23:16:50.608Z",
-  "fetchedAt": "2026-08-03T23:16:50.604Z",
+  "generatedAt": "2026-08-04T03:32:38.728Z",
+  "fetchedAt": "2026-08-04T03:32:38.718Z",
   "sourceCount": 23,
-  "itemCount": 154,
+  "itemCount": 155,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
+      "title": "Giants' Arvell Reese flashes game-changing potential; Jaxson Dart, offense sputter again",
+      "url": "https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The most physical practice of Giants camp allowed the rookie inside linebacker to demonstrate his potential impact.",
+      "publishedAt": "2026-08-03T23:17:16.000Z",
+      "articleId": "0f2a065f18cfc701"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
       "title": "Does Forecasting Have Room At The Top?",
@@ -80,7 +91,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Whatever is happening in Iran, it isn’t working.",
-      "publishedAt": "2026-08-03T16:15:20.000Z",
+      "publishedAt": "2026-08-03T16:15:21.000Z",
       "articleId": "e40407d7b99824ea"
     },
     {
@@ -1745,10 +1756,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
-    "articleId": "ee1469eda945f33b"
+    "articleId": "ee1469eda945f33b",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-03T23:16:50.608Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-04T03:32:38.728Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1905,10 +1917,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
