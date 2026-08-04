@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-04T15:32:29.327Z",
-  "fetchedAt": "2026-08-04T15:32:29.319Z",
+  "generatedAt": "2026-08-04T18:01:48.648Z",
+  "fetchedAt": "2026-08-04T18:01:48.643Z",
   "sourceCount": 23,
-  "itemCount": 159,
+  "itemCount": 158,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/etipabuh47r7qo0i5f9u.html",
+      "title": "Money Stuff: Leveraged ETF Crash Hedging ETF",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/etipabuh47r7qo0i5f9u.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Leveraged ETF crash put cliquet ETF Last weekend Bloomberg’s Yiqin Shen published a fun story that would make for a good final exam in a financial engineering class. It has a bit of everything. Start with leveraged exchange-traded funds. Lots of investors want to get 2 or 3 times the daily return of some stock, and there are single-stock levered ETFs that provide this. Investors put in $100 of their own money, the ETF borrows $100 from a bank, and it buys $200 of SK Hynix Inc. stock or whatever. (Really it will do this using total return swaps, but that doesn’t matter for our purposes.) If the stock goes up 5%, the ETF will have $210 worth of stock, a 10% return on the investors’ $100. To keep providing the same 2x exposure the next day, the ETF will have to rebalance : It will borrow another $10 from its bank to buy more stock, so that the next day it has $220 worth of stock, twice its equity. Or if the stock goes down, the ETF will sell some to repay some borrowing. This means that, each day, the bank has loaned $X against $2X of stock: It has no real long-term risk, because if the collateral ever loses value some of the loan is automatically repaid. The only risk is if the stock falls more than 50% in a day [1] : The ETF only has $100 from its investors, and if that equity is wiped out then there’s nothing else. If it borrows $100 to buy $200 of stock, and that stock falls 60%, the bank has only $80 of collateral to secure its $100 loan. It can’t send a margin call asking for more money; there’s no more money. Shen: The setup leaves banks exposed to what’s known as “gap risk.” If a stock falls sharply enough in a single session — roughly more than 50% for a 2X fund or 33% for a 3X fund — the ETF is at risk of losing an amount greater than its net assets, potentially strapping the banks with losses that the fund’s issuer can’t cover. This is a very unlikely risk, but not impossible: Leveraged ETFs are particularly popular on underlying stocks that are volatile to begin with, and leveraged ETFs increase the volatility of the underlying stock by buying when it goes up and selling when it goes down. We talked last month about a leveraged ETF on Lucid Group Inc., which got wiped out when Lucid fell 57% intraday. It happens. Banks do not like this sort of weird tail risk, so they want to buy insurance. The insurance takes approximately the form “if the underlying stock falls more than 50% on any day, you pay us the difference.” That is a put option, or more technically it’s a cliquet , a series of daily put options each struck at a price that is down 50% from the previous day’s close. A bank might pay a hedge fund some premium upfront for a one-year series of these puts, to hedge it...",
+      "publishedAt": "2026-08-04T18:00:59.311Z",
+      "articleId": "b583933594d07a15"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "title": "Christopher Nolan’s Trojan Horse",
+      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
+      "publishedAt": "2026-08-04T16:50:01.000Z",
+      "articleId": "8318fff3be379c5a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-580",
       "title": "Tuesday assorted links",
@@ -150,17 +172,6 @@
       "summary": "Primary voters are far more focused on fighting each other than on fighting the G.O.P.",
       "publishedAt": "2026-08-03T22:01:04.000Z",
       "articleId": "e42a120a2825c9b2"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "title": "Christopher Nolan’s Trojan Horse",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
-      "publishedAt": "2026-08-03T20:54:10.000Z",
-      "articleId": "8318fff3be379c5a"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
@@ -892,17 +903,6 @@
       "summary": "China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more.",
       "publishedAt": "2026-07-25T14:01:08.000Z",
       "articleId": "a66a6b5cbfff3f37"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
-      "title": "Money Stuff: Sports Happen So Much",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xoqbf8vaftfx7ybspx4w.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Sports index Last month, I made some jokes about a prediction-market index, which struck me as a funny idea. I wrote : Prediction-market investors could use the index to benchmark their own performance, and commentators could use it as a shorthand for how the market is doing. “Events have become more likely,” they could say, or “probabilities have gone down on profit-taking,” or “going into this week’s Fed meeting, traders expect things to happen less.” Just passive exposure to the market portfolio of probabilities. The way the world apparently works is that, when I make a dumb joke like this, two things happen: The next day, a reader emails me “I did that thing,” also as a joke. Someone did send me a prediction-market index he launched, but I think he was kidding too. In a month or two, a real financial services firm really launches the thing with dead-eyed earnestness. There’s a sports gambling exchange-traded fund filing now , after I … willed? joked? grumbled ? … it into existence. This is not quite a prediction-market index, but it’s something : FutureSports, the new independent index administrator transforming professional and college sports statistics into rules-based, benchmark financial indexes … will soon unveil its first series of exclusive partnerships with major sports leagues, paving the way for institutional investors and companies in and around the sports industry to manage their risk in an unprecedented fashion and participate in regulated, tradable, broad-based index futures contracts based on team and athlete statistical performance. FutureSports creates rules-based financial indexes, known as FutureSports Performance Indexes (FSPI), that accurately represent the performance of teams and athletes in prominent sports leagues. By utilizing transparent, rules-based methodologies based on officially reported statistical outcomes, the company creates continuous values designed to underpin tradable financial products, such as listed derivatives, exchange-traded funds (ETFs) and over-the-counter (OTC) swaps. Potential market participants will include league broadcasting partners, team and athlete sponsors and endorsers, insurers, stadium owners and operators, private equity investors, lenders, and apparel manufacturers. Asset managers, pension funds and professional trading firms are expected to participate in the contracts and contribute to liquidity in this new uncorrelated asset class. Retail investors will also be able to participate in the first-of-their-kind trading vehicles, which the company expects to capture the interest of sophisticated traders looking for more traditional financial trading instruments. Leigh Taylforth, FutureSports Co-Founder, said: \"The global sporting industry generates $650 billion a year, yet there has...",
-      "publishedAt": "2026-07-25T03:50:06.716Z",
-      "articleId": "03dcd0bd91d3f106"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thank-you-christopher-nolan",
@@ -1777,22 +1777,11 @@
       "summary": "But there are still things we can learn from how they manage their macroeconomy.",
       "publishedAt": "2026-07-06T08:54:30.000Z",
       "articleId": "e170808c19b9583a"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/kakistocracy",
-      "title": "Kakistocracy",
-      "url": "https://scottsumner.substack.com/p/kakistocracy",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Hanania explains why politics is getting dumber",
-      "publishedAt": "2026-07-05T17:34:14.000Z",
-      "articleId": "e5d44a5fd9b34f78"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-drier-air-today-before-heat-humidity-and-storms-return/",
-    "title": "DC-area forecast: Drier air today before heat, humidity and storms return",
+    "title": "DC-area forecast: Drier air today before heat, humidity, and storms return",
     "url": "https://www.capitalweather.com/dc-area-forecast-drier-air-today-before-heat-humidity-and-storms-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
@@ -1804,7 +1793,7 @@
     "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
     "articleId": "cb715a25c3fa6fcd"
   },
-  "weatherGeneratedAt": "2026-08-04T15:32:29.327Z",
+  "weatherGeneratedAt": "2026-08-04T18:01:48.648Z",
   "weatherError": null,
   "sources": [
     {
@@ -1954,10 +1943,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
@@ -1965,15 +1954,15 @@
       "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
