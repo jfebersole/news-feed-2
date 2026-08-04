@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-04T03:32:38.728Z",
-  "fetchedAt": "2026-08-04T03:32:38.718Z",
+  "generatedAt": "2026-08-04T06:38:08.873Z",
+  "fetchedAt": "2026-08-04T06:38:08.867Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
+      "title": "The economics of H-1B immigration",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants, with gains concentrated in non-STEM occupations. Income gains propagate […]",
+      "publishedAt": "2026-08-04T06:23:41.000Z",
+      "articleId": "8f5078f7c0e88fac"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-57th-cohort",
+      "title": "Emergent Ventures winners, 57th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Oisin O’Gorman, 15, Dublin, misinformation and fakes. Karsen Lee Wahal, Stanford, is AI killing the web?, and measuring media slant. Davy Deng, with Claire Wang (previous winner), whole brain emulation, MIT. Enej Grmek, 16, Ljubljana, privacy. Vladimir Shmelev, Ukraine, Ukrainian children for relief trips to Montenegro. Nik Verma, Chicago, a legal framework for AI agents. […]",
+      "publishedAt": "2026-08-04T05:16:58.000Z",
+      "articleId": "0c5b1244d382a630"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
       "title": "Giants' Arvell Reese flashes game-changing potential; Jaxson Dart, offense sputter again",
@@ -353,17 +375,6 @@
       "articleId": "fb127b60562a9f52"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-18th-cohort",
-      "title": "Emergent Ventures India, 18th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore conceptual approaches to cosmic expansion and dark energy while continuing his formal academic preparation in cosmology. Kevin Gibson, a student […]",
-      "publishedAt": "2026-08-01T04:24:42.000Z",
-      "articleId": "aeca268107871927"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
       "title": "Your Book Review: The Epic Of Gilgamesh",
       "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
@@ -385,17 +396,6 @@
       "summary": "Looking back on the year",
       "publishedAt": "2026-07-31T22:01:16.000Z",
       "articleId": "94ad8ad24ed3d583"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html?utm_source=rss&utm_medium=rss&utm_campaign=redefining-global-health-in-the-21st-century",
-      "title": "*Redefining Global Health in the 21st Century*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/redefining-global-health-in-the-21st-century.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "While donor-driven programs undoubtedly saved millions of lives, they also created unintended distortions in national health priorities. Many governments in sub-Saharan Africa and parts of Asia actually scaled back domestic health investments, as donor program filled key gaps in HIV/AIDS, maternal and child health, and infectious disease control. In some cases, domestic health budgets shrank […]",
-      "publishedAt": "2026-07-31T17:54:16.000Z",
-      "articleId": "5c164e423fb88207"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
@@ -1751,16 +1751,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Falling through the 80s this evening as a few showers and thunderstorms remain possible in far Southern Maryland. Humidity is briefly down tonight behind a front.",
+    "summary": "HAPPENING NOW: Humidity is briefly down tonight behind a front. Lows in the mid-60s to near 70.",
     "publishedAt": "2026-08-03T09:00:24.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
-    "articleId": "ee1469eda945f33b",
-    "stale": true
+    "articleId": "ee1469eda945f33b"
   },
-  "weatherGeneratedAt": "2026-08-04T03:32:38.728Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-04T06:38:08.873Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1925,10 +1924,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
