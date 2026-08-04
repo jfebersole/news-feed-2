@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-04T06:38:08.873Z",
-  "fetchedAt": "2026-08-04T06:38:08.867Z",
+  "generatedAt": "2026-08-04T09:46:55.497Z",
+  "fetchedAt": "2026-08-04T09:46:55.493Z",
   "sourceCount": 23,
-  "itemCount": 155,
-  "totalItemCount": 784,
+  "itemCount": 156,
+  "totalItemCount": 774,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
+      "title": "The end of the age of heroes",
+      "url": "https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "AI will soon be better at math than any human. What does that mean?",
+      "publishedAt": "2026-08-04T07:36:17.000Z",
+      "articleId": "2c60d6d0a291896a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
       "title": "The economics of H-1B immigration",
@@ -1745,20 +1756,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-sticky-week-with-stubborn-storm-chances/",
-    "title": "DC-area forecast: A sticky week with stubborn storm chances",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-sticky-week-with-stubborn-storm-chances/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-drier-air-today-before-heat-humidity-and-storms-return/",
+    "title": "DC-area forecast: Drier air today before heat, humidity and storms return",
+    "url": "https://www.capitalweather.com/dc-area-forecast-drier-air-today-before-heat-humidity-and-storms-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Humidity is briefly down tonight behind a front. Lows in the mid-60s to near 70.",
-    "publishedAt": "2026-08-03T09:00:24.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Less stormy than yesterday, but the humidity is just as oppressive — if not worse.",
-    "articleId": "ee1469eda945f33b"
+    "summary": "HAPPENING NOW: Clouds filter the sunshine this morning before gradually thinning this afternoon. Temperatures rise from the 60s and 70s into the mid-80s with noticeably lower humidity.",
+    "publishedAt": "2026-08-04T09:00:49.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
+    "articleId": "cb715a25c3fa6fcd"
   },
-  "weatherGeneratedAt": "2026-08-04T06:38:08.873Z",
+  "weatherGeneratedAt": "2026-08-04T09:46:55.497Z",
   "weatherError": null,
   "sources": [
     {
@@ -1772,10 +1783,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1836,10 +1847,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
@@ -1924,10 +1935,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
