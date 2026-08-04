@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-04T18:01:48.648Z",
-  "fetchedAt": "2026-08-04T18:01:48.643Z",
+  "generatedAt": "2026-08-04T19:52:28.533Z",
+  "fetchedAt": "2026-08-04T19:52:28.528Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html?utm_source=rss&utm_medium=rss&utm_campaign=estimating-the-economic-value-of-zoning-reform",
+      "title": "Estimating the Economic Value of Zoning Reform",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate […]",
+      "publishedAt": "2026-08-04T18:51:23.000Z",
+      "articleId": "3b38045110b63e49"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/etipabuh47r7qo0i5f9u.html",
       "title": "Money Stuff: Leveraged ETF Crash Hedging ETF",
@@ -441,17 +452,6 @@
       "summary": "Pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation.",
       "publishedAt": "2026-08-01T12:04:01.000Z",
       "articleId": "f74ab85dda1a0794"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models",
-      "title": "More math breakthroughs from GPT models",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models! That is from Noam Brown, at the link you will find his list of the ten breakthroughs. Here […]",
-      "publishedAt": "2026-08-01T10:53:40.000Z",
-      "articleId": "3f3525df5b6525a2"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-27-31-2026",
@@ -1793,7 +1793,7 @@
     "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
     "articleId": "cb715a25c3fa6fcd"
   },
-  "weatherGeneratedAt": "2026-08-04T18:01:48.648Z",
+  "weatherGeneratedAt": "2026-08-04T19:52:28.533Z",
   "weatherError": null,
   "sources": [
     {
@@ -1943,26 +1943,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
