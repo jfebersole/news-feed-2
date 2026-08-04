@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-08-04T12:15:32.738Z",
-  "fetchedAt": "2026-08-04T12:15:32.732Z",
+  "generatedAt": "2026-08-04T15:32:29.327Z",
+  "fetchedAt": "2026-08-04T15:32:29.319Z",
   "sourceCount": 23,
-  "itemCount": 157,
+  "itemCount": 159,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-580",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Selecting innovation funding mechanisms. 2. Helen Andrews on race. 3. Famous radio station goes all-automated. 4. On Stefanie Stantcheva. 5. ChinaTalk submission hiring contest. 6. New Hamilton faculty at University of Florida, 21 of them. 7. Battery in your backyard? (WSJ) 8. How Americans are talking to Claude about politics.",
+      "publishedAt": "2026-08-04T15:29:06.000Z",
+      "articleId": "7ac115752e83a084"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/mathematicians-are-grappling-with",
+      "title": "Mathematicians are grappling with the possibility that AI might eclipse them",
+      "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "I talked to 20 mathematicians about rapid AI progress in their field.",
+      "publishedAt": "2026-08-04T13:53:52.000Z",
+      "articleId": "78b65f0b81c1e5ec"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/concept-records-an-album-a-day",
+      "title": "Concept Records: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/concept-records-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring The Mountain Goats, Liz Phair, Frank Sinatra, and others",
+      "publishedAt": "2026-08-04T13:30:36.000Z",
+      "articleId": "ae09d41e3445c934"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/our-advertising-principles",
+      "title": "Our advertising principles",
+      "url": "https://www.understandingai.org/p/our-advertising-principles",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "How we fund our journalism without compromising our independence.",
+      "publishedAt": "2026-08-04T12:55:50.000Z",
+      "articleId": "e2f214dc91275753"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/mamdanis-not-the-first-to-try-to",
       "title": "Mamdani’s not the first to try to bring cheap groceries to N.Y.C.",
@@ -27,6 +71,18 @@
       "summary": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
       "publishedAt": "2026-08-04T10:00:00.000Z",
       "articleId": "7dd90051b9ca0080"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/where-does-the-dodgers-new-super",
+      "title": "Where Does the Dodgers' New Super-Rotation Rank in MLB History?",
+      "url": "https://neilpaine.substack.com/p/where-does-the-dodgers-new-super",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Tarik Skubal gives L.A. a superstar ace, but their truly historic advantage may be in a modern abundance of October options.",
+      "publishedAt": "2026-08-04T09:01:30.000Z",
+      "articleId": "8a981ece381cde54"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
@@ -398,17 +454,6 @@
       "articleId": "b764d42ef4191ba2"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries",
-      "title": "Immigration and Macroeconomic Outcomes in OECD Countries",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "OECD countries experienced declining native population growth and rising net immigration over 1990-2024. We compile a new dataset of net immigration rates to OECD countries from all origins and show that most of the increase came from non-OECD countries and was predominantly high-skilled. Push factors, network effects, and policy indices explain little of the large […]",
-      "publishedAt": "2026-08-01T06:48:26.000Z",
-      "articleId": "fb127b60562a9f52"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
       "title": "Your Book Review: The Epic Of Gilgamesh",
       "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
@@ -575,17 +620,6 @@
       "summary": "Speak loudly and blunder a lot",
       "publishedAt": "2026-07-30T10:01:52.000Z",
       "articleId": "2764d36b6e2cb1cf"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-phillies-phavorites-or-phrauds",
-      "title": "Are the Phillies Phavorites or Phrauds?",
-      "url": "https://neilpaine.substack.com/p/are-the-phillies-phavorites-or-phrauds",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Depending on how you look at them, the answer is … yes.",
-      "publishedAt": "2026-07-30T09:02:00.000Z",
-      "articleId": "038b104c2e02b0a1"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-case-against-homeownership",
@@ -1754,17 +1788,6 @@
       "summary": "Hanania explains why politics is getting dumber",
       "publishedAt": "2026-07-05T17:34:14.000Z",
       "articleId": "e5d44a5fd9b34f78"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
-      "title": "Obama vs. Trump Is the Election Day We Needed but Never Got",
-      "url": "https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The proxy battles we got instead have not settled questions we have to settle.",
-      "publishedAt": "2026-07-05T13:49:29.000Z",
-      "articleId": "67adeece8b61b344"
     }
   ],
   "weather": {
@@ -1774,14 +1797,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds filter the sunshine this morning before gradually thinning this afternoon. Temperatures rise from the 60s and 70s into the mid-80s with noticeably lower humidity.",
+    "summary": "HAPPENING NOW: Partly sunny skies this afternoon as highs reach the mid-80s with noticeably lower humidity.",
     "publishedAt": "2026-08-04T09:00:49.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
     "articleId": "cb715a25c3fa6fcd"
   },
-  "weatherGeneratedAt": "2026-08-04T12:15:32.738Z",
+  "weatherGeneratedAt": "2026-08-04T15:32:29.327Z",
   "weatherError": null,
   "sources": [
     {
@@ -1859,10 +1882,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -1931,26 +1954,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
