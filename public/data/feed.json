@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-04T09:46:55.497Z",
-  "fetchedAt": "2026-08-04T09:46:55.493Z",
+  "generatedAt": "2026-08-04T12:15:32.738Z",
+  "fetchedAt": "2026-08-04T12:15:32.732Z",
   "sourceCount": 23,
-  "itemCount": 156,
-  "totalItemCount": 774,
+  "itemCount": 157,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/mamdanis-not-the-first-to-try-to",
+      "title": "Mamdani’s not the first to try to bring cheap groceries to N.Y.C.",
+      "url": "https://www.slowboring.com/p/mamdanis-not-the-first-to-try-to",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Walmart versus the stationary bandits",
+      "publishedAt": "2026-08-04T10:02:35.000Z",
+      "articleId": "bed4d0f964308e0c"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+      "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
+      "url": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "articleId": "7dd90051b9ca0080"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
       "title": "The end of the age of heroes",
@@ -1531,17 +1554,6 @@
       "articleId": "5d07ea3f5f5d25bb"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/xbox-on-the-rocks/",
-      "title": "2026.28: XBOX On the Rocks",
-      "url": "https://stratechery.com/2026/xbox-on-the-rocks/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
-      "publishedAt": "2026-07-10T17:00:00.000Z",
-      "articleId": "8fc35a37726b378d"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/terraforming-earth",
       "title": "Why San Francisco isn’t bigger",
       "url": "https://www.worksinprogress.news/p/terraforming-earth",
@@ -1769,7 +1781,7 @@
     "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
     "articleId": "cb715a25c3fa6fcd"
   },
-  "weatherGeneratedAt": "2026-08-04T09:46:55.497Z",
+  "weatherGeneratedAt": "2026-08-04T12:15:32.738Z",
   "weatherError": null,
   "sources": [
     {
@@ -1783,10 +1795,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1872,7 +1884,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
