@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-04T19:52:28.533Z",
-  "fetchedAt": "2026-08-04T19:52:28.528Z",
+  "generatedAt": "2026-08-04T21:32:14.582Z",
+  "fetchedAt": "2026-08-04T21:32:14.577Z",
   "sourceCount": 23,
-  "itemCount": 158,
+  "itemCount": 159,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
+      "title": "Can Trump Wriggle Out One Last Time?",
+      "url": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Between Iran and the midterms, his decade of rebounds and comebacks might be over.",
+      "publishedAt": "2026-08-04T21:19:14.000Z",
+      "articleId": "204b16f6ae20ae47"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html?utm_source=rss&utm_medium=rss&utm_campaign=estimating-the-economic-value-of-zoning-reform",
       "title": "Estimating the Economic Value of Zoning Reform",
@@ -1791,10 +1802,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Digit upgrade today as our dew points dip and temperatures slip.",
-    "articleId": "cb715a25c3fa6fcd"
+    "articleId": "cb715a25c3fa6fcd",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-04T19:52:28.533Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-04T21:32:14.582Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1943,10 +1955,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
@@ -1959,10 +1971,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
