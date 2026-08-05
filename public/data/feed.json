@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T12:11:01.690Z",
-  "fetchedAt": "2026-08-05T12:11:01.688Z",
+  "generatedAt": "2026-08-05T15:24:53.768Z",
+  "fetchedAt": "2026-08-05T15:24:53.763Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 784,
@@ -1788,10 +1788,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
-    "articleId": "d12705d9c9ad1d25"
+    "articleId": "d12705d9c9ad1d25",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-05T12:11:01.690Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-05T15:24:53.768Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1948,18 +1949,18 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
