@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T19:50:30.452Z",
-  "fetchedAt": "2026-08-05T19:50:30.449Z",
+  "generatedAt": "2026-08-05T21:22:35.057Z",
+  "fetchedAt": "2026-08-05T21:22:35.053Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 785,
+  "itemCount": 158,
+  "totalItemCount": 775,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
@@ -1774,34 +1774,23 @@
       "summary": "Political parties don’t get to wait for courtroom certainty. Graham Platner has given Democrats far too many reasons to cut their losses.",
       "publishedAt": "2026-07-06T23:36:06.000Z",
       "articleId": "fdf26149e8025192"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-      "title": "For America’s 250th, Let’s Get Something Clear About Our National Identity",
-      "url": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "It depends on both ideas and cultural inheritance.",
-      "publishedAt": "2026-07-06T20:19:10.000Z",
-      "articleId": "e74499871e209c7f"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-scattered-showers-and-storms-today-with-a-flood-watch-this-morning/",
-    "title": "DC-area forecast: Scattered showers and storms today, very humid",
+    "title": "DC-area forecast: Staying very humid tonight, then hotter Thursday",
     "url": "https://www.capitalweather.com/dc-area-forecast-scattered-showers-and-storms-today-with-a-flood-watch-this-morning/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Humidity is in full force today with highs in the 80s. Scattered showers and storms, maybe a few flooding downpours, are most numerous from from near I-66, DC, and Route 50 to the north, before becoming more isolated after 4 p.m. or so.",
+    "summary": "HAPPENING NOW: It's a soupy evening with temperatures slowly falling through the 80s. Isolated shower or storm possible, mainly west and north.",
     "publishedAt": "2026-08-05T09:00:54.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
     "articleId": "d12705d9c9ad1d25"
   },
-  "weatherGeneratedAt": "2026-08-05T19:50:30.452Z",
+  "weatherGeneratedAt": "2026-08-05T21:22:35.057Z",
   "weatherError": null,
   "sources": [
     {
@@ -1815,10 +1804,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
