@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-05T17:51:33.537Z",
-  "fetchedAt": "2026-08-05T17:51:33.532Z",
+  "generatedAt": "2026-08-05T19:50:30.452Z",
+  "fetchedAt": "2026-08-05T19:50:30.449Z",
   "sourceCount": 23,
   "itemCount": 159,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
+      "title": "Money Stuff: SpaceX Unlocks Tomorrow",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. SpaceX unlock Today, there are about 639 million shares of SpaceX available in the market, which SpaceX sold in its initial public offering in June. Tomorrow, there will be about 1.55 billion shares available, as a portion of the shares that were locked up after the IPO are unlocked. That’s much more. SpaceX should be cheaper tomorrow than it is today, because of supply and demand. This is not investment advice. It’s not even true! If something should be cheaper tomorrow than it is today, what you should do is sell it today (at a high price) and buy it back tomorrow (cheaper). This has the effect of lowering the price today and raising the price tomorrow. You should keep doing this until it is no longer true, until the price today equals the expected price tomorrow. This is called “arbitrage.” We have talked about this before . I have sort of argued that this trade is the mirror index of the index rebalancing trade that big hedge funds do. In index rebalancing, there is predictable large buying demand from index funds on a fixed date, which will predictably push up the price of the stock; hedge funds buy stock ahead of the fixed date to sell into the index-fund demand, smoothing out price moves. Similarly, in lockup releases, there is predictable supply from locked-up early shareholders on a fixed date, which will predictably push down the price of the stock; hedge funds short stock ahead of the lockup release date to buy from the lockup-release supply, smoothing out price moves. The hedge funds do a trade that could be described as arbitrage, or even I suppose as “front-running” the lockup release, but that could also be described as liquidity provision: They match up today’s SpaceX buyers with tomorrow’s lockup-release sellers. This is not quite a thing, in the way that index rebalancing is a thing. You do not hear a lot about multistrategy hedge funds having lockup-release pods that make billions of dollars in good months, like index-rebalancing pods do , but partly that is a matter of scale. Index funds are really big and their rebalances involve many billions of dollars of stock. Most companies are relatively small when they go public, and their lockup releases aren’t that exciting. SpaceX’s is. Bloomberg’s Bailey Lipschultz reports : Investors hanging onto SpaceX shares after a plunge below their IPO price are bracing for the next potential hit, when $101 billion worth of stock becomes available for trading on Thursday. … “We’ve never seen anything like it, we’ve never seen anything of this scale, we’ve never seen a lock-up being phased in this way,” said Peter Singlehurst, head of the private companies team at Baillie Gifford, which first invested in Elon Musk’s company in...",
+      "publishedAt": "2026-08-05T18:07:59.565Z",
+      "articleId": "de388464e358abd3"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
       "title": "Can Trump Wriggle Out One Last Time?",
@@ -888,17 +899,6 @@
       "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
       "publishedAt": "2026-07-27T18:36:27.000Z",
       "articleId": "3bd7fea941ce38e8"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/tr3mtpqxnh2nr9vvp9pv.html",
-      "title": "Money Stuff: A Merger Closing Mystery",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/tr3mtpqxnh2nr9vvp9pv.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Record date oopsie XOMA Royalty Corp. and Ligand Pharmaceuticals Inc. are biotechnology royalty aggregators : They finance biotechnology companies by buying the rights to future drug royalty and milestone payments. [1] In April, Ligand agreed to acquire XOMA , and the merger closed on July 14 . The merger price was $39 per share in cash ($739 million total), plus a contingent value right related to some litigation. Last year, XOMA sued Janssen Biotech Inc., claiming that Janssen had used a XOMA-owned technology in developing a drug called Tremfya and owes XOMA royalties. [2] The result of that lawsuit is uncertain, and the merger agreement provided that pre-merger XOMA shareholders will get 75% of the proceeds from it, if any, whenever it is resolved. But they are no longer XOMA shareholders (they were cashed out on July 14), so there needs to be some mechanism to pay them. The contingent value right (or CVR) is a sort of certificate representing the litigation: When the merger closed, each XOMA share turned into $39 in cash plus one CVR, which is an entry on the books of Ligand representing a share of the potential litigation proceeds. The CVRs are non-transferable and not listed on any exchange. For tax purposes, XOMA values the litigation at $50 million, which works out to a CVR value of $1.84 per share, [3] but that is just a guess and there is reason to think that the market valued the CVR at more like $5. I said that “when the merger closed” each XOMA share turned into $39 plus a CVR. That is normally how mergers work: When the merger closes, the target’s shares turn into the merger consideration. That’s what, for instance, the first page of XOMA’s merger proxy says: Pursuant to the Merger Agreement, at the time the Merger becomes effective (the “Effective Time”), each share of common stock … will be automatically converted into the right to receive (i) $39.00 per Share in cash … plus (ii) one contingent value right (a “CVR”) representing a contractual right to receive contingent cash payments, if any, derived from the net proceeds of a pending litigation against Janssen Biotech, Inc. (the “Janssen Litigation”). You could imagine doing something else. Perhaps XOMA could have paid out some of the merger consideration before the closing. Like: XOMA could dividend out $1 of cash the day before the merger closes, and then Ligand could pay $38 of cash and the CVR when the merger closes; or XOMA could dividend out the CVR the day before the merger closes, and then Ligand could pay $39 of cash when the merger closes. Etc. Why would you do that? Mostly you wouldn’t. Everything is more or less contingent on the merger closing, so you want to pay everything out at the time of closing. But every so often there are weird cases where it could make sense to...",
-      "publishedAt": "2026-07-27T18:11:28.120Z",
-      "articleId": "4d35c58b07ec620c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
@@ -1794,14 +1794,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Scattered showers and storms, maybe a few flooding downpours, continue into the afternoon, especially from near I-66, DC, and Route 50 to the north. There should be fewer showers and storms around, and mainly north of DC, after 2 p.m. or so.",
+    "summary": "HAPPENING NOW: Humidity is in full force today with highs in the 80s. Scattered showers and storms, maybe a few flooding downpours, are most numerous from from near I-66, DC, and Route 50 to the north, before becoming more isolated after 4 p.m. or so.",
     "publishedAt": "2026-08-05T09:00:54.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
     "articleId": "d12705d9c9ad1d25"
   },
-  "weatherGeneratedAt": "2026-08-05T17:51:33.537Z",
+  "weatherGeneratedAt": "2026-08-05T19:50:30.452Z",
   "weatherError": null,
   "sources": [
     {
