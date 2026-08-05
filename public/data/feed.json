@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-05T09:44:53.043Z",
-  "fetchedAt": "2026-08-05T09:44:53.035Z",
+  "generatedAt": "2026-08-05T12:11:01.690Z",
+  "fetchedAt": "2026-08-05T12:11:01.688Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html?utm_source=rss&utm_medium=rss&utm_campaign=dominant-assurance-contract-aka-refund-bonus-explainer",
+      "title": "Dominant Assurance Contract aka Refund Bonus Explainer",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I created the dominant assurance contract aka the refund bonus mechanism in 1998–it’s a mechanism capable of producing some types of public goods privately–in recent years working with Tim Cason and Robertas Zubrickas I’ve put refund bonuses to the test in lab experiments and they work! I’ve written an accessible Refund Bonus Explainer that covers […]",
+      "publishedAt": "2026-08-05T11:16:55.000Z",
+      "articleId": "063aba37f804e041"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/republicans-are-in-too-little-disarray",
+      "title": "Republicans are in too little disarray",
+      "url": "https://www.slowboring.com/p/republicans-are-in-too-little-disarray",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "With Trump historically unpopular, why isn’t there more infighting?",
+      "publishedAt": "2026-08-05T10:04:14.000Z",
+      "articleId": "996c35a4d57c597a"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
+      "title": "Google Earnings, The Frontier Case, Amazon Earnings",
+      "url": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
+      "publishedAt": "2026-08-05T10:00:00.000Z",
+      "articleId": "5e309e011fb9bf69"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-orioles-won-the-adley-rutschman",
       "title": "The Orioles Won the Adley Rutschman Trade Because They Lost Their Bright Future",
@@ -475,17 +508,6 @@
       "articleId": "15bf26cb192e1b2e"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-fact-of-the-day-3",
-      "title": "Taiwan fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "[Annualized] 14% GDP growth in the first half of 2026",
-      "publishedAt": "2026-08-02T06:54:39.000Z",
-      "articleId": "b32074286e542c52"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-080126",
       "title": "Reading List 08/01/26",
       "url": "https://www.construction-physics.com/p/reading-list-080126",
@@ -935,18 +957,6 @@
       "summary": "China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more.",
       "publishedAt": "2026-07-25T14:01:08.000Z",
       "articleId": "a66a6b5cbfff3f37"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/thank-you-christopher-nolan",
-      "title": "Thank you, Christopher Nolan",
-      "url": "https://www.slowboring.com/p/thank-you-christopher-nolan",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "— Homer, probably",
-      "publishedAt": "2026-07-24T22:00:53.000Z",
-      "articleId": "a9ff818d4a5711dc"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-copium-wars/",
@@ -1550,17 +1560,6 @@
       "articleId": "33f5dad377a3d58a"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
-      "title": "Apple Sues OpenAI, Apple’s Real Problem",
-      "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
-      "publishedAt": "2026-07-13T10:00:00.000Z",
-      "articleId": "a151d0da252bb375"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
       "title": "I have never been working class",
       "url": "https://www.noahpinion.blog/p/i-have-never-been-working-class",
@@ -1791,7 +1790,7 @@
     "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
     "articleId": "d12705d9c9ad1d25"
   },
-  "weatherGeneratedAt": "2026-08-05T09:44:53.043Z",
+  "weatherGeneratedAt": "2026-08-05T12:11:01.690Z",
   "weatherError": null,
   "sources": [
     {
