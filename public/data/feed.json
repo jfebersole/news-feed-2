@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-05T21:22:35.057Z",
-  "fetchedAt": "2026-08-05T21:22:35.053Z",
+  "generatedAt": "2026-08-05T23:15:45.436Z",
+  "fetchedAt": "2026-08-05T23:15:45.431Z",
   "sourceCount": 23,
-  "itemCount": 158,
-  "totalItemCount": 775,
+  "itemCount": 159,
+  "totalItemCount": 776,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/theyve-had-it-up-to-here-with-the",
+      "title": "They’ve had it up to here with the NIMBYs",
+      "url": "https://www.slowboring.com/p/theyve-had-it-up-to-here-with-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "From Massachusetts to California to Texas, officials and investors are increasingly overcoming local resistance to build more housing.",
+      "publishedAt": "2026-08-05T22:01:33.000Z",
+      "articleId": "8ae26d00a58f301a"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
       "title": "Money Stuff: SpaceX Unlocks Tomorrow",
@@ -1783,14 +1795,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It's a soupy evening with temperatures slowly falling through the 80s. Isolated shower or storm possible, mainly west and north.",
+    "summary": "HAPPENING NOW: It's a soupy evening with temperatures slowly falling through the 80s and a couple of isolated showers or storms possible.",
     "publishedAt": "2026-08-05T09:00:54.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
     "articleId": "d12705d9c9ad1d25"
   },
-  "weatherGeneratedAt": "2026-08-05T21:22:35.057Z",
+  "weatherGeneratedAt": "2026-08-05T23:15:45.436Z",
   "weatherError": null,
   "sources": [
     {
@@ -1893,7 +1905,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -1956,10 +1968,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
