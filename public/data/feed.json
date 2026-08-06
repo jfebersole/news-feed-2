@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-06T12:15:09.806Z",
-  "fetchedAt": "2026-08-06T12:15:09.803Z",
+  "generatedAt": "2026-08-06T15:26:35.681Z",
+  "fetchedAt": "2026-08-06T15:26:35.676Z",
   "sourceCount": 23,
   "itemCount": 160,
   "totalItemCount": 786,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/why-horses-have-stopped-getting-faster",
+      "title": "The upper limits of biology",
+      "url": "https://www.worksinprogress.news/p/why-horses-have-stopped-getting-faster",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "The limits of breeding for speed",
+      "publishedAt": "2026-08-06T14:10:29.000Z",
+      "articleId": "e4873ca721eac48f"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
       "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
@@ -1786,17 +1797,6 @@
       "summary": "Making Americans poorer won't make our society better.",
       "publishedAt": "2026-07-08T03:56:06.000Z",
       "articleId": "09b9feeba17ad095"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/supergroups-an-album-a-day",
-      "title": "Supergroups: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/supergroups-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Audioslave, Traveling Wilburys, boygenius, and others",
-      "publishedAt": "2026-07-07T13:31:46.000Z",
-      "articleId": "ac9ff45371a64632"
     }
   ],
   "weather": {
@@ -1811,10 +1811,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "We're getting late enough in the season I will gladly hate on high humidity with heat.",
-    "articleId": "7c98f23bc9d33673"
+    "articleId": "7c98f23bc9d33673",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-06T12:15:09.806Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-06T15:26:35.681Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
