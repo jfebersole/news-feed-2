@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-06T03:31:28.458Z",
-  "fetchedAt": "2026-08-06T03:31:28.453Z",
+  "generatedAt": "2026-08-06T06:41:49.314Z",
+  "fetchedAt": "2026-08-06T06:41:49.311Z",
   "sourceCount": 23,
-  "itemCount": 157,
-  "totalItemCount": 785,
+  "itemCount": 158,
+  "totalItemCount": 776,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds",
+      "title": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Federal money flows to cities in three flavors: direct transfers, indirect transfers, and what we call fiscal dark matter. Direct transfers are exactly what they sound like — money sent directly from the federal government to various localities. These include funds disbursed through programs like the Community Development Block Grant (CDBG), which supports things like […]",
+      "publishedAt": "2026-08-06T05:28:13.000Z",
+      "articleId": "44505dc4b04a349c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/who-pays-for-unions.html?utm_source=rss&utm_medium=rss&utm_campaign=who-pays-for-unions",
+      "title": "Who Pays for Unions?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/who-pays-for-unions.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to […]",
+      "publishedAt": "2026-08-06T04:21:20.000Z",
+      "articleId": "ac3211651fd25fb0"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-questions-on-open-weights",
+      "title": "Open Questions On Open Weights",
+      "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-06T03:56:29.000Z",
+      "articleId": "954805344f065bd1"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/theyve-had-it-up-to-here-with-the",
       "title": "They’ve had it up to here with the NIMBYs",
@@ -451,17 +484,6 @@
       "articleId": "7d7784cb5e4ec60e"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=romes-age-of-revolution",
-      "title": "*Rome’s Age of Revolution*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is Tim Whitmarsh and the subtitle is Augustus, Empire and the Making of Christianity. This is the most important book on the history of Christianity I have read in a long time, and it is also an important work in Roman history. Yet also fun and extremely readable. Excerpt: The story I have […]",
-      "publishedAt": "2026-08-03T04:33:37.000Z",
-      "articleId": "1d0693030aff73d3"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
       "title": "Thoughts on inflation and monetary policy",
       "url": "https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
@@ -494,17 +516,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-08-02T17:00:30.000Z",
       "articleId": "2bf4f120257acce7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-578",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The inverseminar, someone else presents your paper. 2. The rise of million-dollar companies with just one employee (WSJ). 3. The political party itself is a big driver of polarization. 4. Gita Gopinath is making sense. 5. GPT Pro (not Astra) on what “Astra” means. 6. David Perell art history game. 7. New model of […]",
-      "publishedAt": "2026-08-02T15:58:08.000Z",
-      "articleId": "c49da1c5af2116ad"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
@@ -1780,7 +1791,7 @@
     "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
     "articleId": "d12705d9c9ad1d25"
   },
-  "weatherGeneratedAt": "2026-08-06T03:31:28.458Z",
+  "weatherGeneratedAt": "2026-08-06T06:41:49.314Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,16 +1805,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1930,26 +1941,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
