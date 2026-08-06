@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-08-06T06:41:49.314Z",
-  "fetchedAt": "2026-08-06T06:41:49.311Z",
+  "generatedAt": "2026-08-06T09:47:25.960Z",
+  "fetchedAt": "2026-08-06T09:47:25.958Z",
   "sourceCount": 23,
-  "itemCount": 158,
+  "itemCount": 159,
   "totalItemCount": 776,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/football-is-back-well-sort-of",
+      "title": "Football Is Back! Well, Sort Of.",
+      "url": "https://neilpaine.substack.com/p/football-is-back-well-sort-of",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Tonight's Hall of Fame Game opens the NFL calendar, signaling that football season is near, even as the league's actual stars have mostly disappeared from the preseason.",
+      "publishedAt": "2026-08-06T09:01:20.000Z",
+      "articleId": "e43bcf39dfaac485"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-look-back-at-metoo",
+      "title": "A look back at #MeToo",
+      "url": "https://www.slowboring.com/p/a-look-back-at-metoo",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Matt and Jerusalem on the legacy of the movement",
+      "publishedAt": "2026-08-06T09:00:45.000Z",
+      "articleId": "c8456ec40e96b629"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
+      "title": "Are the Democrats going to save us this time?",
+      "url": "https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "And if not, what do we do?",
+      "publishedAt": "2026-08-06T07:14:01.000Z",
+      "articleId": "c8739bbc826bacff"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds",
       "title": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
@@ -565,17 +599,6 @@
       "articleId": "f74ab85dda1a0794"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-july-27-31-2026",
-      "title": "The Week That Was (July 27-31, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-july-27-31-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-08-01T09:00:55.000Z",
-      "articleId": "b764d42ef4191ba2"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
       "title": "Your Book Review: The Epic Of Gilgamesh",
       "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
@@ -945,18 +968,6 @@
       "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
       "publishedAt": "2026-07-27T01:15:34.000Z",
       "articleId": "ae67cf5c90c8991d"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-a90",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-a90",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-07-26T17:01:23.000Z",
-      "articleId": "81d7465914ec1b4d"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
@@ -1778,20 +1789,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-scattered-showers-and-storms-today-with-a-flood-watch-this-morning/",
-    "title": "DC-area forecast: Staying very humid tonight, then hotter Thursday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-scattered-showers-and-storms-today-with-a-flood-watch-this-morning/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-building-heat-promotes-late-day-storm-threats/",
+    "title": "DC-area forecast: Building heat promotes late-day storm threats",
+    "url": "https://www.capitalweather.com/dc-area-forecast-building-heat-promotes-late-day-storm-threats/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It's a soupy evening with temperatures in the 70s and an isolated shower possible.",
-    "publishedAt": "2026-08-05T09:00:54.000Z",
+    "summary": "HAPPENING NOW: Plentiful morning sun boosts temperatures through the 80s and toward highs not far from 90. Scattered storms could be strong, especially after 4 p.m.",
+    "publishedAt": "2026-08-06T09:00:43.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "The heat holds back, but humidity makes a comeback, and we're dodging some showers and storms with a flood risk.",
-    "articleId": "d12705d9c9ad1d25"
+    "dailyDigitSummary": "We're getting late enough in the season I will gladly hate on high humidity with heat.",
+    "articleId": "7c98f23bc9d33673"
   },
-  "weatherGeneratedAt": "2026-08-06T06:41:49.314Z",
+  "weatherGeneratedAt": "2026-08-06T09:47:25.960Z",
   "weatherError": null,
   "sources": [
     {
@@ -1957,10 +1968,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
