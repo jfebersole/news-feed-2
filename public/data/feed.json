@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-08-06T09:47:25.960Z",
-  "fetchedAt": "2026-08-06T09:47:25.958Z",
+  "generatedAt": "2026-08-06T12:15:09.806Z",
+  "fetchedAt": "2026-08-06T12:15:09.803Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 776,
+  "itemCount": 160,
+  "totalItemCount": 786,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
+      "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
+      "url": "https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A few weeks ago the 21st Century ROAD to Housing Act became law. This is an enormous housing bill that’s been in the works for roughly a year — I first discussed it on Statecraft back in 2025 — and folks are optimistic that it will, per its description, “increase the supply of housing in America.”",
+      "publishedAt": "2026-08-06T12:02:32.000Z",
+      "articleId": "85b0bf63171f68b5"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-binmen-of-birmingham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-binmen-of-birmingham",
+      "title": "The Binmen of Birmingham",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-binmen-of-birmingham.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I was on the British CapX Podcast talking about the Equality Act, riffing off my two posts Equality Act 2010 and The Apples and Oranges Tribunal. One thing I discussed in the podcast which I haven’t blogged on is the amazing Birmingham dustbin dispute. In 2010 an employment tribunal ruled that Birmingham City Council had […]",
+      "publishedAt": "2026-08-06T11:15:11.000Z",
+      "articleId": "e7ae5b1800015a2f"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-message-behind-christopher-nolans",
+      "title": "The message behind Christopher Nolan’s most important change to “The Odyssey”",
+      "url": "https://www.slowboring.com/p/the-message-behind-christopher-nolans",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Are we the Sea Peoples?",
+      "publishedAt": "2026-08-06T10:04:00.000Z",
+      "articleId": "b704fcf3463deae0"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/football-is-back-well-sort-of",
       "title": "Football Is Back! Well, Sort Of.",
@@ -507,17 +541,6 @@
       "articleId": "6ad6fd144b98d513"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html?utm_source=rss&utm_medium=rss&utm_campaign=on-infinite-ethics",
-      "title": "On infinite ethics",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Infinite numbers have long troubled utilitarian ethicists: if the universe is boundless, then there is infinite positive utility and infinite negative utility, and we can’t even define our current state, let alone affect it. Oxford philosopher Toby Ord proposes a solution: use hyperreal numbers, a mathematical construct in which infinite sums behave more like finite ones (for example, […]",
-      "publishedAt": "2026-08-03T07:11:06.000Z",
-      "articleId": "7d7784cb5e4ec60e"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
       "title": "Thoughts on inflation and monetary policy",
       "url": "https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
@@ -945,18 +968,6 @@
       "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
       "publishedAt": "2026-07-27T18:36:27.000Z",
       "articleId": "3bd7fea941ce38e8"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
-      "title": "Historical accuracy is a surprisingly modern idea",
-      "url": "https://www.slowboring.com/p/historical-accuracy-is-a-surprisingly",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "“The Odyssey” itself is deeply anachronistic.",
-      "publishedAt": "2026-07-27T10:02:20.000Z",
-      "articleId": "a0b4146ef762bbe5"
     },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
@@ -1802,7 +1813,7 @@
     "dailyDigitSummary": "We're getting late enough in the season I will gladly hate on high humidity with heat.",
     "articleId": "7c98f23bc9d33673"
   },
-  "weatherGeneratedAt": "2026-08-06T09:47:25.960Z",
+  "weatherGeneratedAt": "2026-08-06T12:15:09.806Z",
   "weatherError": null,
   "sources": [
     {
@@ -1816,10 +1827,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
