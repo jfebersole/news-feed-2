@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-07T13:33:14.444Z",
-  "fetchedAt": "2026-08-07T13:33:14.441Z",
+  "generatedAt": "2026-08-07T15:06:27.058Z",
+  "fetchedAt": "2026-08-07T15:06:27.053Z",
   "sourceCount": 23,
-  "itemCount": 158,
-  "totalItemCount": 773,
+  "itemCount": 159,
+  "totalItemCount": 776,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
+      "title": "Basil Halperin on sticky wage models",
+      "url": "https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Why wage inflation is what matters",
+      "publishedAt": "2026-08-07T14:25:10.000Z",
+      "articleId": "ece35cfcbe6c5b57"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
       "title": "AI and Marginal Revolutions in Wastewater Treatment",
@@ -1788,10 +1800,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
-    "articleId": "f821f0002a24a2c3"
+    "articleId": "f821f0002a24a2c3",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-07T13:33:14.444Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-07T15:06:27.058Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1804,10 +1817,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1836,10 +1849,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 3,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
@@ -1868,10 +1881,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
