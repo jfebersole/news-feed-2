@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-07T09:12:32.103Z",
-  "fetchedAt": "2026-08-07T09:12:32.100Z",
+  "generatedAt": "2026-08-07T11:05:03.702Z",
+  "fetchedAt": "2026-08-07T11:05:03.697Z",
   "sourceCount": 23,
-  "itemCount": 157,
+  "itemCount": 158,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/in-praise-of-commercial-culture",
+      "title": "In praise of commercial culture",
+      "url": "https://www.slowboring.com/p/in-praise-of-commercial-culture",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus when I’d vote for a Republican, the case for generalists, and why live theater is weird now",
+      "publishedAt": "2026-08-07T10:02:12.000Z",
+      "articleId": "eb79e6007d2d6295"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
+      "title": "Is Odell Beckham Jr. doing enough to earn spot on Giants' wide receiver depth chart?",
+      "url": "https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Malik Nabers is the clear No. 1. But beyond him, the Giants' wide receiver depth chart is wide open.",
+      "publishedAt": "2026-08-07T10:00:54.000Z",
+      "articleId": "6a3b130cd87c75d7"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
       "title": "My excellent Conversation with Julia Ioffe",
@@ -958,18 +980,6 @@
       "articleId": "7aab3aa38597f0e6"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-great-idea-that-everyone-hates",
-      "title": "A great idea that everyone hates",
-      "url": "https://www.slowboring.com/p/a-great-idea-that-everyone-hates",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A simple way to bring down utility bills is to charge what the electricity actually costs",
-      "publishedAt": "2026-07-28T10:03:03.000Z",
-      "articleId": "6e27ed2e5775b54c"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
       "title": "Roundup #85: Most policy is also industrial policy",
       "url": "https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
@@ -1780,7 +1790,7 @@
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T09:12:32.103Z",
+  "weatherGeneratedAt": "2026-08-07T11:05:03.702Z",
   "weatherError": null,
   "sources": [
     {
@@ -1930,26 +1940,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
