@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T19:10:53.334Z",
-  "fetchedAt": "2026-08-07T19:10:53.330Z",
+  "generatedAt": "2026-08-07T20:54:48.115Z",
+  "fetchedAt": "2026-08-07T20:54:48.109Z",
   "sourceCount": 23,
   "itemCount": 160,
-  "totalItemCount": 784,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
@@ -1812,10 +1812,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
-    "articleId": "f821f0002a24a2c3"
+    "articleId": "f821f0002a24a2c3",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-07T19:10:53.334Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-07T20:54:48.115Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1828,10 +1829,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
