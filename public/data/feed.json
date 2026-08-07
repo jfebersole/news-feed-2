@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T22:51:42.916Z",
-  "fetchedAt": "2026-08-07T22:51:42.911Z",
+  "generatedAt": "2026-08-07T23:45:02.356Z",
+  "fetchedAt": "2026-08-07T23:45:02.351Z",
   "sourceCount": 23,
   "itemCount": 161,
   "totalItemCount": 785,
@@ -1814,19 +1814,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
-    "title": "DC-area forecast: A few strong storms possible into evening, and similar Saturday",
+    "title": "DC-area forecast: Muggy overnight before a humid weekend with more storm chances",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Widely scattered storms, with an isolated severe storm possible, until sunset or so. Intense storm with flooding has parked over the Rockville area but should move off after 7 p.m. Severe thunderstorm watch for areas near and east of Interstate 95 until 9 p.m.",
+    "summary": "HAPPENING NOW: Storms wane and it remains warm and muggy for the rest of the evening and overnight. Temperatures gradually slip from the 80s into the 70s.",
     "publishedAt": "2026-08-07T09:00:59.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T22:51:42.916Z",
+  "weatherGeneratedAt": "2026-08-07T23:45:02.356Z",
   "weatherError": null,
   "sources": [
     {
