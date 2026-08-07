@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-07T11:05:03.702Z",
-  "fetchedAt": "2026-08-07T11:05:03.697Z",
+  "generatedAt": "2026-08-07T11:54:53.127Z",
+  "fetchedAt": "2026-08-07T11:54:53.124Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
+      "title": "AI and Marginal Revolutions in Wastewater Treatment",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "An interesting paper from French economists, including recent Nobelist Philippe Aghion, looks at the savings from a predictive machine-learning model applied to wastewater treatment: This paper studies the environmental effects of a specialised AI aeration-control system deployed across French wastewater treatment plants operated by a global leader in water supply services. Exploiting quasi-experimental variation in […]",
+      "publishedAt": "2026-08-07T11:20:34.000Z",
+      "articleId": "2f24f6282b6d5584"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/in-praise-of-commercial-culture",
       "title": "In praise of commercial culture",
@@ -505,17 +516,6 @@
       "summary": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants, with gains concentrated in non-STEM occupations. Income gains propagate […]",
       "publishedAt": "2026-08-04T06:23:41.000Z",
       "articleId": "8f5078f7c0e88fac"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-57th-cohort",
-      "title": "Emergent Ventures winners, 57th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-57th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Oisin O’Gorman, 15, Dublin, misinformation and fakes. Karsen Lee Wahal, Stanford, is AI killing the web?, and measuring media slant. Davy Deng, with Claire Wang (previous winner), whole brain emulation, MIT. Enej Grmek, 16, Ljubljana, privacy. Vladimir Shmelev, Ukraine, Ukrainian children for relief trips to Montenegro. Nik Verma, Chicago, a legal framework for AI agents. […]",
-      "publishedAt": "2026-08-04T05:16:58.000Z",
-      "articleId": "0c5b1244d382a630"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
@@ -1790,7 +1790,7 @@
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T11:05:03.702Z",
+  "weatherGeneratedAt": "2026-08-07T11:54:53.127Z",
   "weatherError": null,
   "sources": [
     {
@@ -1940,26 +1940,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 3,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
