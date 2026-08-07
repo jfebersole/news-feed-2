@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T20:54:48.115Z",
-  "fetchedAt": "2026-08-07T20:54:48.109Z",
+  "generatedAt": "2026-08-07T21:51:48.050Z",
+  "fetchedAt": "2026-08-07T21:51:48.047Z",
   "sourceCount": 23,
   "itemCount": 160,
   "totalItemCount": 774,
@@ -1802,21 +1802,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
-    "title": "DC-area forecast: More heat and humidity today, plus late-day strong storms possible",
+    "title": "DC-area forecast: A few strong storms possible into evening, and similar Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Highs mainly in the upper 80s and low 90s this afternoon – humidity makes it feel 10 degrees hotter. Partial sun ahead of storms probably popping midafternoon into evening. A few could be strong.",
+    "summary": "HAPPENING NOW: Near 90 and feeling 10 degrees hotter early evening. Severe thunderstorm watch for most of the region until 9 p.m.",
     "publishedAt": "2026-08-07T09:00:59.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
-    "articleId": "f821f0002a24a2c3",
-    "stale": true
+    "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T20:54:48.115Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-07T21:51:48.050Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
