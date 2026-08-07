@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-07T04:02:38.445Z",
-  "fetchedAt": "2026-08-07T04:02:38.442Z",
+  "generatedAt": "2026-08-07T05:48:09.662Z",
+  "fetchedAt": "2026-08-07T05:48:09.659Z",
   "sourceCount": 23,
   "itemCount": 157,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
+      "title": "My excellent Conversation with Julia Ioffe",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is from the episode summary: Julia joined Tyler to discuss why so many of Russia’s great constructivist painters were women, why the tsarist government established women’s medical courses in 1872, changing attitudes towards abortion and birth control in the 20th century, why the Soviet regime turned prudish, how […]",
+      "publishedAt": "2026-08-07T04:48:30.000Z",
+      "articleId": "813c8b6928406c18"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
+      "title": "MacGregor The Bridge Builder",
+      "url": "https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-07T04:44:32.000Z",
+      "articleId": "1ddeb2776b1a65fa"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/solve-for-the-refine-equilibrium.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-refine-equilibrium",
       "title": "Solve for the (Refine) equilibrium",
@@ -506,17 +528,6 @@
       "summary": "Primary voters are far more focused on fighting each other than on fighting the G.O.P.",
       "publishedAt": "2026-08-03T22:01:04.000Z",
       "articleId": "e42a120a2825c9b2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
-      "title": "How does the market regard stablecoins?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model delivers three main predictions: (i) the stablecoin deposit premium co-moves with the Treasury premium when […]",
-      "publishedAt": "2026-08-03T18:32:18.000Z",
-      "articleId": "bed3029ae840b347"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/eu5e5mxig7ra8fjfs4pa.html",
@@ -1517,17 +1528,6 @@
       "articleId": "e9cef8a897fa1860"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
-      "title": "AI Chip Regulation Is Not A Dystopian Surveillance State",
-      "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-15T10:19:35.000Z",
-      "articleId": "281fe4cafca24604"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
       "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
       "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
@@ -1780,7 +1780,7 @@
     "dailyDigitSummary": "We're getting late enough in the season I will gladly hate on high humidity with heat.",
     "articleId": "7c98f23bc9d33673"
   },
-  "weatherGeneratedAt": "2026-08-07T04:02:38.445Z",
+  "weatherGeneratedAt": "2026-08-07T05:48:09.662Z",
   "weatherError": null,
   "sources": [
     {
