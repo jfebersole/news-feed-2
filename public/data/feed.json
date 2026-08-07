@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T07:38:00.901Z",
-  "fetchedAt": "2026-08-07T07:38:00.896Z",
+  "generatedAt": "2026-08-07T09:12:32.103Z",
+  "fetchedAt": "2026-08-07T09:12:32.100Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 773,
+  "totalItemCount": 783,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
@@ -1767,20 +1767,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-building-heat-promotes-late-day-storm-threats/",
-    "title": "DC-area forecast: Very humid tonight with another chance of late-day storms Friday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-building-heat-promotes-late-day-storm-threats/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
+    "title": "DC-area forecast: More heat and humidity, plus late-day strong storms possible",
+    "url": "https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Just an isolated shower possible through the rest of the night. Otherwise very soupy with evening and overnight temperatures in the 70s.",
-    "publishedAt": "2026-08-06T09:00:43.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "We're getting late enough in the season I will gladly hate on high humidity with heat.",
-    "articleId": "7c98f23bc9d33673"
+    "summary": "HAPPENING NOW: Morning 70s and 80s head toward highs mainly in the upper 80s and low 90s – humidity makes it feel 10 degrees hotter. Partial sun ahead of storms probably popping midafternoon into evening. A few could be strong.",
+    "publishedAt": "2026-08-07T09:00:59.000Z",
+    "dailyDigit": 3,
+    "dailyDigitLabel": "3/10",
+    "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
+    "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T07:38:00.901Z",
+  "weatherGeneratedAt": "2026-08-07T09:12:32.103Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
