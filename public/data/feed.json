@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-07T21:51:48.050Z",
-  "fetchedAt": "2026-08-07T21:51:48.047Z",
+  "generatedAt": "2026-08-07T22:51:42.916Z",
+  "fetchedAt": "2026-08-07T22:51:42.911Z",
   "sourceCount": 23,
-  "itemCount": 160,
-  "totalItemCount": 774,
+  "itemCount": 161,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
+      "title": "Theater is weird, and that’s the point.",
+      "url": "https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "In which I come out as a total theater nerd",
+      "publishedAt": "2026-08-07T22:00:06.000Z",
+      "articleId": "83184ba06bf53322"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
       "title": "The Queen song ’39",
@@ -1807,14 +1819,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Near 90 and feeling 10 degrees hotter early evening. Severe thunderstorm watch for most of the region until 9 p.m.",
+    "summary": "HAPPENING NOW: Widely scattered storms, with an isolated severe storm possible, until sunset or so. Intense storm with flooding has parked over the Rockville area but should move off after 7 p.m. Severe thunderstorm watch for areas near and east of Interstate 95 until 9 p.m.",
     "publishedAt": "2026-08-07T09:00:59.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T21:51:48.050Z",
+  "weatherGeneratedAt": "2026-08-07T22:51:42.916Z",
   "weatherError": null,
   "sources": [
     {
@@ -1828,10 +1840,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1917,7 +1929,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
