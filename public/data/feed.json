@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-07T16:08:30.664Z",
-  "fetchedAt": "2026-08-07T16:08:30.656Z",
+  "generatedAt": "2026-08-07T17:59:19.461Z",
+  "fetchedAt": "2026-08-07T17:59:19.455Z",
   "sourceCount": 23,
   "itemCount": 160,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
+      "title": "The Queen song ’39",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I only recently learned what it is really about, namely very rapid travel into space and time dilation mattering for the return voyage. I had never before listened carefully to the lyrics. I heard the “’39” reference at the beginning, the mention of volunteeers sailing away, and the general nostalgic British music hall mood to […]",
+      "publishedAt": "2026-08-07T17:36:23.000Z",
+      "articleId": "2b983bba14154eb1"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/earnings-and-learnings/",
+      "title": "2026.32: Earnings and Learnings",
+      "url": "https://stratechery.com/2026/earnings-and-learnings/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
+      "publishedAt": "2026-08-07T17:29:02.000Z",
+      "articleId": "ba4710288f1ffe90"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
       "title": "Friday assorted links",
@@ -450,17 +472,6 @@
       "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
       "publishedAt": "2026-08-04T16:50:01.000Z",
       "articleId": "8318fff3be379c5a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-580",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-580.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Selecting innovation funding mechanisms. 2. Helen Andrews on race. 3. Famous radio station goes all-automated. 4. On Stefanie Stantcheva. 5. ChinaTalk submission hiring contest. 6. New Hamilton faculty at University of Florida, 21 of them. 7. Battery in your backyard? (WSJ) 8. How Americans are talking to Claude about politics.",
-      "publishedAt": "2026-08-04T15:29:06.000Z",
-      "articleId": "7ac115752e83a084"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/mathematicians-are-grappling-with",
@@ -1617,17 +1628,6 @@
       "articleId": "70c0314e698c30e1"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
-      "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
-      "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
-      "articleId": "abfeab3db38afb8d"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
       "title": "Graham Platner Was Just Hunter Biden With Worse Ink",
       "url": "https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
@@ -1814,7 +1814,7 @@
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T16:08:30.664Z",
+  "weatherGeneratedAt": "2026-08-07T17:59:19.461Z",
   "weatherError": null,
   "sources": [
     {
