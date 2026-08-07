@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T05:48:09.662Z",
-  "fetchedAt": "2026-08-07T05:48:09.659Z",
+  "generatedAt": "2026-08-07T07:38:00.901Z",
+  "fetchedAt": "2026-08-07T07:38:00.896Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 783,
+  "totalItemCount": 773,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
@@ -1780,7 +1780,7 @@
     "dailyDigitSummary": "We're getting late enough in the season I will gladly hate on high humidity with heat.",
     "articleId": "7c98f23bc9d33673"
   },
-  "weatherGeneratedAt": "2026-08-07T05:48:09.662Z",
+  "weatherGeneratedAt": "2026-08-07T07:38:00.901Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
