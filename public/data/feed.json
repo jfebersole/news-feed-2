@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-07T15:06:27.058Z",
-  "fetchedAt": "2026-08-07T15:06:27.053Z",
+  "generatedAt": "2026-08-07T16:08:30.664Z",
+  "fetchedAt": "2026-08-07T16:08:30.656Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 776,
+  "itemCount": 160,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Denmark fact of the day. 2. “Books that Tyler Cowen probably would like.” 3. The tenure dismissal of Sanjay Reddy (NYT). 4. Dell and Rambachan NBER video on the economics of AI. I have yet to view, but “self-recommending.” 5. Anton Leicht on AI and how the concentration of power will evolve. Very good […]",
+      "publishedAt": "2026-08-07T15:50:35.000Z",
+      "articleId": "a6d03d7c5dd76545"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
       "title": "Basil Halperin on sticky wage models",
@@ -49,6 +60,18 @@
       "summary": "Malik Nabers is the clear No. 1. But beyond him, the Giants' wide receiver depth chart is wide open.",
       "publishedAt": "2026-08-07T10:00:54.000Z",
       "articleId": "6a3b130cd87c75d7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/drew-brees-is-underrated",
+      "title": "Drew Brees Is Underrated",
+      "url": "https://neilpaine.substack.com/p/drew-brees-is-underrated",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The longtime Saints icon is going into the Hall of Fame this weekend — but we've still never quite figured out how to properly judge his greatness.",
+      "publishedAt": "2026-08-07T09:01:47.000Z",
+      "articleId": "510329490eedbd25"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
@@ -517,17 +540,6 @@
       "summary": "AI will soon be better at math than any human. What does that mean?",
       "publishedAt": "2026-08-04T07:36:17.000Z",
       "articleId": "2c60d6d0a291896a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
-      "title": "The economics of H-1B immigration",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants, with gains concentrated in non-STEM occupations. Income gains propagate […]",
-      "publishedAt": "2026-08-04T06:23:41.000Z",
-      "articleId": "8f5078f7c0e88fac"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
@@ -1790,21 +1802,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
-    "title": "DC-area forecast: More heat and humidity, plus late-day strong storms possible",
+    "title": "DC-area forecast: More heat and humidity today, plus late-day strong storms possible",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Morning 70s and 80s head toward highs mainly in the upper 80s and low 90s – humidity makes it feel 10 degrees hotter. Partial sun ahead of storms probably popping midafternoon into evening. A few could be strong.",
+    "summary": "HAPPENING NOW: Highs mainly in the upper 80s and low 90s this afternoon – humidity makes it feel 10 degrees hotter. Partial sun ahead of storms probably popping midafternoon into evening. A few could be strong.",
     "publishedAt": "2026-08-07T09:00:59.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
-    "articleId": "f821f0002a24a2c3",
-    "stale": true
+    "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T15:06:27.058Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-07T16:08:30.664Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1849,10 +1860,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
@@ -1881,10 +1892,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
