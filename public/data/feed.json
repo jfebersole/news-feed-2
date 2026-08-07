@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T11:54:53.127Z",
-  "fetchedAt": "2026-08-07T11:54:53.124Z",
+  "generatedAt": "2026-08-07T13:33:14.444Z",
+  "fetchedAt": "2026-08-07T13:33:14.441Z",
   "sourceCount": 23,
   "itemCount": 158,
-  "totalItemCount": 783,
+  "totalItemCount": 773,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
@@ -1790,7 +1790,7 @@
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-07T11:54:53.127Z",
+  "weatherGeneratedAt": "2026-08-07T13:33:14.444Z",
   "weatherError": null,
   "sources": [
     {
@@ -1804,10 +1804,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
