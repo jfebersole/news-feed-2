@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T16:48:56.644Z",
-  "fetchedAt": "2026-08-08T16:48:56.636Z",
+  "generatedAt": "2026-08-08T17:43:12.023Z",
+  "fetchedAt": "2026-08-08T17:43:12.019Z",
   "sourceCount": 23,
-  "itemCount": 161,
-  "totalItemCount": 775,
+  "itemCount": 159,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-573",
@@ -1017,17 +1017,6 @@
       "articleId": "07aa4b1351ebe34f"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/why-free-markets-beat-capitalism",
-      "title": "Why free markets beat capitalism",
-      "url": "https://www.slowboring.com/p/why-free-markets-beat-capitalism",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Freedom is good; greed is not",
-      "publishedAt": "2026-07-29T10:02:17.000Z",
-      "articleId": "2f0d5d95d86917e6"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
       "title": "Peaked at 200: An Album a Day",
       "url": "https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
@@ -1798,35 +1787,23 @@
       "summary": "PELE’s forecast for the final eight: France leads a tight field, Argentina has the easiest path, and Norway has a real chance to crash the party.",
       "publishedAt": "2026-07-09T19:03:31.000Z",
       "articleId": "7db7f65124130a8e"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/pop-stars-are-disappearing",
-      "title": "Pop Stars are Disappearing",
-      "url": "https://www.cantgetmuchhigher.com/p/pop-stars-are-disappearing",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "But not in the way you think",
-      "publishedAt": "2026-07-09T17:31:10.000Z",
-      "articleId": "ef51d204e0b7ff4a"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
-    "title": "DC-area forecast: Humid today with storm chances; temperatures climb early next week",
+    "title": "DC-area forecast: Humid with storm chances; temperatures climb early next week",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and storms may clip far northern Maryland into the early afternoon. Humid, with highs near 90 and heat indexes near 100. Scattered storms are possible areawide by late afternoon and evening, with an isolated severe storm possible.",
+    "summary": "HAPPENING NOW: Partly sunny and humid, with afternoon highs near 90 and heat indexes near 100. Scattered storms are possible areawide by late afternoon and evening, with an isolated severe storm possible.",
     "publishedAt": "2026-08-08T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T16:48:56.644Z",
+  "weatherGeneratedAt": "2026-08-08T17:43:12.023Z",
   "weatherError": null,
   "sources": [
     {
@@ -1840,10 +1817,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1929,7 +1906,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
