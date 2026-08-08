@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T19:40:21.130Z",
-  "fetchedAt": "2026-08-08T19:40:21.127Z",
+  "generatedAt": "2026-08-08T20:45:23.178Z",
+  "fetchedAt": "2026-08-08T20:45:23.175Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 784,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
@@ -1768,19 +1768,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
-    "title": "DC-area forecast: Humid with storm chances; temperatures climb early next week",
+    "title": "DC-area forecast: One or two strong storms into sunset; hot and mostly dry Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny and humid, with afternoon highs near 90 and heat indexes near 100. Scattered storms are possible areawide by late afternoon and evening, with an isolated severe storm possible.",
+    "summary": "HAPPENING NOW: A few isolated to scattered strong storms remain possible through about 8 p.m. A couple of cells well west and southwest of DC are worth watching. Evening 80s dip to 70s for lows.",
     "publishedAt": "2026-08-08T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T19:40:21.130Z",
+  "weatherGeneratedAt": "2026-08-08T20:45:23.178Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
