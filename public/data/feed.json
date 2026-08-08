@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-08T08:56:05.647Z",
-  "fetchedAt": "2026-08-08T08:56:05.644Z",
+  "generatedAt": "2026-08-08T09:50:30.226Z",
+  "fetchedAt": "2026-08-08T09:50:30.222Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 775,
+  "itemCount": 160,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/banning-data-centers-would-blow-up",
+      "title": "Banning data centers would blow up the U.S. economy",
+      "url": "https://www.noahpinion.blog/p/banning-data-centers-would-blow-up",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "There's one thing keeping us afloat right now, and people want to get rid of it.",
+      "publishedAt": "2026-08-08T09:25:08.000Z",
+      "articleId": "775abd44b32fd712"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
       "title": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
@@ -1790,20 +1802,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
-    "title": "DC-area forecast: Muggy overnight before a humid weekend with more storm chances",
-    "url": "https://www.capitalweather.com/dc-area-forecast-more-heat-and-humidity-plus-late-day-strong-storms/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
+    "title": "DC-area forecast: Humid again with storm chances today; hotter early week",
+    "url": "https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Storms wane and it remains warm and muggy for the rest of the evening and overnight. Temperatures gradually slip from the 80s into the 70s.",
-    "publishedAt": "2026-08-07T09:00:59.000Z",
+    "summary": "HAPPENING NOW: Another warm and humid one, with a mix of sun and clouds. Highs climb into the upper 80s to low 90s, while the humidity pushes feels-like temperatures near 100. Scattered thunderstorms are possible by late afternoon or evening, with a few capable of becoming strong.",
+    "publishedAt": "2026-08-08T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
-    "articleId": "f821f0002a24a2c3"
+    "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
+    "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T08:56:05.647Z",
+  "weatherGeneratedAt": "2026-08-08T09:50:30.226Z",
   "weatherError": null,
   "sources": [
     {
@@ -1817,10 +1829,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
