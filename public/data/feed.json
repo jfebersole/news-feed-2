@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T18:53:59.824Z",
-  "fetchedAt": "2026-08-08T18:53:59.819Z",
+  "generatedAt": "2026-08-08T19:40:21.130Z",
+  "fetchedAt": "2026-08-08T19:40:21.127Z",
   "sourceCount": 23,
-  "itemCount": 159,
+  "itemCount": 157,
   "totalItemCount": 784,
   "items": [
     {
@@ -1764,29 +1764,6 @@
       "summary": "A book about baseball, and community, and a man who paints Japan",
       "publishedAt": "2026-07-10T10:30:40.000Z",
       "articleId": "e338add828fbf789"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
-      "title": "MAGA’s Birthright Meltdown Is in Full Effect",
-      "url": "https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Is the right giving up on America?",
-      "publishedAt": "2026-07-09T19:24:57.000Z",
-      "articleId": "30f004cd1dd1c596"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-silver-bulletin-world-cup-quarterfinals",
-      "title": "The Silver Bulletin World Cup quarterfinals preview",
-      "url": "https://www.natesilver.net/p/the-silver-bulletin-world-cup-quarterfinals",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "PELE’s forecast for the final eight: France leads a tight field, Argentina has the easiest path, and Norway has a real chance to crash the party.",
-      "publishedAt": "2026-07-09T19:03:31.000Z",
-      "articleId": "7db7f65124130a8e"
     }
   ],
   "weather": {
@@ -1803,7 +1780,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T18:53:59.824Z",
+  "weatherGeneratedAt": "2026-08-08T19:40:21.130Z",
   "weatherError": null,
   "sources": [
     {
