@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-08T10:48:13.951Z",
-  "fetchedAt": "2026-08-08T10:48:13.946Z",
+  "generatedAt": "2026-08-08T11:38:46.950Z",
+  "fetchedAt": "2026-08-08T11:38:46.946Z",
   "sourceCount": 23,
-  "itemCount": 159,
+  "itemCount": 160,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
+      "title": "Who Is My Enemy? I’m No Longer Sure.",
+      "url": "https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
+      "source": "Ross Douthat (NYT)",
+      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
+      "access": "paywalled",
+      "summary": "Where does the side of the angels really lie?",
+      "publishedAt": "2026-08-08T11:27:21.000Z",
+      "articleId": "b299d6d99249ffde"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/banning-data-centers-would-blow-up",
       "title": "Banning data centers would blow up the U.S. economy",
@@ -1803,7 +1814,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T10:48:13.951Z",
+  "weatherGeneratedAt": "2026-08-08T11:38:46.950Z",
   "weatherError": null,
   "sources": [
     {
