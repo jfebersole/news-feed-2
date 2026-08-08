@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-08T04:18:18.464Z",
-  "fetchedAt": "2026-08-08T04:18:18.461Z",
+  "generatedAt": "2026-08-08T05:52:58.609Z",
+  "fetchedAt": "2026-08-08T05:52:58.606Z",
   "sourceCount": 23,
-  "itemCount": 161,
+  "itemCount": 160,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-293",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Mike Jay, Wireheads: An Unnatural History of Technology in the Brain. Much of this story is told through the lens of the accompanying science fiction and non-neuro trends in other parts of science. An excellent book, substantive on every page, and it will make you want to read some of the works he cites. […]",
+      "publishedAt": "2026-08-08T04:43:17.000Z",
+      "articleId": "2bb6fc7e7fedaa68"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
       "title": "Theater is weird, and that’s the point.",
@@ -451,17 +462,6 @@
       "summary": "...",
       "publishedAt": "2026-08-04T21:32:18.000Z",
       "articleId": "7bd3477db07034ef"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html?utm_source=rss&utm_medium=rss&utm_campaign=estimating-the-economic-value-of-zoning-reform",
-      "title": "Estimating the Economic Value of Zoning Reform",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/estimating-the-economic-value-of-zoning-reform.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We estimate the economic value of zoning reform in São Paulo, which altered maximum permitted construction along transportation corridors. Developers increased filings for multifamily construction in blocks affected by the reform, leading to more housing supply and lower housing prices in neighborhoods that allow more densification. Our equilibrium model of housing markets estimates an aggregate […]",
-      "publishedAt": "2026-08-04T18:51:23.000Z",
-      "articleId": "3b38045110b63e49"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/etipabuh47r7qo0i5f9u.html",
@@ -1798,18 +1798,6 @@
       "summary": "A synthetic cell made via chemistry, laser phase plate electron microscopy, the first base-edited human embryo, lab-grown eggs and sperm, and more.",
       "publishedAt": "2026-07-09T08:30:57.000Z",
       "articleId": "3fa52df2c948231d"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-game-theory-of-replacing-graham",
-      "title": "The game theory of replacing Graham Platner",
-      "url": "https://www.natesilver.net/p/the-game-theory-of-replacing-graham",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "20 thoughts on who really has the leverage in Maine — and what Democrats should do next.",
-      "publishedAt": "2026-07-09T05:13:14.000Z",
-      "articleId": "0fd44c723d2b7610"
     }
   ],
   "weather": {
@@ -1826,7 +1814,7 @@
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-08T04:18:18.464Z",
+  "weatherGeneratedAt": "2026-08-08T05:52:58.609Z",
   "weatherError": null,
   "sources": [
     {
