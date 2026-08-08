@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T07:10:11.888Z",
-  "fetchedAt": "2026-08-08T07:10:11.883Z",
+  "generatedAt": "2026-08-08T08:56:05.647Z",
+  "fetchedAt": "2026-08-08T08:56:05.644Z",
   "sourceCount": 23,
-  "itemCount": 160,
-  "totalItemCount": 785,
+  "itemCount": 159,
+  "totalItemCount": 775,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
@@ -1787,17 +1787,6 @@
       "summary": "What kind of impression has rookie Arvell Reese made on his new teammates? With Dexter Lawrence traded, where do things stand at DT for NY?",
       "publishedAt": "2026-07-09T10:00:54.000Z",
       "articleId": "77289302b361d5b8"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/whats-new-in-biology-july-2026",
-      "title": "What's new in biology: July 2026",
-      "url": "https://www.worksinprogress.news/p/whats-new-in-biology-july-2026",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "A synthetic cell made via chemistry, laser phase plate electron microscopy, the first base-edited human embryo, lab-grown eggs and sperm, and more.",
-      "publishedAt": "2026-07-09T08:30:57.000Z",
-      "articleId": "3fa52df2c948231d"
     }
   ],
   "weather": {
@@ -1814,7 +1803,7 @@
     "dailyDigitSummary": "The hottest and most humid spots may feel like low 100s this afternoon. Scattered strong afternoon storms are also possible.",
     "articleId": "f821f0002a24a2c3"
   },
-  "weatherGeneratedAt": "2026-08-08T07:10:11.888Z",
+  "weatherGeneratedAt": "2026-08-08T08:56:05.647Z",
   "weatherError": null,
   "sources": [
     {
@@ -1828,10 +1817,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
