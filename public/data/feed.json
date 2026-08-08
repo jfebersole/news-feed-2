@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-08T15:42:30.225Z",
-  "fetchedAt": "2026-08-08T15:42:30.220Z",
+  "generatedAt": "2026-08-08T16:48:56.644Z",
+  "fetchedAt": "2026-08-08T16:48:56.636Z",
   "sourceCount": 23,
   "itemCount": 161,
-  "totalItemCount": 785,
+  "totalItemCount": 775,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-573",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-573.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Possibly AI-written pieces that have won literary awards. 2. HuggingFace co-founder on what happened, very good post. 3. What do private insurers want from a Hormuz agreement? 4. GPT Pro on burrito price worries. 5. NoVa vs. MD, once again. 6. Do people listen to female economists more? 7. North Korea might be growing […]",
+      "publishedAt": "2026-08-08T15:42:08.000Z",
+      "articleId": "3e15a14aa356e66f"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
       "title": "Reading List 08/08/2026",
@@ -486,17 +497,6 @@
       "summary": "This paper investigates why China’s recurrent credit expansions have coincided with persistently weak inflation. We argue that this pattern reflects the country’s production-oriented monetary regime. At the aggregate level, faster monetary-financial expansion temporarily raises PPI inflation but depresses it over longer horizons. At the sectoral level, liability growth among listed industrial firms is followed by […]",
       "publishedAt": "2026-08-05T07:20:41.000Z",
       "articleId": "369e8cb2a6c25690"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/victor-niederhoffer-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=victor-niederhoffer-rip",
-      "title": "Victor Niederhoffer, RIP",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/victor-niederhoffer-rip.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In addition to his well-known public roles, he worked very hard to help and befriend me when I was younger. Here are the Google searches for Victor. Less well known about Victor is that he had one of the world’s best collections of private letters. He also once gave me a very nice small painting […]",
-      "publishedAt": "2026-08-05T06:04:51.000Z",
-      "articleId": "4227e2eda963b717"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-beauty-of-settled-science",
@@ -1826,7 +1826,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T15:42:30.225Z",
+  "weatherGeneratedAt": "2026-08-08T16:48:56.644Z",
   "weatherError": null,
   "sources": [
     {
@@ -1840,10 +1840,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
