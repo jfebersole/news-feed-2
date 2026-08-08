@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T13:08:40.813Z",
-  "fetchedAt": "2026-08-08T13:08:40.806Z",
+  "generatedAt": "2026-08-08T14:47:05.441Z",
+  "fetchedAt": "2026-08-08T14:47:05.437Z",
   "sourceCount": 23,
   "itemCount": 161,
   "totalItemCount": 785,
@@ -1826,7 +1826,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T13:08:40.813Z",
+  "weatherGeneratedAt": "2026-08-08T14:47:05.441Z",
   "weatherError": null,
   "sources": [
     {
@@ -1992,10 +1992,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
