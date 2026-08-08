@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T20:45:23.178Z",
-  "fetchedAt": "2026-08-08T20:45:23.175Z",
+  "generatedAt": "2026-08-08T21:42:28.685Z",
+  "fetchedAt": "2026-08-08T21:42:28.682Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
@@ -1780,7 +1780,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T20:45:23.178Z",
+  "weatherGeneratedAt": "2026-08-08T21:42:28.685Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
