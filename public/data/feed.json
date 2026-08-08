@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T14:47:05.441Z",
-  "fetchedAt": "2026-08-08T14:47:05.437Z",
+  "generatedAt": "2026-08-08T15:42:30.225Z",
+  "fetchedAt": "2026-08-08T15:42:30.220Z",
   "sourceCount": 23,
   "itemCount": 161,
   "totalItemCount": 785,
@@ -1814,19 +1814,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
-    "title": "DC-area forecast: Humid again with storm chances today; hotter early week",
+    "title": "DC-area forecast: Humid today with storm chances; temperatures climb early next week",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Another warm and humid one, with a mix of sun and clouds. Highs climb into the upper 80s to low 90s, while the humidity pushes feels-like temperatures near 100. Scattered thunderstorms are possible by late afternoon or evening, with a few capable of becoming strong.",
+    "summary": "HAPPENING NOW: Showers and storms may clip far northern Maryland into the early afternoon. Humid, with highs near 90 and heat indexes near 100. Scattered storms are possible areawide by late afternoon and evening, with an isolated severe storm possible.",
     "publishedAt": "2026-08-08T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T14:47:05.441Z",
+  "weatherGeneratedAt": "2026-08-08T15:42:30.225Z",
   "weatherError": null,
   "sources": [
     {
@@ -1992,10 +1992,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 2,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
