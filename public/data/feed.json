@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T09:50:30.226Z",
-  "fetchedAt": "2026-08-08T09:50:30.222Z",
+  "generatedAt": "2026-08-08T10:48:13.951Z",
+  "fetchedAt": "2026-08-08T10:48:13.946Z",
   "sourceCount": 23,
-  "itemCount": 160,
+  "itemCount": 159,
   "totalItemCount": 785,
   "items": [
     {
@@ -16,6 +16,17 @@
       "summary": "There's one thing keeping us afloat right now, and people want to get rid of it.",
       "publishedAt": "2026-08-08T09:25:08.000Z",
       "articleId": "775abd44b32fd712"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-3-7-2026",
+      "title": "The Week That Was (August 3-7, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-3-7-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-08-08T09:02:42.000Z",
+      "articleId": "aed7a7f60dcc8a50"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
@@ -552,18 +563,6 @@
       "summary": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
       "publishedAt": "2026-08-04T10:00:00.000Z",
       "articleId": "7dd90051b9ca0080"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/where-does-the-dodgers-new-super",
-      "title": "Where Does the Dodgers' New Super-Rotation Rank in MLB History?",
-      "url": "https://neilpaine.substack.com/p/where-does-the-dodgers-new-super",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Tarik Skubal gives L.A. a superstar ace, but their truly historic advantage may be in a modern abundance of October options.",
-      "publishedAt": "2026-08-04T09:01:30.000Z",
-      "articleId": "8a981ece381cde54"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
@@ -1788,17 +1787,6 @@
       "summary": "But not in the way you think",
       "publishedAt": "2026-07-09T17:31:10.000Z",
       "articleId": "ef51d204e0b7ff4a"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7419388/2026/07/09/new-york-giants-training-camp-roster-arvell-reese-dj-reader/",
-      "title": "Giants training camp preview: One thought on Reese, Reader and every player on defense",
-      "url": "https://www.nytimes.com/athletic/7419388/2026/07/09/new-york-giants-training-camp-roster-arvell-reese-dj-reader/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "What kind of impression has rookie Arvell Reese made on his new teammates? With Dexter Lawrence traded, where do things stand at DT for NY?",
-      "publishedAt": "2026-07-09T10:00:54.000Z",
-      "articleId": "77289302b361d5b8"
     }
   ],
   "weather": {
@@ -1815,7 +1803,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T09:50:30.226Z",
+  "weatherGeneratedAt": "2026-08-08T10:48:13.951Z",
   "weatherError": null,
   "sources": [
     {
