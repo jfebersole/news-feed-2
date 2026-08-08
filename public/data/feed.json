@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-08T11:38:46.950Z",
-  "fetchedAt": "2026-08-08T11:38:46.946Z",
+  "generatedAt": "2026-08-08T13:08:40.813Z",
+  "fetchedAt": "2026-08-08T13:08:40.806Z",
   "sourceCount": 23,
-  "itemCount": 160,
+  "itemCount": 161,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
+      "title": "Reading List 08/08/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-08082026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Endangered Species Act and housing production, why it’s hard for LEGO to use 3D printing, robotic welding and shipbuilding, modular data centers, and more.",
+      "publishedAt": "2026-08-08T12:01:03.000Z",
+      "articleId": "bef3720c1ab2bdbc"
+    },
     {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
       "title": "Who Is My Enemy? I’m No Longer Sure.",
@@ -1814,7 +1826,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T11:38:46.950Z",
+  "weatherGeneratedAt": "2026-08-08T13:08:40.813Z",
   "weatherError": null,
   "sources": [
     {
