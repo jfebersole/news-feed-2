@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-09T10:49:40.027Z",
-  "fetchedAt": "2026-08-09T10:49:40.022Z",
+  "generatedAt": "2026-08-09T11:40:50.715Z",
+  "fetchedAt": "2026-08-09T11:40:50.711Z",
   "sourceCount": 23,
   "itemCount": 156,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice",
+      "title": "JFK’s AI Voice",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Kennedy’s 1961 inaugural: “Ask not what your country can do for you—ask what you can do for your country.” “Let us never negotiate out of fear. But let us never fear to negotiate.” “United, there is little we cannot do… Divided, there is little we can do.” “If a free society cannot help the […]",
+      "publishedAt": "2026-08-09T11:26:05.000Z",
+      "articleId": "1b55f6b2fcaef63b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html?utm_source=rss&utm_medium=rss&utm_campaign=pressure",
+      "title": "Pressure",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Who would have thought that someone could make a gripping movie about predicting the weather? Nevertheless, Pressure delivers. To be sure, it’s predicting the weather for D-Day. Excellent cast. Hews very close to the truth. The two camps really did divide on theory versus past prediction and the weather was as portrayed. After the war, […]",
+      "publishedAt": "2026-08-09T11:19:44.000Z",
+      "articleId": "5babe085bf5771e9"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
       "title": "One of the better pro-natalist Lieder",
@@ -375,28 +397,6 @@
       "summary": "And if not, what do we do?",
       "publishedAt": "2026-08-06T07:14:01.000Z",
       "articleId": "c8739bbc826bacff"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds",
-      "title": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Federal money flows to cities in three flavors: direct transfers, indirect transfers, and what we call fiscal dark matter. Direct transfers are exactly what they sound like — money sent directly from the federal government to various localities. These include funds disbursed through programs like the Community Development Block Grant (CDBG), which supports things like […]",
-      "publishedAt": "2026-08-06T05:28:13.000Z",
-      "articleId": "44505dc4b04a349c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/who-pays-for-unions.html?utm_source=rss&utm_medium=rss&utm_campaign=who-pays-for-unions",
-      "title": "Who Pays for Unions?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/who-pays-for-unions.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to […]",
-      "publishedAt": "2026-08-06T04:21:20.000Z",
-      "articleId": "ac3211651fd25fb0"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-questions-on-open-weights",
@@ -1769,7 +1769,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T10:49:40.027Z",
+  "weatherGeneratedAt": "2026-08-09T11:40:50.715Z",
   "weatherError": null,
   "sources": [
     {
