@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T18:56:57.353Z",
-  "fetchedAt": "2026-08-09T18:56:57.349Z",
+  "generatedAt": "2026-08-09T19:44:58.983Z",
+  "fetchedAt": "2026-08-09T19:44:58.980Z",
   "sourceCount": 23,
   "itemCount": 155,
-  "totalItemCount": 784,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
@@ -1757,7 +1757,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T18:56:57.353Z",
+  "weatherGeneratedAt": "2026-08-09T19:44:58.983Z",
   "weatherError": null,
   "sources": [
     {
@@ -1771,10 +1771,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
