@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-09T14:48:54.785Z",
-  "fetchedAt": "2026-08-09T14:48:54.777Z",
+  "generatedAt": "2026-08-09T15:42:57.007Z",
+  "fetchedAt": "2026-08-09T15:42:57.002Z",
   "sourceCount": 23,
-  "itemCount": 157,
+  "itemCount": 156,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-579",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-579.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. African use of Chinese AI (NYT). And what happened to Talenti gelato? (NYT) And the NIMBY brutalists who live in the Barbican (NYT). 2. Modernist Gothic in Copenhagen. 3. AI-generated Odyssey in Vietnam. 4. Questions from Seb Krier. 5. Time magazine has a special version that only the AIs can read. 6. Tymofiy Mylovanov […]",
+      "publishedAt": "2026-08-09T15:29:20.000Z",
+      "articleId": "73bc61175bb78796"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
       "title": "The Worst National Anthem: Link Drop",
@@ -352,17 +363,6 @@
       "summary": "A few weeks ago the 21st Century ROAD to Housing Act became law. This is an enormous housing bill that’s been in the works for roughly a year — I first discussed it on Statecraft back in 2025 — and folks are optimistic that it will, per its description, “increase the supply of housing in America.”",
       "publishedAt": "2026-08-06T12:02:32.000Z",
       "articleId": "85b0bf63171f68b5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-binmen-of-birmingham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-binmen-of-birmingham",
-      "title": "The Binmen of Birmingham",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-binmen-of-birmingham.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I was on the British CapX Podcast talking about the Equality Act, riffing off my two posts Equality Act 2010 and The Apples and Oranges Tribunal. One thing I discussed in the podcast which I haven’t blogged on is the amazing Birmingham dustbin dispute. In 2010 an employment tribunal ruled that Birmingham City Council had […]",
-      "publishedAt": "2026-08-06T11:15:11.000Z",
-      "articleId": "e7ae5b1800015a2f"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-message-behind-christopher-nolans",
@@ -1753,18 +1753,6 @@
       "summary": "Large swaths of America’s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.",
       "publishedAt": "2026-07-10T16:08:48.000Z",
       "articleId": "bf0fd8488ce89a97"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
-      "title": "MAGA's attack on science is even worse than it looks",
-      "url": "https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The engine that powered history's greatest nation is in danger.",
-      "publishedAt": "2026-07-10T15:23:02.000Z",
-      "articleId": "ef9c50428dfbf807"
     }
   ],
   "weather": {
@@ -1781,7 +1769,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T14:48:54.785Z",
+  "weatherGeneratedAt": "2026-08-09T15:42:57.007Z",
   "weatherError": null,
   "sources": [
     {
