@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T15:42:57.007Z",
-  "fetchedAt": "2026-08-09T15:42:57.002Z",
+  "generatedAt": "2026-08-09T16:50:43.355Z",
+  "fetchedAt": "2026-08-09T16:50:43.349Z",
   "sourceCount": 23,
-  "itemCount": 156,
-  "totalItemCount": 784,
+  "itemCount": 155,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-579",
@@ -1742,17 +1742,6 @@
       "summary": "But human programmers aren’t obsolete — at least not yet.",
       "publishedAt": "2026-07-10T18:16:14.000Z",
       "articleId": "5d07ea3f5f5d25bb"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/terraforming-earth",
-      "title": "Why San Francisco isn’t bigger",
-      "url": "https://www.worksinprogress.news/p/terraforming-earth",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Large swaths of America’s cities were originally underwater. We stopped half a century ago, but there is plenty more land left to take.",
-      "publishedAt": "2026-07-10T16:08:48.000Z",
-      "articleId": "bf0fd8488ce89a97"
     }
   ],
   "weather": {
@@ -1769,7 +1758,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T15:42:57.007Z",
+  "weatherGeneratedAt": "2026-08-09T16:50:43.355Z",
   "weatherError": null,
   "sources": [
     {
@@ -1783,10 +1772,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
