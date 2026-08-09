@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-09T16:50:43.355Z",
-  "fetchedAt": "2026-08-09T16:50:43.349Z",
+  "generatedAt": "2026-08-09T17:43:44.271Z",
+  "fetchedAt": "2026-08-09T17:43:44.266Z",
   "sourceCount": 23,
   "itemCount": 155,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-3f5",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-3f5",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-08-09T17:01:54.000Z",
+      "articleId": "607b5d43fbc678e8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-579",
       "title": "Sunday assorted links",
@@ -972,18 +984,6 @@
       "articleId": "db6ca3cd4f8dcae9"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/one-block-two-fights",
-      "title": "One block, two fights",
-      "url": "https://www.slowboring.com/p/one-block-two-fights",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "In San Francisco’s Marina District, two developments are facing very different public responses. Plus, there are some promising affordability solutions this week.",
-      "publishedAt": "2026-07-29T22:01:55.000Z",
-      "articleId": "6c15ede13ed18d17"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/july-2026-links",
       "title": "July 2026 links",
       "url": "https://scottsumner.substack.com/p/july-2026-links",
@@ -1758,7 +1758,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T16:50:43.355Z",
+  "weatherGeneratedAt": "2026-08-09T17:43:44.271Z",
   "weatherError": null,
   "sources": [
     {
@@ -1772,10 +1772,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
