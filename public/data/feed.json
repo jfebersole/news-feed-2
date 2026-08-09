@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-09T17:43:44.271Z",
-  "fetchedAt": "2026-08-09T17:43:44.266Z",
+  "generatedAt": "2026-08-09T18:56:57.353Z",
+  "fetchedAt": "2026-08-09T18:56:57.349Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
+      "title": "Should we \"pace\" AI self-improvement?",
+      "url": "https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A guest post by Tim Fist and Saif Khan.",
+      "publishedAt": "2026-08-09T18:15:22.000Z",
+      "articleId": "3a16571b6bfdb96d"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-3f5",
       "title": "Sunday Thread + Mailbag",
@@ -1730,18 +1741,6 @@
       "summary": "Adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more.",
       "publishedAt": "2026-07-11T12:01:33.000Z",
       "articleId": "04300a3fd17ecb54"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-crushed-top-human",
-      "title": "An OpenAI model crushed top human programmers at a world coding competition",
-      "url": "https://www.understandingai.org/p/an-openai-model-crushed-top-human",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "But human programmers aren’t obsolete — at least not yet.",
-      "publishedAt": "2026-07-10T18:16:14.000Z",
-      "articleId": "5d07ea3f5f5d25bb"
     }
   ],
   "weather": {
@@ -1758,7 +1757,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T17:43:44.271Z",
+  "weatherGeneratedAt": "2026-08-09T18:56:57.353Z",
   "weatherError": null,
   "sources": [
     {
