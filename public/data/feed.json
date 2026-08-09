@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T19:44:58.983Z",
-  "fetchedAt": "2026-08-09T19:44:58.980Z",
+  "generatedAt": "2026-08-09T20:48:37.388Z",
+  "fetchedAt": "2026-08-09T20:48:37.382Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 774,
@@ -1745,19 +1745,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heating-up-today-storm-chances-trend-higher-again-this-week/",
-    "title": "DC-area forecast: Heating up today. Storm chances trend higher again this week.",
+    "title": "DC-area forecast: Warm, muggy tonight. Storm chances are back for the workweek.",
     "url": "https://www.capitalweather.com/dc-area-forecast-heating-up-today-storm-chances-trend-higher-again-this-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: With plenty of sun, afternoon highs reach the low to mid-90s as heat indexes top out near 100. Take it easy if spending any length of time outdoors!",
+    "summary": "HAPPENING NOW: Evening 80s dip to lows near 70 to mid-70s. Muggy with dew points near 70. Skies are mostly clear.",
     "publishedAt": "2026-08-09T09:00:57.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T19:44:58.983Z",
+  "weatherGeneratedAt": "2026-08-09T20:48:37.388Z",
   "weatherError": null,
   "sources": [
     {
