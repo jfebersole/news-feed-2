@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-09T02:24:54.147Z",
-  "fetchedAt": "2026-08-09T02:24:54.142Z",
+  "generatedAt": "2026-08-09T04:33:29.203Z",
+  "fetchedAt": "2026-08-09T04:33:29.198Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email",
+      "title": "Is there a Balkan fertility paradox? (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Balkans may be the only region other than central Asia where fertility has increased from 2015 to 2026.* All of the highest fertility rates in Europe are in the Balkans. As of 2024: Montenegro (1.8), Bulgaria (1.73) Moldova (1.73), and Serbia (1.64) are top four. France was next at 1.61. Other balkan countries were […]",
+      "publishedAt": "2026-08-09T04:13:46.000Z",
+      "articleId": "948cdeefad423587"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
       "title": "The future of warfare? (from my email)",
@@ -442,17 +453,6 @@
       "summary": "1. A catalog of past AI predictions. 2. Jasmine Sun on why people do not want data centers. And Jasmine Sun on Ezra Klein, on data centers (NYT). 3. A bot running an SF retail boutique? (NYT) 4. Elise Cawley, RIP. 5. On the NYC grocery store plan. 6. New credit card gives you tokens […]",
       "publishedAt": "2026-08-05T15:35:40.000Z",
       "articleId": "39c123ed3e347c4a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html?utm_source=rss&utm_medium=rss&utm_campaign=dominant-assurance-contract-aka-refund-bonus-explainer",
-      "title": "Dominant Assurance Contract aka Refund Bonus Explainer",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I created the dominant assurance contract aka the refund bonus mechanism in 1998–it’s a mechanism capable of producing some types of public goods privately–in recent years working with Tim Cason and Robertas Zubrickas I’ve put refund bonuses to the test in lab experiments and they work! I’ve written an accessible Refund Bonus Explainer that covers […]",
-      "publishedAt": "2026-08-05T11:16:55.000Z",
-      "articleId": "063aba37f804e041"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/republicans-are-in-too-little-disarray",
@@ -1780,7 +1780,7 @@
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-09T02:24:54.147Z",
+  "weatherGeneratedAt": "2026-08-09T04:33:29.203Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
