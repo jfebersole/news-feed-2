@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T09:53:02.229Z",
-  "fetchedAt": "2026-08-09T09:53:02.223Z",
+  "generatedAt": "2026-08-09T10:49:40.027Z",
+  "fetchedAt": "2026-08-09T10:49:40.022Z",
   "sourceCount": 23,
-  "itemCount": 157,
+  "itemCount": 156,
   "totalItemCount": 784,
   "items": [
     {
@@ -1753,17 +1753,6 @@
       "summary": "The engine that powered history's greatest nation is in danger.",
       "publishedAt": "2026-07-10T15:23:02.000Z",
       "articleId": "ef9c50428dfbf807"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/two-interviews-an-author-and-a-painter",
-      "title": "Two Interviews: An Author and a Painter",
-      "url": "https://walkingtheworld.substack.com/p/two-interviews-an-author-and-a-painter",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "A book about baseball, and community, and a man who paints Japan",
-      "publishedAt": "2026-07-10T10:30:40.000Z",
-      "articleId": "e338add828fbf789"
     }
   ],
   "weather": {
@@ -1780,7 +1769,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T09:53:02.229Z",
+  "weatherGeneratedAt": "2026-08-09T10:49:40.027Z",
   "weatherError": null,
   "sources": [
     {
