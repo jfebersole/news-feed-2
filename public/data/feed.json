@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T23:39:52.076Z",
-  "fetchedAt": "2026-08-08T23:39:52.071Z",
+  "generatedAt": "2026-08-09T02:24:54.147Z",
+  "fetchedAt": "2026-08-09T02:24:54.142Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 784,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
@@ -1768,19 +1768,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
-    "title": "DC-area forecast: Isolated shower possible this evening; hot and mostly dry Sunday",
+    "title": "DC-area forecast: Warm and humid tonight, then hot and mostly dry Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: An isolated shower or storm remains possible through about 8 p.m. Otherwise muggy as evening 80s dip to 70s for lows.",
+    "summary": "HAPPENING NOW: Mostly clear this evening followed by partly cloudy skies overnight. Lows near 70 to the mid-70s.",
     "publishedAt": "2026-08-08T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
     "articleId": "132ef5f895f0bd13"
   },
-  "weatherGeneratedAt": "2026-08-08T23:39:52.076Z",
+  "weatherGeneratedAt": "2026-08-09T02:24:54.147Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
