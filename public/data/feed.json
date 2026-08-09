@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-09T13:11:41.495Z",
-  "fetchedAt": "2026-08-09T13:11:41.493Z",
+  "generatedAt": "2026-08-09T14:48:54.785Z",
+  "fetchedAt": "2026-08-09T14:48:54.777Z",
   "sourceCount": 23,
-  "itemCount": 156,
+  "itemCount": 157,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
+      "title": "The Worst National Anthem: Link Drop",
+      "url": "https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Important stories, internet fights, and stupid debates",
+      "publishedAt": "2026-08-09T14:30:14.000Z",
+      "articleId": "76eb927af926996f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice",
       "title": "JFK’s AI Voice",
@@ -1762,14 +1774,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Morning readings rise through the 70s and 80s. With plenty of sun, afternoon highs reach the low to mid-90s as heat indexes top out near 100. Take it easy if spending any length of time outdoors!",
+    "summary": "HAPPENING NOW: With plenty of sun, afternoon highs reach the low to mid-90s as heat indexes top out near 100. Take it easy if spending any length of time outdoors!",
     "publishedAt": "2026-08-09T09:00:57.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T13:11:41.495Z",
+  "weatherGeneratedAt": "2026-08-09T14:48:54.785Z",
   "weatherError": null,
   "sources": [
     {
