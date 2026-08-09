@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T08:58:03.253Z",
-  "fetchedAt": "2026-08-09T08:58:03.250Z",
+  "generatedAt": "2026-08-09T09:53:02.229Z",
+  "fetchedAt": "2026-08-09T09:53:02.223Z",
   "sourceCount": 23,
   "itemCount": 157,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
@@ -1767,20 +1767,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
-    "title": "DC-area forecast: Warm and humid tonight, then hot and mostly dry Sunday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heat-humidity-and-storm-chances-saturday-hotter-early-week/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heating-up-today-storm-chances-trend-higher-again-this-week/",
+    "title": "DC-area forecast: Heating up today. Storm chances trend higher again this week.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-heating-up-today-storm-chances-trend-higher-again-this-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly clear this evening followed by partly cloudy skies overnight. Lows near 70 to the mid-70s.",
-    "publishedAt": "2026-08-08T09:00:06.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "Feels-like temperatures reaching near 100, plus the chance for a few strong to severe afternoon storms, make today one to enjoy the A/C indoors.",
-    "articleId": "132ef5f895f0bd13"
+    "summary": "HAPPENING NOW: Morning readings rise through the 70s and 80s. With plenty of sun, afternoon highs reach the low to mid-90s as heat indexes top out near 100. Take it easy if spending any length of time outdoors!",
+    "publishedAt": "2026-08-09T09:00:57.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
+    "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-09T08:58:03.253Z",
+  "weatherGeneratedAt": "2026-08-09T09:53:02.229Z",
   "weatherError": null,
   "sources": [
     {
@@ -1794,10 +1794,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
