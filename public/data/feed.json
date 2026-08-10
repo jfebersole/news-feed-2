@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-10T21:54:43.143Z",
-  "fetchedAt": "2026-08-10T21:54:43.138Z",
+  "generatedAt": "2026-08-10T22:53:19.924Z",
+  "fetchedAt": "2026-08-10T22:53:19.916Z",
   "sourceCount": 23,
   "itemCount": 154,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-left-is-winning-primaries-can",
+      "title": "The left is winning primaries. Can it win general elections?",
+      "url": "https://www.slowboring.com/p/the-left-is-winning-primaries-can",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Progressive candidates came out on top in Michigan and Tennessee but fell short in Missouri. Will they keep up the pace tomorrow?",
+      "publishedAt": "2026-08-10T22:00:43.000Z",
+      "articleId": "cff58d30f0084335"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html?utm_source=rss&utm_medium=rss&utm_campaign=brian-chau-at-work",
       "title": "Brian Chau at work",
@@ -997,17 +1009,6 @@
       "articleId": "9f17d73e3f097d58"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/how-trump-made-america-less-popular",
-      "title": "How Trump made America less popular than China",
-      "url": "https://www.slowboring.com/p/how-trump-made-america-less-popular",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Speak loudly and blunder a lot",
-      "publishedAt": "2026-07-30T10:01:52.000Z",
-      "articleId": "2764d36b6e2cb1cf"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
       "title": "Highlights From The Discourse On The Hugging Face Incident",
       "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
@@ -1747,7 +1748,7 @@
     "articleId": "b4c7b25f412cb0b7",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-10T21:54:43.143Z",
+  "weatherGeneratedAt": "2026-08-10T22:53:19.924Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
