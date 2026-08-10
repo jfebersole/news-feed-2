@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-10T15:12:56.086Z",
-  "fetchedAt": "2026-08-10T15:12:56.083Z",
+  "generatedAt": "2026-08-10T17:04:56.246Z",
+  "fetchedAt": "2026-08-10T17:04:56.240Z",
   "sourceCount": 23,
-  "itemCount": 156,
-  "totalItemCount": 784,
+  "itemCount": 155,
+  "totalItemCount": 773,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-572",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-572.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Tax land more heavily than structures. 2. “Our findings suggest that equality-oriented governments adopt an approach that insures the middle, buffers the poor, but spares the rich. The result is a rhetorical commitment to equality that eschews its most redistributive instrument(s).” 3. Francesco Cabella conversation with (an older) Victor Niederhoffer. 4. New homes in […]",
+      "publishedAt": "2026-08-10T15:29:45.000Z",
+      "articleId": "a6df2b10b8373a53"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
       "title": "Giants depth chart analysis: Is CB Paulson Adebo losing grip on starting job?",
@@ -366,17 +377,6 @@
       "summary": "The longtime Saints icon is going into the Hall of Fame this weekend — but we've still never quite figured out how to properly judge his greatness.",
       "publishedAt": "2026-08-07T09:01:47.000Z",
       "articleId": "510329490eedbd25"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
-      "title": "My excellent Conversation with Julia Ioffe",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is from the episode summary: Julia joined Tyler to discuss why so many of Russia’s great constructivist painters were women, why the tsarist government established women’s medical courses in 1872, changing attitudes towards abortion and birth control in the 20th century, why the Soviet regime turned prudish, how […]",
-      "publishedAt": "2026-08-07T04:48:30.000Z",
-      "articleId": "813c8b6928406c18"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
@@ -1632,18 +1632,6 @@
       "articleId": "1b443d5bf6f799fe"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
-      "title": "Six Slightly Skew Boogeymen",
-      "url": "https://www.astralcodexten.com/p/six-slightly-skew-boogeymen",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "...",
-      "publishedAt": "2026-07-16T00:55:28.000Z",
-      "articleId": "65252590be25795c"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
       "title": "Trump’s Corruption Stains, From Texas to Maine",
       "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
@@ -1767,10 +1755,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
-    "articleId": "b4c7b25f412cb0b7"
+    "articleId": "b4c7b25f412cb0b7",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-10T15:12:56.086Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-10T17:04:56.246Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1783,16 +1772,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
