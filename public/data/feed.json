@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T18:01:30.239Z",
-  "fetchedAt": "2026-08-10T18:01:30.235Z",
+  "generatedAt": "2026-08-10T19:11:48.886Z",
+  "fetchedAt": "2026-08-10T19:11:48.880Z",
   "sourceCount": 23,
   "itemCount": 155,
   "totalItemCount": 783,
@@ -1755,10 +1755,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
-    "articleId": "b4c7b25f412cb0b7"
+    "articleId": "b4c7b25f412cb0b7",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-10T18:01:30.239Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-10T19:11:48.886Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
