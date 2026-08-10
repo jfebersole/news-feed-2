@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T04:49:20.816Z",
-  "fetchedAt": "2026-08-10T04:49:20.812Z",
+  "generatedAt": "2026-08-10T06:20:24.459Z",
+  "fetchedAt": "2026-08-10T06:20:24.455Z",
   "sourceCount": 23,
   "itemCount": 154,
-  "totalItemCount": 783,
+  "totalItemCount": 773,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/act-like-it-is-science.html?utm_source=rss&utm_medium=rss&utm_campaign=act-like-it-is-science",
@@ -1746,7 +1746,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-10T04:49:20.816Z",
+  "weatherGeneratedAt": "2026-08-10T06:20:24.459Z",
   "weatherError": null,
   "sources": [
     {
@@ -1760,10 +1760,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
