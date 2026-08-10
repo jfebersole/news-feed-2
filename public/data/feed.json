@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T11:55:53.845Z",
-  "fetchedAt": "2026-08-10T11:55:53.841Z",
+  "generatedAt": "2026-08-10T13:38:17.034Z",
+  "fetchedAt": "2026-08-10T13:38:17.031Z",
   "sourceCount": 23,
-  "itemCount": 154,
+  "itemCount": 153,
   "totalItemCount": 783,
   "items": [
     {
@@ -1718,18 +1718,6 @@
       "summary": "Objections to the market monetarist explanation of 2008-09",
       "publishedAt": "2026-07-11T23:25:18.000Z",
       "articleId": "fb1fecf9ed0539e3"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-071126",
-      "title": "Reading List 07/11/26",
-      "url": "https://www.construction-physics.com/p/reading-list-071126",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more.",
-      "publishedAt": "2026-07-11T12:01:33.000Z",
-      "articleId": "04300a3fd17ecb54"
     }
   ],
   "weather": {
@@ -1746,7 +1734,7 @@
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
     "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-10T11:55:53.845Z",
+  "weatherGeneratedAt": "2026-08-10T13:38:17.034Z",
   "weatherError": null,
   "sources": [
     {
