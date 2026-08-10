@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T20:57:25.275Z",
-  "fetchedAt": "2026-08-10T20:57:25.271Z",
+  "generatedAt": "2026-08-10T21:54:43.143Z",
+  "fetchedAt": "2026-08-10T21:54:43.138Z",
   "sourceCount": 23,
-  "itemCount": 155,
-  "totalItemCount": 783,
+  "itemCount": 154,
+  "totalItemCount": 782,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html?utm_source=rss&utm_medium=rss&utm_campaign=brian-chau-at-work",
@@ -467,17 +467,6 @@
       "summary": "Are we the Sea Peoples?",
       "publishedAt": "2026-08-06T10:04:00.000Z",
       "articleId": "b704fcf3463deae0"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/football-is-back-well-sort-of",
-      "title": "Football Is Back! Well, Sort Of.",
-      "url": "https://neilpaine.substack.com/p/football-is-back-well-sort-of",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Tonight's Hall of Fame Game opens the NFL calendar, signaling that football season is near, even as the league's actual stars have mostly disappeared from the preseason.",
-      "publishedAt": "2026-08-06T09:01:20.000Z",
-      "articleId": "e43bcf39dfaac485"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-look-back-at-metoo",
@@ -1758,7 +1747,7 @@
     "articleId": "b4c7b25f412cb0b7",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-10T20:57:25.275Z",
+  "weatherGeneratedAt": "2026-08-10T21:54:43.143Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -1837,7 +1826,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
