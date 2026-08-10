@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T23:43:16.275Z",
-  "fetchedAt": "2026-08-09T23:43:16.272Z",
+  "generatedAt": "2026-08-10T02:29:52.701Z",
+  "fetchedAt": "2026-08-10T02:29:52.696Z",
   "sourceCount": 23,
-  "itemCount": 155,
-  "totalItemCount": 774,
+  "itemCount": 154,
+  "totalItemCount": 783,
   "items": [
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
@@ -510,17 +510,6 @@
       "summary": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
       "publishedAt": "2026-08-05T10:00:00.000Z",
       "articleId": "5e309e011fb9bf69"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-orioles-won-the-adley-rutschman",
-      "title": "The Orioles Won the Adley Rutschman Trade Because They Lost Their Bright Future",
-      "url": "https://neilpaine.substack.com/p/the-orioles-won-the-adley-rutschman",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Baltimore landed a huge haul for their former franchise catcher — but only after their seemingly inevitable championship window failed to open.",
-      "publishedAt": "2026-08-05T08:57:21.000Z",
-      "articleId": "71094895c577a695"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-to-make-of-michigan",
@@ -1755,10 +1744,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
-    "articleId": "b50b5ebeb120c502"
+    "articleId": "b50b5ebeb120c502",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-09T23:43:16.275Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-10T02:29:52.701Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1771,10 +1761,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1836,7 +1826,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
