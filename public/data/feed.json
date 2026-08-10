@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-10T06:20:24.459Z",
-  "fetchedAt": "2026-08-10T06:20:24.455Z",
+  "generatedAt": "2026-08-10T08:48:25.965Z",
+  "fetchedAt": "2026-08-10T08:48:25.962Z",
   "sourceCount": 23,
   "itemCount": 154,
-  "totalItemCount": 773,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html?utm_source=rss&utm_medium=rss&utm_campaign=do-faculty-affect-student-partisanship",
+      "title": "Do Faculty Affect Student Partisanship?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of […]",
+      "publishedAt": "2026-08-10T06:49:07.000Z",
+      "articleId": "12c071cb32a56670"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/act-like-it-is-science.html?utm_source=rss&utm_medium=rss&utm_campaign=act-like-it-is-science",
       "title": "Act like it is science",
@@ -319,17 +330,6 @@
       "summary": "...",
       "publishedAt": "2026-08-07T04:44:32.000Z",
       "articleId": "1ddeb2776b1a65fa"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/solve-for-the-refine-equilibrium.html?utm_source=rss&utm_medium=rss&utm_campaign=solve-for-the-refine-equilibrium",
-      "title": "Solve for the (Refine) equilibrium",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/solve-for-the-refine-equilibrium.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We’re proud to announce that Refine has signed partnerships with two leading publishers in economics. Both the American Economic Association and the Econometric Society now use Refine’s AI-assisted technical verification as part of their publication processes. Here is the thread. And more comments here.",
-      "publishedAt": "2026-08-06T20:50:28.000Z",
-      "articleId": "01fa439aa70e5e7c"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hdwpnh3uf4c1xv7ps9cm.html",
@@ -1746,7 +1746,7 @@
     "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
     "articleId": "b50b5ebeb120c502"
   },
-  "weatherGeneratedAt": "2026-08-10T06:20:24.459Z",
+  "weatherGeneratedAt": "2026-08-10T08:48:25.965Z",
   "weatherError": null,
   "sources": [
     {
@@ -1760,10 +1760,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
