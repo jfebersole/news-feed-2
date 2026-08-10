@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-10T13:38:17.034Z",
-  "fetchedAt": "2026-08-10T13:38:17.031Z",
+  "generatedAt": "2026-08-10T15:12:56.086Z",
+  "fetchedAt": "2026-08-10T15:12:56.083Z",
   "sourceCount": 23,
-  "itemCount": 153,
-  "totalItemCount": 783,
+  "itemCount": 156,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
+      "title": "Giants depth chart analysis: Is CB Paulson Adebo losing grip on starting job?",
+      "url": "https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants are back from West Virginia, and their depth chart is coming into focus.",
+      "publishedAt": "2026-08-10T13:41:32.000Z",
+      "articleId": "be585a615463ba2a"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-strange-gifted-education-success",
       "title": "A strange gifted education success story",
@@ -27,6 +38,30 @@
       "summary": "Apple's earnings (and stock) are limited not by memory but rather chip shortages; then, more on Amazon's earnings and Andy Jassy's market analysis.",
       "publishedAt": "2026-08-10T10:00:00.000Z",
       "articleId": "0a582f94b99fcbfe"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/perth-australia-the-beautiful-lonely",
+      "title": "Perth (Australia) -- The Beautiful Lonely City",
+      "url": "https://walkingtheworld.substack.com/p/perth-australia-the-beautiful-lonely",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Giant trees, odd birds, and few people living next to valuable rocks",
+      "publishedAt": "2026-08-10T09:47:37.000Z",
+      "articleId": "84204981c1c88493"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-dodgers-are-doing-their-nba-superteam",
+      "title": "The Dodgers Are Doing Their NBA-Superteam Thing Again",
+      "url": "https://neilpaine.substack.com/p/the-dodgers-are-doing-their-nba-superteam",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Regular-season losing skids don't matter when the playoffs are the entire point.",
+      "publishedAt": "2026-08-10T09:01:32.000Z",
+      "articleId": "ca8fae6d9bc0688e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html?utm_source=rss&utm_medium=rss&utm_campaign=do-faculty-affect-student-partisanship",
@@ -1722,19 +1757,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
-    "title": "DC-area forecast: Hottest day of the week before storms become more widespread",
+    "title": "DC-area forecast: Hottest day of the week with late day storm potential",
     "url": "https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It's the hottest day of the week. Morning temperatures in the 70s and 80s climb into the low to mid-90s this afternoon. A few pop-up storms are possible late.",
+    "summary": "HAPPENING NOW: It's the hottest day of the week. Temperatures climb into the mid-90s this afternoon. Storms are possible late, especially north of DC.",
     "publishedAt": "2026-08-10T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
     "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-10T13:38:17.034Z",
+  "weatherGeneratedAt": "2026-08-10T15:12:56.086Z",
   "weatherError": null,
   "sources": [
     {
@@ -1813,7 +1848,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
