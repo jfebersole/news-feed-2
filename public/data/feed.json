@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-10T08:48:25.965Z",
-  "fetchedAt": "2026-08-10T08:48:25.962Z",
+  "generatedAt": "2026-08-10T10:33:54.095Z",
+  "fetchedAt": "2026-08-10T10:33:54.090Z",
   "sourceCount": 23,
   "itemCount": 154,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-strange-gifted-education-success",
+      "title": "A strange gifted education success story",
+      "url": "https://www.slowboring.com/p/a-strange-gifted-education-success",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "If expanding access works, is your program really for the “gifted”?",
+      "publishedAt": "2026-08-10T10:02:01.000Z",
+      "articleId": "537c2ad559b2d47d"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+      "title": "Apple Earnings, More on Amazon’s Earnings",
+      "url": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple's earnings (and stock) are limited not by memory but rather chip shortages; then, more on Amazon's earnings and Andy Jassy's market analysis.",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "articleId": "0a582f94b99fcbfe"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html?utm_source=rss&utm_medium=rss&utm_campaign=do-faculty-affect-student-partisanship",
       "title": "Do Faculty Affect Student Partisanship?",
@@ -950,18 +973,6 @@
       "articleId": "2764d36b6e2cb1cf"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-case-against-homeownership",
-      "title": "The case against homeownership",
-      "url": "https://www.slowboring.com/p/the-case-against-homeownership",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "(and why I don’t buy it)",
-      "publishedAt": "2026-07-30T09:01:49.000Z",
-      "articleId": "95242798e2c23408"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
       "title": "Highlights From The Discourse On The Hugging Face Incident",
       "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
@@ -1620,17 +1631,6 @@
       "articleId": "e9cef8a897fa1860"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
-      "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
-      "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
-      "publishedAt": "2026-07-15T10:00:19.000Z",
-      "articleId": "3fbdc1bddb35e834"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
       "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
       "url": "https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
@@ -1733,20 +1733,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heating-up-today-storm-chances-trend-higher-again-this-week/",
-    "title": "DC-area forecast: Warm, muggy tonight. Storm chances are back for the workweek.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heating-up-today-storm-chances-trend-higher-again-this-week/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
+    "title": "DC-area forecast: Hottest day of the week before storms become more widespread",
+    "url": "https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly clear and muggy as evening 70s to near 80 dip to overnight lows near 70 to the mid-70s.",
-    "publishedAt": "2026-08-09T09:00:57.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Stuck in the dog days of summer with heat and high humidity, although we get a brief break from significant storm chances today.",
-    "articleId": "b50b5ebeb120c502"
+    "summary": "HAPPENING NOW: It's the hottest day of the week. Morning temperatures in the 70s and 80s climb into the low to mid-90s this afternoon. A few pop-up storms are possible late.",
+    "publishedAt": "2026-08-10T09:00:06.000Z",
+    "dailyDigit": 3,
+    "dailyDigitLabel": "3/10",
+    "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
+    "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-10T08:48:25.965Z",
+  "weatherGeneratedAt": "2026-08-10T10:33:54.095Z",
   "weatherError": null,
   "sources": [
     {
