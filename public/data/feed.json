@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T22:53:19.924Z",
-  "fetchedAt": "2026-08-10T22:53:19.916Z",
+  "generatedAt": "2026-08-10T23:47:24.598Z",
+  "fetchedAt": "2026-08-10T23:47:24.595Z",
   "sourceCount": 23,
-  "itemCount": 154,
+  "itemCount": 153,
   "totalItemCount": 782,
   "items": [
     {
@@ -1719,37 +1719,24 @@
       "summary": "Unlike some American elites, I actually understand this fact.",
       "publishedAt": "2026-07-12T09:22:33.000Z",
       "articleId": "9d08e4b4db038772"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/the-empire-strikes-back",
-      "title": "The empire strikes back",
-      "url": "https://scottsumner.substack.com/p/the-empire-strikes-back",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Objections to the market monetarist explanation of 2008-09",
-      "publishedAt": "2026-07-11T23:25:18.000Z",
-      "articleId": "fb1fecf9ed0539e3"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
-    "title": "DC-area forecast: Hottest day of the week with late day-storm potential",
+    "title": "DC-area forecast: Muggy tonight with more storm chances this week",
     "url": "https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It's the hottest day of the week. Temperatures climb into the low to mid-90s this afternoon. Storms are possible late afternoon into evening, particularly between 3 and 7 p.m., and perhaps strongest and most numerous from near DC to the north.",
+    "summary": "HAPPENING NOW: Showers lingering south and east of the Beltway exit by around 7:30 p.m. Otherwise muggy 70s this evening. A couple of passing showers or a storm remain possible this evening and overnight.",
     "publishedAt": "2026-08-10T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
-    "articleId": "b4c7b25f412cb0b7",
-    "stale": true
+    "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-10T22:53:19.924Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-10T23:47:24.598Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
