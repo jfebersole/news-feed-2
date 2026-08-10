@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-10T17:04:56.246Z",
-  "fetchedAt": "2026-08-10T17:04:56.240Z",
+  "generatedAt": "2026-08-10T18:01:30.239Z",
+  "fetchedAt": "2026-08-10T18:01:30.235Z",
   "sourceCount": 23,
   "itemCount": 155,
-  "totalItemCount": 773,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html?utm_source=rss&utm_medium=rss&utm_campaign=brian-chau-at-work",
+      "title": "Brian Chau at work",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I am automating investigative journalism at http://Effort.News We’re breaking five stories today based on verifiable financial data which everyone missed for years. Here is the entire thread, which also describes the five stories.",
+      "publishedAt": "2026-08-10T17:43:59.000Z",
+      "articleId": "9686b5cebcd616f8"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
+      "title": "Money Stuff: The Situation Is Fine",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Situational Awareness One of the core themes of this column is that it is good for your financial career to lose a billion dollars . This is largely a theory about hedge fund managers and bank traders; in those jobs, losing a billion dollars demonstrates that (1) someone trusted you with a billion dollars, (2) you boldly took risks with the money and (3) possibly you have learned some lessons from losing it and will do better next time. “My philosophy when I used to hire traders was that the optimal number of past blow ups was one,” John Arnold posted on X last month. Over time, I have extended the theory to tech startups , where losing a billion dollars demonstrates different but related good qualities. “Move fast and break things,” “fail quickly,” etc.: If you have lost a billion dollars then you definitely know how to fail quickly. Also, if there is one thing that Silicon Valley prizes above all else, it is contrarianism, and losing money is arguably a contrarian act. “Everyone thinks that losing money is bad, but what if losing money is actually good,” Peter Thiel has probably almost said at some point . Leopold Aschenbrenner is at the dead center of this Venn diagram and will doubtless be running a trillion dollars by the fall. Bloomberg News reported on Friday : One week after Leopold Aschenbrenner’s hedge fund Situational Awareness nearly blew up, he’s already getting requests from investors looking to place more money with the artificial intelligence wunderkind. His fund has seen a surge in interest from Silicon Valley investors looking to back the 20-something hedge funder in recent days, according to people familiar with the matter who asked not to be identified citing private discussions. So far, Situational Awareness has told investors that it’s not accepting new capital for now, the people said. … The aftermath of Situational Awareness’ near miss is highlighting the stark divide between Silicon Valley and the world of finance. For Wall Street, it was a moment when an AI hotshot was forced to learn the dangers of leverage and rein in risk. But for many across Silicon Valley, his misstep has merely been a chance to buy the dip and keep supporting the OpenAI researcher-turned-investor. “Silicon Valley and Wall Street are both reacting differently,” said Gygmy Gonnot, an adjunct professor at New York University’s Stern School of Business and a managing director at Focus Investment Group. “At the core, Silicon Valley rewards being directionally right about transformational technologies, while Wall Street rewards generating attractive adjusted returns while preserving capital.” One thinks of Elon Musk’s poker strategy . In some sense the problem with Situational Awareness,...",
+      "publishedAt": "2026-08-10T17:43:54.835Z",
+      "articleId": "58d027f749d0f86d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-572",
       "title": "Monday assorted links",
@@ -332,17 +354,6 @@
       "summary": "Why wage inflation is what matters",
       "publishedAt": "2026-08-07T14:25:10.000Z",
       "articleId": "ece35cfcbe6c5b57"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
-      "title": "AI and Marginal Revolutions in Wastewater Treatment",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An interesting paper from French economists, including recent Nobelist Philippe Aghion, looks at the savings from a predictive machine-learning model applied to wastewater treatment: This paper studies the environmental effects of a specialised AI aeration-control system deployed across French wastewater treatment plants operated by a global leader in water supply services. Exploiting quasi-experimental variation in […]",
-      "publishedAt": "2026-08-07T11:20:34.000Z",
-      "articleId": "2f24f6282b6d5584"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/in-praise-of-commercial-culture",
@@ -1053,17 +1064,6 @@
       "articleId": "0cfc15fb61ab3340"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gcypshwj40ew3tw6f2z3.html",
-      "title": "Money Stuff: SpaceX Crash Insurance",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gcypshwj40ew3tw6f2z3.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. SpaceX structured notes Here’s a neat little piece of derivatives structuring. Let’s say you’re an investment bank, perhaps Morgan Stanley. You might want to buy crash insurance on SpaceX’s stock: You might be willing to pay a premium for long-term, out-of-the-money put options that pay out if SpaceX’s stock goes down a lot. Why might you want that? Off the top of my head: Your customers — institutional asset managers — might want to buy that insurance from you, and you might want to hedge. The customers might own SpaceX for its upside (rockets, artificial intelligence, etc.), but they might worry about an AI bubble, Elon Musk risk, overvaluation, etc. They might be looking to buy insurance from you, and you might be looking to source that insurance from someone else. You might run a big private wealth management business that recently signed up a bunch of multimillionaire SpaceX employees . You might be earning big fees for managing their millions, and you might also be lending them some money to buy houses and Lamborghinis and stuff. Were SpaceX’s stock to crash, they might stop being multimillionaires, which would be bad for you from a fee-income and credit-risk perspective. SpaceX puts might work as insurance for your wealth management business. Where can you buy this insurance? There are long-dated listed put options on SpaceX, but I’m not sure you could buy a lot of size in that market. You could go to a hedge fund and ask it to sell you some over-the-counter options, but it might charge you a high price. Plus there is some wrong-way risk there: A world in which SpaceX stock has crashed is not necessarily a world in which the entire AI boom has collapsed, but there is probably some correlation, and you might worry about relying on a hedge fund to pay out your insurance in that state of the world. One move is to buy the insurance from your own retail and private-wealth customers, and have them pay upfront so you know they’re good for it. That is: You buy some long-term out-of-the-money SpaceX puts from retail investors: If SpaceX ends up below some threshold price at expiration, the investors have to pay you $X for every dollar it ends up below the threshold, up to a maximum of, say, $1,000 if SpaceX goes to zero. You collect the $1,000 upfront, so you know that the insurance will pay out even in the worst-case scenario. When the puts expire, if SpaceX is flat or up, or even down but not below the crash threshold, you give the retail investors their $1,000 back, plus interest, plus some extra money to pay for the put premium. This is a kind of structured note, and one nice thing about it is that the investors might not think about the fact that they’re selling you crash...",
-      "publishedAt": "2026-07-29T17:56:48.506Z",
-      "articleId": "918ea19679a12508"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
       "title": "Enjoy a Tofu Lunch With Us | Kenji Eats Japan",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
@@ -1745,21 +1745,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
-    "title": "DC-area forecast: Hottest day of the week with late day storm potential",
+    "title": "DC-area forecast: Hottest day of the week with late day-storm potential",
     "url": "https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It's the hottest day of the week. Temperatures climb into the mid-90s this afternoon. Storms are possible late, especially north of DC.",
+    "summary": "HAPPENING NOW: It's the hottest day of the week. Temperatures climb into the low to mid-90s this afternoon. Storms are possible late afternoon into evening, particularly between 3 and 7 p.m., and perhaps strongest and most numerous from near DC to the north.",
     "publishedAt": "2026-08-10T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
-    "articleId": "b4c7b25f412cb0b7",
-    "stale": true
+    "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-10T17:04:56.246Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-10T18:01:30.239Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1772,10 +1771,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
