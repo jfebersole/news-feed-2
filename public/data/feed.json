@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-11T02:23:19.623Z",
-  "fetchedAt": "2026-08-11T02:23:19.617Z",
+  "generatedAt": "2026-08-11T04:36:11.958Z",
+  "fetchedAt": "2026-08-11T04:36:11.955Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html?utm_source=rss&utm_medium=rss&utm_campaign=who-enters-congress",
+      "title": "Who enters Congress?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We trace the family origins of Members of Congress (MC) born between 1830 and 1950, linking each MC, their parents, and their brothers to the complete-count censuses. Future MCs have always been economic outliers. By 1940, close to 60 percent of MCs aged 18–40 held a college degree, against under 5 percent of comparable young […]",
+      "publishedAt": "2026-08-11T04:30:48.000Z",
+      "articleId": "ffa638b80339e2a3"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-left-is-winning-primaries-can",
       "title": "The left is winning primaries. Can it win general elections?",
@@ -343,17 +354,6 @@
       "summary": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
       "publishedAt": "2026-08-07T17:29:02.000Z",
       "articleId": "ba4710288f1ffe90"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-584",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-584.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Denmark fact of the day. 2. “Books that Tyler Cowen probably would like.” 3. The tenure dismissal of Sanjay Reddy (NYT). 4. Dell and Rambachan NBER video on the economics of AI. I have yet to view, but “self-recommending.” 5. Anton Leicht on AI and how the concentration of power will evolve. Very good […]",
-      "publishedAt": "2026-08-07T15:50:35.000Z",
-      "articleId": "a6d03d7c5dd76545"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
@@ -1735,7 +1735,7 @@
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
     "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-11T02:23:19.623Z",
+  "weatherGeneratedAt": "2026-08-11T04:36:11.958Z",
   "weatherError": null,
   "sources": [
     {
