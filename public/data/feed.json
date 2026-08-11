@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T23:47:24.598Z",
-  "fetchedAt": "2026-08-10T23:47:24.595Z",
+  "generatedAt": "2026-08-11T02:23:19.623Z",
+  "fetchedAt": "2026-08-11T02:23:19.617Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 782,
@@ -1728,14 +1728,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers lingering south and east of the Beltway exit by around 7:30 p.m. Otherwise muggy 70s this evening. A couple of passing showers or a storm remain possible this evening and overnight.",
+    "summary": "HAPPENING NOW: Muggy 70s this evening. A couple of passing showers or a storm remain possible this evening and overnight.",
     "publishedAt": "2026-08-10T09:00:06.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
     "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-10T23:47:24.598Z",
+  "weatherGeneratedAt": "2026-08-11T02:23:19.623Z",
   "weatherError": null,
   "sources": [
     {
