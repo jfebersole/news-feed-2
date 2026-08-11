@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-08-11T09:10:56.932Z",
-  "fetchedAt": "2026-08-11T09:10:56.928Z",
+  "generatedAt": "2026-08-11T11:01:56.819Z",
+  "fetchedAt": "2026-08-11T11:01:56.814Z",
   "sourceCount": 23,
-  "itemCount": 154,
-  "totalItemCount": 782,
+  "itemCount": 155,
+  "totalItemCount": 774,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-20-burrito-tearing-the-republican",
+      "title": "The $20 burrito tearing the Republican Party apart",
+      "url": "https://www.slowboring.com/p/the-20-burrito-tearing-the-republican",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Trump promised lower prices and has delivered the reverse.",
+      "publishedAt": "2026-08-11T10:00:38.000Z",
+      "articleId": "b007e418fd7a1457"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/nvidias-risky-business/",
+      "title": "Nvidia’s Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Nvidia is finding new ways for its customers to raise money, and it's expanding the risk of the AI buildout significantly.",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "articleId": "bc5a28692c2f5201"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/don-nelsons-mavericks-were-the-greatest",
+      "title": "Don Nelson's Mavericks Were the Greatest Offense in NBA History",
+      "url": "https://neilpaine.substack.com/p/don-nelsons-mavericks-were-the-greatest",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Armed with Dirk Nowitzki, Steve Nash and Michael Finley, the late, great coach led teams so far ahead of their era that nobody has ever matched their relative dominance.",
+      "publishedAt": "2026-08-11T09:00:38.000Z",
+      "articleId": "9284f78053614756"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
       "title": "The poverty of anti-tech thought",
@@ -1545,17 +1579,6 @@
       "articleId": "8fad9dc8a4e4347a"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/mainframes-and-main-characters/",
-      "title": "2026.29: Mainframes and Main Characters",
-      "url": "https://stratechery.com/2026/mainframes-and-main-characters/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
-      "publishedAt": "2026-07-17T17:00:00.000Z",
-      "articleId": "774b484815fec037"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-great-and-desperate",
       "title": "Your Book Review: Great And Desperate Cures",
       "url": "https://www.astralcodexten.com/p/your-book-review-great-and-desperate",
@@ -1719,17 +1742,6 @@
       "summary": "They're not my personal cup of tea, but there are good reasons people like them.",
       "publishedAt": "2026-07-13T12:38:16.000Z",
       "articleId": "33f5dad377a3d58a"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/i-have-never-been-working-class",
-      "title": "I have never been working class",
-      "url": "https://www.noahpinion.blog/p/i-have-never-been-working-class",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Unlike some American elites, I actually understand this fact.",
-      "publishedAt": "2026-07-12T09:22:33.000Z",
-      "articleId": "9d08e4b4db038772"
     }
   ],
   "weather": {
@@ -1746,7 +1758,7 @@
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
     "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-11T09:10:56.932Z",
+  "weatherGeneratedAt": "2026-08-11T11:01:56.819Z",
   "weatherError": null,
   "sources": [
     {
@@ -1760,10 +1772,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1825,7 +1837,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -1849,7 +1861,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
