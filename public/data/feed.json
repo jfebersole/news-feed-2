@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-11T07:32:31.105Z",
-  "fetchedAt": "2026-08-11T07:32:31.097Z",
+  "generatedAt": "2026-08-11T09:10:56.932Z",
+  "fetchedAt": "2026-08-11T09:10:56.928Z",
   "sourceCount": 23,
-  "itemCount": 153,
+  "itemCount": 154,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
+      "title": "The poverty of anti-tech thought",
+      "url": "https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Some of my colleagues have been led into an intellectual cul-de-sac.",
+      "publishedAt": "2026-08-11T08:01:13.000Z",
+      "articleId": "a22429960383f08b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-ai-peer-review-work",
       "title": "How well does AI peer review work?",
@@ -1722,20 +1733,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
-    "title": "DC-area forecast: Muggy tonight with more storm chances this week",
-    "url": "https://www.capitalweather.com/dc-area-forecast-hottest-day-of-the-week-before-storms-become-more-widespread/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-slowly-step-back-this-week-as-storm-chances-fluctuate/",
+    "title": "DC-area forecast: Heat and humidity slowly step back this week as storm chances fluctuate",
+    "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-slowly-step-back-this-week-as-storm-chances-fluctuate/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Muggy 70s this evening. A couple of passing showers or a storm remain possible this evening and overnight.",
-    "publishedAt": "2026-08-10T09:00:06.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
-    "articleId": "b4c7b25f412cb0b7"
+    "summary": "HAPPENING NOW: Starting in the 70s this morning with clouds, a few showers, and maybe a rumble of thunder. Increasing sun by late morning or early afternoon as highs head for the mid-80s to near 90. Scattered showers and storms are possible by late afternoon.",
+    "publishedAt": "2026-08-11T09:00:14.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
+    "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-11T07:32:31.105Z",
+  "weatherGeneratedAt": "2026-08-11T09:10:56.932Z",
   "weatherError": null,
   "sources": [
     {
