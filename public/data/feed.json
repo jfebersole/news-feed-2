@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T21:59:36.077Z",
-  "fetchedAt": "2026-08-11T21:59:36.074Z",
+  "generatedAt": "2026-08-11T22:58:28.782Z",
+  "fetchedAt": "2026-08-11T22:58:28.777Z",
   "sourceCount": 23,
-  "itemCount": 158,
-  "totalItemCount": 783,
+  "itemCount": 157,
+  "totalItemCount": 782,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise",
@@ -988,18 +988,6 @@
       "articleId": "05003102bd318436"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/mega-events-are-the-new-monoculture",
-      "title": "Mega-events are the new monoculture",
-      "url": "https://www.slowboring.com/p/mega-events-are-the-new-monoculture",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus N.B.A. analytics, the Paramount deal, and the dream of stronger political parties",
-      "publishedAt": "2026-07-31T10:01:33.000Z",
-      "articleId": "709001dbdf52b5ea"
-    },
-    {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
       "title": "In praise of the Midwest",
       "url": "https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
@@ -1792,7 +1780,7 @@
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
     "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-11T21:59:36.077Z",
+  "weatherGeneratedAt": "2026-08-11T22:58:28.782Z",
   "weatherError": null,
   "sources": [
     {
@@ -1895,7 +1883,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
