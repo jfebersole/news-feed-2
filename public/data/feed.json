@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-11T06:01:45.596Z",
-  "fetchedAt": "2026-08-11T06:01:45.590Z",
+  "generatedAt": "2026-08-11T07:32:31.105Z",
+  "fetchedAt": "2026-08-11T07:32:31.097Z",
   "sourceCount": 23,
   "itemCount": 153,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-ai-peer-review-work",
+      "title": "How well does AI peer review work?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Claude and I planted 100 known errors into 10 open-access psychology papers and then ran them through frontier models and two commercial AI review tools. In brief: The best single system caught 71 of 100 errors, while the worst caught 30. Pooling every system’s output caught 93 of 100. Models are only partly correlated in […]",
+      "publishedAt": "2026-08-11T06:57:16.000Z",
+      "articleId": "94b6b94df149c0df"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html?utm_source=rss&utm_medium=rss&utm_campaign=who-enters-congress",
       "title": "Who enters Congress?",
@@ -332,17 +343,6 @@
       "summary": "In which I come out as a total theater nerd",
       "publishedAt": "2026-08-07T22:00:06.000Z",
       "articleId": "83184ba06bf53322"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html?utm_source=rss&utm_medium=rss&utm_campaign=the-queen-song-39",
-      "title": "The Queen song ’39",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-queen-song-39.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I only recently learned what it is really about, namely very rapid travel into space and time dilation mattering for the return voyage. I had never before listened carefully to the lyrics. I heard the “’39” reference at the beginning, the mention of volunteeers sailing away, and the general nostalgic British music hall mood to […]",
-      "publishedAt": "2026-08-07T17:36:23.000Z",
-      "articleId": "2b983bba14154eb1"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/earnings-and-learnings/",
@@ -1735,7 +1735,7 @@
     "dailyDigitSummary": "With a chance to hit 95 degrees and storms possible, too, I wouldn't mind taking a pass on today's weather.",
     "articleId": "b4c7b25f412cb0b7"
   },
-  "weatherGeneratedAt": "2026-08-11T06:01:45.596Z",
+  "weatherGeneratedAt": "2026-08-11T07:32:31.105Z",
   "weatherError": null,
   "sources": [
     {
