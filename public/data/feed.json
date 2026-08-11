@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-11T15:13:41.040Z",
-  "fetchedAt": "2026-08-11T15:13:41.031Z",
+  "generatedAt": "2026-08-11T17:09:03.175Z",
+  "fetchedAt": "2026-08-11T17:09:03.170Z",
   "sourceCount": 23,
   "itemCount": 156,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-581",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-581.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. “The fraction of women who undergo this procedure who go on to bear a child with the frozen eggs is around 2%.” 2. Long Mark Zuckerberg/Meta piece on the future of AI. 3. “According to Bloomberg Intelligence, companies in the S&P 500 are expected to post an average +29% jump in quarterly earnings for […]",
+      "publishedAt": "2026-08-11T15:52:04.000Z",
+      "articleId": "a852e64ac613f385"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/trading-favorites-an-album-a-day",
       "title": "Trading Favorites: An Album a Day",
@@ -376,17 +387,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-08-08T09:02:42.000Z",
       "articleId": "aed7a7f60dcc8a50"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html?utm_source=rss&utm_medium=rss&utm_campaign=restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety",
-      "title": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/restoring-childhood-how-to-set-kids-free-in-the-age-of-anxiety.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the new book by Peter Gray, and it is very much a whole philosophy of child-rearing and also antidote to the current panic over social media. Excerpt: In preparation for this chapter, I spent weeks poring over the research literature pretaining to smartphones, social media, and teen mental health. It is clear to […]",
-      "publishedAt": "2026-08-08T06:43:54.000Z",
-      "articleId": "6bd59938c7d75a6a"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
@@ -1762,16 +1762,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Starting in the 70s this morning with clouds, a few showers, and maybe a rumble of thunder. Increasing sun by late morning or early afternoon as highs head for the mid-80s to near 90. Scattered showers and storms are possible by late afternoon.",
+    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs head for the mid-80s to near 90. A few scattered showers and storms are possible by late afternoon, especially west and south of DC.",
     "publishedAt": "2026-08-11T09:00:14.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
-    "articleId": "b9c1bc26ca63cc46",
-    "stale": true
+    "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-11T15:13:41.040Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-11T17:09:03.175Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
