@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T20:59:58.814Z",
-  "fetchedAt": "2026-08-11T20:59:58.811Z",
+  "generatedAt": "2026-08-11T21:59:36.077Z",
+  "fetchedAt": "2026-08-11T21:59:36.074Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 783,
@@ -1780,19 +1780,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-slowly-step-back-this-week-as-storm-chances-fluctuate/",
-    "title": "DC-area forecast: Heat and humidity slowly step back this week as storm chances fluctuate",
+    "title": "DC-area forecast: A few showers overnight; staying humid until the weekend",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-slowly-step-back-this-week-as-storm-chances-fluctuate/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs head for the mid-80s to near 90 with moderate to high humidity. An isolated shower or storm is possible this afternoon into evening.",
+    "summary": "HAPPENING NOW: Mostly dry this evening with some scattered showers possible overnight. Evening temperatures fall out of the 80s with overnight lows in the upper 60s to mid-70s.",
     "publishedAt": "2026-08-11T09:00:14.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
     "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-11T20:59:58.814Z",
+  "weatherGeneratedAt": "2026-08-11T21:59:36.077Z",
   "weatherError": null,
   "sources": [
     {
