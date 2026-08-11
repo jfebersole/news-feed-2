@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-11T11:01:56.819Z",
-  "fetchedAt": "2026-08-11T11:01:56.814Z",
+  "generatedAt": "2026-08-11T11:52:38.758Z",
+  "fetchedAt": "2026-08-11T11:52:38.755Z",
   "sourceCount": 23,
   "itemCount": 155,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html?utm_source=rss&utm_medium=rss&utm_campaign=impedimenta-developerum",
+      "title": "Impedimenta Developerum!",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "NME: Harry Potter fans have succeeded in moving a construction project that would have originally gone through the “grave” of the character Dobby. The 125-mile Greenlink power connector, which costs £430million, is intended to link power between the UK’s National Grid and Ireland, running between County Wexford and Freshwater West in Pembrokeshire. However, the latter […]",
+      "publishedAt": "2026-08-11T11:20:05.000Z",
+      "articleId": "3c0e27cc74c931e2"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-20-burrito-tearing-the-republican",
       "title": "The $20 burrito tearing the Republican Party apart",
@@ -365,17 +376,6 @@
       "summary": "That is the new book by Peter Gray, and it is very much a whole philosophy of child-rearing and also antidote to the current panic over social media. Excerpt: In preparation for this chapter, I spent weeks poring over the research literature pretaining to smartphones, social media, and teen mental health. It is clear to […]",
       "publishedAt": "2026-08-08T06:43:54.000Z",
       "articleId": "6bd59938c7d75a6a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-293",
-      "title": "What I’ve been reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-293.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Mike Jay, Wireheads: An Unnatural History of Technology in the Brain. Much of this story is told through the lens of the accompanying science fiction and non-neuro trends in other parts of science. An excellent book, substantive on every page, and it will make you want to read some of the works he cites. […]",
-      "publishedAt": "2026-08-08T04:43:17.000Z",
-      "articleId": "2bb6fc7e7fedaa68"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
@@ -1758,7 +1758,7 @@
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
     "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-11T11:01:56.819Z",
+  "weatherGeneratedAt": "2026-08-11T11:52:38.758Z",
   "weatherError": null,
   "sources": [
     {
@@ -1772,10 +1772,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
