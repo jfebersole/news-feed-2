@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-12T15:11:17.410Z",
-  "fetchedAt": "2026-08-12T15:11:17.405Z",
+  "generatedAt": "2026-08-12T17:08:10.307Z",
+  "fetchedAt": "2026-08-12T17:08:10.302Z",
   "sourceCount": 23,
-  "itemCount": 159,
+  "itemCount": 158,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-566",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-566.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. The cheese collateral in Italian banks is melting. 2. Denmark fact of the day: “…half of Denmark’s growth has been due to essentially one company” 3. “Foreign travel now makes up 1.4% of the US consumer spending budget. By contrast, imported Chinese goods make up about 3% of US domestic expenditures.” 4. Noah is […]",
+      "publishedAt": "2026-08-12T16:12:03.000Z",
+      "articleId": "7d7111d3426c018b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
       "title": "Fast Company covers New Aesthetics",
@@ -431,17 +442,6 @@
       "summary": "From Kennedy’s 1961 inaugural: “Ask not what your country can do for you—ask what you can do for your country.” “Let us never negotiate out of fear. But let us never fear to negotiate.” “United, there is little we cannot do… Divided, there is little we can do.” “If a free society cannot help the […]",
       "publishedAt": "2026-08-09T11:26:05.000Z",
       "articleId": "1b55f6b2fcaef63b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html?utm_source=rss&utm_medium=rss&utm_campaign=pressure",
-      "title": "Pressure",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/pressure.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Who would have thought that someone could make a gripping movie about predicting the weather? Nevertheless, Pressure delivers. To be sure, it’s predicting the weather for D-Day. Excellent cast. Hews very close to the truth. The two camps really did divide on theory versus past prediction and the weather was as portrayed. After the war, […]",
-      "publishedAt": "2026-08-09T11:19:44.000Z",
-      "articleId": "5babe085bf5771e9"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
@@ -1774,17 +1774,6 @@
       "summary": "Featuring Geto Boys, Three 6 Mafia, Boogie Down Productions, and others",
       "publishedAt": "2026-07-14T13:31:54.000Z",
       "articleId": "70c0314e698c30e1"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
-      "title": "Graham Platner Was Just Hunter Biden With Worse Ink",
-      "url": "https://www.joshbarro.com/p/graham-platner-was-just-hunter-biden",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Beware seductive men with volatile personalities and substance abuse problems. Do not let them into your bedroom or public office.",
-      "publishedAt": "2026-07-13T15:46:47.000Z",
-      "articleId": "af66e3bef8a30d22"
     }
   ],
   "weather": {
@@ -1801,7 +1790,7 @@
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
     "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-12T15:11:17.410Z",
+  "weatherGeneratedAt": "2026-08-12T17:08:10.307Z",
   "weatherError": null,
   "sources": [
     {
