@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T20:58:55.462Z",
-  "fetchedAt": "2026-08-12T20:58:55.457Z",
+  "generatedAt": "2026-08-12T21:58:31.562Z",
+  "fetchedAt": "2026-08-12T21:58:31.555Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 782,
@@ -1788,10 +1788,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
-    "articleId": "aae8bfa9dce8d377"
+    "articleId": "aae8bfa9dce8d377",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-12T20:58:55.462Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-12T21:58:31.562Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
