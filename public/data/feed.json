@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-12T08:37:01.991Z",
-  "fetchedAt": "2026-08-12T08:37:01.987Z",
+  "generatedAt": "2026-08-12T10:17:08.846Z",
+  "fetchedAt": "2026-08-12T10:17:08.843Z",
   "sourceCount": 23,
   "itemCount": 158,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/abdul-el-sayed-can-win-moderate-voters",
+      "title": "Abdul El-Sayed can win moderate voters",
+      "url": "https://www.slowboring.com/p/abdul-el-sayed-can-win-moderate-voters",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "A roadmap for getting to yes — if he makes the effort",
+      "publishedAt": "2026-08-12T10:03:50.000Z",
+      "articleId": "c0af7738fc6318ff"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
+      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
+      "articleId": "24bf7d735f5c4840"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
       "title": "Roundup #86: Unintended consequences",
@@ -975,18 +997,6 @@
       "articleId": "1631f01fcfc039e7"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/12-things-ive-learned-in-12-months",
-      "title": "12 things I’ve learned in 12 months of writing for Slow Boring",
-      "url": "https://www.slowboring.com/p/12-things-ive-learned-in-12-months",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Looking back on the year",
-      "publishedAt": "2026-07-31T22:01:16.000Z",
-      "articleId": "94ad8ad24ed3d583"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
       "title": "How ugliness helps NIMBYs",
       "url": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
@@ -1531,17 +1541,6 @@
       "articleId": "1a004acb9112bd6e"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "title": "Who’s Afraid of Chinese Models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
-      "publishedAt": "2026-07-20T11:00:08.000Z",
-      "articleId": "39fb82bc57e50803"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-uk-is-a-cautionary-tale-for-the",
       "title": "The UK is a cautionary tale for the U.S.",
       "url": "https://www.noahpinion.blog/p/the-uk-is-a-cautionary-tale-for-the",
@@ -1777,20 +1776,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-slowly-step-back-this-week-as-storm-chances-fluctuate/",
-    "title": "DC-area forecast: A few showers overnight; staying humid until the weekend",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heat-and-humidity-slowly-step-back-this-week-as-storm-chances-fluctuate/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-storm-chances-come-and-go-this-week-before-a-nice-saturday/",
+    "title": "DC-area forecast: Storm chances come and go this week before a nice Saturday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-storm-chances-come-and-go-this-week-before-a-nice-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly dry this evening with some scattered showers possible overnight. Evening temperatures fall out of the 80s with overnight lows in the upper 60s to mid-70s.",
-    "publishedAt": "2026-08-11T09:00:14.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
-    "articleId": "b9c1bc26ca63cc46"
+    "summary": "HAPPENING NOW: Starting in the 70s this morning. Heading for the mid-80s to near 90 this afternoon under partly sunny skies. Just the chance of an isolated shower or storm.",
+    "publishedAt": "2026-08-12T09:00:51.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
+    "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-12T08:37:01.991Z",
+  "weatherGeneratedAt": "2026-08-12T10:17:08.846Z",
   "weatherError": null,
   "sources": [
     {
