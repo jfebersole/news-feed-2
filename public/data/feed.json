@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-12T06:38:51.425Z",
-  "fetchedAt": "2026-08-12T06:38:51.422Z",
+  "generatedAt": "2026-08-12T08:37:01.991Z",
+  "fetchedAt": "2026-08-12T08:37:01.987Z",
   "sourceCount": 23,
-  "itemCount": 157,
+  "itemCount": 158,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
+      "title": "Roundup #86: Unintended consequences",
+      "url": "https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The MAGA decline; The labor share decline; OPTs and American jobs; AI and Indian outsourcing; Drug users; AI and productivity; Botswana; Interracial Marriage; AI writing",
+      "publishedAt": "2026-08-12T08:27:04.000Z",
+      "articleId": "9bb49da5b9486be4"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
+      "title": "What makes people happy?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically sensitive to provide indirect evidence about politically sensitive attitudes. Using subjective well-being (SWB), we ask whether […]",
+      "publishedAt": "2026-08-12T06:51:30.000Z",
+      "articleId": "e1414f2068c130e8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
       "title": "Immigrant Earnings Assimilation, 1981–2021",
@@ -375,17 +397,6 @@
       "summary": "",
       "publishedAt": "2026-08-09T06:46:47.000Z",
       "articleId": "31ddd6991289561e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email",
-      "title": "Is there a Balkan fertility paradox? (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Balkans may be the only region other than central Asia where fertility has increased from 2015 to 2026.* All of the highest fertility rates in Europe are in the Balkans. As of 2024: Montenegro (1.8), Bulgaria (1.73) Moldova (1.73), and Serbia (1.64) are top four. France was next at 1.61. Other balkan countries were […]",
-      "publishedAt": "2026-08-09T04:13:46.000Z",
-      "articleId": "948cdeefad423587"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
@@ -1779,7 +1790,7 @@
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
     "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-12T06:38:51.425Z",
+  "weatherGeneratedAt": "2026-08-12T08:37:01.991Z",
   "weatherError": null,
   "sources": [
     {
