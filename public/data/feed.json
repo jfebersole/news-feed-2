@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-12T02:39:33.256Z",
-  "fetchedAt": "2026-08-12T02:39:33.251Z",
+  "generatedAt": "2026-08-12T04:57:15.744Z",
+  "fetchedAt": "2026-08-12T04:57:15.741Z",
   "sourceCount": 23,
   "itemCount": 157,
   "totalItemCount": 781,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
+      "title": "Immigrant Earnings Assimilation, 1981–2021",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify immigrants who eventually leave the United States […]",
+      "publishedAt": "2026-08-12T04:42:23.000Z",
+      "articleId": "96dc73b489f908fe"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/john-cochrane-on-monetarism",
       "title": "John Cochrane on monetarism",
@@ -375,17 +386,6 @@
       "summary": "The Balkans may be the only region other than central Asia where fertility has increased from 2015 to 2026.* All of the highest fertility rates in Europe are in the Balkans. As of 2024: Montenegro (1.8), Bulgaria (1.73) Moldova (1.73), and Serbia (1.64) are top four. France was next at 1.61. Other balkan countries were […]",
       "publishedAt": "2026-08-09T04:13:46.000Z",
       "articleId": "948cdeefad423587"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
-      "title": "The future of warfare? (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "As weapon systems increase in effectiveness, they will generally target one another rather than humans. Lower loss of life will ease conflict entry and hinder exit. Warfare will veer further from industrial competition into techno-industrial; the current appearance of parity between low tech and advanced actors reflects near zero deployment of advanced systems. As these […]",
-      "publishedAt": "2026-08-08T18:40:53.000Z",
-      "articleId": "815d2f1b5c09bb70"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
@@ -1779,7 +1779,7 @@
     "dailyDigitSummary": "We know some of you are tough graders, but hopefully you'll agree that today's slight drop in temperatures and humidity is a digit-boosting step in the right direction.",
     "articleId": "b9c1bc26ca63cc46"
   },
-  "weatherGeneratedAt": "2026-08-12T02:39:33.256Z",
+  "weatherGeneratedAt": "2026-08-12T04:57:15.744Z",
   "weatherError": null,
   "sources": [
     {
