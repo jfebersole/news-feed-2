@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-12T21:58:31.562Z",
-  "fetchedAt": "2026-08-12T21:58:31.555Z",
+  "generatedAt": "2026-08-12T22:56:41.906Z",
+  "fetchedAt": "2026-08-12T22:56:41.902Z",
   "sourceCount": 23,
-  "itemCount": 158,
-  "totalItemCount": 782,
+  "itemCount": 159,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/new-york-is-building-but-where",
+      "title": "New York is building. But where?",
+      "url": "https://www.slowboring.com/p/new-york-is-building-but-where",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus San Diego’s YIMBY mayor and recovery from wildfire displacement",
+      "publishedAt": "2026-08-12T22:02:07.000Z",
+      "articleId": "fe39abeed556f4f0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=mistakes-in-financial-economics",
       "title": "Mistakes in financial economics",
@@ -1788,11 +1800,10 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
-    "articleId": "aae8bfa9dce8d377",
-    "stale": true
+    "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-12T21:58:31.562Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-12T22:56:41.906Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1894,7 +1905,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
