@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T19:15:45.552Z",
-  "fetchedAt": "2026-08-12T19:15:45.547Z",
+  "generatedAt": "2026-08-12T20:58:55.462Z",
+  "fetchedAt": "2026-08-12T20:58:55.457Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 783,
+  "itemCount": 158,
+  "totalItemCount": 782,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=mistakes-in-financial-economics",
@@ -499,17 +499,6 @@
       "summary": "There's one thing keeping us afloat right now, and people want to get rid of it.",
       "publishedAt": "2026-08-08T09:25:08.000Z",
       "articleId": "775abd44b32fd712"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-3-7-2026",
-      "title": "The Week That Was (August 3-7, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-3-7-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-08-08T09:02:42.000Z",
-      "articleId": "aed7a7f60dcc8a50"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
@@ -1789,19 +1778,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-storm-chances-come-and-go-this-week-before-a-nice-saturday/",
-    "title": "DC-area forecast: Storm chances come and go this week before a nice Saturday",
+    "title": "DC-area forecast: Scattered showers tonight, mostly dry but hot on Thursday",
     "url": "https://www.capitalweather.com/dc-area-forecast-storm-chances-come-and-go-this-week-before-a-nice-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Heading for the mid-80s to near 90 this afternoon under partly sunny skies. Only a slight chance of a shower or storm.",
+    "summary": "HAPPENING NOW: Evening temperatures fall back into the 70s a little after sunset. Scattered showers are possible between 8 p.m. and midnight. Lows range from the upper 60s to low 70s.",
     "publishedAt": "2026-08-12T09:00:51.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
     "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-12T19:15:45.552Z",
+  "weatherGeneratedAt": "2026-08-12T20:58:55.462Z",
   "weatherError": null,
   "sources": [
     {
@@ -1880,7 +1869,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
