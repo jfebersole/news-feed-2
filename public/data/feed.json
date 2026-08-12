@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-12T11:55:42.893Z",
-  "fetchedAt": "2026-08-12T11:55:42.884Z",
+  "generatedAt": "2026-08-12T13:39:50.394Z",
+  "fetchedAt": "2026-08-12T13:39:50.391Z",
   "sourceCount": 23,
-  "itemCount": 158,
-  "totalItemCount": 781,
+  "itemCount": 159,
+  "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
+      "title": "Fast Company covers New Aesthetics",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A good piece, it is good to see the artists themselves front and center of the story.",
+      "publishedAt": "2026-08-12T13:19:06.000Z",
+      "articleId": "ae9af6d8bb877bde"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/future-of-medicine",
+      "title": "How to cure the world",
+      "url": "https://www.worksinprogress.news/p/future-of-medicine",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Few people know how much medicine has progressed in their lifetimes. Fewer know how much faster it could be progressing.",
+      "publishedAt": "2026-08-12T13:03:25.000Z",
+      "articleId": "9a2afad9e1aa4ef2"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/abdul-el-sayed-can-win-moderate-voters",
       "title": "Abdul El-Sayed can win moderate voters",
@@ -26,6 +48,18 @@
       "summary": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
       "publishedAt": "2026-08-12T10:00:00.000Z",
       "articleId": "24bf7d735f5c4840"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/kevin-durant-should-own-his-warriors",
+      "title": "Kevin Durant Should Own His Warriors Era",
+      "url": "https://neilpaine.substack.com/p/kevin-durant-should-own-his-warriors",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Ever since he made it, KD has been running from the one move that will always define his legacy. He should just embrace it instead.",
+      "publishedAt": "2026-08-12T09:00:08.000Z",
+      "articleId": "3b89226c2a88eb36"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
@@ -408,17 +442,6 @@
       "summary": "Who would have thought that someone could make a gripping movie about predicting the weather? Nevertheless, Pressure delivers. To be sure, it’s predicting the weather for D-Day. Excellent cast. Hews very close to the truth. The two camps really did divide on theory versus past prediction and the weather was as portrayed. After the war, […]",
       "publishedAt": "2026-08-09T11:19:44.000Z",
       "articleId": "5babe085bf5771e9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html?utm_source=rss&utm_medium=rss&utm_campaign=one-of-the-better-pro-natalist-lieder",
-      "title": "One of the better pro-natalist Lieder",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/one-of-the-better-pro-natalist-lieder.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "",
-      "publishedAt": "2026-08-09T06:46:47.000Z",
-      "articleId": "31ddd6991289561e"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
@@ -1762,17 +1785,6 @@
       "summary": "Beware seductive men with volatile personalities and substance abuse problems. Do not let them into your bedroom or public office.",
       "publishedAt": "2026-07-13T15:46:47.000Z",
       "articleId": "af66e3bef8a30d22"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-american-suburbs-are-better-than",
-      "title": "The American suburbs are better than you think",
-      "url": "https://www.noahpinion.blog/p/the-american-suburbs-are-better-than",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "They're not my personal cup of tea, but there are good reasons people like them.",
-      "publishedAt": "2026-07-13T12:38:16.000Z",
-      "articleId": "33f5dad377a3d58a"
     }
   ],
   "weather": {
@@ -1789,7 +1801,7 @@
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
     "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-12T11:55:42.893Z",
+  "weatherGeneratedAt": "2026-08-12T13:39:50.394Z",
   "weatherError": null,
   "sources": [
     {
@@ -1868,7 +1880,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
