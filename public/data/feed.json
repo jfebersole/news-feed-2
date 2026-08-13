@@ -1,10 +1,45 @@
 {
-  "generatedAt": "2026-08-13T15:11:02.838Z",
-  "fetchedAt": "2026-08-13T15:11:02.834Z",
+  "generatedAt": "2026-08-13T17:08:17.716Z",
+  "fetchedAt": "2026-08-13T17:08:17.713Z",
   "sourceCount": 23,
-  "itemCount": 159,
+  "itemCount": 160,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/prediction-markets-arent-magic",
+      "title": "Prediction markets aren't magic",
+      "url": "https://www.natesilver.net/p/prediction-markets-arent-magic",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "My chat with Galen Druke on Wisconsin, models, polls and prediction markets.",
+      "publishedAt": "2026-08-13T16:50:06.000Z",
+      "articleId": "e63bafaf60e1018f"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/labs-are-struggling-to-keep-frontier",
+      "title": "Labs are struggling to keep frontier models under control",
+      "url": "https://www.understandingai.org/p/labs-are-struggling-to-keep-frontier",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "OpenAI and Anthropic may have accidentally trained models to get better at hacking.",
+      "publishedAt": "2026-08-13T16:28:51.000Z",
+      "articleId": "081c25b3b74561d8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-565",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Write a paper in six days with only AIs, then record all of that and write a second paper about writing the first. 2. Saloni on the future of medicine. “Every disease is a policy failure.” 3. John List on generalizability, very important. And his comments here. 4. China is now regulating AI companions. […]",
+      "publishedAt": "2026-08-13T16:03:42.000Z",
+      "articleId": "ffda3010b5a52ff8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
       "title": "USA fact of the day",
@@ -476,17 +511,6 @@
       "summary": "Regular-season losing skids don't matter when the playoffs are the entire point.",
       "publishedAt": "2026-08-10T09:01:32.000Z",
       "articleId": "ca8fae6d9bc0688e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html?utm_source=rss&utm_medium=rss&utm_campaign=do-faculty-affect-student-partisanship",
-      "title": "Do Faculty Affect Student Partisanship?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of […]",
-      "publishedAt": "2026-08-10T06:49:07.000Z",
-      "articleId": "12c071cb32a56670"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
@@ -1775,17 +1799,6 @@
       "summary": "He bent the knee and made the most of it.",
       "publishedAt": "2026-07-14T21:00:04.000Z",
       "articleId": "76f2fe3aa7f17796"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/12-questions-for-the-center-left",
-      "title": "12 questions for the center-left",
-      "url": "https://www.natesilver.net/p/12-questions-for-the-center-left",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "The center-left offers an alternative to both the left and the Democratic “establishment.” But it’s losing influence — and struggling to define itself.",
-      "publishedAt": "2026-07-14T15:17:00.000Z",
-      "articleId": "dbba72997551cb58"
     }
   ],
   "weather": {
@@ -1795,16 +1808,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Lots of sun today. Temperatures reach near or past 80 by midmorning, on the way to somewhat above-average highs near 90 in many spots.",
+    "summary": "HAPPENING NOW: Lots of sun today. Temperatures make their way to somewhat above-average highs near 90 in many spots.",
     "publishedAt": "2026-08-13T09:00:32.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
-    "articleId": "f89cf5c5865a6888",
-    "stale": true
+    "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T15:11:02.838Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-13T17:08:17.716Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
