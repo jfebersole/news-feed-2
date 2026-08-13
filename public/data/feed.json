@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T21:57:58.190Z",
-  "fetchedAt": "2026-08-13T21:57:58.186Z",
+  "generatedAt": "2026-08-13T22:58:29.120Z",
+  "fetchedAt": "2026-08-13T22:58:29.117Z",
   "sourceCount": 23,
-  "itemCount": 161,
-  "totalItemCount": 784,
+  "itemCount": 160,
+  "totalItemCount": 783,
   "items": [
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7511520/2026/08/13/new-york-giants-terrion-arnold-cornerback/",
@@ -985,18 +985,6 @@
       "articleId": "470c4399276ec008"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/democrats-are-winning-the-polls-but",
-      "title": "Democrats are winning the polls but losing the plot",
-      "url": "https://www.slowboring.com/p/democrats-are-winning-the-polls-but",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Primary voters are far more focused on fighting each other than on fighting the G.O.P.",
-      "publishedAt": "2026-08-03T22:01:04.000Z",
-      "articleId": "e42a120a2825c9b2"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
       "title": "What Trump's latest slump means for the midterms",
       "url": "https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
@@ -1813,21 +1801,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-standard-summertime-weather-with-increased-storm-odds-friday/",
-    "title": "DC-area forecast: Standard summertime weather, with increased storm odds Friday",
+    "title": "DC-area forecast: Scattered showers possible Friday before a nice Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-standard-summertime-weather-with-increased-storm-odds-friday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Lots of sun today. Temperatures make their way to somewhat above-average highs near 90 in many spots.",
+    "summary": "HAPPENING NOW: Evening temperatures fall back through the 80s. Humidity trends higher again later this evening and overnight with lows around 70 to 75.",
     "publishedAt": "2026-08-13T09:00:32.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
-    "articleId": "f89cf5c5865a6888",
-    "stale": true
+    "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T21:57:58.190Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-13T22:58:29.120Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1929,7 +1916,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
