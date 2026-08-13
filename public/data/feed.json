@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-13T05:00:52.990Z",
-  "fetchedAt": "2026-08-13T05:00:52.985Z",
+  "generatedAt": "2026-08-13T06:41:35.988Z",
+  "fetchedAt": "2026-08-13T06:41:35.985Z",
   "sourceCount": 23,
   "itemCount": 159,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
+      "title": "My very interesting Conversation with Daron Acemoglu",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Daron Acemoglu returns for his second appearance with a new book, What Happened to Liberal Democracy?, which Tyler reads as an attempt to redefine and revitalize liberalism for our times. Where Daron’s first visit was about how states and societies contend for the narrow […]",
+      "publishedAt": "2026-08-13T05:31:43.000Z",
+      "articleId": "23833efb4fca2358"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
       "title": "The Quest For Caffeine You Can Have At Night",
@@ -464,17 +475,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-08-09T17:01:54.000Z",
       "articleId": "607b5d43fbc678e8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-579",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-579.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. African use of Chinese AI (NYT). And what happened to Talenti gelato? (NYT) And the NIMBY brutalists who live in the Barbican (NYT). 2. Modernist Gothic in Copenhagen. 3. AI-generated Odyssey in Vietnam. 4. Questions from Seb Krier. 5. Time magazine has a special version that only the AIs can read. 6. Tymofiy Mylovanov […]",
-      "publishedAt": "2026-08-09T15:29:20.000Z",
-      "articleId": "73bc61175bb78796"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
@@ -1802,7 +1802,7 @@
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
     "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-13T05:00:52.990Z",
+  "weatherGeneratedAt": "2026-08-13T06:41:35.988Z",
   "weatherError": null,
   "sources": [
     {
