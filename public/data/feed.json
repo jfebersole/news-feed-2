@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-13T19:16:24.818Z",
-  "fetchedAt": "2026-08-13T19:16:24.813Z",
+  "generatedAt": "2026-08-13T20:58:31.409Z",
+  "fetchedAt": "2026-08-13T20:58:31.399Z",
   "sourceCount": 23,
-  "itemCount": 161,
+  "itemCount": 162,
   "totalItemCount": 774,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7511520/2026/08/13/new-york-giants-terrion-arnold-cornerback/",
+      "title": "Why the Giants are showing serious interest in Terrion Arnold",
+      "url": "https://www.nytimes.com/athletic/7511520/2026/08/13/new-york-giants-terrion-arnold-cornerback/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Giants coach John Harbaugh: \"We're looking all of time for players who can help us. And he's a player who can help us.”",
+      "publishedAt": "2026-08-13T20:40:43.000Z",
+      "articleId": "f12a693c2ccd386b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/those-old-service-sector-jobs-2.html?utm_source=rss&utm_medium=rss&utm_campaign=those-old-service-sector-jobs-2",
       "title": "Those old (new?) service sector jobs",
@@ -1825,7 +1836,7 @@
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
     "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T19:16:24.818Z",
+  "weatherGeneratedAt": "2026-08-13T20:58:31.409Z",
   "weatherError": null,
   "sources": [
     {
