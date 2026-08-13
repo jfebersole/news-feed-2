@@ -147,6 +147,63 @@ test("keeps links in very short Marginal Revolution posts and removes its RSS fo
   assert.doesNotMatch(cleanFeedSummary(feedContentHtml, "Marginal Revolution"), /appeared first on|The post/i);
 });
 
+test("preserves terse closing paragraphs in Marginal Revolution articles", () => {
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head><title>Mistakes in financial economics</title></head><body>
+        <article><div class="entry-content">
+          <p>This is a substantive paragraph long enough to survive the standard reader cleanup.</p>
+          <p>Apparently so. And perhaps that is because the outcome will not be that bad after all.</p>
+          <p>Words to live by.</p>
+        </div></article>
+      </body></html>
+    `,
+    url: "https://marginalrevolution.com/marginalrevolution/2026/08/mistakes-in-financial-economics.html",
+    sourceName: "Marginal Revolution",
+  });
+
+  assert.match(article.contentHtml, /<p>Words to live by\.<\/p>/);
+
+  const otherSourceArticle = extractArticleFromHtml({
+    html: `
+      <html><head><title>Generic article</title></head><body><article>
+        <p>This is a substantive paragraph long enough to survive the standard reader cleanup.</p>
+        <p>Words to live by.</p>
+      </article></body></html>
+    `,
+    url: "https://example.com/generic-article",
+    sourceName: "Another Source",
+  });
+
+  assert.doesNotMatch(otherSourceArticle.contentHtml, /Words to live by/);
+});
+
+test("keeps inline NBER author citations in Marginal Revolution articles", () => {
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head><title>Immigrant Earnings Assimilation</title></head><body>
+        <article><div class="entry-content">
+          <blockquote><p>This paper examines immigrant earnings over a long period of time.</p></blockquote>
+          <p>That is from <a href="https://www.nber.org/papers/w35582">a new NBER working paper</a> by
+            <span class="page-header__author-item"><a href="https://www.nber.org/people/randall_akee">Randall Akee</a>,</span>
+            <span class="page-header__author-item"><a href="https://www.nber.org/people/jimmychin12">Jimmy Chin</a></span>
+            <span class="page-header__author-item">&amp; <a href="https://www.nber.org/people/dcrown">Daniel L. Crown</a>.
+            Immigration policy should be fairly liberal more generally. It is good for us too.</span>
+          </p>
+        </div></article>
+      </body></html>
+    `,
+    url: "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation.html",
+    sourceName: "Marginal Revolution",
+  });
+
+  assert.match(article.contentHtml, /Randall Akee/);
+  assert.match(article.contentHtml, /Jimmy Chin/);
+  assert.match(article.contentHtml, /Daniel L\. Crown/);
+  assert.match(article.contentHtml, /It is good for us too/);
+  assert.doesNotMatch(article.contentHtml, /page-header__author-item/);
+});
+
 test("renders Substack prediction-market and X embeds as reader cards", () => {
   const predictionAttrs = JSON.stringify({
     url: "https://manifold.markets/embed/strutheo/will-linear-a",
@@ -203,4 +260,33 @@ test("renders Substack prediction-market and X embeds as reader cards", () => {
   assert.match(article.contentHtml, /We(?:'|&#x27;)re hiring AI engineers/);
   assert.match(article.contentHtml, /A strange signal keeps showing up/);
   assert.doesNotMatch(article.contentHtml, /<iframe/i);
+});
+
+test("removes Substack share buttons and preserves numbered footnotes", () => {
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head><title>Substack footnotes</title></head><body><article>
+        <p>A claim with a footnote<a class="footnote-anchor" data-component-name="FootnoteAnchorToDOM"
+          id="footnote-anchor-1" href="#footnote-1" target="_self">1</a> continues here.</p>
+        <p class="button-wrapper" data-component-name="ButtonCreateButton">
+          <a class="button primary" href="https://example.substack.com/p/test?utm_content=share&action=share">
+            <span>Share</span>
+          </a>
+        </p>
+        <div class="footnote" data-component-name="FootnoteToDOM">
+          <a id="footnote-1" href="#footnote-anchor-1" class="footnote-number" target="_self">1</a>
+          <div class="footnote-content"><p>The complete footnote text belongs here.</p></div>
+        </div>
+      </article></body></html>
+    `,
+    url: "https://example.substack.com/p/test",
+    sourceName: "A Substack Source",
+  });
+
+  assert.doesNotMatch(article.contentHtml, />Share</);
+  assert.match(article.contentHtml, /class="reader-footnote-ref"[^>]*>1<\/a>/);
+  assert.match(article.contentHtml, /class="reader-footnote" id="footnote-1"/);
+  assert.match(article.contentHtml, /class="reader-footnote-number"[^>]*>1<\/a>/);
+  assert.match(article.contentHtml, /class="reader-footnote-content"/);
+  assert.match(article.contentHtml, /The complete footnote text belongs here/);
 });

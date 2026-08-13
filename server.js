@@ -1091,6 +1091,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
       preferSubstackMedia,
       preferEmailFormatting: isEmailNewsletter,
       dropEmailLayoutTables: isBrewShopNewsletter,
+      preserveShortParagraphs: source.includes("marginal revolution"),
     });
   } catch {
     content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
@@ -1526,7 +1527,10 @@ function extractArticleFromHtml({ html, url, sourceName }) {
 
   const paywallSignal = detectPaywallSignals($, html);
   const bestContainer = findBestArticleContainer($, { url, sourceName });
-  let content = collectContentBlocks($, bestContainer, url, { preferSubstackMedia: isSubstackStyle });
+  let content = collectContentBlocks($, bestContainer, url, {
+    preferSubstackMedia: isSubstackStyle,
+    preserveShortParagraphs: source.includes("marginal revolution"),
+  });
   if (source.includes("marginal revolution")) {
     // Marginal Revolution has no visual deck; Yoast fills its description from
     // the article body, which can be the entire post for short link entries.
@@ -1772,6 +1776,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
         "figure",
         "div[data-component-name='DatawrapperToDOM']",
         "div[data-component-name='PredictionMarketToDOM']",
+        "div[data-component-name='FootnoteToDOM']",
         "a[data-component-name='Twitter2ToDOM']",
         "div[class*='imageRow']",
         "img",
@@ -1792,6 +1797,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
         "figure",
         "div[data-component-name='DatawrapperToDOM']",
         "div[data-component-name='PredictionMarketToDOM']",
+        "div[data-component-name='FootnoteToDOM']",
         "a[data-component-name='Twitter2ToDOM']",
         "img",
         "blockquote",
@@ -1918,13 +1924,27 @@ function shouldKeepContentBlock($, element, options = {}) {
   const text = cleanText(node.text());
   const hasLinks = node.find("a[href]").length > 0;
   const hasImages = tag === "img" || node.find("img").length > 0;
+  const isSubstackShareButton =
+    text.toLowerCase() === "share" &&
+    node
+      .find("a[href]")
+      .toArray()
+      .some((anchor) => /[?&](?:action|utm_content)=share(?:&|$)/i.test($(anchor).attr("href") || ""));
+
+  if (isSubstackShareButton) {
+    return false;
+  }
 
   if (tag === "a" && componentName === "twitter2todom") {
     return true;
   }
 
   if (tag === "div") {
-    if (componentName === "datawrappertodom" || componentName === "predictionmarkettodom") {
+    if (
+      componentName === "datawrappertodom" ||
+      componentName === "predictionmarkettodom" ||
+      componentName === "footnotetodom"
+    ) {
       return true;
     }
 
@@ -1961,7 +1981,13 @@ function shouldKeepContentBlock($, element, options = {}) {
     return true;
   }
 
-  if (tag === "p" && text.length < 18 && !hasLinks && !hasImages) {
+  if (
+    tag === "p" &&
+    text.length < 18 &&
+    !hasLinks &&
+    !hasImages &&
+    !options.preserveShortParagraphs
+  ) {
     if (text.length >= 3 && node.children("strong").length > 0) {
       return true;
     }
@@ -2128,6 +2154,12 @@ function sanitizeContentBlock($, element, baseUrl) {
 
 function isDisallowedWithinReaderNode(node) {
   const marker = `${node.attr("class") || ""} ${node.attr("id") || ""}`.toLowerCase();
+  const isInlineCitationAuthor =
+    /\bpage-header__author-item\b/.test(marker) && node.closest("p,li,blockquote").length > 0;
+  if (isInlineCitationAuthor) {
+    return false;
+  }
+
   return /(share|social|signup|newsletter|related|comment|cookie|advert|promo|paywall|footer|nav|toolbar|popup|byline|avatar|profile|author)/.test(
     marker
   );
@@ -2135,6 +2167,10 @@ function isDisallowedWithinReaderNode(node) {
 
 function normalizeLinkElement(node, attrs, baseUrl) {
   const componentName = (attrs["data-component-name"] || "").toLowerCase();
+  const marker = `${attrs.class || ""} ${attrs.id || ""}`.toLowerCase();
+  const isFootnoteReference =
+    componentName === "footnoteanchortodom" || /\bfootnote-anchor\b/.test(marker);
+  const isFootnoteNumber = attrs["data-reader-footnote-number"] === "true";
   if (componentName === "twitter2todom") {
     normalizeTwitterEmbedElement(node, attrs, baseUrl);
     return;
@@ -2158,6 +2194,13 @@ function normalizeLinkElement(node, attrs, baseUrl) {
     node.attr("href", localAnchorHref);
     node.removeAttr("target");
     node.removeAttr("rel");
+    if (isFootnoteReference) {
+      node.attr("class", "reader-footnote-ref");
+      node.attr("aria-label", `Footnote ${cleanText(node.text()) || "reference"}`);
+    } else if (isFootnoteNumber) {
+      node.attr("class", "reader-footnote-number");
+      node.attr("aria-label", `Back to footnote ${cleanText(node.text()) || "reference"}`);
+    }
     return;
   }
 
@@ -2292,6 +2335,16 @@ function normalizeDivElement(node, attrs, baseUrl) {
     return;
   }
 
+  if (componentName === "footnotetodom") {
+    normalizeFootnoteElement(node);
+    return;
+  }
+
+  if (componentName === "readerfootnotecontent") {
+    node.attr("class", "reader-footnote-content");
+    return;
+  }
+
   if (!isSubstackImageRowMarker(marker)) {
     node.replaceWith(node.contents());
     return;
@@ -2302,6 +2355,27 @@ function normalizeDivElement(node, attrs, baseUrl) {
   if (columns > 1) {
     node.attr("data-columns", String(columns));
   }
+}
+
+function normalizeFootnoteElement(node) {
+  const numberAnchor = node.children("a.footnote-number").first();
+  const content = node.children(".footnote-content").first();
+  const number = cleanText(numberAnchor.text());
+  const targetId = sanitizeAnchorId(numberAnchor.attr("id") || (number ? `footnote-${number}` : ""));
+
+  if (!numberAnchor.length || !content.length || !number) {
+    node.replaceWith(node.contents());
+    return;
+  }
+
+  node.attr("class", "reader-footnote");
+  if (targetId) {
+    node.attr("id", targetId);
+  }
+
+  numberAnchor.removeAttr("id");
+  numberAnchor.attr("data-reader-footnote-number", "true");
+  content.attr("data-component-name", "ReaderFootnoteContent");
 }
 
 function normalizeDatawrapperElement(node, attrs, baseUrl) {

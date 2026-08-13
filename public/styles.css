@@ -1014,6 +1014,49 @@ body::before {
   color: #5a5348;
 }
 
+.reader-body .reader-footnote-ref {
+  display: inline-block;
+  margin-left: 0.08em;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 0.62em;
+  font-weight: 700;
+  line-height: 0;
+  text-decoration: none;
+  vertical-align: super;
+}
+
+.reader-body .reader-footnote {
+  display: grid;
+  grid-template-columns: 1.4rem minmax(0, 1fr);
+  gap: 0.45rem;
+  margin: 22px 0;
+  padding-top: 14px;
+  border-top: 1px solid rgba(16, 16, 14, 0.2);
+  font-size: clamp(0.98rem, 1.45vw, 1.1rem);
+  line-height: 1.55;
+}
+
+.reader-body .reader-footnote-number {
+  font-family: "Archivo Narrow", sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.reader-body .reader-footnote-content > :first-child {
+  margin-top: 0;
+}
+
+.reader-body .reader-footnote-content > :last-child {
+  margin-bottom: 0;
+}
+
+.reader-body .reader-footnote-content p,
+.reader-body .reader-footnote-content ul,
+.reader-body .reader-footnote-content ol {
+  font-size: inherit;
+  line-height: inherit;
+}
+
 .reader-body .reader-embed-card {
   box-sizing: border-box;
   width: 100%;
