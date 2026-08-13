@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T13:39:39.772Z",
-  "fetchedAt": "2026-08-13T13:39:39.769Z",
+  "generatedAt": "2026-08-13T15:11:02.838Z",
+  "fetchedAt": "2026-08-13T15:11:02.834Z",
   "sourceCount": 23,
   "itemCount": 159,
   "totalItemCount": 784,
@@ -1800,10 +1800,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
-    "articleId": "f89cf5c5865a6888"
+    "articleId": "f89cf5c5865a6888",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-13T13:39:39.772Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-13T15:11:02.838Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
