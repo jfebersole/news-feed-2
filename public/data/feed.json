@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T06:41:35.988Z",
-  "fetchedAt": "2026-08-13T06:41:35.985Z",
+  "generatedAt": "2026-08-13T08:40:10.994Z",
+  "fetchedAt": "2026-08-13T08:40:10.986Z",
   "sourceCount": 23,
   "itemCount": 159,
-  "totalItemCount": 783,
+  "totalItemCount": 773,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
@@ -1802,7 +1802,7 @@
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
     "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-13T06:41:35.988Z",
+  "weatherGeneratedAt": "2026-08-13T08:40:10.994Z",
   "weatherError": null,
   "sources": [
     {
@@ -1816,10 +1816,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
