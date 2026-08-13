@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-13T10:19:08.694Z",
-  "fetchedAt": "2026-08-13T10:19:08.691Z",
+  "generatedAt": "2026-08-13T11:55:49.476Z",
+  "fetchedAt": "2026-08-13T11:55:49.473Z",
   "sourceCount": 23,
-  "itemCount": 159,
-  "totalItemCount": 783,
+  "itemCount": 160,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
+      "title": "USA fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the source.",
+      "publishedAt": "2026-08-13T10:40:20.000Z",
+      "articleId": "f909a9fbd01f6eb0"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
       "title": "Medicare for All should be more like Medicare",
@@ -28,6 +39,17 @@
       "summary": "Matt and Jerusalem debate the legacy",
       "publishedAt": "2026-08-13T09:02:11.000Z",
       "articleId": "397efead234030ff"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-pga-tour-made-its-championship",
+      "title": "The PGA Tour Made Its Championship More Accessible Than Ever. Maybe Too Accessible?",
+      "url": "https://neilpaine.substack.com/p/the-pga-tour-made-its-championship",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "By simplifying the FedEx Cup, golf made its season-long championship easier to understand — and harder for the sport's best players to win.",
+      "publishedAt": "2026-08-13T09:01:50.000Z",
+      "articleId": "6540a2ee2c0e4096"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
@@ -465,17 +487,6 @@
       "summary": "We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of […]",
       "publishedAt": "2026-08-10T06:49:07.000Z",
       "articleId": "12c071cb32a56670"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/act-like-it-is-science.html?utm_source=rss&utm_medium=rss&utm_campaign=act-like-it-is-science",
-      "title": "Act like it is science",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/act-like-it-is-science.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I am seeing so many doom prognostications, or least severe worries, due to the OAI/HuggingFace incident and related stories. But virtually all of these I find underargued to say the least. So I have a simple request. If you are worried, and wish to persuade the doubters, try the methods of science. I would like […]",
-      "publishedAt": "2026-08-10T04:44:45.000Z",
-      "articleId": "136ffbeac0114579"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/should-we-pace-ai-self-improvement",
@@ -1802,7 +1813,7 @@
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
     "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T10:19:08.694Z",
+  "weatherGeneratedAt": "2026-08-13T11:55:49.476Z",
   "weatherError": null,
   "sources": [
     {
@@ -1881,7 +1892,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
