@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-13T02:41:57.905Z",
-  "fetchedAt": "2026-08-13T02:41:57.900Z",
+  "generatedAt": "2026-08-13T05:00:52.990Z",
+  "fetchedAt": "2026-08-13T05:00:52.985Z",
   "sourceCount": 23,
   "itemCount": 159,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
+      "title": "The Quest For Caffeine You Can Have At Night",
+      "url": "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-13T04:09:15.000Z",
+      "articleId": "83f54b96618146fb"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/new-york-is-building-but-where",
       "title": "New York is building. But where?",
@@ -1678,17 +1689,6 @@
       "articleId": "089a531b578a0858"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-stochastic-terrorism",
-      "title": "Against \"Stochastic Terrorism\"",
-      "url": "https://www.astralcodexten.com/p/against-stochastic-terrorism",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-16T22:18:00.000Z",
-      "articleId": "04e6091e6745982d"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/can-the-establishment-stop-abdul",
       "title": "Can the establishment stop Abdul El-Sayed?",
       "url": "https://www.natesilver.net/p/can-the-establishment-stop-abdul",
@@ -1802,7 +1802,7 @@
     "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
     "articleId": "aae8bfa9dce8d377"
   },
-  "weatherGeneratedAt": "2026-08-13T02:41:57.905Z",
+  "weatherGeneratedAt": "2026-08-13T05:00:52.990Z",
   "weatherError": null,
   "sources": [
     {
