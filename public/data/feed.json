@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-13T08:40:10.994Z",
-  "fetchedAt": "2026-08-13T08:40:10.986Z",
+  "generatedAt": "2026-08-13T10:19:08.694Z",
+  "fetchedAt": "2026-08-13T10:19:08.691Z",
   "sourceCount": 23,
   "itemCount": 159,
-  "totalItemCount": 773,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
+      "title": "Medicare for All should be more like Medicare",
+      "url": "https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A floor for health care, not a ceiling",
+      "publishedAt": "2026-08-13T10:01:20.000Z",
+      "articleId": "2e2314f2a3fb04fe"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/from-bowling-alone-to-scrolling-alone",
+      "title": "From “Bowling Alone” to scrolling alone",
+      "url": "https://www.slowboring.com/p/from-bowling-alone-to-scrolling-alone",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Matt and Jerusalem debate the legacy",
+      "publishedAt": "2026-08-13T09:02:11.000Z",
+      "articleId": "397efead234030ff"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
       "title": "My very interesting Conversation with Daron Acemoglu",
@@ -939,18 +963,6 @@
       "articleId": "29ee0bc4e7ecff3e"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/democrats-should-seize-the-chance",
-      "title": "Democrats should seize the chance to end the filibuster",
-      "url": "https://www.slowboring.com/p/democrats-should-seize-the-chance",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A national voter ID law is nothing to fear.",
-      "publishedAt": "2026-08-03T10:03:50.000Z",
-      "articleId": "f0cf23b2bc9eb291"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
       "title": "Meta Earnings, Meta’s Timing Problems, The Financial Tail",
       "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
@@ -982,18 +994,6 @@
       "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
       "publishedAt": "2026-08-03T01:10:29.000Z",
       "articleId": "8874668ee2942e06"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-506",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-506",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-02T17:00:30.000Z",
-      "articleId": "2bf4f120257acce7"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
@@ -1789,20 +1789,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-storm-chances-come-and-go-this-week-before-a-nice-saturday/",
-    "title": "DC-area forecast: Scattered showers tonight, mostly dry but hot on Thursday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-storm-chances-come-and-go-this-week-before-a-nice-saturday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-standard-summertime-weather-with-increased-storm-odds-friday/",
+    "title": "DC-area forecast: Standard summertime weather, with increased storm odds Friday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-standard-summertime-weather-with-increased-storm-odds-friday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures fall back into the 70s a little after sunset. Scattered showers are possible between 8 p.m. and midnight. Lows range from the upper 60s to low 70s.",
-    "publishedAt": "2026-08-12T09:00:51.000Z",
+    "summary": "HAPPENING NOW: Lots of sun today. Temperatures reach near or past 80 by midmorning, on the way to somewhat above-average highs near 90 in many spots.",
+    "publishedAt": "2026-08-13T09:00:32.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Humidity is somewhat tolerable, storm chances aren't too high, and highs shouldn't get much past 90 (if that). Kind of a win for mid-August!",
-    "articleId": "aae8bfa9dce8d377"
+    "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
+    "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T08:40:10.994Z",
+  "weatherGeneratedAt": "2026-08-13T10:19:08.694Z",
   "weatherError": null,
   "sources": [
     {
@@ -1816,10 +1816,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
