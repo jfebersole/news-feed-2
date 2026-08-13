@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T11:55:49.476Z",
-  "fetchedAt": "2026-08-13T11:55:49.473Z",
+  "generatedAt": "2026-08-13T13:39:39.772Z",
+  "fetchedAt": "2026-08-13T13:39:39.769Z",
   "sourceCount": 23,
-  "itemCount": 160,
+  "itemCount": 159,
   "totalItemCount": 784,
   "items": [
     {
@@ -1786,17 +1786,6 @@
       "summary": "The center-left offers an alternative to both the left and the Democratic “establishment.” But it’s losing influence — and struggling to define itself.",
       "publishedAt": "2026-07-14T15:17:00.000Z",
       "articleId": "dbba72997551cb58"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/hip-hop-groups-an-album-a-day",
-      "title": "Hip-Hop Groups: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/hip-hop-groups-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Geto Boys, Three 6 Mafia, Boogie Down Productions, and others",
-      "publishedAt": "2026-07-14T13:31:54.000Z",
-      "articleId": "70c0314e698c30e1"
     }
   ],
   "weather": {
@@ -1813,7 +1802,7 @@
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
     "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T11:55:49.476Z",
+  "weatherGeneratedAt": "2026-08-13T13:39:39.772Z",
   "weatherError": null,
   "sources": [
     {
