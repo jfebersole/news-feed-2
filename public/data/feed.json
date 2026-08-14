@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-14T13:35:29.843Z",
-  "fetchedAt": "2026-08-14T13:35:29.837Z",
+  "generatedAt": "2026-08-14T15:04:45.945Z",
+  "fetchedAt": "2026-08-14T15:04:45.940Z",
   "sourceCount": 23,
   "itemCount": 163,
-  "totalItemCount": 784,
+  "totalItemCount": 774,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
+      "title": "Why rich countries treat animals better",
+      "url": "https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "What smog, deforestation, and child labor tell us about the future of animal suffering",
+      "publishedAt": "2026-08-14T13:35:08.000Z",
+      "articleId": "931e78248fabcfde"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
       "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
@@ -1818,17 +1829,6 @@
       "summary": "Something is wrong if vice is all on their side and virtue is all on yours.",
       "publishedAt": "2026-07-15T21:29:04.000Z",
       "articleId": "6bcbf5f4cfe4a875"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/why-is-fable-a-keynesian",
-      "title": "Why is Fable a Keynesian?",
-      "url": "https://scottsumner.substack.com/p/why-is-fable-a-keynesian",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "And where does IS-LM come from?",
-      "publishedAt": "2026-07-15T13:51:41.000Z",
-      "articleId": "e9cef8a897fa1860"
     }
   ],
   "weather": {
@@ -1838,16 +1838,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds are more numerous today, with a few passing showers or storms possible. Humid highs mainly within a few degrees of 85.",
+    "summary": "HAPPENING NOW: Mostly cloudy today with a stray shower through the morning hours. Some scattered showers this afternoon could have a pocket or two of thunder mixed in. Humid highs mainly within a few degrees of 85.",
     "publishedAt": "2026-08-14T09:00:16.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
-    "articleId": "cfc45ddcffa5ac8d",
-    "stale": true
+    "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T13:35:29.843Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-14T15:04:45.945Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1860,10 +1859,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1996,10 +1995,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
