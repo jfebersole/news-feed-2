@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T19:09:39.340Z",
-  "fetchedAt": "2026-08-14T19:09:39.336Z",
+  "generatedAt": "2026-08-14T20:41:18.202Z",
+  "fetchedAt": "2026-08-14T20:41:18.197Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 783,
@@ -1837,14 +1837,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy today with scattered showers this afternoon. Humid highs mainly within a few degrees of 85.",
+    "summary": "HAPPENING NOW: A few isolated showers remain possible into this evening as temperatures drop back into the 70s. Lows tonight in the upper 60s to low 70s.",
     "publishedAt": "2026-08-14T09:00:16.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T19:09:39.340Z",
+  "weatherGeneratedAt": "2026-08-14T20:41:18.202Z",
   "weatherError": null,
   "sources": [
     {
