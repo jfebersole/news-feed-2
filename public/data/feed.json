@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T06:38:58.132Z",
-  "fetchedAt": "2026-08-14T06:38:58.127Z",
+  "generatedAt": "2026-08-14T08:34:37.507Z",
+  "fetchedAt": "2026-08-14T08:34:37.504Z",
   "sourceCount": 23,
-  "itemCount": 161,
+  "itemCount": 160,
   "totalItemCount": 773,
   "items": [
     {
@@ -1797,17 +1797,6 @@
       "summary": "And where does IS-LM come from?",
       "publishedAt": "2026-07-15T13:51:41.000Z",
       "articleId": "e9cef8a897fa1860"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
-      "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
-      "url": "https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "I'd like to know exactly what the actions are.",
-      "publishedAt": "2026-07-15T08:19:54.000Z",
-      "articleId": "8517986ed3f56d5e"
     }
   ],
   "weather": {
@@ -1824,7 +1813,7 @@
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
     "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-14T06:38:58.132Z",
+  "weatherGeneratedAt": "2026-08-14T08:34:37.507Z",
   "weatherError": null,
   "sources": [
     {
