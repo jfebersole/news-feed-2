@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-14T11:53:21.949Z",
-  "fetchedAt": "2026-08-14T11:53:21.946Z",
+  "generatedAt": "2026-08-14T13:35:29.843Z",
+  "fetchedAt": "2026-08-14T13:35:29.837Z",
   "sourceCount": 23,
-  "itemCount": 162,
+  "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "This is the second installment of my look under the hood of the recently passed 21st Century ROAD to Housing Act, looking at what each provision actually does and trying to suss out its actual impact on housing supply.",
+      "publishedAt": "2026-08-14T12:03:37.000Z",
+      "articleId": "6eb9ad1f598f164c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html?utm_source=rss&utm_medium=rss&utm_campaign=regulated-markets-are-slow-to-handle-change",
       "title": "Regulated Markets Are Slow to Handle Change",
@@ -1832,10 +1843,11 @@
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
-    "articleId": "cfc45ddcffa5ac8d"
+    "articleId": "cfc45ddcffa5ac8d",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-14T11:53:21.949Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-14T13:35:29.843Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
