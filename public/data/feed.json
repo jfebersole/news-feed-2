@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-14T21:36:39.440Z",
-  "fetchedAt": "2026-08-14T21:36:39.435Z",
+  "generatedAt": "2026-08-14T22:36:20.369Z",
+  "fetchedAt": "2026-08-14T22:36:20.364Z",
   "sourceCount": 23,
-  "itemCount": 162,
-  "totalItemCount": 773,
+  "itemCount": 164,
+  "totalItemCount": 775,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
+      "title": "Your Book Review: The Escape Artist",
+      "url": "https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #5 in the Book Review Contest",
+      "publishedAt": "2026-08-14T22:21:13.000Z",
+      "articleId": "b7e566c21a7a737a"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-is-college-worth",
+      "title": "What is college worth?",
+      "url": "https://www.slowboring.com/p/what-is-college-worth",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "An enrollment cliff combined with high sticker prices no one is paying has some private colleges rethinking their tuition.",
+      "publishedAt": "2026-08-14T22:01:12.000Z",
+      "articleId": "742660ab9d95621c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-585",
       "title": "Friday assorted links",
@@ -1833,7 +1856,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T21:36:39.440Z",
+  "weatherGeneratedAt": "2026-08-14T22:36:20.369Z",
   "weatherError": null,
   "sources": [
     {
@@ -1856,7 +1879,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1936,7 +1959,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
