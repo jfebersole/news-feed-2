@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-14T16:03:49.811Z",
-  "fetchedAt": "2026-08-14T16:03:49.807Z",
+  "generatedAt": "2026-08-14T17:07:43.255Z",
+  "fetchedAt": "2026-08-14T17:07:43.252Z",
   "sourceCount": 23,
-  "itemCount": 163,
-  "totalItemCount": 784,
+  "itemCount": 162,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-capex-train-keeps-rolling/",
+      "title": "2026.33: The CapEx Train Keeps Rolling",
+      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
+      "publishedAt": "2026-08-14T17:00:00.000Z",
+      "articleId": "649091a37448b67a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html?utm_source=rss&utm_medium=rss&utm_campaign=shooting-fish-in-a-barrel",
       "title": "Adding to the barrel of finance fallacies",
@@ -539,18 +550,6 @@
       "summary": "Nvidia is finding new ways for its customers to raise money, and it's expanding the risk of the AI buildout significantly.",
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "articleId": "bc5a28692c2f5201"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/don-nelsons-mavericks-were-the-greatest",
-      "title": "Don Nelson's Mavericks Were the Greatest Offense in NBA History",
-      "url": "https://neilpaine.substack.com/p/don-nelsons-mavericks-were-the-greatest",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Armed with Dirk Nowitzki, Steve Nash and Michael Finley, the late, great coach led teams so far ahead of their era that nobody has ever matched their relative dominance.",
-      "publishedAt": "2026-08-11T09:00:38.000Z",
-      "articleId": "9284f78053614756"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
@@ -1674,17 +1673,6 @@
       "articleId": "bfde6ea1fb26a15d"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
-      "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
-      "url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Netflix's earnings were fine, and befitting a mature company whose most exciting days are likely behind them.",
-      "publishedAt": "2026-07-21T10:00:00.000Z",
-      "articleId": "ec177329c562e7d1"
-    },
-    {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
       "title": "Aah, the Machinations of Life",
       "url": "https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
@@ -1845,7 +1833,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T16:03:49.811Z",
+  "weatherGeneratedAt": "2026-08-14T17:07:43.255Z",
   "weatherError": null,
   "sources": [
     {
@@ -1924,7 +1912,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 5,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
