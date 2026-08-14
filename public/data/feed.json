@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-08-14T15:04:45.945Z",
-  "fetchedAt": "2026-08-14T15:04:45.940Z",
+  "generatedAt": "2026-08-14T16:03:49.811Z",
+  "fetchedAt": "2026-08-14T16:03:49.807Z",
   "sourceCount": 23,
   "itemCount": 163,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
     {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html?utm_source=rss&utm_medium=rss&utm_campaign=shooting-fish-in-a-barrel",
+      "title": "Adding to the barrel of finance fallacies",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "“I should note also that many (most? almost all?) of the bad scenarios have intermediate points of great worry and catastrophe” Not on my model. By the time any humans start worrying about a takeover or dying, AIs already control all infrastructure That is from Twitter, and I hear or read that argument often. It […]",
+      "publishedAt": "2026-08-14T15:40:53.000Z",
+      "articleId": "a23fbcf4420bd252"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
-      "title": "Why rich countries treat animals better",
+      "title": "Will factory farming fix itself?",
       "url": "https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -506,17 +517,6 @@
       "summary": "Featuring Queen, Bob Dylan, Lorde, and others",
       "publishedAt": "2026-08-11T13:30:50.000Z",
       "articleId": "1d77d94a63828422"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html?utm_source=rss&utm_medium=rss&utm_campaign=impedimenta-developerum",
-      "title": "Impedimenta Developerum!",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/impedimenta-developerum.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "NME: Harry Potter fans have succeeded in moving a construction project that would have originally gone through the “grave” of the character Dobby. The 125-mile Greenlink power connector, which costs £430million, is intended to link power between the UK’s National Grid and Ireland, running between County Wexford and Freshwater West in Pembrokeshire. However, the latter […]",
-      "publishedAt": "2026-08-11T11:20:05.000Z",
-      "articleId": "3c0e27cc74c931e2"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-20-burrito-tearing-the-republican",
@@ -1845,7 +1845,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T15:04:45.945Z",
+  "weatherGeneratedAt": "2026-08-14T16:03:49.811Z",
   "weatherError": null,
   "sources": [
     {
@@ -1859,10 +1859,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1995,10 +1995,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
