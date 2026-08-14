@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-14T08:34:37.507Z",
-  "fetchedAt": "2026-08-14T08:34:37.504Z",
+  "generatedAt": "2026-08-14T10:13:57.544Z",
+  "fetchedAt": "2026-08-14T10:13:57.541Z",
   "sourceCount": 23,
-  "itemCount": 160,
-  "totalItemCount": 773,
+  "itemCount": 162,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
+      "title": "History often hinges on boring technical questions",
+      "url": "https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus the Silicon Valley canon and the case for YIMBYing beloved vacation destinations",
+      "publishedAt": "2026-08-14T10:03:19.000Z",
+      "articleId": "471eb6260c1df841"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
+      "title": "Which 10 Giants players have the most to gain — and lose — in the preseason opener?",
+      "url": "https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Odell Beckham Jr. doesn't play special teams, so he needs to show enough value as a receiver to earn a spot on the 53-man roster.",
+      "publishedAt": "2026-08-14T09:30:06.000Z",
+      "articleId": "a01330d46655eab1"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-milwaukee-brewers-really",
+      "title": "Are the Milwaukee Brewers Really Feasting on Bad Pitchers?",
+      "url": "https://neilpaine.substack.com/p/are-the-milwaukee-brewers-really",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "And would it matter in the playoffs, even if they were?",
+      "publishedAt": "2026-08-14T09:02:05.000Z",
+      "articleId": "226bfa1f9b27ef21"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-a-shrinking-world",
       "title": "The Economics of a Shrinking World",
@@ -951,18 +984,6 @@
       "articleId": "e2f214dc91275753"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/mamdanis-not-the-first-to-try-to",
-      "title": "Mamdani’s not the first to try to bring cheap groceries to N.Y.C.",
-      "url": "https://www.slowboring.com/p/mamdanis-not-the-first-to-try-to",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Walmart versus the stationary bandits",
-      "publishedAt": "2026-08-04T10:02:35.000Z",
-      "articleId": "bed4d0f964308e0c"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
       "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
       "url": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
@@ -1800,20 +1821,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-standard-summertime-weather-with-increased-storm-odds-friday/",
-    "title": "DC-area forecast: Scattered showers possible Friday before a nice Saturday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-standard-summertime-weather-with-increased-storm-odds-friday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-chance-of-showers-today-then-a-good-looking-saturday/",
+    "title": "DC-area forecast: Chance of showers today then a good-looking Saturday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-chance-of-showers-today-then-a-good-looking-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures fall back through the 80s. Humidity trends higher again later this evening and overnight with lows around 70 to 75.",
-    "publishedAt": "2026-08-13T09:00:32.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
-    "articleId": "f89cf5c5865a6888"
+    "summary": "HAPPENING NOW: Clouds are more numerous today, with a few passing showers or storms possible. Humid highs mainly within a few degrees of 85.",
+    "publishedAt": "2026-08-14T09:00:16.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
+    "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T08:34:37.507Z",
+  "weatherGeneratedAt": "2026-08-14T10:13:57.544Z",
   "weatherError": null,
   "sources": [
     {
@@ -1827,10 +1848,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -1892,7 +1913,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 5,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
