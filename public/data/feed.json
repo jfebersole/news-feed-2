@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T20:41:18.202Z",
-  "fetchedAt": "2026-08-14T20:41:18.197Z",
+  "generatedAt": "2026-08-14T21:36:39.440Z",
+  "fetchedAt": "2026-08-14T21:36:39.435Z",
   "sourceCount": 23,
-  "itemCount": 163,
-  "totalItemCount": 783,
+  "itemCount": 162,
+  "totalItemCount": 773,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-585",
@@ -1817,22 +1817,11 @@
       "summary": "An enormous amount of ink has been spilled (some of it by me) on the trials and tribulations of complying with the National Environmental Policy Act, better known as NEPA.",
       "publishedAt": "2026-07-16T12:03:18.000Z",
       "articleId": "1b443d5bf6f799fe"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
-      "title": "Trump’s Corruption Stains, From Texas to Maine",
-      "url": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Something is wrong if vice is all on their side and virtue is all on yours.",
-      "publishedAt": "2026-07-15T21:29:04.000Z",
-      "articleId": "6bcbf5f4cfe4a875"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-chance-of-showers-today-then-a-good-looking-saturday/",
-    "title": "DC-area forecast: Chance of showers today then a good-looking Saturday",
+    "title": "DC-area forecast: A few evening showers possible. Saturday looks nicer than Sunday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-chance-of-showers-today-then-a-good-looking-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
@@ -1844,7 +1833,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T20:41:18.202Z",
+  "weatherGeneratedAt": "2026-08-14T21:36:39.440Z",
   "weatherError": null,
   "sources": [
     {
@@ -1858,10 +1847,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
