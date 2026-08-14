@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-14T10:13:57.544Z",
-  "fetchedAt": "2026-08-14T10:13:57.541Z",
+  "generatedAt": "2026-08-14T11:53:21.949Z",
+  "fetchedAt": "2026-08-14T11:53:21.946Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html?utm_source=rss&utm_medium=rss&utm_campaign=regulated-markets-are-slow-to-handle-change",
+      "title": "Regulated Markets Are Slow to Handle Change",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Gowrisankaran, Langer and Reguant have an excellent paper, Energy Transitions in Regulated Markets (WP), in the latest AER. The basic idea is that regulation designed to prevent utilities from building useless power plants can induce them to keep obsolete power plants. Some background. We regulated electric utilities under the theory that they were natural monopolies […]",
+      "publishedAt": "2026-08-14T11:20:34.000Z",
+      "articleId": "074b9af291efc237"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
       "title": "History often hinges on boring technical questions",
@@ -529,17 +540,6 @@
       "summary": "Some of my colleagues have been led into an intellectual cul-de-sac.",
       "publishedAt": "2026-08-11T08:01:13.000Z",
       "articleId": "a22429960383f08b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html?utm_source=rss&utm_medium=rss&utm_campaign=how-well-does-ai-peer-review-work",
-      "title": "How well does AI peer review work?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Claude and I planted 100 known errors into 10 open-access psychology papers and then ran them through frontier models and two commercial AI review tools. In brief: The best single system caught 71 of 100 errors, while the worst caught 30. Pooling every system’s output caught 93 of 100. Models are only partly correlated in […]",
-      "publishedAt": "2026-08-11T06:57:16.000Z",
-      "articleId": "94b6b94df149c0df"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-left-is-winning-primaries-can",
@@ -1834,7 +1834,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T10:13:57.544Z",
+  "weatherGeneratedAt": "2026-08-14T11:53:21.949Z",
   "weatherError": null,
   "sources": [
     {
