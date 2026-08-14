@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-14T04:57:38.821Z",
-  "fetchedAt": "2026-08-14T04:57:38.816Z",
+  "generatedAt": "2026-08-14T06:38:58.132Z",
+  "fetchedAt": "2026-08-14T06:38:58.127Z",
   "sourceCount": 23,
   "itemCount": 161,
-  "totalItemCount": 783,
+  "totalItemCount": 773,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-a-shrinking-world",
+      "title": "The Economics of a Shrinking World",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Jesus Fernandez-Villaverde and Patrick Norrick: As of 2026, humanity is likely below replacement fertility. That has never happened before, not in wars or pandemics. But the real surprise is that the fall has been concentrated in low- and middle-income countries and among poorer and less educated women. We fit a single-factor model to 236 […]",
+      "publishedAt": "2026-08-14T06:14:58.000Z",
+      "articleId": "2dfadc8133e7c465"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=intergenerational-mobility-of-immigrants-in-15-destination-countries",
+      "title": "Intergenerational mobility of immigrants in 15 destination countries",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We estimate intergenerational mobility of children of immigrants in fifteen receiving countries. Children of immigrants have somewhat lower income than children of local-born parents. Around half of this gap can be explained by differences in parental income, with the remainder due to differences in mobility parameters. The daughters of immigrants enjoy higher absolute mobility than […]",
+      "publishedAt": "2026-08-14T05:03:22.000Z",
+      "articleId": "1daf6754bdda3923"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
       "title": "23 low-regret recommendations for AI policy",
@@ -487,17 +509,6 @@
       "articleId": "94b6b94df149c0df"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html?utm_source=rss&utm_medium=rss&utm_campaign=who-enters-congress",
-      "title": "Who enters Congress?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/who-enters-congress.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We trace the family origins of Members of Congress (MC) born between 1830 and 1950, linking each MC, their parents, and their brothers to the complete-count censuses. Future MCs have always been economic outliers. By 1940, close to 60 percent of MCs aged 18–40 held a college degree, against under 5 percent of comparable young […]",
-      "publishedAt": "2026-08-11T04:30:48.000Z",
-      "articleId": "ffa638b80339e2a3"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-left-is-winning-primaries-can",
       "title": "The left is winning primaries. Can it win general elections?",
       "url": "https://www.slowboring.com/p/the-left-is-winning-primaries-can",
@@ -508,17 +519,6 @@
       "summary": "Progressive candidates came out on top in Michigan and Tennessee but fell short in Missouri. Will they keep up the pace tomorrow?",
       "publishedAt": "2026-08-10T22:00:43.000Z",
       "articleId": "cff58d30f0084335"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html?utm_source=rss&utm_medium=rss&utm_campaign=brian-chau-at-work",
-      "title": "Brian Chau at work",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I am automating investigative journalism at http://Effort.News We’re breaking five stories today based on verifiable financial data which everyone missed for years. Here is the entire thread, which also describes the five stories.",
-      "publishedAt": "2026-08-10T17:43:59.000Z",
-      "articleId": "9686b5cebcd616f8"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
@@ -1824,7 +1824,7 @@
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
     "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-14T04:57:38.821Z",
+  "weatherGeneratedAt": "2026-08-14T06:38:58.132Z",
   "weatherError": null,
   "sources": [
     {
@@ -1838,10 +1838,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
