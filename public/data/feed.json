@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-13T23:54:02.522Z",
-  "fetchedAt": "2026-08-13T23:54:02.517Z",
+  "generatedAt": "2026-08-14T02:40:26.665Z",
+  "fetchedAt": "2026-08-14T02:40:26.661Z",
   "sourceCount": 23,
-  "itemCount": 160,
-  "totalItemCount": 773,
+  "itemCount": 161,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+      "title": "23 low-regret recommendations for AI policy",
+      "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A guest post by Tim Fist and Saif Khan, with Tao Burga, Arthur Tellis, Ben Schifman, Jonah Weinbaum, and Olivia Scharfman",
+      "publishedAt": "2026-08-14T01:39:37.000Z",
+      "articleId": "bb0cf09e7fa58c9f"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
+      "title": "The Foothills Of Bay Area House Party",
+      "url": "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-13T23:54:32.000Z",
+      "articleId": "777c7437addc4b53"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7511520/2026/08/13/new-york-giants-terrion-arnold-cornerback/",
       "title": "Why the Giants are showing serious interest in Terrion Arnold",
@@ -1700,17 +1722,6 @@
       "articleId": "8fad9dc8a4e4347a"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-great-and-desperate",
-      "title": "Your Book Review: Great And Desperate Cures",
-      "url": "https://www.astralcodexten.com/p/your-book-review-great-and-desperate",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #2 in the Book Review Contest",
-      "publishedAt": "2026-07-17T15:22:53.000Z",
-      "articleId": "c0d8b4fed2186233"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
       "title": "Permanent Daylight Saving Time Is the Perfect Stupid Idea for Our Stupid Time",
       "url": "https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
@@ -1813,7 +1824,7 @@
     "dailyDigitSummary": "Sun rules but it's also hotter than it should be which isn't fun by mid-August.",
     "articleId": "f89cf5c5865a6888"
   },
-  "weatherGeneratedAt": "2026-08-13T23:54:02.522Z",
+  "weatherGeneratedAt": "2026-08-14T02:40:26.665Z",
   "weatherError": null,
   "sources": [
     {
@@ -1827,10 +1838,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
