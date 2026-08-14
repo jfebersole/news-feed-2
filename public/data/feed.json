@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T22:36:20.369Z",
-  "fetchedAt": "2026-08-14T22:36:20.364Z",
+  "generatedAt": "2026-08-14T23:32:33.421Z",
+  "fetchedAt": "2026-08-14T23:32:33.417Z",
   "sourceCount": 23,
   "itemCount": 164,
-  "totalItemCount": 775,
+  "totalItemCount": 785,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
@@ -1856,7 +1856,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-14T22:36:20.369Z",
+  "weatherGeneratedAt": "2026-08-14T23:32:33.421Z",
   "weatherError": null,
   "sources": [
     {
@@ -1870,10 +1870,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
