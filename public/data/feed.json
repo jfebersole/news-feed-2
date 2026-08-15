@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-15T15:32:08.713Z",
-  "fetchedAt": "2026-08-15T15:32:08.708Z",
+  "generatedAt": "2026-08-15T16:36:50.237Z",
+  "fetchedAt": "2026-08-15T16:36:50.233Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 786,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-574",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Speculative Chinese claims about Alzheimer’s. 2. Very interesting Anthropic piece on why multi-agentic systems seem to show more herd behavior and collusion than human systems. And a comment from Rune Kvist. 3. Cross-cultural data on masculinity. 4. The Griers on the performance of Modi relative to synthetic controls. 5. Which federal datasets have been […]",
+      "publishedAt": "2026-08-15T15:42:49.000Z",
+      "articleId": "45dcf687ebc78867"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08152026",
       "title": "Reading List — 08/15/2026",
@@ -518,17 +529,6 @@
       "summary": "The MAGA decline; The labor share decline; OPTs and American jobs; AI and Indian outsourcing; Drug users; AI and productivity; Botswana; Interracial Marriage; AI writing",
       "publishedAt": "2026-08-12T08:27:04.000Z",
       "articleId": "9bb49da5b9486be4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
-      "title": "What makes people happy?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically sensitive to provide indirect evidence about politically sensitive attitudes. Using subjective well-being (SWB), we ask whether […]",
-      "publishedAt": "2026-08-12T06:51:30.000Z",
-      "articleId": "e1414f2068c130e8"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/john-cochrane-on-monetarism",
@@ -1868,7 +1868,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T15:32:08.713Z",
+  "weatherGeneratedAt": "2026-08-15T16:36:50.237Z",
   "weatherError": null,
   "sources": [
     {
