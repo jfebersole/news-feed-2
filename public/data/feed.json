@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-15T17:32:22.893Z",
-  "fetchedAt": "2026-08-15T17:32:22.890Z",
+  "generatedAt": "2026-08-15T18:44:07.998Z",
+  "fetchedAt": "2026-08-15T18:44:07.995Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/adolfo-bioy-cesares-delay.html?utm_source=rss&utm_medium=rss&utm_campaign=adolfo-bioy-cesares-delay",
+      "title": "Adolfo Bioy Cesares delay",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/adolfo-bioy-cesares-delay.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My Amazon shipment is postponed from this fall until April 11, 2028 (!). Will it ever come? Of course this is the fantastic, and long, Bioy Cesares book Borges, his memoir of their friendship. How can the reoptimization both be so distant and so exact in timing?",
+      "publishedAt": "2026-08-15T18:33:45.000Z",
+      "articleId": "100ee496e8d84f23"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-7-key-senate-races",
+      "title": "A tour of the 7 key Senate races",
+      "url": "https://www.natesilver.net/p/a-tour-of-the-7-key-senate-races",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "There’s a 71 percent chance this is where control of the chamber is decided.",
+      "publishedAt": "2026-08-15T18:04:42.000Z",
+      "articleId": "7399668e6add6b8e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-574",
       "title": "Saturday assorted links",
@@ -462,17 +485,6 @@
       "summary": "1. The cheese collateral in Italian banks is melting. 2. Denmark fact of the day: “…half of Denmark’s growth has been due to essentially one company” 3. “Foreign travel now makes up 1.4% of the US consumer spending budget. By contrast, imported Chinese goods make up about 3% of US domestic expenditures.” 4. Noah is […]",
       "publishedAt": "2026-08-12T16:12:03.000Z",
       "articleId": "7d7111d3426c018b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=fast-company-covers-new-aesthetics",
-      "title": "Fast Company covers New Aesthetics",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/fast-company-covers-new-aesthetics.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A good piece, it is good to see the artists themselves front and center of the story.",
-      "publishedAt": "2026-08-12T13:19:06.000Z",
-      "articleId": "ae9af6d8bb877bde"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/future-of-medicine",
@@ -1819,17 +1831,6 @@
       "summary": "A timely repost.",
       "publishedAt": "2026-07-17T03:52:55.000Z",
       "articleId": "089a531b578a0858"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/can-the-establishment-stop-abdul",
-      "title": "Can the establishment stop Abdul El-Sayed?",
-      "url": "https://www.natesilver.net/p/can-the-establishment-stop-abdul",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Haley Stevens has rebounded since Mallory McMorrow dropped out. But polls of both the Michigan primary and the general election don't tell a consistent story.",
-      "publishedAt": "2026-07-16T18:31:35.000Z",
-      "articleId": "1a9bb1c18627fdef"
     }
   ],
   "weather": {
@@ -1846,7 +1847,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T17:32:22.893Z",
+  "weatherGeneratedAt": "2026-08-15T18:44:07.998Z",
   "weatherError": null,
   "sources": [
     {
