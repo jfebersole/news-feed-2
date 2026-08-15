@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-15T11:31:14.585Z",
-  "fetchedAt": "2026-08-15T11:31:14.580Z",
+  "generatedAt": "2026-08-15T12:55:50.097Z",
+  "fetchedAt": "2026-08-15T12:55:50.092Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 785,
+  "itemCount": 165,
+  "totalItemCount": 786,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08152026",
+      "title": "Reading List — 08/15/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-08152026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Home price declines, the Strategic Petroleum Reserve, The Boring Company fundraising, and more.",
+      "publishedAt": "2026-08-15T12:02:38.000Z",
+      "articleId": "19c6f88a615d561f"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-10-14-2026",
+      "title": "The Week That Was (August 10-14, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-10-14-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-08-15T09:01:28.000Z",
+      "articleId": "53d22600c07c9198"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=a-conservative-case-for-liberal-immigration",
       "title": "A Conservative Case for Liberal Immigration",
@@ -1829,17 +1852,6 @@
       "summary": "Gen Z 🤝 Baby Boomers",
       "publishedAt": "2026-07-16T17:31:20.000Z",
       "articleId": "294f77d6f1e17f5b"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/how-predictable-are-laws",
-      "title": "How Predictable Are Laws?",
-      "url": "https://www.construction-physics.com/p/how-predictable-are-laws",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "An enormous amount of ink has been spilled (some of it by me) on the trials and tribulations of complying with the National Environmental Policy Act, better known as NEPA.",
-      "publishedAt": "2026-07-16T12:03:18.000Z",
-      "articleId": "1b443d5bf6f799fe"
     }
   ],
   "weather": {
@@ -1856,7 +1868,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T11:31:14.585Z",
+  "weatherGeneratedAt": "2026-08-15T12:55:50.097Z",
   "weatherError": null,
   "sources": [
     {
@@ -1935,7 +1947,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 5,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
