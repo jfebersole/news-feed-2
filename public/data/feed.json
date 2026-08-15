@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T08:42:12.822Z",
-  "fetchedAt": "2026-08-15T08:42:12.817Z",
+  "generatedAt": "2026-08-15T09:36:14.002Z",
+  "fetchedAt": "2026-08-15T09:36:13.999Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
@@ -1843,20 +1843,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-chance-of-showers-today-then-a-good-looking-saturday/",
-    "title": "DC-area forecast: A few evening showers possible. Saturday looks nicer than Sunday.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-chance-of-showers-today-then-a-good-looking-saturday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
+    "title": "DC-area forecast: A nice start to the weekend, before storms return Sunday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A few isolated showers remain possible into this evening as temperatures drop back into the 70s. Lows tonight in the upper 60s to low 70s.",
-    "publishedAt": "2026-08-14T09:00:16.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
-    "articleId": "cfc45ddcffa5ac8d"
+    "summary": "HAPPENING NOW: Plenty of sunshine today with highs climbing into the mid- to upper 80s. There's a touch of humidity, but nothing out of the ordinary for mid-August.",
+    "publishedAt": "2026-08-15T09:00:18.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
+    "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T08:42:12.822Z",
+  "weatherGeneratedAt": "2026-08-15T09:36:14.002Z",
   "weatherError": null,
   "sources": [
     {
