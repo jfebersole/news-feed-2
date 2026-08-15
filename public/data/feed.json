@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-15T20:34:50.812Z",
-  "fetchedAt": "2026-08-15T20:34:50.807Z",
+  "generatedAt": "2026-08-15T21:32:07.846Z",
+  "fetchedAt": "2026-08-15T21:32:07.841Z",
   "sourceCount": 23,
-  "itemCount": 163,
+  "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7515541/2026/08/15/new-york-giants-quarterback-jaxson-dart-concussion-vikings-preseason/",
+      "title": "Giants QB Jaxson Dart 'puzzled' by why he was evaluated for concussion vs. Vikings",
+      "url": "https://www.nytimes.com/athletic/7515541/2026/08/15/new-york-giants-quarterback-jaxson-dart-concussion-vikings-preseason/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "“I’m still puzzled by (how) it feels like every time I get hit I find my way (to the medical tent).\"",
+      "publishedAt": "2026-08-15T21:00:26.000Z",
+      "articleId": "dc15fb911d6ee1cd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/adolfo-bioy-cesares-delay.html?utm_source=rss&utm_medium=rss&utm_campaign=adolfo-bioy-cesares-delay",
       "title": "Adolfo Bioy Cesares delay",
@@ -1847,7 +1858,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T20:34:50.812Z",
+  "weatherGeneratedAt": "2026-08-15T21:32:07.846Z",
   "weatherError": null,
   "sources": [
     {
