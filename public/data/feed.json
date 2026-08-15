@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-15T04:43:02.690Z",
-  "fetchedAt": "2026-08-15T04:43:02.686Z",
+  "generatedAt": "2026-08-15T05:36:15.080Z",
+  "fetchedAt": "2026-08-15T05:36:15.074Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-60",
+      "title": "That was then, this is now",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I very much like the new Michael Khodarkovsky book The Steppe and its Empires: The Russian Empire & its Eurasian Counterparts. Excerpt: Russia presented the most remarkable contrast to both Eurasian and Western empires. The oower of Moscovite tsars and Russian emperors seemed to be completely unconstrained by moral or ethical boundaries. Whereas religious authorities […]",
+      "publishedAt": "2026-08-15T05:00:09.000Z",
+      "articleId": "c5d9e07f3e9f103e"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
       "title": "Your Book Review: The Escape Artist",
@@ -506,17 +517,6 @@
       "summary": "Plus a pushback against AI's unhealthy obsession with fiscal policy",
       "publishedAt": "2026-08-11T18:44:32.000Z",
       "articleId": "49a4c8cb92d7242c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise",
-      "title": "How much will cybersecurity costs rise?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is one (partial) estimate of the higher cyber costs. I am not sure how many incidents they have in mind, but this seems to me realistic as an estimate but also rather modest relative to the Angst I am seeing? Not quite “a Gilda Radner thing,” but if nothing else shows the usefulness of […]",
-      "publishedAt": "2026-08-11T18:31:06.000Z",
-      "articleId": "5aeb702c7cc6859e"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kmjd0bmockbx1zr5mw4y.html",
@@ -1856,7 +1856,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-15T04:43:02.690Z",
+  "weatherGeneratedAt": "2026-08-15T05:36:15.080Z",
   "weatherError": null,
   "sources": [
     {
