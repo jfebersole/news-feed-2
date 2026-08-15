@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-15T05:36:15.080Z",
-  "fetchedAt": "2026-08-15T05:36:15.074Z",
+  "generatedAt": "2026-08-15T06:54:37.422Z",
+  "fetchedAt": "2026-08-15T06:54:37.419Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=a-conservative-case-for-liberal-immigration",
+      "title": "A Conservative Case for Liberal Immigration",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the title of my latest Free Press piece, here is one excerpt: Or look at the AI revolution, another area where America is leading the world and also using its AI models to exert soft power. Dario Amodei of Anthropic has an Italian father, neural-network pioneer Geoffrey Hinton is originally from the U.K., […]",
+      "publishedAt": "2026-08-15T06:44:46.000Z",
+      "articleId": "a7aba1113a57aa87"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-60",
       "title": "That was then, this is now",
@@ -495,17 +506,6 @@
       "summary": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically sensitive to provide indirect evidence about politically sensitive attitudes. Using subjective well-being (SWB), we ask whether […]",
       "publishedAt": "2026-08-12T06:51:30.000Z",
       "articleId": "e1414f2068c130e8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html?utm_source=rss&utm_medium=rss&utm_campaign=immigrant-earnings-assimilation-1981-2021",
-      "title": "Immigrant Earnings Assimilation, 1981–2021",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In this paper, we characterize trends in the earnings assimilation of immigrant workers from 1981 to 2021. We use administrative longitudinal data that contain the earnings of workers beginning in their first year of residence in the United States and in each year thereafter, allowing us to identify immigrants who eventually leave the United States […]",
-      "publishedAt": "2026-08-12T04:42:23.000Z",
-      "articleId": "96dc73b489f908fe"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/john-cochrane-on-monetarism",
@@ -1856,7 +1856,7 @@
     "dailyDigitSummary": "Cloudier and mid-80s for highs, though a bit humid. We'll see how thunderstorms progress toward our area during the afternoon.",
     "articleId": "cfc45ddcffa5ac8d"
   },
-  "weatherGeneratedAt": "2026-08-15T05:36:15.080Z",
+  "weatherGeneratedAt": "2026-08-15T06:54:37.422Z",
   "weatherError": null,
   "sources": [
     {
