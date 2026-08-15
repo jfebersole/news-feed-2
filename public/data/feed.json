@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T19:30:00.650Z",
-  "fetchedAt": "2026-08-15T19:30:00.645Z",
+  "generatedAt": "2026-08-15T20:34:50.812Z",
+  "fetchedAt": "2026-08-15T20:34:50.807Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 785,
@@ -1835,19 +1835,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
-    "title": "DC-area forecast: A nice start to the weekend, before storms return Sunday",
+    "title": "DC-area forecast: Tranquil tonight. Sunday rounds of showers and downpours possible.",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Plenty of sunshine today with highs climbing into the mid- to upper 80s. There's a touch of humidity, but nothing out of the ordinary for mid-August.",
+    "summary": "HAPPENING NOW: Partly to mostly cloudy this evening as temperatures fall back to near 80. Lows dip near 70 to mid-70s.",
     "publishedAt": "2026-08-15T09:00:18.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T19:30:00.650Z",
+  "weatherGeneratedAt": "2026-08-15T20:34:50.812Z",
   "weatherError": null,
   "sources": [
     {
