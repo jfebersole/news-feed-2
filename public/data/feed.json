@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T21:31:39.705Z",
-  "fetchedAt": "2026-08-16T21:31:39.700Z",
+  "generatedAt": "2026-08-16T22:33:42.867Z",
+  "fetchedAt": "2026-08-16T22:33:42.864Z",
   "sourceCount": 23,
-  "itemCount": 163,
+  "itemCount": 164,
   "totalItemCount": 784,
   "items": [
     {
@@ -15,6 +15,17 @@
       "summary": "3. Exterior roller shutters (Rollladen) In much of Europe, homes feature heavy shutters integrated into the exterior of the window, enabling total blackout and better insulation. Sleeping in true, complete darkness—not “blackout curtain” darkness, but can’t-see-your-hand darkness—is an experience most Americans will never have. These shutters are nearly impossible to get in the USA because […]",
       "publishedAt": "2026-08-16T18:51:39.000Z",
       "articleId": "d8fd67770517bce9"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
+      "title": "Our monetary Rube Goldberg device",
+      "url": "https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Endogenous money isn't what you think it is",
+      "publishedAt": "2026-08-16T17:11:36.000Z",
+      "articleId": "008408987cb739b1"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-00a",
@@ -1848,7 +1859,7 @@
     "articleId": "d23371ad962a1596",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-16T21:31:39.705Z",
+  "weatherGeneratedAt": "2026-08-16T22:33:42.867Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
