@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-16T18:43:26.842Z",
-  "fetchedAt": "2026-08-16T18:43:26.837Z",
+  "generatedAt": "2026-08-16T19:29:59.690Z",
+  "fetchedAt": "2026-08-16T19:29:59.687Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/things-you-cannot-buy-in-america.html?utm_source=rss&utm_medium=rss&utm_campaign=things-you-cannot-buy-in-america",
+      "title": "Things you cannot buy in America?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/things-you-cannot-buy-in-america.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "3. Exterior roller shutters (Rollladen) In much of Europe, homes feature heavy shutters integrated into the exterior of the window, enabling total blackout and better insulation. Sleeping in true, complete darkness—not “blackout curtain” darkness, but can’t-see-your-hand darkness—is an experience most Americans will never have. These shutters are nearly impossible to get in the USA because […]",
+      "publishedAt": "2026-08-16T18:51:39.000Z",
+      "articleId": "d8fd67770517bce9"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-00a",
       "title": "Sunday Thread + Mailbag",
@@ -486,17 +497,6 @@
       "summary": "By simplifying the FedEx Cup, golf made its season-long championship easier to understand — and harder for the sport's best players to win.",
       "publishedAt": "2026-08-13T09:01:50.000Z",
       "articleId": "6540a2ee2c0e4096"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-daron-acemoglu",
-      "title": "My very interesting Conversation with Daron Acemoglu",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Daron Acemoglu returns for his second appearance with a new book, What Happened to Liberal Democracy?, which Tyler reads as an attempt to redefine and revitalize liberalism for our times. Where Daron’s first visit was about how states and societies contend for the narrow […]",
-      "publishedAt": "2026-08-13T05:31:43.000Z",
-      "articleId": "23833efb4fca2358"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
@@ -1847,7 +1847,7 @@
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-16T18:43:26.842Z",
+  "weatherGeneratedAt": "2026-08-16T19:29:59.690Z",
   "weatherError": null,
   "sources": [
     {
