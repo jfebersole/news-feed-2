@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-15T23:31:32.888Z",
-  "fetchedAt": "2026-08-15T23:31:32.884Z",
+  "generatedAt": "2026-08-16T01:54:38.494Z",
+  "fetchedAt": "2026-08-16T01:54:38.490Z",
   "sourceCount": 23,
-  "itemCount": 164,
+  "itemCount": 165,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7516003/2026/08/15/new-york-giants-jaxson-dart-vikings-concussion-medical-tent/",
+      "title": "The Jaxson Dart rollercoaster ride continues in Giants' eventful preseason opener",
+      "url": "https://www.nytimes.com/athletic/7516003/2026/08/15/new-york-giants-jaxson-dart-vikings-concussion-medical-tent/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Dart's 2026 preseason debut felt like an extension of his rollercoaster rookie year, complete with a visit to the sideline medical tent.",
+      "publishedAt": "2026-08-15T23:37:56.000Z",
+      "articleId": "baf0ca727a13679a"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7515541/2026/08/15/new-york-giants-quarterback-jaxson-dart-concussion-vikings-preseason/",
       "title": "Giants QB Jaxson Dart 'puzzled' by why he was evaluated for concussion vs. Vikings",
@@ -1858,7 +1869,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-15T23:31:32.888Z",
+  "weatherGeneratedAt": "2026-08-16T01:54:38.494Z",
   "weatherError": null,
   "sources": [
     {
