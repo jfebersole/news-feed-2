@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T07:41:22.990Z",
-  "fetchedAt": "2026-08-16T07:41:22.987Z",
+  "generatedAt": "2026-08-16T08:43:42.499Z",
+  "fetchedAt": "2026-08-16T08:43:42.494Z",
   "sourceCount": 23,
   "itemCount": 165,
-  "totalItemCount": 775,
+  "totalItemCount": 785,
   "items": [
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-an-era-for-chinas-economy",
@@ -1870,7 +1870,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-16T07:41:22.990Z",
+  "weatherGeneratedAt": "2026-08-16T08:43:42.499Z",
   "weatherError": null,
   "sources": [
     {
@@ -1884,10 +1884,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
