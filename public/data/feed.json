@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-16T16:37:56.811Z",
-  "fetchedAt": "2026-08-16T16:37:56.808Z",
+  "generatedAt": "2026-08-16T17:31:21.418Z",
+  "fetchedAt": "2026-08-16T17:31:21.413Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-00a",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-00a",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-08-16T17:03:15.000Z",
+      "articleId": "cf00a5e3598b308f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-580",
       "title": "Sunday assorted links",
@@ -974,18 +986,6 @@
       "articleId": "954805344f065bd1"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/theyve-had-it-up-to-here-with-the",
-      "title": "They’ve had it up to here with the NIMBYs",
-      "url": "https://www.slowboring.com/p/theyve-had-it-up-to-here-with-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "From Massachusetts to California to Texas, officials and investors are increasingly overcoming local resistance to build more housing.",
-      "publishedAt": "2026-08-05T22:01:33.000Z",
-      "articleId": "8ae26d00a58f301a"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
       "title": "Money Stuff: SpaceX Unlocks Tomorrow",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
@@ -1858,7 +1858,7 @@
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-16T16:37:56.811Z",
+  "weatherGeneratedAt": "2026-08-16T17:31:21.418Z",
   "weatherError": null,
   "sources": [
     {
