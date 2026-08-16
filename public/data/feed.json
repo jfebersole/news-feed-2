@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T08:43:42.499Z",
-  "fetchedAt": "2026-08-16T08:43:42.494Z",
+  "generatedAt": "2026-08-16T09:37:14.288Z",
+  "fetchedAt": "2026-08-16T09:37:14.283Z",
   "sourceCount": 23,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 785,
   "items": [
     {
@@ -1843,34 +1843,23 @@
       "summary": "A Q&A with Kori Schake on the Russia-Ukraine war.",
       "publishedAt": "2026-07-17T18:24:28.000Z",
       "articleId": "8fad9dc8a4e4347a"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
-      "title": "Permanent Daylight Saving Time Is the Perfect Stupid Idea for Our Stupid Time",
-      "url": "https://www.joshbarro.com/p/permanent-daylight-saving-time-is",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "Whiny people who don't know history are failing to acknowledge trade-offs. That's just how politics is now.",
-      "publishedAt": "2026-07-17T09:00:10.000Z",
-      "articleId": "1da43dc7804ae361"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
-    "title": "DC-area forecast: Tranquil tonight. Showers and downpours likely Sunday.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-showers-and-storms-today-and-tonight-nicer-by-midweek/",
+    "title": "DC-area forecast: Showers and storms today and tonight. Nicer by midweek.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-showers-and-storms-today-and-tonight-nicer-by-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy and becoming more humid tonight as lows dip near 70 to mid-70s.",
-    "publishedAt": "2026-08-15T09:00:18.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
-    "articleId": "7b1a42d585a2f665"
+    "summary": "HAPPENING NOW: Humid with scattered showers and downpours today. An isolated storm could produce damaging winds or a tornado this afternoon. Mostly cloudy skies hold highs to the upper 70s to low 80s.",
+    "publishedAt": "2026-08-16T09:00:54.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
+    "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-16T08:43:42.499Z",
+  "weatherGeneratedAt": "2026-08-16T09:37:14.288Z",
   "weatherError": null,
   "sources": [
     {
