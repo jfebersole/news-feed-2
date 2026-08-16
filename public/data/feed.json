@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T10:35:53.841Z",
-  "fetchedAt": "2026-08-16T10:35:53.836Z",
+  "generatedAt": "2026-08-16T11:31:43.247Z",
+  "fetchedAt": "2026-08-16T11:31:43.243Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
@@ -1859,7 +1859,7 @@
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-16T10:35:53.841Z",
+  "weatherGeneratedAt": "2026-08-16T11:31:43.247Z",
   "weatherError": null,
   "sources": [
     {
@@ -2009,10 +2009,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
