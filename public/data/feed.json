@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T14:35:24.897Z",
-  "fetchedAt": "2026-08-16T14:35:24.893Z",
+  "generatedAt": "2026-08-16T15:32:48.263Z",
+  "fetchedAt": "2026-08-16T15:32:48.260Z",
   "sourceCount": 23,
-  "itemCount": 165,
-  "totalItemCount": 785,
+  "itemCount": 164,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/breaking-records-on-tour-a-conversation",
@@ -563,18 +563,6 @@
       "summary": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
       "publishedAt": "2026-08-12T10:00:00.000Z",
       "articleId": "24bf7d735f5c4840"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/kevin-durant-should-own-his-warriors",
-      "title": "Kevin Durant Should Own His Warriors Era",
-      "url": "https://neilpaine.substack.com/p/kevin-durant-should-own-his-warriors",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Ever since he made it, KD has been running from the one move that will always define his legacy. He should just embrace it instead.",
-      "publishedAt": "2026-08-12T09:00:08.000Z",
-      "articleId": "3b89226c2a88eb36"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
@@ -1870,7 +1858,7 @@
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-16T14:35:24.897Z",
+  "weatherGeneratedAt": "2026-08-16T15:32:48.263Z",
   "weatherError": null,
   "sources": [
     {
@@ -1949,7 +1937,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 5,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
