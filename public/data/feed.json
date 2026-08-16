@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-16T06:56:10.818Z",
-  "fetchedAt": "2026-08-16T06:56:10.814Z",
+  "generatedAt": "2026-08-16T07:41:22.990Z",
+  "fetchedAt": "2026-08-16T07:41:22.987Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 785,
+  "itemCount": 165,
+  "totalItemCount": 775,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-an-era-for-chinas-economy",
+      "title": "The end of an era for China's economy",
+      "url": "https://www.noahpinion.blog/p/the-end-of-an-era-for-chinas-economy",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Zhu Rongji's formula won't work anymore. But that doesn't mean Xi Jinping's will work either.",
+      "publishedAt": "2026-08-16T07:26:51.000Z",
+      "articleId": "21fa293e94990c9f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/another-rationale-for-sticky-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=another-rationale-for-sticky-prices",
       "title": "Another rationale for sticky prices?",
@@ -1858,7 +1870,7 @@
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-16T06:56:10.818Z",
+  "weatherGeneratedAt": "2026-08-16T07:41:22.990Z",
   "weatherError": null,
   "sources": [
     {
@@ -1872,10 +1884,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
