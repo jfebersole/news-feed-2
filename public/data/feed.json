@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T20:34:37.113Z",
-  "fetchedAt": "2026-08-16T20:34:37.107Z",
+  "generatedAt": "2026-08-16T21:31:39.705Z",
+  "fetchedAt": "2026-08-16T21:31:39.700Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
@@ -1845,10 +1845,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
-    "articleId": "d23371ad962a1596"
+    "articleId": "d23371ad962a1596",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-16T20:34:37.113Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-16T21:31:39.705Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
