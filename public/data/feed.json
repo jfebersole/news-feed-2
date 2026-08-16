@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T01:54:38.494Z",
-  "fetchedAt": "2026-08-16T01:54:38.490Z",
+  "generatedAt": "2026-08-16T03:09:39.683Z",
+  "fetchedAt": "2026-08-16T03:09:39.680Z",
   "sourceCount": 23,
   "itemCount": 165,
-  "totalItemCount": 785,
+  "totalItemCount": 775,
   "items": [
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7516003/2026/08/15/new-york-giants-jaxson-dart-vikings-concussion-medical-tent/",
@@ -1857,19 +1857,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
-    "title": "DC-area forecast: Tranquil tonight. Sunday rounds of showers and downpours possible.",
+    "title": "DC-area forecast: Tranquil tonight. Showers and downpours likely Sunday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-nice-start-to-the-weekend-before-storms-return-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy this evening as temperatures fall back to near 80. Lows dip near 70 to mid-70s.",
+    "summary": "HAPPENING NOW: Partly to mostly cloudy and becoming more humid tonight as lows dip near 70 to mid-70s.",
     "publishedAt": "2026-08-15T09:00:18.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Pretty typical August conditions today. Mostly sunny with a touch of humidity, but overall a quiet summer day.",
     "articleId": "7b1a42d585a2f665"
   },
-  "weatherGeneratedAt": "2026-08-16T01:54:38.494Z",
+  "weatherGeneratedAt": "2026-08-16T03:09:39.683Z",
   "weatherError": null,
   "sources": [
     {
@@ -1883,10 +1883,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
