@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T11:35:55.946Z",
-  "fetchedAt": "2026-08-17T11:35:55.941Z",
+  "generatedAt": "2026-08-17T13:02:59.611Z",
+  "fetchedAt": "2026-08-17T13:02:59.607Z",
   "sourceCount": 23,
-  "itemCount": 164,
+  "itemCount": 163,
   "totalItemCount": 785,
   "items": [
     {
@@ -1829,18 +1829,6 @@
       "summary": "Spain is chasing a historic streak. Argentina is chasing back-to-back titles. Whoever wins Sunday will join the highest tier in international soccer history.",
       "publishedAt": "2026-07-18T16:41:21.000Z",
       "articleId": "7ed6cc8f4be091df"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-071826",
-      "title": "Reading List 07/18/26",
-      "url": "https://www.construction-physics.com/p/reading-list-071826",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.",
-      "publishedAt": "2026-07-18T12:01:57.000Z",
-      "articleId": "42bf4c13adaa7221"
     }
   ],
   "weather": {
@@ -1857,7 +1845,7 @@
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T11:35:55.946Z",
+  "weatherGeneratedAt": "2026-08-17T13:02:59.611Z",
   "weatherError": null,
   "sources": [
     {
