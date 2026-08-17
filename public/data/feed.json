@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-17T19:36:46.202Z",
-  "fetchedAt": "2026-08-17T19:36:46.198Z",
+  "generatedAt": "2026-08-17T20:38:59.668Z",
+  "fetchedAt": "2026-08-17T20:38:59.664Z",
   "sourceCount": 23,
   "itemCount": 164,
-  "totalItemCount": 785,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
+      "title": "Giants' Malik Nabers takes another big step toward being ready for Week 1",
+      "url": "https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The star wide receiver participated in full-speed team drills Monday, the first time he's done so since tearing his ACL last season.",
+      "publishedAt": "2026-08-17T19:52:50.000Z",
+      "articleId": "856ef5b35f7b44ae"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-573",
       "title": "Monday assorted links",
@@ -1797,17 +1808,6 @@
       "articleId": "e4ef242b6d363bfc"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
-      "title": "Contra Pritchard On Liberal Happiness",
-      "url": "https://www.astralcodexten.com/p/contra-pritchard-on-liberal-happiness",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-21T12:30:55.000Z",
-      "articleId": "bfde6ea1fb26a15d"
-    },
-    {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
       "title": "Aah, the Machinations of Life",
       "url": "https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
@@ -1855,7 +1855,7 @@
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T19:36:46.202Z",
+  "weatherGeneratedAt": "2026-08-17T20:38:59.668Z",
   "weatherError": null,
   "sources": [
     {
@@ -1878,7 +1878,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
