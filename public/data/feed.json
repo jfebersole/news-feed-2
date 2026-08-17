@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-17T17:40:01.397Z",
-  "fetchedAt": "2026-08-17T17:40:01.393Z",
+  "generatedAt": "2026-08-17T18:54:31.659Z",
+  "fetchedAt": "2026-08-17T18:54:31.654Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-573",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Where do the great American comedians hail from? 2. General thoughts on biosafety. 3. “Violet Hensley Dies at 109; Ozarks Fiddler Made Opry Debut at 99” (NYT). She also handcrafted 73 fiddles, appeared on The Beverly Hillbillies, and considered bluegrass too modern for her. She had nine children as well. 4. Which campaiging politicians […]",
+      "publishedAt": "2026-08-17T17:50:54.000Z",
+      "articleId": "939220bcfd60a694"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/why-does-everyone-hate-data-centers",
       "title": "Why does everyone hate data centers?",
@@ -417,17 +428,6 @@
       "summary": "From Jesus Fernandez-Villaverde and Patrick Norrick: As of 2026, humanity is likely below replacement fertility. That has never happened before, not in wars or pandemics. But the real surprise is that the fall has been concentrated in low- and middle-income countries and among poorer and less educated women. We fit a single-factor model to 236 […]",
       "publishedAt": "2026-08-14T06:14:58.000Z",
       "articleId": "2dfadc8133e7c465"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=intergenerational-mobility-of-immigrants-in-15-destination-countries",
-      "title": "Intergenerational mobility of immigrants in 15 destination countries",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We estimate intergenerational mobility of children of immigrants in fifteen receiving countries. Children of immigrants have somewhat lower income than children of local-born parents. Around half of this gap can be explained by differences in parental income, with the remainder due to differences in mobility parameters. The daughters of immigrants enjoy higher absolute mobility than […]",
-      "publishedAt": "2026-08-14T05:03:22.000Z",
-      "articleId": "1daf6754bdda3923"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
@@ -1853,10 +1853,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
-    "articleId": "0e0174a2863e9ddd"
+    "articleId": "0e0174a2863e9ddd",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-17T17:40:01.397Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-17T18:54:31.659Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
