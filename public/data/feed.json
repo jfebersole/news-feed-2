@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T14:39:50.947Z",
-  "fetchedAt": "2026-08-17T14:39:50.943Z",
+  "generatedAt": "2026-08-17T15:35:33.995Z",
+  "fetchedAt": "2026-08-17T15:35:33.989Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 785,
@@ -1838,16 +1838,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly sunny and humid. Morning 70s rise to 85 to 90 during the afternoon. A slight chance of a shower or thunderstorm.",
+    "summary": "HAPPENING NOW: Partly to mostly sunny and humid. Morning 70s rise to 85 to 90 during the afternoon. A few late-day showers and storms possible.",
     "publishedAt": "2026-08-17T09:00:01.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
-    "articleId": "0e0174a2863e9ddd",
-    "stale": true
+    "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T14:39:50.947Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-17T15:35:33.995Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
