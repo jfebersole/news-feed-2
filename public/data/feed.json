@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-17T04:54:14.116Z",
-  "fetchedAt": "2026-08-17T04:54:14.111Z",
+  "generatedAt": "2026-08-17T05:46:52.112Z",
+  "fetchedAt": "2026-08-17T05:46:52.109Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-294.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-294",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-294.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Gerald Martin, Mario Vargas Llosa: A Life. A good book if you wish to read about his strange sex life, starting early in his years. But if you are more interested in the history of ideas, Peruvian politics, or the development of the Latin American novel it is far less compelling. So for me […]",
+      "publishedAt": "2026-08-17T04:58:24.000Z",
+      "articleId": "0fc105f1c5f1ff7e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/things-you-cannot-buy-in-america.html?utm_source=rss&utm_medium=rss&utm_campaign=things-you-cannot-buy-in-america",
       "title": "Things you cannot buy in America?",
@@ -462,17 +473,6 @@
       "summary": "A list of past published editions for Sherwood's Scoreboard daily newsletter",
       "publishedAt": "2026-08-13T12:52:40.000Z",
       "articleId": "961687e38e4b7c1c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html?utm_source=rss&utm_medium=rss&utm_campaign=usa-fact-of-the-day-17",
-      "title": "USA fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/usa-fact-of-the-day-17.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the source.",
-      "publishedAt": "2026-08-13T10:40:20.000Z",
-      "articleId": "f909a9fbd01f6eb0"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
@@ -1858,7 +1858,7 @@
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-17T04:54:14.116Z",
+  "weatherGeneratedAt": "2026-08-17T05:46:52.112Z",
   "weatherError": null,
   "sources": [
     {
