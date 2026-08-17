@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T08:56:38.967Z",
-  "fetchedAt": "2026-08-17T08:56:38.962Z",
+  "generatedAt": "2026-08-17T09:53:30.219Z",
+  "fetchedAt": "2026-08-17T09:53:30.216Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
@@ -1845,20 +1845,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-showers-and-storms-today-and-tonight-nicer-by-midweek/",
-    "title": "DC-area forecast: A few more showers and a storm possible tonight and tomorrow. Nicer midweek.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-showers-and-storms-today-and-tonight-nicer-by-midweek/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
+    "title": "DC-area forecast: Muggy today, maybe a storm. Nicer into midweek.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: The severe thunderstorm and flood watches have been canceled as the showers and storms that came through earlier this evening have exited to the east. Another batch of showers and a storm could come through around midnight to 3 a.m.",
-    "publishedAt": "2026-08-16T09:00:54.000Z",
+    "summary": "HAPPENING NOW: Partly to mostly sunny and humid. Morning 70s rise to 85 to 90 during the afternoon. A slight chance of a shower or thunderstorm.",
+    "publishedAt": "2026-08-17T09:00:01.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
-    "articleId": "d23371ad962a1596"
+    "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
+    "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T08:56:38.967Z",
+  "weatherGeneratedAt": "2026-08-17T09:53:30.219Z",
   "weatherError": null,
   "sources": [
     {
