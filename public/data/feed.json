@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T01:51:52.814Z",
-  "fetchedAt": "2026-08-17T01:51:52.810Z",
+  "generatedAt": "2026-08-17T03:09:24.907Z",
+  "fetchedAt": "2026-08-17T03:09:24.898Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
@@ -1851,14 +1851,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Strong to severe storms linger in Southern Maryland during the next hour. Once they pass, the severe thunderstorm and flood watches should be canceled. Another batch of showers and a storm could come through around midnight to 3 a.m.",
+    "summary": "HAPPENING NOW: The severe thunderstorm watch has been canceled as the showers and storms that came through earlier this evening have exited to the east. Another batch of showers and a storm could come through around midnight to 3 a.m. A flood watch remains in effect until 3 a.m.",
     "publishedAt": "2026-08-16T09:00:54.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-17T01:51:52.814Z",
+  "weatherGeneratedAt": "2026-08-17T03:09:24.907Z",
   "weatherError": null,
   "sources": [
     {
