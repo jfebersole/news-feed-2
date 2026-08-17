@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-17T07:13:22.913Z",
-  "fetchedAt": "2026-08-17T07:13:22.910Z",
+  "generatedAt": "2026-08-17T08:56:38.967Z",
+  "fetchedAt": "2026-08-17T08:56:38.962Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/somalia-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=somalia-facts-of-the-day",
+      "title": "Somalia facts of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/somalia-facts-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The fruits of better security are plain to see. “Business is booming,” says Gamal Hassan, the commerce minister. New buildings are going up at a frenetic pace. The district around the airport, in particular, has grown much denser (see satellite images). Dahab Tower, a 26-floor confection of luxury flats, a mall, a gym and a […]",
+      "publishedAt": "2026-08-17T07:16:16.000Z",
+      "articleId": "d3e43d4c6c8e2b2a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-294.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-294",
       "title": "What I’ve been reading",
@@ -451,17 +462,6 @@
       "summary": "OpenAI and Anthropic may have accidentally trained models to get better at hacking.",
       "publishedAt": "2026-08-13T16:28:51.000Z",
       "articleId": "081c25b3b74561d8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-565",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Write a paper in six days with only AIs, then record all of that and write a second paper about writing the first. 2. Saloni on the future of medicine. “Every disease is a policy failure.” 3. John List on generalizability, very important. And his comments here. 4. China is now regulating AI companions. […]",
-      "publishedAt": "2026-08-13T16:03:42.000Z",
-      "articleId": "ffda3010b5a52ff8"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/scoreboard-newsletter-archives",
@@ -1858,7 +1858,7 @@
     "dailyDigitSummary": "Cloudy and humid with showers and storms. Cool temperatures well below average are a bit of a silver lining.",
     "articleId": "d23371ad962a1596"
   },
-  "weatherGeneratedAt": "2026-08-17T07:13:22.913Z",
+  "weatherGeneratedAt": "2026-08-17T08:56:38.967Z",
   "weatherError": null,
   "sources": [
     {
