@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T18:54:31.659Z",
-  "fetchedAt": "2026-08-17T18:54:31.654Z",
+  "generatedAt": "2026-08-17T19:36:46.202Z",
+  "fetchedAt": "2026-08-17T19:36:46.198Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
@@ -1853,11 +1853,10 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
-    "articleId": "0e0174a2863e9ddd",
-    "stale": true
+    "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T18:54:31.659Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-17T19:36:46.202Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
