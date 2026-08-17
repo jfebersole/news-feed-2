@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-17T16:41:04.926Z",
-  "fetchedAt": "2026-08-17T16:41:04.923Z",
+  "generatedAt": "2026-08-17T17:40:01.397Z",
+  "fetchedAt": "2026-08-17T17:40:01.393Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/why-does-everyone-hate-data-centers",
+      "title": "Why does everyone hate data centers?",
+      "url": "https://www.natesilver.net/p/why-does-everyone-hate-data-centers",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "My chat with Jasmine Sun about what role data centers could play in the midterms, how the backlash caught Silicon Valley by surprise — and why Claude can be so weird.",
+      "publishedAt": "2026-08-17T17:25:26.000Z",
+      "articleId": "88c30be7df478a7c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-roman-mars",
       "title": "What should I ask Roman Mars?",
@@ -1828,18 +1839,6 @@
       "summary": "When great powers disagree about the nature of A.I.",
       "publishedAt": "2026-07-19T19:35:46.000Z",
       "articleId": "e6e6f73e75250437"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
-      "title": "The World Cup champion will be one of the greatest teams ever",
-      "url": "https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Spain is chasing a historic streak. Argentina is chasing back-to-back titles. Whoever wins Sunday will join the highest tier in international soccer history.",
-      "publishedAt": "2026-07-18T16:41:21.000Z",
-      "articleId": "7ed6cc8f4be091df"
     }
   ],
   "weather": {
@@ -1856,7 +1855,7 @@
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T16:41:04.926Z",
+  "weatherGeneratedAt": "2026-08-17T17:40:01.397Z",
   "weatherError": null,
   "sources": [
     {
