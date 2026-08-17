@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-17T09:53:30.219Z",
-  "fetchedAt": "2026-08-17T09:53:30.216Z",
+  "generatedAt": "2026-08-17T10:45:49.490Z",
+  "fetchedAt": "2026-08-17T10:45:49.484Z",
   "sourceCount": 23,
-  "itemCount": 164,
+  "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/woke-1-is-dead-weve-learned-nothing",
+      "title": "Woke 1 is dead. We’ve learned nothing.",
+      "url": "https://www.slowboring.com/p/woke-1-is-dead-weve-learned-nothing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Blatant indifference to facts is all too common across ideologies",
+      "publishedAt": "2026-08-17T10:01:37.000Z",
+      "articleId": "40cfcf56086456a0"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "articleId": "01908f0230250a88"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/somalia-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=somalia-facts-of-the-day",
       "title": "Somalia facts of the day",
@@ -963,18 +986,6 @@
       "articleId": "b704fcf3463deae0"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-look-back-at-metoo",
-      "title": "A look back at #MeToo",
-      "url": "https://www.slowboring.com/p/a-look-back-at-metoo",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Matt and Jerusalem on the legacy of the movement",
-      "publishedAt": "2026-08-06T09:00:45.000Z",
-      "articleId": "c8456ec40e96b629"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
       "title": "Are the Democrats going to save us this time?",
       "url": "https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
@@ -1709,17 +1720,6 @@
       "articleId": "259cd35d6b7b6938"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
-      "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
-      "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
-      "publishedAt": "2026-07-22T10:00:00.000Z",
-      "articleId": "0066ab9912f89216"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
       "title": "Who was the worst monster of the 20th century?",
       "url": "https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
@@ -1830,18 +1830,6 @@
       "summary": "A setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.",
       "publishedAt": "2026-07-18T12:01:57.000Z",
       "articleId": "42bf4c13adaa7221"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/americas-political-economy-is-pretty",
-      "title": "America's political economy is pretty bleak right now",
-      "url": "https://www.noahpinion.blog/p/americas-political-economy-is-pretty",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "We can get some good things done, but major efforts will be difficult with our divided politics.",
-      "publishedAt": "2026-07-18T10:30:47.000Z",
-      "articleId": "439ec5e0eda94f71"
     }
   ],
   "weather": {
@@ -1858,7 +1846,7 @@
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T09:53:30.219Z",
+  "weatherGeneratedAt": "2026-08-17T10:45:49.490Z",
   "weatherError": null,
   "sources": [
     {
