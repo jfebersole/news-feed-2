@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T10:45:49.490Z",
-  "fetchedAt": "2026-08-17T10:45:49.484Z",
+  "generatedAt": "2026-08-17T11:35:55.946Z",
+  "fetchedAt": "2026-08-17T11:35:55.941Z",
   "sourceCount": 23,
-  "itemCount": 163,
-  "totalItemCount": 784,
+  "itemCount": 164,
+  "totalItemCount": 785,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/woke-1-is-dead-weve-learned-nothing",
@@ -27,6 +27,17 @@
       "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
       "publishedAt": "2026-08-17T10:00:00.000Z",
       "articleId": "01908f0230250a88"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/mlbs-trade-deadline-somehow-made",
+      "title": "MLB's Trade Deadline Somehow Made Everything More Confusing",
+      "url": "https://neilpaine.substack.com/p/mlbs-trade-deadline-somehow-made",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Rather than sorting contending buyers from selling pretenders, the opposite has happened, leaving a weird playoff race as crowded as ever.",
+      "publishedAt": "2026-08-17T09:00:27.000Z",
+      "articleId": "a1572f1397766b61"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/somalia-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=somalia-facts-of-the-day",
@@ -1846,7 +1857,7 @@
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T10:45:49.490Z",
+  "weatherGeneratedAt": "2026-08-17T11:35:55.946Z",
   "weatherError": null,
   "sources": [
     {
@@ -1925,7 +1936,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 5,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
