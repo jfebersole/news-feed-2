@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-17T21:36:25.589Z",
-  "fetchedAt": "2026-08-17T21:36:25.585Z",
+  "generatedAt": "2026-08-17T22:36:54.197Z",
+  "fetchedAt": "2026-08-17T22:36:54.193Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
+      "title": "Chaos theory",
+      "url": "https://www.slowboring.com/p/chaos-theory",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "This week in the midterms: An upset in Wisconsin, a Saturday night massacre in Anchorage, and a G.O.P. that’s bracing for its House majority to slip away.",
+      "publishedAt": "2026-08-17T22:01:00.000Z",
+      "articleId": "2f2faf2e96f80c09"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
       "title": "Giants' Malik Nabers takes another big step toward being ready for Week 1",
@@ -1018,18 +1030,6 @@
       "articleId": "85b0bf63171f68b5"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-message-behind-christopher-nolans",
-      "title": "The message behind Christopher Nolan’s most important change to “The Odyssey”",
-      "url": "https://www.slowboring.com/p/the-message-behind-christopher-nolans",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Are we the Sea Peoples?",
-      "publishedAt": "2026-08-06T10:04:00.000Z",
-      "articleId": "b704fcf3463deae0"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
       "title": "Are the Democrats going to save us this time?",
       "url": "https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
@@ -1843,19 +1843,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
-    "title": "DC-area forecast: Muggy today, maybe a storm. Nicer into midweek.",
+    "title": "DC-area forecast: Muggy with a hit-or-miss evening shower or storm. Nicer into midweek.",
     "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly sunny and humid. Highs rise to around 85 to 90 this afternoon. A few late-day showers and storms possible.",
+    "summary": "HAPPENING NOW: A few hit-or-miss showers and storms are possible through about 9 p.m. Otherwise muggy 80s and 70s this evening, down to the low to mid-70s overnight.",
     "publishedAt": "2026-08-17T09:00:01.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T21:36:25.589Z",
+  "weatherGeneratedAt": "2026-08-17T22:36:54.197Z",
   "weatherError": null,
   "sources": [
     {
