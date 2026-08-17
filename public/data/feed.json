@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-17T15:35:33.995Z",
-  "fetchedAt": "2026-08-17T15:35:33.989Z",
+  "generatedAt": "2026-08-17T16:41:04.926Z",
+  "fetchedAt": "2026-08-17T16:41:04.923Z",
   "sourceCount": 23,
-  "itemCount": 163,
+  "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-roman-mars",
+      "title": "What should I ask Roman Mars?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-roman-mars.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a Conversation with him. Most of all he is obsessed with design, here is Wikipedia: Roman Mars is an American radio producer. He is the host and producer of 99% Invisible, a KALW radio show and podcast, and a founder of the podcast collective Radiotopia, which he describes as efforts “to broaden the radio landscape [and] make […]",
+      "publishedAt": "2026-08-17T15:40:34.000Z",
+      "articleId": "445eabdd1d2382e2"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/saloni-ted-talk",
+      "title": "Medical innovation needs you",
+      "url": "https://www.worksinprogress.news/p/saloni-ted-talk",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Saloni's TED talk was published today.",
+      "publishedAt": "2026-08-17T15:35:44.000Z",
+      "articleId": "938edf46461089bf"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/woke-1-is-dead-weve-learned-nothing",
       "title": "Woke 1 is dead. We’ve learned nothing.",
@@ -428,17 +450,6 @@
       "summary": "Giants coach John Harbaugh: \"We're looking all of time for players who can help us. And he's a player who can help us.”",
       "publishedAt": "2026-08-13T20:40:43.000Z",
       "articleId": "f12a693c2ccd386b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/those-old-service-sector-jobs-2.html?utm_source=rss&utm_medium=rss&utm_campaign=those-old-service-sector-jobs-2",
-      "title": "Those old (new?) service sector jobs",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/those-old-service-sector-jobs-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An ability to mimic the shrieks of langur monkeys may not seem like a bankable skill, but for some Indians it has become a job, if not a calling. These vocal professionals specialise in pest control and are being employed to keep out unwanted primates as Delhi prepares to host the badminton world championships. The […]",
-      "publishedAt": "2026-08-13T18:37:12.000Z",
-      "articleId": "3a002e080ba3a740"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/u1qnz1aylp8i8aab6i79.html",
@@ -1838,14 +1849,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly sunny and humid. Morning 70s rise to 85 to 90 during the afternoon. A few late-day showers and storms possible.",
+    "summary": "HAPPENING NOW: Partly to mostly sunny and humid. Highs rise to around 85 to 90 this afternoon. A few late-day showers and storms possible.",
     "publishedAt": "2026-08-17T09:00:01.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-17T15:35:33.995Z",
+  "weatherGeneratedAt": "2026-08-17T16:41:04.926Z",
   "weatherError": null,
   "sources": [
     {
