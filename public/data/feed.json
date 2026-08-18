@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T20:36:28.106Z",
-  "fetchedAt": "2026-08-18T20:36:28.102Z",
+  "generatedAt": "2026-08-18T21:34:51.371Z",
+  "fetchedAt": "2026-08-18T21:34:51.369Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 783,
@@ -1844,19 +1844,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
-    "title": "DC-area forecast: Partly sunny and not quite as hot today",
+    "title": "DC-area forecast: Clearer tonight as humidity drops further",
     "url": "https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs reach the mid- to upper 80s. Still pretty humid.",
+    "summary": "HAPPENING NOW: Turning less humid with time while north and northwest winds continue. Skies trend mainly clear, and lows reach the mid-60s to near 70.",
     "publishedAt": "2026-08-18T09:00:09.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T20:36:28.106Z",
+  "weatherGeneratedAt": "2026-08-18T21:34:51.371Z",
   "weatherError": null,
   "sources": [
     {
