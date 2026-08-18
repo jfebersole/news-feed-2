@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-18T04:47:46.788Z",
-  "fetchedAt": "2026-08-18T04:47:46.778Z",
+  "generatedAt": "2026-08-18T05:41:42.429Z",
+  "fetchedAt": "2026-08-18T05:41:42.416Z",
   "sourceCount": 23,
-  "itemCount": 163,
+  "itemCount": 164,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
+      "title": "Where to eat in San Francisco",
+      "url": "https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Part 1 of my personal recommendations.",
+      "publishedAt": "2026-08-18T05:21:55.000Z",
+      "articleId": "f0b3e2ab58e32fd2"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html?utm_source=rss&utm_medium=rss&utm_campaign=morocco-facts-of-the-day-morocco-is-not-hopeless",
+      "title": "Morocco facts of the day, Morocco is not hopeless",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "For decades, South Africa was the great success story of African industrialization. Last year, Morocco took the lead, emerging as the African Development Bank’s top-ranked industrial economy in Africa. In the Bank’s analysis, published in the latest edition of its industrialization index, Morocco’s growth has been “driven by sustained industrial upgrading, export diversification, and strong industrial policy.” Since […]",
+      "publishedAt": "2026-08-18T05:18:42.000Z",
+      "articleId": "d4e70ece03158a78"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-economics-is-changing",
+      "title": "How economics is changing",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "As a proportion of the literature, research about econometric theory, monetary policy and corporate governance has slumped. Meanwhile, papers on development, crime and gender are on the up. This could perhaps be because of changing intellectual interests, or maybe demand-side pressures, such as policymaker priorities and external funding… Research from Prashant Garg, a postdoctoral researcher […]",
+      "publishedAt": "2026-08-18T04:56:36.000Z",
+      "articleId": "83db90cf1d2f1f5d"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
       "title": "Chaos theory",
@@ -398,17 +431,6 @@
       "articleId": "6eb9ad1f598f164c"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html?utm_source=rss&utm_medium=rss&utm_campaign=regulated-markets-are-slow-to-handle-change",
-      "title": "Regulated Markets Are Slow to Handle Change",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Gowrisankaran, Langer and Reguant have an excellent paper, Energy Transitions in Regulated Markets (WP), in the latest AER. The basic idea is that regulation designed to prevent utilities from building useless power plants can induce them to keep obsolete power plants. Some background. We regulated electric utilities under the theory that they were natural monopolies […]",
-      "publishedAt": "2026-08-14T11:20:34.000Z",
-      "articleId": "074b9af291efc237"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
       "title": "History often hinges on boring technical questions",
       "url": "https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
@@ -440,17 +462,6 @@
       "summary": "And would it matter in the playoffs, even if they were?",
       "publishedAt": "2026-08-14T09:02:05.000Z",
       "articleId": "226bfa1f9b27ef21"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-a-shrinking-world",
-      "title": "The Economics of a Shrinking World",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Jesus Fernandez-Villaverde and Patrick Norrick: As of 2026, humanity is likely below replacement fertility. That has never happened before, not in wars or pandemics. But the real surprise is that the fall has been concentrated in low- and middle-income countries and among poorer and less educated women. We fit a single-factor model to 236 […]",
-      "publishedAt": "2026-08-14T06:14:58.000Z",
-      "articleId": "2dfadc8133e7c465"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
@@ -1844,7 +1855,7 @@
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
     "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-18T04:47:46.788Z",
+  "weatherGeneratedAt": "2026-08-18T05:41:42.429Z",
   "weatherError": null,
   "sources": [
     {
