@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T19:35:54.202Z",
-  "fetchedAt": "2026-08-18T19:35:54.199Z",
+  "generatedAt": "2026-08-18T20:36:28.106Z",
+  "fetchedAt": "2026-08-18T20:36:28.102Z",
   "sourceCount": 23,
-  "itemCount": 166,
-  "totalItemCount": 785,
+  "itemCount": 164,
+  "totalItemCount": 783,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
@@ -498,17 +498,6 @@
       "articleId": "a01330d46655eab1"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-milwaukee-brewers-really",
-      "title": "Are the Milwaukee Brewers Really Feasting on Bad Pitchers?",
-      "url": "https://neilpaine.substack.com/p/are-the-milwaukee-brewers-really",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "And would it matter in the playoffs, even if they were?",
-      "publishedAt": "2026-08-14T09:02:05.000Z",
-      "articleId": "226bfa1f9b27ef21"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
       "title": "23 low-regret recommendations for AI policy",
       "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
@@ -597,17 +586,6 @@
       "summary": "OpenAI and Anthropic may have accidentally trained models to get better at hacking.",
       "publishedAt": "2026-08-13T16:28:51.000Z",
       "articleId": "081c25b3b74561d8"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/scoreboard-newsletter-archives",
-      "title": "Scoreboard Newsletter Archives",
-      "url": "https://neilpaine.substack.com/p/scoreboard-newsletter-archives",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A list of past published editions for Sherwood's Scoreboard daily newsletter",
-      "publishedAt": "2026-08-13T12:52:40.000Z",
-      "articleId": "961687e38e4b7c1c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
@@ -1878,7 +1856,7 @@
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T19:35:54.202Z",
+  "weatherGeneratedAt": "2026-08-18T20:36:28.106Z",
   "weatherError": null,
   "sources": [
     {
@@ -1957,7 +1935,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 5,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
