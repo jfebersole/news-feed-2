@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-18T17:38:52.915Z",
-  "fetchedAt": "2026-08-18T17:38:52.910Z",
+  "generatedAt": "2026-08-18T18:53:05.668Z",
+  "fetchedAt": "2026-08-18T18:53:05.659Z",
   "sourceCount": 23,
   "itemCount": 167,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
+      "title": "Some fertility and AI forecasts",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The 2024 forecast is particularly pessimistic about China’s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax rates to fund old-age benefits. Most important, it entails a major […]",
+      "publishedAt": "2026-08-18T17:45:12.000Z",
+      "articleId": "f71eef7a8462685d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-582",
       "title": "Tuesday assorted links",
@@ -396,17 +407,6 @@
       "summary": "That is the title of my latest Free Press piece, here is one excerpt: Or look at the AI revolution, another area where America is leading the world and also using its AI models to exert soft power. Dario Amodei of Anthropic has an Italian father, neural-network pioneer Geoffrey Hinton is originally from the U.K., […]",
       "publishedAt": "2026-08-15T06:44:46.000Z",
       "articleId": "a7aba1113a57aa87"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-60",
-      "title": "That was then, this is now",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-60.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I very much like the new Michael Khodarkovsky book The Steppe and its Empires: The Russian Empire & its Eurasian Counterparts. Excerpt: Russia presented the most remarkable contrast to both Eurasian and Western empires. The oower of Moscovite tsars and Russian emperors seemed to be completely unconstrained by moral or ethical boundaries. Whereas religious authorities […]",
-      "publishedAt": "2026-08-15T05:00:09.000Z",
-      "articleId": "c5d9e07f3e9f103e"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
@@ -1877,19 +1877,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
-    "title": "DC-area forecast: Blue skies with cooler highs",
+    "title": "DC-area forecast: Partly sunny and not quite as hot today",
     "url": "https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs reach the mid- to upper 80s while decreases slightly",
+    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs reach the mid- to upper 80s. Still pretty humid.",
     "publishedAt": "2026-08-18T09:00:09.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower afternoon humidity, and warm 80s.",
+    "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T17:38:52.915Z",
+  "weatherGeneratedAt": "2026-08-18T18:53:05.668Z",
   "weatherError": null,
   "sources": [
     {
