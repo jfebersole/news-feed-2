@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T01:47:14.259Z",
-  "fetchedAt": "2026-08-18T01:47:14.256Z",
+  "generatedAt": "2026-08-18T03:05:33.742Z",
+  "fetchedAt": "2026-08-18T03:05:33.737Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 783,
@@ -1832,21 +1832,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
-    "title": "DC-area forecast: Muggy with a hit-or-miss evening shower or storm. Nicer into midweek.",
+    "title": "DC-area forecast: Shower and storm chances take a midweek break before returning",
     "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A few hit-or-miss showers and storms are possible through about 9 p.m. Otherwise muggy 80s and 70s this evening, down to the low to mid-70s overnight.",
+    "summary": "HAPPENING NOW: Showers and storms linger in Southern Maryland until about 11 p.m. Elsewhere partly cloudy and muggy tonight with lows around 70 to 75.",
     "publishedAt": "2026-08-17T09:00:01.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
-    "articleId": "0e0174a2863e9ddd",
-    "stale": true
+    "articleId": "0e0174a2863e9ddd"
   },
-  "weatherGeneratedAt": "2026-08-18T01:47:14.259Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-18T03:05:33.742Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
