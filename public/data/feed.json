@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T08:50:45.844Z",
-  "fetchedAt": "2026-08-18T08:50:45.841Z",
+  "generatedAt": "2026-08-18T09:45:19.707Z",
+  "fetchedAt": "2026-08-18T09:45:19.704Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 783,
@@ -1842,20 +1842,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
-    "title": "DC-area forecast: Shower and storm chances take a midweek break before returning",
-    "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-maybe-a-storm-nicer-into-midweek/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
+    "title": "DC-area forecast: Blue skies with cooler highs",
+    "url": "https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and storms linger in Southern Maryland until about 11 p.m. Elsewhere partly cloudy and muggy tonight with lows around 70 to 75.",
-    "publishedAt": "2026-08-17T09:00:01.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
-    "articleId": "0e0174a2863e9ddd"
+    "summary": "HAPPENING NOW: Morning temperatures lift through the 70s. Lots of afternoon sunshine as highs reach the mid- to upper 80s while humidity slowly decreases.",
+    "publishedAt": "2026-08-18T09:00:09.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, somewhat lower humidity by afternoon, and warm 80s.",
+    "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T08:50:45.844Z",
+  "weatherGeneratedAt": "2026-08-18T09:45:19.707Z",
   "weatherError": null,
   "sources": [
     {
