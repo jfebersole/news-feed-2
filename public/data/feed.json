@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T18:53:05.668Z",
-  "fetchedAt": "2026-08-18T18:53:05.659Z",
+  "generatedAt": "2026-08-18T19:35:54.202Z",
+  "fetchedAt": "2026-08-18T19:35:54.199Z",
   "sourceCount": 23,
-  "itemCount": 167,
+  "itemCount": 166,
   "totalItemCount": 785,
   "items": [
     {
@@ -1862,17 +1862,6 @@
       "summary": "Learning from Britain's missteps doesn't mean looking down on them.",
       "publishedAt": "2026-07-20T06:51:10.000Z",
       "articleId": "0de764faf2dea487"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-      "title": "China’s A.I. Play Is Different From America’s",
-      "url": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "When great powers disagree about the nature of A.I.",
-      "publishedAt": "2026-07-19T19:35:46.000Z",
-      "articleId": "e6e6f73e75250437"
     }
   ],
   "weather": {
@@ -1889,7 +1878,7 @@
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T18:53:05.668Z",
+  "weatherGeneratedAt": "2026-08-18T19:35:54.202Z",
   "weatherError": null,
   "sources": [
     {
