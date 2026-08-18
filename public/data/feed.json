@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T21:34:51.371Z",
-  "fetchedAt": "2026-08-18T21:34:51.369Z",
+  "generatedAt": "2026-08-18T22:37:37.351Z",
+  "fetchedAt": "2026-08-18T22:37:37.347Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 783,
+  "itemCount": 163,
+  "totalItemCount": 782,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
@@ -964,17 +964,6 @@
       "articleId": "ece35cfcbe6c5b57"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/in-praise-of-commercial-culture",
-      "title": "In praise of commercial culture",
-      "url": "https://www.slowboring.com/p/in-praise-of-commercial-culture",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus when I’d vote for a Republican, the case for generalists, and why live theater is weird now",
-      "publishedAt": "2026-08-07T10:02:12.000Z",
-      "articleId": "eb79e6007d2d6295"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
       "title": "Is Odell Beckham Jr. doing enough to earn spot on Giants' wide receiver depth chart?",
       "url": "https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
@@ -1849,14 +1838,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Turning less humid with time while north and northwest winds continue. Skies trend mainly clear, and lows reach the mid-60s to near 70.",
+    "summary": "HAPPENING NOW: Turning less humid with time while winds continue from the north and northwest. Skies trend mainly clear, and lows reach the mid-60s to near 70.",
     "publishedAt": "2026-08-18T09:00:09.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T21:34:51.371Z",
+  "weatherGeneratedAt": "2026-08-18T22:37:37.351Z",
   "weatherError": null,
   "sources": [
     {
@@ -1959,7 +1948,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
