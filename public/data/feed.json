@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-18T09:45:19.707Z",
-  "fetchedAt": "2026-08-18T09:45:19.704Z",
+  "generatedAt": "2026-08-18T10:43:01.746Z",
+  "fetchedAt": "2026-08-18T10:43:01.741Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 783,
+  "itemCount": 165,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-invisible-faction-that-dominates",
+      "title": "The invisible faction that dominates the Democratic Party",
+      "url": "https://www.slowboring.com/p/the-invisible-faction-that-dominates",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Meet the Progressive Establishment",
+      "publishedAt": "2026-08-18T10:02:46.000Z",
+      "articleId": "cb9fa2c5d9c701af"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
+      "publishedAt": "2026-08-18T10:00:00.000Z",
+      "articleId": "ae42eb7d3a186378"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
       "title": "Where to eat in San Francisco",
@@ -1574,17 +1596,6 @@
       "articleId": "a66a6b5cbfff3f37"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/the-copium-wars/",
-      "title": "2026.30: The Copium Wars",
-      "url": "https://stratechery.com/2026/the-copium-wars/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of July 20, 2026 including Chinese models and frontier futures, what happened to Hugging Face, and the NBA and its second apron bet.",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
-      "articleId": "321c1884909f266e"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/not-just-a-cheap-date",
       "title": "Not just a cheap date",
       "url": "https://scottsumner.substack.com/p/not-just-a-cheap-date",
@@ -1855,7 +1866,7 @@
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, somewhat lower humidity by afternoon, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T09:45:19.707Z",
+  "weatherGeneratedAt": "2026-08-18T10:43:01.746Z",
   "weatherError": null,
   "sources": [
     {
@@ -1958,7 +1969,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
