@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T23:33:28.801Z",
-  "fetchedAt": "2026-08-17T23:33:28.797Z",
+  "generatedAt": "2026-08-18T01:47:14.259Z",
+  "fetchedAt": "2026-08-18T01:47:14.256Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 784,
+  "itemCount": 163,
+  "totalItemCount": 783,
   "items": [
     {
       "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
@@ -576,17 +576,6 @@
       "summary": "Matt and Jerusalem debate the legacy",
       "publishedAt": "2026-08-13T09:02:11.000Z",
       "articleId": "397efead234030ff"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-pga-tour-made-its-championship",
-      "title": "The PGA Tour Made Its Championship More Accessible Than Ever. Maybe Too Accessible?",
-      "url": "https://neilpaine.substack.com/p/the-pga-tour-made-its-championship",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "By simplifying the FedEx Cup, golf made its season-long championship easier to understand — and harder for the sport's best players to win.",
-      "publishedAt": "2026-08-13T09:01:50.000Z",
-      "articleId": "6540a2ee2c0e4096"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
@@ -1853,10 +1842,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "It's still very humid, and a few storms could pop up. But some nicer summer days are oh so close.",
-    "articleId": "0e0174a2863e9ddd"
+    "articleId": "0e0174a2863e9ddd",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-17T23:33:28.801Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-18T01:47:14.259Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1934,7 +1924,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 5,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
