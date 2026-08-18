@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-18T10:43:01.746Z",
-  "fetchedAt": "2026-08-18T10:43:01.741Z",
+  "generatedAt": "2026-08-18T11:36:10.807Z",
+  "fetchedAt": "2026-08-18T11:36:10.803Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html?utm_source=rss&utm_medium=rss&utm_campaign=why-arent-modernist-bridges-awful",
+      "title": "Why Aren’t Modernist Bridges Awful?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The public dislikes modern architecture but, generally speaking, they do not dislike modern bridges. Lists of the most awesome, most stunning, most beautiful bridges in the world will mention classics like London’s Tower Bridge, the Brooklyn Bridge, or the Rakotzbrücke but alongside them they will picture the Kubitschek Bridge in Brazil (Shutterstock). The Rio-Antirrio Bridge […]",
+      "publishedAt": "2026-08-18T11:17:33.000Z",
+      "articleId": "bbfb9239a385cc7c"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-invisible-faction-that-dominates",
       "title": "The invisible faction that dominates the Democratic Party",
@@ -418,17 +429,6 @@
       "summary": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
       "publishedAt": "2026-08-14T17:00:00.000Z",
       "articleId": "649091a37448b67a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html?utm_source=rss&utm_medium=rss&utm_campaign=shooting-fish-in-a-barrel",
-      "title": "Adding to the barrel of finance fallacies",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "“I should note also that many (most? almost all?) of the bad scenarios have intermediate points of great worry and catastrophe” Not on my model. By the time any humans start worrying about a takeover or dying, AIs already control all infrastructure That is from Twitter, and I hear or read that argument often. It […]",
-      "publishedAt": "2026-08-14T15:40:53.000Z",
-      "articleId": "a23fbcf4420bd252"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
@@ -1866,7 +1866,7 @@
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, somewhat lower humidity by afternoon, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T10:43:01.746Z",
+  "weatherGeneratedAt": "2026-08-18T11:36:10.807Z",
   "weatherError": null,
   "sources": [
     {
