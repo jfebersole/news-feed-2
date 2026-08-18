@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-18T15:42:51.870Z",
-  "fetchedAt": "2026-08-18T15:42:51.858Z",
+  "generatedAt": "2026-08-18T16:45:33.177Z",
+  "fetchedAt": "2026-08-18T16:45:33.171Z",
   "sourceCount": 23,
   "itemCount": 167,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-582",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-582.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. AI is helping patients to solve their medical mysteries (WSJ). 2. History of economic thought in one paragraph. 3. Becca Rothfeld on Rachel Cusk. 4. “Since ChatGPT, the number of new economics papers posted each year has almost doubled.” 5. Alan Macfarlane update China fact of the day. 6. Is the next cultural boom […]",
+      "publishedAt": "2026-08-18T15:50:45.000Z",
+      "articleId": "f535abb689d0ae89"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/1990s-hip-hop-an-album-a-day",
       "title": "1990s Hip-Hop: An Album a Day",
@@ -419,17 +430,6 @@
       "summary": "An enrollment cliff combined with high sticker prices no one is paying has some private colleges rethinking their tuition.",
       "publishedAt": "2026-08-14T22:01:12.000Z",
       "articleId": "742660ab9d95621c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-585",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-585.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. What sort of maths are LLMs good at? 2. “People think the superrich are unhappy,” she said. “They’re not.” (NYT) 3. Trailer for a Celibadache biopic. 4. Good Joshua Saxe post on the need for a better cybersecurity policy. 5. Refine goes to work on the Stanford Encyclopedia of Philosophy. At some point we […]",
-      "publishedAt": "2026-08-14T17:44:02.000Z",
-      "articleId": "121a01781b5afa69"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
@@ -1882,14 +1882,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Morning temperatures lift through the 70s. Lots of afternoon sunshine as highs reach the mid- to upper 80s while humidity slowly decreases.",
+    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs reach the mid- to upper 80s while decreases slightly",
     "publishedAt": "2026-08-18T09:00:09.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, somewhat lower humidity by afternoon, and warm 80s.",
+    "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower afternoon humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-18T15:42:51.870Z",
+  "weatherGeneratedAt": "2026-08-18T16:45:33.177Z",
   "weatherError": null,
   "sources": [
     {
