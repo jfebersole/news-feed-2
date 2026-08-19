@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T04:48:20.666Z",
-  "fetchedAt": "2026-08-19T04:48:20.662Z",
+  "generatedAt": "2026-08-19T05:42:34.009Z",
+  "fetchedAt": "2026-08-19T05:42:34.007Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
+      "title": "Why I'm Staying Out Of The Substack Religion Debate",
+      "url": "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-19T05:24:22.000Z",
+      "articleId": "3755894f311e5ed3"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalizing-untethered-ai-agents",
       "title": "Capitalizing untethered AI agents",
@@ -1731,17 +1742,6 @@
       "articleId": "1ddedeee15548235"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-july-2026-part-1",
-      "title": "Links For July 2026 (Part 1)",
-      "url": "https://www.astralcodexten.com/p/links-for-july-2026-part-1",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-22T14:57:36.000Z",
-      "articleId": "5e16a9cd8b5384ac"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/an-openai-model-hacked-hugging-face",
       "title": "An OpenAI model hacked Hugging Face to help it cheat on a benchmark",
       "url": "https://www.understandingai.org/p/an-openai-model-hacked-hugging-face",
@@ -1845,7 +1845,7 @@
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-19T04:48:20.666Z",
+  "weatherGeneratedAt": "2026-08-19T05:42:34.009Z",
   "weatherError": null,
   "sources": [
     {
