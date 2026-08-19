@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T22:36:58.727Z",
-  "fetchedAt": "2026-08-19T22:36:58.724Z",
+  "generatedAt": "2026-08-19T23:33:15.760Z",
+  "fetchedAt": "2026-08-19T23:33:15.757Z",
   "sourceCount": 23,
-  "itemCount": 166,
-  "totalItemCount": 774,
+  "itemCount": 167,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/economists-should-be-worried-about",
+      "title": "Economists should be worried about birth rates",
+      "url": "https://www.noahpinion.blog/p/economists-should-be-worried-about",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Don’t be so quick to dismiss the threat of an aging, declining population.",
+      "publishedAt": "2026-08-19T23:27:31.000Z",
+      "articleId": "91812788e8a35a11"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-have-and-have-not-housing-market",
       "title": "The have-and-have-not housing market",
@@ -1871,14 +1882,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: After highs near 90 this afternoon, temperatures fall back through the 80s this evening under partly cloudy skies.",
+    "summary": "HAPPENING NOW: After highs reached near 90 this afternoon, temperatures fall back through the 80s this evening under partly cloudy skies.",
     "publishedAt": "2026-08-19T09:00:27.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T22:36:58.727Z",
+  "weatherGeneratedAt": "2026-08-19T23:33:15.760Z",
   "weatherError": null,
   "sources": [
     {
@@ -1892,10 +1903,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
