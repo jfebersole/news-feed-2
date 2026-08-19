@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T10:43:53.667Z",
-  "fetchedAt": "2026-08-19T10:43:53.661Z",
+  "generatedAt": "2026-08-19T11:35:40.112Z",
+  "fetchedAt": "2026-08-19T11:35:40.109Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 783,
@@ -1844,7 +1844,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T10:43:53.667Z",
+  "weatherGeneratedAt": "2026-08-19T11:35:40.112Z",
   "weatherError": null,
   "sources": [
     {
@@ -2002,10 +2002,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 3,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
