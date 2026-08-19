@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T03:07:36.158Z",
-  "fetchedAt": "2026-08-19T03:07:36.155Z",
+  "generatedAt": "2026-08-19T04:48:20.666Z",
+  "fetchedAt": "2026-08-19T04:48:20.662Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 782,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalizing-untethered-ai-agents",
+      "title": "Capitalizing untethered AI agents",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is my latest piece of writing, co-authored with Sonia Farrell Pearson of Harvard. Here is the opening premise: As early as 2017, the European Parliament floated “electronic personhood” for robots. More recently, a handful of U.S. states introduced legislation explicitly barring AI from legal personhood; and early this summer, President Milei of Argentina proposed letting AI agents own, manage, and bear responsibility […]",
+      "publishedAt": "2026-08-19T04:21:02.000Z",
+      "articleId": "5f102190bfb2a890"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
       "title": "Some fertility and AI forecasts",
@@ -396,17 +407,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-08-15T09:01:28.000Z",
       "articleId": "53d22600c07c9198"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=a-conservative-case-for-liberal-immigration",
-      "title": "A Conservative Case for Liberal Immigration",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the title of my latest Free Press piece, here is one excerpt: Or look at the AI revolution, another area where America is leading the world and also using its AI models to exert soft power. Dario Amodei of Anthropic has an Italian father, neural-network pioneer Geoffrey Hinton is originally from the U.K., […]",
-      "publishedAt": "2026-08-15T06:44:46.000Z",
-      "articleId": "a7aba1113a57aa87"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
@@ -1845,7 +1845,7 @@
     "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
     "articleId": "97de1cf215c24b3d"
   },
-  "weatherGeneratedAt": "2026-08-19T03:07:36.158Z",
+  "weatherGeneratedAt": "2026-08-19T04:48:20.666Z",
   "weatherError": null,
   "sources": [
     {
