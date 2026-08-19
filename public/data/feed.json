@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T14:49:03.656Z",
-  "fetchedAt": "2026-08-19T14:49:03.651Z",
+  "generatedAt": "2026-08-19T15:42:31.152Z",
+  "fetchedAt": "2026-08-19T15:42:31.147Z",
   "sourceCount": 23,
   "itemCount": 165,
-  "totalItemCount": 772,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7522863/2026/08/19/new-york-giants-arvell-reese-practice-diary/",
+      "title": "The power and poise of Arvell Reese: Spend a Giants practice with NY's 'violent' rookie LB",
+      "url": "https://www.nytimes.com/athletic/7522863/2026/08/19/new-york-giants-arvell-reese-practice-diary/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Watching the force Reese plays with can make it easy to forget he is only 20 years old. His power has seamlessly transitioned to the NFL.",
+      "publishedAt": "2026-08-19T14:49:27.000Z",
+      "articleId": "33b1ec05a1ec39d6"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-much-can-you-consistently-care-about-animal-welfare.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-can-you-consistently-care-about-animal-welfare",
       "title": "How much can you consistently care about animal welfare?",
@@ -1839,17 +1850,6 @@
       "summary": "Featuring Kriss Kross, Christopher Cross, Kris Kristofferson, and others",
       "publishedAt": "2026-07-21T13:30:22.000Z",
       "articleId": "e4ef242b6d363bfc"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
-      "title": "Aah, the Machinations of Life",
-      "url": "https://walkingtheworld.substack.com/p/aah-the-machinations-of-life",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Life has been, and always will be, hard, but it is still meaningful, and beautiful",
-      "publishedAt": "2026-07-20T15:27:34.000Z",
-      "articleId": "1a004acb9112bd6e"
     }
   ],
   "weather": {
@@ -1866,7 +1866,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T14:49:03.656Z",
+  "weatherGeneratedAt": "2026-08-19T15:42:31.152Z",
   "weatherError": null,
   "sources": [
     {
@@ -1984,10 +1984,10 @@
     {
       "name": "Ross Douthat (NYT)",
       "url": "https://www.nytimes.com/column/ross-douthat",
-      "mode": "fallback-cache",
-      "itemCount": 5,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml",
-      "error": "Status code 404 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Ezra Klein (NYT)",
@@ -2000,10 +2000,10 @@
     {
       "name": "David French (NYT)",
       "url": "https://www.nytimes.com/by/david-french",
-      "mode": "fallback-cache",
-      "itemCount": 4,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-french/rss.xml",
-      "error": "Status code 404 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Stratechery",
