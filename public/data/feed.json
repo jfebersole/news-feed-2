@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T19:34:54.070Z",
-  "fetchedAt": "2026-08-19T19:34:54.067Z",
+  "generatedAt": "2026-08-19T20:41:08.174Z",
+  "fetchedAt": "2026-08-19T20:41:08.170Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 783,
@@ -1854,19 +1854,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-less-humid-today-storm-chances-return-tomorrow/",
-    "title": "DC-area forecast: Less humid today, storm chances return tomorrow",
+    "title": "DC-area forecast: Humidity ticks back up tonight, storm chances return tomorrow",
     "url": "https://www.capitalweather.com/dc-area-forecast-less-humid-today-storm-chances-return-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Plenty of sun heats us up to afternoon highs in the upper 80s to near 90, but it's a somewhat comfortable heat with lower humidity.",
+    "summary": "HAPPENING NOW: After highs near 90 this afternoon, temperatures fall back through the 80s this evening under partly cloudy skies.",
     "publishedAt": "2026-08-19T09:00:27.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T19:34:54.070Z",
+  "weatherGeneratedAt": "2026-08-19T20:41:08.174Z",
   "weatherError": null,
   "sources": [
     {
