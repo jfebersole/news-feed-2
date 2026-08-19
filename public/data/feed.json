@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T08:51:20.999Z",
-  "fetchedAt": "2026-08-19T08:51:20.994Z",
+  "generatedAt": "2026-08-19T09:45:37.603Z",
+  "fetchedAt": "2026-08-19T09:45:37.600Z",
   "sourceCount": 23,
-  "itemCount": 162,
-  "totalItemCount": 782,
+  "itemCount": 163,
+  "totalItemCount": 773,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
+      "title": "The White Sox Are a Miracle",
+      "url": "https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Just a few years after hitting rock-bottom and losing their once-promising core, Chicago has built back to respectability in record time — with a totally new group.",
+      "publishedAt": "2026-08-19T09:01:34.000Z",
+      "articleId": "1a95b0822fe76fae"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
       "title": "Why I'm Staying Out Of The Substack Religion Debate",
@@ -1821,20 +1832,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
-    "title": "DC-area forecast: Clearer tonight as humidity drops further",
-    "url": "https://www.capitalweather.com/dc-area-forecast-blue-skies-with-cooler-highs/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-less-humid-today-storm-chances-return-tomorrow/",
+    "title": "DC-area forecast: Less humid today, storm chances return tomorrow",
+    "url": "https://www.capitalweather.com/dc-area-forecast-less-humid-today-storm-chances-return-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Turning less humid with time while winds continue from the north and northwest. Skies trend mainly clear, and lows reach the mid-60s to near 70.",
-    "publishedAt": "2026-08-18T09:00:09.000Z",
+    "summary": "HAPPENING NOW: Morning 60s and 70s feel nice with the lower humidity. Highs this afternoon top out in the upper 80s to near 90.",
+    "publishedAt": "2026-08-19T09:00:27.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Be thankful with this tiny time out from daily showers and storms. And enjoy the sunnier skies, slightly lower late-day humidity, and warm 80s.",
-    "articleId": "97de1cf215c24b3d"
+    "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
+    "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T08:51:20.999Z",
+  "weatherGeneratedAt": "2026-08-19T09:45:37.603Z",
   "weatherError": null,
   "sources": [
     {
@@ -1848,10 +1859,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1913,7 +1924,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
