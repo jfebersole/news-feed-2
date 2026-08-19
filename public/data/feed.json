@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T13:10:43.279Z",
-  "fetchedAt": "2026-08-19T13:10:43.274Z",
+  "generatedAt": "2026-08-19T13:55:47.152Z",
+  "fetchedAt": "2026-08-19T13:55:47.147Z",
   "sourceCount": 23,
-  "itemCount": 163,
+  "itemCount": 164,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/daycare-barely-matters",
+      "title": "Daycare barely matters",
+      "url": "https://www.worksinprogress.news/p/daycare-barely-matters",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "If it had a clear effect on children we would know by now.",
+      "publishedAt": "2026-08-19T13:31:49.000Z",
+      "articleId": "2cde87f0406cb729"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
       "title": "Two kinds of moderate Democrats",
@@ -1844,7 +1855,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T13:10:43.279Z",
+  "weatherGeneratedAt": "2026-08-19T13:55:47.152Z",
   "weatherError": null,
   "sources": [
     {
