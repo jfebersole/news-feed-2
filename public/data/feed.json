@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-19T21:36:13.851Z",
-  "fetchedAt": "2026-08-19T21:36:13.847Z",
+  "generatedAt": "2026-08-19T22:36:58.727Z",
+  "fetchedAt": "2026-08-19T22:36:58.724Z",
   "sourceCount": 23,
-  "itemCount": 165,
-  "totalItemCount": 783,
+  "itemCount": 166,
+  "totalItemCount": 774,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-have-and-have-not-housing-market",
+      "title": "The have-and-have-not housing market",
+      "url": "https://www.slowboring.com/p/the-have-and-have-not-housing-market",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Wealthy buyers are buying houses a million over asking with cash while everyone else watches starts fall and rates stay stubborn. Localities are experimenting with solutions to close the yawning gap.",
+      "publishedAt": "2026-08-19T22:01:42.000Z",
+      "articleId": "2953bb9c3b878bdc"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html?utm_source=rss&utm_medium=rss&utm_campaign=declining-occupations-and-career-outcomes-in-the-united-states",
       "title": "Declining Occupations and Career Outcomes in the United States",
@@ -1866,7 +1878,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T21:36:13.851Z",
+  "weatherGeneratedAt": "2026-08-19T22:36:58.727Z",
   "weatherError": null,
   "sources": [
     {
@@ -1880,10 +1892,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -1969,7 +1981,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
