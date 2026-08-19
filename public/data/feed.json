@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-19T09:45:37.603Z",
-  "fetchedAt": "2026-08-19T09:45:37.600Z",
+  "generatedAt": "2026-08-19T10:43:53.667Z",
+  "fetchedAt": "2026-08-19T10:43:53.661Z",
   "sourceCount": 23,
   "itemCount": 163,
-  "totalItemCount": 773,
+  "totalItemCount": 783,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
+      "title": "Two kinds of moderate Democrats",
+      "url": "https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "There are many pragmatists, but few have the courage to say what they really think.",
+      "publishedAt": "2026-08-19T10:02:12.000Z",
+      "articleId": "215427bf90c21033"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
+      "title": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
+      "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple's App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it's ok it's late.",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "articleId": "9f1460ecb989fdfd"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
       "title": "The White Sox Are a Miracle",
@@ -951,18 +973,6 @@
       "articleId": "775abd44b32fd712"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
-      "title": "Theater is weird, and that’s the point.",
-      "url": "https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "In which I come out as a total theater nerd",
-      "publishedAt": "2026-08-07T22:00:06.000Z",
-      "articleId": "83184ba06bf53322"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/earnings-and-learnings/",
       "title": "2026.32: Earnings and Learnings",
       "url": "https://stratechery.com/2026/earnings-and-learnings/",
@@ -1271,17 +1281,6 @@
       "summary": "Dart has been experiencing some growing pains in the first four practices of training camp.",
       "publishedAt": "2026-08-03T11:30:23.000Z",
       "articleId": "29ee0bc4e7ecff3e"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
-      "title": "Meta Earnings, Meta’s Timing Problems, The Financial Tail",
-      "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Meta's earnings were a bit disappointing; future promises about AI products were more disconcerting.",
-      "publishedAt": "2026-08-03T10:00:00.000Z",
-      "articleId": "6ad6fd144b98d513"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
@@ -1845,7 +1844,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T09:45:37.603Z",
+  "weatherGeneratedAt": "2026-08-19T10:43:53.667Z",
   "weatherError": null,
   "sources": [
     {
@@ -1859,10 +1858,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -2003,10 +2002,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
