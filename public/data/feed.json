@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-19T17:36:59.039Z",
-  "fetchedAt": "2026-08-19T17:36:59.035Z",
+  "generatedAt": "2026-08-19T18:50:33.425Z",
+  "fetchedAt": "2026-08-19T18:50:33.420Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 783,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html?utm_source=rss&utm_medium=rss&utm_campaign=declining-occupations-and-career-outcomes-in-the-united-states",
+      "title": "Declining Occupations and Career Outcomes in the United States",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This strikes me as somewhat less of a problem than I might have thought: We study long-run career consequences of initial employment in an occupation that subsequently declines. Linking the 2000 Decennial Census to US administrative employment and earnings records through 2020, we follow more than 2.4 million workers. Employment in an occupation that contracts […]",
+      "publishedAt": "2026-08-19T18:41:36.000Z",
+      "articleId": "c6d2a8375b4ee3cf"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qdgslutvo9yt7szfulal.html",
       "title": "Konbini Taste Test | Kenji Eats Japan",
@@ -427,17 +438,6 @@
       "summary": "Zhu Rongji's formula won't work anymore. But that doesn't mean Xi Jinping's will work either.",
       "publishedAt": "2026-08-16T07:26:51.000Z",
       "articleId": "21fa293e94990c9f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/another-rationale-for-sticky-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=another-rationale-for-sticky-prices",
-      "title": "Another rationale for sticky prices?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/another-rationale-for-sticky-prices.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "…what can be predicted, Dabis said, is that a recent policy change by the Washington Metropolitan Area Transit Authority requiring drivers to verbally quote the $2.25 fare to passengers may make their job even riskier. Eight current Metro employees and two former employees who work at the union representing Metro workers told The Washington Post […]",
-      "publishedAt": "2026-08-16T04:44:29.000Z",
-      "articleId": "f008ec463b2faec8"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7516003/2026/08/15/new-york-giants-jaxson-dart-vikings-concussion-medical-tent/",
@@ -1866,7 +1866,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T17:36:59.039Z",
+  "weatherGeneratedAt": "2026-08-19T18:50:33.425Z",
   "weatherError": null,
   "sources": [
     {
