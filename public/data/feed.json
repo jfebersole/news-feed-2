@@ -1,13 +1,35 @@
 {
-  "generatedAt": "2026-08-19T13:55:47.152Z",
-  "fetchedAt": "2026-08-19T13:55:47.147Z",
+  "generatedAt": "2026-08-19T14:49:03.656Z",
+  "fetchedAt": "2026-08-19T14:49:03.651Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 783,
+  "itemCount": 165,
+  "totalItemCount": 772,
   "items": [
     {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-much-can-you-consistently-care-about-animal-welfare.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-can-you-consistently-care-about-animal-welfare",
+      "title": "How much can you consistently care about animal welfare?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-can-you-consistently-care-about-animal-welfare.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We explore the welfare costs of the loss of animal life in a consequentialist total utilitarian framework that incorporates the intrinsic value of living beings through their sentience. Moral philosophy and neuroscience define sentience as the capacity for valenced experience. Observable performance on cognitive tests represents a conservative lower bound on sentience under plausible neuroscientific […]",
+      "publishedAt": "2026-08-19T14:36:08.000Z",
+      "articleId": "68287dc9809693a4"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7523773/2026/08/19/new-york-giants-jaguars-trade-daniel-faalele/",
+      "title": "Giants trade guard Daniel Faalele to the Jaguars for late 2027 pick: Source",
+      "url": "https://www.nytimes.com/athletic/7523773/2026/08/19/new-york-giants-jaguars-trade-daniel-faalele/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "There was a time in the spring when it looked like Faalele might start at right guard. Since then, he's fallen down New York's depth chart.",
+      "publishedAt": "2026-08-19T14:11:27.000Z",
+      "articleId": "c34cf4fa21fd05d4"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/daycare-barely-matters",
-      "title": "Daycare barely matters",
+      "title": "Does daycare damage children's brains?",
       "url": "https://www.worksinprogress.news/p/daycare-barely-matters",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -428,17 +450,6 @@
       "summary": "There’s a 71 percent chance this is where control of the chamber is decided.",
       "publishedAt": "2026-08-15T18:04:42.000Z",
       "articleId": "7399668e6add6b8e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-574",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Speculative Chinese claims about Alzheimer’s. 2. Very interesting Anthropic piece on why multi-agentic systems seem to show more herd behavior and collusion than human systems. And a comment from Rune Kvist. 3. Cross-cultural data on masculinity. 4. The Griers on the performance of Modi relative to synthetic controls. 5. Which federal datasets have been […]",
-      "publishedAt": "2026-08-15T15:42:49.000Z",
-      "articleId": "45dcf687ebc78867"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08152026",
@@ -1855,7 +1866,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T13:55:47.152Z",
+  "weatherGeneratedAt": "2026-08-19T14:49:03.656Z",
   "weatherError": null,
   "sources": [
     {
@@ -1973,10 +1984,10 @@
     {
       "name": "Ross Douthat (NYT)",
       "url": "https://www.nytimes.com/column/ross-douthat",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 5,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml",
-      "error": null
+      "error": "Status code 404 Using previous snapshot data."
     },
     {
       "name": "Ezra Klein (NYT)",
@@ -1989,10 +2000,10 @@
     {
       "name": "David French (NYT)",
       "url": "https://www.nytimes.com/by/david-french",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 4,
       "feedUrl": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-french/rss.xml",
-      "error": null
+      "error": "Status code 404 Using previous snapshot data."
     },
     {
       "name": "Stratechery",
