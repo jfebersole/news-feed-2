@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-20T19:40:43.861Z",
-  "fetchedAt": "2026-08-20T19:40:43.858Z",
+  "generatedAt": "2026-08-20T20:41:52.125Z",
+  "fetchedAt": "2026-08-20T20:41:52.120Z",
   "sourceCount": 23,
   "itemCount": 169,
   "totalItemCount": 775,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
+      "title": "College EA Meetups Everywhere: Call For Organizers",
+      "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-20T19:55:39.000Z",
+      "articleId": "35bb015b2368d29e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/indian-documentary-covers-ev-winners.html?utm_source=rss&utm_medium=rss&utm_campaign=indian-documentary-covers-ev-winners",
       "title": "Indian documentary covers EV winners",
@@ -1767,17 +1778,6 @@
       "articleId": "687e8c2ebb59acc0"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-hugging-face-incident",
-      "title": "The Hugging Face Incident",
-      "url": "https://www.astralcodexten.com/p/the-hugging-face-incident",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-24T05:43:14.000Z",
-      "articleId": "f1a407f59ee24385"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7467014/2026/07/23/ny-giants-malik-nabers-training-camp-pup/",
       "title": "Giants WR Malik Nabers will not start training camp on PUP list",
       "url": "https://www.nytimes.com/athletic/7467014/2026/07/23/ny-giants-malik-nabers-training-camp-pup/",
@@ -1912,10 +1912,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
-    "articleId": "89b9154db90b7706"
+    "articleId": "89b9154db90b7706",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-20T19:40:43.861Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-20T20:41:52.125Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
