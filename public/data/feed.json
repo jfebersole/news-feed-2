@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-20T16:47:49.595Z",
-  "fetchedAt": "2026-08-20T16:47:49.590Z",
+  "generatedAt": "2026-08-20T17:41:21.264Z",
+  "fetchedAt": "2026-08-20T17:41:21.261Z",
   "sourceCount": 23,
   "itemCount": 169,
-  "totalItemCount": 786,
+  "totalItemCount": 776,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-most-influential-critic",
+      "title": "The Most Influential Critic",
+      "url": "https://www.cantgetmuchhigher.com/p/the-most-influential-critic",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Anthony Fantano? Greil Marcus? Robert Christgau?",
+      "publishedAt": "2026-08-20T17:30:58.000Z",
+      "articleId": "f46d5da94c004dbf"
+    },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/12vrarz4o2xf13qio2x5.html",
       "title": "The Brew Shop - Weekly Email Update",
@@ -1885,17 +1897,6 @@
       "summary": "And who is the worst monster of the 21st?",
       "publishedAt": "2026-07-22T07:34:05.000Z",
       "articleId": "310c8e7a7569fbbc"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/fable-responds",
-      "title": "Fable responds",
-      "url": "https://scottsumner.substack.com/p/fable-responds",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "My conversation with Fable (and hence the profession) continues",
-      "publishedAt": "2026-07-21T17:05:35.000Z",
-      "articleId": "e0e1a585b648586a"
     }
   ],
   "weather": {
@@ -1912,7 +1913,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-20T16:47:49.595Z",
+  "weatherGeneratedAt": "2026-08-20T17:41:21.264Z",
   "weatherError": null,
   "sources": [
     {
@@ -1926,10 +1927,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
