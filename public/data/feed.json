@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T14:50:47.796Z",
-  "fetchedAt": "2026-08-20T14:50:47.793Z",
+  "generatedAt": "2026-08-20T15:45:53.186Z",
+  "fetchedAt": "2026-08-20T15:45:53.182Z",
   "sourceCount": 23,
   "itemCount": 168,
   "totalItemCount": 785,
@@ -1899,10 +1899,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
-    "articleId": "89b9154db90b7706"
+    "articleId": "89b9154db90b7706",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-20T14:50:47.796Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-20T15:45:53.186Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
