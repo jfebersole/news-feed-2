@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T18:55:51.415Z",
-  "fetchedAt": "2026-08-20T18:55:51.410Z",
+  "generatedAt": "2026-08-20T19:40:43.861Z",
+  "fetchedAt": "2026-08-20T19:40:43.858Z",
   "sourceCount": 23,
   "itemCount": 169,
-  "totalItemCount": 776,
+  "totalItemCount": 775,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/indian-documentary-covers-ev-winners.html?utm_source=rss&utm_medium=rss&utm_campaign=indian-documentary-covers-ev-winners",
@@ -15,6 +15,18 @@
       "summary": "A new short documentary (22 mins) film called The 22nd Century Indian by Shaurya Sinha offers an optimistic take on India, and also covers five (!) Emergent Ventures winners. Congratulations to them, and to Shruti too. EV India winners featured: Naman Pushp https://x.com/therealnamzoo?s=11 Khushi Mittal: https://khushimittal.com Shreeporna Rao: https://x.com/shreepoorna365?s=11 Samay Sanghvi: https://www.thealmanac.ai/article/samaysanghvii Angad Daryani: https://www.linkedin.com/in/angaddaryani?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
       "publishedAt": "2026-08-20T18:33:51.000Z",
       "articleId": "f2c95217aef64124"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/on-the-bigness-of-china",
+      "title": "On the bigness of China",
+      "url": "https://scottsumner.substack.com/p/on-the-bigness-of-china",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "How international borders distort our thinking",
+      "publishedAt": "2026-08-20T17:54:41.000Z",
+      "articleId": "0e2509ff33e3e297"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-most-influential-critic",
@@ -485,17 +497,6 @@
       "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
       "publishedAt": "2026-08-17T10:00:00.000Z",
       "articleId": "01908f0230250a88"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/mlbs-trade-deadline-somehow-made",
-      "title": "MLB's Trade Deadline Somehow Made Everything More Confusing",
-      "url": "https://neilpaine.substack.com/p/mlbs-trade-deadline-somehow-made",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Rather than sorting contending buyers from selling pretenders, the opposite has happened, leaving a weird playoff race as crowded as ever.",
-      "publishedAt": "2026-08-17T09:00:27.000Z",
-      "articleId": "a1572f1397766b61"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
@@ -1906,14 +1907,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Some initial showers and storms move through areas west and north of DC around 2 to 4 p.m., including Loudoun, Montgomery, and Frederick counties. Scattered showers and storms become likely elsewhere around 4 to 8 p.m.",
+    "summary": "HAPPENING NOW: Some initial showers and storms continue to move through areas north of the Beltway through about 4:15 p.m. Scattered showers and storms become more likely elsewhere around 4 to 8 p.m. Some storms have potential for damaging winds or a tornado.",
     "publishedAt": "2026-08-20T09:00:23.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-20T18:55:51.415Z",
+  "weatherGeneratedAt": "2026-08-20T19:40:43.861Z",
   "weatherError": null,
   "sources": [
     {
@@ -1992,7 +1993,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
