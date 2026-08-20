@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T21:38:22.475Z",
-  "fetchedAt": "2026-08-20T21:38:22.469Z",
+  "generatedAt": "2026-08-20T22:40:58.085Z",
+  "fetchedAt": "2026-08-20T22:40:58.080Z",
   "sourceCount": 23,
-  "itemCount": 169,
-  "totalItemCount": 785,
+  "itemCount": 168,
+  "totalItemCount": 784,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -70,7 +70,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "According to the vice president, we are wasting our freedom.",
-      "publishedAt": "2026-08-20T16:13:36.000Z",
+      "publishedAt": "2026-08-20T16:13:37.000Z",
       "articleId": "b5a31da5357e6a8d"
     },
     {
@@ -981,18 +981,6 @@
       "summary": "Some of my colleagues have been led into an intellectual cul-de-sac.",
       "publishedAt": "2026-08-11T08:01:13.000Z",
       "articleId": "a22429960383f08b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-left-is-winning-primaries-can",
-      "title": "The left is winning primaries. Can it win general elections?",
-      "url": "https://www.slowboring.com/p/the-left-is-winning-primaries-can",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Progressive candidates came out on top in Michigan and Tennessee but fell short in Missouri. Will they keep up the pace tomorrow?",
-      "publishedAt": "2026-08-10T22:00:43.000Z",
-      "articleId": "cff58d30f0084335"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
@@ -1915,7 +1903,7 @@
     "articleId": "89b9154db90b7706",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-20T21:38:22.475Z",
+  "weatherGeneratedAt": "2026-08-20T22:40:58.085Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -2018,7 +2006,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
