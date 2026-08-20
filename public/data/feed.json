@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-20T13:07:37.813Z",
-  "fetchedAt": "2026-08-20T13:07:37.810Z",
+  "generatedAt": "2026-08-20T14:50:47.796Z",
+  "fetchedAt": "2026-08-20T14:50:47.793Z",
   "sourceCount": 23,
-  "itemCount": 170,
+  "itemCount": 168,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
+      "title": "JD Vance Thinks You Are Not Christian Enough",
+      "url": "https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "According to the vice president, we are wasting our freedom.",
+      "publishedAt": "2026-08-20T14:42:41.000Z",
+      "articleId": "b5a31da5357e6a8d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/there-are-now-eight-episodes.html?utm_source=rss&utm_medium=rss&utm_campaign=there-are-now-eight-episodes",
       "title": "There are now eight episodes",
@@ -15,17 +26,6 @@
       "summary": "The Everyday Abundance podcast explores the hidden histories behind everyday activities and the technologies we don’t even know are technologies. Virginia Postrel and Charles C. Mann dive into the surprising stories behind everything from brushing your teeth to driving your car. Listen, subscribe, and rate us on Spotify, Apple Podcasts, Amazon, YouTube, or wherever you listen to podcasts. Here […]",
       "publishedAt": "2026-08-20T12:26:13.000Z",
       "articleId": "67d5c6de0c527877"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
-      "title": "JD Vance Thinks You Are Not Christian Enough",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "According to the vice president, we are wasting our freedom.",
-      "publishedAt": "2026-08-20T12:14:14.000Z",
-      "articleId": "b5a31da5357e6a8d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html?utm_source=rss&utm_medium=rss&utm_campaign=did-ubi-make-people-happier",
@@ -1885,28 +1885,6 @@
       "summary": "My conversation with Fable (and hence the profession) continues",
       "publishedAt": "2026-07-21T17:05:35.000Z",
       "articleId": "e0e1a585b648586a"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-dsa-sweet-spot-highly-educated",
-      "title": "The DSA sweet spot: highly educated, downwardly mobile",
-      "url": "https://www.natesilver.net/p/the-dsa-sweet-spot-highly-educated",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Education and economic security are usually correlated. But where the relationship breaks down is fertile territory for the new left.",
-      "publishedAt": "2026-07-21T13:56:25.000Z",
-      "articleId": "413f84a3a6ad13dc"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
-      "title": "Alliterative Artists: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/alliterative-artists-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Kriss Kross, Christopher Cross, Kris Kristofferson, and others",
-      "publishedAt": "2026-07-21T13:30:22.000Z",
-      "articleId": "e4ef242b6d363bfc"
     }
   ],
   "weather": {
@@ -1923,7 +1901,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-20T13:07:37.813Z",
+  "weatherGeneratedAt": "2026-08-20T14:50:47.796Z",
   "weatherError": null,
   "sources": [
     {
