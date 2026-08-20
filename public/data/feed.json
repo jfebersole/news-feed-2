@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-19T23:33:15.760Z",
-  "fetchedAt": "2026-08-19T23:33:15.757Z",
+  "generatedAt": "2026-08-20T01:52:58.247Z",
+  "fetchedAt": "2026-08-20T01:52:58.243Z",
   "sourceCount": 23,
-  "itemCount": 167,
+  "itemCount": 168,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
+      "title": "Are Democrats on a summer sugar high?",
+      "url": "https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "They’re polling surprisingly strongly in some Senate races. But should you bet on those numbers falling back to earth? Plus, some quick thoughts on Alaska and Florida.",
+      "publishedAt": "2026-08-20T01:26:44.000Z",
+      "articleId": "1b11bd2d3d8212f3"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/economists-should-be-worried-about",
       "title": "Economists should be worried about birth rates",
@@ -1882,14 +1894,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: After highs reached near 90 this afternoon, temperatures fall back through the 80s this evening under partly cloudy skies.",
+    "summary": "HAPPENING NOW: Partly cloudy skies tonight with lows in the upper 60s to mid-70s.",
     "publishedAt": "2026-08-19T09:00:27.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-19T23:33:15.760Z",
+  "weatherGeneratedAt": "2026-08-20T01:52:58.247Z",
   "weatherError": null,
   "sources": [
     {
