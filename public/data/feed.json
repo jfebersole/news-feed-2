@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-20T08:52:42.655Z",
-  "fetchedAt": "2026-08-20T08:52:42.649Z",
+  "generatedAt": "2026-08-20T09:47:04.465Z",
+  "fetchedAt": "2026-08-20T09:47:04.462Z",
   "sourceCount": 23,
-  "itemCount": 168,
+  "itemCount": 169,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
+      "title": "JD Vance Thinks You Are Not Christian Enough",
+      "url": "https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "According to the vice president, we are wasting our freedom.",
+      "publishedAt": "2026-08-20T09:04:22.000Z",
+      "articleId": "b5a31da5357e6a8d"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/everyone-hates-the-elites-but-who",
+      "title": "Everyone hates the “elites,” but who are they?",
+      "url": "https://www.slowboring.com/p/everyone-hates-the-elites-but-who",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "According to voters, it’s basically just rich people.",
+      "publishedAt": "2026-08-20T09:01:03.000Z",
+      "articleId": "8ab3459f9e8e049e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-luke-burgis.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luke-burgis",
       "title": "My excellent Conversation with Luke Burgis",
@@ -982,18 +1005,6 @@
       "articleId": "3a16571b6bfdb96d"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-3f5",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-3f5",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-09T17:01:54.000Z",
-      "articleId": "607b5d43fbc678e8"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
       "title": "The Worst National Anthem: Link Drop",
       "url": "https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
@@ -1888,20 +1899,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-less-humid-today-storm-chances-return-tomorrow/",
-    "title": "DC-area forecast: Humidity ticks back up tonight, storm chances return tomorrow",
-    "url": "https://www.capitalweather.com/dc-area-forecast-less-humid-today-storm-chances-return-tomorrow/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-scattered-afternoon-storms-some-strong/",
+    "title": "DC-area forecast: Scattered afternoon storms, some strong",
+    "url": "https://www.capitalweather.com/dc-area-forecast-scattered-afternoon-storms-some-strong/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly cloudy skies tonight with lows in the upper 60s to mid-70s.",
-    "publishedAt": "2026-08-19T09:00:27.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
-    "articleId": "fec5e5bb5a30e464"
+    "summary": "HAPPENING NOW: Temperatures are down a bit from yesterday, while humidity rises. Highs reach for the mid- to upper 80s with some late-day storms a good bet.",
+    "publishedAt": "2026-08-20T09:00:23.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
+    "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-20T08:52:42.655Z",
+  "weatherGeneratedAt": "2026-08-20T09:47:04.465Z",
   "weatherError": null,
   "sources": [
     {
