@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T20:41:52.125Z",
-  "fetchedAt": "2026-08-20T20:41:52.120Z",
+  "generatedAt": "2026-08-20T21:38:22.475Z",
+  "fetchedAt": "2026-08-20T21:38:22.469Z",
   "sourceCount": 23,
   "itemCount": 169,
-  "totalItemCount": 775,
+  "totalItemCount": 785,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -1915,7 +1915,7 @@
     "articleId": "89b9154db90b7706",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-20T20:41:52.125Z",
+  "weatherGeneratedAt": "2026-08-20T21:38:22.475Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -1929,10 +1929,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
