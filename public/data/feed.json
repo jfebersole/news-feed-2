@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-20T09:47:04.465Z",
-  "fetchedAt": "2026-08-20T09:47:04.462Z",
+  "generatedAt": "2026-08-20T10:44:11.256Z",
+  "fetchedAt": "2026-08-20T10:44:11.254Z",
   "sourceCount": 23,
   "itemCount": 169,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html?utm_source=rss&utm_medium=rss&utm_campaign=did-ubi-make-people-happier",
+      "title": "Did UBI make people happier?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Eh, only in the short run: We study the causal impacts of income on a rich array of employment outcomes, leveraging an experiment in which 1,000 low-income individuals were randomized into receiving $1,000 per month unconditionally for three years, with a control group of 2,000 participants receiving $50/month. We gather detailed survey data, administrative records, […]",
+      "publishedAt": "2026-08-20T10:19:40.000Z",
+      "articleId": "a30cce79c2c4d4b4"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
+      "title": "Thousands of years of indoor air pollution",
+      "url": "https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The too-late invention of somewhat safe ways to cook and heat with wood",
+      "publishedAt": "2026-08-20T10:03:50.000Z",
+      "articleId": "de2a2bd3a89a6787"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
       "title": "JD Vance Thinks You Are Not Christian Enough",
@@ -439,17 +462,6 @@
       "summary": "1. Gerald Martin, Mario Vargas Llosa: A Life. A good book if you wish to read about his strange sex life, starting early in his years. But if you are more interested in the history of ideas, Peruvian politics, or the development of the Latin American novel it is far less compelling. So for me […]",
       "publishedAt": "2026-08-17T04:58:24.000Z",
       "articleId": "0fc105f1c5f1ff7e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/things-you-cannot-buy-in-america.html?utm_source=rss&utm_medium=rss&utm_campaign=things-you-cannot-buy-in-america",
-      "title": "Things you cannot buy in America?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/things-you-cannot-buy-in-america.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "3. Exterior roller shutters (Rollladen) In much of Europe, homes feature heavy shutters integrated into the exterior of the window, enabling total blackout and better insulation. Sleeping in true, complete darkness—not “blackout curtain” darkness, but can’t-see-your-hand darkness—is an experience most Americans will never have. These shutters are nearly impossible to get in the USA because […]",
-      "publishedAt": "2026-08-16T18:51:39.000Z",
-      "articleId": "d8fd67770517bce9"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
@@ -957,18 +969,6 @@
       "summary": "The Giants are back from West Virginia, and their depth chart is coming into focus.",
       "publishedAt": "2026-08-10T13:41:32.000Z",
       "articleId": "be585a615463ba2a"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-strange-gifted-education-success",
-      "title": "A strange gifted education success story",
-      "url": "https://www.slowboring.com/p/a-strange-gifted-education-success",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "If expanding access works, is your program really for the “gifted”?",
-      "publishedAt": "2026-08-10T10:02:01.000Z",
-      "articleId": "537c2ad559b2d47d"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
@@ -1910,10 +1910,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
-    "articleId": "89b9154db90b7706"
+    "articleId": "89b9154db90b7706",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-20T09:47:04.465Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-20T10:44:11.256Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
