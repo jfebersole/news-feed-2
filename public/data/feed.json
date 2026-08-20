@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-20T04:48:59.521Z",
-  "fetchedAt": "2026-08-20T04:48:59.512Z",
+  "generatedAt": "2026-08-20T05:42:47.738Z",
+  "fetchedAt": "2026-08-20T05:42:47.735Z",
   "sourceCount": 23,
   "itemCount": 168,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-luke-burgis.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luke-burgis",
+      "title": "My excellent Conversation with Luke Burgis",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-luke-burgis.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Luke Burgis left Wall Street after two years, founded a few successful companies in his twenties, then walked away to spend three years in a Roman seminary on the path to the priesthood. He now runs the Cluny Institute and teaches at Catholic […]",
+      "publishedAt": "2026-08-20T04:54:58.000Z",
+      "articleId": "755822ee6b3d256c"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
       "title": "Are Democrats on a summer sugar high?",
@@ -439,17 +450,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-08-16T17:03:15.000Z",
       "articleId": "cf00a5e3598b308f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-580",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-580.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Ken Opalo on the evolution of post-post-apartheid South Africa. 2. Reasonable recommendations for AI policy over at Noah’s. 3. JFV recommends some economics articles. 4. William Vollmann update. 5. More writing for the AIs. 6. When Europeans from Warsaw live role-play an Ohio trailer park. 7. Is EJMR gone for good?",
-      "publishedAt": "2026-08-16T15:41:17.000Z",
-      "articleId": "cf97c701f7ce7d12"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/breaking-records-on-tour-a-conversation",
@@ -1901,7 +1901,7 @@
     "dailyDigitSummary": "Finally, a noticeable drop in humidity! Still kind of hot, though, so don't want to score it much higher than that.",
     "articleId": "fec5e5bb5a30e464"
   },
-  "weatherGeneratedAt": "2026-08-20T04:48:59.521Z",
+  "weatherGeneratedAt": "2026-08-20T05:42:47.738Z",
   "weatherError": null,
   "sources": [
     {
