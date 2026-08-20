@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-20T11:37:23.206Z",
-  "fetchedAt": "2026-08-20T11:37:23.203Z",
+  "generatedAt": "2026-08-20T13:07:37.813Z",
+  "fetchedAt": "2026-08-20T13:07:37.810Z",
   "sourceCount": 23,
-  "itemCount": 169,
-  "totalItemCount": 784,
+  "itemCount": 170,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/there-are-now-eight-episodes.html?utm_source=rss&utm_medium=rss&utm_campaign=there-are-now-eight-episodes",
+      "title": "There are now eight episodes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/there-are-now-eight-episodes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Everyday Abundance podcast explores the hidden histories behind everyday activities and the technologies we don’t even know are technologies. Virginia Postrel and Charles C. Mann dive into the surprising stories behind everything from brushing your teeth to driving your car. Listen, subscribe, and rate us on Spotify, Apple Podcasts, Amazon, YouTube, or wherever you listen to podcasts. Here […]",
+      "publishedAt": "2026-08-20T12:26:13.000Z",
+      "articleId": "67d5c6de0c527877"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
+      "title": "JD Vance Thinks You Are Not Christian Enough",
+      "url": "https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "According to the vice president, we are wasting our freedom.",
+      "publishedAt": "2026-08-20T12:14:14.000Z",
+      "articleId": "b5a31da5357e6a8d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html?utm_source=rss&utm_medium=rss&utm_campaign=did-ubi-make-people-happier",
       "title": "Did UBI make people happier?",
@@ -29,15 +51,15 @@
       "articleId": "de2a2bd3a89a6787"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
-      "title": "JD Vance Thinks You Are Not Christian Enough",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "According to the vice president, we are wasting our freedom.",
-      "publishedAt": "2026-08-20T09:04:22.000Z",
-      "articleId": "b5a31da5357e6a8d"
+      "id": "Neil Paine:https://neilpaine.substack.com/p/seattle-and-toronto-played-an-october",
+      "title": "Seattle and Toronto Played an October Epic. A Year Later, They’re Sharing an Epic Drop-off.",
+      "url": "https://neilpaine.substack.com/p/seattle-and-toronto-played-an-october",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Despite both still vying for the playoffs, the authors of one of the best AL Championship Series ever are now suffering a historic hangover.",
+      "publishedAt": "2026-08-20T09:02:20.000Z",
+      "articleId": "bb161003857241c7"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/everyone-hates-the-elites-but-who",
@@ -451,17 +473,6 @@
       "summary": "The fruits of better security are plain to see. “Business is booming,” says Gamal Hassan, the commerce minister. New buildings are going up at a frenetic pace. The district around the airport, in particular, has grown much denser (see satellite images). Dahab Tower, a 26-floor confection of luxury flats, a mall, a gym and a […]",
       "publishedAt": "2026-08-17T07:16:16.000Z",
       "articleId": "d3e43d4c6c8e2b2a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-294.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-294",
-      "title": "What I’ve been reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-ive-been-reading-294.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Gerald Martin, Mario Vargas Llosa: A Life. A good book if you wish to read about his strange sex life, starting early in his years. But if you are more interested in the history of ideas, Peruvian politics, or the development of the Latin American novel it is far less compelling. So for me […]",
-      "publishedAt": "2026-08-17T04:58:24.000Z",
-      "articleId": "0fc105f1c5f1ff7e"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
@@ -1912,7 +1923,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-20T11:37:23.206Z",
+  "weatherGeneratedAt": "2026-08-20T13:07:37.813Z",
   "weatherError": null,
   "sources": [
     {
@@ -1991,7 +2002,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
