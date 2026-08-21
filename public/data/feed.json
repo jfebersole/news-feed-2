@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T07:54:04.703Z",
-  "fetchedAt": "2026-08-21T07:54:04.699Z",
+  "generatedAt": "2026-08-21T08:54:04.822Z",
+  "fetchedAt": "2026-08-21T08:54:04.817Z",
   "sourceCount": 23,
   "itemCount": 167,
-  "totalItemCount": 784,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/rick-rubin-podcasts-with-me-3.html?utm_source=rss&utm_medium=rss&utm_campaign=rick-rubin-podcasts-with-me-3",
@@ -1891,7 +1891,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-21T07:54:04.703Z",
+  "weatherGeneratedAt": "2026-08-21T08:54:04.822Z",
   "weatherError": null,
   "sources": [
     {
@@ -1905,10 +1905,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
