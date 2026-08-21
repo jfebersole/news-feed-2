@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T13:07:04.422Z",
-  "fetchedAt": "2026-08-21T13:07:04.418Z",
+  "generatedAt": "2026-08-21T13:57:39.643Z",
+  "fetchedAt": "2026-08-21T13:57:39.638Z",
   "sourceCount": 23,
-  "itemCount": 168,
+  "itemCount": 167,
   "totalItemCount": 784,
   "items": [
     {
@@ -1875,17 +1875,6 @@
       "summary": "Organizations across the Internet need to move quickly to patch vulnerabilities.",
       "publishedAt": "2026-07-22T14:40:10.000Z",
       "articleId": "6f32120ad8cbd962"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
-      "title": "Lessons from a high-fertility subculture",
-      "url": "https://www.worksinprogress.news/p/lessons-from-a-high-fertility-subculture",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Modernity has meant fewer children in virtually every culture around the world. Do holdouts like Orthodox Jews have lessons for the rest of us?",
-      "publishedAt": "2026-07-22T13:26:59.000Z",
-      "articleId": "259cd35d6b7b6938"
     }
   ],
   "weather": {
@@ -1902,7 +1891,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T13:07:04.422Z",
+  "weatherGeneratedAt": "2026-08-21T13:57:39.643Z",
   "weatherError": null,
   "sources": [
     {
