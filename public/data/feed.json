@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-21T10:44:04.123Z",
-  "fetchedAt": "2026-08-21T10:44:04.118Z",
+  "generatedAt": "2026-08-21T11:36:52.164Z",
+  "fetchedAt": "2026-08-21T11:36:52.159Z",
   "sourceCount": 23,
-  "itemCount": 167,
+  "itemCount": 168,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
+      "title": "Why Thailand was never colonized",
+      "url": "https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Diplomacy, reform, and a convenient stone",
+      "publishedAt": "2026-08-21T11:21:12.000Z",
+      "articleId": "dd762de10c049ecf"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/breaking-ground-can-refund-bonuses-solve-the-holdout-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=breaking-ground-can-refund-bonuses-solve-the-holdout-problem",
+      "title": "Breaking Ground: Can Refund Bonuses Solve the Holdout Problem?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/breaking-ground-can-refund-bonuses-solve-the-holdout-problem.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My latest paper (with Cason and Zubrickas) has just been published by the Journal of Urban Economics. We show that refund bonuses can indeed improve the holdout problem. Abstract: The holdout problem presents a pervasive challenge in situations that require the assembly of independently controlled assets, where due to complementarity the combined whole is worth […]",
+      "publishedAt": "2026-08-21T11:16:20.000Z",
+      "articleId": "ed441a8d8384c038"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/giving-the-people-what-they-want",
       "title": "Giving the people what they want (not data centers)",
@@ -395,17 +417,6 @@
       "summary": "Featuring Outkast, Missy Elliot, Mobb Deep, and others",
       "publishedAt": "2026-08-18T13:31:45.000Z",
       "articleId": "3c3fc5195620cfa5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html?utm_source=rss&utm_medium=rss&utm_campaign=why-arent-modernist-bridges-awful",
-      "title": "Why Aren’t Modernist Bridges Awful?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/why-arent-modernist-bridges-awful.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The public dislikes modern architecture but, generally speaking, they do not dislike modern bridges. Lists of the most awesome, most stunning, most beautiful bridges in the world will mention classics like London’s Tower Bridge, the Brooklyn Bridge, or the Rakotzbrücke but alongside them they will picture the Kubitschek Bridge in Brazil (Shutterstock). The Rio-Antirrio Bridge […]",
-      "publishedAt": "2026-08-18T11:17:33.000Z",
-      "articleId": "bbfb9239a385cc7c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-invisible-faction-that-dominates",
@@ -1891,7 +1902,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T10:44:04.123Z",
+  "weatherGeneratedAt": "2026-08-21T11:36:52.164Z",
   "weatherError": null,
   "sources": [
     {
