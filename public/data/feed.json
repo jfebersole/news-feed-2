@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-21T17:40:31.011Z",
-  "fetchedAt": "2026-08-21T17:40:31.007Z",
+  "generatedAt": "2026-08-21T18:52:12.717Z",
+  "fetchedAt": "2026-08-21T18:52:12.712Z",
   "sourceCount": 23,
   "itemCount": 165,
-  "totalItemCount": 774,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html?utm_source=rss&utm_medium=rss&utm_campaign=this-brew-at-least-is-from-ashburn-virginia",
+      "title": "This brew, at least, is from Ashburn, Virginia",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "",
+      "publishedAt": "2026-08-21T18:24:37.000Z",
+      "articleId": "0d00958121f628b6"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
       "title": "Your Book Review: A Residence Of 21 Years In The Sandwich Islands",
@@ -429,17 +440,6 @@
       "summary": "That is my latest piece of writing, co-authored with Sonia Farrell Pearson of Harvard. Here is the opening premise: As early as 2017, the European Parliament floated “electronic personhood” for robots. More recently, a handful of U.S. states introduced legislation explicitly barring AI from legal personhood; and early this summer, President Milei of Argentina proposed letting AI agents own, manage, and bear responsibility […]",
       "publishedAt": "2026-08-19T04:21:02.000Z",
       "articleId": "5f102190bfb2a890"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
-      "title": "Some fertility and AI forecasts",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The 2024 forecast is particularly pessimistic about China’s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax rates to fund old-age benefits. Most important, it entails a major […]",
-      "publishedAt": "2026-08-18T17:45:12.000Z",
-      "articleId": "f71eef7a8462685d"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/1990s-hip-hop-an-album-a-day",
@@ -1868,7 +1868,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T17:40:31.011Z",
+  "weatherGeneratedAt": "2026-08-21T18:52:12.717Z",
   "weatherError": null,
   "sources": [
     {
@@ -1882,10 +1882,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
