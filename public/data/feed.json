@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T19:33:35.746Z",
-  "fetchedAt": "2026-08-21T19:33:35.744Z",
+  "generatedAt": "2026-08-21T20:36:37.768Z",
+  "fetchedAt": "2026-08-21T20:36:37.765Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 784,
@@ -1866,10 +1866,11 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
-    "articleId": "d8228d44250a2b48"
+    "articleId": "d8228d44250a2b48",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-21T19:33:35.746Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-21T20:36:37.768Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
