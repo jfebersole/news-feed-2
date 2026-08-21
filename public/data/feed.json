@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T14:49:40.174Z",
-  "fetchedAt": "2026-08-21T14:49:40.171Z",
+  "generatedAt": "2026-08-21T15:44:56.881Z",
+  "fetchedAt": "2026-08-21T15:44:56.877Z",
   "sourceCount": 23,
   "itemCount": 166,
   "totalItemCount": 784,
@@ -37,6 +37,18 @@
       "summary": "Plus dynamism, Rock Creek Park, and all the practical problems with abolishing ICE",
       "publishedAt": "2026-08-21T10:02:18.000Z",
       "articleId": "4627b41169e4bd43"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-tigers-having-the-most-confusing",
+      "title": "Are the Tigers Having the Most Confusing — and Secretly Consequential — Season Ever?",
+      "url": "https://neilpaine.substack.com/p/are-the-tigers-having-the-most-confusing",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Bad enough to sell at the deadline despite elite underlying metrics, yet good enough to stay in the hunt anyway, Detroit is having one of MLB’s strangest and most consequential mediocre seasons ever.",
+      "publishedAt": "2026-08-21T09:00:58.000Z",
+      "articleId": "7daf6afd18862277"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/rick-rubin-podcasts-with-me-3.html?utm_source=rss&utm_medium=rss&utm_campaign=rick-rubin-podcasts-with-me-3",
@@ -439,18 +451,6 @@
       "summary": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
       "publishedAt": "2026-08-18T10:00:00.000Z",
       "articleId": "ae42eb7d3a186378"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/russell-westbrook-collected-so-many",
-      "title": "Russell Westbrook Collected So Many Stats, He Broke Them",
-      "url": "https://neilpaine.substack.com/p/russell-westbrook-collected-so-many",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Westbrook weaponized the triple-double to win an MVP and make NBA history. But he also made us rethink the value of the achievement that defined him.",
-      "publishedAt": "2026-08-18T09:01:10.000Z",
-      "articleId": "f5fe7927ff296446"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
@@ -1872,14 +1872,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Less humid as morning 60s and 70s head toward highs about 80 to 85. Skies are fairly bright despite a mix of sun and clouds.",
+    "summary": "HAPPENING NOW: Less humid as we head toward afternoon highs about 80 to 85. Skies are fairly bright despite a mix of sun and clouds.",
     "publishedAt": "2026-08-21T09:00:55.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T14:49:40.174Z",
+  "weatherGeneratedAt": "2026-08-21T15:44:56.881Z",
   "weatherError": null,
   "sources": [
     {
