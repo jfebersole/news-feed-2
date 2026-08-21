@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-21T03:12:54.938Z",
-  "fetchedAt": "2026-08-21T03:12:54.934Z",
+  "generatedAt": "2026-08-21T04:50:09.350Z",
+  "fetchedAt": "2026-08-21T04:50:09.347Z",
   "sourceCount": 23,
   "itemCount": 168,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/more-evidence-on-the-effects-of-recent-tariffs.html?utm_source=rss&utm_medium=rss&utm_campaign=more-evidence-on-the-effects-of-recent-tariffs",
+      "title": "More evidence on the effects of recent tariffs",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-evidence-on-the-effects-of-recent-tariffs.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Trump is giving economists something to write papers about: U.S. tariff rates in 2025 rose to levels not seen since the Great Depression, yet imports increased. To account for the missing trade collapse, we develop an open-economy New Keynesian model with tariff heterogeneity, inventories, and shocks to investment that capture the AI-driven boom. The model […]",
+      "publishedAt": "2026-08-21T04:41:32.000Z",
+      "articleId": "4608cbdef015af81"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
       "title": "College EA Meetups Everywhere: Call For Organizers",
@@ -452,17 +463,6 @@
       "summary": "The star wide receiver participated in full-speed team drills Monday, the first time he's done so since tearing his ACL last season.",
       "publishedAt": "2026-08-17T19:52:50.000Z",
       "articleId": "856ef5b35f7b44ae"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-573",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-573.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Where do the great American comedians hail from? 2. General thoughts on biosafety. 3. “Violet Hensley Dies at 109; Ozarks Fiddler Made Opry Debut at 99” (NYT). She also handcrafted 73 fiddles, appeared on The Beverly Hillbillies, and considered bluegrass too modern for her. She had nine children as well. 4. Which campaiging politicians […]",
-      "publishedAt": "2026-08-17T17:50:54.000Z",
-      "articleId": "939220bcfd60a694"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/why-does-everyone-hate-data-centers",
@@ -1902,7 +1902,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-21T03:12:54.938Z",
+  "weatherGeneratedAt": "2026-08-21T04:50:09.350Z",
   "weatherError": null,
   "sources": [
     {
