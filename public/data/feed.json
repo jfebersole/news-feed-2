@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T22:37:17.466Z",
-  "fetchedAt": "2026-08-21T22:37:17.463Z",
+  "generatedAt": "2026-08-21T23:34:42.476Z",
+  "fetchedAt": "2026-08-21T23:34:42.473Z",
   "sourceCount": 23,
   "itemCount": 166,
   "totalItemCount": 785,
@@ -1873,14 +1873,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds increase this evening as temperatures fall back into and through the 70s. Rain holds off until later at night.",
+    "summary": "HAPPENING NOW: Clouds thicken this evening as temperatures fall back through the 70s. A shower is possible before midnight, but any steadier rain holds off until later.",
     "publishedAt": "2026-08-21T09:00:55.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T22:37:17.466Z",
+  "weatherGeneratedAt": "2026-08-21T23:34:42.476Z",
   "weatherError": null,
   "sources": [
     {
