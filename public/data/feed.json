@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-21T21:35:10.199Z",
-  "fetchedAt": "2026-08-21T21:35:10.188Z",
+  "generatedAt": "2026-08-21T22:37:17.466Z",
+  "fetchedAt": "2026-08-21T22:37:17.463Z",
   "sourceCount": 23,
-  "itemCount": 165,
-  "totalItemCount": 784,
+  "itemCount": 166,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-kind-of-democrat-can-win",
+      "title": "What kind of Democrat can win?",
+      "url": "https://www.slowboring.com/p/what-kind-of-democrat-can-win",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "I’m genuinely asking.",
+      "publishedAt": "2026-08-21T22:00:42.000Z",
+      "articleId": "e9352907e0383e7c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html?utm_source=rss&utm_medium=rss&utm_campaign=this-brew-at-least-is-from-ashburn-virginia",
       "title": "This brew, at least, is from Ashburn, Virginia",
@@ -1868,7 +1880,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T21:35:10.199Z",
+  "weatherGeneratedAt": "2026-08-21T22:37:17.466Z",
   "weatherError": null,
   "sources": [
     {
@@ -1971,7 +1983,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
