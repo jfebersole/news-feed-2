@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-21T04:50:09.350Z",
-  "fetchedAt": "2026-08-21T04:50:09.347Z",
+  "generatedAt": "2026-08-21T05:45:46.414Z",
+  "fetchedAt": "2026-08-21T05:45:46.411Z",
   "sourceCount": 23,
   "itemCount": 168,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/green-shoots-for-the-uk.html?utm_source=rss&utm_medium=rss&utm_campaign=green-shoots-for-the-uk",
+      "title": "Green shoots for the UK?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/green-shoots-for-the-uk.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Early signs of tech-driven improvements in productivity growth could herald a sustained strengthening in the UK’s economic outlook, analysts have said, in a turnaround after years of underperformance. Private sector productivity grew by 1.8 per cent in the second quarter compared with a year earlier, up from 1.2 per cent previously, according to analysis of […]",
+      "publishedAt": "2026-08-21T05:24:18.000Z",
+      "articleId": "deecb94d6cb9eebd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/more-evidence-on-the-effects-of-recent-tariffs.html?utm_source=rss&utm_medium=rss&utm_campaign=more-evidence-on-the-effects-of-recent-tariffs",
       "title": "More evidence on the effects of recent tariffs",
@@ -429,17 +440,6 @@
       "summary": "For decades, South Africa was the great success story of African industrialization. Last year, Morocco took the lead, emerging as the African Development Bank’s top-ranked industrial economy in Africa. In the Bank’s analysis, published in the latest edition of its industrialization index, Morocco’s growth has been “driven by sustained industrial upgrading, export diversification, and strong industrial policy.” Since […]",
       "publishedAt": "2026-08-18T05:18:42.000Z",
       "articleId": "d4e70ece03158a78"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-economics-is-changing",
-      "title": "How economics is changing",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "As a proportion of the literature, research about econometric theory, monetary policy and corporate governance has slumped. Meanwhile, papers on development, crime and gender are on the up. This could perhaps be because of changing intellectual interests, or maybe demand-side pressures, such as policymaker priorities and external funding… Research from Prashant Garg, a postdoctoral researcher […]",
-      "publishedAt": "2026-08-18T04:56:36.000Z",
-      "articleId": "83db90cf1d2f1f5d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
@@ -1902,7 +1902,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-21T04:50:09.350Z",
+  "weatherGeneratedAt": "2026-08-21T05:45:46.414Z",
   "weatherError": null,
   "sources": [
     {
