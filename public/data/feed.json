@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T23:35:42.326Z",
-  "fetchedAt": "2026-08-20T23:35:42.323Z",
+  "generatedAt": "2026-08-21T01:54:17.485Z",
+  "fetchedAt": "2026-08-21T01:54:17.480Z",
   "sourceCount": 23,
   "itemCount": 168,
   "totalItemCount": 784,
@@ -1890,21 +1890,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-scattered-afternoon-storms-some-strong/",
-    "title": "DC-area forecast: Scattered afternoon storms, some strong to severe",
+    "title": "DC-area forecast: Clearing skies tonight; pleasant and less humid Friday",
     "url": "https://www.capitalweather.com/dc-area-forecast-scattered-afternoon-storms-some-strong/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Some initial showers and storms continue to move through areas north of the Beltway through about 4:15 p.m. Scattered showers and storms become more likely elsewhere around 4 to 8 p.m. Some storms have potential for damaging winds or a tornado.",
+    "summary": "HAPPENING NOW: Maybe a stray evening shower south and east of DC. Otherwise clearing skies with decreasing humidity tonight and lows in the mid- to upper 60s.",
     "publishedAt": "2026-08-20T09:00:23.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
-    "articleId": "89b9154db90b7706",
-    "stale": true
+    "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-20T23:35:42.326Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-21T01:54:17.485Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
