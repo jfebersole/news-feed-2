@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-21T16:47:58.716Z",
-  "fetchedAt": "2026-08-21T16:47:58.707Z",
+  "generatedAt": "2026-08-21T17:40:31.011Z",
+  "fetchedAt": "2026-08-21T17:40:31.007Z",
   "sourceCount": 23,
-  "itemCount": 166,
-  "totalItemCount": 784,
+  "itemCount": 165,
+  "totalItemCount": 774,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
+      "title": "Your Book Review: A Residence Of 21 Years In The Sandwich Islands",
+      "url": "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #6 in the Book Review Contest",
+      "publishedAt": "2026-08-21T17:16:16.000Z",
+      "articleId": "4dbc987e8f01b7cb"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/app-snore/",
+      "title": "2026.34: App Snore",
+      "url": "https://stratechery.com/2026/app-snore/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "articleId": "1ba717bcfb2289f3"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-586",
       "title": "Friday assorted links",
@@ -1330,17 +1352,6 @@
       "articleId": "e2f214dc91275753"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
-      "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
-      "url": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
-      "publishedAt": "2026-08-04T10:00:00.000Z",
-      "articleId": "7dd90051b9ca0080"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
       "title": "The end of the age of heroes",
       "url": "https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
@@ -1743,17 +1754,6 @@
       "articleId": "18eb033a21703999"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/breakdown-in-pakistan",
-      "title": "Your Book Review: Breakdown In Pakistan",
-      "url": "https://www.astralcodexten.com/p/breakdown-in-pakistan",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #3 in the Book Review Contest",
-      "publishedAt": "2026-07-24T15:04:42.000Z",
-      "articleId": "94759845a55bffd5"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
       "title": "Are miracle drugs hiding in plain sight?",
       "url": "https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
@@ -1852,17 +1852,6 @@
       "summary": "The Giants didn't hire John Harbaugh to oversee a rebuild, but did they do enough to help the coach turn them into NFC contenders?",
       "publishedAt": "2026-07-23T10:00:42.000Z",
       "articleId": "0a991c8850166bb9"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "title": "A New Critique of Trumpism Goes Too Easy on Elites",
-      "url": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Even under populism, elite failure is still a problem.",
-      "publishedAt": "2026-07-22T16:51:44.000Z",
-      "articleId": "1ddedeee15548235"
     }
   ],
   "weather": {
@@ -1879,7 +1868,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T16:47:58.716Z",
+  "weatherGeneratedAt": "2026-08-21T17:40:31.011Z",
   "weatherError": null,
   "sources": [
     {
@@ -1893,10 +1882,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
