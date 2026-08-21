@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-21T07:03:48.123Z",
-  "fetchedAt": "2026-08-21T07:03:48.119Z",
+  "generatedAt": "2026-08-21T07:54:04.703Z",
+  "fetchedAt": "2026-08-21T07:54:04.699Z",
   "sourceCount": 23,
-  "itemCount": 168,
+  "itemCount": 167,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/rick-rubin-podcasts-with-me-3.html?utm_source=rss&utm_medium=rss&utm_campaign=rick-rubin-podcasts-with-me-3",
+      "title": "Rick Rubin podcasts with me",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/rick-rubin-podcasts-with-me-3.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Two hours, thirty-four minutes, Rick and I recorded this session not too long ago in Tuscany. It was everything Rick wanted to ask. Self-recommending of course, and there is more to come.",
+      "publishedAt": "2026-08-21T07:06:17.000Z",
+      "articleId": "f7a06967edfd2b25"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/green-shoots-for-the-uk.html?utm_source=rss&utm_medium=rss&utm_campaign=green-shoots-for-the-uk",
       "title": "Green shoots for the UK?",
@@ -429,17 +440,6 @@
       "summary": "Part 1 of my personal recommendations.",
       "publishedAt": "2026-08-18T05:21:55.000Z",
       "articleId": "f0b3e2ab58e32fd2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html?utm_source=rss&utm_medium=rss&utm_campaign=morocco-facts-of-the-day-morocco-is-not-hopeless",
-      "title": "Morocco facts of the day, Morocco is not hopeless",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "For decades, South Africa was the great success story of African industrialization. Last year, Morocco took the lead, emerging as the African Development Bank’s top-ranked industrial economy in Africa. In the Bank’s analysis, published in the latest edition of its industrialization index, Morocco’s growth has been “driven by sustained industrial upgrading, export diversification, and strong industrial policy.” Since […]",
-      "publishedAt": "2026-08-18T05:18:42.000Z",
-      "articleId": "d4e70ece03158a78"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
@@ -1875,17 +1875,6 @@
       "summary": "Modernity has meant fewer children in virtually every culture around the world. Do holdouts like Orthodox Jews have lessons for the rest of us?",
       "publishedAt": "2026-07-22T13:26:59.000Z",
       "articleId": "259cd35d6b7b6938"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
-      "title": "Who was the worst monster of the 20th century?",
-      "url": "https://www.noahpinion.blog/p/who-was-the-worst-monster-of-the",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "And who is the worst monster of the 21st?",
-      "publishedAt": "2026-07-22T07:34:05.000Z",
-      "articleId": "310c8e7a7569fbbc"
     }
   ],
   "weather": {
@@ -1902,7 +1891,7 @@
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-21T07:03:48.123Z",
+  "weatherGeneratedAt": "2026-08-21T07:54:04.703Z",
   "weatherError": null,
   "sources": [
     {
