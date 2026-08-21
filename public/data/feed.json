@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T20:36:37.768Z",
-  "fetchedAt": "2026-08-21T20:36:37.765Z",
+  "generatedAt": "2026-08-21T21:35:10.199Z",
+  "fetchedAt": "2026-08-21T21:35:10.188Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 784,
@@ -1856,21 +1856,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
-    "title": "DC-area forecast: Fairly bright and less humid today. Rain late tonight into Saturday.",
+    "title": "DC-area forecast: Rain arrives late tonight, lasts into Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Less humid as we head toward afternoon highs about 80 to 85. Skies are fairly bright despite a mix of sun and clouds.",
+    "summary": "HAPPENING NOW: Clouds increase this evening as temperatures fall back into and through the 70s. Rain holds off until later at night.",
     "publishedAt": "2026-08-21T09:00:55.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
-    "articleId": "d8228d44250a2b48",
-    "stale": true
+    "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T20:36:37.768Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-21T21:35:10.199Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
