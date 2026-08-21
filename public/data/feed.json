@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T01:54:17.485Z",
-  "fetchedAt": "2026-08-21T01:54:17.480Z",
+  "generatedAt": "2026-08-21T03:12:54.938Z",
+  "fetchedAt": "2026-08-21T03:12:54.934Z",
   "sourceCount": 23,
   "itemCount": 168,
   "totalItemCount": 784,
@@ -1895,14 +1895,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Maybe a stray evening shower south and east of DC. Otherwise clearing skies with decreasing humidity tonight and lows in the mid- to upper 60s.",
+    "summary": "HAPPENING NOW: Partly cloudy with decreasing humidity tonight and lows in the mid- to upper 60s.",
     "publishedAt": "2026-08-20T09:00:23.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures are a little lower than yesterday but it's a good deal more humid and there's a storm threat.",
     "articleId": "89b9154db90b7706"
   },
-  "weatherGeneratedAt": "2026-08-21T01:54:17.485Z",
+  "weatherGeneratedAt": "2026-08-21T03:12:54.938Z",
   "weatherError": null,
   "sources": [
     {
