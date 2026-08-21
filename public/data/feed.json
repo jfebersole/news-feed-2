@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-21T09:49:19.053Z",
-  "fetchedAt": "2026-08-21T09:49:19.045Z",
+  "generatedAt": "2026-08-21T10:44:04.123Z",
+  "fetchedAt": "2026-08-21T10:44:04.118Z",
   "sourceCount": 23,
   "itemCount": 167,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/giving-the-people-what-they-want",
+      "title": "Giving the people what they want (not data centers)",
+      "url": "https://www.slowboring.com/p/giving-the-people-what-they-want",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus dynamism, Rock Creek Park, and all the practical problems with abolishing ICE",
+      "publishedAt": "2026-08-21T10:02:18.000Z",
+      "articleId": "4627b41169e4bd43"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/rick-rubin-podcasts-with-me-3.html?utm_source=rss&utm_medium=rss&utm_campaign=rick-rubin-podcasts-with-me-3",
       "title": "Rick Rubin podcasts with me",
@@ -950,17 +961,6 @@
       "articleId": "1d77d94a63828422"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-20-burrito-tearing-the-republican",
-      "title": "The $20 burrito tearing the Republican Party apart",
-      "url": "https://www.slowboring.com/p/the-20-burrito-tearing-the-republican",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Trump promised lower prices and has delivered the reverse.",
-      "publishedAt": "2026-08-11T10:00:38.000Z",
-      "articleId": "b007e418fd7a1457"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/nvidias-risky-business/",
       "title": "Nvidia’s Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
@@ -1891,7 +1891,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T09:49:19.053Z",
+  "weatherGeneratedAt": "2026-08-21T10:44:04.123Z",
   "weatherError": null,
   "sources": [
     {
