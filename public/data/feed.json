@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T12:57:02.124Z",
-  "fetchedAt": "2026-08-22T12:57:02.121Z",
+  "generatedAt": "2026-08-22T13:40:39.016Z",
+  "fetchedAt": "2026-08-22T13:40:39.013Z",
   "sourceCount": 23,
-  "itemCount": 167,
+  "itemCount": 166,
   "totalItemCount": 785,
   "items": [
     {
@@ -1866,17 +1866,6 @@
       "summary": "Is it really plausible that children survived the hardship of medieval life without devoted parents?",
       "publishedAt": "2026-07-23T14:07:16.000Z",
       "articleId": "722a1b8379239db3"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/can-we-lower-construction-costs-with",
-      "title": "Can We Lower Construction Costs with Cheaper Labor or Materials?",
-      "url": "https://www.construction-physics.com/p/can-we-lower-construction-costs-with",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Last time in our series on the nature of the construction productivity problem, we looked at economies of scale, finding that capturing economies of scale in homebuilding is difficult.",
-      "publishedAt": "2026-07-23T13:05:38.000Z",
-      "articleId": "c7043a72101e993f"
     }
   ],
   "weather": {
@@ -1893,7 +1882,7 @@
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T12:57:02.124Z",
+  "weatherGeneratedAt": "2026-08-22T13:40:39.016Z",
   "weatherError": null,
   "sources": [
     {
