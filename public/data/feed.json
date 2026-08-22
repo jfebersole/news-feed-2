@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T04:45:26.582Z",
-  "fetchedAt": "2026-08-22T04:45:26.578Z",
+  "generatedAt": "2026-08-22T05:38:26.143Z",
+  "fetchedAt": "2026-08-22T05:38:26.139Z",
   "sourceCount": 23,
   "itemCount": 167,
-  "totalItemCount": 785,
+  "totalItemCount": 775,
   "items": [
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
@@ -1892,7 +1892,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-22T04:45:26.582Z",
+  "weatherGeneratedAt": "2026-08-22T05:38:26.143Z",
   "weatherError": null,
   "sources": [
     {
@@ -1906,10 +1906,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
