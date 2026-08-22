@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T23:34:42.476Z",
-  "fetchedAt": "2026-08-21T23:34:42.473Z",
+  "generatedAt": "2026-08-22T01:46:52.212Z",
+  "fetchedAt": "2026-08-22T01:46:52.208Z",
   "sourceCount": 23,
   "itemCount": 166,
   "totalItemCount": 785,
@@ -1868,7 +1868,7 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
-    "title": "DC-area forecast: Rain arrives late tonight, lasts into Saturday",
+    "title": "DC-area forecast: Rain arrives late tonight, lasts into at least part of Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
@@ -1880,7 +1880,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-21T23:34:42.476Z",
+  "weatherGeneratedAt": "2026-08-22T01:46:52.212Z",
   "weatherError": null,
   "sources": [
     {
