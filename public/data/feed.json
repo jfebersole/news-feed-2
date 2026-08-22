@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-22T16:36:28.348Z",
-  "fetchedAt": "2026-08-22T16:36:28.344Z",
+  "generatedAt": "2026-08-22T17:32:48.560Z",
+  "fetchedAt": "2026-08-22T17:32:48.557Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 785,
+  "itemCount": 162,
+  "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived",
+      "title": "Has the European turnaround finally arrived?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Europe just had its best reporting season in years. Companies in the benchmark Stoxx Europe 600 index boosted earnings per share by 18% on average in the second quarter compared with a year earlier. Earnings barely grew at all in 2025 and 2024 as the strongest companies in the index were offset by weaker players. […]",
+      "publishedAt": "2026-08-22T16:57:33.000Z",
+      "articleId": "53cee5f0e19f37b8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-575",
       "title": "Saturday assorted links",
@@ -388,17 +399,6 @@
       "summary": "Wealthy buyers are buying houses a million over asking with cash while everyone else watches starts fall and rates stay stubborn. Localities are experimenting with solutions to close the yawning gap.",
       "publishedAt": "2026-08-19T22:01:42.000Z",
       "articleId": "2953bb9c3b878bdc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html?utm_source=rss&utm_medium=rss&utm_campaign=declining-occupations-and-career-outcomes-in-the-united-states",
-      "title": "Declining Occupations and Career Outcomes in the United States",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This strikes me as somewhat less of a problem than I might have thought: We study long-run career consequences of initial employment in an occupation that subsequently declines. Linking the 2000 Decennial Census to US administrative employment and earnings records through 2020, we follow more than 2.4 million workers. Employment in an occupation that contracts […]",
-      "publishedAt": "2026-08-19T18:41:36.000Z",
-      "articleId": "c6d2a8375b4ee3cf"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qdgslutvo9yt7szfulal.html",
@@ -939,17 +939,6 @@
       "summary": "Few people know how much medicine has progressed in their lifetimes. Fewer know how much faster it could be progressing.",
       "publishedAt": "2026-08-12T13:03:25.000Z",
       "articleId": "9a2afad9e1aa4ef2"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/abdul-el-sayed-can-win-moderate-voters",
-      "title": "Abdul El-Sayed can win moderate voters",
-      "url": "https://www.slowboring.com/p/abdul-el-sayed-can-win-moderate-voters",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "A roadmap for getting to yes — if he makes the effort",
-      "publishedAt": "2026-08-12T10:03:50.000Z",
-      "articleId": "c0af7738fc6318ff"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
@@ -1833,34 +1822,23 @@
       "summary": "The Summer 2026 Edition",
       "publishedAt": "2026-07-23T18:05:24.000Z",
       "articleId": "3a1d098fa3da2b45"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/when-radio-died",
-      "title": "When Radio Died",
-      "url": "https://www.cantgetmuchhigher.com/p/when-radio-died",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "I'm so sorry, Marconi",
-      "publishedAt": "2026-07-23T17:30:16.000Z",
-      "articleId": "d79ba93c5ef40d4e"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
-    "title": "DC-area forecast: Cloudy but mostly dry this afternoon; showers and storms likely tonight",
+    "title": "DC-area forecast: Mostly dry this afternoon; showers and storms likely tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers, some heavy, in Southern Maryland and near the bay clear by mid-afternoon. Elsewhere, mostly cloudy skies with highs in the mid-70s to near 80.",
+    "summary": "HAPPENING NOW: Showers, some heavy, in Southern Maryland and near the Chesapeake Bay clear by midafternoon. Elsewhere, mostly to partly cloudy with highs in the mid-70s to near 80.",
     "publishedAt": "2026-08-22T09:00:05.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T16:36:28.348Z",
+  "weatherGeneratedAt": "2026-08-22T17:32:48.560Z",
   "weatherError": null,
   "sources": [
     {
@@ -1963,7 +1941,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
