@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T03:04:34.561Z",
-  "fetchedAt": "2026-08-22T03:04:34.557Z",
+  "generatedAt": "2026-08-22T03:53:43.174Z",
+  "fetchedAt": "2026-08-22T03:53:43.171Z",
   "sourceCount": 23,
   "itemCount": 167,
   "totalItemCount": 785,
@@ -1880,7 +1880,7 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
-    "title": "DC-area forecast: Rain arrives late tonight, lasts into at least part of Saturday",
+    "title": "DC-area forecast: Showers arrive late tonight, last into at least part of Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
@@ -1890,11 +1890,10 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
-    "articleId": "d8228d44250a2b48",
-    "stale": true
+    "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-22T03:04:34.561Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-22T03:53:43.174Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
