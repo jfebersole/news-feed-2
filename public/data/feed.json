@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-22T18:46:03.237Z",
-  "fetchedAt": "2026-08-22T18:46:03.233Z",
+  "generatedAt": "2026-08-22T19:31:41.096Z",
+  "fetchedAt": "2026-08-22T19:31:41.092Z",
   "sourceCount": 23,
-  "itemCount": 161,
+  "itemCount": 162,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-48-key-house-races",
+      "title": "A tour of the 48 key House races",
+      "url": "https://www.natesilver.net/p/a-tour-of-the-48-key-house-races",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "In the Northeast, Midwest and West, it’s almost all upside for Democrats. But redistricting will hand Republicans some seats in the South.",
+      "publishedAt": "2026-08-22T19:22:11.000Z",
+      "articleId": "471de1cf42d5749d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived",
       "title": "Has the European turnaround finally arrived?",
@@ -1820,16 +1832,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers, some heavy, in Southern Maryland and near the Chesapeake Bay clear by midafternoon. Elsewhere, mostly to partly cloudy with highs in the mid-70s to near 80.",
+    "summary": "HAPPENING NOW: Mostly to partly cloudy this afternoon with a slight chance of a quick shower and highs in the mid-70s to near 80.",
     "publishedAt": "2026-08-22T09:00:05.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
-    "articleId": "a5dae4064646e553",
-    "stale": true
+    "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T18:46:03.237Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-22T19:31:41.096Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
