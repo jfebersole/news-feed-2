@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T17:32:48.560Z",
-  "fetchedAt": "2026-08-22T17:32:48.557Z",
+  "generatedAt": "2026-08-22T18:46:03.237Z",
+  "fetchedAt": "2026-08-22T18:46:03.233Z",
   "sourceCount": 23,
-  "itemCount": 162,
+  "itemCount": 161,
   "totalItemCount": 784,
   "items": [
     {
@@ -1811,17 +1811,6 @@
       "summary": "Not starting on the PUP list does not mean Nabers, who is recovering from a torn ACL, will be at full speed at the start of camp.",
       "publishedAt": "2026-07-23T22:02:01.000Z",
       "articleId": "9039742f85eea094"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
-      "title": "An opinionated guide to which AI to use to do stuff",
-      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "The Summer 2026 Edition",
-      "publishedAt": "2026-07-23T18:05:24.000Z",
-      "articleId": "3a1d098fa3da2b45"
     }
   ],
   "weather": {
@@ -1836,10 +1825,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
-    "articleId": "a5dae4064646e553"
+    "articleId": "a5dae4064646e553",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-22T17:32:48.560Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-22T18:46:03.237Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
