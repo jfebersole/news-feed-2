@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-22T10:36:41.737Z",
-  "fetchedAt": "2026-08-22T10:36:41.731Z",
+  "generatedAt": "2026-08-22T11:31:55.473Z",
+  "fetchedAt": "2026-08-22T11:31:55.470Z",
   "sourceCount": 23,
   "itemCount": 166,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
+      "title": "The Week That Was (August 17-21, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-08-22T09:01:24.000Z",
+      "articleId": "c27b4181bded569c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
       "title": "What should I ask Annie Lowrey?",
@@ -442,17 +453,6 @@
       "summary": "Apple's App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it's ok it's late.",
       "publishedAt": "2026-08-19T10:00:00.000Z",
       "articleId": "9f1460ecb989fdfd"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
-      "title": "The White Sox Are a Miracle",
-      "url": "https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Just a few years after hitting rock-bottom and losing their once-promising core, Chicago has built back to respectability in record time — with a totally new group.",
-      "publishedAt": "2026-08-19T09:01:34.000Z",
-      "articleId": "1a95b0822fe76fae"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
@@ -1881,7 +1881,7 @@
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T10:36:41.737Z",
+  "weatherGeneratedAt": "2026-08-22T11:31:55.473Z",
   "weatherError": null,
   "sources": [
     {
