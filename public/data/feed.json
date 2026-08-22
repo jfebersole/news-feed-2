@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T19:31:41.096Z",
-  "fetchedAt": "2026-08-22T19:31:41.092Z",
+  "generatedAt": "2026-08-22T20:35:27.067Z",
+  "fetchedAt": "2026-08-22T20:35:27.063Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
@@ -1827,19 +1827,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
-    "title": "DC-area forecast: Mostly dry this afternoon; showers and storms likely tonight",
+    "title": "DC-area forecast: Damp by late evening with showers and storms into tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly to partly cloudy this afternoon with a slight chance of a quick shower and highs in the mid-70s to near 80.",
+    "summary": "HAPPENING NOW: Other than a small chance of a brief shower or pop-up storm, it's not until after 8 or 9 p.m. that we need to watch a cluster or line of storms more effectively dampen the region into the night. One or two storms could have gusty winds.",
     "publishedAt": "2026-08-22T09:00:05.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T19:31:41.096Z",
+  "weatherGeneratedAt": "2026-08-22T20:35:27.067Z",
   "weatherError": null,
   "sources": [
     {
