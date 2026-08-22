@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T15:32:42.183Z",
-  "fetchedAt": "2026-08-22T15:32:42.179Z",
+  "generatedAt": "2026-08-22T16:36:28.348Z",
+  "fetchedAt": "2026-08-22T16:36:28.344Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
@@ -1848,19 +1848,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
-    "title": "DC-area forecast: Muggy with some showers today, then nicer days return",
+    "title": "DC-area forecast: Cloudy but mostly dry this afternoon; showers and storms likely tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and maybe a rumble are with us this morning, especially I-95 and east, then tapering in coverage late morning into afternoon. Muggy highs only reach the mid-70s to near 80.",
+    "summary": "HAPPENING NOW: Showers, some heavy, in Southern Maryland and near the bay clear by mid-afternoon. Elsewhere, mostly cloudy skies with highs in the mid-70s to near 80.",
     "publishedAt": "2026-08-22T09:00:05.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T15:32:42.183Z",
+  "weatherGeneratedAt": "2026-08-22T16:36:28.348Z",
   "weatherError": null,
   "sources": [
     {
