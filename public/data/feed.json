@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-22T11:31:55.473Z",
-  "fetchedAt": "2026-08-22T11:31:55.470Z",
+  "generatedAt": "2026-08-22T12:57:02.124Z",
+  "fetchedAt": "2026-08-22T12:57:02.121Z",
   "sourceCount": 23,
-  "itemCount": 166,
+  "itemCount": 167,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082226",
+      "title": "Reading List 08/22/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082226",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Los Angeles’ ADUs, electrical transformer manufacturing, gas turbine power plants, how water in the Colorado River is used, and more.",
+      "publishedAt": "2026-08-22T12:02:58.000Z",
+      "articleId": "dc407f3a89ae772f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html?utm_source=rss&utm_medium=rss&utm_campaign=the-end-of-friday-nights-with-friends",
+      "title": "The End of Friday Nights with Friends",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This study examines how Americans’ time with friends has changed over the week, focusing not on how much social interaction has declined but on when it has. Using American Time Use Survey data from 2003 to 2024 (N = 243,095), I map hourly patterns of “friend time” across the days of the week. In the […]",
+      "publishedAt": "2026-08-22T10:26:30.000Z",
+      "articleId": "0df291e832ea3a53"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
       "title": "The Week That Was (August 17-21, 2026)",
@@ -398,17 +421,6 @@
       "summary": "Watching the force Reese plays with can make it easy to forget he is only 20 years old. His power has seamlessly transitioned to the NFL.",
       "publishedAt": "2026-08-19T14:49:27.000Z",
       "articleId": "33b1ec05a1ec39d6"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/how-much-can-you-consistently-care-about-animal-welfare.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-can-you-consistently-care-about-animal-welfare",
-      "title": "How much can you consistently care about animal welfare?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-can-you-consistently-care-about-animal-welfare.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We explore the welfare costs of the loss of animal life in a consequentialist total utilitarian framework that incorporates the intrinsic value of living beings through their sentience. Moral philosophy and neuroscience define sentience as the capacity for valenced experience. Observable performance on cognitive tests represents a conservative lower bound on sentience under plausible neuroscientific […]",
-      "publishedAt": "2026-08-19T14:36:08.000Z",
-      "articleId": "68287dc9809693a4"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7523773/2026/08/19/new-york-giants-jaguars-trade-daniel-faalele/",
@@ -1874,14 +1886,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and maybe a rumble are with us this morning, then perhaps tapering late morning into afternoon. Muggy highs only reach the mid-70s to near 80.",
+    "summary": "HAPPENING NOW: Showers and maybe a rumble are with us this morning, especially I-95 and east, then tapering in coverage late morning into afternoon. Muggy highs only reach the mid-70s to near 80.",
     "publishedAt": "2026-08-22T09:00:05.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T11:31:55.473Z",
+  "weatherGeneratedAt": "2026-08-22T12:57:02.124Z",
   "weatherError": null,
   "sources": [
     {
