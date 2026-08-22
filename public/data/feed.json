@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-22T05:38:26.143Z",
-  "fetchedAt": "2026-08-22T05:38:26.139Z",
+  "generatedAt": "2026-08-22T06:56:11.639Z",
+  "fetchedAt": "2026-08-22T06:56:11.635Z",
   "sourceCount": 23,
   "itemCount": 167,
-  "totalItemCount": 775,
+  "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
+      "title": "What should I ask Annie Lowrey?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a Conversation with her. She has a new and very interesting book coming out, namely The Time Tax: How the Government Wastes Our Time―and How to Fix It. More generally, from Wikipedia: Annie M. Lowrey…is an American journalist who writes on politics and economic policy for The Atlantic. Previously, Lowrey covered economic […]",
+      "publishedAt": "2026-08-22T06:37:48.000Z",
+      "articleId": "d697a6398c9afdd3"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
       "title": "Are we watching the U.S. go bankrupt?",
@@ -453,17 +464,6 @@
       "summary": "...",
       "publishedAt": "2026-08-19T05:24:22.000Z",
       "articleId": "3755894f311e5ed3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalizing-untethered-ai-agents",
-      "title": "Capitalizing untethered AI agents",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is my latest piece of writing, co-authored with Sonia Farrell Pearson of Harvard. Here is the opening premise: As early as 2017, the European Parliament floated “electronic personhood” for robots. More recently, a handful of U.S. states introduced legislation explicitly barring AI from legal personhood; and early this summer, President Milei of Argentina proposed letting AI agents own, manage, and bear responsibility […]",
-      "publishedAt": "2026-08-19T04:21:02.000Z",
-      "articleId": "5f102190bfb2a890"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/1990s-hip-hop-an-album-a-day",
@@ -1892,7 +1892,7 @@
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
     "articleId": "d8228d44250a2b48"
   },
-  "weatherGeneratedAt": "2026-08-22T05:38:26.143Z",
+  "weatherGeneratedAt": "2026-08-22T06:56:11.639Z",
   "weatherError": null,
   "sources": [
     {
@@ -1906,10 +1906,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
