@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-22T01:46:52.212Z",
-  "fetchedAt": "2026-08-22T01:46:52.208Z",
+  "generatedAt": "2026-08-22T03:04:34.561Z",
+  "fetchedAt": "2026-08-22T03:04:34.557Z",
   "sourceCount": 23,
-  "itemCount": 166,
+  "itemCount": 167,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
+      "title": "Are we watching the U.S. go bankrupt?",
+      "url": "https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "No, but there are still reasons for concern.",
+      "publishedAt": "2026-08-22T01:47:17.000Z",
+      "articleId": "b824db9b909c976a"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-kind-of-democrat-can-win",
       "title": "What kind of Democrat can win?",
@@ -1878,10 +1890,11 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
-    "articleId": "d8228d44250a2b48"
+    "articleId": "d8228d44250a2b48",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-22T01:46:52.212Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-22T03:04:34.561Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
