@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T22:34:46.586Z",
-  "fetchedAt": "2026-08-22T22:34:46.581Z",
+  "generatedAt": "2026-08-22T23:32:02.465Z",
+  "fetchedAt": "2026-08-22T23:32:02.460Z",
   "sourceCount": 23,
   "itemCount": 161,
   "totalItemCount": 784,
@@ -1826,11 +1826,10 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
-    "articleId": "a5dae4064646e553",
-    "stale": true
+    "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T22:34:46.586Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-22T23:32:02.465Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
