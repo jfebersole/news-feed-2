@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T08:43:48.185Z",
-  "fetchedAt": "2026-08-22T08:43:48.180Z",
+  "generatedAt": "2026-08-22T09:37:34.649Z",
+  "fetchedAt": "2026-08-22T09:37:34.644Z",
   "sourceCount": 23,
   "itemCount": 167,
   "totalItemCount": 785,
@@ -1879,20 +1879,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
-    "title": "DC-area forecast: Showers arrive late tonight, last into at least part of Saturday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-partly-cloudy-today-rain-late-tonight-into-saturday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
+    "title": "DC-area forecast: Muggy with some showers today, then nicer days return",
+    "url": "https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds thicken this evening as temperatures fall back through the 70s. A shower is possible before midnight, but any steadier rain holds off until later.",
-    "publishedAt": "2026-08-21T09:00:55.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "A reasonably nice August Friday with less humidity.",
-    "articleId": "d8228d44250a2b48"
+    "summary": "HAPPENING NOW: Showers and maybe a rumble are with us this morning, then perhaps tapering late morning into afternoon. Muggy highs only reach the mid-70s to near 80.",
+    "publishedAt": "2026-08-22T09:00:05.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
+    "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T08:43:48.185Z",
+  "weatherGeneratedAt": "2026-08-22T09:37:34.649Z",
   "weatherError": null,
   "sources": [
     {
