@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T14:34:31.907Z",
-  "fetchedAt": "2026-08-22T14:34:31.904Z",
+  "generatedAt": "2026-08-22T15:32:42.183Z",
+  "fetchedAt": "2026-08-22T15:32:42.179Z",
   "sourceCount": 23,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 785,
   "items": [
     {
@@ -1844,17 +1844,6 @@
       "summary": "I'm so sorry, Marconi",
       "publishedAt": "2026-07-23T17:30:16.000Z",
       "articleId": "d79ba93c5ef40d4e"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
-      "title": "How Trump and His Allies Can Corrupt the Midterms",
-      "url": "https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Stop the steal before it starts.",
-      "publishedAt": "2026-07-23T14:51:04.000Z",
-      "articleId": "3e6cc887b82140bb"
     }
   ],
   "weather": {
@@ -1871,7 +1860,7 @@
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-22T14:34:31.907Z",
+  "weatherGeneratedAt": "2026-08-22T15:32:42.183Z",
   "weatherError": null,
   "sources": [
     {
