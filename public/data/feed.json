@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-23T16:38:41.781Z",
-  "fetchedAt": "2026-08-23T16:38:41.778Z",
+  "generatedAt": "2026-08-23T17:31:53.085Z",
+  "fetchedAt": "2026-08-23T17:31:53.083Z",
   "sourceCount": 23,
-  "itemCount": 164,
+  "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-08-23T17:00:44.000Z",
+      "articleId": "7c8d0c47e489d702"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-581",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. “Underestimating something that has an AI “accent” by reflexively dismissing it as slop rhymes curiously with underestimating someone because they have a funny accent in your native language (and it isn’t one of the accents that you think signals superiority, like the BBC British accent for English).” V. Rao. 2. Profile of Joe Lonsdale. […]",
+      "publishedAt": "2026-08-23T16:49:19.000Z",
+      "articleId": "9c9a3951bceb46f5"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "title": "Twitter Broke the Left. X Will Break the Right.",
@@ -386,17 +409,6 @@
       "summary": "According to the vice president, we are wasting our freedom.",
       "publishedAt": "2026-08-20T16:13:37.000Z",
       "articleId": "b5a31da5357e6a8d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-566",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-566.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. This guy is productive. Yes very productive. 2. “Mercor is building a network of experienced data scientists for potential future projects with leading AI research organizations.” And The New Statesman covers the poetry project. 3. How did the English build such beautiful villages? 4. Two Percent Podcast with Tyler Cowen, fifty-two minutes, we discuss […]",
-      "publishedAt": "2026-08-20T16:02:33.000Z",
-      "articleId": "8833bcce5c84c9d2"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
@@ -962,18 +974,6 @@
       "summary": "...",
       "publishedAt": "2026-08-13T04:09:15.000Z",
       "articleId": "83f54b96618146fb"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/new-york-is-building-but-where",
-      "title": "New York is building. But where?",
-      "url": "https://www.slowboring.com/p/new-york-is-building-but-where",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus San Diego’s YIMBY mayor and recovery from wildfire displacement",
-      "publishedAt": "2026-08-12T22:02:07.000Z",
-      "articleId": "fe39abeed556f4f0"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/nwnqwbxqs1m0w44szf7j.html",
@@ -1833,18 +1833,6 @@
       "summary": "China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more.",
       "publishedAt": "2026-07-25T14:01:08.000Z",
       "articleId": "a66a6b5cbfff3f37"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/not-just-a-cheap-date",
-      "title": "Not just a cheap date",
-      "url": "https://scottsumner.substack.com/p/not-just-a-cheap-date",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Fable is more like a high end escort",
-      "publishedAt": "2026-07-24T16:58:12.000Z",
-      "articleId": "18eb033a21703999"
     }
   ],
   "weather": {
@@ -1859,10 +1847,11 @@
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
-    "articleId": "7be203f3abf64dd1"
+    "articleId": "7be203f3abf64dd1",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-23T16:38:41.781Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-23T17:31:53.085Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
