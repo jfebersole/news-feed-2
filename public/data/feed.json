@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-22T23:32:02.465Z",
-  "fetchedAt": "2026-08-22T23:32:02.460Z",
+  "generatedAt": "2026-08-23T01:56:49.220Z",
+  "fetchedAt": "2026-08-23T01:56:49.215Z",
   "sourceCount": 23,
-  "itemCount": 161,
+  "itemCount": 162,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7532144/2026/08/22/new-york-giants-tyrone-tracy-jr-stock-report/",
+      "title": "Giants stock report: How Tyrone Tracy Jr.'s week went from bad to worse vs. Dolphins",
+      "url": "https://www.nytimes.com/athletic/7532144/2026/08/22/new-york-giants-tyrone-tracy-jr-stock-report/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "First, Tracy missed a block that got Jaxson Dart crushed; then New York signed Najee Harris. On Saturday, somehow, things got worse.",
+      "publishedAt": "2026-08-23T01:02:46.000Z",
+      "articleId": "61c272bb75b20c6b"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-48-key-house-races",
       "title": "A tour of the 48 key House races",
@@ -1826,10 +1837,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
-    "articleId": "a5dae4064646e553"
+    "articleId": "a5dae4064646e553",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-22T23:32:02.465Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-23T01:56:49.220Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
