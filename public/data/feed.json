@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T01:56:49.220Z",
-  "fetchedAt": "2026-08-23T01:56:49.215Z",
+  "generatedAt": "2026-08-23T03:12:24.958Z",
+  "fetchedAt": "2026-08-23T03:12:24.954Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
@@ -1832,16 +1832,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Other than a small chance of a brief shower or pop-up storm, it's not until after 8 or 9 p.m. that we need to watch a cluster or line of storms more effectively dampen the region into the night. One or two storms could have gusty winds.",
+    "summary": "HAPPENING NOW: Showers and storms move across the area into the early overnight hours with heavy rain and lightning. One or two storms could have gusty winds. Evening 70s slowly sag to lows in the mid-60s to near 70.",
     "publishedAt": "2026-08-22T09:00:05.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
-    "articleId": "a5dae4064646e553",
-    "stale": true
+    "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-23T01:56:49.220Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-23T03:12:24.958Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
