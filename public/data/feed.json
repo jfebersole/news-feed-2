@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-23T13:41:40.274Z",
-  "fetchedAt": "2026-08-23T13:41:40.270Z",
+  "generatedAt": "2026-08-23T14:35:39.868Z",
+  "fetchedAt": "2026-08-23T14:35:39.860Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
+      "publishedAt": "2026-08-23T14:10:10.000Z",
+      "articleId": "62ab3ec8047e7531"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
       "title": "How to Survive as a Music Critic: A Conversation with Steven Hyden",
@@ -27,17 +38,6 @@
       "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […]",
       "publishedAt": "2026-08-23T11:15:42.000Z",
       "articleId": "ae5bd5606ea68206"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "title": "Twitter Broke the Left. X Will Break the Right.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
-      "publishedAt": "2026-08-23T10:00:22.000Z",
-      "articleId": "62ab3ec8047e7531"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
@@ -1861,7 +1861,7 @@
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
     "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T13:41:40.274Z",
+  "weatherGeneratedAt": "2026-08-23T14:35:39.868Z",
   "weatherError": null,
   "sources": [
     {
