@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T22:34:45.643Z",
-  "fetchedAt": "2026-08-23T22:34:45.637Z",
+  "generatedAt": "2026-08-23T23:32:40.176Z",
+  "fetchedAt": "2026-08-23T23:32:40.171Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
@@ -1847,10 +1847,11 @@
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
-    "articleId": "7be203f3abf64dd1"
+    "articleId": "7be203f3abf64dd1",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-23T22:34:45.643Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-23T23:32:40.176Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
