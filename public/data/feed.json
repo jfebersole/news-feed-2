@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-23T10:36:11.004Z",
-  "fetchedAt": "2026-08-23T10:36:11.001Z",
+  "generatedAt": "2026-08-23T11:31:57.725Z",
+  "fetchedAt": "2026-08-23T11:31:57.721Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
+      "title": "Democracy and Caeserism",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […]",
+      "publishedAt": "2026-08-23T11:15:42.000Z",
+      "articleId": "ae5bd5606ea68206"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "title": "Twitter Broke the Left. X Will Break the Right.",
@@ -374,17 +385,6 @@
       "summary": "1. This guy is productive. Yes very productive. 2. “Mercor is building a network of experienced data scientists for potential future projects with leading AI research organizations.” And The New Statesman covers the poetry project. 3. How did the English build such beautiful villages? 4. Two Percent Podcast with Tyler Cowen, fifty-two minutes, we discuss […]",
       "publishedAt": "2026-08-20T16:02:33.000Z",
       "articleId": "8833bcce5c84c9d2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/there-are-now-eight-episodes.html?utm_source=rss&utm_medium=rss&utm_campaign=there-are-now-eight-episodes",
-      "title": "There are now eight episodes",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/there-are-now-eight-episodes.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Everyday Abundance podcast explores the hidden histories behind everyday activities and the technologies we don’t even know are technologies. Virginia Postrel and Charles C. Mann dive into the surprising stories behind everything from brushing your teeth to driving your car. Listen, subscribe, and rate us on Spotify, Apple Podcasts, Amazon, YouTube, or wherever you listen to podcasts. Here […]",
-      "publishedAt": "2026-08-20T12:26:13.000Z",
-      "articleId": "67d5c6de0c527877"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
@@ -1860,7 +1860,7 @@
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
     "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T10:36:11.004Z",
+  "weatherGeneratedAt": "2026-08-23T11:31:57.725Z",
   "weatherError": null,
   "sources": [
     {
