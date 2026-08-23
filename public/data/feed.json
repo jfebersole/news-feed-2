@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T08:44:51.143Z",
-  "fetchedAt": "2026-08-23T08:44:51.138Z",
+  "generatedAt": "2026-08-23T09:38:15.929Z",
+  "fetchedAt": "2026-08-23T09:38:15.927Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
@@ -1825,20 +1825,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
-    "title": "DC-area forecast: Damp by late evening with showers and storms into tonight",
-    "url": "https://www.capitalweather.com/dc-area-forecast-wet-start-to-the-weekend-then-nicer-days-return/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-plenty-of-sun-and-comfortable-humidity-the-next-few-days/",
+    "title": "DC-area forecast: Plenty of sun and comfortable humidity the next few days",
+    "url": "https://www.capitalweather.com/dc-area-forecast-plenty-of-sun-and-comfortable-humidity-the-next-few-days/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and storms move across the area into the early overnight hours with heavy rain and lightning. One or two storms could have gusty winds. Evening 70s slowly sag to lows in the mid-60s to near 70.",
-    "publishedAt": "2026-08-22T09:00:05.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
-    "articleId": "a5dae4064646e553"
+    "summary": "HAPPENING NOW: Mostly sunny today with morning temperatures rising through the 60s and 70s. Nice day for outdoor activities with highs in the low to mid-80s and decreasing humidity.",
+    "publishedAt": "2026-08-23T09:00:16.000Z",
+    "dailyDigit": 8,
+    "dailyDigitLabel": "8/10",
+    "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
+    "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T08:44:51.143Z",
+  "weatherGeneratedAt": "2026-08-23T09:38:15.929Z",
   "weatherError": null,
   "sources": [
     {
