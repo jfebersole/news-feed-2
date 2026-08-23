@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T17:31:53.085Z",
-  "fetchedAt": "2026-08-23T17:31:53.083Z",
+  "generatedAt": "2026-08-23T18:45:20.853Z",
+  "fetchedAt": "2026-08-23T18:45:20.849Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
@@ -1842,16 +1842,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny today with morning temperatures rising through the 60s and 70s. Nice day for outdoor activities with highs in the low to mid-80s and decreasing humidity.",
+    "summary": "HAPPENING NOW: Mostly sunny and nice today for outdoor activities with highs in the low to mid-80s and decreasing humidity.",
     "publishedAt": "2026-08-23T09:00:16.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
-    "articleId": "7be203f3abf64dd1",
-    "stale": true
+    "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T17:31:53.085Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-23T18:45:20.853Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
