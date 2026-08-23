@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-23T05:40:37.692Z",
-  "fetchedAt": "2026-08-23T05:40:37.689Z",
+  "generatedAt": "2026-08-23T06:57:35.690Z",
+  "fetchedAt": "2026-08-23T06:57:35.685Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
+      "title": "My recent visit to Anthropic",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I very recently participated in a two-day session to offer guidance on rewriting the constitution for Claude. The small group invited was uniformly excellent, we received serious time with key decision-makers, and the discussions were of very high quality. Some of the points I stressed were the following: 1. Whatever one might take a “constitution” […]",
+      "publishedAt": "2026-08-23T06:32:29.000Z",
+      "articleId": "c80456dea175f57c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
       "title": "The new agentic O-ring world",
@@ -341,17 +352,6 @@
       "summary": "The Everyday Abundance podcast explores the hidden histories behind everyday activities and the technologies we don’t even know are technologies. Virginia Postrel and Charles C. Mann dive into the surprising stories behind everything from brushing your teeth to driving your car. Listen, subscribe, and rate us on Spotify, Apple Podcasts, Amazon, YouTube, or wherever you listen to podcasts. Here […]",
       "publishedAt": "2026-08-20T12:26:13.000Z",
       "articleId": "67d5c6de0c527877"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html?utm_source=rss&utm_medium=rss&utm_campaign=did-ubi-make-people-happier",
-      "title": "Did UBI make people happier?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Eh, only in the short run: We study the causal impacts of income on a rich array of employment outcomes, leveraging an experiment in which 1,000 low-income individuals were randomized into receiving $1,000 per month unconditionally for three years, with a control group of 2,000 participants receiving $50/month. We gather detailed survey data, administrative records, […]",
-      "publishedAt": "2026-08-20T10:19:40.000Z",
-      "articleId": "a30cce79c2c4d4b4"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
@@ -1839,7 +1839,7 @@
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-23T05:40:37.692Z",
+  "weatherGeneratedAt": "2026-08-23T06:57:35.690Z",
   "weatherError": null,
   "sources": [
     {
