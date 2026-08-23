@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-23T09:38:15.929Z",
-  "fetchedAt": "2026-08-23T09:38:15.927Z",
+  "generatedAt": "2026-08-23T10:36:11.004Z",
+  "fetchedAt": "2026-08-23T10:36:11.001Z",
   "sourceCount": 23,
-  "itemCount": 162,
+  "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
+      "publishedAt": "2026-08-23T10:00:21.000Z",
+      "articleId": "62ab3ec8047e7531"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Four years at Harvard won’t corrupt your children.",
+      "publishedAt": "2026-08-23T10:00:21.000Z",
+      "articleId": "e12791ef863cb68e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
       "title": "My recent visit to Anthropic",
@@ -1838,7 +1860,7 @@
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
     "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T09:38:15.929Z",
+  "weatherGeneratedAt": "2026-08-23T10:36:11.004Z",
   "weatherError": null,
   "sources": [
     {
