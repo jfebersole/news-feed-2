@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-23T04:48:58.449Z",
-  "fetchedAt": "2026-08-23T04:48:58.445Z",
+  "generatedAt": "2026-08-23T05:40:37.692Z",
+  "fetchedAt": "2026-08-23T05:40:37.689Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
+      "title": "The new agentic O-ring world",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "But because agents often require guidance or additional context as they move through their tasks, Sharma, 27, finds himself wanting to be available to them around the clock and forgoing a regular sleep schedule as a result. Until recently, he couldn’t monitor them remotely through a phone or smartwatch. “The cost of the agents’ being […]",
+      "publishedAt": "2026-08-23T04:56:00.000Z",
+      "articleId": "1d7e7484982057da"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7532144/2026/08/22/new-york-giants-tyrone-tracy-jr-stock-report/",
       "title": "Giants stock report: How Tyrone Tracy Jr.'s week went from bad to worse vs. Dolphins",
@@ -376,17 +387,6 @@
       "summary": "According to voters, it’s basically just rich people.",
       "publishedAt": "2026-08-20T09:01:03.000Z",
       "articleId": "8ab3459f9e8e049e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-luke-burgis.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luke-burgis",
-      "title": "My excellent Conversation with Luke Burgis",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-luke-burgis.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Luke Burgis left Wall Street after two years, founded a few successful companies in his twenties, then walked away to spend three years in a Roman seminary on the path to the priesthood. He now runs the Cluny Institute and teaches at Catholic […]",
-      "publishedAt": "2026-08-20T04:54:58.000Z",
-      "articleId": "755822ee6b3d256c"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
@@ -1839,7 +1839,7 @@
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-23T04:48:58.449Z",
+  "weatherGeneratedAt": "2026-08-23T05:40:37.692Z",
   "weatherError": null,
   "sources": [
     {
