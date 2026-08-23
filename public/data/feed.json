@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T11:31:57.725Z",
-  "fetchedAt": "2026-08-23T11:31:57.721Z",
+  "generatedAt": "2026-08-23T12:58:35.809Z",
+  "fetchedAt": "2026-08-23T12:58:35.804Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 784,
+  "itemCount": 163,
+  "totalItemCount": 774,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
@@ -17,6 +17,17 @@
       "articleId": "ae5bd5606ea68206"
     },
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Four years at Harvard won’t corrupt your children.",
+      "publishedAt": "2026-08-23T10:00:22.000Z",
+      "articleId": "e12791ef863cb68e"
+    },
+    {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "title": "Twitter Broke the Left. X Will Break the Right.",
       "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
@@ -26,17 +37,6 @@
       "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
       "publishedAt": "2026-08-23T10:00:21.000Z",
       "articleId": "62ab3ec8047e7531"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Four years at Harvard won’t corrupt your children.",
-      "publishedAt": "2026-08-23T10:00:21.000Z",
-      "articleId": "e12791ef863cb68e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
@@ -1833,17 +1833,6 @@
       "summary": "Fable is more like a high end escort",
       "publishedAt": "2026-07-24T16:58:12.000Z",
       "articleId": "18eb033a21703999"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
-      "title": "Are miracle drugs hiding in plain sight?",
-      "url": "https://www.worksinprogress.news/p/are-miracle-drugs-hiding-in-plain-sight",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Watch now | GLP-1 drugs have transformed the treatment of obesity and diabetes, and also help with heart disease, kidney disease and sleep apnea. But they are far from the only medicine with more than one use.",
-      "publishedAt": "2026-07-24T12:52:48.000Z",
-      "articleId": "461e3a5c9e7aa798"
     }
   ],
   "weather": {
@@ -1860,7 +1849,7 @@
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
     "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T11:31:57.725Z",
+  "weatherGeneratedAt": "2026-08-23T12:58:35.809Z",
   "weatherError": null,
   "sources": [
     {
@@ -1874,10 +1863,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
