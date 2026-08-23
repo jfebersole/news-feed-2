@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T07:43:40.432Z",
-  "fetchedAt": "2026-08-23T07:43:40.427Z",
+  "generatedAt": "2026-08-23T08:44:51.143Z",
+  "fetchedAt": "2026-08-23T08:44:51.138Z",
   "sourceCount": 23,
   "itemCount": 162,
   "totalItemCount": 784,
@@ -26,6 +26,17 @@
       "summary": "But because agents often require guidance or additional context as they move through their tasks, Sharma, 27, finds himself wanting to be available to them around the clock and forgoing a regular sleep schedule as a result. Until recently, he couldn’t monitor them remotely through a phone or smartwatch. “The cost of the agents’ being […]",
       "publishedAt": "2026-08-23T04:56:00.000Z",
       "articleId": "1d7e7484982057da"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/what-makes-australia-australia",
+      "title": "What makes Australia Australia?",
+      "url": "https://walkingtheworld.substack.com/p/what-makes-australia-australia",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Thoughts from Sydney and Darwin",
+      "publishedAt": "2026-08-23T02:23:11.000Z",
+      "articleId": "c6539ca28cfacca1"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7532144/2026/08/22/new-york-giants-tyrone-tracy-jr-stock-report/",
@@ -1811,18 +1822,6 @@
       "summary": "Watch now | GLP-1 drugs have transformed the treatment of obesity and diabetes, and also help with heart disease, kidney disease and sleep apnea. But they are far from the only medicine with more than one use.",
       "publishedAt": "2026-07-24T12:52:48.000Z",
       "articleId": "461e3a5c9e7aa798"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
-      "title": "We asked too much of the American university",
-      "url": "https://www.noahpinion.blog/p/we-asked-too-much-of-the-american",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Our one remaining functional institution is going downhill.",
-      "publishedAt": "2026-07-24T07:46:56.000Z",
-      "articleId": "687e8c2ebb59acc0"
     }
   ],
   "weather": {
@@ -1839,7 +1838,7 @@
     "dailyDigitSummary": "A muggy Saturday with showers early, but maybe some dry time during the afternoon.",
     "articleId": "a5dae4064646e553"
   },
-  "weatherGeneratedAt": "2026-08-23T07:43:40.432Z",
+  "weatherGeneratedAt": "2026-08-23T08:44:51.143Z",
   "weatherError": null,
   "sources": [
     {
