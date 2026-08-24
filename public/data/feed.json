@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-24T17:42:13.830Z",
-  "fetchedAt": "2026-08-24T17:42:13.825Z",
+  "generatedAt": "2026-08-24T18:55:45.811Z",
+  "fetchedAt": "2026-08-24T18:55:45.807Z",
   "sourceCount": 23,
   "itemCount": 165,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Democrats paid a price for forming their politics on Twitter; people on the right will pay a price for forming theirs on X.",
+      "publishedAt": "2026-08-24T18:46:44.000Z",
+      "articleId": "62ab3ec8047e7531"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/jw83uz8dapso2teftprw.html",
+      "title": "Money Stuff: Who Should Control Anthropic?",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/jw83uz8dapso2teftprw.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Anthropic governance Traditionally there are two main theories of corporate governance: Shareholders are the owners of the firm, and they should have the final say in how it is run. Of course a board of directors and a chief executive officer run the company day to day, but the shareholders have the ultimate power to vote out the board and management if they’re doing a bad job. Actually the shareholders are just suppliers of capital, and really the firm belongs to the visionary founders or their heirs. The company’s value comes from its long-term commitment to its mission, and you can’t trust outside shareholders — index funds, short-termist activist hedge funds, etc. — to be committed to that mission. The only way to preserve what makes the company special is to give the founders the final say over how it is run, even if they do not own most of its economic value. Both theories have their points, and my view is that each is appropriate for some companies. Even if you are an outside shareholder, you might rationally prefer that some of your companies be run entirely by their visionary founders, unconstrained by shareholders: The founders might just be better than the shareholders. Recently, though, there is a third theory, mostly for giant artificial intelligence labs. The third theory is that AI is so powerful, transformative and potentially dangerous that AI firms must be run for the benefit of humanity. They shouldn’t be controlled by shareholders or by founders. They should be controlled by a wise body of philosophers with no economic stakes, whose only goal is maximizing the benefit of AI for humanity. Where you find these philosophers is an interesting question. Some AI theorists. Some effective altruists. Larry Summers . I don’t know. The third theory was tested back in 2023 , when OpenAI’s nonprofit board fired its visionary founder-CEO, Sam Altman, for like two days. That did not work! It turns out that if you are raising tens of billions of dollars from investors for a trillion-dollar business, you cannot actually give the final say over that business to a wise body of philosophers with no economic stake in the business. When I put it like that it seems obvious, but for a while OpenAI was pretty confusing. Still, a big part of the pitch that the AI labs make to investors and employees is along the lines of “this stuff is too powerful to be left to index funds.” An AI lab that went public with single-class stock and no special control rights — one whose directors were just answerable to shareholders — would be suspicious; nobody would believe it was serious about AI. “AI is too important to be left to shareholders,” everyone thinks, even the shareholders. The obvious...",
+      "publishedAt": "2026-08-24T18:18:52.305Z",
+      "articleId": "47b196473c66ecbf"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Four years at Harvard won’t corrupt your children.",
+      "publishedAt": "2026-08-24T18:12:55.000Z",
+      "articleId": "e12791ef863cb68e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html?utm_source=rss&utm_medium=rss&utm_campaign=common-sense-in-charge",
       "title": "Common sense in charge",
@@ -17,17 +50,6 @@
       "articleId": "80ba17318f6ceb17"
     },
     {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "title": "Twitter Broke the Left. X Will Break the Right.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
-      "publishedAt": "2026-08-24T17:21:47.000Z",
-      "articleId": "62ab3ec8047e7531"
-    },
-    {
       "id": "Neil Paine:https://neilpaine.substack.com/p/deshaun-watson-is-a-complete-and",
       "title": "Deshaun Watson Is a Complete and Total Failure That the Browns Won’t Quit",
       "url": "https://neilpaine.substack.com/p/deshaun-watson-is-a-complete-and",
@@ -37,17 +59,6 @@
       "summary": "Five years, $230 million, six draft picks, dozens of accusations and zero worthwhile football later, Cleveland is still trying to make the worst decision in franchise history work.",
       "publishedAt": "2026-08-24T17:21:42.000Z",
       "articleId": "36bd75e0ddd4c063"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Four years at Harvard won’t corrupt your children.",
-      "publishedAt": "2026-08-24T17:14:47.000Z",
-      "articleId": "e12791ef863cb68e"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/t4vvj7nxlls8dkup97sl.html",
@@ -1379,17 +1390,6 @@
       "articleId": "954805344f065bd1"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
-      "title": "Money Stuff: SpaceX Unlocks Tomorrow",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/glbq8d43w7l9x4rgt360.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. SpaceX unlock Today, there are about 639 million shares of SpaceX available in the market, which SpaceX sold in its initial public offering in June. Tomorrow, there will be about 1.55 billion shares available, as a portion of the shares that were locked up after the IPO are unlocked. That’s much more. SpaceX should be cheaper tomorrow than it is today, because of supply and demand. This is not investment advice. It’s not even true! If something should be cheaper tomorrow than it is today, what you should do is sell it today (at a high price) and buy it back tomorrow (cheaper). This has the effect of lowering the price today and raising the price tomorrow. You should keep doing this until it is no longer true, until the price today equals the expected price tomorrow. This is called “arbitrage.” We have talked about this before . I have sort of argued that this trade is the mirror index of the index rebalancing trade that big hedge funds do. In index rebalancing, there is predictable large buying demand from index funds on a fixed date, which will predictably push up the price of the stock; hedge funds buy stock ahead of the fixed date to sell into the index-fund demand, smoothing out price moves. Similarly, in lockup releases, there is predictable supply from locked-up early shareholders on a fixed date, which will predictably push down the price of the stock; hedge funds short stock ahead of the lockup release date to buy from the lockup-release supply, smoothing out price moves. The hedge funds do a trade that could be described as arbitrage, or even I suppose as “front-running” the lockup release, but that could also be described as liquidity provision: They match up today’s SpaceX buyers with tomorrow’s lockup-release sellers. This is not quite a thing, in the way that index rebalancing is a thing. You do not hear a lot about multistrategy hedge funds having lockup-release pods that make billions of dollars in good months, like index-rebalancing pods do , but partly that is a matter of scale. Index funds are really big and their rebalances involve many billions of dollars of stock. Most companies are relatively small when they go public, and their lockup releases aren’t that exciting. SpaceX’s is. Bloomberg’s Bailey Lipschultz reports : Investors hanging onto SpaceX shares after a plunge below their IPO price are bracing for the next potential hit, when $101 billion worth of stock becomes available for trading on Thursday. … “We’ve never seen anything like it, we’ve never seen anything of this scale, we’ve never seen a lock-up being phased in this way,” said Peter Singlehurst, head of the private companies team at Baillie Gifford, which first invested in Elon Musk’s company in...",
-      "publishedAt": "2026-08-05T18:07:59.565Z",
-      "articleId": "de388464e358abd3"
-    },
-    {
       "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
       "title": "Can Trump Wriggle Out One Last Time?",
       "url": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
@@ -1868,11 +1868,10 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd",
-    "stale": true
+    "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T17:42:13.830Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-24T18:55:45.811Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
