@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T13:09:49.622Z",
-  "fetchedAt": "2026-08-24T13:09:49.618Z",
+  "generatedAt": "2026-08-24T14:56:00.930Z",
+  "fetchedAt": "2026-08-24T14:56:00.923Z",
   "sourceCount": 23,
-  "itemCount": 165,
+  "itemCount": 163,
   "totalItemCount": 784,
   "items": [
     {
@@ -38,17 +38,6 @@
       "summary": "Joint custody reforms are among the most consequential family-law changes for children, yet little is known about their long-term effects. Exploiting staggered adoption across US states and 13 million ACS observations, we show that childhood exposure reduces adult fertility by 7 percent, symmetrically for women and men and operates primarily through lower parenthood and couple […]",
       "publishedAt": "2026-08-24T09:30:37.000Z",
       "articleId": "2f22ea7036dea3a8"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7531068/2026/08/24/nfl-preseason-takeaways-geno-smith-dashaun-watson/",
-      "title": "What we learned from NFL preseason games: Geno Smith shined, Deshaun Watson didn't",
-      "url": "https://www.nytimes.com/athletic/7531068/2026/08/24/nfl-preseason-takeaways-geno-smith-dashaun-watson/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Backup (and some starting) quarterbacks were in the spotlight, and not all of them impressed in the second full weekend of preseason games.",
-      "publishedAt": "2026-08-24T09:30:11.000Z",
-      "articleId": "31f64460492373f9"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/trout-cabrera-was-simple-compared",
@@ -1844,18 +1833,6 @@
       "summary": "My interview with Cate Hall about her new book, \"You Can Just Do Things.\"",
       "publishedAt": "2026-07-25T19:00:14.000Z",
       "articleId": "98f104908c10f633"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-072526",
-      "title": "Reading List 07/25/26",
-      "url": "https://www.construction-physics.com/p/reading-list-072526",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more.",
-      "publishedAt": "2026-07-25T14:01:08.000Z",
-      "articleId": "a66a6b5cbfff3f37"
     }
   ],
   "weather": {
@@ -1870,10 +1847,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd"
+    "articleId": "368d6db53a68fbcd",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-24T13:09:49.622Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-24T14:56:00.930Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
