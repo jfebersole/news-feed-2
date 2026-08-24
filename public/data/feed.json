@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T23:32:40.176Z",
-  "fetchedAt": "2026-08-23T23:32:40.171Z",
+  "generatedAt": "2026-08-24T01:54:21.177Z",
+  "fetchedAt": "2026-08-24T01:54:21.172Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
@@ -1837,21 +1837,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-plenty-of-sun-and-comfortable-humidity-the-next-few-days/",
-    "title": "DC-area forecast: Nice into tonight. Sun and comfortable humidity the next few days",
+    "title": "DC-area forecast: Nice tonight. Sun and comfortable humidity the next few days",
     "url": "https://www.capitalweather.com/dc-area-forecast-plenty-of-sun-and-comfortable-humidity-the-next-few-days/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Other than the tiniest chance for a pop-up shower or storm before sunset, it's tranquil. Evening 70s slowly sag to lows in the mid-50s to low 60s.",
+    "summary": "HAPPENING NOW: Mostly clear and comfortable this evening as breezes calm. Evening 70s cool off to overnight lows in the mid-50s to low 60s.",
     "publishedAt": "2026-08-23T09:00:16.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
-    "articleId": "7be203f3abf64dd1",
-    "stale": true
+    "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-23T23:32:40.176Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-24T01:54:21.177Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
