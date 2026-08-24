@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-24T21:40:34.264Z",
-  "fetchedAt": "2026-08-24T21:40:34.260Z",
+  "generatedAt": "2026-08-24T22:40:21.940Z",
+  "fetchedAt": "2026-08-24T22:40:21.937Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
+      "title": "Three Dan Sullivans walk into a race for Senate",
+      "url": "https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "And as they duke it out in Alaska, progressives win in Pennsylvania and Florida, Trump rises and falls, Michigan confronts AIPAC, Markey faces questions about his age, and a fraud fesses up.",
+      "publishedAt": "2026-08-24T22:01:48.000Z",
+      "articleId": "21d16912b657a065"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "title": "Twitter Broke the Left. X Will Break the Right.",
@@ -1008,18 +1020,6 @@
       "articleId": "081c25b3b74561d8"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
-      "title": "Medicare for All should be more like Medicare",
-      "url": "https://www.slowboring.com/p/medicare-for-all-should-be-more-like",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A floor for health care, not a ceiling",
-      "publishedAt": "2026-08-13T10:01:20.000Z",
-      "articleId": "2e2314f2a3fb04fe"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
       "title": "The Quest For Caffeine You Can Have At Night",
       "url": "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
@@ -1857,10 +1857,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd"
+    "articleId": "368d6db53a68fbcd",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-24T21:40:34.264Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-24T22:40:21.940Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
