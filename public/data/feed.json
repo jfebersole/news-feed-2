@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-24T05:49:58.343Z",
-  "fetchedAt": "2026-08-24T05:49:58.340Z",
+  "generatedAt": "2026-08-24T07:16:22.319Z",
+  "fetchedAt": "2026-08-24T07:16:22.316Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Four years at Harvard won’t corrupt your children.",
+      "publishedAt": "2026-08-24T07:04:05.000Z",
+      "articleId": "e12791ef863cb68e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/i-dj-for-rick-rubin-about-music-and-patriotism.html?utm_source=rss&utm_medium=rss&utm_campaign=i-dj-for-rick-rubin-about-music-and-patriotism",
       "title": "I DJ for Rick Rubin about music and patriotism",
@@ -72,17 +83,6 @@
       "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […]",
       "publishedAt": "2026-08-23T11:15:42.000Z",
       "articleId": "ae5bd5606ea68206"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Four years at Harvard won’t corrupt your children.",
-      "publishedAt": "2026-08-23T10:00:22.000Z",
-      "articleId": "e12791ef863cb68e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
@@ -1849,7 +1849,7 @@
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
     "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-24T05:49:58.343Z",
+  "weatherGeneratedAt": "2026-08-24T07:16:22.319Z",
   "weatherError": null,
   "sources": [
     {
