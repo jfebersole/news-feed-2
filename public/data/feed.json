@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-24T14:56:00.930Z",
-  "fetchedAt": "2026-08-24T14:56:00.923Z",
+  "generatedAt": "2026-08-24T15:51:37.824Z",
+  "fetchedAt": "2026-08-24T15:51:37.821Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-574",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. There is now a formal 150 kph (93.2 mph) speed limit in one part of Czechia. 2. Why does the Japanese prime minister spend so much time in seclusion? 3. Decker defends academia (noting I do not think the “only the peaks” defense quite works. I also worry about very high quality research that […]",
+      "publishedAt": "2026-08-24T15:38:14.000Z",
+      "articleId": "c099051dc71a7928"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-real-reason-nobody-feels-good",
       "title": "The real reason nobody feels good about technological progress",
@@ -387,17 +398,6 @@
       "summary": "Two hours, thirty-four minutes, Rick and I recorded this session not too long ago in Tuscany. It was everything Rick wanted to ask. Self-recommending of course, and there is more to come.",
       "publishedAt": "2026-08-21T07:06:17.000Z",
       "articleId": "f7a06967edfd2b25"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/green-shoots-for-the-uk.html?utm_source=rss&utm_medium=rss&utm_campaign=green-shoots-for-the-uk",
-      "title": "Green shoots for the UK?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/green-shoots-for-the-uk.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Early signs of tech-driven improvements in productivity growth could herald a sustained strengthening in the UK’s economic outlook, analysts have said, in a turnaround after years of underperformance. Private sector productivity grew by 1.8 per cent in the second quarter compared with a year earlier, up from 1.2 per cent previously, according to analysis of […]",
-      "publishedAt": "2026-08-21T05:24:18.000Z",
-      "articleId": "deecb94d6cb9eebd"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -1842,16 +1842,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Pretty amazing as morning 50s and 60s climb to near 80 by midday before afternoon highs of 80 to 85. Lots of sun and low humidity.",
+    "summary": "HAPPENING NOW: Pretty amazing as afternoon highs reach 80 to 85. Lots of sun and low humidity.",
     "publishedAt": "2026-08-24T09:00:38.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd",
-    "stale": true
+    "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T14:56:00.930Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-24T15:51:37.824Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
