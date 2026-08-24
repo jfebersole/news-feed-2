@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-24T07:16:22.319Z",
-  "fetchedAt": "2026-08-24T07:16:22.316Z",
+  "generatedAt": "2026-08-24T09:00:13.790Z",
+  "fetchedAt": "2026-08-24T09:00:13.786Z",
   "sourceCount": 23,
-  "itemCount": 163,
+  "itemCount": 164,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
+      "title": "What if our biggest problems aren’t economic?",
+      "url": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A new social challenge for a new century.",
+      "publishedAt": "2026-08-24T08:46:48.000Z",
+      "articleId": "f9a34de4219cbfa7"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
       "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
@@ -1849,7 +1860,7 @@
     "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
     "articleId": "7be203f3abf64dd1"
   },
-  "weatherGeneratedAt": "2026-08-24T07:16:22.319Z",
+  "weatherGeneratedAt": "2026-08-24T09:00:13.790Z",
   "weatherError": null,
   "sources": [
     {
