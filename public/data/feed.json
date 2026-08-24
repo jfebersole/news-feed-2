@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T18:55:45.811Z",
-  "fetchedAt": "2026-08-24T18:55:45.807Z",
+  "generatedAt": "2026-08-24T19:39:19.092Z",
+  "fetchedAt": "2026-08-24T19:39:19.087Z",
   "sourceCount": 23,
-  "itemCount": 165,
+  "itemCount": 164,
   "totalItemCount": 785,
   "items": [
     {
@@ -1843,17 +1843,6 @@
       "summary": "A lot, actually. But it won't look quite like what humans do with our intelligence.",
       "publishedAt": "2026-07-26T07:56:22.000Z",
       "articleId": "42d9f1694116b0ec"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
-      "title": "What is agency — and how can you get more of it?",
-      "url": "https://www.natesilver.net/p/what-is-agency-and-how-can-you-get",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "My interview with Cate Hall about her new book, \"You Can Just Do Things.\"",
-      "publishedAt": "2026-07-25T19:00:14.000Z",
-      "articleId": "98f104908c10f633"
     }
   ],
   "weather": {
@@ -1870,7 +1859,7 @@
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
     "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T18:55:45.811Z",
+  "weatherGeneratedAt": "2026-08-24T19:39:19.092Z",
   "weatherError": null,
   "sources": [
     {
