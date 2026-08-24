@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T19:39:19.092Z",
-  "fetchedAt": "2026-08-24T19:39:19.087Z",
+  "generatedAt": "2026-08-24T20:44:35.214Z",
+  "fetchedAt": "2026-08-24T20:44:35.209Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
@@ -1852,14 +1852,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Pretty amazing as afternoon highs reach 80 to 85. Lots of sun and low humidity.",
+    "summary": "HAPPENING NOW: Temperatures fall into and through the comfortable 70s this evening as bubbly clouds of the day dissipate.",
     "publishedAt": "2026-08-24T09:00:38.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
     "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T19:39:19.092Z",
+  "weatherGeneratedAt": "2026-08-24T20:44:35.214Z",
   "weatherError": null,
   "sources": [
     {
