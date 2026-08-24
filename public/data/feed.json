@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-24T15:51:37.824Z",
-  "fetchedAt": "2026-08-24T15:51:37.821Z",
+  "generatedAt": "2026-08-24T16:51:58.966Z",
+  "fetchedAt": "2026-08-24T16:51:58.963Z",
   "sourceCount": 23,
   "itemCount": 163,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "title": "Twitter Broke the Left. X Will Break the Right.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
+      "publishedAt": "2026-08-24T16:05:00.000Z",
+      "articleId": "62ab3ec8047e7531"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-574",
       "title": "Monday assorted links",
@@ -117,17 +128,6 @@
       "summary": "1. “Underestimating something that has an AI “accent” by reflexively dismissing it as slop rhymes curiously with underestimating someone because they have a funny accent in your native language (and it isn’t one of the accents that you think signals superiority, like the BBC British accent for English).” V. Rao. 2. Profile of Joe Lonsdale. […]",
       "publishedAt": "2026-08-23T16:49:19.000Z",
       "articleId": "9c9a3951bceb46f5"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "title": "Twitter Broke the Left. X Will Break the Right.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.",
-      "publishedAt": "2026-08-23T14:10:10.000Z",
-      "articleId": "62ab3ec8047e7531"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
@@ -1849,7 +1849,7 @@
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
     "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T15:51:37.824Z",
+  "weatherGeneratedAt": "2026-08-24T16:51:58.966Z",
   "weatherError": null,
   "sources": [
     {
