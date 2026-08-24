@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-24T09:00:13.790Z",
-  "fetchedAt": "2026-08-24T09:00:13.786Z",
+  "generatedAt": "2026-08-24T09:58:55.991Z",
+  "fetchedAt": "2026-08-24T09:58:55.987Z",
   "sourceCount": 23,
-  "itemCount": 164,
+  "itemCount": 165,
   "totalItemCount": 784,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html?utm_source=rss&utm_medium=rss&utm_campaign=childhood-exposure-to-joint-custody-reforms-and-adult-family-formation",
+      "title": "Childhood Exposure to Joint Custody Reforms and Adult Family Formation",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Joint custody reforms are among the most consequential family-law changes for children, yet little is known about their long-term effects. Exploiting staggered adoption across US states and 13 million ACS observations, we show that childhood exposure reduces adult fertility by 7 percent, symmetrically for women and men and operates primarily through lower parenthood and couple […]",
+      "publishedAt": "2026-08-24T09:30:37.000Z",
+      "articleId": "2f22ea7036dea3a8"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7531068/2026/08/24/nfl-preseason-takeaways-geno-smith-dashaun-watson/",
+      "title": "What we learned from NFL preseason games: Geno Smith shined, Deshaun Watson didn't",
+      "url": "https://www.nytimes.com/athletic/7531068/2026/08/24/nfl-preseason-takeaways-geno-smith-dashaun-watson/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Backup (and some starting) quarterbacks were in the spotlight, and not all of them impressed in the second full weekend of preseason games.",
+      "publishedAt": "2026-08-24T09:30:11.000Z",
+      "articleId": "31f64460492373f9"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
       "title": "What if our biggest problems aren’t economic?",
@@ -352,17 +374,6 @@
       "summary": "Early signs of tech-driven improvements in productivity growth could herald a sustained strengthening in the UK’s economic outlook, analysts have said, in a turnaround after years of underperformance. Private sector productivity grew by 1.8 per cent in the second quarter compared with a year earlier, up from 1.2 per cent previously, according to analysis of […]",
       "publishedAt": "2026-08-21T05:24:18.000Z",
       "articleId": "deecb94d6cb9eebd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/more-evidence-on-the-effects-of-recent-tariffs.html?utm_source=rss&utm_medium=rss&utm_campaign=more-evidence-on-the-effects-of-recent-tariffs",
-      "title": "More evidence on the effects of recent tariffs",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-evidence-on-the-effects-of-recent-tariffs.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Trump is giving economists something to write papers about: U.S. tariff rates in 2025 rose to levels not seen since the Great Depression, yet imports increased. To account for the missing trade collapse, we develop an open-economy New Keynesian model with tariff heterogeneity, inventories, and shocks to investment that capture the AI-driven boom. The model […]",
-      "publishedAt": "2026-08-21T04:41:32.000Z",
-      "articleId": "4608cbdef015af81"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -1847,20 +1858,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-plenty-of-sun-and-comfortable-humidity-the-next-few-days/",
-    "title": "DC-area forecast: Nice tonight. Sun and comfortable humidity the next few days",
-    "url": "https://www.capitalweather.com/dc-area-forecast-plenty-of-sun-and-comfortable-humidity-the-next-few-days/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-blissful-start-to-the-week-before-humidity-rain-chances-return/",
+    "title": "DC-area forecast: A blissful start to the week before humidity, rain chances return",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-blissful-start-to-the-week-before-humidity-rain-chances-return/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly clear and comfortable this evening as breezes calm. Evening 70s cool off to overnight lows in the mid-50s to low 60s.",
-    "publishedAt": "2026-08-23T09:00:16.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Sunshine, a comfy feel, and drier vibes ahead. Enjoy!",
-    "articleId": "7be203f3abf64dd1"
+    "summary": "HAPPENING NOW: Pretty amazing as morning 50s and 60s climb to near 80 by midday before afternoon highs of 80 to 85. Lots of sun and low humidity.",
+    "publishedAt": "2026-08-24T09:00:38.000Z",
+    "dailyDigit": 9,
+    "dailyDigitLabel": "9/10",
+    "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
+    "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T09:00:13.790Z",
+  "weatherGeneratedAt": "2026-08-24T09:58:55.991Z",
   "weatherError": null,
   "sources": [
     {
