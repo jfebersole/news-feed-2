@@ -84,6 +84,12 @@ const SOURCES = [
     accessStrategy: "substack-rss",
   },
   {
+    name: "Maximum Progress",
+    url: "https://www.maximum-progress.com/",
+    feedUrl: "https://www.maximum-progress.com/feed",
+    accessStrategy: "substack-rss",
+  },
+  {
     name: "Neil Paine",
     url: "https://neilpaine.substack.com/",
     feedUrl: "https://neilpaine.substack.com/feed",

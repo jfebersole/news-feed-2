@@ -1,16 +1,11 @@
 {
-  "mode": "full",
+  "mode": "excerpt",
   "paywalled": true,
   "access": "paywalled",
+  "paywallType": "partial",
   "url": "https://www.slowboring.com/p/theater-is-weird-and-thats-the-point",
   "source": "Slow Boring",
   "title": "Theater is weird, and that’s the point.",
-  "subtitle": null,
-  "byline": null,
-  "publishedAt": null,
-  "contentHtml": "<figure><a href=\"https://substackcdn.com/image/fetch/$s_!vUuB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49bb7cc1-8c00-4589-8b82-0a69536eaffc_5616x3744.jpeg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://substackcdn.com/image/fetch/$s_!vUuB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49bb7cc1-8c00-4589-8b82-0a69536eaffc_5616x3744.jpeg\" width=\"1456\" height=\"971\" data-size=\"normal\" loading=\"lazy\" decoding=\"async\"></a><figcaption>A performance at Shakespeare’s Globe in London. (Photo by <a href=\"https://www.gettyimages.com/search/2/image?artistexact=Franz%20Marc%20Frei\" target=\"_blank\" rel=\"noopener noreferrer\"><span>Franz Marc Frei</span></a><span> via Getty Images)</span></figcaption></figure>\n<p>A few weeks ago I saw a student production of “Twelfth Night” in D.C. </p>\n<p>Though it was far from my favorite of the versions I’ve seen, I sat happily (albeit uncomfortably — no AMC recliners at the Shakespeare Theatre Company) for three hours, often pulled from the mo…</p>\n<p>\n          <a href=\"https://www.slowboring.com/p/theater-is-weird-and-thats-the-point\" target=\"_blank\" rel=\"noopener noreferrer\">\n              Read more\n          </a>\n      </p>",
-  "wordCount": 65,
-  "imageCount": 1,
-  "linkCount": 3,
-  "paywallType": "partial"
+  "excerpt": "In which I come out as a total theater nerd",
+  "reason": "This source is typically paywalled."
 }

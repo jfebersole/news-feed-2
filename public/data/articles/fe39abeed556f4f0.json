@@ -1,16 +1,11 @@
 {
-  "mode": "full",
+  "mode": "excerpt",
   "paywalled": true,
   "access": "paywalled",
+  "paywallType": "partial",
   "url": "https://www.slowboring.com/p/new-york-is-building-but-where",
   "source": "Slow Boring",
   "title": "New York is building. But where?",
-  "subtitle": null,
-  "byline": null,
-  "publishedAt": null,
-  "contentHtml": "<figure><a href=\"https://substackcdn.com/image/fetch/$s_!wYee!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7249557-8b63-4eec-8620-73f92666213d_3414x2259.jpeg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://substackcdn.com/image/fetch/$s_!wYee!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7249557-8b63-4eec-8620-73f92666213d_3414x2259.jpeg\" width=\"1456\" height=\"963\" data-size=\"normal\" loading=\"lazy\" decoding=\"async\"></a><figcaption>New York City Mayor Zohran Mamdani speaks about affordable housing. (Photo by Selcuk Acar/<a href=\"https://www.gettyimages.com/search/2/image?artistexact=Anadolu\" target=\"_blank\" rel=\"noopener noreferrer\">Anadolu</a> via Getty Images)</figcaption></figure>\n<p><span>Mayor Zohran Mamdani’s plan to tax homeowners who have high-value secondary residences in New York City hit a hurdle Monday when Staten Island Judge Wayne Ozzi ordered a pause on the pied-à-terre tax rollout. The decision came just days aft…</span></p>\n<p>\n          <a href=\"https://www.slowboring.com/p/new-york-is-building-but-where\" target=\"_blank\" rel=\"noopener noreferrer\">\n              Read more\n          </a>\n      </p>",
-  "wordCount": 59,
-  "imageCount": 1,
-  "linkCount": 3,
-  "paywallType": "partial"
+  "excerpt": "Plus San Diego’s YIMBY mayor and recovery from wildfire displacement",
+  "reason": "This source is typically paywalled."
 }

@@ -16,6 +16,17 @@ test("configures Silver Bulletin with its Models & Forecasts exclusion feed", ()
   });
 });
 
+test("configures Maximum Progress as a Substack source", () => {
+  const source = SOURCES.find((candidate) => candidate.name === "Maximum Progress");
+
+  assert.deepEqual(source, {
+    name: "Maximum Progress",
+    url: "https://www.maximum-progress.com/",
+    feedUrl: "https://www.maximum-progress.com/feed",
+    accessStrategy: "substack-rss",
+  });
+});
+
 test("removes items listed in an exclusion feed by canonical URL", () => {
   const source = {
     name: "Example",

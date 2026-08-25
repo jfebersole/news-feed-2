@@ -1,15 +1,10 @@
 {
-  "mode": "full",
+  "mode": "excerpt",
   "paywalled": false,
   "access": "open",
   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-well-does-ai-peer-review-work.html",
   "source": "Marginal Revolution",
   "title": "How well does AI peer review work?",
-  "subtitle": null,
-  "byline": "Tyler Cowen",
-  "publishedAt": "2026-08-11T06:57:16.000Z",
-  "contentHtml": "<blockquote><p>Claude and I planted 100 known errors into 10 open-access psychology papers and then ran them through frontier models and two commercial AI review tools. In brief:</p></blockquote>\n<ul>\n<li>The best single system caught 71 of 100 errors, while the worst caught 30.</li>\n<li>Pooling every system’s output caught 93 of 100. Models are only partly correlated in the errors they find, making ensembling a big lever for finding issues in papers. Check your papers against multiple models!</li>\n<li>Seven errors could not be caught by any system. All were omissions — information deleted from a paper rather than mistakes inserted into it.</li>\n<li>Refine.ink contributes more unique catches than any other single system, though it’s expensive.</li>\n<li>I didn’t measure false positives and I don’t know how this error distribution compares to the distribution of errors in real papers.</li>\n<li>I’ve made the papers, errors, model outputs, and the full experiment log&nbsp;<a href=\"https://github.com/Dawes-Institute/ai-peer-review-benchmark\" target=\"_blank\" rel=\"noopener noreferrer\">public</a>. I hope people can build on this work to create a comprehensive eval benchmark across disciplines.</li>\n</ul>\n<p>That is from Paul Litvak, here is <a href=\"https://www.paullitvak.com/p/how-well-does-ai-peer-review-work?utm_source=cross-post&amp;publication_id=2247864&amp;post_id=203641239&amp;utm_campaign=1010915&amp;isFreemail=true&amp;r=3o9&amp;triedRedirect=true&amp;utm_medium=email\" target=\"_blank\" rel=\"noopener noreferrer\">more</a>.&nbsp; Note that is not even using the very latest generation of models.</p>",
-  "wordCount": 183,
-  "imageCount": 0,
-  "linkCount": 2
+  "excerpt": "Claude and I planted 100 known errors into 10 open-access psychology papers and then ran them through frontier models and two commercial AI review tools. In brief: The best single system caught 71 of 100 errors, while the worst caught 30. Pooling every system’s output caught 93 of 100. Models are only partly correlated in […]",
+  "reason": "Unable to fetch full text: fetch failed"
 }

@@ -1,16 +1,11 @@
 {
-  "mode": "full",
+  "mode": "excerpt",
   "paywalled": true,
   "access": "paywalled",
+  "paywallType": "partial",
   "url": "https://www.slowboring.com/p/democrats-are-winning-the-polls-but",
   "source": "Slow Boring",
   "title": "Democrats are winning the polls but losing the plot",
-  "subtitle": null,
-  "byline": null,
-  "publishedAt": null,
-  "contentHtml": "<figure><a href=\"https://substackcdn.com/image/fetch/$s_!gcsv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d1aad6-1cba-4c40-933f-ffc13148fb50_1024x683.jpeg\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://substackcdn.com/image/fetch/$s_!gcsv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d1aad6-1cba-4c40-933f-ffc13148fb50_1024x683.jpeg\" width=\"1024\" height=\"683\" data-size=\"normal\" loading=\"lazy\" decoding=\"async\"></a><figcaption>Democratic Senate candidate Abdul El-Sayed campaigns in Michigan ahead of the state’s primary. (Photo by <a href=\"https://www.gettyimages.com/search/2/image?artistexact=Scott%20Olson\" target=\"_blank\" rel=\"noopener noreferrer\">Scott Olson</a><span>/Getty Images)</span></figcaption></figure>\n<p><span>The basic midterm scenario remains familiar: Republicans hold a Senate majority, and Democrats need a </span><a href=\"https://ballotpedia.org/United_States_Congress_elections,_2026\" target=\"_blank\" rel=\"noopener noreferrer\"><span>net four-seat gain</span></a><span> to flip it. Democrats continue to lead on the </span><a href=\"https://blog.fiftyplusone.news/p/election-forecast-democrats-strongly-favored-house-tilt-senate\" target=\"_blank\" rel=\"noopener noreferrer\"><span>generic ballot</span></a><span> and have a better chance of controlling the…</span></p>\n<p>\n          <a href=\"https://www.slowboring.com/p/democrats-are-winning-the-polls-but\" target=\"_blank\" rel=\"noopener noreferrer\">\n              Read more\n          </a>\n      </p>",
-  "wordCount": 57,
-  "imageCount": 1,
-  "linkCount": 5,
-  "paywallType": "partial"
+  "excerpt": "Primary voters are far more focused on fighting each other than on fighting the G.O.P.",
+  "reason": "This source is typically paywalled."
 }

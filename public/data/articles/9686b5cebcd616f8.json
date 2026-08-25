@@ -1,15 +1,10 @@
 {
-  "mode": "full",
+  "mode": "excerpt",
   "paywalled": false,
   "access": "open",
   "url": "https://marginalrevolution.com/marginalrevolution/2026/08/brian-chau-at-work.html",
   "source": "Marginal Revolution",
   "title": "Brian Chau at work",
-  "subtitle": null,
-  "byline": "Tyler Cowen",
-  "publishedAt": "2026-08-10T17:43:59.000Z",
-  "contentHtml": "<blockquote><p><span>I am automating investigative journalism at </span><a href=\"https://t.co/XkM9jqV49c\" target=\"_blank\" rel=\"noopener noreferrer\">Effort.News</a></p>\n<p><span>We’re breaking five stories today based on verifiable financial data which everyone missed for years.</span></p></blockquote>\n<p>Here is <a href=\"https://x.com/brianchau57/status/2086803587699745170?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">the entire thread</a>, which also describes the five stories.</p>",
-  "wordCount": 33,
-  "imageCount": 0,
-  "linkCount": 2
+  "excerpt": "I am automating investigative journalism at http://Effort.News We’re breaking five stories today based on verifiable financial data which everyone missed for years. Here is the entire thread, which also describes the five stories.",
+  "reason": "Unable to fetch full text: fetch failed"
 }
