@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-25T03:09:20.191Z",
-  "fetchedAt": "2026-08-25T03:09:20.184Z",
+  "generatedAt": "2026-08-25T04:50:14.299Z",
+  "fetchedAt": "2026-08-25T04:50:14.293Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-61",
+      "title": "That was then, this is now",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University. They had studied Ottoman Turkish and embarked on their legal studies in the hope of one day serving in the Assembly of Deputies as elected representatives from Jerusalem. […]",
+      "publishedAt": "2026-08-25T04:31:38.000Z",
+      "articleId": "f4af286605e981ec"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
       "title": "Re: Re: Re: Pritchard On Liberal Happiness",
@@ -431,17 +442,6 @@
       "summary": "Diplomacy, reform, and a convenient stone",
       "publishedAt": "2026-08-21T11:21:12.000Z",
       "articleId": "dd762de10c049ecf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/breaking-ground-can-refund-bonuses-solve-the-holdout-problem.html?utm_source=rss&utm_medium=rss&utm_campaign=breaking-ground-can-refund-bonuses-solve-the-holdout-problem",
-      "title": "Breaking Ground: Can Refund Bonuses Solve the Holdout Problem?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/breaking-ground-can-refund-bonuses-solve-the-holdout-problem.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "My latest paper (with Cason and Zubrickas) has just been published by the Journal of Urban Economics. We show that refund bonuses can indeed improve the holdout problem. Abstract: The holdout problem presents a pervasive challenge in situations that require the assembly of independently controlled assets, where due to complementarity the combined whole is worth […]",
-      "publishedAt": "2026-08-21T11:16:20.000Z",
-      "articleId": "ed441a8d8384c038"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/giving-the-people-what-they-want",
@@ -1859,7 +1859,7 @@
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
     "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-25T03:09:20.191Z",
+  "weatherGeneratedAt": "2026-08-25T04:50:14.299Z",
   "weatherError": null,
   "sources": [
     {
