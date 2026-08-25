@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-25T07:04:46.097Z",
-  "fetchedAt": "2026-08-25T07:04:46.094Z",
+  "generatedAt": "2026-08-25T07:56:06.569Z",
+  "fetchedAt": "2026-08-25T07:56:06.565Z",
   "sourceCount": 23,
   "itemCount": 164,
-  "totalItemCount": 785,
+  "totalItemCount": 775,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
+      "title": "Do Minimum Wages Help Worker in Poor and Low-Income Families?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse – rather than beneficial – effects of minimum wages on the employment, hours, […]",
+      "publishedAt": "2026-08-25T07:32:36.000Z",
+      "articleId": "eb4840479a414ee8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-61",
       "title": "That was then, this is now",
@@ -420,17 +431,6 @@
       "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
       "publishedAt": "2026-08-21T17:00:00.000Z",
       "articleId": "1ba717bcfb2289f3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-586",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-586.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Profile of Julian Gough and his evolutionary cosmology. And the Substack version. 2. New Spanish-language edition of Bioy Casares on Borges coming out. The older edition was, among other things, too heavy to lug around or bring on a trip. 3. The market for data is the market of the future. 4. If Uzbekistan […]",
-      "publishedAt": "2026-08-21T16:03:18.000Z",
-      "articleId": "f69a54f79de63d18"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
@@ -1859,7 +1859,7 @@
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
     "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-25T07:04:46.097Z",
+  "weatherGeneratedAt": "2026-08-25T07:56:06.569Z",
   "weatherError": null,
   "sources": [
     {
@@ -1873,10 +1873,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
