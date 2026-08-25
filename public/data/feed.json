@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-25T09:48:09.576Z",
-  "fetchedAt": "2026-08-25T09:48:09.571Z",
+  "generatedAt": "2026-08-25T10:46:15.750Z",
+  "fetchedAt": "2026-08-25T10:46:15.747Z",
   "sourceCount": 23,
-  "itemCount": 163,
-  "totalItemCount": 785,
+  "itemCount": 164,
+  "totalItemCount": 786,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
+      "title": "The Western water crisis has a simple solution",
+      "url": "https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stop giving the majority of the water away to farmers for almost nothing!",
+      "publishedAt": "2026-08-25T10:02:01.000Z",
+      "articleId": "5dc500bf2150f5ff"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
+      "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+      "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
+      "publishedAt": "2026-08-25T10:00:00.000Z",
+      "articleId": "ae289739381deefa"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
       "title": "Do Minimum Wages Help Worker in Poor and Low-Income Families?",
@@ -1278,17 +1301,6 @@
       "articleId": "775abd44b32fd712"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/earnings-and-learnings/",
-      "title": "2026.32: Earnings and Learnings",
-      "url": "https://stratechery.com/2026/earnings-and-learnings/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
-      "publishedAt": "2026-08-07T17:29:02.000Z",
-      "articleId": "ba4710288f1ffe90"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
       "title": "Basil Halperin on sticky wage models",
       "url": "https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
@@ -1835,22 +1847,21 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-blissful-start-to-the-week-before-humidity-rain-chances-return/",
-    "title": "DC-area forecast: A blissful start to the week before humidity, rain chances return",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-blissful-start-to-the-week-before-humidity-rain-chances-return/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
+    "title": "DC-area forecast: Another bonus day of beautiful sunshine and low humidity",
+    "url": "https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures fall into and through the comfortable 70s this evening as bubbly clouds of the day dissipate.",
-    "publishedAt": "2026-08-24T09:00:38.000Z",
+    "summary": "HAPPENING NOW: Nice weather wishes us a good morning as we start in the upper 50s and 60s. Plenty of sun helps us into the 70s later in the morning, on the way to afternoon 80s with continued low humidity.",
+    "publishedAt": "2026-08-25T09:00:10.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd",
-    "stale": true
+    "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
+    "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T09:48:09.576Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-25T10:46:15.750Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1952,7 +1963,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
