@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T20:41:51.473Z",
-  "fetchedAt": "2026-08-25T20:41:51.468Z",
+  "generatedAt": "2026-08-25T21:38:49.199Z",
+  "fetchedAt": "2026-08-25T21:38:49.196Z",
   "sourceCount": 24,
-  "itemCount": 170,
-  "totalItemCount": 807,
+  "itemCount": 169,
+  "totalItemCount": 806,
   "items": [
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
@@ -464,17 +464,6 @@
       "summary": "Los Angeles’ ADUs, electrical transformer manufacturing, gas turbine power plants, how water in the Colorado River is used, and more.",
       "publishedAt": "2026-08-22T12:02:58.000Z",
       "articleId": "dc407f3a89ae772f"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
-      "title": "The Week That Was (August 17-21, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-08-22T09:01:24.000Z",
-      "articleId": "c27b4181bded569c"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
@@ -1928,7 +1917,7 @@
     "articleId": "82b668c26a3fb7a3",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-25T20:41:51.473Z",
+  "weatherGeneratedAt": "2026-08-25T21:38:49.199Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -2015,7 +2004,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
