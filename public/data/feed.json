@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T19:42:06.682Z",
-  "fetchedAt": "2026-08-25T19:42:06.679Z",
+  "generatedAt": "2026-08-25T20:41:51.473Z",
+  "fetchedAt": "2026-08-25T20:41:51.468Z",
   "sourceCount": 24,
   "itemCount": 170,
   "totalItemCount": 807,
@@ -1925,10 +1925,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
-    "articleId": "82b668c26a3fb7a3"
+    "articleId": "82b668c26a3fb7a3",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-25T19:42:06.682Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-25T20:41:51.473Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
