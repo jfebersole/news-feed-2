@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-08-25T13:07:41.810Z",
-  "fetchedAt": "2026-08-25T13:07:41.806Z",
-  "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 786,
+  "generatedAt": "2026-08-25T15:00:14.774Z",
+  "fetchedAt": "2026-08-25T15:00:14.768Z",
+  "sourceCount": 24,
+  "itemCount": 168,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
+      "title": "Do I really buy that Texas could turn blue?",
+      "url": "https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Some of the skepticism about James Talarico’s chances amounts to superstition. But I have one lingering concern about our forecast in Texas.",
+      "publishedAt": "2026-08-25T13:58:30.000Z",
+      "articleId": "6f6483088c252902"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
+      "title": "Q but No Queens: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Quiet Riot, Quinn XCII, and Quincy Jones, among others",
+      "publishedAt": "2026-08-25T13:31:24.000Z",
+      "articleId": "6cb6c65f1ac2e570"
+    },
+    {
+      "id": "Maximum Progress:https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
+      "title": "Contra Weisenthal on Highways",
+      "url": "https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
+      "source": "Maximum Progress",
+      "sourceUrl": "https://www.maximum-progress.com/",
+      "access": "open",
+      "summary": "Does it matter whether building more houses lowers prices not?",
+      "publishedAt": "2026-08-25T12:01:24.000Z",
+      "articleId": "1ec9c10e2b09d636"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
       "title": "Towards a New House of Lords",
@@ -1613,6 +1647,17 @@
       "articleId": "15bf26cb192e1b2e"
     },
     {
+      "id": "Maximum Progress:https://www.maximum-progress.com/p/the-end-of-the-endangered-species",
+      "title": "The End of the Endangered Species Act?",
+      "url": "https://www.maximum-progress.com/p/the-end-of-the-endangered-species",
+      "source": "Maximum Progress",
+      "sourceUrl": "https://www.maximum-progress.com/",
+      "access": "open",
+      "summary": "and the Costs of Environmental Land Use Regulation",
+      "publishedAt": "2026-08-01T20:51:23.000Z",
+      "articleId": "4ba286de06d7b90b"
+    },
+    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-080126",
       "title": "Reading List 08/01/26",
       "url": "https://www.construction-physics.com/p/reading-list-080126",
@@ -1860,7 +1905,7 @@
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T13:07:41.810Z",
+  "weatherGeneratedAt": "2026-08-25T15:00:14.774Z",
   "weatherError": null,
   "sources": [
     {
@@ -1933,6 +1978,14 @@
       "mode": "rss",
       "itemCount": 20,
       "feedUrl": "https://www.construction-physics.com/feed",
+      "error": null
+    },
+    {
+      "name": "Maximum Progress",
+      "url": "https://www.maximum-progress.com/",
+      "mode": "rss",
+      "itemCount": 20,
+      "feedUrl": "https://www.maximum-progress.com/feed",
       "error": null
     },
     {
@@ -2018,10 +2071,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
