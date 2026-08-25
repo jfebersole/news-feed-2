@@ -1,32 +1,10 @@
 {
-  "generatedAt": "2026-08-25T13:49:07.713Z",
-  "fetchedAt": "2026-08-25T13:49:07.711Z",
-  "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 831,
+  "generatedAt": "2026-08-25T13:07:41.810Z",
+  "fetchedAt": "2026-08-25T13:07:41.806Z",
+  "sourceCount": 23,
+  "itemCount": 164,
+  "totalItemCount": 786,
   "items": [
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
-      "title": "Q but No Queens: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Quiet Riot, Quinn XCII, and Quincy Jones, among others",
-      "publishedAt": "2026-08-25T13:31:24.000Z",
-      "articleId": "6cb6c65f1ac2e570"
-    },
-    {
-      "id": "Maximum Progress:https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
-      "title": "Contra Weisenthal on Highways",
-      "url": "https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
-      "source": "Maximum Progress",
-      "sourceUrl": "https://www.maximum-progress.com/",
-      "access": "open",
-      "summary": "Does it matter whether building more houses lowers prices not?",
-      "publishedAt": "2026-08-25T12:01:24.000Z",
-      "articleId": "1ec9c10e2b09d636"
-    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
       "title": "Towards a New House of Lords",
@@ -500,18 +478,6 @@
       "articleId": "4627b41169e4bd43"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/are-the-tigers-having-the-most-confusing",
-      "title": "Are the Tigers Having the Most Confusing — and Secretly Consequential — Season Ever?",
-      "url": "https://neilpaine.substack.com/p/are-the-tigers-having-the-most-confusing",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Bad enough to sell at the deadline despite elite underlying metrics, yet good enough to stay in the hunt anyway, Detroit is having one of MLB’s strangest and most consequential mediocre seasons ever.",
-      "publishedAt": "2026-08-21T09:00:58.000Z",
-      "articleId": "7daf6afd18862277"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
       "title": "College EA Meetups Everywhere: Call For Organizers",
       "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -579,17 +545,6 @@
       "summary": "The too-late invention of somewhat safe ways to cook and heat with wood",
       "publishedAt": "2026-08-20T10:03:50.000Z",
       "articleId": "de2a2bd3a89a6787"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/seattle-and-toronto-played-an-october",
-      "title": "Seattle and Toronto Played an October Epic. A Year Later, They’re Sharing an Epic Drop-off.",
-      "url": "https://neilpaine.substack.com/p/seattle-and-toronto-played-an-october",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Despite both still vying for the playoffs, the authors of one of the best AL Championship Series ever are now suffering a historic hangover.",
-      "publishedAt": "2026-08-20T09:02:20.000Z",
-      "articleId": "bb161003857241c7"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/everyone-hates-the-elites-but-who",
@@ -705,17 +660,6 @@
       "articleId": "9f1460ecb989fdfd"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
-      "title": "The White Sox Are a Miracle",
-      "url": "https://neilpaine.substack.com/p/the-white-sox-are-a-miracle",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Just a few years after hitting rock-bottom and losing their once-promising core, Chicago has built back to respectability in record time — with a totally new group.",
-      "publishedAt": "2026-08-19T09:01:34.000Z",
-      "articleId": "1a95b0822fe76fae"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
       "title": "Why I'm Staying Out Of The Substack Religion Debate",
       "url": "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
@@ -758,17 +702,6 @@
       "summary": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
       "publishedAt": "2026-08-18T10:00:00.000Z",
       "articleId": "ae42eb7d3a186378"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/russell-westbrook-collected-so-many",
-      "title": "Russell Westbrook Collected So Many Stats, He Broke Them",
-      "url": "https://neilpaine.substack.com/p/russell-westbrook-collected-so-many",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Westbrook weaponized the triple-double to win an MVP and make NBA history. But he also made us rethink the value of the achievement that defined him.",
-      "publishedAt": "2026-08-18T09:01:10.000Z",
-      "articleId": "f5fe7927ff296446"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
@@ -848,17 +781,6 @@
       "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
       "publishedAt": "2026-08-17T10:00:00.000Z",
       "articleId": "01908f0230250a88"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/mlbs-trade-deadline-somehow-made",
-      "title": "MLB's Trade Deadline Somehow Made Everything More Confusing",
-      "url": "https://neilpaine.substack.com/p/mlbs-trade-deadline-somehow-made",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Rather than sorting contending buyers from selling pretenders, the opposite has happened, leaving a weird playoff race as crowded as ever.",
-      "publishedAt": "2026-08-17T09:00:27.000Z",
-      "articleId": "a1572f1397766b61"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
@@ -1691,17 +1613,6 @@
       "articleId": "15bf26cb192e1b2e"
     },
     {
-      "id": "Maximum Progress:https://www.maximum-progress.com/p/the-end-of-the-endangered-species",
-      "title": "The End of the Endangered Species Act?",
-      "url": "https://www.maximum-progress.com/p/the-end-of-the-endangered-species",
-      "source": "Maximum Progress",
-      "sourceUrl": "https://www.maximum-progress.com/",
-      "access": "open",
-      "summary": "and the Costs of Environmental Land Use Regulation",
-      "publishedAt": "2026-08-01T20:51:23.000Z",
-      "articleId": "4ba286de06d7b90b"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-080126",
       "title": "Reading List 08/01/26",
       "url": "https://www.construction-physics.com/p/reading-list-080126",
@@ -1949,7 +1860,7 @@
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T13:49:07.713Z",
+  "weatherGeneratedAt": "2026-08-25T13:07:41.810Z",
   "weatherError": null,
   "sources": [
     {
@@ -1995,16 +1906,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2025,18 +1936,10 @@
       "error": null
     },
     {
-      "name": "Maximum Progress",
-      "url": "https://www.maximum-progress.com/",
-      "mode": "rss",
-      "itemCount": 20,
-      "feedUrl": "https://www.maximum-progress.com/feed",
-      "error": null
-    },
-    {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss",
-      "itemCount": 8,
+      "mode": "rss-proxy",
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
