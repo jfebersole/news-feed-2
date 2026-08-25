@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T16:51:44.683Z",
-  "fetchedAt": "2026-08-25T16:51:44.679Z",
+  "generatedAt": "2026-08-25T17:41:42.450Z",
+  "fetchedAt": "2026-08-25T17:41:42.445Z",
   "sourceCount": 24,
   "itemCount": 169,
   "totalItemCount": 807,
@@ -1909,16 +1909,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Nice weather wishes us a good morning as we start in the upper 50s and 60s. Plenty of sun helps us into the 70s later in the morning, on the way to afternoon 80s with continued low humidity.",
+    "summary": "HAPPENING NOW: Plenty of sun helps us to afternoon highs in the 80s with continued low humidity.",
     "publishedAt": "2026-08-25T09:00:10.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
-    "articleId": "82b668c26a3fb7a3",
-    "stale": true
+    "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T16:51:44.683Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-25T17:41:42.450Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
