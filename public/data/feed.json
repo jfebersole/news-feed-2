@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-25T10:46:15.750Z",
-  "fetchedAt": "2026-08-25T10:46:15.747Z",
+  "generatedAt": "2026-08-25T11:38:28.479Z",
+  "fetchedAt": "2026-08-25T11:38:28.476Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 786,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
+      "title": "Towards a New House of Lords",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In Britain, the House of Lords was traditionally dominated by hereditary peers–a right bequeathed by the monarch, sometimes in ancient times, to sit in the House of Lords that was transmitted generationally. That system has been withering away for decades, however, and was finally ended this year by the 2026 Hereditary Peers Act. So how […]",
+      "publishedAt": "2026-08-25T11:18:22.000Z",
+      "articleId": "0179a043b07eacb7"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
       "title": "The Western water crisis has a simple solution",
@@ -421,17 +432,6 @@
       "summary": "I’m genuinely asking.",
       "publishedAt": "2026-08-21T22:00:42.000Z",
       "articleId": "e9352907e0383e7c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html?utm_source=rss&utm_medium=rss&utm_campaign=this-brew-at-least-is-from-ashburn-virginia",
-      "title": "This brew, at least, is from Ashburn, Virginia",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "",
-      "publishedAt": "2026-08-21T18:24:37.000Z",
-      "articleId": "0d00958121f628b6"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
@@ -1860,7 +1860,7 @@
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T10:46:15.750Z",
+  "weatherGeneratedAt": "2026-08-25T11:38:28.479Z",
   "weatherError": null,
   "sources": [
     {
