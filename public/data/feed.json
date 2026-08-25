@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T15:00:14.774Z",
-  "fetchedAt": "2026-08-25T15:00:14.768Z",
+  "generatedAt": "2026-08-25T15:55:56.599Z",
+  "fetchedAt": "2026-08-25T15:55:56.590Z",
   "sourceCount": 24,
   "itemCount": 168,
   "totalItemCount": 806,
@@ -1903,10 +1903,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
-    "articleId": "82b668c26a3fb7a3"
+    "articleId": "82b668c26a3fb7a3",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-25T15:00:14.774Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-25T15:55:56.599Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2071,10 +2072,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
