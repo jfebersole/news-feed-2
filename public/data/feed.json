@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-25T15:55:56.599Z",
-  "fetchedAt": "2026-08-25T15:55:56.590Z",
+  "generatedAt": "2026-08-25T16:51:44.683Z",
+  "fetchedAt": "2026-08-25T16:51:44.679Z",
   "sourceCount": 24,
-  "itemCount": 168,
-  "totalItemCount": 806,
+  "itemCount": 169,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-constitutions-from-my-email",
+      "title": "AI and constitutions (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "“Dear Tyler, I enjoyed reading your notes on visiting Anthropic to advise on Claude’s constitution. Framing AI governance around the common law, case law (“Talmud”), and independent adjudication is a much more adaptive approach than relying on a static, top-down text. That said, moving from a fixed text to a case-law system introduces its own […]",
+      "publishedAt": "2026-08-25T16:46:55.000Z",
+      "articleId": "5071c027d7c52191"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
+      "title": "Highlights From The Comments On The Substack Religion Debate",
+      "url": "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-25T16:03:47.000Z",
+      "articleId": "5c6f89479b13add2"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
       "title": "Do I really buy that Texas could turn blue?",
@@ -431,17 +453,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-08-22T09:01:24.000Z",
       "articleId": "c27b4181bded569c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
-      "title": "What should I ask Annie Lowrey?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with her. She has a new and very interesting book coming out, namely The Time Tax: How the Government Wastes Our Time―and How to Fix It. More generally, from Wikipedia: Annie M. Lowrey…is an American journalist who writes on politics and economic policy for The Atlantic. Previously, Lowrey covered economic […]",
-      "publishedAt": "2026-08-22T06:37:48.000Z",
-      "articleId": "d697a6398c9afdd3"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
@@ -1906,7 +1917,7 @@
     "articleId": "82b668c26a3fb7a3",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-25T15:55:56.599Z",
+  "weatherGeneratedAt": "2026-08-25T16:51:44.683Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -1929,7 +1940,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
