@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-25T18:54:18.610Z",
-  "fetchedAt": "2026-08-25T18:54:18.605Z",
+  "generatedAt": "2026-08-25T19:42:06.682Z",
+  "fetchedAt": "2026-08-25T19:42:06.679Z",
   "sourceCount": 24,
-  "itemCount": 169,
+  "itemCount": 170,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
+      "title": "Giants' Calvin Austin III carted off field following knee injury",
+      "url": "https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Giants wide receivers and defensive backs couldn’t even look as trainers attended to Austin.",
+      "publishedAt": "2026-08-25T19:14:56.000Z",
+      "articleId": "b4fb6e7d6ed5dd0a"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/d5bm5r4fgs9r45m5acu8.html",
       "title": "Money Stuff: LeBron Bonds",
@@ -1916,7 +1927,7 @@
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T18:54:18.610Z",
+  "weatherGeneratedAt": "2026-08-25T19:42:06.682Z",
   "weatherError": null,
   "sources": [
     {
