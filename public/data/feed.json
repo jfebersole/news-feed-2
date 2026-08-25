@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T07:56:06.569Z",
-  "fetchedAt": "2026-08-25T07:56:06.565Z",
+  "generatedAt": "2026-08-25T08:55:36.903Z",
+  "fetchedAt": "2026-08-25T08:55:36.898Z",
   "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 775,
+  "itemCount": 163,
+  "totalItemCount": 785,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
@@ -1832,17 +1832,6 @@
       "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
       "publishedAt": "2026-07-27T01:15:34.000Z",
       "articleId": "ae67cf5c90c8991d"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
-      "title": "What will more intelligence actually do for us?",
-      "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A lot, actually. But it won't look quite like what humans do with our intelligence.",
-      "publishedAt": "2026-07-26T07:56:22.000Z",
-      "articleId": "42d9f1694116b0ec"
     }
   ],
   "weather": {
@@ -1859,7 +1848,7 @@
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
     "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-25T07:56:06.569Z",
+  "weatherGeneratedAt": "2026-08-25T08:55:36.903Z",
   "weatherError": null,
   "sources": [
     {
@@ -1873,10 +1862,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
