@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T05:43:52.889Z",
-  "fetchedAt": "2026-08-25T05:43:52.884Z",
+  "generatedAt": "2026-08-25T07:04:46.097Z",
+  "fetchedAt": "2026-08-25T07:04:46.094Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
@@ -1857,11 +1857,10 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd",
-    "stale": true
+    "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-25T05:43:52.889Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-25T07:04:46.097Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
