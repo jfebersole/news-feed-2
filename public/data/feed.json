@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T21:38:49.199Z",
-  "fetchedAt": "2026-08-25T21:38:49.196Z",
+  "generatedAt": "2026-08-25T22:41:04.288Z",
+  "fetchedAt": "2026-08-25T22:41:04.281Z",
   "sourceCount": 24,
-  "itemCount": 169,
-  "totalItemCount": 806,
+  "itemCount": 168,
+  "totalItemCount": 805,
   "items": [
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
@@ -998,17 +998,6 @@
       "articleId": "6eb9ad1f598f164c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
-      "title": "History often hinges on boring technical questions",
-      "url": "https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus the Silicon Valley canon and the case for YIMBYing beloved vacation destinations",
-      "publishedAt": "2026-08-14T10:03:19.000Z",
-      "articleId": "471eb6260c1df841"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
       "title": "Which 10 Giants players have the most to gain — and lose — in the preseason opener?",
       "url": "https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
@@ -1904,21 +1893,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
-    "title": "DC-area forecast: Another bonus day of beautiful sunshine and low humidity",
+    "title": "DC-area forecast: Comfortable tonight as humidity slowly rises for a warmer Wednesday",
     "url": "https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Plenty of sun helps us to afternoon highs in the 80s with continued low humidity.",
+    "summary": "HAPPENING NOW: Another pleasant evening with temperatures falling into and through the 70s.",
     "publishedAt": "2026-08-25T09:00:10.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
-    "articleId": "82b668c26a3fb7a3",
-    "stale": true
+    "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T21:38:49.199Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-25T22:41:04.288Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2028,7 +2016,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
