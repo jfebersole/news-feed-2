@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-24T23:31:49.021Z",
-  "fetchedAt": "2026-08-24T23:31:49.016Z",
+  "generatedAt": "2026-08-25T01:48:52.108Z",
+  "fetchedAt": "2026-08-25T01:48:52.105Z",
   "sourceCount": 23,
   "itemCount": 164,
   "totalItemCount": 785,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
+      "title": "Re: Re: Re: Pritchard On Liberal Happiness",
+      "url": "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-24T23:54:20.000Z",
+      "articleId": "573f32ecc751bf65"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
       "title": "Three Dan Sullivans walk into a race for Senate",
@@ -1790,17 +1801,6 @@
       "articleId": "2f8d00a95a0321fc"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
-      "title": "Psychology Research Is Mostly Fine",
-      "url": "https://www.astralcodexten.com/p/psychology-research-is-mostly-fine",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-28T11:05:46.000Z",
-      "articleId": "7aab3aa38597f0e6"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
       "title": "Roundup #85: Most policy is also industrial policy",
       "url": "https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
@@ -1857,11 +1857,10 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A top-tier late-summer day. Enjoy!",
-    "articleId": "368d6db53a68fbcd",
-    "stale": true
+    "articleId": "368d6db53a68fbcd"
   },
-  "weatherGeneratedAt": "2026-08-24T23:31:49.021Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-25T01:48:52.108Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
