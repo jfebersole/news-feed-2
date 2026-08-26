@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-26T04:52:06.003Z",
-  "fetchedAt": "2026-08-26T04:52:05.996Z",
+  "generatedAt": "2026-08-26T05:46:52.146Z",
+  "fetchedAt": "2026-08-26T05:46:52.142Z",
   "sourceCount": 24,
   "itemCount": 167,
-  "totalItemCount": 805,
+  "totalItemCount": 795,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-58th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-58th-cohort",
+      "title": "Emergent Ventures winners, 58th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-58th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Jethro Elsden, London area, to study the regulatory structure of the UK using AI. Paula Benedetti, Buenos Aires, marine biology work in Brazil. Nyida Gyal, 17, northern Virginia, AI and data. Gabe Sekeres, Cornell, what if an economist just lets AI run?, Ollie Payne, NYC, Future Aesthetics Foundation. Jacob Watson-Howland, London, podcast on science and […]",
+      "publishedAt": "2026-08-26T05:19:50.000Z",
+      "articleId": "bf8cf40acbdbbffd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/dolly-parton-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-rip",
       "title": "Dolly Parton, RIP",
@@ -441,17 +452,6 @@
       "summary": "In the Northeast, Midwest and West, it’s almost all upside for Democrats. But redistricting will hand Republicans some seats in the South.",
       "publishedAt": "2026-08-22T19:22:11.000Z",
       "articleId": "471de1cf42d5749d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived",
-      "title": "Has the European turnaround finally arrived?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Europe just had its best reporting season in years. Companies in the benchmark Stoxx Europe 600 index boosted earnings per share by 18% on average in the second quarter compared with a year earlier. Earnings barely grew at all in 2025 and 2024 as the strongest companies in the index were offset by weaker players. […]",
-      "publishedAt": "2026-08-22T16:57:33.000Z",
-      "articleId": "53cee5f0e19f37b8"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082226",
@@ -1894,7 +1894,7 @@
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-26T04:52:06.003Z",
+  "weatherGeneratedAt": "2026-08-26T05:46:52.146Z",
   "weatherError": null,
   "sources": [
     {
@@ -1908,10 +1908,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
