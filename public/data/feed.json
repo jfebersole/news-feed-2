@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-26T16:32:34.586Z",
-  "fetchedAt": "2026-08-26T16:32:34.582Z",
+  "generatedAt": "2026-08-26T19:16:47.564Z",
+  "fetchedAt": "2026-08-26T19:16:47.560Z",
   "sourceCount": 24,
-  "itemCount": 170,
-  "totalItemCount": 806,
+  "itemCount": 168,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Four years at Harvard won’t corrupt your children.",
+      "publishedAt": "2026-08-26T18:49:44.000Z",
+      "articleId": "e12791ef863cb68e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/daddys-girl-2.html?utm_source=rss&utm_medium=rss&utm_campaign=daddys-girl-2",
+      "title": "Daddy’s Girl",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/daddys-girl-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Using Danish registry data, we study how managers’ gender attitudes shape gender inequality in the workplace by exploiting the birth of a daughter – as opposed to a son – as a plausibly exogenous shock to male managers’ gender attitudes. Comparing within-firm changes in women’s labor outcomes depending on the gender of the manager’s newborn […]",
+      "publishedAt": "2026-08-26T18:11:03.000Z",
+      "articleId": "295258071d4a0513"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/730slk27rbhi3kex12k9.html",
+      "title": "Money Stuff: Predict the KPIs",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/730slk27rbhi3kex12k9.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff KPI, TWG, toast. KPI binaries Classically, a share of stock in a company is worth the present value of the expected future earnings of the company. Therefore, a share of stock is a bet on the future earnings of the company: If this quarter’s earnings are surprisingly good, or if the market comes to expect higher future earnings, the price of the stock will go up. I am using “earnings” in a loose and generic sense, just, like, some measure of the money that will eventually be available to shareholders. The stock’s value is a fairly straightforward function of future dividends , and a somewhat more complicated function of future net income or EBITDA or gross margins or revenue or units sold or whatever. Doubling a company’s future revenues probably won’t exactly double the future cash flows available to shareholders — it might even decrease them — but there’s some correlation. Also, the price of an oil company’s stock might be a function of the price of oil: If oil prices shoot up, oil-company stock prices will probably go up. For that matter, the price of a sports company’s stock might be a function of sports performance: If the Knicks win the NBA championship, for instance, the stock of Madison Square Garden Sports Corp. might go up. In fact, the Knicks won the NBA championship in June, and MSGS is up more than 50% this year. I wouldn’t put a ton of weight on that one data point, and there are a lot of steps between “Knicks win games” and “future cash flows available to MSGS shareholders are higher.” But there is a connection, and in a very loose sense, MSGS’s stock is a bet on the Knicks to win a lot of future basketball games. You could almost imagine MSGS using this for fundraising purposes. [1] Like: MSGS goes out to investors to raise $100 million to spend on getting better at basketball or whatever. MSGS promises the investors “we will give you back $2 million for every game the Knicks win in the 2026-2027 season.” That has an expected payoff of about $106 million according to Kalshi , though with plenty of variance. The investors share in the upside (if the Knicks do great they make more money) and downside (if the Knicks are terrible they lose money) of the team. MSGS also shares in the upside and downside of the team: If the Knicks do great, MSGS makes more money selling tickets and whatever; if the Knicks are terrible MSGS makes less money. The investors do not own actual equity in MSGS ; they do not own a residual claim on MSGS’s cash flow. They own a sports bet. But it has a certain family resemblance to equity; they share in the upside and downside of the company’s business performance. [2] Why would MSGS want to raise money this way, rather than by issuing stock? Well, I mean, it wouldn’t; this is a silly hypothetical. The...",
+      "publishedAt": "2026-08-26T18:02:10.687Z",
+      "articleId": "3c1d70b58c44aa33"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-568",
       "title": "Wednesday assorted links",
@@ -306,17 +339,6 @@
       "articleId": "47b196473c66ecbf"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Four years at Harvard won’t corrupt your children.",
-      "publishedAt": "2026-08-24T18:12:55.000Z",
-      "articleId": "e12791ef863cb68e"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html?utm_source=rss&utm_medium=rss&utm_campaign=common-sense-in-charge",
       "title": "Common sense in charge",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html",
@@ -406,18 +428,6 @@
       "articleId": "2f22ea7036dea3a8"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/trout-cabrera-was-simple-compared",
-      "title": "Trout-Cabrera Was Simple Compared With PCA-Ohtani",
-      "url": "https://neilpaine.substack.com/p/trout-cabrera-was-simple-compared",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The great MVP debate of the 2010s was about everything WAR can capture. The modern sequel is about everything it can’t.",
-      "publishedAt": "2026-08-24T09:01:38.000Z",
-      "articleId": "891ed10d93c66ff6"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
       "title": "What if our biggest problems aren’t economic?",
       "url": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
@@ -450,17 +460,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-08-23T17:00:44.000Z",
       "articleId": "7c8d0c47e489d702"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-581",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. “Underestimating something that has an AI “accent” by reflexively dismissing it as slop rhymes curiously with underestimating someone because they have a funny accent in your native language (and it isn’t one of the accents that you think signals superiority, like the BBC British accent for English).” V. Rao. 2. Profile of Joe Lonsdale. […]",
-      "publishedAt": "2026-08-23T16:49:19.000Z",
-      "articleId": "9c9a3951bceb46f5"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
@@ -1286,17 +1285,6 @@
       "articleId": "a22429960383f08b"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
-      "title": "Money Stuff: The Situation Is Fine",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Situational Awareness One of the core themes of this column is that it is good for your financial career to lose a billion dollars . This is largely a theory about hedge fund managers and bank traders; in those jobs, losing a billion dollars demonstrates that (1) someone trusted you with a billion dollars, (2) you boldly took risks with the money and (3) possibly you have learned some lessons from losing it and will do better next time. “My philosophy when I used to hire traders was that the optimal number of past blow ups was one,” John Arnold posted on X last month. Over time, I have extended the theory to tech startups , where losing a billion dollars demonstrates different but related good qualities. “Move fast and break things,” “fail quickly,” etc.: If you have lost a billion dollars then you definitely know how to fail quickly. Also, if there is one thing that Silicon Valley prizes above all else, it is contrarianism, and losing money is arguably a contrarian act. “Everyone thinks that losing money is bad, but what if losing money is actually good,” Peter Thiel has probably almost said at some point . Leopold Aschenbrenner is at the dead center of this Venn diagram and will doubtless be running a trillion dollars by the fall. Bloomberg News reported on Friday : One week after Leopold Aschenbrenner’s hedge fund Situational Awareness nearly blew up, he’s already getting requests from investors looking to place more money with the artificial intelligence wunderkind. His fund has seen a surge in interest from Silicon Valley investors looking to back the 20-something hedge funder in recent days, according to people familiar with the matter who asked not to be identified citing private discussions. So far, Situational Awareness has told investors that it’s not accepting new capital for now, the people said. … The aftermath of Situational Awareness’ near miss is highlighting the stark divide between Silicon Valley and the world of finance. For Wall Street, it was a moment when an AI hotshot was forced to learn the dangers of leverage and rein in risk. But for many across Silicon Valley, his misstep has merely been a chance to buy the dip and keep supporting the OpenAI researcher-turned-investor. “Silicon Valley and Wall Street are both reacting differently,” said Gygmy Gonnot, an adjunct professor at New York University’s Stern School of Business and a managing director at Focus Investment Group. “At the core, Silicon Valley rewards being directionally right about transformational technologies, while Wall Street rewards generating attractive adjusted returns while preserving capital.” One thinks of Elon Musk’s poker strategy . In some sense the problem with Situational Awareness,...",
-      "publishedAt": "2026-08-10T17:43:54.835Z",
-      "articleId": "58d027f749d0f86d"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
       "title": "Giants depth chart analysis: Is CB Paulson Adebo losing grip on starting job?",
       "url": "https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
@@ -1899,17 +1887,6 @@
       "summary": "Trump and science; U.S. national debt; Europe and software; America and trains; China and metal refining; Indian women; Murder",
       "publishedAt": "2026-07-28T00:33:43.000Z",
       "articleId": "a0f4808f248e96e2"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
-      "title": "Christopher Nolan Has Rebuked the Spirit of the Age",
-      "url": "https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
-      "publishedAt": "2026-07-27T18:36:27.000Z",
-      "articleId": "3bd7fea941ce38e8"
     }
   ],
   "weather": {
@@ -1926,7 +1903,7 @@
     "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
     "articleId": "f9064e748c9efcb2"
   },
-  "weatherGeneratedAt": "2026-08-26T16:32:34.586Z",
+  "weatherGeneratedAt": "2026-08-26T19:16:47.564Z",
   "weatherError": null,
   "sources": [
     {
@@ -2013,7 +1990,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
