@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html",
+  "source": "Marginal Revolution",
+  "title": "Overreaching causal language in the social sciences",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-08-26T06:54:58.000Z",
+  "contentHtml": "<blockquote><p>Across the social sciences, many studies use cross-sectional designs that reveal associations but are generally unable to support direct causal claims, yet authors of such articles may make or imply causal claims anyway. Here, to examine the prevalence of such ‘overreaching’ causal language, we analysed 194,631 cross-sectional articles using large language models. Over the period 1980–2024, an average of 46% of articles contained causal language in their titles or abstracts, where the annual rate has risen almost threefold since 2000 from 20% to 60%. To examine the effects of such language, we conducted a human-subjects experiment (N&nbsp;= 1, 105), finding that readers frequently indicate abstracts with this phrasing provide causal evidence but that methodological labels (β&nbsp;= −0.4, 95% confidence interval −0.56 to −0.19) and associational wording (β&nbsp;= −0.3, 95% confidence interval −0.43 to −0.07) reduce this tendency. Experiments with five LLMs revealed that model summaries of these articles (N&nbsp;= 100 each) can amplify causal overstatement, removing hedges and introducing causal claims where articles used strictly associational phrasing; however, prompting caution diminishes this pattern.</p></blockquote>\n<p>That is from <a href=\"https://www.nature.com/articles/s41562-026-02553-x\" target=\"_blank\" rel=\"noopener noreferrer\">a recent paper</a> by <a href=\"https://www.nature.com/articles/s41562-026-02553-x#auth-Calvin-Isch-Aff1\" target=\"_blank\" rel=\"noopener noreferrer\">Calvin Isch</a><span>, </span><a href=\"https://www.nature.com/articles/s41562-026-02553-x#auth-Timothy-D_rr-Aff1\" target=\"_blank\" rel=\"noopener noreferrer\">Timothy Dörr</a><span>, </span><a href=\"https://www.nature.com/articles/s41562-026-02553-x#auth-Neil-Fasching-Aff1\" target=\"_blank\" rel=\"noopener noreferrer\">Neil Fasching</a><span>, </span><a href=\"https://www.nature.com/articles/s41562-026-02553-x#auth-Grace-Jennings-Aff1\" target=\"_blank\" rel=\"noopener noreferrer\">Grace Jennings</a><span> &amp;&nbsp;</span><a href=\"https://www.nature.com/articles/s41562-026-02553-x#auth-Duncan_J_-Watts-Aff1\" target=\"_blank\" rel=\"noopener noreferrer\">Duncan J. Watts</a>.<span>&nbsp; Note that Isch is on the job market this year, working with Tetlock and Watts.</span></p>",
+  "wordCount": 211,
+  "imageCount": 0,
+  "linkCount": 6
+}

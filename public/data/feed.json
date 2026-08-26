@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-26T05:46:52.146Z",
-  "fetchedAt": "2026-08-26T05:46:52.142Z",
+  "generatedAt": "2026-08-26T07:05:06.928Z",
+  "fetchedAt": "2026-08-26T07:05:06.925Z",
   "sourceCount": 24,
   "itemCount": 167,
-  "totalItemCount": 795,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html?utm_source=rss&utm_medium=rss&utm_campaign=overreaching-causal-language-in-the-social-sciences",
+      "title": "Overreaching causal language in the social sciences",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Across the social sciences, many studies use cross-sectional designs that reveal associations but are generally unable to support direct causal claims, yet authors of such articles may make or imply causal claims anyway. Here, to examine the prevalence of such ‘overreaching’ causal language, we analysed 194,631 cross-sectional articles using large language models. Over the period […]",
+      "publishedAt": "2026-08-26T06:54:58.000Z",
+      "articleId": "1424f6186642c5f0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-58th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-58th-cohort",
       "title": "Emergent Ventures winners, 58th cohort",
@@ -407,17 +418,6 @@
       "summary": "I very recently participated in a two-day session to offer guidance on rewriting the constitution for Claude. The small group invited was uniformly excellent, we received serious time with key decision-makers, and the discussions were of very high quality. Some of the points I stressed were the following: 1. Whatever one might take a “constitution” […]",
       "publishedAt": "2026-08-23T06:32:29.000Z",
       "articleId": "c80456dea175f57c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
-      "title": "The new agentic O-ring world",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "But because agents often require guidance or additional context as they move through their tasks, Sharma, 27, finds himself wanting to be available to them around the clock and forgoing a regular sleep schedule as a result. Until recently, he couldn’t monitor them remotely through a phone or smartwatch. “The cost of the agents’ being […]",
-      "publishedAt": "2026-08-23T04:56:00.000Z",
-      "articleId": "1d7e7484982057da"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/what-makes-australia-australia",
@@ -1894,7 +1894,7 @@
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-26T05:46:52.146Z",
+  "weatherGeneratedAt": "2026-08-26T07:05:06.928Z",
   "weatherError": null,
   "sources": [
     {
@@ -1908,10 +1908,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -2052,10 +2052,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
