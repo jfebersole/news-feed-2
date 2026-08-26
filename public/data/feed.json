@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-26T10:48:43.946Z",
-  "fetchedAt": "2026-08-26T10:48:43.941Z",
+  "generatedAt": "2026-08-26T11:40:24.553Z",
+  "fetchedAt": "2026-08-26T11:40:24.548Z",
   "sourceCount": 24,
-  "itemCount": 168,
-  "totalItemCount": 805,
+  "itemCount": 169,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/data-centers-and-the-open-access-order.html?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-and-the-open-access-order",
+      "title": "Data Centers and the Open Access Order",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/data-centers-and-the-open-access-order.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The US discussion over datacenters is depressing. Datacenters do not use a lot of water, they produce very useful outputs, they are not a blight on the landscape. All of this is obvious. But I don’t want to restate the obvious. What bothers me most about the discussion is that people seem to think this […]",
+      "publishedAt": "2026-08-26T11:18:59.000Z",
+      "articleId": "ee59d6ebb2f6a376"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/yimbys-already-have-a-bold-vision",
       "title": "YIMBYs already have a bold vision for solving the housing crisis",
@@ -37,6 +48,17 @@
       "summary": "How San Francisco turned its most iconic street into a giant empty scar.",
       "publishedAt": "2026-08-26T09:12:35.000Z",
       "articleId": "9697dcd040e053f7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/angel-reese-is-still-a-rebounding",
+      "title": "Angel Reese Is Still a Rebounding Machine — But She’s Becoming Something More",
+      "url": "https://neilpaine.substack.com/p/angel-reese-is-still-a-rebounding",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Reese is rewriting the WNBA’s rebounding record book again. But the bigger story is that her production is translating to winning basketball.",
+      "publishedAt": "2026-08-26T09:00:45.000Z",
+      "articleId": "7bf5e4c83944bc83"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html?utm_source=rss&utm_medium=rss&utm_campaign=overreaching-causal-language-in-the-social-sciences",
@@ -440,17 +462,6 @@
       "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […]",
       "publishedAt": "2026-08-23T11:15:42.000Z",
       "articleId": "ae5bd5606ea68206"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
-      "title": "My recent visit to Anthropic",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I very recently participated in a two-day session to offer guidance on rewriting the constitution for Claude. The small group invited was uniformly excellent, we received serious time with key decision-makers, and the discussions were of very high quality. Some of the points I stressed were the following: 1. Whatever one might take a “constitution” […]",
-      "publishedAt": "2026-08-23T06:32:29.000Z",
-      "articleId": "c80456dea175f57c"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/what-makes-australia-australia",
@@ -1902,11 +1913,10 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
-    "articleId": "f9064e748c9efcb2",
-    "stale": true
+    "articleId": "f9064e748c9efcb2"
   },
-  "weatherGeneratedAt": "2026-08-26T10:48:43.946Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-26T11:40:24.553Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1992,7 +2002,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2071,10 +2081,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
