@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-26T11:40:24.553Z",
-  "fetchedAt": "2026-08-26T11:40:24.548Z",
+  "generatedAt": "2026-08-26T13:12:14.300Z",
+  "fetchedAt": "2026-08-26T13:12:14.296Z",
   "sourceCount": 24,
-  "itemCount": 169,
+  "itemCount": 170,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
+      "title": "A future of programmable medicine",
+      "url": "https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "What if instead of editing a gene, or blocking the protein it produces, you could simply switch it off?",
+      "publishedAt": "2026-08-26T12:04:33.000Z",
+      "articleId": "c3fdda281a297838"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/data-centers-and-the-open-access-order.html?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-and-the-open-access-order",
       "title": "Data Centers and the Open Access Order",
@@ -1915,7 +1926,7 @@
     "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
     "articleId": "f9064e748c9efcb2"
   },
-  "weatherGeneratedAt": "2026-08-26T11:40:24.553Z",
+  "weatherGeneratedAt": "2026-08-26T13:12:14.300Z",
   "weatherError": null,
   "sources": [
     {
