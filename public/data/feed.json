@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-08-26T19:16:47.564Z",
-  "fetchedAt": "2026-08-26T19:16:47.560Z",
+  "generatedAt": "2026-08-26T23:27:05.599Z",
+  "fetchedAt": "2026-08-26T23:27:05.596Z",
   "sourceCount": 24,
-  "itemCount": 168,
-  "totalItemCount": 805,
+  "itemCount": 169,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/as-one-housing-reform-works-in-texas",
+      "title": "As one housing reform works in Texas, another in Colorado hits a budgetary hitch",
+      "url": "https://www.slowboring.com/p/as-one-housing-reform-works-in-texas",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "What happens to the push for more housing when the budget dries up?",
+      "publishedAt": "2026-08-26T22:01:33.000Z",
+      "articleId": "00e8777d158fa646"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
       "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
@@ -1891,19 +1903,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-higher-temperatures-today-and-heightened-storm-risk-thursday/",
-    "title": "DC-area forecast: Higher temperatures today, and heightened storm risk Thursday",
+    "title": "DC-area forecast: Higher humidity tonight, and heightened storm risk Thursday",
     "url": "https://www.capitalweather.com/dc-area-forecast-higher-temperatures-today-and-heightened-storm-risk-thursday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Feeling more like August again with humidity and temperatures both up. Afternoon highs climb into the mid- to upper 80s.",
+    "summary": "HAPPENING NOW: Clouds are more numerous this evening as temperatures slowly fall through the 80s.",
     "publishedAt": "2026-08-26T09:00:44.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
     "articleId": "f9064e748c9efcb2"
   },
-  "weatherGeneratedAt": "2026-08-26T19:16:47.564Z",
+  "weatherGeneratedAt": "2026-08-26T23:27:05.599Z",
   "weatherError": null,
   "sources": [
     {
@@ -2014,7 +2026,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
