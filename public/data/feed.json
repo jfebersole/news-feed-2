@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-26T14:58:14.004Z",
-  "fetchedAt": "2026-08-26T14:58:14.002Z",
+  "generatedAt": "2026-08-26T16:32:34.586Z",
+  "fetchedAt": "2026-08-26T16:32:34.582Z",
   "sourceCount": 24,
   "itemCount": 170,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-568",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-568.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. At least one in four NFL players, and possibly much higher, ends up with brain disease (NYT). As I read the results, probably most of them do. 2. On the LLM flooding of governmental services. 3. Joe Walker podcast with Andrew Charlton on the future of AI in Australia. 4. The bread culture that […]",
+      "publishedAt": "2026-08-26T16:11:20.000Z",
+      "articleId": "7c6a5ac1f5790354"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
       "title": "A future of programmable medicine",
@@ -462,17 +473,6 @@
       "summary": "Or, when you’re supposed to talk about The Strokes but end up philosophizing about the music business instead",
       "publishedAt": "2026-08-23T13:30:54.000Z",
       "articleId": "e50ca15b475143d2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
-      "title": "Democracy and Caeserism",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […]",
-      "publishedAt": "2026-08-23T11:15:42.000Z",
-      "articleId": "ae5bd5606ea68206"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/what-makes-australia-australia",
@@ -1926,7 +1926,7 @@
     "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
     "articleId": "f9064e748c9efcb2"
   },
-  "weatherGeneratedAt": "2026-08-26T14:58:14.004Z",
+  "weatherGeneratedAt": "2026-08-26T16:32:34.586Z",
   "weatherError": null,
   "sources": [
     {
