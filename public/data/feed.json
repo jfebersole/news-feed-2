@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-26T09:53:40.066Z",
-  "fetchedAt": "2026-08-26T09:53:40.060Z",
+  "generatedAt": "2026-08-26T10:48:43.946Z",
+  "fetchedAt": "2026-08-26T10:48:43.941Z",
   "sourceCount": 24,
   "itemCount": 168,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/yimbys-already-have-a-bold-vision",
+      "title": "YIMBYs already have a bold vision for solving the housing crisis",
+      "url": "https://www.slowboring.com/p/yimbys-already-have-a-bold-vision",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Don’t listen to the haters — there’s nothing narrow about this.",
+      "publishedAt": "2026-08-26T10:02:08.000Z",
+      "articleId": "69b6b76f85bdcebf"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+      "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "articleId": "6ad1387d93c87df0"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-death-of-market-street",
       "title": "The death of Market Street",
@@ -953,18 +975,6 @@
       "articleId": "b7e566c21a7a737a"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-is-college-worth",
-      "title": "What is college worth?",
-      "url": "https://www.slowboring.com/p/what-is-college-worth",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "An enrollment cliff combined with high sticker prices no one is paying has some private colleges rethinking their tuition.",
-      "publishedAt": "2026-08-14T22:01:12.000Z",
-      "articleId": "742660ab9d95621c"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
       "title": "Woke 1 Was Anti-Populist, and Not in the Good Way",
       "url": "https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
@@ -1274,17 +1284,6 @@
       "summary": "The Giants are back from West Virginia, and their depth chart is coming into focus.",
       "publishedAt": "2026-08-10T13:41:32.000Z",
       "articleId": "be585a615463ba2a"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
-      "title": "Apple Earnings, More on Amazon’s Earnings",
-      "url": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple's earnings (and stock) are limited not by memory but rather chip shortages; then, more on Amazon's earnings and Andy Jassy's market analysis.",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "articleId": "0a582f94b99fcbfe"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/perth-australia-the-beautiful-lonely",
@@ -1903,10 +1902,11 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
-    "articleId": "f9064e748c9efcb2"
+    "articleId": "f9064e748c9efcb2",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-26T09:53:40.066Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-26T10:48:43.946Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2071,10 +2071,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
