@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-25T23:34:16.070Z",
-  "fetchedAt": "2026-08-25T23:34:16.064Z",
+  "generatedAt": "2026-08-26T01:54:53.378Z",
+  "fetchedAt": "2026-08-26T01:54:53.373Z",
   "sourceCount": 24,
-  "itemCount": 168,
+  "itemCount": 167,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/dolly-parton-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-rip",
+      "title": "Dolly Parton, RIP",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/dolly-parton-rip.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "",
+      "publishedAt": "2026-08-25T23:49:33.000Z",
+      "articleId": "5c95788c8f24c1fe"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
       "title": "Giants' Calvin Austin III carted off field following knee injury",
@@ -441,17 +452,6 @@
       "summary": "Europe just had its best reporting season in years. Companies in the benchmark Stoxx Europe 600 index boosted earnings per share by 18% on average in the second quarter compared with a year earlier. Earnings barely grew at all in 2025 and 2024 as the strongest companies in the index were offset by weaker players. […]",
       "publishedAt": "2026-08-22T16:57:33.000Z",
       "articleId": "53cee5f0e19f37b8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-575",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. New publication analyzing AI constitutions. 2. Niall Ferguson vs. Iain Banks, and against some other stufff too (TFP). 3. NYT obituary for Victor Niederhoffer. 4. “Engineered systems known as harnesses largely complete contracts in real time, make external work more observable than employment, and carry context and control across the firm’s edge.” (speculative) 5. […]",
-      "publishedAt": "2026-08-22T14:17:50.000Z",
-      "articleId": "bbfdde1a457a906b"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082226",
@@ -1878,17 +1878,6 @@
       "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
       "publishedAt": "2026-07-27T18:36:27.000Z",
       "articleId": "3bd7fea941ce38e8"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
-      "title": "Why Vance Still Trumps Rubio",
-      "url": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
-      "publishedAt": "2026-07-27T01:15:34.000Z",
-      "articleId": "ae67cf5c90c8991d"
     }
   ],
   "weather": {
@@ -1898,14 +1887,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Another pleasant evening with temperatures falling into and through the 70s.",
+    "summary": "HAPPENING NOW: Evening temperatures in the 70s dip to lows in the upper 50s to mid-60s.",
     "publishedAt": "2026-08-25T09:00:10.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
     "articleId": "82b668c26a3fb7a3"
   },
-  "weatherGeneratedAt": "2026-08-25T23:34:16.070Z",
+  "weatherGeneratedAt": "2026-08-26T01:54:53.378Z",
   "weatherError": null,
   "sources": [
     {
