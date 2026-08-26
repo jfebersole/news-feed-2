@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-26T08:58:07.731Z",
-  "fetchedAt": "2026-08-26T08:58:07.728Z",
+  "generatedAt": "2026-08-26T09:53:40.066Z",
+  "fetchedAt": "2026-08-26T09:53:40.060Z",
   "sourceCount": 24,
-  "itemCount": 167,
+  "itemCount": 168,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-death-of-market-street",
+      "title": "The death of Market Street",
+      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "How San Francisco turned its most iconic street into a giant empty scar.",
+      "publishedAt": "2026-08-26T09:12:35.000Z",
+      "articleId": "9697dcd040e053f7"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html?utm_source=rss&utm_medium=rss&utm_campaign=overreaching-causal-language-in-the-social-sciences",
       "title": "Overreaching causal language in the social sciences",
@@ -1881,20 +1892,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
-    "title": "DC-area forecast: Comfortable tonight as humidity slowly rises for a warmer Wednesday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-higher-temperatures-today-and-heightened-storm-risk-thursday/",
+    "title": "DC-area forecast: Higher temperatures today, and heightened storm risk Thursday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-higher-temperatures-today-and-heightened-storm-risk-thursday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures in the 70s dip to lows in the upper 50s to mid-60s.",
-    "publishedAt": "2026-08-25T09:00:10.000Z",
-    "dailyDigit": 9,
-    "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
-    "articleId": "82b668c26a3fb7a3"
+    "summary": "HAPPENING NOW: Feeling more like August again with humidity and temperatures both up. 70s through mid-morning, then highs mid- to upper 80s.",
+    "publishedAt": "2026-08-26T09:00:44.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
+    "articleId": "f9064e748c9efcb2"
   },
-  "weatherGeneratedAt": "2026-08-26T08:58:07.731Z",
+  "weatherGeneratedAt": "2026-08-26T09:53:40.066Z",
   "weatherError": null,
   "sources": [
     {
