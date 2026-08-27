@@ -1,10 +1,78 @@
 {
-  "generatedAt": "2026-08-26T23:27:05.599Z",
-  "fetchedAt": "2026-08-26T23:27:05.596Z",
+  "generatedAt": "2026-08-27T09:36:20.233Z",
+  "fetchedAt": "2026-08-27T09:36:20.226Z",
   "sourceCount": 24,
-  "itemCount": 169,
-  "totalItemCount": 806,
+  "itemCount": 170,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
+      "title": "There Is a Sickness Worse Than Wokeness",
+      "url": "https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The anti-woke movement’s “cure” was more intolerance and more repression.",
+      "publishedAt": "2026-08-27T09:04:49.000Z",
+      "articleId": "b25ed1d0a9e1af3b"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/every-sport-suddenly-wants-another",
+      "title": "Every Sport Suddenly Wants Another Champion",
+      "url": "https://neilpaine.substack.com/p/every-sport-suddenly-wants-another",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Against a backdrop of rampant Ring Culture, the PGA Tour became the latest league to create a side competition designed to produce a separate trophy worth chasing.",
+      "publishedAt": "2026-08-27T09:02:28.000Z",
+      "articleId": "acb5b8eb7be5f39c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-anti-social-century-with-derek",
+      "title": "The “anti-social century” with Derek Thompson",
+      "url": "https://www.slowboring.com/p/the-anti-social-century-with-derek",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "What happens as people spend more and more time alone?",
+      "publishedAt": "2026-08-27T09:02:08.000Z",
+      "articleId": "112b50d01dba74ed"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/important-results-on-economic-mobility.html?utm_source=rss&utm_medium=rss&utm_campaign=important-results-on-economic-mobility",
+      "title": "Important results on economic mobility",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/important-results-on-economic-mobility.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We use more than 900 million linked employer–employee records covering the entire formal workforce of Brazil to examine when cities provide upward mobility for the initially poor. We find that upward mobility for low-wage workers is strongest in workplaces that combine low-wage individuals with high-wage workers. This association is particularly pronounced in Brazil’s southern cities, […]",
+      "publishedAt": "2026-08-27T07:17:24.000Z",
+      "articleId": "ea0af4bcf2a0832a"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/take-the-2026-acx-survey",
+      "title": "Take The 2026 ACX Survey",
+      "url": "https://www.astralcodexten.com/p/take-the-2026-acx-survey",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-27T07:16:18.000Z",
+      "articleId": "6fb8a8f208e6a490"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-least-bad-way-to-regulate-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-least-bad-way-to-regulate-ai",
+      "title": "The least bad way to regulate AI?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-least-bad-way-to-regulate-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column. Excerpt: The key is to create some basic safeguards, but without stifling broader AI progress. To do so, we must defy the conventional wisdom about public oversight and instead trust the AI labs to be their own primary regulators. My version of the proposal starts […]",
+      "publishedAt": "2026-08-27T05:03:47.000Z",
+      "articleId": "7e2dacd8f4e53366"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/as-one-housing-reform-works-in-texas",
       "title": "As one housing reform works in Texas, another in Colorado hits a budgetary hitch",
@@ -429,17 +497,6 @@
       "articleId": "abf6c4e15f4ae859"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html?utm_source=rss&utm_medium=rss&utm_campaign=childhood-exposure-to-joint-custody-reforms-and-adult-family-formation",
-      "title": "Childhood Exposure to Joint Custody Reforms and Adult Family Formation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Joint custody reforms are among the most consequential family-law changes for children, yet little is known about their long-term effects. Exploiting staggered adoption across US states and 13 million ACS observations, we show that childhood exposure reduces adult fertility by 7 percent, symmetrically for women and men and operates primarily through lower parenthood and couple […]",
-      "publishedAt": "2026-08-24T09:30:37.000Z",
-      "articleId": "2f22ea7036dea3a8"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
       "title": "What if our biggest problems aren’t economic?",
       "url": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
@@ -449,17 +506,6 @@
       "summary": "A new social challenge for a new century.",
       "publishedAt": "2026-08-24T08:46:48.000Z",
       "articleId": "f9a34de4219cbfa7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/i-dj-for-rick-rubin-about-music-and-patriotism.html?utm_source=rss&utm_medium=rss&utm_campaign=i-dj-for-rick-rubin-about-music-and-patriotism",
-      "title": "I DJ for Rick Rubin about music and patriotism",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/i-dj-for-rick-rubin-about-music-and-patriotism.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "MUSIC EPISODE: “You think you understand patriotism, you have your hands around it–it’s the simple thing, but it turns out it’s not. And maybe, music and the history of music shows us all that better than mere discourse about it.” @tylercowen 0:00:00 Tyler Cowen 0:00:24 Intro: Patriotism in Music 0:03:09 John Philip Sousa & Stars […]",
-      "publishedAt": "2026-08-24T05:08:29.000Z",
-      "articleId": "e0484c9fda605aa8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
@@ -914,18 +960,6 @@
       "summary": "Endogenous money isn't what you think it is",
       "publishedAt": "2026-08-16T17:11:36.000Z",
       "articleId": "008408987cb739b1"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-00a",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-00a",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-16T17:03:15.000Z",
-      "articleId": "cf00a5e3598b308f"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/breaking-records-on-tour-a-conversation",
@@ -1812,17 +1846,6 @@
       "articleId": "9f17d73e3f097d58"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
-      "title": "Highlights From The Discourse On The Hugging Face Incident",
-      "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-30T01:07:16.000Z",
-      "articleId": "f9e0816526c80da6"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
       "title": "Giants camp takeaways: Jaxson Dart looks sharp, but Malik Nabers' return stole show",
       "url": "https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
@@ -1888,34 +1911,23 @@
       "summary": "Though Nabers avoided the PUP list, there's no guarantee the star wide receiver will be ready for Week 1.",
       "publishedAt": "2026-07-28T11:36:35.000Z",
       "articleId": "2f8d00a95a0321fc"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
-      "title": "Roundup #85: Most policy is also industrial policy",
-      "url": "https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Trump and science; U.S. national debt; Europe and software; America and trains; China and metal refining; Indian women; Murder",
-      "publishedAt": "2026-07-28T00:33:43.000Z",
-      "articleId": "a0f4808f248e96e2"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-higher-temperatures-today-and-heightened-storm-risk-thursday/",
-    "title": "DC-area forecast: Higher humidity tonight, and heightened storm risk Thursday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-higher-temperatures-today-and-heightened-storm-risk-thursday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-toasty-and-humid-today-with-scattered-storms-possible-late/",
+    "title": "DC-area forecast: Toasty and humid today, with scattered storms possible late",
+    "url": "https://www.capitalweather.com/dc-area-forecast-toasty-and-humid-today-with-scattered-storms-possible-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds are more numerous this evening as temperatures slowly fall through the 80s.",
-    "publishedAt": "2026-08-26T09:00:44.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "It could be worse. It could be better (see: the last few days).",
-    "articleId": "f9064e748c9efcb2"
+    "summary": "HAPPENING NOW: Partly to mostly cloudy and humid, with afternoon highs in the mid-80s to near 90. Storms become more likely heading into the evening.",
+    "publishedAt": "2026-08-27T09:00:51.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "Humidity is up to uncomfortable levels. Plus, there’s heat and a storm chance.",
+    "articleId": "27253e7318ee2933"
   },
-  "weatherGeneratedAt": "2026-08-26T23:27:05.599Z",
+  "weatherGeneratedAt": "2026-08-27T09:36:20.233Z",
   "weatherError": null,
   "sources": [
     {
@@ -2002,7 +2014,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
