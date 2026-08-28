@@ -1,10 +1,133 @@
 {
-  "generatedAt": "2026-08-28T05:20:52.492Z",
-  "fetchedAt": "2026-08-28T05:20:52.486Z",
+  "generatedAt": "2026-08-28T18:36:42.711Z",
+  "fetchedAt": "2026-08-28T18:36:42.706Z",
   "sourceCount": 24,
-  "itemCount": 168,
+  "itemCount": 170,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
+      "title": "Your Book Review: Thomas Urquhart’s Translation Of Rabelais",
+      "url": "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #7 in the Book Review Contest",
+      "publishedAt": "2026-08-28T17:32:14.000Z",
+      "articleId": "ad3048b493f0b87e"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/august-2026-links",
+      "title": "August 2026 links",
+      "url": "https://scottsumner.substack.com/p/august-2026-links",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus brief thoughts on Jackson Hole",
+      "publishedAt": "2026-08-28T17:06:46.000Z",
+      "articleId": "ef30eaeec38822a3"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/internet-hype-and-real-world-change/",
+      "title": "2026.35: Internet Hype and Real World Change",
+      "url": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
+      "publishedAt": "2026-08-28T17:00:00.000Z",
+      "articleId": "9ca25d2874fd5063"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-587",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-587.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. “With homicides up 50% since 2020—putting the country’s murder rate on par with Mexico’s—Costa Rican President Laura Fernández and her ruling party are blaming the independent judiciary.” (WSJ) 2. The Monterrey spirit. 3. Is Aaron Renn the biggest superinfluencer on the New Right? 4. Two Dan Sullivans on the Alaska Senate ballot, let us […]",
+      "publishedAt": "2026-08-28T15:40:05.000Z",
+      "articleId": "bff9ed3410be7c7e"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
+      "title": "American transit is bad because of scope creep",
+      "url": "https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Who benefits when we ask transit to pursue social goals?",
+      "publishedAt": "2026-08-28T14:18:03.000Z",
+      "articleId": "b640106ad849b032"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/a-big-bet-on-explosive-ai-driven-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-big-bet-on-explosive-ai-driven-growth",
+      "title": "A Big Bet on Explosive AI-Driven Growth",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-big-bet-on-explosive-ai-driven-growth.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Wow! The excellent Ben Moll has put together a high-stakes bet on US economic growth. A bet on near-term explosive AI-driven growth: whether U.S. real GDP per capita will grow by at least 15% within a single year (measured relative to prior peak) by the end of 2033. Agreed on X, 15–16 August 2026. This […]",
+      "publishedAt": "2026-08-28T11:18:37.000Z",
+      "articleId": "94857e3b8e2b857d"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
+      "title": "Giants by the numbers: Just how grueling was John Harbaugh's training camp?",
+      "url": "https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Harbaugh has packed in 21 practices during Giants camp. In the same time frame last year, the Giants practiced 15 times.",
+      "publishedAt": "2026-08-28T10:15:05.000Z",
+      "articleId": "86cd290243a2ba29"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-great-awokening-started-in-2014",
+      "title": "The Great Awokening started in 2014, not 2020",
+      "url": "https://www.slowboring.com/p/the-great-awokening-started-in-2014",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus price controls, a lot of Maine stuff, and what a 2028 anti-MAGA insurgency could look like",
+      "publishedAt": "2026-08-28T10:01:02.000Z",
+      "articleId": "e42b1cb8ebcdba88"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
+      "title": "Here’s how we’re all going to die",
+      "url": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Spoiler: It’s vibe-coded superviruses.",
+      "publishedAt": "2026-08-28T09:48:43.000Z",
+      "articleId": "8138d20dd2a472a0"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-greatest-rotation-that-never",
+      "title": "The Greatest Rotation That Never Was",
+      "url": "https://neilpaine.substack.com/p/the-greatest-rotation-that-never",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "25 years ago, Florida assembled a group of Young Guns who became All-Stars, champions and longtime MLB starters. They just barely got the chance to actually pitch together.",
+      "publishedAt": "2026-08-28T09:02:25.000Z",
+      "articleId": "df80a404d9eda9d8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/luke-burgis-interviews-patrick-collison-on-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=luke-burgis-interviews-patrick-collison-on-aesthetics",
+      "title": "Luke Burgis interviews Patrick Collison on aesthetics",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/luke-burgis-interviews-patrick-collison-on-aesthetics.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It was very fun talking to @patrickc about New Aesthetics at the @ClunyInstitute ‘s conference last month. We talked about: —The origin story of the New Aesthetics grants — and why he and Tyler Cowen disagree on almost everything aesthetic (1:00) —Why culture is “stuck”: a 1926 Bauhaus building could pass for last year’s (2:30) —Modernism’s explicit, stated […]",
+      "publishedAt": "2026-08-28T06:46:44.000Z",
+      "articleId": "89ddf6f1226fcbc9"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/polling-results-on-capitalism-and-socialism.html?utm_source=rss&utm_medium=rss&utm_campaign=polling-results-on-capitalism-and-socialism",
       "title": "Polling results on capitalism and socialism",
@@ -295,17 +418,6 @@
       "articleId": "9697dcd040e053f7"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/angel-reese-is-still-a-rebounding",
-      "title": "Angel Reese Is Still a Rebounding Machine — But She’s Becoming Something More",
-      "url": "https://neilpaine.substack.com/p/angel-reese-is-still-a-rebounding",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Reese is rewriting the WNBA’s rebounding record book again. But the bigger story is that her production is translating to winning basketball.",
-      "publishedAt": "2026-08-26T09:00:45.000Z",
-      "articleId": "7bf5e4c83944bc83"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html?utm_source=rss&utm_medium=rss&utm_campaign=overreaching-causal-language-in-the-social-sciences",
       "title": "Overreaching causal language in the social sciences",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html",
@@ -361,28 +473,6 @@
       "articleId": "3f4142853805170f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-583",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-583.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. How to run a start-up with AI agents and zero employees (video talk). 2. Elon of the bird world (Times of London). 3. Swiss judge using AI to help set sentences (in German). And in French. 4. Arguably EA philanthropists should obsess over fertility decline at least as much as X risk. 5. Much […]",
-      "publishedAt": "2026-08-25T18:00:06.000Z",
-      "articleId": "f9f3c23ba104fe0b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-constitutions-from-my-email",
-      "title": "AI and constitutions (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "“Dear Tyler, I enjoyed reading your notes on visiting Anthropic to advise on Claude’s constitution. Framing AI governance around the common law, case law (“Talmud”), and independent adjudication is a much more adaptive approach than relying on a static, top-down text. That said, moving from a fixed text to a case-law system introduces its own […]",
-      "publishedAt": "2026-08-25T16:46:55.000Z",
-      "articleId": "5071c027d7c52191"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
       "title": "Highlights From The Comments On The Substack Religion Debate",
       "url": "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
@@ -426,17 +516,6 @@
       "summary": "Does it matter whether building more houses lowers prices not?",
       "publishedAt": "2026-08-25T12:01:24.000Z",
       "articleId": "1ec9c10e2b09d636"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
-      "title": "Towards a New House of Lords",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In Britain, the House of Lords was traditionally dominated by hereditary peers–a right bequeathed by the monarch, sometimes in ancient times, to sit in the House of Lords that was transmitted generationally. That system has been withering away for decades, however, and was finally ended this year by the 2026 Hereditary Peers Act. So how […]",
-      "publishedAt": "2026-08-25T11:18:22.000Z",
-      "articleId": "0179a043b07eacb7"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
@@ -905,17 +984,6 @@
       "articleId": "3c3fc5195620cfa5"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-invisible-faction-that-dominates",
-      "title": "The invisible faction that dominates the Democratic Party",
-      "url": "https://www.slowboring.com/p/the-invisible-faction-that-dominates",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Meet the Progressive Establishment",
-      "publishedAt": "2026-08-18T10:02:46.000Z",
-      "articleId": "cb9fa2c5d9c701af"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
       "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
       "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
@@ -1327,17 +1395,6 @@
       "summary": "Featuring Queen, Bob Dylan, Lorde, and others",
       "publishedAt": "2026-08-11T13:30:50.000Z",
       "articleId": "1d77d94a63828422"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/nvidias-risky-business/",
-      "title": "Nvidia’s Risky Business",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Nvidia is finding new ways for its customers to raise money, and it's expanding the risk of the AI buildout significantly.",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "articleId": "bc5a28692c2f5201"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
@@ -1756,17 +1813,6 @@
       "articleId": "f74ab85dda1a0794"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
-      "title": "Your Book Review: The Epic Of Gilgamesh",
-      "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-31T23:58:42.000Z",
-      "articleId": "1631f01fcfc039e7"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
       "title": "How ugliness helps NIMBYs",
       "url": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
@@ -1864,46 +1910,23 @@
       "summary": "Plus another reply to Fable",
       "publishedAt": "2026-07-29T19:12:21.000Z",
       "articleId": "c62a4a4f62ce739d"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
-      "title": "Goodbye, Iowa. Hello, Michigan. Which Democratic primaries will matter most in 2028?",
-      "url": "https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "South Carolina will vote first, which could help moderates. But Michigan and Virginia may hold the real power.",
-      "publishedAt": "2026-07-29T18:05:25.000Z",
-      "articleId": "0cfc15fb61ab3340"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
-      "title": "Enjoy a Tofu Lunch With Us | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "Enjoy a Tofu Lunch With Us | Kenji Eats Japan Join our team for a peaceful tofu lunch at Yudofu Sagano in the scenic Arashiyama area of Kyoto. Content &amp; Community Manager Erin here with an inv... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Enjoy a Tofu Lunch With Us | Kenji Eats Japan J. Kenji López-Alt Jul 29, 2026 View in app View in app Join our team for a peaceful tofu lunch at Yudofu Sagano in the scenic Arashiyama area of Kyoto. Content & Community Manager Erin here with an invitation for you to enjoy a tofu lunch with us in the next episode of Kenji Eats Japan! Kyoto was our team’s first stop during our visit to Japan in April of this year. Before we left the city, we knew we had to explore tofu cuisine a bit deeper and a donabe filled with broth, simmering away over an open fire gave us the perfect opportunity to dive right in. But first, some background. The Tofu Capital: As the former capital, prior seat of the Emperor, and once-largest city in Japan, Kyoto holds a lot of historic and cultural cachet—especially when it comes to religion. As Zen Buddhism thrived in the city, so did shojin ryori, traditional Buddhist cuisine made without meat or fish. And where shojin ryori thrives, so does tofu. ¹ Born out of this tradition, yudofu and yuba became signature dishes of the city. ² It was with this in mind that we headed to the aptly named Yudofu Sagano restaurant in the Arashiyama sightseeing...",
-      "publishedAt": "2026-07-29T17:28:51.527Z",
-      "articleId": "07aa4b1351ebe34f"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-toasty-and-humid-today-with-scattered-storms-possible-late/",
-    "title": "DC-area forecast: Humid tonight, with an isolated storm possible Friday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-toasty-and-humid-today-with-scattered-storms-possible-late/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warm-friday-with-sun-and-clouds-just-a-slight-rain-chance/",
+    "title": "DC-area forecast: Warm Friday with sun, clouds, and maybe an isolated shower",
+    "url": "https://www.capitalweather.com/dc-area-forecast-warm-friday-with-sun-and-clouds-just-a-slight-rain-chance/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Just the chance of an isolated shower or storm through around midnight, then partly to mostly cloudy with lows around 65 to 70.",
-    "publishedAt": "2026-08-27T09:00:51.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "Humidity is up to uncomfortable levels. Plus, there’s heat and a storm chance.",
-    "articleId": "27253e7318ee2933"
+    "summary": "HAPPENING NOW: Highs within a few degrees of 85 this afternoon as clouds mix with sun. Perhaps an isolated shower or storm, especially south and east.",
+    "publishedAt": "2026-08-28T09:00:42.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "A decent, warm day, albeit still fairly humid, with just an isolated rain chance.",
+    "articleId": "4e3d0771db594f62"
   },
-  "weatherGeneratedAt": "2026-08-28T05:20:52.492Z",
+  "weatherGeneratedAt": "2026-08-28T18:36:42.711Z",
   "weatherError": null,
   "sources": [
     {
