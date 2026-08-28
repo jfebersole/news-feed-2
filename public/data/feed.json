@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-27T20:22:18.174Z",
-  "fetchedAt": "2026-08-27T20:22:18.170Z",
+  "generatedAt": "2026-08-28T05:20:52.492Z",
+  "fetchedAt": "2026-08-28T05:20:52.486Z",
   "sourceCount": 24,
-  "itemCount": 170,
-  "totalItemCount": 807,
+  "itemCount": 168,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/polling-results-on-capitalism-and-socialism.html?utm_source=rss&utm_medium=rss&utm_campaign=polling-results-on-capitalism-and-socialism",
+      "title": "Polling results on capitalism and socialism",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/polling-results-on-capitalism-and-socialism.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The results suggest that the public is feeling down about capitalism but is still wary of full-blown socialism. And many are deciding whether a few socialist candidates might help shake up the system. We found that: —Just a third of Americans privately say they have a positive view of capitalism. —Less than half of Republicans […]",
+      "publishedAt": "2026-08-28T04:30:42.000Z",
+      "articleId": "b7ad28172a255a85"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
       "title": "There Is a Sickness Worse Than Wokeness",
@@ -13,7 +24,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The anti-woke movement’s “cure” was more intolerance and more repression.",
-      "publishedAt": "2026-08-27T20:05:03.000Z",
+      "publishedAt": "2026-08-27T23:49:06.000Z",
       "articleId": "b25ed1d0a9e1af3b"
     },
     {
@@ -449,17 +460,6 @@
       "summary": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
       "publishedAt": "2026-08-25T10:00:00.000Z",
       "articleId": "ae289739381deefa"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
-      "title": "Do Minimum Wages Help Workers in Poor and Low-Income Families?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse – rather than beneficial – effects of minimum wages on the employment, hours, […]",
-      "publishedAt": "2026-08-25T07:32:36.000Z",
-      "articleId": "eb4840479a414ee8"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
@@ -936,18 +936,6 @@
       "summary": "Part 1 of my personal recommendations.",
       "publishedAt": "2026-08-18T05:21:55.000Z",
       "articleId": "f0b3e2ab58e32fd2"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
-      "title": "Chaos theory",
-      "url": "https://www.slowboring.com/p/chaos-theory",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "This week in the midterms: An upset in Wisconsin, a Saturday night massacre in Anchorage, and a G.O.P. that’s bracing for its House majority to slip away.",
-      "publishedAt": "2026-08-17T22:01:00.000Z",
-      "articleId": "2f2faf2e96f80c09"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
@@ -1812,17 +1800,6 @@
       "articleId": "8da7ec8d166fbbc1"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-july-2026-part-2",
-      "title": "Links For July 2026 (Part 2)",
-      "url": "https://www.astralcodexten.com/p/links-for-july-2026-part-2",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-30T20:45:37.000Z",
-      "articleId": "5aebd99a190de98a"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
       "title": "Gen Z Thinks Religion Got Too Political",
       "url": "https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
@@ -1914,21 +1891,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-toasty-and-humid-today-with-scattered-storms-possible-late/",
-    "title": "DC-area forecast: Toasty and humid today, with scattered storms possible late",
+    "title": "DC-area forecast: Humid tonight, with an isolated storm possible Friday",
     "url": "https://www.capitalweather.com/dc-area-forecast-toasty-and-humid-today-with-scattered-storms-possible-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy and humid, with afternoon highs in the mid-80s to near 90. Storms become more likely heading into the evening.",
+    "summary": "HAPPENING NOW: Just the chance of an isolated shower or storm through around midnight, then partly to mostly cloudy with lows around 65 to 70.",
     "publishedAt": "2026-08-27T09:00:51.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Humidity is up to uncomfortable levels. Plus, there’s heat and a storm chance.",
-    "articleId": "27253e7318ee2933",
-    "stale": true
+    "articleId": "27253e7318ee2933"
   },
-  "weatherGeneratedAt": "2026-08-27T20:22:18.174Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-08-28T05:20:52.492Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1950,7 +1926,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2038,7 +2014,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
