@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-28T18:36:42.711Z",
-  "fetchedAt": "2026-08-28T18:36:42.706Z",
+  "generatedAt": "2026-08-29T02:07:45.265Z",
+  "fetchedAt": "2026-08-29T02:07:45.260Z",
   "sourceCount": 24,
-  "itemCount": 170,
-  "totalItemCount": 805,
+  "itemCount": 169,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
+      "title": "A tour of the 9 key governor races",
+      "url": "https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Democrats are almost certain to govern more Americans than Republicans, but can they flip swing states like Georgia?",
+      "publishedAt": "2026-08-28T19:59:24.000Z",
+      "articleId": "b5a7d25ff6885e7e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tysons-corner-alaska-fact-of-the-day",
+      "title": "Tysons Corner (Alaska) fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The centerpiece is Tysons Corner Center, today the eighth largest mall in the country, and one of the largest sub-city-sized markets for office space. It is half-owned by the Alaska Permanent Fund, which is the state-owned corporation that invests oil revenue on behalf of Alaska’s citizens, and half-owned by Macerich, a giant REIT, which is in turn owned by hundreds of […]",
+      "publishedAt": "2026-08-28T18:37:37.000Z",
+      "articleId": "b3ce06c87aa64e12"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
       "title": "Your Book Review: Thomas Urquhart’s Translation Of Rabelais",
@@ -438,17 +461,6 @@
       "summary": "Jethro Elsden, London area, to study the regulatory structure of the UK using AI. Paula Benedetti, Buenos Aires, marine biology work in Brazil. Nyida Gyal, 17, northern Virginia, AI and data. Gabe Sekeres, Cornell, what if an economist just lets AI run?, Ollie Payne, NYC, Future Aesthetics Foundation. Jacob Watson-Howland, London, podcast on science and […]",
       "publishedAt": "2026-08-26T05:19:50.000Z",
       "articleId": "bf8cf40acbdbbffd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/dolly-parton-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-rip",
-      "title": "Dolly Parton, RIP",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/dolly-parton-rip.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "",
-      "publishedAt": "2026-08-25T23:49:33.000Z",
-      "articleId": "5c95788c8f24c1fe"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
@@ -1888,45 +1900,23 @@
       "summary": "The AI boom creates a lot of uncertainty.",
       "publishedAt": "2026-07-30T10:18:50.000Z",
       "articleId": "9f17d73e3f097d58"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
-      "title": "Giants camp takeaways: Jaxson Dart looks sharp, but Malik Nabers' return stole show",
-      "url": "https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Dart looked comfortable on Day 1 of camp, despite spending a lot of his time operating in a somewhat unfamiliar situation.",
-      "publishedAt": "2026-07-29T23:25:09.000Z",
-      "articleId": "db6ca3cd4f8dcae9"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/july-2026-links",
-      "title": "July 2026 links",
-      "url": "https://scottsumner.substack.com/p/july-2026-links",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus another reply to Fable",
-      "publishedAt": "2026-07-29T19:12:21.000Z",
-      "articleId": "c62a4a4f62ce739d"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warm-friday-with-sun-and-clouds-just-a-slight-rain-chance/",
-    "title": "DC-area forecast: Warm Friday with sun, clouds, and maybe an isolated shower",
+    "title": "DC-area forecast: Turning mainly clear tonight ahead of a mild Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-warm-friday-with-sun-and-clouds-just-a-slight-rain-chance/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Highs within a few degrees of 85 this afternoon as clouds mix with sun. Perhaps an isolated shower or storm, especially south and east.",
+    "summary": "HAPPENING NOW: Humidity is falling off as temperatures slide through the 80s and into the 70s around sunset. Trending mainly clear into tonight.",
     "publishedAt": "2026-08-28T09:00:42.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A decent, warm day, albeit still fairly humid, with just an isolated rain chance.",
     "articleId": "4e3d0771db594f62"
   },
-  "weatherGeneratedAt": "2026-08-28T18:36:42.711Z",
+  "weatherGeneratedAt": "2026-08-29T02:07:45.265Z",
   "weatherError": null,
   "sources": [
     {
@@ -2012,16 +2002,16 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
