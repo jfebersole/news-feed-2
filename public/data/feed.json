@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-29T18:24:51.846Z",
-  "fetchedAt": "2026-08-29T18:24:51.843Z",
+  "generatedAt": "2026-08-29T21:41:39.670Z",
+  "fetchedAt": "2026-08-29T21:41:39.665Z",
   "sourceCount": 24,
-  "itemCount": 169,
+  "itemCount": 168,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-576",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-576.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Roger Myerson now has a Substack. 2. The future of higher education? 3. Another look at data centers in space. 4. “The Global Economics Lab is a non-partisan organization located at Harvard and draws on a network of faculty affiliates across universities. We conduct policy-relevant research on the forces reshaping the global economy. We […]",
+      "publishedAt": "2026-08-29T18:56:17.000Z",
+      "articleId": "8644cb6694c7ec85"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/interviewing-yiyang-zhuge-zhong-shu.html?utm_source=rss&utm_medium=rss&utm_campaign=interviewing-yiyang-zhuge-zhong-shu",
       "title": "Interviewing Yiyang Zhuge (Zhong Shu)",
@@ -47,7 +58,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "In our paper, A Skeptical View of the National Science Foundation’s Role in Economic Research, Tyler and I point out that if the NSF is doing what it should it ought to be doing very different things than other funders: Public goods theory tells us that the National Science Foundation should support activities that are […]",
+      "summary": "In our paper, A Skeptical View of the National Science Foundation’s Role in Economic Research, Tyler and I point out that if the NSF is doing what it should, it ought to be doing very different things than other funders: Public goods theory tells us that the National Science Foundation should support activities that are […]",
       "publishedAt": "2026-08-29T11:20:18.000Z",
       "articleId": "54fe8ad962b8db0d"
     },
@@ -441,17 +452,6 @@
       "summary": "Four years at Harvard won’t corrupt your children.",
       "publishedAt": "2026-08-26T18:49:44.000Z",
       "articleId": "e12791ef863cb68e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/daddys-girl-2.html?utm_source=rss&utm_medium=rss&utm_campaign=daddys-girl-2",
-      "title": "Daddy’s Girl",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/daddys-girl-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Using Danish registry data, we study how managers’ gender attitudes shape gender inequality in the workplace by exploiting the birth of a daughter – as opposed to a son – as a plausibly exogenous shock to male managers’ gender attitudes. Comparing within-firm changes in women’s labor outcomes depending on the gender of the manager’s newborn […]",
-      "publishedAt": "2026-08-26T18:11:03.000Z",
-      "articleId": "295258071d4a0513"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/730slk27rbhi3kex12k9.html",
@@ -1891,34 +1891,23 @@
       "summary": "Abdul Carter and Kayvon Thibodeaux stood out in what was a dominant Day 2 of training camp for the New York Giants defense.",
       "publishedAt": "2026-07-30T23:11:42.000Z",
       "articleId": "8da7ec8d166fbbc1"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
-      "title": "Gen Z Thinks Religion Got Too Political",
-      "url": "https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Does Gen Z feel welcome at church?",
-      "publishedAt": "2026-07-30T20:13:00.000Z",
-      "articleId": "a5af00d1301598c8"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-pleasant-sunshine-today-before-heat-and-humidity-ramp-up/",
-    "title": "DC-area forecast: Pleasant sunshine today, before heat and humidity ramp up",
+    "title": "DC-area forecast: Humidity increases late tonight. Heat returns Sunday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-pleasant-sunshine-today-before-heat-and-humidity-ramp-up/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Bright sunshine with highs in the low to mid-80s today. Humidity remains comfortable, with dew points around 60.",
+    "summary": "HAPPENING NOW: Late afternoon and evening temperatures near 80 slowly sag to lows that range through the 60s. Just a few clouds and patches of fog possible near dawn.",
     "publishedAt": "2026-08-29T09:00:08.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
     "articleId": "ad92421425fa2381"
   },
-  "weatherGeneratedAt": "2026-08-29T18:24:51.846Z",
+  "weatherGeneratedAt": "2026-08-29T21:41:39.670Z",
   "weatherError": null,
   "sources": [
     {
