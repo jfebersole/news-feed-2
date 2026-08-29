@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-29T02:07:45.265Z",
-  "fetchedAt": "2026-08-29T02:07:45.260Z",
+  "generatedAt": "2026-08-29T09:59:13.852Z",
+  "fetchedAt": "2026-08-29T09:59:13.847Z",
   "sourceCount": 24,
-  "itemCount": 169,
-  "totalItemCount": 806,
+  "itemCount": 170,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-24-28-2026",
+      "title": "The Week That Was (August 24-28, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-24-28-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-08-29T09:01:11.000Z",
+      "articleId": "7c1afcf3839cb64c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/costco-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=costco-facts-of-the-day",
+      "title": "Costco facts of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/costco-facts-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Costco sold 157.4mn rotisserie chickens worldwide last year, almost double the number of a decade ago. “It’s $4.99 and for Costco members, that’s one fantastic deal. I don’t think you can produce it for that,” said Walt Shafer, who oversaw the construction and management of the Nebraska site before he retired from Costco this year. […]",
+      "publishedAt": "2026-08-29T06:42:17.000Z",
+      "articleId": "fe2d08b4049122d1"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html?utm_source=rss&utm_medium=rss&utm_campaign=visions-from-san-francisco-bay",
+      "title": "*Visions from San Francisco Bay*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "European and American capitalism were different. The violence of human clashes in America took place on the surface, in the open. The violence in Europe became formalized, coalesced with class divions hallowed by centuries; it was interiorized, ingrained, or baked in, if one may use such an expression. American capitalism was founded on daring, resourcefulness, […]",
+      "publishedAt": "2026-08-29T04:21:46.000Z",
+      "articleId": "e1c5c64749def2ee"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
       "title": "A tour of the 9 key governor races",
@@ -439,28 +472,6 @@
       "summary": "How San Francisco turned its most iconic street into a giant empty scar.",
       "publishedAt": "2026-08-26T09:12:35.000Z",
       "articleId": "9697dcd040e053f7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html?utm_source=rss&utm_medium=rss&utm_campaign=overreaching-causal-language-in-the-social-sciences",
-      "title": "Overreaching causal language in the social sciences",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Across the social sciences, many studies use cross-sectional designs that reveal associations but are generally unable to support direct causal claims, yet authors of such articles may make or imply causal claims anyway. Here, to examine the prevalence of such ‘overreaching’ causal language, we analysed 194,631 cross-sectional articles using large language models. Over the period […]",
-      "publishedAt": "2026-08-26T06:54:58.000Z",
-      "articleId": "1424f6186642c5f0"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-58th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-58th-cohort",
-      "title": "Emergent Ventures winners, 58th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-winners-58th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Jethro Elsden, London area, to study the regulatory structure of the UK using AI. Paula Benedetti, Buenos Aires, marine biology work in Brazil. Nyida Gyal, 17, northern Virginia, AI and data. Gabe Sekeres, Cornell, what if an economist just lets AI run?, Ollie Payne, NYC, Future Aesthetics Foundation. Jacob Watson-Howland, London, podcast on science and […]",
-      "publishedAt": "2026-08-26T05:19:50.000Z",
-      "articleId": "bf8cf40acbdbbffd"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
@@ -1903,20 +1914,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warm-friday-with-sun-and-clouds-just-a-slight-rain-chance/",
-    "title": "DC-area forecast: Turning mainly clear tonight ahead of a mild Saturday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-warm-friday-with-sun-and-clouds-just-a-slight-rain-chance/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-pleasant-sunshine-today-before-heat-and-humidity-ramp-up/",
+    "title": "DC-area forecast: Pleasant sunshine today, before heat and humidity ramp up",
+    "url": "https://www.capitalweather.com/dc-area-forecast-pleasant-sunshine-today-before-heat-and-humidity-ramp-up/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Humidity is falling off as temperatures slide through the 80s and into the 70s around sunset. Trending mainly clear into tonight.",
-    "publishedAt": "2026-08-28T09:00:42.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "A decent, warm day, albeit still fairly humid, with just an isolated rain chance.",
-    "articleId": "4e3d0771db594f62"
+    "summary": "HAPPENING NOW: Bright sunshine with highs in the low to mid-80s today. Humidity remains comfortable, with dew points around 60.",
+    "publishedAt": "2026-08-29T09:00:08.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
+    "articleId": "ad92421425fa2381"
   },
-  "weatherGeneratedAt": "2026-08-29T02:07:45.265Z",
+  "weatherGeneratedAt": "2026-08-29T09:59:13.852Z",
   "weatherError": null,
   "sources": [
     {
@@ -2002,10 +2013,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 2,
+      "mode": "rss-proxy",
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
