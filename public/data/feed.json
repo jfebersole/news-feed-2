@@ -1,10 +1,56 @@
 {
-  "generatedAt": "2026-08-29T09:59:13.852Z",
-  "fetchedAt": "2026-08-29T09:59:13.847Z",
+  "generatedAt": "2026-08-29T15:01:52.743Z",
+  "fetchedAt": "2026-08-29T15:01:52.739Z",
   "sourceCount": 24,
   "itemCount": 170,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/everything-is-country",
+      "title": "Everything is country",
+      "url": "https://www.slowboring.com/p/everything-is-country",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "How a once-loathed genre became the sound of America",
+      "publishedAt": "2026-08-29T13:01:51.000Z",
+      "articleId": "13448adc3da9fd43"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082926",
+      "title": "Reading List 08/29/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082926",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic flooding in Nepal, and more.",
+      "publishedAt": "2026-08-29T12:03:07.000Z",
+      "articleId": "c534dc612628aa55"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/scholar-data.html?utm_source=rss&utm_medium=rss&utm_campaign=scholar-data",
+      "title": "Scholar Data",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/scholar-data.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In our paper, A Skeptical View of the National Science Foundation’s Role in Economic Research, Tyler and I point out that if the NSF is doing what it should it ought to be doing very different things than other funders: Public goods theory tells us that the National Science Foundation should support activities that are […]",
+      "publishedAt": "2026-08-29T11:20:18.000Z",
+      "articleId": "54fe8ad962b8db0d"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544926/2026/08/29/giants-53-man-roster-projection-odell-beckham-jr-tyrone-tracy/",
+      "title": "Giants 53-man roster projection: Are Odell Beckham Jr. and Tyrone Tracy Jr. safe?",
+      "url": "https://www.nytimes.com/athletic/7544926/2026/08/29/giants-53-man-roster-projection-odell-beckham-jr-tyrone-tracy/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Beyond the big names, the Giants have some tricky decisions to make along the offensive line, as well as at tight end and cornerback.",
+      "publishedAt": "2026-08-29T11:00:58.000Z",
+      "articleId": "db18557a57f304bb"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-24-28-2026",
       "title": "The Week That Was (August 24-28, 2026)",
@@ -428,17 +474,6 @@
       "summary": "What if instead of editing a gene, or blocking the protein it produces, you could simply switch it off?",
       "publishedAt": "2026-08-26T12:04:33.000Z",
       "articleId": "c3fdda281a297838"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/data-centers-and-the-open-access-order.html?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-and-the-open-access-order",
-      "title": "Data Centers and the Open Access Order",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/data-centers-and-the-open-access-order.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The US discussion over datacenters is depressing. Datacenters do not use a lot of water, they produce very useful outputs, they are not a blight on the landscape. All of this is obvious. But I don’t want to restate the obvious. What bothers me most about the discussion is that people seem to think this […]",
-      "publishedAt": "2026-08-26T11:18:59.000Z",
-      "articleId": "ee59d6ebb2f6a376"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/yimbys-already-have-a-bold-vision",
@@ -961,17 +996,6 @@
       "summary": "If it had a clear effect on children we would know by now.",
       "publishedAt": "2026-08-19T13:31:49.000Z",
       "articleId": "2cde87f0406cb729"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
-      "title": "Two kinds of moderate Democrats",
-      "url": "https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "There are many pragmatists, but few have the courage to say what they really think.",
-      "publishedAt": "2026-08-19T10:02:12.000Z",
-      "articleId": "215427bf90c21033"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
@@ -1889,28 +1913,6 @@
       "summary": "Or, a meditation on Stella Lefty",
       "publishedAt": "2026-07-30T17:30:19.000Z",
       "articleId": "810d8a990e969a7f"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A battery technology that’s getting a lot of attention is solid-state batteries, lithium-ion batteries that replace the liquid electrolyte with a solid material.",
-      "publishedAt": "2026-07-30T12:04:25.000Z",
-      "articleId": "48f692240df25def"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
-      "title": "Why did South Korean stocks just crash?",
-      "url": "https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The AI boom creates a lot of uncertainty.",
-      "publishedAt": "2026-07-30T10:18:50.000Z",
-      "articleId": "9f17d73e3f097d58"
     }
   ],
   "weather": {
@@ -1927,7 +1929,7 @@
     "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
     "articleId": "ad92421425fa2381"
   },
-  "weatherGeneratedAt": "2026-08-29T09:59:13.852Z",
+  "weatherGeneratedAt": "2026-08-29T15:01:52.743Z",
   "weatherError": null,
   "sources": [
     {
