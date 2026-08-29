@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-29T15:01:52.743Z",
-  "fetchedAt": "2026-08-29T15:01:52.739Z",
+  "generatedAt": "2026-08-29T18:24:51.846Z",
+  "fetchedAt": "2026-08-29T18:24:51.843Z",
   "sourceCount": 24,
-  "itemCount": 170,
+  "itemCount": 169,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/interviewing-yiyang-zhuge-zhong-shu.html?utm_source=rss&utm_medium=rss&utm_campaign=interviewing-yiyang-zhuge-zhong-shu",
+      "title": "Interviewing Yiyang Zhuge (Zhong Shu)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/interviewing-yiyang-zhuge-zhong-shu.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Many people are writing to me, upset that I am interviewing Ziyang Zhuge, a well-known Chinese internet intellectual, who recently was accused of plagiarism. I am keen to proceed with the interview, and am happy to explain why. A few points: 1. The relevant facts here still are being disputed, and furthermore it all happened […]",
+      "publishedAt": "2026-08-29T16:07:42.000Z",
+      "articleId": "bad77875f9b6257e"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/everything-is-country",
       "title": "Everything is country",
@@ -452,17 +463,6 @@
       "summary": "Money Stuff KPI, TWG, toast. KPI binaries Classically, a share of stock in a company is worth the present value of the expected future earnings of the company. Therefore, a share of stock is a bet on the future earnings of the company: If this quarter’s earnings are surprisingly good, or if the market comes to expect higher future earnings, the price of the stock will go up. I am using “earnings” in a loose and generic sense, just, like, some measure of the money that will eventually be available to shareholders. The stock’s value is a fairly straightforward function of future dividends , and a somewhat more complicated function of future net income or EBITDA or gross margins or revenue or units sold or whatever. Doubling a company’s future revenues probably won’t exactly double the future cash flows available to shareholders — it might even decrease them — but there’s some correlation. Also, the price of an oil company’s stock might be a function of the price of oil: If oil prices shoot up, oil-company stock prices will probably go up. For that matter, the price of a sports company’s stock might be a function of sports performance: If the Knicks win the NBA championship, for instance, the stock of Madison Square Garden Sports Corp. might go up. In fact, the Knicks won the NBA championship in June, and MSGS is up more than 50% this year. I wouldn’t put a ton of weight on that one data point, and there are a lot of steps between “Knicks win games” and “future cash flows available to MSGS shareholders are higher.” But there is a connection, and in a very loose sense, MSGS’s stock is a bet on the Knicks to win a lot of future basketball games. You could almost imagine MSGS using this for fundraising purposes. [1] Like: MSGS goes out to investors to raise $100 million to spend on getting better at basketball or whatever. MSGS promises the investors “we will give you back $2 million for every game the Knicks win in the 2026-2027 season.” That has an expected payoff of about $106 million according to Kalshi , though with plenty of variance. The investors share in the upside (if the Knicks do great they make more money) and downside (if the Knicks are terrible they lose money) of the team. MSGS also shares in the upside and downside of the team: If the Knicks do great, MSGS makes more money selling tickets and whatever; if the Knicks are terrible MSGS makes less money. The investors do not own actual equity in MSGS ; they do not own a residual claim on MSGS’s cash flow. They own a sports bet. But it has a certain family resemblance to equity; they share in the upside and downside of the company’s business performance. [2] Why would MSGS want to raise money this way, rather than by issuing stock? Well, I mean, it wouldn’t; this is a silly hypothetical. The...",
       "publishedAt": "2026-08-26T18:02:10.687Z",
       "articleId": "3c1d70b58c44aa33"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-568",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/wednesday-assorted-links-568.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. At least one in four NFL players, and possibly much higher, ends up with brain disease (NYT). As I read the results, probably most of them do. 2. On the LLM flooding of governmental services. 3. Joe Walker podcast with Andrew Charlton on the future of AI in Australia. 4. The bread culture that […]",
-      "publishedAt": "2026-08-26T16:11:20.000Z",
-      "articleId": "7c6a5ac1f5790354"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
@@ -1902,17 +1902,6 @@
       "summary": "Does Gen Z feel welcome at church?",
       "publishedAt": "2026-07-30T20:13:00.000Z",
       "articleId": "a5af00d1301598c8"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-nepotism-real",
-      "title": "Is Nepotism Real?",
-      "url": "https://www.cantgetmuchhigher.com/p/is-nepotism-real",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, a meditation on Stella Lefty",
-      "publishedAt": "2026-07-30T17:30:19.000Z",
-      "articleId": "810d8a990e969a7f"
     }
   ],
   "weather": {
@@ -1929,7 +1918,7 @@
     "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
     "articleId": "ad92421425fa2381"
   },
-  "weatherGeneratedAt": "2026-08-29T15:01:52.743Z",
+  "weatherGeneratedAt": "2026-08-29T18:24:51.846Z",
   "weatherError": null,
   "sources": [
     {
