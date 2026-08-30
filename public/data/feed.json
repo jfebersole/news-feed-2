@@ -1,10 +1,45 @@
 {
-  "generatedAt": "2026-08-30T12:49:32.956Z",
-  "fetchedAt": "2026-08-30T12:49:32.953Z",
+  "generatedAt": "2026-08-30T17:24:47.840Z",
+  "fetchedAt": "2026-08-30T17:24:47.836Z",
   "sourceCount": 24,
   "itemCount": 167,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-03e",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-03e",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-08-30T17:00:51.000Z",
+      "articleId": "f28f7f9eb3753a23"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-582",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-582.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. NYT covers Maria Edgeworth. 2. A calmer look at the Hugging Face incident. And from Ciaran Martin in The Economist. And Elie. And Jacob Bruggeman. 3. Chandhana visits Egypt. 4. New quantum claims. 5. How youth football is evolving due to CTE concerns. 6. Pie Jesu by Gabriel Faure.",
+      "publishedAt": "2026-08-30T15:49:16.000Z",
+      "articleId": "e0c428bf4aeaa580"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
+      "title": "Rockabye Baby: A Conversation with Lisa Roth",
+      "url": "https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Lisa Roth stopped by to talk about how she revolutionized music for children",
+      "publishedAt": "2026-08-30T14:31:00.000Z",
+      "articleId": "9510ab32455b269a"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
       "title": "What Dolly Did for Tennessee Is What She Did for the World",
@@ -394,17 +429,6 @@
       "summary": "The US Strategic Petroleum Reserve (SPR) is the largest crude oil storage facility in the world.",
       "publishedAt": "2026-08-27T12:03:58.000Z",
       "articleId": "8fbebf38766ccb95"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-antitrust-academy.html?utm_source=rss&utm_medium=rss&utm_campaign=the-antitrust-academy",
-      "title": "The Antitrust Academy",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-antitrust-academy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Antitrust Academy is an online platform hosting hundreds of videos comprising a complete course in antitrust law and economics. Teachers include Judge Douglas Ginsburg, Jon Klick, Joshua Wright and others. I am an advisor. A great resource whether you are learning this material for the first time or need to brush up on some […]",
-      "publishedAt": "2026-08-27T11:17:56.000Z",
-      "articleId": "1e2b31858bc8cf66"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/politics-should-be-more-boring",
@@ -950,18 +974,6 @@
       "summary": "Don’t be so quick to dismiss the threat of an aging, declining population.",
       "publishedAt": "2026-08-19T23:27:31.000Z",
       "articleId": "91812788e8a35a11"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-have-and-have-not-housing-market",
-      "title": "The have-and-have-not housing market",
-      "url": "https://www.slowboring.com/p/the-have-and-have-not-housing-market",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Wealthy buyers are buying houses a million over asking with cash while everyone else watches starts fall and rates stay stubborn. Localities are experimenting with solutions to close the yawning gap.",
-      "publishedAt": "2026-08-19T22:01:42.000Z",
-      "articleId": "2953bb9c3b878bdc"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qdgslutvo9yt7szfulal.html",
@@ -1868,17 +1880,6 @@
       "summary": "Pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation.",
       "publishedAt": "2026-08-01T12:04:01.000Z",
       "articleId": "f74ab85dda1a0794"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
-      "title": "How ugliness helps NIMBYs",
-      "url": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "And how beauty could help get more homes built",
-      "publishedAt": "2026-07-31T14:21:02.000Z",
-      "articleId": "05003102bd318436"
     }
   ],
   "weather": {
@@ -1896,7 +1897,7 @@
     "articleId": "ad92421425fa2381",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-08-30T12:49:32.956Z",
+  "weatherGeneratedAt": "2026-08-30T17:24:47.840Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
