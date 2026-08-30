@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T21:41:39.670Z",
-  "fetchedAt": "2026-08-29T21:41:39.665Z",
+  "generatedAt": "2026-08-30T00:16:00.554Z",
+  "fetchedAt": "2026-08-30T00:16:00.550Z",
   "sourceCount": 24,
-  "itemCount": 168,
+  "itemCount": 166,
   "totalItemCount": 807,
   "items": [
     {
@@ -1869,28 +1869,6 @@
       "summary": "And how beauty could help get more homes built",
       "publishedAt": "2026-07-31T14:21:02.000Z",
       "articleId": "05003102bd318436"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
-      "title": "In praise of the Midwest",
-      "url": "https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "And other stray thoughts from a vacationing me",
-      "publishedAt": "2026-07-30T23:21:26.000Z",
-      "articleId": "1a96cebcdd995cf5"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7481718/2026/07/30/new-york-giants-training-camp-defense-abdul-carter/",
-      "title": "Giants camp takeaways: Defense overwhelms in what team hopes is sign of dominance to come",
-      "url": "https://www.nytimes.com/athletic/7481718/2026/07/30/new-york-giants-training-camp-defense-abdul-carter/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Abdul Carter and Kayvon Thibodeaux stood out in what was a dominant Day 2 of training camp for the New York Giants defense.",
-      "publishedAt": "2026-07-30T23:11:42.000Z",
-      "articleId": "8da7ec8d166fbbc1"
     }
   ],
   "weather": {
@@ -1907,7 +1885,7 @@
     "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
     "articleId": "ad92421425fa2381"
   },
-  "weatherGeneratedAt": "2026-08-29T21:41:39.670Z",
+  "weatherGeneratedAt": "2026-08-30T00:16:00.554Z",
   "weatherError": null,
   "sources": [
     {
