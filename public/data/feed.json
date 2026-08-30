@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-08-30T00:16:00.554Z",
-  "fetchedAt": "2026-08-30T00:16:00.550Z",
+  "generatedAt": "2026-08-30T06:36:12.269Z",
+  "fetchedAt": "2026-08-30T06:36:12.266Z",
   "sourceCount": 24,
-  "itemCount": 166,
+  "itemCount": 167,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/finding-emily.html?utm_source=rss&utm_medium=rss&utm_campaign=finding-emily",
+      "title": "*Finding Emily*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/finding-emily.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I very much enjoyed this British movie, which reminded me of the older-style romantic comedies, namely the ones that actually favor love and romance. It also has themes of class/accent, US/UK, is anti-media, anti-cancel culture, anti-podcast (Laura Lewis steals the show), anti-academia, and is sceptical of certain branches of feminism. But it is mostly entertaining. […]",
+      "publishedAt": "2026-08-30T05:52:40.000Z",
+      "articleId": "708d42df839aa6df"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/china-fact-of-the-day-81.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-81",
+      "title": "China fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/china-fact-of-the-day-81.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Chinese actors and online influencers have a new rival: cost-effective advanced AI video generation programmes that are threatening millions of jobs in a once-vibrant area of China’s gig economy. The release of powerful new AI-powered video software, such as tech group ByteDance’s Seedance 2.0 model, has allowed digital actors to replace humans, enabling the production […]",
+      "publishedAt": "2026-08-30T04:25:27.000Z",
+      "articleId": "0b1aa239623b0178"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
+      "title": "In defense of Asian American art",
+      "url": "https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "People are creating some very interesting and original stuff!",
+      "publishedAt": "2026-08-30T00:15:19.000Z",
+      "articleId": "795738cca0e8ef05"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-576",
       "title": "Saturday assorted links",
@@ -398,17 +431,6 @@
       "articleId": "112b50d01dba74ed"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/important-results-on-economic-mobility.html?utm_source=rss&utm_medium=rss&utm_campaign=important-results-on-economic-mobility",
-      "title": "Important results on economic mobility",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/important-results-on-economic-mobility.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We use more than 900 million linked employer–employee records covering the entire formal workforce of Brazil to examine when cities provide upward mobility for the initially poor. We find that upward mobility for low-wage workers is strongest in workplaces that combine low-wage individuals with high-wage workers. This association is particularly pronounced in Brazil’s southern cities, […]",
-      "publishedAt": "2026-08-27T07:17:24.000Z",
-      "articleId": "ea0af4bcf2a0832a"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/take-the-2026-acx-survey",
       "title": "Take The 2026 ACX Survey",
       "url": "https://www.astralcodexten.com/p/take-the-2026-acx-survey",
@@ -418,17 +440,6 @@
       "summary": "...",
       "publishedAt": "2026-08-27T07:16:18.000Z",
       "articleId": "6fb8a8f208e6a490"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-least-bad-way-to-regulate-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-least-bad-way-to-regulate-ai",
-      "title": "The least bad way to regulate AI?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-least-bad-way-to-regulate-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column. Excerpt: The key is to create some basic safeguards, but without stifling broader AI progress. To do so, we must defy the conventional wisdom about public oversight and instead trust the AI labs to be their own primary regulators. My version of the proposal starts […]",
-      "publishedAt": "2026-08-27T05:03:47.000Z",
-      "articleId": "7e2dacd8f4e53366"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/as-one-housing-reform-works-in-texas",
@@ -1885,7 +1896,7 @@
     "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
     "articleId": "ad92421425fa2381"
   },
-  "weatherGeneratedAt": "2026-08-30T00:16:00.554Z",
+  "weatherGeneratedAt": "2026-08-30T06:36:12.269Z",
   "weatherError": null,
   "sources": [
     {
