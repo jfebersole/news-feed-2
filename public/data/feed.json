@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-08-30T06:36:12.269Z",
-  "fetchedAt": "2026-08-30T06:36:12.266Z",
+  "generatedAt": "2026-08-30T12:49:32.956Z",
+  "fetchedAt": "2026-08-30T12:49:32.953Z",
   "sourceCount": 24,
   "itemCount": 167,
-  "totalItemCount": 807,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "title": "What Dolly Did for Tennessee Is What She Did for the World",
+      "url": "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "This is what she did for the written word. And medicine. And …",
+      "publishedAt": "2026-08-30T10:00:21.000Z",
+      "articleId": "c1fc14d0da1c6fe8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/finding-emily.html?utm_source=rss&utm_medium=rss&utm_campaign=finding-emily",
       "title": "*Finding Emily*",
@@ -405,18 +416,6 @@
       "summary": "It’s like drilling hard boards; it’s not supposed to be entertaining.",
       "publishedAt": "2026-08-27T10:02:58.000Z",
       "articleId": "5036473080343363"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/every-sport-suddenly-wants-another",
-      "title": "Every Sport Suddenly Wants Another Champion",
-      "url": "https://neilpaine.substack.com/p/every-sport-suddenly-wants-another",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Against a backdrop of rampant Ring Culture, the PGA Tour became the latest league to create a side competition designed to produce a separate trophy worth chasing.",
-      "publishedAt": "2026-08-27T09:02:28.000Z",
-      "articleId": "acb5b8eb7be5f39c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-anti-social-century-with-derek",
@@ -1894,10 +1893,11 @@
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A solid late-summer day, with lower humidity, plenty of sunshine and no rain to worry about.",
-    "articleId": "ad92421425fa2381"
+    "articleId": "ad92421425fa2381",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-30T06:36:12.269Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-30T12:49:32.956Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1983,7 +1983,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
