@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T21:00:41.333Z",
-  "fetchedAt": "2026-08-30T21:00:41.328Z",
+  "generatedAt": "2026-08-30T23:26:47.956Z",
+  "fetchedAt": "2026-08-30T23:26:47.952Z",
   "sourceCount": 24,
   "itemCount": 167,
   "totalItemCount": 806,
@@ -1894,10 +1894,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Noticeably warmer and more humid, but not as harsh as the late-season sizzle on the way.",
-    "articleId": "53e5cbac2be28480"
+    "articleId": "53e5cbac2be28480",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-30T21:00:41.333Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-30T23:26:47.956Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
