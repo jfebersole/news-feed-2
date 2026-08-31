@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-08-31T19:59:32.303Z",
-  "fetchedAt": "2026-08-31T19:59:32.298Z",
+  "generatedAt": "2026-08-31T23:47:37.733Z",
+  "fetchedAt": "2026-08-31T23:47:37.728Z",
   "sourceCount": 24,
-  "itemCount": 171,
+  "itemCount": 170,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
+      "title": "The many ways to build more housing",
+      "url": "https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A judge blocks HUD and California stacks up YIMBY wins. Commercial conversions and A.I. show different paths to more housing, while rent control gets in the way.",
+      "publishedAt": "2026-08-31T22:01:29.000Z",
+      "articleId": "76457c48e6579a14"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/yerevan-bleg.html?utm_source=rss&utm_medium=rss&utm_campaign=yerevan-bleg",
+      "title": "Yerevan bleg",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/yerevan-bleg.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Any advice on this front is most welcome, thank you!",
+      "publishedAt": "2026-08-31T20:52:44.000Z",
+      "articleId": "a17901747afba3ef"
+    },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
       "title": "Riding the Aussie Dog. Again.",
@@ -395,17 +418,6 @@
       "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
       "publishedAt": "2026-08-28T17:00:00.000Z",
       "articleId": "9ca25d2874fd5063"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-587",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-587.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. “With homicides up 50% since 2020—putting the country’s murder rate on par with Mexico’s—Costa Rican President Laura Fernández and her ruling party are blaming the independent judiciary.” (WSJ) 2. The Monterrey spirit. 3. Is Aaron Renn the biggest superinfluencer on the New Right? 4. Two Dan Sullivans on the Alaska Senate ballot, let us […]",
-      "publishedAt": "2026-08-28T15:40:05.000Z",
-      "articleId": "bff9ed3410be7c7e"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
@@ -1016,18 +1028,6 @@
       "summary": "According to the vice president, we are wasting our freedom.",
       "publishedAt": "2026-08-20T16:13:37.000Z",
       "articleId": "b5a31da5357e6a8d"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
-      "title": "Thousands of years of indoor air pollution",
-      "url": "https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The too-late invention of somewhat safe ways to cook and heat with wood",
-      "publishedAt": "2026-08-20T10:03:50.000Z",
-      "articleId": "de2a2bd3a89a6787"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
@@ -1912,17 +1912,6 @@
       "summary": "Sometimes bad populist ideas are just a mistake; sometimes they're being promoted for ideological reasons.",
       "publishedAt": "2026-08-02T09:13:04.000Z",
       "articleId": "15bf26cb192e1b2e"
-    },
-    {
-      "id": "Maximum Progress:https://www.maximum-progress.com/p/the-end-of-the-endangered-species",
-      "title": "The End of the Endangered Species Act?",
-      "url": "https://www.maximum-progress.com/p/the-end-of-the-endangered-species",
-      "source": "Maximum Progress",
-      "sourceUrl": "https://www.maximum-progress.com/",
-      "access": "open",
-      "summary": "and the Costs of Environmental Land Use Regulation",
-      "publishedAt": "2026-08-01T20:51:23.000Z",
-      "articleId": "4ba286de06d7b90b"
     }
   ],
   "weather": {
@@ -1937,10 +1926,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Meteorological summer is ending while temperatures and humidity are headed in the wrong direction: upward.",
-    "articleId": "49b5f8664643be55"
+    "articleId": "49b5f8664643be55",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-08-31T19:59:32.303Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-08-31T23:47:37.733Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
