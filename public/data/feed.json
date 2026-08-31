@@ -1,10 +1,77 @@
 {
-  "generatedAt": "2026-08-31T13:37:43.388Z",
-  "fetchedAt": "2026-08-31T13:37:43.384Z",
+  "generatedAt": "2026-08-31T19:59:32.303Z",
+  "fetchedAt": "2026-08-31T19:59:32.298Z",
   "sourceCount": 24,
-  "itemCount": 169,
-  "totalItemCount": 807,
+  "itemCount": 171,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
+      "title": "Riding the Aussie Dog. Again.",
+      "url": "https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "From Darwin to Alice Springs on a bus for twenty-two hours",
+      "publishedAt": "2026-08-31T18:24:44.000Z",
+      "articleId": "4de010b32220c40c"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3d45ixdloazeoc5gddrl.html",
+      "title": "Money Stuff: Don’t Hedge the KPIs",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3d45ixdloazeoc5gddrl.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "LSU KPI hedge We talked last week about a proposal by Cboe Global Markets Inc. to list binary options on key performance indicators (KPIs). A “key performance indicator” is a measurable value that shows how well an organization is achieving its goals. Cboe wants to list options on KPIs for public companies, things like net income or revenue or, in the case of a car company, how many cars it makes. These KPIs tend to demonstrate how well the company is creating shareholder value, and so they correlate with stock price. Not perfectly — a car company can make more cars in a way that is bad for shareholders — but as a rough approximation. We also talked about KPIs for public companies that happen to be sports teams, like Madison Square Garden Sports Corp., which owns the New York Knicks. The obvious KPI for the Knicks is how many basketball games they win. I suggested that there’s probably some correlation between basketball wins and business success, writing that “if the Knicks do great, MSGS makes more money selling tickets and whatever; if the Knicks are terrible MSGS makes less money.” One purpose of KPIs is to measure and reward employee performance: You figure out what you want from a division manager, you set some KPIs to reflect those goals, and then if she hits those KPIs you pay her a bonus. Senior corporate executives will often get bonuses based on achieving company-wide KPIs like revenue growth or profit margin. Elon Musk gets a bonus at Tesla Inc. for delivering a million robotaxis . A company that promises its chief executive officer a bonus for hitting her KPIs is taking on some financial risk. The risk is like: “If our CEO succeeds in selling a million cars, we have to pay her a $20 million bonus; if she doesn’t, we don’t.” Twenty million dollars is a lot of money, and you could imagine the company wanting to hedge that risk. Perhaps it could go to Cboe and buy a contract — on its own car deliveries — that pays it $20 million if it sells a million cars, and $0 if it doesn’t. Now it is hedged; it is indifferent between hitting the KPI (and paying the bonus) and not hitting the KPI (and not paying the bonus). Except this is stupid? The company (1) is not indifferent between hitting the KPI and not hitting the KPI and (2) obviously shouldn’t be . The company wants to sell a million cars. Selling a million cars is good: The company set “sell a million cars” as a goal because it thought that would be correlated with increasing shareholder value. The reason the company promised to pay its CEO a $20 million bonus for selling a million cars, and $0 for failing to sell a million cars, is because the company expected to be better off, financially , in the state of the world where it sells a million cars, even after paying the bonus. [1] And so...",
+      "publishedAt": "2026-08-31T18:18:03.047Z",
+      "articleId": "3a86929f3989376d"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "title": "What Dolly Did for Tennessee Is What She Did for the World",
+      "url": "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The country singer is a champion of the written word. And medicine. And …",
+      "publishedAt": "2026-08-31T18:01:59.000Z",
+      "articleId": "c1fc14d0da1c6fe8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-575",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-575.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Prices, prices, prices: “Again I am asking how the following two things can be true at the same time: 1) we’re all massively compute limited so inferences & GPU time are $$$$$, and 2) SoTA models will just start running themselves on everyone’s GPU clusters & no one will notice or turn them off.” […]",
+      "publishedAt": "2026-08-31T16:22:58.000Z",
+      "articleId": "738f21c392daa3b8"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
+      "title": "I spent $4,000 on a robot dog from China",
+      "url": "https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "publishedAt": "2026-08-31T13:57:26.000Z",
+      "articleId": "e6ba11d15395fd90"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/a-cops-case-for-flock",
+      "title": "A cop’s case for Flock",
+      "url": "https://www.worksinprogress.news/p/a-cops-case-for-flock",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "People are right to want less police intrusion in their lives",
+      "publishedAt": "2026-08-31T13:40:20.000Z",
+      "articleId": "a128a31867140635"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-employment-what-the-firms-say",
       "title": "AI and Employment: So Far, So Good",
@@ -138,17 +205,6 @@
       "summary": "Lisa Roth stopped by to talk about how she revolutionized music for children",
       "publishedAt": "2026-08-30T14:31:00.000Z",
       "articleId": "9510ab32455b269a"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
-      "title": "What Dolly Did for Tennessee Is What She Did for the World",
-      "url": "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "This is what she did for the written word. And medicine. And …",
-      "publishedAt": "2026-08-30T10:00:21.000Z",
-      "articleId": "c1fc14d0da1c6fe8"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/finding-emily.html?utm_source=rss&utm_medium=rss&utm_campaign=finding-emily",
@@ -363,17 +419,6 @@
       "articleId": "b640106ad849b032"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/a-big-bet-on-explosive-ai-driven-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-big-bet-on-explosive-ai-driven-growth",
-      "title": "A Big Bet on Explosive AI-Driven Growth",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-big-bet-on-explosive-ai-driven-growth.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Wow! The excellent Ben Moll has put together a high-stakes bet on US economic growth. A bet on near-term explosive AI-driven growth: whether U.S. real GDP per capita will grow by at least 15% within a single year (measured relative to prior peak) by the end of 2033. Agreed on X, 15–16 August 2026. This […]",
-      "publishedAt": "2026-08-28T11:18:37.000Z",
-      "articleId": "94857e3b8e2b857d"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
       "title": "Giants by the numbers: Just how grueling was John Harbaugh's training camp?",
       "url": "https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
@@ -407,17 +452,6 @@
       "summary": "Spoiler: It’s vibe-coded superviruses.",
       "publishedAt": "2026-08-28T09:48:43.000Z",
       "articleId": "8138d20dd2a472a0"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-greatest-rotation-that-never",
-      "title": "The Greatest Rotation That Never Was",
-      "url": "https://neilpaine.substack.com/p/the-greatest-rotation-that-never",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "25 years ago, Florida assembled a group of Young Guns who became All-Stars, champions and longtime MLB starters. They just barely got the chance to actually pitch together.",
-      "publishedAt": "2026-08-28T09:02:25.000Z",
-      "articleId": "df80a404d9eda9d8"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
@@ -1409,17 +1443,6 @@
       "articleId": "83f54b96618146fb"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/nwnqwbxqs1m0w44szf7j.html",
-      "title": "Money Stuff: AI-Backed Securities",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/nwnqwbxqs1m0w44szf7j.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Securitization The basic business of finance is slicing up cash flows . You have some stuff, the stuff generates cash flows, you put the stuff in a box, the box issues securities to investors, the securities have claims on the cash flows. Some investors want safe securities with senior claims on the cash flows: If the stuff is expected to generate $100 of cash flows, you can probably issue investment-grade debt with a claim on the first $20 of the cash flows. Some investors want high-risk, high-reward securities with junior claims on the cash flows: If the stuff is expected to generate $100 of cash flows, someone will probably pay something for a stock option with a claim on all of the cash flows above $120. Etc. This works for many, many things that you might put in the box. If you own a widget business, you can put that business in a box called a “corporation,” issue bonds with senior claims on the business’s cash flows, and issue stock to investors who want the risky upside of the business. If you’ve got a rockets-and-satellites-and-enterprise-AI-and-social-media business, you can put that in a big corporate box called SpaceX and issue bonds and stock . If you own some office buildings, you can put them in a box called a “real estate investment trust” or “REIT,” issue some bonds with a senior claim on the rental income and issue stock to investors who want the upside from your rent. But you can also put purely financial stuff in a box. If you own some mortgage loans, or some credit card receivables, you can put those in a box and sell junior and senior claims on them. Etc. People often use the word “securitization” to describe this process: You put stuff in a box, you issue securities, it’s securitization. It would not, I think, do huge violence to the English language to describe every public company as a “securitization”: SpaceX put its rockets-etc. business in a public company and issued securities to finance it so, why not, securitization. In practice, though, people do not use the term this way. A “securitization,” in normal usage, mostly means putting financial stuff — mortgages, credit-card receivables, car-part invoices , what have you — into a box and selling claims on them. (There is such a thing as a “ whole business securitization ,” but that’s weird.) In fact US securities law makes this distinction. Under the law, “ securitization transactions ” are subject to different rules from regular securities. (Most notably, securitization issuers are required to retain some “skin in the game” rather than selling all of the cash flows; there are also different disclosure rules .) A “securitization transaction” is defined to mean one involving “asset-backed securities.” Of...",
-      "publishedAt": "2026-08-12T18:12:34.604Z",
-      "articleId": "0aa8b7d383ddd177"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/nak3dom9u33z5vp0rrj4.html",
       "title": "Bullet Trains and Bento Boxes, Oh My! | Kenji Eats Japan",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/nak3dom9u33z5vp0rrj4.html",
@@ -1909,14 +1932,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Muggy 70s this morning quickly climb through the 80s by midday. Many spots eclipse 90 this afternoon under partly sunny skies. An isolated storm is possible late.",
+    "summary": "HAPPENING NOW: Highs reach the mid-80s to near 90 this afternoon with plenty of humidity and partly sunny skies. An isolated storm is possible late.",
     "publishedAt": "2026-08-31T09:00:56.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Meteorological summer is ending while temperatures and humidity are headed in the wrong direction: upward.",
     "articleId": "49b5f8664643be55"
   },
-  "weatherGeneratedAt": "2026-08-31T13:37:43.388Z",
+  "weatherGeneratedAt": "2026-08-31T19:59:32.303Z",
   "weatherError": null,
   "sources": [
     {
@@ -2003,7 +2026,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
