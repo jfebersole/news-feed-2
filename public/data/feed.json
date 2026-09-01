@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-09-01T10:02:15.213Z",
-  "fetchedAt": "2026-09-01T10:02:15.207Z",
+  "generatedAt": "2026-09-01T14:49:35.119Z",
+  "fetchedAt": "2026-09-01T14:49:35.115Z",
   "sourceCount": 24,
-  "itemCount": 170,
-  "totalItemCount": 795,
+  "itemCount": 173,
+  "totalItemCount": 808,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/early-2000s-europop-an-album-a-day",
+      "title": "Early 2000s Europop: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/early-2000s-europop-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Kylie Minogue, Robyn, Vengaboys, and more",
+      "publishedAt": "2026-09-01T13:31:29.000Z",
+      "articleId": "72e5c712ae395352"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "title": "Why humanoid robots won’t catch up to human workers any time soon",
+      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "A deep dive into the current state of humanoid robotics.",
+      "publishedAt": "2026-09-01T12:52:39.000Z",
+      "articleId": "a757f4cc32ea7cf0"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/republicans-have-a-big-midterm-cash",
+      "title": "Republicans have a big midterm cash advantage",
+      "url": "https://www.slowboring.com/p/republicans-have-a-big-midterm-cash",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Democrats have alienated billionaires without winning back the working class.",
+      "publishedAt": "2026-09-01T10:03:20.000Z",
+      "articleId": "91190f8596f183e4"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
       "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
@@ -15,6 +49,17 @@
       "summary": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
       "publishedAt": "2026-09-01T10:00:00.000Z",
       "articleId": "1ddd1704d48a4eb1"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/enjoy-baseballs-september-of-uncertainty",
+      "title": "Enjoy Baseball’s September of Uncertainty While It Lasts",
+      "url": "https://neilpaine.substack.com/p/enjoy-baseballs-september-of-uncertainty",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Baseball has one month of extremely messy questions left. With 2027 hanging over everything, maybe we shouldn’t be so eager for the answers.",
+      "publishedAt": "2026-09-01T09:01:27.000Z",
+      "articleId": "7942d2c71c555d42"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nicholas-decker-in-hell",
@@ -1899,18 +1944,6 @@
       "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
       "publishedAt": "2026-08-03T01:10:29.000Z",
       "articleId": "8874668ee2942e06"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
-      "title": "The Orchestra Returns: A Conversation with Harry Levin",
-      "url": "https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Journalist Harry Levin stops by to talk about why everyone is partying like it's 1792",
-      "publishedAt": "2026-08-02T13:30:06.000Z",
-      "articleId": "9802ea7327708843"
     }
   ],
   "weather": {
@@ -1927,7 +1960,7 @@
     "dailyDigitSummary": "September starts with a failing back-to-school grade thanks to high heat and humidity, plus the chance of storms.",
     "articleId": "f8b2a29f21463474"
   },
-  "weatherGeneratedAt": "2026-09-01T10:02:15.213Z",
+  "weatherGeneratedAt": "2026-09-01T14:49:35.119Z",
   "weatherError": null,
   "sources": [
     {
@@ -1941,10 +1974,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -2014,7 +2047,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2038,7 +2071,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2101,10 +2134,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "fallback-cache",
-      "itemCount": 5,
+      "mode": "rss",
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Can't Get Much Higher",
