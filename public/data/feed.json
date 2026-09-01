@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-08-31T23:47:37.733Z",
-  "fetchedAt": "2026-08-31T23:47:37.728Z",
+  "generatedAt": "2026-09-01T05:00:40.563Z",
+  "fetchedAt": "2026-09-01T05:00:40.561Z",
   "sourceCount": 24,
-  "itemCount": 170,
+  "itemCount": 171,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html?utm_source=rss&utm_medium=rss&utm_campaign=the-hugging-face-hack",
+      "title": "The Hugging Face hack",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column. Some people are taking this in very dramatic fashion: One commentator is worried about a “full-blown AI takeover within months,” and another wrote that he was “feeling a bit sad about our impending extinction.” Nate Soares, who works in the AI safety movement and is co-author of the doomsday […]",
+      "publishedAt": "2026-09-01T04:43:33.000Z",
+      "articleId": "5d82859078d785b4"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-87-technology-bad",
+      "title": "Roundup #87: Technology BAD!!",
+      "url": "https://www.noahpinion.blog/p/roundup-87-technology-bad",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The Hugging Face attack; TV and loneliness; Leftist antisemitism; Another Acemoglu paper; The Electric Revolution",
+      "publishedAt": "2026-09-01T02:26:19.000Z",
+      "articleId": "d7df509b6517d2fb"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
       "title": "The many ways to build more housing",
@@ -374,17 +396,6 @@
       "summary": "Democrats are almost certain to govern more Americans than Republicans, but can they flip swing states like Georgia?",
       "publishedAt": "2026-08-28T19:59:24.000Z",
       "articleId": "b5a7d25ff6885e7e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tysons-corner-alaska-fact-of-the-day",
-      "title": "Tysons Corner (Alaska) fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The centerpiece is Tysons Corner Center, today the eighth largest mall in the country, and one of the largest sub-city-sized markets for office space. It is half-owned by the Alaska Permanent Fund, which is the state-owned corporation that invests oil revenue on behalf of Alaska’s citizens, and half-owned by Macerich, a giant REIT, which is in turn owned by hundreds of […]",
-      "publishedAt": "2026-08-28T18:37:37.000Z",
-      "articleId": "b3ce06c87aa64e12"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
@@ -1921,16 +1932,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Highs reach the mid-80s to near 90 this afternoon with plenty of humidity and partly sunny skies. An isolated storm is possible late.",
+    "summary": "HAPPENING NOW: Evening temperatures fall back through the 80s and humidity remains high. Overnight lows near 70 to the mid-70s.",
     "publishedAt": "2026-08-31T09:00:56.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Meteorological summer is ending while temperatures and humidity are headed in the wrong direction: upward.",
-    "articleId": "49b5f8664643be55",
-    "stale": true
+    "articleId": "49b5f8664643be55"
   },
-  "weatherGeneratedAt": "2026-08-31T23:47:37.733Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-01T05:00:40.563Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
