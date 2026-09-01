@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-01T05:00:40.563Z",
-  "fetchedAt": "2026-09-01T05:00:40.561Z",
+  "generatedAt": "2026-09-01T10:02:15.213Z",
+  "fetchedAt": "2026-09-01T10:02:15.207Z",
   "sourceCount": 24,
-  "itemCount": 171,
-  "totalItemCount": 806,
+  "itemCount": 170,
+  "totalItemCount": 795,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+      "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+      "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "articleId": "1ddd1704d48a4eb1"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nicholas-decker-in-hell",
+      "title": "Nicholas Decker In Hell",
+      "url": "https://www.astralcodexten.com/p/nicholas-decker-in-hell",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-01T07:37:05.000Z",
+      "articleId": "b5ab24f6acc877ba"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=more-optimistic-results-on-ai-and-job-markets",
+      "title": "More optimistic results on AI and job markets",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is a good Jon Hartley thread. Here is the paper, with Jolevski, Melo, and Moore. From Jon’s thread: “Generative AI adoption is widespread, but substantial aggregate labor-market disruption is not yet visible. Workers nevertheless perceive substantial displacement risk, especially when firsthand use reveals that AI can perform key tasks for their job.” And again […]",
+      "publishedAt": "2026-09-01T07:05:39.000Z",
+      "articleId": "b522393fab9256cb"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html?utm_source=rss&utm_medium=rss&utm_campaign=the-hugging-face-hack",
       "title": "The Hugging Face hack",
@@ -373,17 +406,6 @@
       "summary": "Costco sold 157.4mn rotisserie chickens worldwide last year, almost double the number of a decade ago. “It’s $4.99 and for Costco members, that’s one fantastic deal. I don’t think you can produce it for that,” said Walt Shafer, who oversaw the construction and management of the Nebraska site before he retired from Costco this year. […]",
       "publishedAt": "2026-08-29T06:42:17.000Z",
       "articleId": "fe2d08b4049122d1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html?utm_source=rss&utm_medium=rss&utm_campaign=visions-from-san-francisco-bay",
-      "title": "*Visions from San Francisco Bay*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "European and American capitalism were different. The violence of human clashes in America took place on the surface, in the open. The violence in Europe became formalized, coalesced with class divions hallowed by centuries; it was interiorized, ingrained, or baked in, if one may use such an expression. American capitalism was founded on daring, resourcefulness, […]",
-      "publishedAt": "2026-08-29T04:21:46.000Z",
-      "articleId": "e1c5c64749def2ee"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
@@ -1309,17 +1331,6 @@
       "articleId": "d0956d63761d5a1a"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "title": "2026.33: The CapEx Train Keeps Rolling",
-      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
-      "publishedAt": "2026-08-14T17:00:00.000Z",
-      "articleId": "649091a37448b67a"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
       "title": "Will factory farming fix itself?",
       "url": "https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
@@ -1835,17 +1846,6 @@
       "articleId": "0f2a065f18cfc701"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
-      "title": "Does Forecasting Have Room At The Top?",
-      "url": "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-03T22:36:17.000Z",
-      "articleId": "470c4399276ec008"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
       "title": "What Trump's latest slump means for the midterms",
       "url": "https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
@@ -1911,35 +1911,23 @@
       "summary": "Journalist Harry Levin stops by to talk about why everyone is partying like it's 1792",
       "publishedAt": "2026-08-02T13:30:06.000Z",
       "articleId": "9802ea7327708843"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
-      "title": "Slopulism is taking over America",
-      "url": "https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Sometimes bad populist ideas are just a mistake; sometimes they're being promoted for ideological reasons.",
-      "publishedAt": "2026-08-02T09:13:04.000Z",
-      "articleId": "15bf26cb192e1b2e"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-to-intensify-through-midweek-as-storm-chances-build/",
-    "title": "DC-area forecast: Heat to intensify through midweek as storm chances build",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heat-to-intensify-through-midweek-as-storm-chances-build/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-welcome-to-sizzle-tember-with-hot-90s-and-storm-chances/",
+    "title": "DC-area forecast: Welcome to Sizzle-tember, with hot 90s and storm chances",
+    "url": "https://www.capitalweather.com/dc-area-forecast-welcome-to-sizzle-tember-with-hot-90s-and-storm-chances/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures fall back through the 80s and humidity remains high. Overnight lows near 70 to the mid-70s.",
-    "publishedAt": "2026-08-31T09:00:56.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "Meteorological summer is ending while temperatures and humidity are headed in the wrong direction: upward.",
-    "articleId": "49b5f8664643be55"
+    "summary": "HAPPENING NOW: A partly to mostly sunny morning with temperatures quickly climbing from the 70s into the 80s. Highs reach the mid- to upper 90s this afternoon with moderate to high humidity. A few late-day storms are possible.",
+    "publishedAt": "2026-09-01T09:00:59.000Z",
+    "dailyDigit": 2,
+    "dailyDigitLabel": "2/10",
+    "dailyDigitSummary": "September starts with a failing back-to-school grade thanks to high heat and humidity, plus the chance of storms.",
+    "articleId": "f8b2a29f21463474"
   },
-  "weatherGeneratedAt": "2026-09-01T05:00:40.563Z",
+  "weatherGeneratedAt": "2026-09-01T10:02:15.213Z",
   "weatherError": null,
   "sources": [
     {
@@ -1953,10 +1941,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -2113,10 +2101,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
-      "itemCount": 6,
+      "mode": "fallback-cache",
+      "itemCount": 5,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
