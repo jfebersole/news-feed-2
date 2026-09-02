@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T18:37:57.886Z",
-  "fetchedAt": "2026-09-02T18:37:57.882Z",
+  "generatedAt": "2026-09-02T21:46:20.870Z",
+  "fetchedAt": "2026-09-02T21:46:20.862Z",
   "sourceCount": 24,
   "itemCount": 172,
   "totalItemCount": 808,
@@ -1939,19 +1939,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-plus-some-storms-through-friday-nicer-by-holiday-weekend/",
-    "title": "DC-area forecast: Strong midday storms today as heat continues through Friday",
+    "title": "DC-area forecast: Heat plus storm chances through Friday; nicer by holiday weekend",
     "url": "https://www.capitalweather.com/dc-area-forecast-heat-plus-some-storms-through-friday-nicer-by-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Storms continue moving through the DC region from north to south through around 3:30 p.m. Heavy rain, lightning, and gusty wind last for around 30 to 60 minutes for any given location.",
+    "summary": "HAPPENING NOW: Clouds from earlier storms diminish during the evening, with rain-cooled temperatures mainly in the mid-70s to low 80s.",
     "publishedAt": "2026-09-02T09:00:51.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Not quite as hot as Tuesday, but still steamier than most of us would prefer for early September.",
     "articleId": "16112da614c08af6"
   },
-  "weatherGeneratedAt": "2026-09-02T18:37:57.886Z",
+  "weatherGeneratedAt": "2026-09-02T21:46:20.870Z",
   "weatherError": null,
   "sources": [
     {
