@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T21:44:05.963Z",
-  "fetchedAt": "2026-09-01T21:44:05.957Z",
+  "generatedAt": "2026-09-02T00:05:40.193Z",
+  "fetchedAt": "2026-09-02T00:05:40.189Z",
   "sourceCount": 24,
-  "itemCount": 175,
-  "totalItemCount": 808,
+  "itemCount": 174,
+  "totalItemCount": 807,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/who-values-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=who-values-democracy",
@@ -1063,17 +1063,6 @@
       "articleId": "dd762de10c049ecf"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/giving-the-people-what-they-want",
-      "title": "Giving the people what they want (not data centers)",
-      "url": "https://www.slowboring.com/p/giving-the-people-what-they-want",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus dynamism, Rock Creek Park, and all the practical problems with abolishing ICE",
-      "publishedAt": "2026-08-21T10:02:18.000Z",
-      "articleId": "4627b41169e4bd43"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
       "title": "College EA Meetups Everywhere: Call For Organizers",
       "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -1976,16 +1965,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny as temperatures head toward afternoon highs mainly in the mid-90s with moderate to high humidity. A couple late-day storms are possible, mainly north and east of DC.",
+    "summary": "HAPPENING NOW: Heat indexes drop back through the 90s this evening. A couple evening showers or storms are possible, mainly north and east of DC after 8 or 9 p.m.",
     "publishedAt": "2026-09-01T09:00:59.000Z",
     "dailyDigit": 2,
     "dailyDigitLabel": "2/10",
     "dailyDigitSummary": "September starts with a failing back-to-school grade thanks to high heat and humidity, and maybe a late-day storm.",
-    "articleId": "f8b2a29f21463474",
-    "stale": true
+    "articleId": "f8b2a29f21463474"
   },
-  "weatherGeneratedAt": "2026-09-01T21:44:05.963Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-02T00:05:40.193Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2095,7 +2083,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
