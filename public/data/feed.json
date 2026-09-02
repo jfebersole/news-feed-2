@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-02T00:05:40.193Z",
-  "fetchedAt": "2026-09-02T00:05:40.189Z",
+  "generatedAt": "2026-09-02T04:29:53.555Z",
+  "fetchedAt": "2026-09-02T04:29:53.552Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 172,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html?utm_source=rss&utm_medium=rss&utm_campaign=the-college-wage-premium-in-the-generative-ai-era",
+      "title": "The College Wage Premium in the Generative AI Era",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "After expanding for four decades, the U.S. college wage premium is experiencing a sustained contraction, dropping sharply from 0.626 in 2022 to 0.575 in 2026. Using Current Population Survey Outgoing Rotation Group data through 2026, we show that standard market-clearing supply-and demand accounting implies an unprecedented drop in relative demand for college labor-the first sustained […]",
+      "publishedAt": "2026-09-02T04:27:08.000Z",
+      "articleId": "77ff0c6aee5df89b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/who-values-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=who-values-democracy",
       "title": "Who values democracy?",
@@ -428,17 +439,6 @@
       "summary": "1. Roger Myerson now has a Substack. 2. The future of higher education? 3. Another look at data centers in space. 4. “The Global Economics Lab is a non-partisan organization located at Harvard and draws on a network of faculty affiliates across universities. We conduct policy-relevant research on the forces reshaping the global economy. We […]",
       "publishedAt": "2026-08-29T18:56:17.000Z",
       "articleId": "8644cb6694c7ec85"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/interviewing-yiyang-zhuge-zhong-shu.html?utm_source=rss&utm_medium=rss&utm_campaign=interviewing-yiyang-zhuge-zhong-shu",
-      "title": "Interviewing Yiyang Zhuge (Zhong Shu)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/interviewing-yiyang-zhuge-zhong-shu.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Many people are writing to me, upset that I am interviewing Ziyang Zhuge, a well-known Chinese internet intellectual, who recently was accused of plagiarism. I am keen to proceed with the interview, and am happy to explain why. A few points: 1. The relevant facts here still are being disputed, and furthermore it all happened […]",
-      "publishedAt": "2026-08-29T16:07:42.000Z",
-      "articleId": "bad77875f9b6257e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/everything-is-country",
@@ -1934,28 +1934,6 @@
       "summary": "Dart has been experiencing some growing pains in the first four practices of training camp.",
       "publishedAt": "2026-08-03T11:30:23.000Z",
       "articleId": "29ee0bc4e7ecff3e"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
-      "title": "Thoughts on inflation and monetary policy",
-      "url": "https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Be careful what you ask for",
-      "publishedAt": "2026-08-03T01:27:55.000Z",
-      "articleId": "c01a2a5f48de0df2"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
-      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
-      "publishedAt": "2026-08-03T01:10:29.000Z",
-      "articleId": "8874668ee2942e06"
     }
   ],
   "weather": {
@@ -1972,7 +1950,7 @@
     "dailyDigitSummary": "September starts with a failing back-to-school grade thanks to high heat and humidity, and maybe a late-day storm.",
     "articleId": "f8b2a29f21463474"
   },
-  "weatherGeneratedAt": "2026-09-02T00:05:40.193Z",
+  "weatherGeneratedAt": "2026-09-02T04:29:53.555Z",
   "weatherError": null,
   "sources": [
     {
