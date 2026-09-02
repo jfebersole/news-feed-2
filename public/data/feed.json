@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-02T09:32:42.533Z",
-  "fetchedAt": "2026-09-02T09:32:42.528Z",
+  "generatedAt": "2026-09-02T14:25:53.784Z",
+  "fetchedAt": "2026-09-02T14:25:53.780Z",
   "sourceCount": 24,
   "itemCount": 172,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/just-bury-your-trash",
+      "title": "Just bury your trash",
+      "url": "https://www.worksinprogress.news/p/just-bury-your-trash",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "What if everything we know about recycling is wrong?",
+      "publishedAt": "2026-09-02T12:07:13.000Z",
+      "articleId": "7b1097ca360e8c34"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
+      "title": "An easy way to give kids more freedom",
+      "url": "https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Apple should let kids use digital transit passes. They’re already riding the bus — make it easier!",
+      "publishedAt": "2026-09-02T10:03:20.000Z",
+      "articleId": "2d74d934eef7fdcf"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "title": "Fable 5.1, Enterprise Frontier Safeguards",
+      "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
+      "publishedAt": "2026-09-02T10:00:00.000Z",
+      "articleId": "e23816de1025b3fb"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-chiefs-are-going-to-be-nfl-main",
+      "title": "The Chiefs Are Going To Be NFL Main Characters Again, Aren’t They?",
+      "url": "https://neilpaine.substack.com/p/the-chiefs-are-going-to-be-nfl-main",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The luck finally turned ALL the way against Kansas City last season. History says things probably won’t stay that way.",
+      "publishedAt": "2026-09-02T09:01:14.000Z",
+      "articleId": "fb24780e0d248188"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
       "title": "Absurd Adventure And Amygdalectomy Advocacy",
@@ -316,17 +361,6 @@
       "summary": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
       "publishedAt": "2026-08-31T10:00:00.000Z",
       "articleId": "e04e2b6477820454"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/welcome-to-sports-eternal-present",
-      "title": "Welcome to Sports’ Eternal Present",
-      "url": "https://neilpaine.substack.com/p/welcome-to-sports-eternal-present",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Old sports used to look, well, old. But high-definition TV has flattened decades of sports history into one endless “now”.",
-      "publishedAt": "2026-08-31T09:01:27.000Z",
-      "articleId": "4df36847403c293a"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/spain-fact-of-the-day-7.html?utm_source=rss&utm_medium=rss&utm_campaign=spain-fact-of-the-day-7",
@@ -1029,18 +1063,6 @@
       "articleId": "b824db9b909c976a"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-kind-of-democrat-can-win",
-      "title": "What kind of Democrat can win?",
-      "url": "https://www.slowboring.com/p/what-kind-of-democrat-can-win",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "I’m genuinely asking.",
-      "publishedAt": "2026-08-21T22:00:42.000Z",
-      "articleId": "e9352907e0383e7c"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
       "title": "Your Book Review: A Residence Of 21 Years In The Sandwich Islands",
       "url": "https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
@@ -1284,17 +1306,6 @@
       "summary": "Saloni's TED talk was published today.",
       "publishedAt": "2026-08-17T15:35:44.000Z",
       "articleId": "938edf46461089bf"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
-      "publishedAt": "2026-08-17T10:00:00.000Z",
-      "articleId": "01908f0230250a88"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
@@ -1923,17 +1934,6 @@
       "summary": "Whatever is happening in Iran, it isn’t working.",
       "publishedAt": "2026-08-03T16:15:21.000Z",
       "articleId": "e40407d7b99824ea"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7487554/2026/08/03/new-york-giants-training-camp-jaxson-dart-john-harbaugh/",
-      "title": "Why Jaxson Dart, Giants offense have scuffled early, and why John Harbaugh isn't worried",
-      "url": "https://www.nytimes.com/athletic/7487554/2026/08/03/new-york-giants-training-camp-jaxson-dart-john-harbaugh/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Dart has been experiencing some growing pains in the first four practices of training camp.",
-      "publishedAt": "2026-08-03T11:30:23.000Z",
-      "articleId": "29ee0bc4e7ecff3e"
     }
   ],
   "weather": {
@@ -1948,10 +1948,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Not quite as hot as Tuesday, but still steamier than most of us would prefer for early September.",
-    "articleId": "16112da614c08af6"
+    "articleId": "16112da614c08af6",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-02T09:32:42.533Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-02T14:25:53.784Z",
+  "weatherError": "Feed not recognized as RSS 1 or 2.",
   "sources": [
     {
       "name": "Marginal Revolution",
