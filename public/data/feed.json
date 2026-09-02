@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-02T04:29:53.555Z",
-  "fetchedAt": "2026-09-02T04:29:53.552Z",
+  "generatedAt": "2026-09-02T09:32:42.533Z",
+  "fetchedAt": "2026-09-02T09:32:42.528Z",
   "sourceCount": 24,
   "itemCount": 172,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
+      "title": "Absurd Adventure And Amygdalectomy Advocacy",
+      "url": "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "A guest post by Daniel Böttger",
+      "publishedAt": "2026-09-02T05:51:22.000Z",
+      "articleId": "0190d956c4e56065"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/america-is-still-poised-for-a-data-center-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=america-is-still-poised-for-a-data-center-boom",
+      "title": "America is still poised for a data center boom",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/america-is-still-poised-for-a-data-center-boom.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Eric Levitz, via Matt Yglesias.",
+      "publishedAt": "2026-09-02T04:33:26.000Z",
+      "articleId": "60f15b90530d232f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html?utm_source=rss&utm_medium=rss&utm_campaign=the-college-wage-premium-in-the-generative-ai-era",
       "title": "The College Wage Premium in the Generative AI Era",
@@ -428,17 +450,6 @@
       "summary": "People are creating some very interesting and original stuff!",
       "publishedAt": "2026-08-30T00:15:19.000Z",
       "articleId": "795738cca0e8ef05"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-576",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-576.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Roger Myerson now has a Substack. 2. The future of higher education? 3. Another look at data centers in space. 4. “The Global Economics Lab is a non-partisan organization located at Harvard and draws on a network of faculty affiliates across universities. We conduct policy-relevant research on the forces reshaping the global economy. We […]",
-      "publishedAt": "2026-08-29T18:56:17.000Z",
-      "articleId": "8644cb6694c7ec85"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/everything-is-country",
@@ -1826,17 +1837,6 @@
       "articleId": "da2a1ecbd1fe6cb5"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-beauty-of-settled-science",
-      "title": "The Beauty Of Settled Science",
-      "url": "https://www.astralcodexten.com/p/the-beauty-of-settled-science",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-04T21:32:18.000Z",
-      "articleId": "7bd3477db07034ef"
-    },
-    {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
       "title": "Christopher Nolan’s Trojan Horse",
       "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
@@ -1937,20 +1937,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-welcome-to-sizzle-tember-with-hot-90s-and-storm-chances/",
-    "title": "DC-area forecast: Welcome to Sizzle-tember, with hot 90s and storm chances",
-    "url": "https://www.capitalweather.com/dc-area-forecast-welcome-to-sizzle-tember-with-hot-90s-and-storm-chances/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-plus-some-storms-through-friday-nicer-by-holiday-weekend/",
+    "title": "DC-area forecast: Heat plus some storms through Friday; nicer by holiday weekend",
+    "url": "https://www.capitalweather.com/dc-area-forecast-heat-plus-some-storms-through-friday-nicer-by-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Heat indexes drop back through the 90s this evening. A couple evening showers or storms are possible, mainly north and east of DC after 8 or 9 p.m.",
-    "publishedAt": "2026-09-01T09:00:59.000Z",
-    "dailyDigit": 2,
-    "dailyDigitLabel": "2/10",
-    "dailyDigitSummary": "September starts with a failing back-to-school grade thanks to high heat and humidity, and maybe a late-day storm.",
-    "articleId": "f8b2a29f21463474"
+    "summary": "HAPPENING NOW: Conditions today range from sunnier and hotter near the Beltway to the south and west, to cloudier and a bit cooler north and east of the Beltway, with high humidity everywhere. Maybe a midday shower with a few strong storms possible this evening.",
+    "publishedAt": "2026-09-02T09:00:51.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Not quite as hot as Tuesday, but still steamier than most of us would prefer for early September.",
+    "articleId": "16112da614c08af6"
   },
-  "weatherGeneratedAt": "2026-09-02T04:29:53.555Z",
+  "weatherGeneratedAt": "2026-09-02T09:32:42.533Z",
   "weatherError": null,
   "sources": [
     {
