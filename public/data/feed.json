@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-02T21:46:20.870Z",
-  "fetchedAt": "2026-09-02T21:46:20.862Z",
+  "generatedAt": "2026-09-03T00:09:58.817Z",
+  "fetchedAt": "2026-09-03T00:09:58.813Z",
   "sourceCount": 24,
   "itemCount": 172,
-  "totalItemCount": 808,
+  "totalItemCount": 809,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/coalescence-or-no-alescence",
+      "title": "Coalescence or ... no-alescence",
+      "url": "https://www.slowboring.com/p/coalescence-or-no-alescence",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Candidates in Texas are being left out to dry by members of their own parties — even as their counterparts in Michigan are gaining support from unlikely places.",
+      "publishedAt": "2026-09-02T22:01:25.000Z",
+      "articleId": "852d6fc2a0b19854"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7gy9ajahlgjmvrfulqea.html",
       "title": "Money Stuff: The ETF Dividend Flip",
@@ -1924,17 +1936,6 @@
       "summary": "AI will soon be better at math than any human. What does that mean?",
       "publishedAt": "2026-08-04T07:36:17.000Z",
       "articleId": "2c60d6d0a291896a"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
-      "title": "Giants' Arvell Reese flashes game-changing potential; Jaxson Dart, offense sputter again",
-      "url": "https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The most physical practice of Giants camp allowed the rookie inside linebacker to demonstrate his potential impact.",
-      "publishedAt": "2026-08-03T23:17:16.000Z",
-      "articleId": "0f2a065f18cfc701"
     }
   ],
   "weather": {
@@ -1951,7 +1952,7 @@
     "dailyDigitSummary": "Not quite as hot as Tuesday, but still steamier than most of us would prefer for early September.",
     "articleId": "16112da614c08af6"
   },
-  "weatherGeneratedAt": "2026-09-02T21:46:20.870Z",
+  "weatherGeneratedAt": "2026-09-03T00:09:58.817Z",
   "weatherError": null,
   "sources": [
     {
@@ -2062,7 +2063,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
