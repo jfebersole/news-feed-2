@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-03T00:09:58.817Z",
-  "fetchedAt": "2026-09-03T00:09:58.813Z",
+  "generatedAt": "2026-09-03T05:44:38.265Z",
+  "fetchedAt": "2026-09-03T05:44:38.262Z",
   "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 809,
+  "itemCount": 173,
+  "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-michael-moritz",
+      "title": "My excellent Conversation with Michael Moritz",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-michael-moritz.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Michael Moritz has written books through every phase of his life: the first history of Apple and an account of Chrysler’s near-death while he was a journalist at Time, a study of Alex Ferguson’s Manchester United in the middle of his 38 years at […]",
+      "publishedAt": "2026-09-03T04:43:15.000Z",
+      "articleId": "320257c1f375b64d"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/announcing-still-counting-with-galen",
+      "title": "Announcing “Still Counting” with Galen Druke and Clare Malone",
+      "url": "https://www.natesilver.net/p/announcing-still-counting-with-galen",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Our new podcast launches soon, and Silver Bulletin readers helped make it possible.",
+      "publishedAt": "2026-09-03T01:20:26.000Z",
+      "articleId": "79d29dc8ba8bf634"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/coalescence-or-no-alescence",
       "title": "Coalescence or ... no-alescence",
@@ -507,17 +529,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-08-30T17:00:51.000Z",
       "articleId": "f28f7f9eb3753a23"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-582",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-582.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. NYT covers Maria Edgeworth. 2. A calmer look at the Hugging Face incident. And from Ciaran Martin in The Economist. And Elie. And Jacob Bruggeman. 3. Chandhana visits Egypt. 4. New quantum claims. 5. How youth football is evolving due to CTE concerns. 6. Pie Jesu by Gabriel Faure.",
-      "publishedAt": "2026-08-30T15:49:16.000Z",
-      "articleId": "e0c428bf4aeaa580"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
@@ -1952,7 +1963,7 @@
     "dailyDigitSummary": "Not quite as hot as Tuesday, but still steamier than most of us would prefer for early September.",
     "articleId": "16112da614c08af6"
   },
-  "weatherGeneratedAt": "2026-09-03T00:09:58.817Z",
+  "weatherGeneratedAt": "2026-09-03T05:44:38.265Z",
   "weatherError": null,
   "sources": [
     {
@@ -2047,7 +2058,7 @@
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
