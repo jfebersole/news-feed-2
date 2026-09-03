@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-03T19:47:21.628Z",
-  "fetchedAt": "2026-09-03T19:47:21.623Z",
+  "generatedAt": "2026-09-03T22:35:45.900Z",
+  "fetchedAt": "2026-09-03T22:35:45.895Z",
   "sourceCount": 24,
   "itemCount": 174,
-  "totalItemCount": 811,
+  "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/astra-doing-poetry.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-doing-poetry",
+      "title": "Astra, doing poetry",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/astra-doing-poetry.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "One prompt, no cherry-picking: TC: “Now a short poem in the style of the very best Rilke, in German:” Die Hand im Schlaf Nun liegt sie offen. Alles, was sie hielt, ist in die eigne Schwere heimgekehrt. Nur eine kleine Höhlung bleibt, als hätte ein Vogel hier geruht und sie gelehrt, auch das Entwichene noch […]",
+      "publishedAt": "2026-09-03T22:11:50.000Z",
+      "articleId": "0b24601c9f923eea"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
+      "title": "Beware big swings in midterm forecasts",
+      "url": "https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "As Labor Day approaches, we’re entering the traditional stretch run of the campaign. But history says the national picture probably won’t change much before Election Day.",
+      "publishedAt": "2026-09-03T20:35:36.000Z",
+      "articleId": "9be40bb7a97e289a"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
       "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
@@ -578,17 +601,6 @@
       "articleId": "c1fc14d0da1c6fe8"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-575",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Prices, prices, prices: “Again I am asking how the following two things can be true at the same time: 1) we’re all massively compute limited so inferences & GPU time are $$$$$, and 2) SoTA models will just start running themselves on everyone’s GPU clusters & no one will notice or turn them off.” […]",
-      "publishedAt": "2026-08-31T16:22:58.000Z",
-      "articleId": "738f21c392daa3b8"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
       "title": "I spent $4,000 on a robot dog from China",
       "url": "https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
@@ -1060,18 +1072,6 @@
       "summary": "...",
       "publishedAt": "2026-08-24T23:54:20.000Z",
       "articleId": "573f32ecc751bf65"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
-      "title": "Three Dan Sullivans walk into a race for Senate",
-      "url": "https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "And as they duke it out in Alaska, progressives win in Pennsylvania and Florida, Trump rises and falls, Michigan confronts AIPAC, Markey faces questions about his age, and a fraud fesses up.",
-      "publishedAt": "2026-08-24T22:01:48.000Z",
-      "articleId": "21d16912b657a065"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
@@ -1969,14 +1969,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Just the chance of an isolated shower or storm across the DC area the rest of the afternoon into early evening. Otherwise partly sunny and muggy with highs in the upper 80s to low 90s.",
+    "summary": "HAPPENING NOW: Just the chance of an isolated shower or storm across the DC area into early evening, then storms become more likely after 9 or 10 p.m. Partly cloudy and muggy with temperatures falling through the 80s.",
     "publishedAt": "2026-09-03T09:00:27.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "A three for Sept. 3, but mostly because of the high heat and humidity.",
     "articleId": "266a761a40b9b80b"
   },
-  "weatherGeneratedAt": "2026-09-03T19:47:21.628Z",
+  "weatherGeneratedAt": "2026-09-03T22:35:45.900Z",
   "weatherError": null,
   "sources": [
     {
@@ -2087,7 +2087,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2134,10 +2134,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
