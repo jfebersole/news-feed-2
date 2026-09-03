@@ -1,10 +1,78 @@
 {
-  "generatedAt": "2026-09-03T05:44:38.265Z",
-  "fetchedAt": "2026-09-03T05:44:38.262Z",
+  "generatedAt": "2026-09-03T11:08:57.962Z",
+  "fetchedAt": "2026-09-03T11:08:57.957Z",
   "sourceCount": 24,
-  "itemCount": 173,
+  "itemCount": 175,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
+      "title": "Stop making up reasons to be mad",
+      "url": "https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A harmless old A.E.S. tweet, a paranoid anti-A.E.S. conspiracy theory, and the case for a mind of winter",
+      "publishedAt": "2026-09-03T10:02:11.000Z",
+      "articleId": "86d3d9b24ca52edb"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+      "title": "Why you won’t get a flying car",
+      "url": "https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A review of “Where is My Flying Car?”, by J. Storrs Hall, and some other thoughts on the future of technology.",
+      "publishedAt": "2026-09-03T09:55:22.000Z",
+      "articleId": "8b235d479ce6d7a3"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
+      "title": "Who’s the Snowflake Now?",
+      "url": "https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Marco Rubio is taking the wrong approach to free speech.",
+      "publishedAt": "2026-09-03T09:04:22.000Z",
+      "articleId": "71160a20c153eee6"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/is-there-a-liberal-center-should",
+      "title": "Is there a liberal center? Should there be?",
+      "url": "https://www.slowboring.com/p/is-there-a-liberal-center-should",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A conversation with Nate Silver and Jeremiah Johnson",
+      "publishedAt": "2026-09-03T09:02:12.000Z",
+      "articleId": "499d2d5f417b4e25"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
+      "title": "College EA Meetups Everywhere: Times & Places",
+      "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-03T08:10:42.000Z",
+      "articleId": "60803d49fd242826"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-568",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-568.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. “Some crazy stats from this new JEL paper: – IV est. average 3–10x OLS (meta analysis) – Sign. results 30x more likely to be published in experimental econ (Andrews & Kasy) –",
+      "publishedAt": "2026-09-03T06:35:53.000Z",
+      "articleId": "563e7673ee0fb686"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-michael-moritz",
       "title": "My excellent Conversation with Michael Moritz",
@@ -508,17 +576,6 @@
       "articleId": "0cce3296bceb61c6"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/russia-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=russia-markets-in-everything",
-      "title": "Russia markets in everything",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/russia-markets-in-everything.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "While Western export bans have severed Russia from much of the auto market, they have not tempered the demand for brand-name SUVs and trucks. That has given rise to a sophisticated network of criminals that steals cars, hides them in shipping containers and sends them to Russia, often by way of the Middle East… Interpol, […]",
-      "publishedAt": "2026-08-30T19:06:32.000Z",
-      "articleId": "7bb65c3f6cf1e0da"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-03e",
       "title": "Sunday Thread + Mailbag",
       "url": "https://www.slowboring.com/p/sunday-thread-mailbag-03e",
@@ -1004,18 +1061,6 @@
       "articleId": "1539f1c2b7515b2a"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-real-reason-nobody-feels-good",
-      "title": "The real reason nobody feels good about technological progress",
-      "url": "https://www.slowboring.com/p/the-real-reason-nobody-feels-good",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The internet is a small miracle that in practice we mostly use to watch short-form video.",
-      "publishedAt": "2026-08-24T10:03:32.000Z",
-      "articleId": "083bd7677be6c207"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/autonomy-and-innovation/",
       "title": "Autonomy and Innovation",
       "url": "https://stratechery.com/2026/autonomy-and-innovation/",
@@ -1036,18 +1081,6 @@
       "summary": "A new social challenge for a new century.",
       "publishedAt": "2026-08-24T08:46:48.000Z",
       "articleId": "f9a34de4219cbfa7"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-23T17:00:44.000Z",
-      "articleId": "7c8d0c47e489d702"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
@@ -1936,17 +1969,6 @@
       "summary": "How we fund our journalism without compromising our independence.",
       "publishedAt": "2026-08-04T12:55:50.000Z",
       "articleId": "e2f214dc91275753"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
-      "title": "The end of the age of heroes",
-      "url": "https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "AI will soon be better at math than any human. What does that mean?",
-      "publishedAt": "2026-08-04T07:36:17.000Z",
-      "articleId": "2c60d6d0a291896a"
     }
   ],
   "weather": {
@@ -1961,10 +1983,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Not quite as hot as Tuesday, but still steamier than most of us would prefer for early September.",
-    "articleId": "16112da614c08af6"
+    "articleId": "16112da614c08af6",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-03T05:44:38.265Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-03T11:08:57.962Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1986,7 +2009,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2121,10 +2144,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
@@ -2137,10 +2160,10 @@
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
-      "itemCount": 7,
+      "mode": "fallback-cache",
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
