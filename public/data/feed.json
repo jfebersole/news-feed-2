@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-09-04T19:31:15.591Z",
-  "fetchedAt": "2026-09-04T19:31:15.588Z",
+  "generatedAt": "2026-09-04T22:20:04.764Z",
+  "fetchedAt": "2026-09-04T22:20:04.759Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 176,
   "totalItemCount": 811,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
+      "title": "Slow Boring D.C. happy hour on Wednesday",
+      "url": "https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Join us at Barrel House at 6 p.m. on September 9.",
+      "publishedAt": "2026-09-04T22:00:35.000Z",
+      "articleId": "e9a077db768c63f6"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
+      "title": "Democrats just got one seat closer to retaking the House",
+      "url": "https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Missouri’s new old map has diminished Republicans’ redistricting gains.",
+      "publishedAt": "2026-09-04T20:48:39.000Z",
+      "articleId": "3a016f906010c03a"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
+      "title": "Your Book Review: The Tale Of Genji",
+      "url": "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #8 in the Book Review Contest",
+      "publishedAt": "2026-09-04T19:34:24.000Z",
+      "articleId": "a45fa6dac81ac7dd"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/friction-and-feedback/",
       "title": "2026.36: Friction and Feedback",
@@ -1030,17 +1064,6 @@
       "articleId": "c3fdda281a297838"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/yimbys-already-have-a-bold-vision",
-      "title": "YIMBYs already have a bold vision for solving the housing crisis",
-      "url": "https://www.slowboring.com/p/yimbys-already-have-a-bold-vision",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Don’t listen to the haters — there’s nothing narrow about this.",
-      "publishedAt": "2026-08-26T10:02:08.000Z",
-      "articleId": "69b6b76f85bdcebf"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
       "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
       "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
@@ -1961,36 +1984,24 @@
       "summary": "And if not, what do we do?",
       "publishedAt": "2026-08-06T07:14:01.000Z",
       "articleId": "c8739bbc826bacff"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-questions-on-open-weights",
-      "title": "Open Questions On Open Weights",
-      "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-06T03:56:29.000Z",
-      "articleId": "954805344f065bd1"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
-    "title": "DC-area forecast: Hot Friday with another storm chance, then improving for holiday weekend",
+    "title": "DC-area forecast: Muggy with a shower possible tonight, then gradually improving for holiday weekend",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Overnight storms left behind muggy conditions this morning. Temperatures start in the 70s and head toward highs in the upper 80s to low 90s. More scattered showers and storms are possible, especially after 4 p.m., with some potentially strong.",
+    "summary": "HAPPENING NOW: Temperatures range from rain-cooled mid-70s to toasty mid-80s this evening as storms move away. Skies turn clearer with time, perhaps setting up a pretty sunset.",
     "publishedAt": "2026-09-04T09:00:14.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Our final day of hot and humid conditions, with potentially strong storms.",
-    "articleId": "2a4c8ec757ea705a",
-    "stale": true
+    "articleId": "2a4c8ec757ea705a"
   },
-  "weatherGeneratedAt": "2026-09-04T19:31:15.591Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-04T22:20:04.764Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
