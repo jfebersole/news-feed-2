@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T22:35:45.900Z",
-  "fetchedAt": "2026-09-03T22:35:45.895Z",
+  "generatedAt": "2026-09-04T00:56:42.274Z",
+  "fetchedAt": "2026-09-04T00:56:42.268Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 810,
@@ -1974,10 +1974,11 @@
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "A three for Sept. 3, but mostly because of the high heat and humidity.",
-    "articleId": "266a761a40b9b80b"
+    "articleId": "266a761a40b9b80b",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-03T22:35:45.900Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-04T00:56:42.274Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2134,10 +2135,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
