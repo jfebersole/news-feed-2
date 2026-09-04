@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-04T05:52:15.565Z",
-  "fetchedAt": "2026-09-04T05:52:15.560Z",
+  "generatedAt": "2026-09-04T11:16:18.613Z",
+  "fetchedAt": "2026-09-04T11:16:18.609Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/you-cant-blame-housing-shortages",
+      "title": "You can’t blame housing shortages for literally everything",
+      "url": "https://www.slowboring.com/p/you-cant-blame-housing-shortages",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus alternate Reconstructions, saving D.C. real estate, and the truth about Tupac",
+      "publishedAt": "2026-09-04T10:03:10.000Z",
+      "articleId": "d794b0bdd7918026"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
+      "title": "Gauging John Harbaugh's impact and what to expect in Week 1",
+      "url": "https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Question topics include the team's offensive scheme and possible Week 1 inactive selections.",
+      "publishedAt": "2026-09-04T10:00:30.000Z",
+      "articleId": "ea65ab2f843c641b"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "articleId": "17f1523692159674"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html?utm_source=rss&utm_medium=rss&utm_campaign=shout-it-from-the-rooftops-of-the-data-centers",
+      "title": "Shout it from the rooftops (of the data centers)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Data-center investment has become one of the largest capital-expenditure cycles in financial markets, with U.S. hyperscalers expected to deploy roughly $700 billion in 2026. This investment boom has raised concerns that large computing loads impose external costs on households through higher electricity prices. Using a 50-state panel for 2021-2024, we find no statistically significant evidence […]",
+      "publishedAt": "2026-09-04T06:52:26.000Z",
+      "articleId": "f333a7f7b8b21d91"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html?utm_source=rss&utm_medium=rss&utm_campaign=more-numbers-for-the-hugging-face-incident",
       "title": "Share price numbers for the Hugging Face incident",
@@ -533,17 +578,6 @@
       "articleId": "b522393fab9256cb"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html?utm_source=rss&utm_medium=rss&utm_campaign=the-hugging-face-hack",
-      "title": "The Hugging Face hack",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column. Some people are taking this in very dramatic fashion: One commentator is worried about a “full-blown AI takeover within months,” and another wrote that he was “feeling a bit sad about our impending extinction.” Nate Soares, who works in the AI safety movement and is co-author of the doomsday […]",
-      "publishedAt": "2026-09-01T04:43:33.000Z",
-      "articleId": "5d82859078d785b4"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-87-technology-bad",
       "title": "Roundup #87: Technology BAD!!",
       "url": "https://www.noahpinion.blog/p/roundup-87-technology-bad",
@@ -1040,18 +1074,6 @@
       "articleId": "1ec9c10e2b09d636"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
-      "title": "The Western water crisis has a simple solution",
-      "url": "https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Stop giving the majority of the water away to farmers for almost nothing!",
-      "publishedAt": "2026-08-25T10:02:01.000Z",
-      "articleId": "5dc500bf2150f5ff"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
       "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
       "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
@@ -1387,17 +1409,6 @@
       "summary": "Featuring Outkast, Missy Elliot, Mobb Deep, and others",
       "publishedAt": "2026-08-18T13:31:45.000Z",
       "articleId": "3c3fc5195620cfa5"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
-      "publishedAt": "2026-08-18T10:00:00.000Z",
-      "articleId": "ae42eb7d3a186378"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
@@ -1949,36 +1960,24 @@
       "summary": "The Secret Ingredients for Perfect Tempura | Kenji Eats Japan A modernized tempura batter with vodka and club soda delivers restaurant-quality crispness without years of apprenticeship. What makes tempura—Japanes... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now The Secret Ingredients for Perfect Tempura | Kenji Eats Japan J. Kenji López-Alt Aug 5, 2026 View in app View in app A modernized tempura batter with vodka and club soda delivers restaurant-quality crispness without years of apprenticeship. What makes tempura—Japanese-style battered and fried vegetables and seafood—so unique? The key lies in the texture of the coating. Unlike more heavily-battered foods that can sometimes end up equal parts batter to food, with tempura, the coating should be lacy and whisper-thin, with plenty of bubbly nooks and crannies for adding texture and absorbing sauce. More than any other type of battering, tempura allows the flavor of the ingredients being battered to shine through. Tempura arrived in Japan with Portuguese missionaries in the sixteenth century. The Japanese word tempura comes the Portuguese word tempora , which referred to the days in which they abstained from meat, instead cooking battered-and-fried fish. Over the centuries Japanese cooks transformed it into something entirely its own, using lighter flours and specialized technique. Today, at the best tempura restaurants, a single chef will serve you at a...",
       "publishedAt": "2026-08-05T16:13:55.641Z",
       "articleId": "70b3316b98a51829"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/what-to-make-of-michigan",
-      "title": "What to make of Michigan",
-      "url": "https://www.natesilver.net/p/what-to-make-of-michigan",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Abdul El-Sayed’s apparent victory is a big win for the left — but a disaster for polling and a case study in poor expectations management.",
-      "publishedAt": "2026-08-05T08:17:03.000Z",
-      "articleId": "da2a1ecbd1fe6cb5"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-heat-index-values-back-to-brutal-plus-more-storm-chances/",
-    "title": "DC-area forecast: Staying steamy through Friday with some showers and storms",
-    "url": "https://www.capitalweather.com/dc-area-forecast-heat-index-values-back-to-brutal-plus-more-storm-chances/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
+    "title": "DC-area forecast: Hot Friday with another storm chance, then improving for holiday weekend",
+    "url": "https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Just the chance of an isolated shower or storm across the DC area into early evening, then storms become more likely after 9 or 10 p.m. Partly cloudy and muggy with temperatures falling through the 80s.",
-    "publishedAt": "2026-09-03T09:00:27.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "A three for Sept. 3, but mostly because of the high heat and humidity.",
-    "articleId": "266a761a40b9b80b",
-    "stale": true
+    "summary": "HAPPENING NOW: Overnight storms left behind muggy conditions this morning. Temperatures start in the 70s and head toward highs in the upper 80s to low 90s. More scattered showers and storms are possible, especially after 4 p.m., with some potentially strong.",
+    "publishedAt": "2026-09-04T09:00:14.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Our final day of hot and humid conditions, with potentially strong storms.",
+    "articleId": "2a4c8ec757ea705a"
   },
-  "weatherGeneratedAt": "2026-09-04T05:52:15.565Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-04T11:16:18.613Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2135,10 +2134,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
