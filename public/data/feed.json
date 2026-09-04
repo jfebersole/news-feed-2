@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-04T11:16:18.613Z",
-  "fetchedAt": "2026-09-04T11:16:18.609Z",
+  "generatedAt": "2026-09-04T16:17:55.256Z",
+  "fetchedAt": "2026-09-04T16:17:55.251Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 175,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/19-robotics-companies-to-watch",
+      "title": "19 robotics companies to watch",
+      "url": "https://www.understandingai.org/p/19-robotics-companies-to-watch",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "I talked with nine of these companies.",
+      "publishedAt": "2026-09-04T16:04:09.000Z",
+      "articleId": "1abeaea49cd467ef"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-589",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. “After work, we’ll have each other.” 2. Gloria Steinem, RIP (NYT). 3. Henry Oliver on Finding Emily. 4. Solve for the Russian family squabble equilibrium (short video). 5. New Fuchsia Dunlop book due out October 20. 6. The O-Ring model, restated for AI. 7. Joshua Saxe on AI safety. 8. The pig kidney worked […]",
+      "publishedAt": "2026-09-04T15:38:16.000Z",
+      "articleId": "40bc263bf7285bdf"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/pho-thin-13-lo-duc/",
+      "title": "Pho Thin 13 Lo Duc",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/pho-thin-13-lo-duc/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Pho Thin, 13 Lo Duc, web site, 7263H Arlington Blvd., Falls Church, VA, Graham Park Plaza, (571) 746-8446 (Metro Trip Planner – opens in new window) [Google | Washingtonian | Reddit] Has there been anything new in the Pho arena … Continue reading →",
+      "publishedAt": "2026-09-04T14:17:00.000Z",
+      "articleId": "b012b10ddf21f7b0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html?utm_source=rss&utm_medium=rss&utm_campaign=real-gdp-per-capita-and-the-standard-of-living",
+      "title": "Real GDP Per Capita and the Standard of Living",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We are freshening up some of our videos with updated data so now is a good time to remind everyone that Modern Principles of Economics is best principles of economics textbook; great videos, clear writing and excellent applications and examples!",
+      "publishedAt": "2026-09-04T11:20:26.000Z",
+      "articleId": "6c897aab7418f1dd"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/you-cant-blame-housing-shortages",
       "title": "You can’t blame housing shortages for literally everything",
@@ -38,6 +83,17 @@
       "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
       "publishedAt": "2026-09-04T10:00:00.000Z",
       "articleId": "17f1523692159674"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/why-regression-to-the-mean-may-be",
+      "title": "Why Regression to the Mean May Be the Cowboys’ Secret Weapon",
+      "url": "https://neilpaine.substack.com/p/why-regression-to-the-mean-may-be",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Dallas was historically lopsided in 2025. But that may be exactly why a 2026 rebound is easier to engineer than it seems.",
+      "publishedAt": "2026-09-04T09:02:31.000Z",
+      "articleId": "cad64d994f6a0a07"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html?utm_source=rss&utm_medium=rss&utm_campaign=shout-it-from-the-rooftops-of-the-data-centers",
@@ -477,17 +533,6 @@
       "articleId": "1b71616fd200f454"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-584",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-584.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. The AI market is still growing rapidly. And “In less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.” 2. On Warsh. 3. Story competition, with prizes, refereed by Neal Stephenson, Gwern, and Matt Huang. 4. Jeffrey Williamson, RIP. 5. Patrick Kennedy on corporate tax cuts. 6. […]",
-      "publishedAt": "2026-09-01T16:16:40.000Z",
-      "articleId": "95528d704d147d61"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/what-is-an-undervalued-currency",
       "title": "What is an undervalued currency?",
       "url": "https://scottsumner.substack.com/p/what-is-an-undervalued-currency",
@@ -545,17 +590,6 @@
       "articleId": "1ddd1704d48a4eb1"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/enjoy-baseballs-september-of-uncertainty",
-      "title": "Enjoy Baseball’s September of Uncertainty While It Lasts",
-      "url": "https://neilpaine.substack.com/p/enjoy-baseballs-september-of-uncertainty",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Baseball has one month of extremely messy questions left. With 2027 hanging over everything, maybe we shouldn’t be so eager for the answers.",
-      "publishedAt": "2026-09-01T09:01:27.000Z",
-      "articleId": "7942d2c71c555d42"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nicholas-decker-in-hell",
       "title": "Nicholas Decker In Hell",
       "url": "https://www.astralcodexten.com/p/nicholas-decker-in-hell",
@@ -565,17 +599,6 @@
       "summary": "...",
       "publishedAt": "2026-09-01T07:37:05.000Z",
       "articleId": "b5ab24f6acc877ba"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=more-optimistic-results-on-ai-and-job-markets",
-      "title": "More optimistic results on AI and job markets",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is a good Jon Hartley thread. Here is the paper, with Jolevski, Melo, and Moore. From Jon’s thread: “Generative AI adoption is widespread, but substantial aggregate labor-market disruption is not yet visible. Workers nevertheless perceive substantial displacement risk, especially when firsthand use reveals that AI can perform key tasks for their job.” And again […]",
-      "publishedAt": "2026-09-01T07:05:39.000Z",
-      "articleId": "b522393fab9256cb"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-87-technology-bad",
@@ -1949,17 +1972,6 @@
       "summary": "Iran. The midterms. Can Trump wriggle out one last time?",
       "publishedAt": "2026-08-05T16:42:43.000Z",
       "articleId": "204b16f6ae20ae47"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/y48p87t6pu3fhovcn0sx.html",
-      "title": "The Secret Ingredients for Perfect Tempura | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/y48p87t6pu3fhovcn0sx.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "The Secret Ingredients for Perfect Tempura | Kenji Eats Japan A modernized tempura batter with vodka and club soda delivers restaurant-quality crispness without years of apprenticeship. What makes tempura—Japanes... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now The Secret Ingredients for Perfect Tempura | Kenji Eats Japan J. Kenji López-Alt Aug 5, 2026 View in app View in app A modernized tempura batter with vodka and club soda delivers restaurant-quality crispness without years of apprenticeship. What makes tempura—Japanese-style battered and fried vegetables and seafood—so unique? The key lies in the texture of the coating. Unlike more heavily-battered foods that can sometimes end up equal parts batter to food, with tempura, the coating should be lacy and whisper-thin, with plenty of bubbly nooks and crannies for adding texture and absorbing sauce. More than any other type of battering, tempura allows the flavor of the ingredients being battered to shine through. Tempura arrived in Japan with Portuguese missionaries in the sixteenth century. The Japanese word tempura comes the Portuguese word tempora , which referred to the days in which they abstained from meat, instead cooking battered-and-fried fish. Over the centuries Japanese cooks transformed it into something entirely its own, using lighter flours and specialized technique. Today, at the best tempura restaurants, a single chef will serve you at a...",
-      "publishedAt": "2026-08-05T16:13:55.641Z",
-      "articleId": "70b3316b98a51829"
     }
   ],
   "weather": {
@@ -1976,7 +1988,7 @@
     "dailyDigitSummary": "Our final day of hot and humid conditions, with potentially strong storms.",
     "articleId": "2a4c8ec757ea705a"
   },
-  "weatherGeneratedAt": "2026-09-04T11:16:18.613Z",
+  "weatherGeneratedAt": "2026-09-04T16:17:55.256Z",
   "weatherError": null,
   "sources": [
     {
@@ -2134,10 +2146,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Brew Shop",
