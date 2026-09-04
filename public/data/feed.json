@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-04T00:56:42.274Z",
-  "fetchedAt": "2026-09-04T00:56:42.268Z",
+  "generatedAt": "2026-09-04T05:52:15.565Z",
+  "fetchedAt": "2026-09-04T05:52:15.560Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html?utm_source=rss&utm_medium=rss&utm_campaign=more-numbers-for-the-hugging-face-incident",
+      "title": "Share price numbers for the Hugging Face incident",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "…major publicly traded cybersecurity firms lost roughly $65–80 billion, or about 8–10% of their combined value, in the days following disclosure of the Hugging Face/OpenAI incident; by early September they had recovered roughly $58 billion, representing about 70–90% of that drawdown, depending on whether July 15 or July 20 is used as the pre-event baseline. […]",
+      "publishedAt": "2026-09-04T04:27:38.000Z",
+      "articleId": "b07f80bed4465b6c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/astra-doing-poetry.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-doing-poetry",
       "title": "Astra, doing poetry",
@@ -554,17 +565,6 @@
       "summary": "A judge blocks HUD and California stacks up YIMBY wins. Commercial conversions and A.I. show different paths to more housing, while rent control gets in the way.",
       "publishedAt": "2026-08-31T22:01:29.000Z",
       "articleId": "76457c48e6579a14"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/yerevan-bleg.html?utm_source=rss&utm_medium=rss&utm_campaign=yerevan-bleg",
-      "title": "Yerevan bleg",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/yerevan-bleg.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Any advice on this front is most welcome, thank you!",
-      "publishedAt": "2026-08-31T20:52:44.000Z",
-      "articleId": "a17901747afba3ef"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
@@ -1977,7 +1977,7 @@
     "articleId": "266a761a40b9b80b",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-09-04T00:56:42.274Z",
+  "weatherGeneratedAt": "2026-09-04T05:52:15.565Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
