@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-05T13:50:45.341Z",
-  "fetchedAt": "2026-09-05T13:50:45.339Z",
+  "generatedAt": "2026-09-05T16:48:10.841Z",
+  "fetchedAt": "2026-09-05T16:48:10.837Z",
   "sourceCount": 24,
-  "itemCount": 176,
-  "totalItemCount": 811,
+  "itemCount": 175,
+  "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-588",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Joaquin Rodrigo’s Toccata. Rodrigo by the way was blind, 2. China word of the day. 3. “People Keep Sneaking Into New York City Sewers. No One Knows Why.” (NYT) 4. Yiyang Zhuge has postponed her recording session with CWT, in case you will be wondering why the episode does not show up soon. 5. […]",
+      "publishedAt": "2026-09-05T15:50:35.000Z",
+      "articleId": "21741b8ceef88297"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-return-of-institutional-purpose",
       "title": "The return of institutional purpose",
@@ -522,17 +533,6 @@
       "summary": "Dividend shuffle Let’s say you own stock in a company that has announced that it will pay a $2 per share dividend to anyone who holds the stock on Wednesday. On Tuesday, the stock closes at $100 per share. If you buy the stock on Tuesday, you receive it on Wednesday — this is called “ T+1 settlement ” — so you are a shareholder as of Wednesday and get the dividend. If you buy the stock on Wednesday, though, you don’t actually get the stock until Thursday, so you miss the dividend. (Wednesday is the “ ex date ,” the first day on which you don’t get the dividend if you buy the stock. [1] ) In theory, ceteris paribus, the stock should trade at $98 on Wednesday to reflect the fact that you don’t get the dividend. The stock’s price on Tuesday represents (1) the value of the stock plus (2) the $2 dividend; the price on Wednesday represents (1) roughly the same value for the same stock plus (2) no dividend. So $100 on Tuesday, $98 on Wednesday. Ceteris paribus. Many countries tax dividends in ways that are bad for foreign investors. In the US, for instance, many foreign investors face a 30% withholding tax on dividend income. And so there is a large financial-industry subculture of finding ways to transform “dividends” into something else that gets better tax treatment. Many of these trades are done with swaps or other derivatives, but here is a very simple one: You are a foreign investor, you own a share of stock, it’s going to pay a $2 dividend, you do not want to “receive” the “dividend” for tax reasons, but you don’t want to give up the $2 either. On Tuesday at 11:59 p.m., just before the dividend ex date, you sell your stock for $100. On Wednesday at 12:01 a.m., you buy it back for $98, and keep the other $2. Now you have the same share of stock that you had before, plus $2. Your $2 is not , however, a dividend. It’s just the result of selling stock at one price and buying it back at another. It’s just capital gains, which are not subject to withholding tax. That’s pretty good: You sell the stock just before it pays the dividend, and buy it back just after. In theory, ceteris paribus, the stock will go down by $2 — exactly the amount of the dividend — in the two minutes between when you sell and when you buy it back, so your sale price will exceed your repurchase price by exactly the amount of the dividend. You will cash out the amount of the dividend, but it will not be a dividend. This trade is not quite practical, though, because you can’t really sell your stock at 11:59 (with the dividend) and buy it back at 12:01 (without the dividend). Liquidity is bad at midnight, and even 24-hour-ish stock markets take little breaks to update their computers, so this trade might be difficult to execute. More important, stock trades in the overnight session do...",
       "publishedAt": "2026-09-02T18:13:30.353Z",
       "articleId": "b8cf315818dfa8e5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/richard-fontaine-interviews-me-about-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-fontaine-interviews-me-about-ai",
-      "title": "Richard Fontaine interviews me about AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/richard-fontaine-interviews-me-about-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "For the American Society for AI.",
-      "publishedAt": "2026-09-02T17:23:05.000Z",
-      "articleId": "cb29bbf20f68fbcf"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/how-google-taught-llms-to-control",
@@ -1974,34 +1974,23 @@
       "summary": "So, what should we do about it?",
       "publishedAt": "2026-08-06T17:30:35.000Z",
       "articleId": "c28b91d6cdf6fac9"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-horses-have-stopped-getting-faster",
-      "title": "The upper limits of biology",
-      "url": "https://www.worksinprogress.news/p/why-horses-have-stopped-getting-faster",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The limits of breeding for speed",
-      "publishedAt": "2026-08-06T14:10:29.000Z",
-      "articleId": "e4873ca721eac48f"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
-    "title": "DC-area forecast: Some showers around today, mostly beautiful Sunday and Labor Day",
+    "title": "DC-area forecast: Some showers west and south today, mostly beautiful Sunday and Labor Day",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures move through the 70s this morning before slightly less muggy afternoon highs in the low to mid-80s. Lots of clouds with some showers and a rumble chance focused about 11 a.m. to 3 p.m., especially southwestern and southern parts of the area or south of that.",
+    "summary": "HAPPENING NOW: Lots of clouds with some showers and a rumble chance through about 3 p.m., mainly west and south of the Beltway. Slightly less muggy this afternoon with highs near 80 to the mid-80s.",
     "publishedAt": "2026-09-05T09:00:07.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
     "articleId": "2d5d602b9eaadec0"
   },
-  "weatherGeneratedAt": "2026-09-05T13:50:45.341Z",
+  "weatherGeneratedAt": "2026-09-05T16:48:10.841Z",
   "weatherError": null,
   "sources": [
     {
@@ -2096,7 +2085,7 @@
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
