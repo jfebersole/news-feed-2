@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-05T05:41:19.643Z",
-  "fetchedAt": "2026-09-05T05:41:19.638Z",
+  "generatedAt": "2026-09-05T10:30:01.667Z",
+  "fetchedAt": "2026-09-05T10:30:01.659Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 811,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+      "title": "America is still beating China in the AI race",
+      "url": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The U.S. is staying ahead, though the costs of that lead are still unknown.",
+      "publishedAt": "2026-09-05T07:36:17.000Z",
+      "articleId": "eba5e2d6af7ef14f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/mein-ingeborg-bachmann-studium.html?utm_source=rss&utm_medium=rss&utm_campaign=mein-ingeborg-bachmann-studium",
+      "title": "Mein Ingeborg Bachmann Studium",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mein-ingeborg-bachmann-studium.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Recently I finished read Malina, by Ingeborg Bachmann, an Austrian novel published in 1971. I was pretty stunned by how good it was (it seems less good in English), and I would say I enjoyed it more, and found it deeper, than any of the famous 19th century Victorian novels by women. The initial story […]",
+      "publishedAt": "2026-09-05T07:18:43.000Z",
+      "articleId": "832586e25cbe24ae"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-lichtenstein-an-actual-monarchy",
       "title": "Is Lichtenstein an actual monarchy?",
@@ -554,17 +577,6 @@
       "summary": "A guest post by Daniel Böttger",
       "publishedAt": "2026-09-02T05:51:22.000Z",
       "articleId": "0190d956c4e56065"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/america-is-still-poised-for-a-data-center-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=america-is-still-poised-for-a-data-center-boom",
-      "title": "America is still poised for a data center boom",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/america-is-still-poised-for-a-data-center-boom.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Eric Levitz, via Matt Yglesias.",
-      "publishedAt": "2026-09-02T04:33:26.000Z",
-      "articleId": "60f15b90530d232f"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/53jdzpckn8j19nhzzw3q.html",
@@ -1973,34 +1985,23 @@
       "summary": "A few weeks ago the 21st Century ROAD to Housing Act became law. This is an enormous housing bill that’s been in the works for roughly a year — I first discussed it on Statecraft back in 2025 — and folks are optimistic that it will, per its description, “increase the supply of housing in America.”",
       "publishedAt": "2026-08-06T12:02:32.000Z",
       "articleId": "85b0bf63171f68b5"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
-      "title": "Are the Democrats going to save us this time?",
-      "url": "https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "And if not, what do we do?",
-      "publishedAt": "2026-08-06T07:14:01.000Z",
-      "articleId": "c8739bbc826bacff"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
-    "title": "DC-area forecast: Muggy tonight with a few showers possible Saturday, then nicer",
-    "url": "https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
+    "title": "DC-area forecast: A few showers around today, mostly beautiful Sunday and Labor Day",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Happening now: In the 70s this evening with an isolated shower or rumble possible through the overnight. Muggy lows in the upper 60s to mid-70s.",
-    "publishedAt": "2026-09-04T09:00:14.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Our final day of hot and humid conditions, with potentially strong storms.",
-    "articleId": "2a4c8ec757ea705a"
+    "summary": "HAPPENING NOW: Temperatures move through the 70s this morning before slightly less muggy afternoon highs in the low to mid-80s. Mostly to partly cloudy with a few spotty showers possible, especially south and west.",
+    "publishedAt": "2026-09-05T09:00:07.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
+    "articleId": "2d5d602b9eaadec0"
   },
-  "weatherGeneratedAt": "2026-09-05T05:41:19.643Z",
+  "weatherGeneratedAt": "2026-09-05T10:30:01.667Z",
   "weatherError": null,
   "sources": [
     {
