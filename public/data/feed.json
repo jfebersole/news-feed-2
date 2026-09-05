@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T22:20:04.764Z",
-  "fetchedAt": "2026-09-04T22:20:04.759Z",
+  "generatedAt": "2026-09-05T00:53:47.719Z",
+  "fetchedAt": "2026-09-05T00:53:47.713Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 811,
@@ -13,7 +13,7 @@
       "sourceUrl": "https://www.slowboring.com/",
       "access": "paywalled",
       "paywallType": "full",
-      "summary": "Join us at Barrel House at 6 p.m. on September 9.",
+      "summary": "Join us!",
       "publishedAt": "2026-09-04T22:00:35.000Z",
       "articleId": "e9a077db768c63f6"
     },
@@ -1988,19 +1988,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
-    "title": "DC-area forecast: Muggy with a shower possible tonight, then gradually improving for holiday weekend",
+    "title": "DC-area forecast: Muggy tonight with a few showers possible Saturday, then nicer",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-friday-with-another-storm-chance-then-improving-for-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures range from rain-cooled mid-70s to toasty mid-80s this evening as storms move away. Skies turn clearer with time, perhaps setting up a pretty sunset.",
+    "summary": "HAPPENING NOW: Happening now: In the 70s this evening with an isolated shower or rumble possible through the overnight. Muggy lows in the upper 60s to mid-70s.",
     "publishedAt": "2026-09-04T09:00:14.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Our final day of hot and humid conditions, with potentially strong storms.",
     "articleId": "2a4c8ec757ea705a"
   },
-  "weatherGeneratedAt": "2026-09-04T22:20:04.764Z",
+  "weatherGeneratedAt": "2026-09-05T00:53:47.719Z",
   "weatherError": null,
   "sources": [
     {
