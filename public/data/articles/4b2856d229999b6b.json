@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html",
+  "source": "Marginal Revolution",
+  "title": "The Kalshi Citizen Debt Forecast (CDF)",
+  "subtitle": null,
+  "byline": "Alex Tabarrok",
+  "publishedAt": "2026-09-05T11:15:52.000Z",
+  "contentHtml": "<p><a href=\"https://kalshi.com/research/mission\" target=\"_blank\" rel=\"noopener noreferrer\">Kalshi Research</a> is doing interesting work on the fundamentals of prediction markets and also on how data from prediction markets can be used to improve other forecasts. Economists at the Fed, for example, recently wrote <a href=\"https://www.federalreserve.gov/econres/feds/files/2026010pap.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Kalshi and the Rise of Macro Markets</a> finding:</p>\n<blockquote><p>Prediction markets offer a new market-based approach to measuring macroeconomic expectations in real-time. We evaluate the accuracy of prediction market-implied forecasts from Kalshi, the largest federally regulated prediction market overseen by the CFTC. We compare Kalshi with more traditional survey and market-implied forecasts, examine how expectations respond to macroeconomic and financial news, and how policy signals are interpreted by market participants. Our results suggest that Kalshi markets provide a high-frequency, continuously updated, distributionally rich benchmark that is valuable to both researchers and policymakers.</p></blockquote>\n<p>Kalshi gives one example of how this data might be used, t<a href=\"https://kalshi.com/citizen-debt-forecast\" target=\"_blank\" rel=\"noopener noreferrer\">he Citizen Debt Forecast (CDF)</a>. The CBO forecasts the future debt path but it updates only twice a year and is limited to a legislative baseline even when most observers expect, for example, taxes to increase or spending to be cut. The Kalshi CDF updates continuously and can build in market expectations about future legislative changes.</p>\n<p>The Kalshi forecast, as seen below, is slightly more optimistic than the CBO forecast but I don’t read too much into that. The larger issue is how prediction market data can be integrated into a wide variety of forecasts.</p>\n<p><img src=\"https://marginalrevolution.com/wp-content/uploads/2026/09/kalshi.png\" width=\"1167\" height=\"724\" loading=\"lazy\" decoding=\"async\"></p>",
+  "wordCount": 232,
+  "imageCount": 1,
+  "linkCount": 3
+}

@@ -1,10 +1,56 @@
 {
-  "generatedAt": "2026-09-05T10:30:01.667Z",
-  "fetchedAt": "2026-09-05T10:30:01.659Z",
+  "generatedAt": "2026-09-05T13:50:45.341Z",
+  "fetchedAt": "2026-09-05T13:50:45.339Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 811,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-return-of-institutional-purpose",
+      "title": "The return of institutional purpose",
+      "url": "https://www.slowboring.com/p/the-return-of-institutional-purpose",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Generative A.I. gives institutions the chance to re-evaluate their values.",
+      "publishedAt": "2026-09-05T13:02:15.000Z",
+      "articleId": "601e27c7d80437a9"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09052026",
+      "title": "Reading List - 09/05/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09052026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "SpaceX’s turbine blade factory, Fervo’s deal with Google, Delhi’s cheap metro, why recycling is overrated, and more.",
+      "publishedAt": "2026-09-05T12:03:33.000Z",
+      "articleId": "5f46217533f9a111"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-citizen-debt-forecast-cdf",
+      "title": "The Kalshi Citizen Debt Forecast (CDF)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Kalshi Research is doing interesting work on the fundamentals of prediction markets and also on how data from prediction markets can be used to improve other forecasts. Economists at the Fed, for example, recently wrote Kalshi and the Rise of Macro Markets finding: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in […]",
+      "publishedAt": "2026-09-05T11:15:52.000Z",
+      "articleId": "4b2856d229999b6b"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-aug-31-sept-4-2026",
+      "title": "The Week That Was (Aug. 31-Sept. 4, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-aug-31-sept-4-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-09-05T09:00:53.000Z",
+      "articleId": "0d1a968e87bba132"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-still-beating-china-in",
       "title": "America is still beating China in the AI race",
@@ -512,17 +558,6 @@
       "articleId": "0ef48f095b129227"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-569",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-569.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Ruxandra on AI and the remaining roles for humans. 2. The buildings of university architecture departments. Most of them I like. 3. Dean Ball on the coming of untethered AI agents. 4. How accurate are Ed Zitron’s AI skeptic predictions? 5. Atlas: model the world. 6. In 2012 some Advent church staged a variety […]",
-      "publishedAt": "2026-09-02T15:27:57.000Z",
-      "articleId": "ed35bd2db889e28e"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/just-bury-your-trash",
       "title": "Just bury your trash",
       "url": "https://www.worksinprogress.news/p/just-bury-your-trash",
@@ -554,18 +589,6 @@
       "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
       "publishedAt": "2026-09-02T10:00:00.000Z",
       "articleId": "e23816de1025b3fb"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-chiefs-are-going-to-be-nfl-main",
-      "title": "The Chiefs Are Going To Be NFL Main Characters Again, Aren’t They?",
-      "url": "https://neilpaine.substack.com/p/the-chiefs-are-going-to-be-nfl-main",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The luck finally turned ALL the way against Kansas City last season. History says things probably won’t stay that way.",
-      "publishedAt": "2026-09-02T09:01:14.000Z",
-      "articleId": "fb24780e0d248188"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
@@ -1040,18 +1063,6 @@
       "summary": "...",
       "publishedAt": "2026-08-27T07:16:18.000Z",
       "articleId": "6fb8a8f208e6a490"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/as-one-housing-reform-works-in-texas",
-      "title": "As one housing reform works in Texas, another in Colorado hits a budgetary hitch",
-      "url": "https://www.slowboring.com/p/as-one-housing-reform-works-in-texas",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "What happens to the push for more housing when the budget dries up?",
-      "publishedAt": "2026-08-26T22:01:33.000Z",
-      "articleId": "00e8777d158fa646"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
@@ -1974,34 +1985,23 @@
       "summary": "The limits of breeding for speed",
       "publishedAt": "2026-08-06T14:10:29.000Z",
       "articleId": "e4873ca721eac48f"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
-      "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
-      "url": "https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A few weeks ago the 21st Century ROAD to Housing Act became law. This is an enormous housing bill that’s been in the works for roughly a year — I first discussed it on Statecraft back in 2025 — and folks are optimistic that it will, per its description, “increase the supply of housing in America.”",
-      "publishedAt": "2026-08-06T12:02:32.000Z",
-      "articleId": "85b0bf63171f68b5"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
-    "title": "DC-area forecast: A few showers around today, mostly beautiful Sunday and Labor Day",
+    "title": "DC-area forecast: Some showers around today, mostly beautiful Sunday and Labor Day",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures move through the 70s this morning before slightly less muggy afternoon highs in the low to mid-80s. Mostly to partly cloudy with a few spotty showers possible, especially south and west.",
+    "summary": "HAPPENING NOW: Temperatures move through the 70s this morning before slightly less muggy afternoon highs in the low to mid-80s. Lots of clouds with some showers and a rumble chance focused about 11 a.m. to 3 p.m., especially southwestern and southern parts of the area or south of that.",
     "publishedAt": "2026-09-05T09:00:07.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
     "articleId": "2d5d602b9eaadec0"
   },
-  "weatherGeneratedAt": "2026-09-05T10:30:01.667Z",
+  "weatherGeneratedAt": "2026-09-05T13:50:45.341Z",
   "weatherError": null,
   "sources": [
     {
