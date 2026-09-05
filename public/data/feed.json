@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-05T16:48:10.841Z",
-  "fetchedAt": "2026-09-05T16:48:10.837Z",
+  "generatedAt": "2026-09-05T19:01:21.557Z",
+  "fetchedAt": "2026-09-05T19:01:21.552Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 174,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html?utm_source=rss&utm_medium=rss&utm_campaign=short-videos-big-self-control-problems",
+      "title": "Short Videos, Big Self-Control Problems",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I study how short-form design amplifies self-control problems in digital media. Short units repeatedly renew temptation that lasts longer than each unit, turning local temptation into sustained overconsumption. Using microdata from a U.S. short-drama platform, I exploit a nonlinear top-up menu to infer viewing plans and show that paying users watch 82.1% more than intended. […]",
+      "publishedAt": "2026-09-05T18:11:39.000Z",
+      "articleId": "68e4bb10f8b0c338"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-588",
       "title": "Saturday assorted links",
@@ -477,17 +488,6 @@
       "summary": "1. “Some crazy stats from this new JEL paper: – IV est. average 3–10x OLS (meta analysis) – Sign. results 30x more likely to be published in experimental econ (Andrews & Kasy) –",
       "publishedAt": "2026-09-03T06:35:53.000Z",
       "articleId": "563e7673ee0fb686"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-michael-moritz",
-      "title": "My excellent Conversation with Michael Moritz",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-michael-moritz.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Michael Moritz has written books through every phase of his life: the first history of Apple and an account of Chrysler’s near-death while he was a journalist at Time, a study of Alex Ferguson’s Manchester United in the middle of his 38 years at […]",
-      "publishedAt": "2026-09-03T04:43:15.000Z",
-      "articleId": "320257c1f375b64d"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/announcing-still-counting-with-galen",
@@ -1962,18 +1962,6 @@
       "summary": "...",
       "publishedAt": "2026-08-07T04:44:32.000Z",
       "articleId": "1ddeb2776b1a65fa"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/people-sadly-enjoy-ai-generated-music",
-      "title": "People Like AI-Generated Music",
-      "url": "https://www.cantgetmuchhigher.com/p/people-sadly-enjoy-ai-generated-music",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "So, what should we do about it?",
-      "publishedAt": "2026-08-06T17:30:35.000Z",
-      "articleId": "c28b91d6cdf6fac9"
     }
   ],
   "weather": {
@@ -1988,10 +1976,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
-    "articleId": "2d5d602b9eaadec0"
+    "articleId": "2d5d602b9eaadec0",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-05T16:48:10.841Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-05T19:01:21.557Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
