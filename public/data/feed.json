@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T21:10:13.339Z",
-  "fetchedAt": "2026-09-05T21:10:13.334Z",
+  "generatedAt": "2026-09-05T23:50:46.407Z",
+  "fetchedAt": "2026-09-05T23:50:46.404Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 810,
@@ -1966,19 +1966,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
-    "title": "DC-area forecast: A few lingering showers or a storm tonight; then much-improved holiday weather",
+    "title": "DC-area forecast: A shower chance west and south this evening; nice Sunday and Labor Day",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Late afternoon and early evening temperatures near 80 with some clouds around and slowly improving humidity. A few brief rains linger tonight, but the bulk should focus west and south of the Beltway.",
+    "summary": "HAPPENING NOW: Evening temperatures dip through the 70s with some clouds around and slowly improving humidity. A few brief rains are possible this evening, mainly west and south of the Beltway.",
     "publishedAt": "2026-09-05T09:00:07.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
     "articleId": "2d5d602b9eaadec0"
   },
-  "weatherGeneratedAt": "2026-09-05T21:10:13.339Z",
+  "weatherGeneratedAt": "2026-09-05T23:50:46.407Z",
   "weatherError": null,
   "sources": [
     {
