@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-05T00:53:47.719Z",
-  "fetchedAt": "2026-09-05T00:53:47.713Z",
+  "generatedAt": "2026-09-05T05:41:19.643Z",
+  "fetchedAt": "2026-09-05T05:41:19.638Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 811,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-lichtenstein-an-actual-monarchy",
+      "title": "Is Lichtenstein an actual monarchy?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It seems so: Internal documents reviewed by the FT show that three days earlier, behind the walls of Vaduz Castle, Europe’s wealthiest ruling dynasty had quietly approved an overhaul that strengthens the authority of a prince who already wields extraordinary power over his 42,000 citizens, while reducing some of the rights and checks exercised by […]",
+      "publishedAt": "2026-09-05T05:14:01.000Z",
+      "articleId": "9f7af3c5bfd556df"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
       "title": "Slow Boring D.C. happy hour on Wednesday",
@@ -554,17 +565,6 @@
       "summary": "Eric Levitz, via Matt Yglesias.",
       "publishedAt": "2026-09-02T04:33:26.000Z",
       "articleId": "60f15b90530d232f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html?utm_source=rss&utm_medium=rss&utm_campaign=the-college-wage-premium-in-the-generative-ai-era",
-      "title": "The College Wage Premium in the Generative AI Era",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "After expanding for four decades, the U.S. college wage premium is experiencing a sustained contraction, dropping sharply from 0.626 in 2022 to 0.575 in 2026. Using Current Population Survey Outgoing Rotation Group data through 2026, we show that standard market-clearing supply-and demand accounting implies an unprecedented drop in relative demand for college labor-the first sustained […]",
-      "publishedAt": "2026-09-02T04:27:08.000Z",
-      "articleId": "77ff0c6aee5df89b"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/53jdzpckn8j19nhzzw3q.html",
@@ -2000,7 +2000,7 @@
     "dailyDigitSummary": "Our final day of hot and humid conditions, with potentially strong storms.",
     "articleId": "2a4c8ec757ea705a"
   },
-  "weatherGeneratedAt": "2026-09-05T00:53:47.719Z",
+  "weatherGeneratedAt": "2026-09-05T05:41:19.643Z",
   "weatherError": null,
   "sources": [
     {
