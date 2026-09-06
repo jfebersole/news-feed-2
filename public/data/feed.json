@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-06T09:22:29.142Z",
-  "fetchedAt": "2026-09-06T09:22:29.134Z",
+  "generatedAt": "2026-09-06T13:39:04.870Z",
+  "fetchedAt": "2026-09-06T13:39:04.865Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "title": "Pete Hegseth Is a Wrecking Ball",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "We are already paying a high price for the defense secretary’s purges and whims.",
+      "publishedAt": "2026-09-06T10:00:25.000Z",
+      "articleId": "80f3b4ddc44fb0d0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html?utm_source=rss&utm_medium=rss&utm_campaign=why-not-bolivia",
       "title": "*Why Not Bolivia?*",
@@ -1940,17 +1951,6 @@
       "summary": "Why wage inflation is what matters",
       "publishedAt": "2026-08-07T14:25:10.000Z",
       "articleId": "ece35cfcbe6c5b57"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
-      "title": "Is Odell Beckham Jr. doing enough to earn spot on Giants' wide receiver depth chart?",
-      "url": "https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Malik Nabers is the clear No. 1. But beyond him, the Giants' wide receiver depth chart is wide open.",
-      "publishedAt": "2026-08-07T10:00:54.000Z",
-      "articleId": "6a3b130cd87c75d7"
     }
   ],
   "weather": {
@@ -1967,7 +1967,7 @@
     "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
     "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-09-06T09:22:29.142Z",
+  "weatherGeneratedAt": "2026-09-06T13:39:04.870Z",
   "weatherError": null,
   "sources": [
     {
