@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T04:30:24.018Z",
-  "fetchedAt": "2026-09-06T04:30:24.006Z",
+  "generatedAt": "2026-09-06T09:22:29.142Z",
+  "fetchedAt": "2026-09-06T09:22:29.134Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 173,
   "totalItemCount": 810,
   "items": [
     {
@@ -1951,34 +1951,23 @@
       "summary": "Malik Nabers is the clear No. 1. But beyond him, the Giants' wide receiver depth chart is wide open.",
       "publishedAt": "2026-08-07T10:00:54.000Z",
       "articleId": "6a3b130cd87c75d7"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
-      "title": "MacGregor The Bridge Builder",
-      "url": "https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-07T04:44:32.000Z",
-      "articleId": "1ddeb2776b1a65fa"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
-    "title": "DC-area forecast: A shower chance west and south this evening; nice Sunday and Labor Day",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-few-showers-around-today-but-a-mostly-beautiful-holiday-weekend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-bright-and-beautiful-through-labor-day-warming-midweek/",
+    "title": "DC-area forecast: Bright and beautiful through Labor Day; warming midweek",
+    "url": "https://www.capitalweather.com/dc-area-forecast-bright-and-beautiful-through-labor-day-warming-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures dip through the 70s with some clouds around and slowly improving humidity. A few brief rains are possible this evening, mainly west and south of the Beltway.",
-    "publishedAt": "2026-09-05T09:00:07.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
-    "articleId": "2d5d602b9eaadec0"
+    "summary": "HAPPENING NOW: Mostly sunny and less humid today. After starting in the 60s this morning, we'll reach afternoon highs in the glorious upper 70s to low 80s.",
+    "publishedAt": "2026-09-06T09:00:37.000Z",
+    "dailyDigit": 9,
+    "dailyDigitLabel": "9/10",
+    "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
+    "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-09-06T04:30:24.018Z",
+  "weatherGeneratedAt": "2026-09-06T09:22:29.142Z",
   "weatherError": null,
   "sources": [
     {
