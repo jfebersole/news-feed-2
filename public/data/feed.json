@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-06T16:58:44.759Z",
-  "fetchedAt": "2026-09-06T16:58:44.748Z",
+  "generatedAt": "2026-09-06T19:07:25.029Z",
+  "fetchedAt": "2026-09-06T19:07:25.025Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-daf",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-daf",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-09-06T17:01:38.000Z",
+      "articleId": "43287c0896ac7588"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-577",
       "title": "Sunday assorted links",
@@ -1065,18 +1077,6 @@
       "articleId": "5036473080343363"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-anti-social-century-with-derek",
-      "title": "The “anti-social century” with Derek Thompson",
-      "url": "https://www.slowboring.com/p/the-anti-social-century-with-derek",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "What happens as people spend more and more time alone?",
-      "publishedAt": "2026-08-27T09:02:08.000Z",
-      "articleId": "112b50d01dba74ed"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/take-the-2026-acx-survey",
       "title": "Take The 2026 ACX Survey",
       "url": "https://www.astralcodexten.com/p/take-the-2026-acx-survey",
@@ -1967,7 +1967,7 @@
     "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
     "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-09-06T16:58:44.759Z",
+  "weatherGeneratedAt": "2026-09-06T19:07:25.029Z",
   "weatherError": null,
   "sources": [
     {
