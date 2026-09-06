@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-06T19:07:25.029Z",
-  "fetchedAt": "2026-09-06T19:07:25.025Z",
+  "generatedAt": "2026-09-06T21:20:58.413Z",
+  "fetchedAt": "2026-09-06T21:20:58.409Z",
   "sourceCount": 24,
-  "itemCount": 173,
-  "totalItemCount": 810,
+  "itemCount": 171,
+  "totalItemCount": 808,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-140",
+      "title": "Insurance price sentences to ponder",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "NYU Stern researcher @NateWitkin questions why cyber insurance rates keep falling if AI cyber risk is accelerating: “Insurance rates for cyber risk declined by about 4% globally in Q2 of this year, and that’s actually the 12th consecutive quarter in which they’ve declined. This is very valuable signal that implies that at a minimum you […]",
+      "publishedAt": "2026-09-06T19:39:39.000Z",
+      "articleId": "4ce138bb6f824d39"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-daf",
       "title": "Sunday Thread + Mailbag",
@@ -400,17 +411,6 @@
       "articleId": "4ff4553d21e62e4e"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/722qr64h78vzr9udyg67.html",
-      "title": "Money Stuff: The Clippers Got Some Consulting",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/722qr64h78vzr9udyg67.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Clippers The National Basketball Association has rules limiting how much teams can pay players. There is a salary cap set by the league each year based on projected total “basketball-related income” for that year; for the upcoming season, the cap is about $165 million . Loosely speaking, a team is not supposed to pay players more than the salary cap, though there are exceptions. There are also caps on individual players’ pay; the most any individual player can get paid is 35% of the salary cap, or call it something like $58 million a year this year. [1] The point of these rules is to create competitive balance. Different NBA teams have different amounts of money, in part because some teams are more lucrative businesses than others and in part because some teams’ owners have more money than others from their non-basketball endeavors. For instance, by far the richest NBA owner is Steve Ballmer of the Los Angeles Clippers, the former chief executive officer of Microsoft Corp., whom Bloomberg ranks as the ninth-richest person in the world with a net worth of $173.5 billion. If he was allowed to spend freely on player salaries, then (1) he could hire all the best players at astronomical prices, (2) the Clippers would win the championship every year and (3) a bunch of regular-billionaire NBA owners might bankrupt themselves chasing him. So there’s a cap. Of course Ballmer might prefer not to be constrained by the cap. He owns the Clippers, presumably, because he thinks it would be cool to win NBA championships. If he could throw some players an extra $100 million a year, that would cost him almost nothing — 6 basis points of his net worth — and he’d be able to build a really good team by outbidding everyone else for the best players. If you think about this for five minutes, you could come up with ideas to get around the cap. The simplest idea goes like this: The Clippers call up a star free agent and say to him “we’d like to hire you to play for us. We’ll pay you the maximum salary, $58 million per year, which is what like six other teams are offering you. But, each year, Steve Ballmer will also give you $50 million, out of his own personal account, as a Christmas present. We, the Clippers, will pay you $58 million a year, complying with NBA rules. But you will receive $108 million a year.” We talk about this basic approach — paying a low nominal amount to keep under some limit , and then throwing in some sort of extra Christmas present — all the time . That’s too easy, though. The NBA thought about it, and the collective bargaining agreement — which sets the salary rules — prohibits it. [2] But, okay, you can do better. Basketball teams are big businesses, they do lots of business with other companies, and their owners do lots of business with other...",
-      "publishedAt": "2026-09-03T18:27:18.013Z",
-      "articleId": "e6bb54fb425e8d42"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/robot-startups-are-trying-everything",
       "title": "Robot startups are trying everything they can think of to get more data",
       "url": "https://www.understandingai.org/p/robot-startups-are-trying-everything",
@@ -454,17 +454,6 @@
       "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-09-03T15:50:14.806Z",
       "articleId": "66c396105d9be857"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/numbers-numbers-numbers.html?utm_source=rss&utm_medium=rss&utm_campaign=numbers-numbers-numbers",
-      "title": "Numbers, numbers, numbers",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/numbers-numbers-numbers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "“The global cyber insurance market was worth nearly $15 billion last year and is expected to reach roughly $28 billion by 2030, Munich Re estimated in its latest report. Aon said earlier this year that nearly 20% of cyberattacks will involve generative AI by 2027, according to its forecasts.” Here is the article, via Marc […]",
-      "publishedAt": "2026-09-03T15:37:40.000Z",
-      "articleId": "ac449698ae3cd50c"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
@@ -557,17 +546,6 @@
       "summary": "Dividend shuffle Let’s say you own stock in a company that has announced that it will pay a $2 per share dividend to anyone who holds the stock on Wednesday. On Tuesday, the stock closes at $100 per share. If you buy the stock on Tuesday, you receive it on Wednesday — this is called “ T+1 settlement ” — so you are a shareholder as of Wednesday and get the dividend. If you buy the stock on Wednesday, though, you don’t actually get the stock until Thursday, so you miss the dividend. (Wednesday is the “ ex date ,” the first day on which you don’t get the dividend if you buy the stock. [1] ) In theory, ceteris paribus, the stock should trade at $98 on Wednesday to reflect the fact that you don’t get the dividend. The stock’s price on Tuesday represents (1) the value of the stock plus (2) the $2 dividend; the price on Wednesday represents (1) roughly the same value for the same stock plus (2) no dividend. So $100 on Tuesday, $98 on Wednesday. Ceteris paribus. Many countries tax dividends in ways that are bad for foreign investors. In the US, for instance, many foreign investors face a 30% withholding tax on dividend income. And so there is a large financial-industry subculture of finding ways to transform “dividends” into something else that gets better tax treatment. Many of these trades are done with swaps or other derivatives, but here is a very simple one: You are a foreign investor, you own a share of stock, it’s going to pay a $2 dividend, you do not want to “receive” the “dividend” for tax reasons, but you don’t want to give up the $2 either. On Tuesday at 11:59 p.m., just before the dividend ex date, you sell your stock for $100. On Wednesday at 12:01 a.m., you buy it back for $98, and keep the other $2. Now you have the same share of stock that you had before, plus $2. Your $2 is not , however, a dividend. It’s just the result of selling stock at one price and buying it back at another. It’s just capital gains, which are not subject to withholding tax. That’s pretty good: You sell the stock just before it pays the dividend, and buy it back just after. In theory, ceteris paribus, the stock will go down by $2 — exactly the amount of the dividend — in the two minutes between when you sell and when you buy it back, so your sale price will exceed your repurchase price by exactly the amount of the dividend. You will cash out the amount of the dividend, but it will not be a dividend. This trade is not quite practical, though, because you can’t really sell your stock at 11:59 (with the dividend) and buy it back at 12:01 (without the dividend). Liquidity is bad at midnight, and even 24-hour-ish stock markets take little breaks to update their computers, so this trade might be difficult to execute. More important, stock trades in the overnight session do...",
       "publishedAt": "2026-09-02T18:33:37.703Z",
       "articleId": "9f7cd1d33b9823b7"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a23s3oi4r0xv13spjtgn.html",
-      "title": "Money Stuff: The ETF Dividend Flip",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a23s3oi4r0xv13spjtgn.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Dividend shuffle Let’s say you own stock in a company that has announced that it will pay a $2 per share dividend to anyone who holds the stock on Wednesday. On Tuesday, the stock closes at $100 per share. If you buy the stock on Tuesday, you receive it on Wednesday — this is called “ T+1 settlement ” — so you are a shareholder as of Wednesday and get the dividend. If you buy the stock on Wednesday, though, you don’t actually get the stock until Thursday, so you miss the dividend. (Wednesday is the “ ex date ,” the first day on which you don’t get the dividend if you buy the stock. [1] ) In theory, ceteris paribus, the stock should trade at $98 on Wednesday to reflect the fact that you don’t get the dividend. The stock’s price on Tuesday represents (1) the value of the stock plus (2) the $2 dividend; the price on Wednesday represents (1) roughly the same value for the same stock plus (2) no dividend. So $100 on Tuesday, $98 on Wednesday. Ceteris paribus. Many countries tax dividends in ways that are bad for foreign investors. In the US, for instance, many foreign investors face a 30% withholding tax on dividend income. And so there is a large financial-industry subculture of finding ways to transform “dividends” into something else that gets better tax treatment. Many of these trades are done with swaps or other derivatives, but here is a very simple one: You are a foreign investor, you own a share of stock, it’s going to pay a $2 dividend, you do not want to “receive” the “dividend” for tax reasons, but you don’t want to give up the $2 either. On Tuesday at 11:59 p.m., just before the dividend ex date, you sell your stock for $100. On Wednesday at 12:01 a.m., you buy it back for $98, and keep the other $2. Now you have the same share of stock that you had before, plus $2. Your $2 is not , however, a dividend. It’s just the result of selling stock at one price and buying it back at another. It’s just capital gains, which are not subject to withholding tax. That’s pretty good: You sell the stock just before it pays the dividend, and buy it back just after. In theory, ceteris paribus, the stock will go down by $2 — exactly the amount of the dividend — in the two minutes between when you sell and when you buy it back, so your sale price will exceed your repurchase price by exactly the amount of the dividend. You will cash out the amount of the dividend, but it will not be a dividend. This trade is not quite practical, though, because you can’t really sell your stock at 11:59 (with the dividend) and buy it back at 12:01 (without the dividend). Liquidity is bad at midnight, and even 24-hour-ish stock markets take little breaks to update their computers, so this trade might be difficult to execute. More important, stock trades in the overnight session do...",
-      "publishedAt": "2026-09-02T18:13:30.353Z",
-      "articleId": "b8cf315818dfa8e5"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/how-google-taught-llms-to-control",
@@ -1965,10 +1943,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
-    "articleId": "8f6319db2e7b9035"
+    "articleId": "8f6319db2e7b9035",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-06T19:07:25.029Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-06T21:20:58.413Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
