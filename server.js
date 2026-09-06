@@ -1245,7 +1245,67 @@ function dedupeByUrl(items) {
     }
   }
 
-  return [...seen.values()];
+  return dedupeRepeatedMoneyStuffDeliveries([...seen.values()]);
+}
+
+function dedupeRepeatedMoneyStuffDeliveries(items) {
+  const deduped = [];
+
+  for (const item of items) {
+    if (!String(item.source || "").toLowerCase().includes("money stuff")) {
+      deduped.push(item);
+      continue;
+    }
+
+    const duplicateIndex = deduped.findIndex((candidate) =>
+      isRepeatedMoneyStuffDelivery(candidate, item)
+    );
+    if (duplicateIndex < 0) {
+      deduped.push(item);
+      continue;
+    }
+
+    const current = deduped[duplicateIndex];
+    const currentDate = current.publishedAt ? Date.parse(current.publishedAt) : 0;
+    const candidateDate = item.publishedAt ? Date.parse(item.publishedAt) : 0;
+    if (candidateDate > currentDate) {
+      deduped[duplicateIndex] = item;
+    }
+  }
+
+  return deduped;
+}
+
+function isRepeatedMoneyStuffDelivery(first, second) {
+  if (
+    !String(first?.source || "").toLowerCase().includes("money stuff") ||
+    !String(second?.source || "").toLowerCase().includes("money stuff")
+  ) {
+    return false;
+  }
+
+  const firstTitle = cleanText(first.title).toLowerCase();
+  const secondTitle = cleanText(second.title).toLowerCase();
+  if (!firstTitle || firstTitle !== secondTitle) {
+    return false;
+  }
+
+  const firstDate = first.publishedAt ? Date.parse(first.publishedAt) : Number.NaN;
+  const secondDate = second.publishedAt ? Date.parse(second.publishedAt) : Number.NaN;
+  const sixHoursMs = 6 * 60 * 60 * 1000;
+  if (!Number.isFinite(firstDate) || !Number.isFinite(secondDate) || Math.abs(firstDate - secondDate) > sixHoursMs) {
+    return false;
+  }
+
+  const firstContent = String(first.feedContentHtml || "").trim();
+  const secondContent = String(second.feedContentHtml || "").trim();
+  if (firstContent && secondContent) {
+    return firstContent === secondContent;
+  }
+
+  const firstSummary = cleanText(first.summary || first.description || "");
+  const secondSummary = cleanText(second.summary || second.description || "");
+  return firstSummary.length >= 80 && firstSummary === secondSummary;
 }
 
 async function fetchText(url, timeoutMs = 12_000, options = {}) {
@@ -2895,7 +2955,7 @@ function cleanupMoneyStuffContentHtml(contentHtml, baseUrl) {
 
   let startIndex = blocks.findIndex((block) => {
     const text = cleanText(block).toLowerCase();
-    return /<h[2-6]\b/i.test(block) && text.length >= 12 && !isMoneyStuffBoilerplateText(text);
+    return /<h[2-6]\b/i.test(block) && text.length >= 3 && !isMoneyStuffBoilerplateText(text);
   });
 
   if (startIndex < 0) {
@@ -3544,6 +3604,7 @@ export {
   canonicalizeUrl,
   classifyFeedItemAccess,
   cleanFeedSummary,
+  dedupeByUrl,
   excludeFeedItemsByUrl,
   extractDailyDigit,
   extractArticleFromHtml,

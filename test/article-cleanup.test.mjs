@@ -28,6 +28,27 @@ test("removes the promotional image tail from fetched Money Stuff articles", () 
   assert.equal(article.imageCount, 1);
 });
 
+test("keeps short opening section headings in fetched Money Stuff articles", () => {
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head><title>Money Stuff: The Clippers Got Some Consulting</title></head><body><article>
+        <p><a href="https://example.com/browser">View in browser</a></p>
+        <h2>Clippers</h2>
+        <p>The National Basketball Association has rules limiting how much teams can pay players.</p>
+        <h2>DAT empty voting</h2>
+        <p>There is an idea in corporate governance called empty voting.</p>
+      </article></body></html>
+    `,
+    url: "https://kill-the-newsletter.com/feeds/money/entries/clippers.html",
+    sourceName: "Money Stuff (Bloomberg)",
+  });
+
+  assert.match(article.contentHtml, /<h2>Clippers<\/h2>/);
+  assert.match(article.contentHtml, /National Basketball Association/);
+  assert.match(article.contentHtml, /DAT empty voting/);
+  assert.ok(article.contentHtml.indexOf("Clippers") < article.contentHtml.indexOf("DAT empty voting"));
+});
+
 test("flattens fetched Brew Shop email layout tables into reader blocks", () => {
   const article = extractArticleFromHtml({
     html: `
