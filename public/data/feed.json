@@ -1,32 +1,1191 @@
 {
-  "generatedAt": "2026-08-25T13:07:41.810Z",
-  "fetchedAt": "2026-08-25T13:07:41.806Z",
-  "sourceCount": 23,
-  "itemCount": 164,
-  "totalItemCount": 786,
+  "generatedAt": "2026-09-06T19:07:25.029Z",
+  "fetchedAt": "2026-09-06T19:07:25.025Z",
+  "sourceCount": 24,
+  "itemCount": 173,
+  "totalItemCount": 810,
   "items": [
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
-      "title": "Towards a New House of Lords",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html",
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-daf",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-daf",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-09-06T17:01:38.000Z",
+      "articleId": "43287c0896ac7588"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-577",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html",
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "In Britain, the House of Lords was traditionally dominated by hereditary peers–a right bequeathed by the monarch, sometimes in ancient times, to sit in the House of Lords that was transmitted generationally. That system has been withering away for decades, however, and was finally ended this year by the 2026 Hereditary Peers Act. So how […]",
-      "publishedAt": "2026-08-25T11:18:22.000Z",
-      "articleId": "0179a043b07eacb7"
+      "summary": "1. Vishy now thinks Pragg is number one in the chess world. 2. Do children grow continuously, or grow in fits and starts? 3. It remains my view that Ferrante is the husband and wife team. 4. Essay on Olaf Stapledon. 5. “US annual interest expense is up to a record 18.5% of federal government […]",
+      "publishedAt": "2026-09-06T16:33:49.000Z",
+      "articleId": "14eb779881762a8c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
-      "title": "The Western water crisis has a simple solution",
-      "url": "https://www.slowboring.com/p/the-western-water-crisis-has-a-simple",
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-this-it-a-conversation-with-steven",
+      "title": "Is This It: A Conversation with Steven Hyden",
+      "url": "https://www.cantgetmuchhigher.com/p/is-this-it-a-conversation-with-steven",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Strokes debut album turns 25, so Steven Hyden popped by to talk about it",
+      "publishedAt": "2026-09-06T14:31:26.000Z",
+      "articleId": "575dfd8c84df1e73"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "title": "Pete Hegseth Is a Wrecking Ball",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "We are already paying a high price for the defense secretary’s purges and whims.",
+      "publishedAt": "2026-09-06T10:00:25.000Z",
+      "articleId": "80f3b4ddc44fb0d0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html?utm_source=rss&utm_medium=rss&utm_campaign=why-not-bolivia",
+      "title": "*Why Not Bolivia?*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Calvin Korponai, and the subtitle is From Macchu Picchu into Bolivia in search of the Garden of Eden. Bolivia is a fantastic country to visit, more original than most people are expecting, and this is the book to tell you why. Excerpt: The landscape itself is like noting else in the Americas. […]",
+      "publishedAt": "2026-09-06T04:27:11.000Z",
+      "articleId": "ca9eb5b71ed13414"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html?utm_source=rss&utm_medium=rss&utm_campaign=short-videos-big-self-control-problems",
+      "title": "Short Videos, Big Self-Control Problems",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I study how short-form design amplifies self-control problems in digital media. Short units repeatedly renew temptation that lasts longer than each unit, turning local temptation into sustained overconsumption. Using microdata from a U.S. short-drama platform, I exploit a nonlinear top-up menu to infer viewing plans and show that paying users watch 82.1% more than intended. […]",
+      "publishedAt": "2026-09-05T18:11:39.000Z",
+      "articleId": "68e4bb10f8b0c338"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-588",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Joaquin Rodrigo’s Toccata. Rodrigo by the way was blind, 2. China word of the day. 3. “People Keep Sneaking Into New York City Sewers. No One Knows Why.” (NYT) 4. Yiyang Zhuge has postponed her recording session with CWT, in case you will be wondering why the episode does not show up soon. 5. […]",
+      "publishedAt": "2026-09-05T15:50:35.000Z",
+      "articleId": "21741b8ceef88297"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-return-of-institutional-purpose",
+      "title": "The return of institutional purpose",
+      "url": "https://www.slowboring.com/p/the-return-of-institutional-purpose",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
       "access": "paywalled",
       "paywallType": "partial",
-      "summary": "Stop giving the majority of the water away to farmers for almost nothing!",
-      "publishedAt": "2026-08-25T10:02:01.000Z",
-      "articleId": "5dc500bf2150f5ff"
+      "summary": "Generative A.I. gives institutions the chance to re-evaluate their values.",
+      "publishedAt": "2026-09-05T13:02:15.000Z",
+      "articleId": "601e27c7d80437a9"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09052026",
+      "title": "Reading List - 09/05/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09052026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "SpaceX’s turbine blade factory, Fervo’s deal with Google, Delhi’s cheap metro, why recycling is overrated, and more.",
+      "publishedAt": "2026-09-05T12:03:33.000Z",
+      "articleId": "5f46217533f9a111"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-citizen-debt-forecast-cdf",
+      "title": "The Kalshi Citizen Debt Forecast (CDF)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Kalshi Research is doing interesting work on the fundamentals of prediction markets and also on how data from prediction markets can be used to improve other forecasts. Economists at the Fed, for example, recently wrote Kalshi and the Rise of Macro Markets finding: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in […]",
+      "publishedAt": "2026-09-05T11:15:52.000Z",
+      "articleId": "4b2856d229999b6b"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-aug-31-sept-4-2026",
+      "title": "The Week That Was (Aug. 31-Sept. 4, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-aug-31-sept-4-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-09-05T09:00:53.000Z",
+      "articleId": "0d1a968e87bba132"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+      "title": "America is still beating China in the AI race",
+      "url": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The U.S. is staying ahead, though the costs of that lead are still unknown.",
+      "publishedAt": "2026-09-05T07:36:17.000Z",
+      "articleId": "eba5e2d6af7ef14f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/mein-ingeborg-bachmann-studium.html?utm_source=rss&utm_medium=rss&utm_campaign=mein-ingeborg-bachmann-studium",
+      "title": "Mein Ingeborg Bachmann Studium",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mein-ingeborg-bachmann-studium.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Recently I finished read Malina, by Ingeborg Bachmann, an Austrian novel published in 1971. I was pretty stunned by how good it was (it seems less good in English), and I would say I enjoyed it more, and found it deeper, than any of the famous 19th century Victorian novels by women. The initial story […]",
+      "publishedAt": "2026-09-05T07:18:43.000Z",
+      "articleId": "832586e25cbe24ae"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-lichtenstein-an-actual-monarchy",
+      "title": "Is Lichtenstein an actual monarchy?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It seems so: Internal documents reviewed by the FT show that three days earlier, behind the walls of Vaduz Castle, Europe’s wealthiest ruling dynasty had quietly approved an overhaul that strengthens the authority of a prince who already wields extraordinary power over his 42,000 citizens, while reducing some of the rights and checks exercised by […]",
+      "publishedAt": "2026-09-05T05:14:01.000Z",
+      "articleId": "9f7af3c5bfd556df"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
+      "title": "Slow Boring D.C. happy hour on Wednesday",
+      "url": "https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Join us!",
+      "publishedAt": "2026-09-04T22:00:35.000Z",
+      "articleId": "e9a077db768c63f6"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
+      "title": "Democrats just got one seat closer to retaking the House",
+      "url": "https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Missouri’s new old map has diminished Republicans’ redistricting gains.",
+      "publishedAt": "2026-09-04T20:48:39.000Z",
+      "articleId": "3a016f906010c03a"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
+      "title": "Your Book Review: The Tale Of Genji",
+      "url": "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #8 in the Book Review Contest",
+      "publishedAt": "2026-09-04T19:34:24.000Z",
+      "articleId": "a45fa6dac81ac7dd"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/friction-and-feedback/",
+      "title": "2026.36: Friction and Feedback",
+      "url": "https://stratechery.com/2026/friction-and-feedback/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
+      "publishedAt": "2026-09-04T17:55:39.000Z",
+      "articleId": "9fed8de6a5bc6173"
+    },
+    {
+      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/uc3c1m1fn20arltmopdc.html",
+      "title": "Bring Japan Home With You (Japanese Pantry Staples) | Kenji Eats Japan",
+      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/uc3c1m1fn20arltmopdc.html",
+      "source": "J. Kenji López-Alt",
+      "sourceUrl": "https://frienji.kenjilopezalt.com/",
+      "access": "open",
+      "summary": "Bring Japan Home With You (Japanese Pantry Staples) | Kenji Eats Japan Follow along as we walk you through every aisle in a Japanese grocery store for a complete guide on stocking your pantry. This extended cut is exclusi... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Bring Japan Home With You (Japanese Pantry Staples) | Kenji Eats Japan J. Kenji López-Alt Sep 4, 2026 View in app View in app Follow along as we walk you through every aisle in a Japanese grocery store for a complete guide on stocking your pantry. This extended cut is exclusive for Patreon! Hi Frienjis, Community & Content Manager Erin here with our very last episode of the Kenji Eats Japan series! Earlier this year, our team traveled to Japan in search of good food and even better kitchen knives (get the full story here). We knew we had to bring some of that culinary magic back for you. That’s why, today, we’re walking you through how to make that a reality with Kenji’s ultimate guide on How to Stock a Japanese Pantry. Kenji Ate Japan… Now You Can, Too! If you’re at all familiar with Japanese cuisine, you might be able to guess some of the basics Kenji will recommend: Soy sauce, miso paste, dashi, maybe a shiso leaf if you’re feeling fancy. But unlike most pantry hauls, this one is not just scratching the surface. With the help of our local Japanese grocery store, we walked down each aisle and covered everything from ginkgo nuts and shungiku...",
+      "publishedAt": "2026-09-04T17:18:22.547Z",
+      "articleId": "3db0f06b7778dc73"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/how-are-the-market-valuations-for-the-u-s-insurers-doing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-are-the-market-valuations-for-the-u-s-insurers-doing",
+      "title": "How are the market valuations for the U.S: insurers doing?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-are-the-market-valuations-for-the-u-s-insurers-doing.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "U.S. insurance stocks have been doing quite well since the beginning of May 2026, and they have materially outperformed the overall market. I’m using the May 1 close through the September 3 close so that we compare complete trading days; these are price changes, excluding dividends. The cleanest broad measure is the iShares U.S. Insurance […]",
+      "publishedAt": "2026-09-04T17:07:14.000Z",
+      "articleId": "7a4a9a30ecc79261"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/19-robotics-companies-to-watch",
+      "title": "19 robotics companies to watch",
+      "url": "https://www.understandingai.org/p/19-robotics-companies-to-watch",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "I talked with nine of these companies.",
+      "publishedAt": "2026-09-04T16:04:09.000Z",
+      "articleId": "1abeaea49cd467ef"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-589",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. “After work, we’ll have each other.” 2. Gloria Steinem, RIP (NYT). 3. Henry Oliver on Finding Emily. 4. Solve for the Russian family squabble equilibrium (short video). 5. New Fuchsia Dunlop book due out October 20. 6. The O-Ring model, restated for AI. 7. Joshua Saxe on AI safety. 8. The pig kidney worked […]",
+      "publishedAt": "2026-09-04T15:38:16.000Z",
+      "articleId": "40bc263bf7285bdf"
+    },
+    {
+      "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/pho-thin-13-lo-duc/",
+      "title": "Pho Thin 13 Lo Duc",
+      "url": "https://tylercowensethnicdiningguide.com/index.php/pho-thin-13-lo-duc/",
+      "source": "Tyler Cowen's Ethnic Dining Guide",
+      "sourceUrl": "https://tylercowensethnicdiningguide.com/",
+      "access": "open",
+      "summary": "Pho Thin, 13 Lo Duc, web site, 7263H Arlington Blvd., Falls Church, VA, Graham Park Plaza, (571) 746-8446 (Metro Trip Planner – opens in new window) [Google | Washingtonian | Reddit] Has there been anything new in the Pho arena … Continue reading →",
+      "publishedAt": "2026-09-04T14:17:00.000Z",
+      "articleId": "b012b10ddf21f7b0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html?utm_source=rss&utm_medium=rss&utm_campaign=real-gdp-per-capita-and-the-standard-of-living",
+      "title": "Real GDP Per Capita and the Standard of Living",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We are freshening up some of our videos with updated data so now is a good time to remind everyone that Modern Principles of Economics is best principles of economics textbook; great videos, clear writing and excellent applications and examples!",
+      "publishedAt": "2026-09-04T11:20:26.000Z",
+      "articleId": "6c897aab7418f1dd"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/you-cant-blame-housing-shortages",
+      "title": "You can’t blame housing shortages for literally everything",
+      "url": "https://www.slowboring.com/p/you-cant-blame-housing-shortages",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus alternate Reconstructions, saving D.C. real estate, and the truth about Tupac",
+      "publishedAt": "2026-09-04T10:03:10.000Z",
+      "articleId": "d794b0bdd7918026"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
+      "title": "Gauging John Harbaugh's impact and what to expect in Week 1",
+      "url": "https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Question topics include the team's offensive scheme and possible Week 1 inactive selections.",
+      "publishedAt": "2026-09-04T10:00:30.000Z",
+      "articleId": "ea65ab2f843c641b"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "articleId": "17f1523692159674"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/why-regression-to-the-mean-may-be",
+      "title": "Why Regression to the Mean May Be the Cowboys’ Secret Weapon",
+      "url": "https://neilpaine.substack.com/p/why-regression-to-the-mean-may-be",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Dallas was historically lopsided in 2025. But that may be exactly why a 2026 rebound is easier to engineer than it seems.",
+      "publishedAt": "2026-09-04T09:02:31.000Z",
+      "articleId": "cad64d994f6a0a07"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html?utm_source=rss&utm_medium=rss&utm_campaign=shout-it-from-the-rooftops-of-the-data-centers",
+      "title": "Shout it from the rooftops (of the data centers)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Data-center investment has become one of the largest capital-expenditure cycles in financial markets, with U.S. hyperscalers expected to deploy roughly $700 billion in 2026. This investment boom has raised concerns that large computing loads impose external costs on households through higher electricity prices. Using a 50-state panel for 2021-2024, we find no statistically significant evidence […]",
+      "publishedAt": "2026-09-04T06:52:26.000Z",
+      "articleId": "f333a7f7b8b21d91"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html?utm_source=rss&utm_medium=rss&utm_campaign=more-numbers-for-the-hugging-face-incident",
+      "title": "Share price numbers for the Hugging Face incident",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "…major publicly traded cybersecurity firms lost roughly $65–80 billion, or about 8–10% of their combined value, in the days following disclosure of the Hugging Face/OpenAI incident; by early September they had recovered roughly $58 billion, representing about 70–90% of that drawdown, depending on whether July 15 or July 20 is used as the pre-event baseline. […]",
+      "publishedAt": "2026-09-04T04:27:38.000Z",
+      "articleId": "b07f80bed4465b6c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/astra-doing-poetry.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-doing-poetry",
+      "title": "Astra, doing poetry",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/astra-doing-poetry.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "One prompt, no cherry-picking: TC: “Now a short poem in the style of the very best Rilke, in German:” Die Hand im Schlaf Nun liegt sie offen. Alles, was sie hielt, ist in die eigne Schwere heimgekehrt. Nur eine kleine Höhlung bleibt, als hätte ein Vogel hier geruht und sie gelehrt, auch das Entwichene noch […]",
+      "publishedAt": "2026-09-03T22:11:50.000Z",
+      "articleId": "0b24601c9f923eea"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
+      "title": "Beware big swings in midterm forecasts",
+      "url": "https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "As Labor Day approaches, we’re entering the traditional stretch run of the campaign. But history says the national picture probably won’t change much before Election Day.",
+      "publishedAt": "2026-09-03T20:35:36.000Z",
+      "articleId": "9be40bb7a97e289a"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "This is my third and final essay looking at the 21st Century ROAD to Housing Act, and how it’s likely to affect housing supply.",
+      "publishedAt": "2026-09-03T19:20:13.000Z",
+      "articleId": "8facf845228cff10"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pxhzk4jxgt0ivvuc14rt.html",
+      "title": "Money Stuff: The Clippers Got Some Consulting",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/pxhzk4jxgt0ivvuc14rt.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Clippers The National Basketball Association has rules limiting how much teams can pay players. There is a salary cap set by the league each year based on projected total “basketball-related income” for that year; for the upcoming season, the cap is about $165 million . Loosely speaking, a team is not supposed to pay players more than the salary cap, though there are exceptions. There are also caps on individual players’ pay; the most any individual player can get paid is 35% of the salary cap, or call it something like $58 million a year this year. [1] The point of these rules is to create competitive balance. Different NBA teams have different amounts of money, in part because some teams are more lucrative businesses than others and in part because some teams’ owners have more money than others from their non-basketball endeavors. For instance, by far the richest NBA owner is Steve Ballmer of the Los Angeles Clippers, the former chief executive officer of Microsoft Corp., whom Bloomberg ranks as the ninth-richest person in the world with a net worth of $173.5 billion. If he was allowed to spend freely on player salaries, then (1) he could hire all the best players at astronomical prices, (2) the Clippers would win the championship every year and (3) a bunch of regular-billionaire NBA owners might bankrupt themselves chasing him. So there’s a cap. Of course Ballmer might prefer not to be constrained by the cap. He owns the Clippers, presumably, because he thinks it would be cool to win NBA championships. If he could throw some players an extra $100 million a year, that would cost him almost nothing — 6 basis points of his net worth — and he’d be able to build a really good team by outbidding everyone else for the best players. If you think about this for five minutes, you could come up with ideas to get around the cap. The simplest idea goes like this: The Clippers call up a star free agent and say to him “we’d like to hire you to play for us. We’ll pay you the maximum salary, $58 million per year, which is what like six other teams are offering you. But, each year, Steve Ballmer will also give you $50 million, out of his own personal account, as a Christmas present. We, the Clippers, will pay you $58 million a year, complying with NBA rules. But you will receive $108 million a year.” We talk about this basic approach — paying a low nominal amount to keep under some limit , and then throwing in some sort of extra Christmas present — all the time . That’s too easy, though. The NBA thought about it, and the collective bargaining agreement — which sets the salary rules — prohibits it. [2] But, okay, you can do better. Basketball teams are big businesses, they do lots of business with other companies, and their owners do lots of business with other...",
+      "publishedAt": "2026-09-03T18:47:18.826Z",
+      "articleId": "01dc456ad80100f5"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/and-it-begins-a-good-start.html?utm_source=rss&utm_medium=rss&utm_campaign=and-it-begins-a-good-start",
+      "title": "And it begins…(a good start…)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/and-it-begins-a-good-start.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Wall Street banks are pushing large law firms to cut fees, arguing that the business model that has enriched top lawyers for decades is not sustainable in an era of AI. Morgan Stanley and Citigroup have told major law firms they want to set up new payment arrangements that would save them money, the banks’ […]",
+      "publishedAt": "2026-09-03T18:42:21.000Z",
+      "articleId": "4ff4553d21e62e4e"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/722qr64h78vzr9udyg67.html",
+      "title": "Money Stuff: The Clippers Got Some Consulting",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/722qr64h78vzr9udyg67.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Clippers The National Basketball Association has rules limiting how much teams can pay players. There is a salary cap set by the league each year based on projected total “basketball-related income” for that year; for the upcoming season, the cap is about $165 million . Loosely speaking, a team is not supposed to pay players more than the salary cap, though there are exceptions. There are also caps on individual players’ pay; the most any individual player can get paid is 35% of the salary cap, or call it something like $58 million a year this year. [1] The point of these rules is to create competitive balance. Different NBA teams have different amounts of money, in part because some teams are more lucrative businesses than others and in part because some teams’ owners have more money than others from their non-basketball endeavors. For instance, by far the richest NBA owner is Steve Ballmer of the Los Angeles Clippers, the former chief executive officer of Microsoft Corp., whom Bloomberg ranks as the ninth-richest person in the world with a net worth of $173.5 billion. If he was allowed to spend freely on player salaries, then (1) he could hire all the best players at astronomical prices, (2) the Clippers would win the championship every year and (3) a bunch of regular-billionaire NBA owners might bankrupt themselves chasing him. So there’s a cap. Of course Ballmer might prefer not to be constrained by the cap. He owns the Clippers, presumably, because he thinks it would be cool to win NBA championships. If he could throw some players an extra $100 million a year, that would cost him almost nothing — 6 basis points of his net worth — and he’d be able to build a really good team by outbidding everyone else for the best players. If you think about this for five minutes, you could come up with ideas to get around the cap. The simplest idea goes like this: The Clippers call up a star free agent and say to him “we’d like to hire you to play for us. We’ll pay you the maximum salary, $58 million per year, which is what like six other teams are offering you. But, each year, Steve Ballmer will also give you $50 million, out of his own personal account, as a Christmas present. We, the Clippers, will pay you $58 million a year, complying with NBA rules. But you will receive $108 million a year.” We talk about this basic approach — paying a low nominal amount to keep under some limit , and then throwing in some sort of extra Christmas present — all the time . That’s too easy, though. The NBA thought about it, and the collective bargaining agreement — which sets the salary rules — prohibits it. [2] But, okay, you can do better. Basketball teams are big businesses, they do lots of business with other companies, and their owners do lots of business with other...",
+      "publishedAt": "2026-09-03T18:27:18.013Z",
+      "articleId": "e6bb54fb425e8d42"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/robot-startups-are-trying-everything",
+      "title": "Robot startups are trying everything they can think of to get more data",
+      "url": "https://www.understandingai.org/p/robot-startups-are-trying-everything",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Free apartment cleanings, exoskeletons, 100 robots in a warehouse...",
+      "publishedAt": "2026-09-03T18:16:36.000Z",
+      "articleId": "89688d4818292e48"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/are-albums-obsolete-in-the-streaming",
+      "title": "Are Albums Obsolete in the Streaming Era? A Statistical Analysis",
+      "url": "https://www.cantgetmuchhigher.com/p/are-albums-obsolete-in-the-streaming",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Daniel Parris weighs in on an age old debate",
+      "publishedAt": "2026-09-03T17:31:09.000Z",
+      "articleId": "d8a59eaaa65264d5"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
+      "title": "Who’s the Snowflake Now?",
+      "url": "https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Marco Rubio is taking the wrong approach to free speech.",
+      "publishedAt": "2026-09-03T17:00:09.000Z",
+      "articleId": "71160a20c153eee6"
+    },
+    {
+      "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/8plb304an98vd75mmb7z.html",
+      "title": "The Brew Shop - Weekly Email Update",
+      "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/8plb304an98vd75mmb7z.html",
+      "source": "Brew Shop",
+      "sourceUrl": "https://www.arlbrew.com/",
+      "access": "open",
+      "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
+      "publishedAt": "2026-09-03T15:50:14.806Z",
+      "articleId": "66c396105d9be857"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/numbers-numbers-numbers.html?utm_source=rss&utm_medium=rss&utm_campaign=numbers-numbers-numbers",
+      "title": "Numbers, numbers, numbers",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/numbers-numbers-numbers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "“The global cyber insurance market was worth nearly $15 billion last year and is expected to reach roughly $28 billion by 2030, Munich Re estimated in its latest report. Aon said earlier this year that nearly 20% of cyberattacks will involve generative AI by 2027, according to its forecasts.” Here is the article, via Marc […]",
+      "publishedAt": "2026-09-03T15:37:40.000Z",
+      "articleId": "ac449698ae3cd50c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
+      "title": "Stop making up reasons to be mad",
+      "url": "https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A harmless old A.E.S. tweet, a paranoid anti-A.E.S. conspiracy theory, and the case for a mind of winter",
+      "publishedAt": "2026-09-03T10:02:11.000Z",
+      "articleId": "86d3d9b24ca52edb"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+      "title": "Why you won’t get a flying car",
+      "url": "https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A review of “Where is My Flying Car?”, by J. Storrs Hall, and some other thoughts on the future of technology.",
+      "publishedAt": "2026-09-03T09:55:22.000Z",
+      "articleId": "8b235d479ce6d7a3"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/is-there-a-liberal-center-should",
+      "title": "Is there a liberal center? Should there be?",
+      "url": "https://www.slowboring.com/p/is-there-a-liberal-center-should",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A conversation with Nate Silver and Jeremiah Johnson",
+      "publishedAt": "2026-09-03T09:02:12.000Z",
+      "articleId": "499d2d5f417b4e25"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/arte-morenos-angels-ownership-should",
+      "title": "Arte Moreno’s Angels Ownership Should Have Been a Golden Era. What Went Wrong?",
+      "url": "https://neilpaine.substack.com/p/arte-morenos-angels-ownership-should",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Angels had Mike Trout, Shohei Ohtani and plenty of money. Somehow, they turned all of it into MLB’s longest playoff drought.",
+      "publishedAt": "2026-09-03T09:01:32.000Z",
+      "articleId": "305b4b640cb40c79"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
+      "title": "College EA Meetups Everywhere: Times & Places",
+      "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-03T08:10:42.000Z",
+      "articleId": "60803d49fd242826"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/announcing-still-counting-with-galen",
+      "title": "Announcing “Still Counting” with Galen Druke and Clare Malone",
+      "url": "https://www.natesilver.net/p/announcing-still-counting-with-galen",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Our new podcast launches soon, and Silver Bulletin readers helped make it possible.",
+      "publishedAt": "2026-09-03T01:20:26.000Z",
+      "articleId": "79d29dc8ba8bf634"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/coalescence-or-no-alescence",
+      "title": "Coalescence or ... no-alescence",
+      "url": "https://www.slowboring.com/p/coalescence-or-no-alescence",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Candidates in Texas are being left out to dry by members of their own parties — even as their counterparts in Michigan are gaining support from unlikely places.",
+      "publishedAt": "2026-09-02T22:01:25.000Z",
+      "articleId": "852d6fc2a0b19854"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7gy9ajahlgjmvrfulqea.html",
+      "title": "Money Stuff: The ETF Dividend Flip",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7gy9ajahlgjmvrfulqea.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Dividend shuffle Let’s say you own stock in a company that has announced that it will pay a $2 per share dividend to anyone who holds the stock on Wednesday. On Tuesday, the stock closes at $100 per share. If you buy the stock on Tuesday, you receive it on Wednesday — this is called “ T+1 settlement ” — so you are a shareholder as of Wednesday and get the dividend. If you buy the stock on Wednesday, though, you don’t actually get the stock until Thursday, so you miss the dividend. (Wednesday is the “ ex date ,” the first day on which you don’t get the dividend if you buy the stock. [1] ) In theory, ceteris paribus, the stock should trade at $98 on Wednesday to reflect the fact that you don’t get the dividend. The stock’s price on Tuesday represents (1) the value of the stock plus (2) the $2 dividend; the price on Wednesday represents (1) roughly the same value for the same stock plus (2) no dividend. So $100 on Tuesday, $98 on Wednesday. Ceteris paribus. Many countries tax dividends in ways that are bad for foreign investors. In the US, for instance, many foreign investors face a 30% withholding tax on dividend income. And so there is a large financial-industry subculture of finding ways to transform “dividends” into something else that gets better tax treatment. Many of these trades are done with swaps or other derivatives, but here is a very simple one: You are a foreign investor, you own a share of stock, it’s going to pay a $2 dividend, you do not want to “receive” the “dividend” for tax reasons, but you don’t want to give up the $2 either. On Tuesday at 11:59 p.m., just before the dividend ex date, you sell your stock for $100. On Wednesday at 12:01 a.m., you buy it back for $98, and keep the other $2. Now you have the same share of stock that you had before, plus $2. Your $2 is not , however, a dividend. It’s just the result of selling stock at one price and buying it back at another. It’s just capital gains, which are not subject to withholding tax. That’s pretty good: You sell the stock just before it pays the dividend, and buy it back just after. In theory, ceteris paribus, the stock will go down by $2 — exactly the amount of the dividend — in the two minutes between when you sell and when you buy it back, so your sale price will exceed your repurchase price by exactly the amount of the dividend. You will cash out the amount of the dividend, but it will not be a dividend. This trade is not quite practical, though, because you can’t really sell your stock at 11:59 (with the dividend) and buy it back at 12:01 (without the dividend). Liquidity is bad at midnight, and even 24-hour-ish stock markets take little breaks to update their computers, so this trade might be difficult to execute. More important, stock trades in the overnight session do...",
+      "publishedAt": "2026-09-02T18:33:37.703Z",
+      "articleId": "9f7cd1d33b9823b7"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a23s3oi4r0xv13spjtgn.html",
+      "title": "Money Stuff: The ETF Dividend Flip",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/a23s3oi4r0xv13spjtgn.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Dividend shuffle Let’s say you own stock in a company that has announced that it will pay a $2 per share dividend to anyone who holds the stock on Wednesday. On Tuesday, the stock closes at $100 per share. If you buy the stock on Tuesday, you receive it on Wednesday — this is called “ T+1 settlement ” — so you are a shareholder as of Wednesday and get the dividend. If you buy the stock on Wednesday, though, you don’t actually get the stock until Thursday, so you miss the dividend. (Wednesday is the “ ex date ,” the first day on which you don’t get the dividend if you buy the stock. [1] ) In theory, ceteris paribus, the stock should trade at $98 on Wednesday to reflect the fact that you don’t get the dividend. The stock’s price on Tuesday represents (1) the value of the stock plus (2) the $2 dividend; the price on Wednesday represents (1) roughly the same value for the same stock plus (2) no dividend. So $100 on Tuesday, $98 on Wednesday. Ceteris paribus. Many countries tax dividends in ways that are bad for foreign investors. In the US, for instance, many foreign investors face a 30% withholding tax on dividend income. And so there is a large financial-industry subculture of finding ways to transform “dividends” into something else that gets better tax treatment. Many of these trades are done with swaps or other derivatives, but here is a very simple one: You are a foreign investor, you own a share of stock, it’s going to pay a $2 dividend, you do not want to “receive” the “dividend” for tax reasons, but you don’t want to give up the $2 either. On Tuesday at 11:59 p.m., just before the dividend ex date, you sell your stock for $100. On Wednesday at 12:01 a.m., you buy it back for $98, and keep the other $2. Now you have the same share of stock that you had before, plus $2. Your $2 is not , however, a dividend. It’s just the result of selling stock at one price and buying it back at another. It’s just capital gains, which are not subject to withholding tax. That’s pretty good: You sell the stock just before it pays the dividend, and buy it back just after. In theory, ceteris paribus, the stock will go down by $2 — exactly the amount of the dividend — in the two minutes between when you sell and when you buy it back, so your sale price will exceed your repurchase price by exactly the amount of the dividend. You will cash out the amount of the dividend, but it will not be a dividend. This trade is not quite practical, though, because you can’t really sell your stock at 11:59 (with the dividend) and buy it back at 12:01 (without the dividend). Liquidity is bad at midnight, and even 24-hour-ish stock markets take little breaks to update their computers, so this trade might be difficult to execute. More important, stock trades in the overnight session do...",
+      "publishedAt": "2026-09-02T18:13:30.353Z",
+      "articleId": "b8cf315818dfa8e5"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/how-google-taught-llms-to-control",
+      "title": "How Google taught LLMs to control robots and started a robotics boom",
+      "url": "https://www.understandingai.org/p/how-google-taught-llms-to-control",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Vision-language-action models, explained with a minimum of math and jargon.",
+      "publishedAt": "2026-09-02T16:24:29.000Z",
+      "articleId": "24e6c42312409b7f"
+    },
+    {
+      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/41g5mp4gep70o9eie40p.html",
+      "title": "Summer Tomatoes Shine with Shiso and Dashi | Kenji Eats Japan",
+      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/41g5mp4gep70o9eie40p.html",
+      "source": "J. Kenji López-Alt",
+      "sourceUrl": "https://frienji.kenjilopezalt.com/",
+      "access": "open",
+      "summary": "Summer Tomatoes Shine with Shiso and Dashi | Kenji Eats Japan A simple shoyu-dashi dressing, a mix of soy sauce and Japanese broth (powdered dashi works fine), makes an excellent seasoning for all kinds of summer... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Summer Tomatoes Shine with Shiso and Dashi | Kenji Eats Japan J. Kenji López-Alt Sep 2, 2026 View in app View in app A simple shoyu-dashi dressing, a mix of soy sauce and Japanese broth (powdered dashi works fine), makes an excellent seasoning for all kinds of summer vegetables or greens. Take this tomato salad I made a few weeks ago while visiting my sister in Bozeman. A trip to the farmers market turned up some gorgeous summer tomatoes and a few bunches of shiso. My normal move with really good tomatoes is a classic Caprese : tomatoes, fresh mozzarella, basil, olive oil, salt. But this time I came home with shiso instead of basil. They don’t taste particularly alike—shiso has a mild mintiness and a hint of eucalyptus to my nose—but they can occupy a similar space on the plate and the palate, and both are excellent with ripe tomatoes. I kept this dish very simple: Excellent tomatoes, roughly chopped shiso, and soy-dashi shaken with some extra-virgin olive oil. Tomatoes on their own are wonderfully savory, but with a light coating of dashi and soy, they're downright meaty. Recipe: Tomato and Shiso Salad with Shoyu-Dashi Dressing What I love about this recipe It...",
+      "publishedAt": "2026-09-02T16:10:08.797Z",
+      "articleId": "0ef48f095b129227"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/just-bury-your-trash",
+      "title": "Just bury your trash",
+      "url": "https://www.worksinprogress.news/p/just-bury-your-trash",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "What if everything we know about recycling is wrong?",
+      "publishedAt": "2026-09-02T12:07:13.000Z",
+      "articleId": "7b1097ca360e8c34"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
+      "title": "An easy way to give kids more freedom",
+      "url": "https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Apple should let kids use digital transit passes. They’re already riding the bus — make it easier!",
+      "publishedAt": "2026-09-02T10:03:20.000Z",
+      "articleId": "2d74d934eef7fdcf"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "title": "Fable 5.1, Enterprise Frontier Safeguards",
+      "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
+      "publishedAt": "2026-09-02T10:00:00.000Z",
+      "articleId": "e23816de1025b3fb"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
+      "title": "Absurd Adventure And Amygdalectomy Advocacy",
+      "url": "https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "A guest post by Daniel Böttger",
+      "publishedAt": "2026-09-02T05:51:22.000Z",
+      "articleId": "0190d956c4e56065"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/53jdzpckn8j19nhzzw3q.html",
+      "title": "Money Stuff: Amazon Charged the First Price",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/53jdzpckn8j19nhzzw3q.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Second price Amazon.com Inc. sells advertising on its site: If you search for something on Amazon, some of the results you see are “sponsored listings,” that is, advertisements from companies that want to sell you their products. Approximately speaking, the way Amazon sells those ads is with a second-price auction [1] : Advertisers submit sealed bids for each sponsored-product slot, the highest bidder wins, but the price that the winner pays is a tick more than the second- highest bid. So if there are three bidders who bid $10, $8 and $6 for a spot, the bidder who bids $10 wins, but it pays $8.01, a penny more than the second-best bid. [2] Second-price auctions are the normal way to sell online advertising, and the theory is that they give bidders better incentives to bid their real valuations than a normal auction where the winner pays the highest bid. How well this auction works depends on how many bidders there are. If 100 companies bid for each advertising spot, the auction is probably pretty competitive, the second-highest bid is probably pretty high, and you get an efficient auction whose price reflects the value of the ad. On the other hand, if only like two or three companies bid, you might get some inefficient auctions where the clearing price is pretty low. This comes up because Amazon does not actually sell ads to the highest bidder. In showing users sponsored listings, Amazon considers two factors: (1) who will pay the most for the ad and (2) how “relevant” the ad is to the user’s search. When a user searches for “paper towels,” she wants to see results for paper towels. It might be more lucrative to show her advertisements for, you know, Ponzi schemes; advertisers might be willing to pay more to show her non-paper-towel ads than they would to show her paper-towel ads. But that would be bad for Amazon’s business overall: Users would get annoyed if their search results were always wrong. Amazon says : Our early approach was simple: advertisers enter a bid, and if they win, they would pay just enough to beat the next highest ranked ad. Our auctions took relevancy into account to a degree, but they were much more weighted toward the highest bid amount. While we could have decided to continue to favor the higher bids, we instead chose to focus on more relevant bids to ensure the best possible shopper and advertiser experience. As our advanced machine learning-based relevance models more heavily weighted relevance versus highest bid, we saw winning bids drop significantly. That was good for advertisers and shoppers but meant premium placements in our Store were being undervalued. The rough intuition is: 100 companies were willing to pay for ads on each search, which produced a price that Amazon liked, but only 2 or 3 of them were advertising...",
+      "publishedAt": "2026-09-01T18:13:40.367Z",
+      "articleId": "ba36f2eebabca0f6"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7556301/2026/09/01/new-york-giants-mailbag-john-harbaugh-week-1/",
+      "title": "Submit your questions for Dan Duggan’s Giants mailbag",
+      "url": "https://www.nytimes.com/athletic/7556301/2026/09/01/new-york-giants-mailbag-john-harbaugh-week-1/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants kick off their season next Sunday night against the Dallas Cowboys.",
+      "publishedAt": "2026-09-01T17:39:34.000Z",
+      "articleId": "1b71616fd200f454"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/what-is-an-undervalued-currency",
+      "title": "What is an undervalued currency?",
+      "url": "https://scottsumner.substack.com/p/what-is-an-undervalued-currency",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Focus on fundamentals, not gimmicks",
+      "publishedAt": "2026-09-01T15:43:14.000Z",
+      "articleId": "2a36c1fa760192ee"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/early-2000s-europop-an-album-a-day",
+      "title": "Early 2000s Europop: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/early-2000s-europop-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Kylie Minogue, Robyn, Vengaboys, and more",
+      "publishedAt": "2026-09-01T13:31:29.000Z",
+      "articleId": "72e5c712ae395352"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "title": "Why humanoid robots won’t catch up to human workers any time soon",
+      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "A deep dive into the current state of humanoid robotics.",
+      "publishedAt": "2026-09-01T12:52:39.000Z",
+      "articleId": "a757f4cc32ea7cf0"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/republicans-have-a-big-midterm-cash",
+      "title": "Republicans have a big midterm cash advantage",
+      "url": "https://www.slowboring.com/p/republicans-have-a-big-midterm-cash",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Democrats have alienated billionaires without winning back the working class.",
+      "publishedAt": "2026-09-01T10:03:20.000Z",
+      "articleId": "91190f8596f183e4"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+      "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+      "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "articleId": "1ddd1704d48a4eb1"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nicholas-decker-in-hell",
+      "title": "Nicholas Decker In Hell",
+      "url": "https://www.astralcodexten.com/p/nicholas-decker-in-hell",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-01T07:37:05.000Z",
+      "articleId": "b5ab24f6acc877ba"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-87-technology-bad",
+      "title": "Roundup #87: Technology BAD!!",
+      "url": "https://www.noahpinion.blog/p/roundup-87-technology-bad",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The Hugging Face attack; TV and loneliness; Leftist antisemitism; Another Acemoglu paper; The Electric Revolution",
+      "publishedAt": "2026-09-01T02:26:19.000Z",
+      "articleId": "d7df509b6517d2fb"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
+      "title": "The many ways to build more housing",
+      "url": "https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A judge blocks HUD and California stacks up YIMBY wins. Commercial conversions and A.I. show different paths to more housing, while rent control gets in the way.",
+      "publishedAt": "2026-08-31T22:01:29.000Z",
+      "articleId": "76457c48e6579a14"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
+      "title": "Riding the Aussie Dog. Again.",
+      "url": "https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "From Darwin to Alice Springs on a bus for twenty-two hours",
+      "publishedAt": "2026-08-31T18:24:44.000Z",
+      "articleId": "4de010b32220c40c"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3d45ixdloazeoc5gddrl.html",
+      "title": "Money Stuff: Don’t Hedge the KPIs",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/3d45ixdloazeoc5gddrl.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "LSU KPI hedge We talked last week about a proposal by Cboe Global Markets Inc. to list binary options on key performance indicators (KPIs). A “key performance indicator” is a measurable value that shows how well an organization is achieving its goals. Cboe wants to list options on KPIs for public companies, things like net income or revenue or, in the case of a car company, how many cars it makes. These KPIs tend to demonstrate how well the company is creating shareholder value, and so they correlate with stock price. Not perfectly — a car company can make more cars in a way that is bad for shareholders — but as a rough approximation. We also talked about KPIs for public companies that happen to be sports teams, like Madison Square Garden Sports Corp., which owns the New York Knicks. The obvious KPI for the Knicks is how many basketball games they win. I suggested that there’s probably some correlation between basketball wins and business success, writing that “if the Knicks do great, MSGS makes more money selling tickets and whatever; if the Knicks are terrible MSGS makes less money.” One purpose of KPIs is to measure and reward employee performance: You figure out what you want from a division manager, you set some KPIs to reflect those goals, and then if she hits those KPIs you pay her a bonus. Senior corporate executives will often get bonuses based on achieving company-wide KPIs like revenue growth or profit margin. Elon Musk gets a bonus at Tesla Inc. for delivering a million robotaxis . A company that promises its chief executive officer a bonus for hitting her KPIs is taking on some financial risk. The risk is like: “If our CEO succeeds in selling a million cars, we have to pay her a $20 million bonus; if she doesn’t, we don’t.” Twenty million dollars is a lot of money, and you could imagine the company wanting to hedge that risk. Perhaps it could go to Cboe and buy a contract — on its own car deliveries — that pays it $20 million if it sells a million cars, and $0 if it doesn’t. Now it is hedged; it is indifferent between hitting the KPI (and paying the bonus) and not hitting the KPI (and not paying the bonus). Except this is stupid? The company (1) is not indifferent between hitting the KPI and not hitting the KPI and (2) obviously shouldn’t be . The company wants to sell a million cars. Selling a million cars is good: The company set “sell a million cars” as a goal because it thought that would be correlated with increasing shareholder value. The reason the company promised to pay its CEO a $20 million bonus for selling a million cars, and $0 for failing to sell a million cars, is because the company expected to be better off, financially , in the state of the world where it sells a million cars, even after paying the bonus. [1] And so...",
+      "publishedAt": "2026-08-31T18:18:03.047Z",
+      "articleId": "3a86929f3989376d"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "title": "What Dolly Did for Tennessee Is What She Did for the World",
+      "url": "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The country singer is a champion of the written word. And medicine. And …",
+      "publishedAt": "2026-08-31T18:01:59.000Z",
+      "articleId": "c1fc14d0da1c6fe8"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
+      "title": "I spent $4,000 on a robot dog from China",
+      "url": "https://www.understandingai.org/p/i-spent-4000-on-a-robot-dog-from",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "publishedAt": "2026-08-31T13:57:26.000Z",
+      "articleId": "e6ba11d15395fd90"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/a-cops-case-for-flock",
+      "title": "A cop’s case for Flock",
+      "url": "https://www.worksinprogress.news/p/a-cops-case-for-flock",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "People are right to want less police intrusion in their lives",
+      "publishedAt": "2026-08-31T13:40:20.000Z",
+      "articleId": "a128a31867140635"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/democrats-should-vow-to-surrender",
+      "title": "Democrats should vow to surrender in the Canada trade war",
+      "url": "https://www.slowboring.com/p/democrats-should-vow-to-surrender",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Good politics, good policy, and the search for a peaceful world require complete repudiation of this nonsense.",
+      "publishedAt": "2026-08-31T10:03:38.000Z",
+      "articleId": "6327ef7f0e4fbbee"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+      "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+      "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
+      "publishedAt": "2026-08-31T10:00:00.000Z",
+      "articleId": "e04e2b6477820454"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7551353/2026/08/30/new-york-giants-roster-53-odell-beckham-2026/",
+      "title": "Giants 53-man roster breakdown: Odell Beckham Jr. is back; what comes next for NY?",
+      "url": "https://www.nytimes.com/athletic/7551353/2026/08/30/new-york-giants-roster-53-odell-beckham-2026/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants' depth is still lacking in a few key areas. They’re fifth in the waiver claim pecker order; what positions might they target?",
+      "publishedAt": "2026-08-31T00:57:48.000Z",
+      "articleId": "ae92f441839efa29"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/agency-and-agents",
+      "title": "Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "From the Hugging Face Incident to Twilight Factories",
+      "publishedAt": "2026-08-31T00:24:35.000Z",
+      "articleId": "0cce3296bceb61c6"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-03e",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-03e",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-08-30T17:00:51.000Z",
+      "articleId": "f28f7f9eb3753a23"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
+      "title": "Rockabye Baby: A Conversation with Lisa Roth",
+      "url": "https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Lisa Roth stopped by to talk about how she revolutionized music for children",
+      "publishedAt": "2026-08-30T14:31:00.000Z",
+      "articleId": "9510ab32455b269a"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
+      "title": "In defense of Asian American art",
+      "url": "https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "People are creating some very interesting and original stuff!",
+      "publishedAt": "2026-08-30T00:15:19.000Z",
+      "articleId": "795738cca0e8ef05"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/everything-is-country",
+      "title": "Everything is country",
+      "url": "https://www.slowboring.com/p/everything-is-country",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "How a once-loathed genre became the sound of America",
+      "publishedAt": "2026-08-29T13:01:51.000Z",
+      "articleId": "13448adc3da9fd43"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082926",
+      "title": "Reading List 08/29/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082926",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic flooding in Nepal, and more.",
+      "publishedAt": "2026-08-29T12:03:07.000Z",
+      "articleId": "c534dc612628aa55"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544926/2026/08/29/giants-53-man-roster-projection-odell-beckham-jr-tyrone-tracy/",
+      "title": "Giants 53-man roster projection: Are Odell Beckham Jr. and Tyrone Tracy Jr. safe?",
+      "url": "https://www.nytimes.com/athletic/7544926/2026/08/29/giants-53-man-roster-projection-odell-beckham-jr-tyrone-tracy/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Beyond the big names, the Giants have some tricky decisions to make along the offensive line, as well as at tight end and cornerback.",
+      "publishedAt": "2026-08-29T11:00:58.000Z",
+      "articleId": "db18557a57f304bb"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
+      "title": "A tour of the 9 key governor races",
+      "url": "https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Democrats are almost certain to govern more Americans than Republicans, but can they flip swing states like Georgia?",
+      "publishedAt": "2026-08-28T19:59:24.000Z",
+      "articleId": "b5a7d25ff6885e7e"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
+      "title": "Your Book Review: Thomas Urquhart’s Translation Of Rabelais",
+      "url": "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #7 in the Book Review Contest",
+      "publishedAt": "2026-08-28T17:32:14.000Z",
+      "articleId": "ad3048b493f0b87e"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/august-2026-links",
+      "title": "August 2026 links",
+      "url": "https://scottsumner.substack.com/p/august-2026-links",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus brief thoughts on Jackson Hole",
+      "publishedAt": "2026-08-28T17:06:46.000Z",
+      "articleId": "ef30eaeec38822a3"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/internet-hype-and-real-world-change/",
+      "title": "2026.35: Internet Hype and Real World Change",
+      "url": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
+      "publishedAt": "2026-08-28T17:00:00.000Z",
+      "articleId": "9ca25d2874fd5063"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
+      "title": "American transit is bad because of scope creep",
+      "url": "https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Who benefits when we ask transit to pursue social goals?",
+      "publishedAt": "2026-08-28T14:18:03.000Z",
+      "articleId": "b640106ad849b032"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
+      "title": "Giants by the numbers: Just how grueling was John Harbaugh's training camp?",
+      "url": "https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Harbaugh has packed in 21 practices during Giants camp. In the same time frame last year, the Giants practiced 15 times.",
+      "publishedAt": "2026-08-28T10:15:05.000Z",
+      "articleId": "86cd290243a2ba29"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-great-awokening-started-in-2014",
+      "title": "The Great Awokening started in 2014, not 2020",
+      "url": "https://www.slowboring.com/p/the-great-awokening-started-in-2014",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus price controls, a lot of Maine stuff, and what a 2028 anti-MAGA insurgency could look like",
+      "publishedAt": "2026-08-28T10:01:02.000Z",
+      "articleId": "e42b1cb8ebcdba88"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
+      "title": "Here’s how we’re all going to die",
+      "url": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Spoiler: It’s vibe-coded superviruses.",
+      "publishedAt": "2026-08-28T09:48:43.000Z",
+      "articleId": "8138d20dd2a472a0"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
+      "title": "There Is a Sickness Worse Than Wokeness",
+      "url": "https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The anti-woke movement’s “cure” was more intolerance and more repression.",
+      "publishedAt": "2026-08-27T23:49:06.000Z",
+      "articleId": "b25ed1d0a9e1af3b"
+    },
+    {
+      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/owhw5ya1tdmyqym1s352.html",
+      "title": "How to Sharpen a Dull Knife",
+      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/owhw5ya1tdmyqym1s352.html",
+      "source": "J. Kenji López-Alt",
+      "sourceUrl": "https://frienji.kenjilopezalt.com/",
+      "access": "open",
+      "summary": "How to Sharpen a Dull Knife A dull knife is both frustrating and dangerous in the kitchen. Follow these steps—along with the visual instruction in the video above—to learn everyt... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now How to Sharpen a Dull Knife J. Kenji López-Alt Aug 27, 2026 View in app View in app A dull knife is both frustrating and dangerous in the kitchen. Follow these steps—along with the visual instruction in the video above—to learn everything you need to know about honing and sharpening knives. The other day I was slicing up some chicken thighs in order to turn them into tsukune (Japanese chicken meatballs, which you can find my recipe for here). At least, that’s what I was trying to do. As anyone who has seen that video knows, however, what was really happening was that my knife blade was slipping and sliding around on the tough, slick skin. The knife was clearly in need of a good sharpening, and that’s what we’re talking about today. But first... How do I know when my knife is dull? The first indication is difficulty finding purchase in a vegetable without either slipping off the skin, requiring excessive force, or deforming and crushing it instead of slicing. When chopping pungent vegetables like onions or garlic, you’ll notice much more moisture coming out of them and a stronger odor as cells are crushed instead of cleaved. Delicate herbs like basil or parsley turn dark and leave green...",
+      "publishedAt": "2026-08-27T17:28:46.897Z",
+      "articleId": "be20fd1ffec055ba"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/no-one-sings-about-kalamazoo-anymore",
+      "title": "No One Sings About Kalamazoo Anymore",
+      "url": "https://www.cantgetmuchhigher.com/p/no-one-sings-about-kalamazoo-anymore",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Where have all the city songs gone?",
+      "publishedAt": "2026-08-27T17:16:21.000Z",
+      "articleId": "a56facefdfd70751"
+    },
+    {
+      "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/rao8wgy94wxkmlxgo78s.html",
+      "title": "The Brew Shop - Weekly Email Update",
+      "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/rao8wgy94wxkmlxgo78s.html",
+      "source": "Brew Shop",
+      "sourceUrl": "https://www.arlbrew.com/",
+      "access": "open",
+      "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
+      "publishedAt": "2026-08-27T16:27:04.166Z",
+      "articleId": "73d5a49e0c646685"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
+      "title": "How the Strategic Petroleum Reserve Works",
+      "url": "https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "The US Strategic Petroleum Reserve (SPR) is the largest crude oil storage facility in the world.",
+      "publishedAt": "2026-08-27T12:03:58.000Z",
+      "articleId": "8fbebf38766ccb95"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/politics-should-be-more-boring",
+      "title": "Politics should be more boring",
+      "url": "https://www.slowboring.com/p/politics-should-be-more-boring",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "It’s like drilling hard boards; it’s not supposed to be entertaining.",
+      "publishedAt": "2026-08-27T10:02:58.000Z",
+      "articleId": "5036473080343363"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/take-the-2026-acx-survey",
+      "title": "Take The 2026 ACX Survey",
+      "url": "https://www.astralcodexten.com/p/take-the-2026-acx-survey",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-27T07:16:18.000Z",
+      "articleId": "6fb8a8f208e6a490"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
+      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Four years at Harvard won’t corrupt your children.",
+      "publishedAt": "2026-08-26T18:49:44.000Z",
+      "articleId": "e12791ef863cb68e"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
+      "title": "A future of programmable medicine",
+      "url": "https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "What if instead of editing a gene, or blocking the protein it produces, you could simply switch it off?",
+      "publishedAt": "2026-08-26T12:04:33.000Z",
+      "articleId": "c3fdda281a297838"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+      "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "articleId": "6ad1387d93c87df0"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-death-of-market-street",
+      "title": "The death of Market Street",
+      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "How San Francisco turned its most iconic street into a giant empty scar.",
+      "publishedAt": "2026-08-26T09:12:35.000Z",
+      "articleId": "9697dcd040e053f7"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
+      "title": "Giants slot receiver Calvin Austin III tears ACL, will miss 2026 season",
+      "url": "https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Giants wide receivers and defensive backs couldn’t even look as trainers attended to Austin.",
+      "publishedAt": "2026-08-25T19:14:56.000Z",
+      "articleId": "b4fb6e7d6ed5dd0a"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
+      "title": "Highlights From The Comments On The Substack Religion Debate",
+      "url": "https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-491",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-08-25T16:03:47.000Z",
+      "articleId": "5c6f89479b13add2"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
+      "title": "Do I really buy that Texas could turn blue?",
+      "url": "https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Some of the skepticism about James Talarico’s chances amounts to superstition. But I have one lingering concern about our forecast in Texas.",
+      "publishedAt": "2026-08-25T13:58:30.000Z",
+      "articleId": "6f6483088c252902"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
+      "title": "Q but No Queens: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Quiet Riot, Quinn XCII, and Quincy Jones, among others",
+      "publishedAt": "2026-08-25T13:31:24.000Z",
+      "articleId": "6cb6c65f1ac2e570"
+    },
+    {
+      "id": "Maximum Progress:https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
+      "title": "Contra Weisenthal on Highways",
+      "url": "https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
+      "source": "Maximum Progress",
+      "sourceUrl": "https://www.maximum-progress.com/",
+      "access": "open",
+      "summary": "Does it matter whether building more houses lowers prices not?",
+      "publishedAt": "2026-08-25T12:01:24.000Z",
+      "articleId": "1ec9c10e2b09d636"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
@@ -40,28 +1199,6 @@
       "articleId": "ae289739381deefa"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
-      "title": "Do Minimum Wages Help Workers in Poor and Low-Income Families?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse – rather than beneficial – effects of minimum wages on the employment, hours, […]",
-      "publishedAt": "2026-08-25T07:32:36.000Z",
-      "articleId": "eb4840479a414ee8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-61",
-      "title": "That was then, this is now",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University. They had studied Ottoman Turkish and embarked on their legal studies in the hope of one day serving in the Assembly of Deputies as elected representatives from Jerusalem. […]",
-      "publishedAt": "2026-08-25T04:31:38.000Z",
-      "articleId": "f4af286605e981ec"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
       "title": "Re: Re: Re: Pritchard On Liberal Happiness",
       "url": "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
@@ -73,18 +1210,6 @@
       "articleId": "573f32ecc751bf65"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
-      "title": "Three Dan Sullivans walk into a race for Senate",
-      "url": "https://www.slowboring.com/p/three-dan-sullivans-walk-into-a-race",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "And as they duke it out in Alaska, progressives win in Pennsylvania and Florida, Trump rises and falls, Michigan confronts AIPAC, Markey faces questions about his age, and a fraud fesses up.",
-      "publishedAt": "2026-08-24T22:01:48.000Z",
-      "articleId": "21d16912b657a065"
-    },
-    {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "title": "Twitter Broke the Left. X Will Break the Right.",
       "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
@@ -94,50 +1219,6 @@
       "summary": "Democrats paid a price for forming their politics on Twitter; people on the right will pay a price for forming theirs on X.",
       "publishedAt": "2026-08-24T18:46:44.000Z",
       "articleId": "62ab3ec8047e7531"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/jw83uz8dapso2teftprw.html",
-      "title": "Money Stuff: Who Should Control Anthropic?",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/jw83uz8dapso2teftprw.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Anthropic governance Traditionally there are two main theories of corporate governance: Shareholders are the owners of the firm, and they should have the final say in how it is run. Of course a board of directors and a chief executive officer run the company day to day, but the shareholders have the ultimate power to vote out the board and management if they’re doing a bad job. Actually the shareholders are just suppliers of capital, and really the firm belongs to the visionary founders or their heirs. The company’s value comes from its long-term commitment to its mission, and you can’t trust outside shareholders — index funds, short-termist activist hedge funds, etc. — to be committed to that mission. The only way to preserve what makes the company special is to give the founders the final say over how it is run, even if they do not own most of its economic value. Both theories have their points, and my view is that each is appropriate for some companies. Even if you are an outside shareholder, you might rationally prefer that some of your companies be run entirely by their visionary founders, unconstrained by shareholders: The founders might just be better than the shareholders. Recently, though, there is a third theory, mostly for giant artificial intelligence labs. The third theory is that AI is so powerful, transformative and potentially dangerous that AI firms must be run for the benefit of humanity. They shouldn’t be controlled by shareholders or by founders. They should be controlled by a wise body of philosophers with no economic stakes, whose only goal is maximizing the benefit of AI for humanity. Where you find these philosophers is an interesting question. Some AI theorists. Some effective altruists. Larry Summers . I don’t know. The third theory was tested back in 2023 , when OpenAI’s nonprofit board fired its visionary founder-CEO, Sam Altman, for like two days. That did not work! It turns out that if you are raising tens of billions of dollars from investors for a trillion-dollar business, you cannot actually give the final say over that business to a wise body of philosophers with no economic stake in the business. When I put it like that it seems obvious, but for a while OpenAI was pretty confusing. Still, a big part of the pitch that the AI labs make to investors and employees is along the lines of “this stuff is too powerful to be left to index funds.” An AI lab that went public with single-class stock and no special control rights — one whose directors were just answerable to shareholders — would be suspicious; nobody would believe it was serious about AI. “AI is too important to be left to shareholders,” everyone thinks, even the shareholders. The obvious...",
-      "publishedAt": "2026-08-24T18:18:52.305Z",
-      "articleId": "47b196473c66ecbf"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Four years at Harvard won’t corrupt your children.",
-      "publishedAt": "2026-08-24T18:12:55.000Z",
-      "articleId": "e12791ef863cb68e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html?utm_source=rss&utm_medium=rss&utm_campaign=common-sense-in-charge",
-      "title": "Common sense in charge",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/common-sense-in-charge.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "…children are increasingly seen as interfering with the freedom of parents; views on whether mothers of young children should work have become markedly more progressive and account for a substantially larger share of the decline among the tertiary-educated; and fewer people believe that women or men need children to lead a fulfilled life. This last […]",
-      "publishedAt": "2026-08-24T17:39:23.000Z",
-      "articleId": "80ba17318f6ceb17"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/deshaun-watson-is-a-complete-and",
-      "title": "Deshaun Watson Is a Complete and Total Failure That the Browns Won’t Quit",
-      "url": "https://neilpaine.substack.com/p/deshaun-watson-is-a-complete-and",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Five years, $230 million, six draft picks, dozens of accusations and zero worthwhile football later, Cleveland is still trying to make the worst decision in franchise history work.",
-      "publishedAt": "2026-08-24T17:21:42.000Z",
-      "articleId": "36bd75e0ddd4c063"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/t4vvj7nxlls8dkup97sl.html",
@@ -162,29 +1243,6 @@
       "articleId": "1539f1c2b7515b2a"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-574",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-574.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. There is now a formal 150 kph (93.2 mph) speed limit in one part of Czechia. 2. Why does the Japanese prime minister spend so much time in seclusion? 3. Decker defends academia (noting I do not think the “only the peaks” defense quite works. I also worry about very high quality research that […]",
-      "publishedAt": "2026-08-24T15:38:14.000Z",
-      "articleId": "c099051dc71a7928"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-real-reason-nobody-feels-good",
-      "title": "The real reason nobody feels good about technological progress",
-      "url": "https://www.slowboring.com/p/the-real-reason-nobody-feels-good",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The internet is a small miracle that in practice we mostly use to watch short-form video.",
-      "publishedAt": "2026-08-24T10:03:32.000Z",
-      "articleId": "083bd7677be6c207"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/autonomy-and-innovation/",
       "title": "Autonomy and Innovation",
       "url": "https://stratechery.com/2026/autonomy-and-innovation/",
@@ -194,29 +1252,6 @@
       "summary": "Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in the long run.",
       "publishedAt": "2026-08-24T10:00:00.000Z",
       "articleId": "abf6c4e15f4ae859"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html?utm_source=rss&utm_medium=rss&utm_campaign=childhood-exposure-to-joint-custody-reforms-and-adult-family-formation",
-      "title": "Childhood Exposure to Joint Custody Reforms and Adult Family Formation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/childhood-exposure-to-joint-custody-reforms-and-adult-family-formation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Joint custody reforms are among the most consequential family-law changes for children, yet little is known about their long-term effects. Exploiting staggered adoption across US states and 13 million ACS observations, we show that childhood exposure reduces adult fertility by 7 percent, symmetrically for women and men and operates primarily through lower parenthood and couple […]",
-      "publishedAt": "2026-08-24T09:30:37.000Z",
-      "articleId": "2f22ea7036dea3a8"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/trout-cabrera-was-simple-compared",
-      "title": "Trout-Cabrera Was Simple Compared With PCA-Ohtani",
-      "url": "https://neilpaine.substack.com/p/trout-cabrera-was-simple-compared",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The great MVP debate of the 2010s was about everything WAR can capture. The modern sequel is about everything it can’t.",
-      "publishedAt": "2026-08-24T09:01:38.000Z",
-      "articleId": "891ed10d93c66ff6"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
@@ -230,40 +1265,6 @@
       "articleId": "f9a34de4219cbfa7"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/i-dj-for-rick-rubin-about-music-and-patriotism.html?utm_source=rss&utm_medium=rss&utm_campaign=i-dj-for-rick-rubin-about-music-and-patriotism",
-      "title": "I DJ for Rick Rubin about music and patriotism",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/i-dj-for-rick-rubin-about-music-and-patriotism.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "MUSIC EPISODE: “You think you understand patriotism, you have your hands around it–it’s the simple thing, but it turns out it’s not. And maybe, music and the history of music shows us all that better than mere discourse about it.” @tylercowen 0:00:00 Tyler Cowen 0:00:24 Intro: Patriotism in Music 0:03:09 John Philip Sousa & Stars […]",
-      "publishedAt": "2026-08-24T05:08:29.000Z",
-      "articleId": "e0484c9fda605aa8"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-1ae",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-23T17:00:44.000Z",
-      "articleId": "7c8d0c47e489d702"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-581",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. “Underestimating something that has an AI “accent” by reflexively dismissing it as slop rhymes curiously with underestimating someone because they have a funny accent in your native language (and it isn’t one of the accents that you think signals superiority, like the BBC British accent for English).” V. Rao. 2. Profile of Joe Lonsdale. […]",
-      "publishedAt": "2026-08-23T16:49:19.000Z",
-      "articleId": "9c9a3951bceb46f5"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
       "title": "How to Survive as a Music Critic: A Conversation with Steven Hyden",
       "url": "https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
@@ -274,39 +1275,6 @@
       "summary": "Or, when you’re supposed to talk about The Strokes but end up philosophizing about the music business instead",
       "publishedAt": "2026-08-23T13:30:54.000Z",
       "articleId": "e50ca15b475143d2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
-      "title": "Democracy and Caeserism",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In my 2015 post discussing Joseph Heath’s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and frustration, forces that eventually undermine its own legitimacy. I […]",
-      "publishedAt": "2026-08-23T11:15:42.000Z",
-      "articleId": "ae5bd5606ea68206"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
-      "title": "My recent visit to Anthropic",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I very recently participated in a two-day session to offer guidance on rewriting the constitution for Claude. The small group invited was uniformly excellent, we received serious time with key decision-makers, and the discussions were of very high quality. Some of the points I stressed were the following: 1. Whatever one might take a “constitution” […]",
-      "publishedAt": "2026-08-23T06:32:29.000Z",
-      "articleId": "c80456dea175f57c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
-      "title": "The new agentic O-ring world",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "But because agents often require guidance or additional context as they move through their tasks, Sharma, 27, finds himself wanting to be available to them around the clock and forgoing a regular sleep schedule as a result. Until recently, he couldn’t monitor them remotely through a phone or smartwatch. “The cost of the agents’ being […]",
-      "publishedAt": "2026-08-23T04:56:00.000Z",
-      "articleId": "1d7e7484982057da"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/what-makes-australia-australia",
@@ -343,28 +1311,6 @@
       "articleId": "471de1cf42d5749d"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived",
-      "title": "Has the European turnaround finally arrived?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Europe just had its best reporting season in years. Companies in the benchmark Stoxx Europe 600 index boosted earnings per share by 18% on average in the second quarter compared with a year earlier. Earnings barely grew at all in 2025 and 2024 as the strongest companies in the index were offset by weaker players. […]",
-      "publishedAt": "2026-08-22T16:57:33.000Z",
-      "articleId": "53cee5f0e19f37b8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-575",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. New publication analyzing AI constitutions. 2. Niall Ferguson vs. Iain Banks, and against some other stufff too (TFP). 3. NYT obituary for Victor Niederhoffer. 4. “Engineered systems known as harnesses largely complete contracts in real time, make external work more observable than employment, and carry context and control across the firm’s edge.” (speculative) 5. […]",
-      "publishedAt": "2026-08-22T14:17:50.000Z",
-      "articleId": "bbfdde1a457a906b"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082226",
       "title": "Reading List 08/22/26",
       "url": "https://www.construction-physics.com/p/reading-list-082226",
@@ -377,39 +1323,6 @@
       "articleId": "dc407f3a89ae772f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html?utm_source=rss&utm_medium=rss&utm_campaign=the-end-of-friday-nights-with-friends",
-      "title": "The End of Friday Nights with Friends",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This study examines how Americans’ time with friends has changed over the week, focusing not on how much social interaction has declined but on when it has. Using American Time Use Survey data from 2003 to 2024 (N = 243,095), I map hourly patterns of “friend time” across the days of the week. In the […]",
-      "publishedAt": "2026-08-22T10:26:30.000Z",
-      "articleId": "0df291e832ea3a53"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
-      "title": "The Week That Was (August 17-21, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-august-17-21-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-08-22T09:01:24.000Z",
-      "articleId": "c27b4181bded569c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
-      "title": "What should I ask Annie Lowrey?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with her. She has a new and very interesting book coming out, namely The Time Tax: How the Government Wastes Our Time―and How to Fix It. More generally, from Wikipedia: Annie M. Lowrey…is an American journalist who writes on politics and economic policy for The Atlantic. Previously, Lowrey covered economic […]",
-      "publishedAt": "2026-08-22T06:37:48.000Z",
-      "articleId": "d697a6398c9afdd3"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
       "title": "Are we watching the U.S. go bankrupt?",
       "url": "https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
@@ -420,18 +1333,6 @@
       "summary": "No, but there are still reasons for concern.",
       "publishedAt": "2026-08-22T01:47:17.000Z",
       "articleId": "b824db9b909c976a"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-kind-of-democrat-can-win",
-      "title": "What kind of Democrat can win?",
-      "url": "https://www.slowboring.com/p/what-kind-of-democrat-can-win",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "I’m genuinely asking.",
-      "publishedAt": "2026-08-21T22:00:42.000Z",
-      "articleId": "e9352907e0383e7c"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-a-residence-of-21",
@@ -465,17 +1366,6 @@
       "summary": "Diplomacy, reform, and a convenient stone",
       "publishedAt": "2026-08-21T11:21:12.000Z",
       "articleId": "dd762de10c049ecf"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/giving-the-people-what-they-want",
-      "title": "Giving the people what they want (not data centers)",
-      "url": "https://www.slowboring.com/p/giving-the-people-what-they-want",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus dynamism, Rock Creek Park, and all the practical problems with abolishing ICE",
-      "publishedAt": "2026-08-21T10:02:18.000Z",
-      "articleId": "4627b41169e4bd43"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
@@ -535,30 +1425,6 @@
       "articleId": "b5a31da5357e6a8d"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
-      "title": "Thousands of years of indoor air pollution",
-      "url": "https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The too-late invention of somewhat safe ways to cook and heat with wood",
-      "publishedAt": "2026-08-20T10:03:50.000Z",
-      "articleId": "de2a2bd3a89a6787"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/everyone-hates-the-elites-but-who",
-      "title": "Everyone hates the “elites,” but who are they?",
-      "url": "https://www.slowboring.com/p/everyone-hates-the-elites-but-who",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "According to voters, it’s basically just rich people.",
-      "publishedAt": "2026-08-20T09:01:03.000Z",
-      "articleId": "8ab3459f9e8e049e"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
       "title": "Are Democrats on a summer sugar high?",
       "url": "https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
@@ -580,18 +1446,6 @@
       "summary": "Don’t be so quick to dismiss the threat of an aging, declining population.",
       "publishedAt": "2026-08-19T23:27:31.000Z",
       "articleId": "91812788e8a35a11"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-have-and-have-not-housing-market",
-      "title": "The have-and-have-not housing market",
-      "url": "https://www.slowboring.com/p/the-have-and-have-not-housing-market",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Wealthy buyers are buying houses a million over asking with cash while everyone else watches starts fall and rates stay stubborn. Localities are experimenting with solutions to close the yawning gap.",
-      "publishedAt": "2026-08-19T22:01:42.000Z",
-      "articleId": "2953bb9c3b878bdc"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qdgslutvo9yt7szfulal.html",
@@ -638,28 +1492,6 @@
       "articleId": "2cde87f0406cb729"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
-      "title": "Two kinds of moderate Democrats",
-      "url": "https://www.slowboring.com/p/two-kinds-of-moderate-democrats",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "There are many pragmatists, but few have the courage to say what they really think.",
-      "publishedAt": "2026-08-19T10:02:12.000Z",
-      "articleId": "215427bf90c21033"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
-      "title": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
-      "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple's App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it's ok it's late.",
-      "publishedAt": "2026-08-19T10:00:00.000Z",
-      "articleId": "9f1460ecb989fdfd"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
       "title": "Why I'm Staying Out Of The Substack Religion Debate",
       "url": "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
@@ -682,28 +1514,6 @@
       "articleId": "3c3fc5195620cfa5"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-invisible-faction-that-dominates",
-      "title": "The invisible faction that dominates the Democratic Party",
-      "url": "https://www.slowboring.com/p/the-invisible-faction-that-dominates",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Meet the Progressive Establishment",
-      "publishedAt": "2026-08-18T10:02:46.000Z",
-      "articleId": "cb9fa2c5d9c701af"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
-      "publishedAt": "2026-08-18T10:00:00.000Z",
-      "articleId": "ae42eb7d3a186378"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
       "title": "Where to eat in San Francisco",
       "url": "https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
@@ -713,18 +1523,6 @@
       "summary": "Part 1 of my personal recommendations.",
       "publishedAt": "2026-08-18T05:21:55.000Z",
       "articleId": "f0b3e2ab58e32fd2"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/chaos-theory",
-      "title": "Chaos theory",
-      "url": "https://www.slowboring.com/p/chaos-theory",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "This week in the midterms: An upset in Wisconsin, a Saturday night massacre in Anchorage, and a G.O.P. that’s bracing for its House majority to slip away.",
-      "publishedAt": "2026-08-17T22:01:00.000Z",
-      "articleId": "2f2faf2e96f80c09"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
@@ -760,29 +1558,6 @@
       "articleId": "938edf46461089bf"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/woke-1-is-dead-weve-learned-nothing",
-      "title": "Woke 1 is dead. We’ve learned nothing.",
-      "url": "https://www.slowboring.com/p/woke-1-is-dead-weve-learned-nothing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Blatant indifference to facts is all too common across ideologies",
-      "publishedAt": "2026-08-17T10:01:37.000Z",
-      "articleId": "40cfcf56086456a0"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
-      "publishedAt": "2026-08-17T10:00:00.000Z",
-      "articleId": "01908f0230250a88"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
       "title": "Our monetary Rube Goldberg device",
       "url": "https://scottsumner.substack.com/p/our-monetary-rube-goldberg-device",
@@ -792,18 +1567,6 @@
       "summary": "Endogenous money isn't what you think it is",
       "publishedAt": "2026-08-16T17:11:36.000Z",
       "articleId": "008408987cb739b1"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-00a",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-00a",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-16T17:03:15.000Z",
-      "articleId": "cf00a5e3598b308f"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/breaking-records-on-tour-a-conversation",
@@ -886,18 +1649,6 @@
       "articleId": "b7e566c21a7a737a"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-is-college-worth",
-      "title": "What is college worth?",
-      "url": "https://www.slowboring.com/p/what-is-college-worth",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "An enrollment cliff combined with high sticker prices no one is paying has some private colleges rethinking their tuition.",
-      "publishedAt": "2026-08-14T22:01:12.000Z",
-      "articleId": "742660ab9d95621c"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
       "title": "Woke 1 Was Anti-Populist, and Not in the Good Way",
       "url": "https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
@@ -907,17 +1658,6 @@
       "summary": "By demanding the purification of the individual and branding broad swathes of the public as oppressor classes, 'Woke 1' besmirched the average Americans who Democrats once championed.",
       "publishedAt": "2026-08-14T17:17:36.000Z",
       "articleId": "d0956d63761d5a1a"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "title": "2026.33: The CapEx Train Keeps Rolling",
-      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
-      "publishedAt": "2026-08-14T17:00:00.000Z",
-      "articleId": "649091a37448b67a"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
@@ -940,17 +1680,6 @@
       "summary": "This is the second installment of my look under the hood of the recently passed 21st Century ROAD to Housing Act, looking at what each provision actually does and trying to suss out its actual impact on housing supply.",
       "publishedAt": "2026-08-14T12:03:37.000Z",
       "articleId": "6eb9ad1f598f164c"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
-      "title": "History often hinges on boring technical questions",
-      "url": "https://www.slowboring.com/p/history-often-hinges-on-boring-technical",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus the Silicon Valley canon and the case for YIMBYing beloved vacation destinations",
-      "publishedAt": "2026-08-14T10:03:19.000Z",
-      "articleId": "471eb6260c1df841"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
@@ -995,17 +1724,6 @@
       "summary": "Giants coach John Harbaugh: \"We're looking all of time for players who can help us. And he's a player who can help us.”",
       "publishedAt": "2026-08-13T20:40:43.000Z",
       "articleId": "f12a693c2ccd386b"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/u1qnz1aylp8i8aab6i79.html",
-      "title": "Money Stuff: Bilateral OTC Goat Hedge",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/u1qnz1aylp8i8aab6i79.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Programming note: Money Stuff will be off on vacation next week, back on August 24. Goat herding We have talked a number of times around here about businesses hedging real-world risk on prediction markets. Some business faces some risk from some real-world event: “If Zohran Mamdani is elected mayor, my business of selling Manhattan pied-à-terres will dry up,” or “if Cardi B doesn’t perform at the Super Bowl , I will sell less Cardi B-themed merch,” or, overwhelmingly, “if my local sports team does not make the playoffs my bar will not sell enough beer to pay the rent.” Prediction markets like Kalshi offer bets on those events, with real-time prices that seem to efficiently reflect their actual probabilities. So you can go to Kalshi and buy, effectively, insurance. If you will make $100,000 selling beer if your team makes the playoffs, and $0 if it doesn’t, and Kalshi’s odds show that it has an 80% chance of making the playoffs, you can buy $100,000 of “No” contracts for $20,000 (20%). If the team makes the playoffs, you lose your $20,000 but make $100,000 on beer; if it doesn’t, you sell no beer but make an $80,000 profit on the hedge. Either way, you get $80,000: You’re hedged. Two points about this. First, prediction markets are mostly for sports gambling, so many of these stories are about businesses hedging real-world sports risk. If you’ve got a European soccer club that might get relegated , that’s perfect for prediction-market hedging. But prediction markets are very invested in demonstrating that they are not purely sportsbooks, so when Kalshi helps a business hedge a non-sports risk I get a lot of emails. Second, I have been imagining that you “go to Kalshi” and buy a big chunk of contracts to hedge your business risk. In practice, the actual exchange-traded liquidity in many of these contracts is limited: If you want to hedge your US presidential election risk, you can probably buy a lot of size without moving prices much, but the actual volume for even soccer relegation contracts is pretty small relative to the economic impact of relegation. If you went to buy millions of dollars of those contracts, you would move the price against yourself so much that the insurance wouldn’t be worth it. And so often the way these hedges work is as block trades, or, if you prefer, over-the-counter insurance contracts. That is: A business wants to hedge some event. Kalshi lists a contract on the event implying that its probability is 20% or whatever. You could not go buy $10 million of that contract on Kalshi, at 20 cents on the dollar or maybe at all. But you can go buy $10 million of that contract from Susquehanna International Group, the big proprietary trading firm that has made a...",
-      "publishedAt": "2026-08-13T18:25:51.630Z",
-      "articleId": "1105a2d85e26d9ce"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-beatles-song",
@@ -1065,17 +1783,6 @@
       "articleId": "83f54b96618146fb"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/nwnqwbxqs1m0w44szf7j.html",
-      "title": "Money Stuff: AI-Backed Securities",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/nwnqwbxqs1m0w44szf7j.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Securitization The basic business of finance is slicing up cash flows . You have some stuff, the stuff generates cash flows, you put the stuff in a box, the box issues securities to investors, the securities have claims on the cash flows. Some investors want safe securities with senior claims on the cash flows: If the stuff is expected to generate $100 of cash flows, you can probably issue investment-grade debt with a claim on the first $20 of the cash flows. Some investors want high-risk, high-reward securities with junior claims on the cash flows: If the stuff is expected to generate $100 of cash flows, someone will probably pay something for a stock option with a claim on all of the cash flows above $120. Etc. This works for many, many things that you might put in the box. If you own a widget business, you can put that business in a box called a “corporation,” issue bonds with senior claims on the business’s cash flows, and issue stock to investors who want the risky upside of the business. If you’ve got a rockets-and-satellites-and-enterprise-AI-and-social-media business, you can put that in a big corporate box called SpaceX and issue bonds and stock . If you own some office buildings, you can put them in a box called a “real estate investment trust” or “REIT,” issue some bonds with a senior claim on the rental income and issue stock to investors who want the upside from your rent. But you can also put purely financial stuff in a box. If you own some mortgage loans, or some credit card receivables, you can put those in a box and sell junior and senior claims on them. Etc. People often use the word “securitization” to describe this process: You put stuff in a box, you issue securities, it’s securitization. It would not, I think, do huge violence to the English language to describe every public company as a “securitization”: SpaceX put its rockets-etc. business in a public company and issued securities to finance it so, why not, securitization. In practice, though, people do not use the term this way. A “securitization,” in normal usage, mostly means putting financial stuff — mortgages, credit-card receivables, car-part invoices , what have you — into a box and selling claims on them. (There is such a thing as a “ whole business securitization ,” but that’s weird.) In fact US securities law makes this distinction. Under the law, “ securitization transactions ” are subject to different rules from regular securities. (Most notably, securitization issuers are required to retain some “skin in the game” rather than selling all of the cash flows; there are also different disclosure rules .) A “securitization transaction” is defined to mean one involving “asset-backed securities.” Of...",
-      "publishedAt": "2026-08-12T18:12:34.604Z",
-      "articleId": "0aa8b7d383ddd177"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/nak3dom9u33z5vp0rrj4.html",
       "title": "Bullet Trains and Bento Boxes, Oh My! | Kenji Eats Japan",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/nak3dom9u33z5vp0rrj4.html",
@@ -1098,17 +1805,6 @@
       "articleId": "9a2afad9e1aa4ef2"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
-      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
-      "publishedAt": "2026-08-12T10:00:00.000Z",
-      "articleId": "24bf7d735f5c4840"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
       "title": "Roundup #86: Unintended consequences",
       "url": "https://www.noahpinion.blog/p/roundup-86-unintended-consequences",
@@ -1129,17 +1825,6 @@
       "summary": "Plus a pushback against AI's unhealthy obsession with fiscal policy",
       "publishedAt": "2026-08-11T18:44:32.000Z",
       "articleId": "49a4c8cb92d7242c"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kmjd0bmockbx1zr5mw4y.html",
-      "title": "Money Stuff: Pick-and-Shovel Seller Financing",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kmjd0bmockbx1zr5mw4y.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. $500 billion I guess the sci-fi big picture here is something like: In the future, artificial intelligence will do a lot of the useful labor . If you want a merger analysis or a medical diagnosis or a fun newsletter to read, an AI will create it for you. The AI will in many respects be cheaper than human labor: It won’t need to eat or sleep or take nice vacations or send its children to college. But the AI will need somewhere to live. AI lives on computer chips in data centers, and it will need to pay rent. Humans will own the data centers, and the supply of high-end chips and electric power will be somewhat constrained, and most of the value of the AI future will ultimately be paid out in data-center rents. In the long run, the main human economic activity will be owning chips to rent out to AI, which will do the rest of the economic activity. You could sort of imagine a Jane Austen-y early-19th-century economy , with AI as the farm workers doing the economic activity and humans as the aristocratic rentiers who own land and earn 5% in perpetuity. And then the structural changes you’d need to get there are: Putting “private investments” like infrastructure funds and private credit into ordinary people’s retirement accounts, so that everyone can be at least a small-scale AI rentier, Raising a gazillion dollars of private-credit and infrastructure funds, and Using the money to build the data centers to rent to the AIs. There are other approaches — “everyone should buy stock in the AI buildout,” for instance — but the rentier approach has a certain simplicity. Who knows which AI model or harness or end user will ultimately capture the upside from AI? Whatever it is will probably need chips, though, so there’s a steady living to be made from renting out chips. Obviously one can worry about a bubble. But I must say that the two main dynamics I write about are “we should invest everyone’s retirement savings in AI infrastructure” and “we should invest everyone’s retirement savings in sports gambling ,” and only the first one has some actual economic logic to it. The point of investing is to own a share of future economic productivity. If a big share of future economic productivity might happen on computer chips, you might as well own chips. Anyway : US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to source $500 billion in financing for artificial intelligence infrastructure. The coalition, which also includes Goldman Sachs Group Inc. and KKR & Co., will “create dedicated pools of capital at significant scale at attractive rates for Nvidia customers,” according to a statement...",
-      "publishedAt": "2026-08-11T18:30:33.648Z",
-      "articleId": "1036166b207a2aa2"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/everything-is-breaking-democrats-way",
@@ -1176,17 +1861,6 @@
       "articleId": "1d77d94a63828422"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/nvidias-risky-business/",
-      "title": "Nvidia’s Risky Business",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Nvidia is finding new ways for its customers to raise money, and it's expanding the risk of the AI buildout significantly.",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "articleId": "bc5a28692c2f5201"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
       "title": "The poverty of anti-tech thought",
       "url": "https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
@@ -1198,17 +1872,6 @@
       "articleId": "a22429960383f08b"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
-      "title": "Money Stuff: The Situation Is Fine",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/t06um0jmzwnr6ejz1l02.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. Situational Awareness One of the core themes of this column is that it is good for your financial career to lose a billion dollars . This is largely a theory about hedge fund managers and bank traders; in those jobs, losing a billion dollars demonstrates that (1) someone trusted you with a billion dollars, (2) you boldly took risks with the money and (3) possibly you have learned some lessons from losing it and will do better next time. “My philosophy when I used to hire traders was that the optimal number of past blow ups was one,” John Arnold posted on X last month. Over time, I have extended the theory to tech startups , where losing a billion dollars demonstrates different but related good qualities. “Move fast and break things,” “fail quickly,” etc.: If you have lost a billion dollars then you definitely know how to fail quickly. Also, if there is one thing that Silicon Valley prizes above all else, it is contrarianism, and losing money is arguably a contrarian act. “Everyone thinks that losing money is bad, but what if losing money is actually good,” Peter Thiel has probably almost said at some point . Leopold Aschenbrenner is at the dead center of this Venn diagram and will doubtless be running a trillion dollars by the fall. Bloomberg News reported on Friday : One week after Leopold Aschenbrenner’s hedge fund Situational Awareness nearly blew up, he’s already getting requests from investors looking to place more money with the artificial intelligence wunderkind. His fund has seen a surge in interest from Silicon Valley investors looking to back the 20-something hedge funder in recent days, according to people familiar with the matter who asked not to be identified citing private discussions. So far, Situational Awareness has told investors that it’s not accepting new capital for now, the people said. … The aftermath of Situational Awareness’ near miss is highlighting the stark divide between Silicon Valley and the world of finance. For Wall Street, it was a moment when an AI hotshot was forced to learn the dangers of leverage and rein in risk. But for many across Silicon Valley, his misstep has merely been a chance to buy the dip and keep supporting the OpenAI researcher-turned-investor. “Silicon Valley and Wall Street are both reacting differently,” said Gygmy Gonnot, an adjunct professor at New York University’s Stern School of Business and a managing director at Focus Investment Group. “At the core, Silicon Valley rewards being directionally right about transformational technologies, while Wall Street rewards generating attractive adjusted returns while preserving capital.” One thinks of Elon Musk’s poker strategy . In some sense the problem with Situational Awareness,...",
-      "publishedAt": "2026-08-10T17:43:54.835Z",
-      "articleId": "58d027f749d0f86d"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
       "title": "Giants depth chart analysis: Is CB Paulson Adebo losing grip on starting job?",
       "url": "https://www.nytimes.com/athletic/7503326/2026/08/10/new-york-giants-depth-chart-training-camp-paulson-adebo/",
@@ -1218,17 +1881,6 @@
       "summary": "The Giants are back from West Virginia, and their depth chart is coming into focus.",
       "publishedAt": "2026-08-10T13:41:32.000Z",
       "articleId": "be585a615463ba2a"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
-      "title": "Apple Earnings, More on Amazon’s Earnings",
-      "url": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple's earnings (and stock) are limited not by memory but rather chip shortages; then, more on Amazon's earnings and Andy Jassy's market analysis.",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "articleId": "0a582f94b99fcbfe"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/perth-australia-the-beautiful-lonely",
@@ -1299,568 +1951,23 @@
       "summary": "There's one thing keeping us afloat right now, and people want to get rid of it.",
       "publishedAt": "2026-08-08T09:25:08.000Z",
       "articleId": "775abd44b32fd712"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
-      "title": "Basil Halperin on sticky wage models",
-      "url": "https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Why wage inflation is what matters",
-      "publishedAt": "2026-08-07T14:25:10.000Z",
-      "articleId": "ece35cfcbe6c5b57"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
-      "title": "Is Odell Beckham Jr. doing enough to earn spot on Giants' wide receiver depth chart?",
-      "url": "https://www.nytimes.com/athletic/7495855/2026/08/07/new-york-giants-odell-beckham-malik-nabers-depth-chart/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Malik Nabers is the clear No. 1. But beyond him, the Giants' wide receiver depth chart is wide open.",
-      "publishedAt": "2026-08-07T10:00:54.000Z",
-      "articleId": "6a3b130cd87c75d7"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
-      "title": "MacGregor The Bridge Builder",
-      "url": "https://www.astralcodexten.com/p/macgregor-the-bridge-builder",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-07T04:44:32.000Z",
-      "articleId": "1ddeb2776b1a65fa"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hdwpnh3uf4c1xv7ps9cm.html",
-      "title": "Money Stuff: Fake SpaceX Stock Isn’t Worth as Much",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hdwpnh3uf4c1xv7ps9cm.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Subscribe to Bloomberg.com for unlimited access to all our coverage. SPVs Today is the first lockup release date for SpaceX, which also means it’s the day that a lot of people will find out that they own fake SpaceX stock. SpaceX was a private company for a long time, and a lot of people — current and former employees, venture capitalists, Elon Musk buddies, etc. — ended up owning stock before it went public in June. Some of this stock found its way into special purpose vehicles that were sold to individual investors: The SPV would own a chunk of SpaceX shares, and you could buy shares of the SPV. You’d own SpaceX shares indirectly. Maybe! A lot could go wrong. Mainly: The SPV might not actually own the SpaceX shares. You’d give the SPV money, which the promoters would spend on yachts; SpaceX would not be involved. How could you check? You could call up SpaceX and ask if the SPV’s name appeared on its shareholder ledger, but it might not tell you. The SPV might sell more shares than it owns. The SPV would own $1 million of SpaceX stock but sell $10 million worth; it would sell you a 10% stake for $100,000 but also sell 99 other 10% stakes. It would spend $1 million on SpaceX stock and $9 million on yachts. How could you check? You could ask to see the SPV’s shareholder ledger, but it could just show you a fake one. We have talked about these problems before, and various hypothetical solutions. But for now, if you are an investor in an SPV that owns shares in a private company, it is hard to be sure that you really own the shares you think you own: The shares are not transferable, so all you actually have is an account statement from the SPV promoters, which might be fake. When the company goes public, it is still hard to be sure that you own the shares. Most initial public offerings have lockups in which pre-IPO shareholders (including SPVs) are restricted from transferring shares for some period of time, so the shares are still not transferable and you still just have an account statement. “We can’t give you the actual shares yet because they are transfer restricted,” the SPV promoters will tell you, accurately or inaccurately. But then when the lockup expires — or is partially released, as is happening with SpaceX today — you can reasonably call up the SPV promoters and say “hey I’d like my shares now.” And then they might distribute to you your pro rata allotment of the underlying SpaceX shares and say “pleasure doing business with you, let’s do this again soon.” Or they might sell the shares and distribute to you your pro rata allotment of the cash, also a pleasure. Or they might say “sorry, you’re breaking up, I’m going through a tunnel, who is this, what is SpaceX?” Here’s a Wall Street Journal story about Late Stage Management , which sold...",
-      "publishedAt": "2026-08-06T18:24:00.944Z",
-      "articleId": "65321cfb87279b77"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/people-sadly-enjoy-ai-generated-music",
-      "title": "People Like AI-Generated Music",
-      "url": "https://www.cantgetmuchhigher.com/p/people-sadly-enjoy-ai-generated-music",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "So, what should we do about it?",
-      "publishedAt": "2026-08-06T17:30:35.000Z",
-      "articleId": "c28b91d6cdf6fac9"
-    },
-    {
-      "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/c84fu0i1sysd9dq81u3l.html",
-      "title": "The Brew Shop - Weekly Email Update",
-      "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/c84fu0i1sysd9dq81u3l.html",
-      "source": "Brew Shop",
-      "sourceUrl": "https://www.arlbrew.com/",
-      "access": "open",
-      "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
-      "publishedAt": "2026-08-06T17:02:37.529Z",
-      "articleId": "d792f313fd9711e2"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-horses-have-stopped-getting-faster",
-      "title": "The upper limits of biology",
-      "url": "https://www.worksinprogress.news/p/why-horses-have-stopped-getting-faster",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The limits of breeding for speed",
-      "publishedAt": "2026-08-06T14:10:29.000Z",
-      "articleId": "e4873ca721eac48f"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
-      "title": "What Will the 21st Century ROAD to Housing Act Do for Housing Supply?",
-      "url": "https://www.construction-physics.com/p/what-will-the-21st-century-road-to",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A few weeks ago the 21st Century ROAD to Housing Act became law. This is an enormous housing bill that’s been in the works for roughly a year — I first discussed it on Statecraft back in 2025 — and folks are optimistic that it will, per its description, “increase the supply of housing in America.”",
-      "publishedAt": "2026-08-06T12:02:32.000Z",
-      "articleId": "85b0bf63171f68b5"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
-      "title": "Are the Democrats going to save us this time?",
-      "url": "https://www.noahpinion.blog/p/are-the-democrats-going-to-save-us",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "And if not, what do we do?",
-      "publishedAt": "2026-08-06T07:14:01.000Z",
-      "articleId": "c8739bbc826bacff"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/open-questions-on-open-weights",
-      "title": "Open Questions On Open Weights",
-      "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-06T03:56:29.000Z",
-      "articleId": "954805344f065bd1"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
-      "title": "Can Trump Wriggle Out One Last Time?",
-      "url": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Iran. The midterms. Can Trump wriggle out one last time?",
-      "publishedAt": "2026-08-05T16:42:43.000Z",
-      "articleId": "204b16f6ae20ae47"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/y48p87t6pu3fhovcn0sx.html",
-      "title": "The Secret Ingredients for Perfect Tempura | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/y48p87t6pu3fhovcn0sx.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "The Secret Ingredients for Perfect Tempura | Kenji Eats Japan A modernized tempura batter with vodka and club soda delivers restaurant-quality crispness without years of apprenticeship. What makes tempura—Japanes... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now The Secret Ingredients for Perfect Tempura | Kenji Eats Japan J. Kenji López-Alt Aug 5, 2026 View in app View in app A modernized tempura batter with vodka and club soda delivers restaurant-quality crispness without years of apprenticeship. What makes tempura—Japanese-style battered and fried vegetables and seafood—so unique? The key lies in the texture of the coating. Unlike more heavily-battered foods that can sometimes end up equal parts batter to food, with tempura, the coating should be lacy and whisper-thin, with plenty of bubbly nooks and crannies for adding texture and absorbing sauce. More than any other type of battering, tempura allows the flavor of the ingredients being battered to shine through. Tempura arrived in Japan with Portuguese missionaries in the sixteenth century. The Japanese word tempura comes the Portuguese word tempora , which referred to the days in which they abstained from meat, instead cooking battered-and-fried fish. Over the centuries Japanese cooks transformed it into something entirely its own, using lighter flours and specialized technique. Today, at the best tempura restaurants, a single chef will serve you at a...",
-      "publishedAt": "2026-08-05T16:13:55.641Z",
-      "articleId": "70b3316b98a51829"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/what-to-make-of-michigan",
-      "title": "What to make of Michigan",
-      "url": "https://www.natesilver.net/p/what-to-make-of-michigan",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Abdul El-Sayed’s apparent victory is a big win for the left — but a disaster for polling and a case study in poor expectations management.",
-      "publishedAt": "2026-08-05T08:17:03.000Z",
-      "articleId": "da2a1ecbd1fe6cb5"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-beauty-of-settled-science",
-      "title": "The Beauty Of Settled Science",
-      "url": "https://www.astralcodexten.com/p/the-beauty-of-settled-science",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-04T21:32:18.000Z",
-      "articleId": "7bd3477db07034ef"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "title": "Christopher Nolan’s Trojan Horse",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.",
-      "publishedAt": "2026-08-04T16:50:01.000Z",
-      "articleId": "8318fff3be379c5a"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/mathematicians-are-grappling-with",
-      "title": "Mathematicians are grappling with the possibility that AI might eclipse them",
-      "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "I talked to 20 mathematicians about rapid AI progress in their field.",
-      "publishedAt": "2026-08-04T13:53:52.000Z",
-      "articleId": "78b65f0b81c1e5ec"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/concept-records-an-album-a-day",
-      "title": "Concept Records: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/concept-records-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring The Mountain Goats, Liz Phair, Frank Sinatra, and others",
-      "publishedAt": "2026-08-04T13:30:36.000Z",
-      "articleId": "ae09d41e3445c934"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/our-advertising-principles",
-      "title": "Our advertising principles",
-      "url": "https://www.understandingai.org/p/our-advertising-principles",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "How we fund our journalism without compromising our independence.",
-      "publishedAt": "2026-08-04T12:55:50.000Z",
-      "articleId": "e2f214dc91275753"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
-      "title": "The end of the age of heroes",
-      "url": "https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "AI will soon be better at math than any human. What does that mean?",
-      "publishedAt": "2026-08-04T07:36:17.000Z",
-      "articleId": "2c60d6d0a291896a"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
-      "title": "Giants' Arvell Reese flashes game-changing potential; Jaxson Dart, offense sputter again",
-      "url": "https://www.nytimes.com/athletic/7490178/2026/08/03/new-york-giants-arvell-reese-jaxson-dart-training-camp/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The most physical practice of Giants camp allowed the rookie inside linebacker to demonstrate his potential impact.",
-      "publishedAt": "2026-08-03T23:17:16.000Z",
-      "articleId": "0f2a065f18cfc701"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
-      "title": "Does Forecasting Have Room At The Top?",
-      "url": "https://www.astralcodexten.com/p/does-forecasting-have-room-at-the",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-03T22:36:17.000Z",
-      "articleId": "470c4399276ec008"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
-      "title": "What Trump's latest slump means for the midterms",
-      "url": "https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Could anything save Republicans in the House? Plus, previewing tomorrow’s Michigan primary. And our midterms model is coming soon!",
-      "publishedAt": "2026-08-03T17:45:42.000Z",
-      "articleId": "e7587e7e61d30d63"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
-      "title": "The War That Could Swallow the World",
-      "url": "https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Whatever is happening in Iran, it isn’t working.",
-      "publishedAt": "2026-08-03T16:15:21.000Z",
-      "articleId": "e40407d7b99824ea"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7487554/2026/08/03/new-york-giants-training-camp-jaxson-dart-john-harbaugh/",
-      "title": "Why Jaxson Dart, Giants offense have scuffled early, and why John Harbaugh isn't worried",
-      "url": "https://www.nytimes.com/athletic/7487554/2026/08/03/new-york-giants-training-camp-jaxson-dart-john-harbaugh/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Dart has been experiencing some growing pains in the first four practices of training camp.",
-      "publishedAt": "2026-08-03T11:30:23.000Z",
-      "articleId": "29ee0bc4e7ecff3e"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
-      "title": "Thoughts on inflation and monetary policy",
-      "url": "https://scottsumner.substack.com/p/thoughts-on-inflation-and-monetary",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Be careful what you ask for",
-      "publishedAt": "2026-08-03T01:27:55.000Z",
-      "articleId": "c01a2a5f48de0df2"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "title": "Why We Can’t Stop Talking About ‘The Odyssey’",
-      "url": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Christopher Nolan’s film is perfectly calibrated for the culture war.",
-      "publishedAt": "2026-08-03T01:10:29.000Z",
-      "articleId": "8874668ee2942e06"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
-      "title": "The Orchestra Returns: A Conversation with Harry Levin",
-      "url": "https://www.cantgetmuchhigher.com/p/the-orchestra-returns-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Journalist Harry Levin stops by to talk about why everyone is partying like it's 1792",
-      "publishedAt": "2026-08-02T13:30:06.000Z",
-      "articleId": "9802ea7327708843"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
-      "title": "Slopulism is taking over America",
-      "url": "https://www.noahpinion.blog/p/slopulism-is-taking-over-america",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Sometimes bad populist ideas are just a mistake; sometimes they're being promoted for ideological reasons.",
-      "publishedAt": "2026-08-02T09:13:04.000Z",
-      "articleId": "15bf26cb192e1b2e"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-080126",
-      "title": "Reading List 08/01/26",
-      "url": "https://www.construction-physics.com/p/reading-list-080126",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation.",
-      "publishedAt": "2026-08-01T12:04:01.000Z",
-      "articleId": "f74ab85dda1a0794"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
-      "title": "Your Book Review: The Epic Of Gilgamesh",
-      "url": "https://www.astralcodexten.com/p/your-book-review-the-epic-of-gilgamesh",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-31T23:58:42.000Z",
-      "articleId": "1631f01fcfc039e7"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
-      "title": "How ugliness helps NIMBYs",
-      "url": "https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "And how beauty could help get more homes built",
-      "publishedAt": "2026-07-31T14:21:02.000Z",
-      "articleId": "05003102bd318436"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
-      "title": "In praise of the Midwest",
-      "url": "https://walkingtheworld.substack.com/p/in-praise-of-the-midwest",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "And other stray thoughts from a vacationing me",
-      "publishedAt": "2026-07-30T23:21:26.000Z",
-      "articleId": "1a96cebcdd995cf5"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7481718/2026/07/30/new-york-giants-training-camp-defense-abdul-carter/",
-      "title": "Giants camp takeaways: Defense overwhelms in what team hopes is sign of dominance to come",
-      "url": "https://www.nytimes.com/athletic/7481718/2026/07/30/new-york-giants-training-camp-defense-abdul-carter/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Abdul Carter and Kayvon Thibodeaux stood out in what was a dominant Day 2 of training camp for the New York Giants defense.",
-      "publishedAt": "2026-07-30T23:11:42.000Z",
-      "articleId": "8da7ec8d166fbbc1"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-july-2026-part-2",
-      "title": "Links For July 2026 (Part 2)",
-      "url": "https://www.astralcodexten.com/p/links-for-july-2026-part-2",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-30T20:45:37.000Z",
-      "articleId": "5aebd99a190de98a"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
-      "title": "Gen Z Thinks Religion Got Too Political",
-      "url": "https://www.nytimes.com/2026/07/30/opinion/gen-z-religion-evangelicals-trump.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Does Gen Z feel welcome at church?",
-      "publishedAt": "2026-07-30T20:13:00.000Z",
-      "articleId": "a5af00d1301598c8"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-nepotism-real",
-      "title": "Is Nepotism Real?",
-      "url": "https://www.cantgetmuchhigher.com/p/is-nepotism-real",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, a meditation on Stella Lefty",
-      "publishedAt": "2026-07-30T17:30:19.000Z",
-      "articleId": "810d8a990e969a7f"
-    },
-    {
-      "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/6znicez4e756571z79xh.html",
-      "title": "The Brew Shop - Weekly Email Update",
-      "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/6znicez4e756571z79xh.html",
-      "source": "Brew Shop",
-      "sourceUrl": "https://www.arlbrew.com/",
-      "access": "open",
-      "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
-      "publishedAt": "2026-07-30T16:53:41.942Z",
-      "articleId": "2575c9a76c10d701"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "A battery technology that’s getting a lot of attention is solid-state batteries, lithium-ion batteries that replace the liquid electrolyte with a solid material.",
-      "publishedAt": "2026-07-30T12:04:25.000Z",
-      "articleId": "48f692240df25def"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
-      "title": "Why did South Korean stocks just crash?",
-      "url": "https://www.noahpinion.blog/p/why-did-south-korean-stocks-just",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The AI boom creates a lot of uncertainty.",
-      "publishedAt": "2026-07-30T10:18:50.000Z",
-      "articleId": "9f17d73e3f097d58"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
-      "title": "Highlights From The Discourse On The Hugging Face Incident",
-      "url": "https://www.astralcodexten.com/p/highlights-from-the-discourse-on",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-07-30T01:07:16.000Z",
-      "articleId": "f9e0816526c80da6"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
-      "title": "Giants camp takeaways: Jaxson Dart looks sharp, but Malik Nabers' return stole show",
-      "url": "https://www.nytimes.com/athletic/7478873/2026/07/29/new-york-giants-training-camp-jaxson-dart-malik-nabers/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Dart looked comfortable on Day 1 of camp, despite spending a lot of his time operating in a somewhat unfamiliar situation.",
-      "publishedAt": "2026-07-29T23:25:09.000Z",
-      "articleId": "db6ca3cd4f8dcae9"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/july-2026-links",
-      "title": "July 2026 links",
-      "url": "https://scottsumner.substack.com/p/july-2026-links",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus another reply to Fable",
-      "publishedAt": "2026-07-29T19:12:21.000Z",
-      "articleId": "c62a4a4f62ce739d"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
-      "title": "Goodbye, Iowa. Hello, Michigan. Which Democratic primaries will matter most in 2028?",
-      "url": "https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "South Carolina will vote first, which could help moderates. But Michigan and Virginia may hold the real power.",
-      "publishedAt": "2026-07-29T18:05:25.000Z",
-      "articleId": "0cfc15fb61ab3340"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
-      "title": "Enjoy a Tofu Lunch With Us | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/0qt5f0tni9xpqdmd7672.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "Enjoy a Tofu Lunch With Us | Kenji Eats Japan Join our team for a peaceful tofu lunch at Yudofu Sagano in the scenic Arashiyama area of Kyoto. Content &amp; Community Manager Erin here with an inv... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Enjoy a Tofu Lunch With Us | Kenji Eats Japan J. Kenji López-Alt Jul 29, 2026 View in app View in app Join our team for a peaceful tofu lunch at Yudofu Sagano in the scenic Arashiyama area of Kyoto. Content & Community Manager Erin here with an invitation for you to enjoy a tofu lunch with us in the next episode of Kenji Eats Japan! Kyoto was our team’s first stop during our visit to Japan in April of this year. Before we left the city, we knew we had to explore tofu cuisine a bit deeper and a donabe filled with broth, simmering away over an open fire gave us the perfect opportunity to dive right in. But first, some background. The Tofu Capital: As the former capital, prior seat of the Emperor, and once-largest city in Japan, Kyoto holds a lot of historic and cultural cachet—especially when it comes to religion. As Zen Buddhism thrived in the city, so did shojin ryori, traditional Buddhist cuisine made without meat or fish. And where shojin ryori thrives, so does tofu. ¹ Born out of this tradition, yudofu and yuba became signature dishes of the city. ² It was with this in mind that we headed to the aptly named Yudofu Sagano restaurant in the Arashiyama sightseeing...",
-      "publishedAt": "2026-07-29T17:28:51.527Z",
-      "articleId": "07aa4b1351ebe34f"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
-      "title": "Peaked at 200: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/peaked-at-200-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Otis Redding, Roger Miller, Burna Boy, and others",
-      "publishedAt": "2026-07-28T13:30:43.000Z",
-      "articleId": "f4e086855b6d164c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7474234/2026/07/28/new-york-giants-training-camp-preview-malik-nabers/",
-      "title": "Giants training camp preview: Why N.Y. decided to keep Malik Nabers off PUP list",
-      "url": "https://www.nytimes.com/athletic/7474234/2026/07/28/new-york-giants-training-camp-preview-malik-nabers/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Though Nabers avoided the PUP list, there's no guarantee the star wide receiver will be ready for Week 1.",
-      "publishedAt": "2026-07-28T11:36:35.000Z",
-      "articleId": "2f8d00a95a0321fc"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
-      "title": "Roundup #85: Most policy is also industrial policy",
-      "url": "https://www.noahpinion.blog/p/roundup-85-most-policy-is-also-industrial",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Trump and science; U.S. national debt; Europe and software; America and trains; China and metal refining; Indian women; Murder",
-      "publishedAt": "2026-07-28T00:33:43.000Z",
-      "articleId": "a0f4808f248e96e2"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
-      "title": "Christopher Nolan Has Rebuked the Spirit of the Age",
-      "url": "https://www.nytimes.com/2026/07/26/opinion/odyssey-christopher-nolan-greek-gods.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "This “Odyssey” takes us somewhere we didn’t know we were going.",
-      "publishedAt": "2026-07-27T18:36:27.000Z",
-      "articleId": "3bd7fea941ce38e8"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
-      "title": "Why Vance Still Trumps Rubio",
-      "url": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
-      "publishedAt": "2026-07-27T01:15:34.000Z",
-      "articleId": "ae67cf5c90c8991d"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
-    "title": "DC-area forecast: Another bonus day of beautiful sunshine and low humidity",
-    "url": "https://www.capitalweather.com/dc-area-forecast-another-bonus-day-of-beautiful-sunshine-and-low-humidity/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-bright-and-beautiful-through-labor-day-warming-midweek/",
+    "title": "DC-area forecast: Bright and beautiful through Labor Day; warming midweek",
+    "url": "https://www.capitalweather.com/dc-area-forecast-bright-and-beautiful-through-labor-day-warming-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Nice weather wishes us a good morning as we start in the upper 50s and 60s. Plenty of sun helps us into the 70s later in the morning, on the way to afternoon 80s with continued low humidity.",
-    "publishedAt": "2026-08-25T09:00:10.000Z",
+    "summary": "HAPPENING NOW: Mostly sunny and less humid today. We'll reach glorious afternoon highs around 80 to 85.",
+    "publishedAt": "2026-09-06T09:00:37.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "We fluff up the digit with all the good stuff (sunshine, low humidity, warmth) without all that bad stuff (sweat, stickiness, and severe weather).",
-    "articleId": "82b668c26a3fb7a3"
+    "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
+    "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-08-25T13:07:41.810Z",
+  "weatherGeneratedAt": "2026-09-06T19:07:25.029Z",
   "weatherError": null,
   "sources": [
     {
@@ -1883,7 +1990,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -1936,6 +2043,14 @@
       "error": null
     },
     {
+      "name": "Maximum Progress",
+      "url": "https://www.maximum-progress.com/",
+      "mode": "rss",
+      "itemCount": 20,
+      "feedUrl": "https://www.maximum-progress.com/feed",
+      "error": null
+    },
+    {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
@@ -1947,7 +2062,7 @@
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
@@ -1963,7 +2078,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2027,7 +2142,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 5,
+      "itemCount": 8,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
