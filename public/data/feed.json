@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-06T13:39:04.870Z",
-  "fetchedAt": "2026-09-06T13:39:04.865Z",
+  "generatedAt": "2026-09-06T16:58:44.759Z",
+  "fetchedAt": "2026-09-06T16:58:44.748Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-577",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Vishy now thinks Pragg is number one in the chess world. 2. Do children grow continuously, or grow in fits and starts? 3. It remains my view that Ferrante is the husband and wife team. 4. Essay on Olaf Stapledon. 5. “US annual interest expense is up to a record 18.5% of federal government […]",
+      "publishedAt": "2026-09-06T16:33:49.000Z",
+      "articleId": "14eb779881762a8c"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-this-it-a-conversation-with-steven",
+      "title": "Is This It: A Conversation with Steven Hyden",
+      "url": "https://www.cantgetmuchhigher.com/p/is-this-it-a-conversation-with-steven",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Strokes debut album turns 25, so Steven Hyden popped by to talk about it",
+      "publishedAt": "2026-09-06T14:31:26.000Z",
+      "articleId": "575dfd8c84df1e73"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
       "title": "Pete Hegseth Is a Wrecking Ball",
@@ -430,17 +453,6 @@
       "summary": "“The global cyber insurance market was worth nearly $15 billion last year and is expected to reach roughly $28 billion by 2030, Munich Re estimated in its latest report. Aon said earlier this year that nearly 20% of cyberattacks will involve generative AI by 2027, according to its forecasts.” Here is the article, via Marc […]",
       "publishedAt": "2026-09-03T15:37:40.000Z",
       "articleId": "ac449698ae3cd50c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-redistribution-will-ai-require",
-      "title": "How Much Redistribution Will AI Require?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "How much redistribution will AI require? A common scenario is that AI raises output enormously, but labor’s share of income collapses. GDP per capita goes up but workers get poorer, and making workers whole requires massive redistribution. In my latest paper, I run the numbers and conclude that this is probably incorrect. The idea is […]",
-      "publishedAt": "2026-09-03T11:18:00.000Z",
-      "articleId": "ea87923feb8cfc4b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/stop-making-up-reasons-to-be-mad",
@@ -1939,18 +1951,6 @@
       "summary": "There's one thing keeping us afloat right now, and people want to get rid of it.",
       "publishedAt": "2026-08-08T09:25:08.000Z",
       "articleId": "775abd44b32fd712"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
-      "title": "Basil Halperin on sticky wage models",
-      "url": "https://scottsumner.substack.com/p/basil-halperin-on-sticky-wage-models",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Why wage inflation is what matters",
-      "publishedAt": "2026-08-07T14:25:10.000Z",
-      "articleId": "ece35cfcbe6c5b57"
     }
   ],
   "weather": {
@@ -1960,14 +1960,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny and less humid today. After starting in the 60s this morning, we'll reach afternoon highs in the glorious upper 70s to low 80s.",
+    "summary": "HAPPENING NOW: Mostly sunny and less humid today. We'll reach glorious afternoon highs around 80 to 85.",
     "publishedAt": "2026-09-06T09:00:37.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
     "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-09-06T13:39:04.870Z",
+  "weatherGeneratedAt": "2026-09-06T16:58:44.759Z",
   "weatherError": null,
   "sources": [
     {
