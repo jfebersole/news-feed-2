@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-05T23:50:46.407Z",
-  "fetchedAt": "2026-09-05T23:50:46.404Z",
+  "generatedAt": "2026-09-06T04:30:24.018Z",
+  "fetchedAt": "2026-09-06T04:30:24.006Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 810,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html?utm_source=rss&utm_medium=rss&utm_campaign=why-not-bolivia",
+      "title": "*Why Not Bolivia?*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Calvin Korponai, and the subtitle is From Macchu Picchu into Bolivia in search of the Garden of Eden. Bolivia is a fantastic country to visit, more original than most people are expecting, and this is the book to tell you why. Excerpt: The landscape itself is like noting else in the Americas. […]",
+      "publishedAt": "2026-09-06T04:27:11.000Z",
+      "articleId": "ca9eb5b71ed13414"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html?utm_source=rss&utm_medium=rss&utm_campaign=short-videos-big-self-control-problems",
       "title": "Short Videos, Big Self-Control Problems",
@@ -477,17 +488,6 @@
       "summary": "...",
       "publishedAt": "2026-09-03T08:10:42.000Z",
       "articleId": "60803d49fd242826"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-568",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-568.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. “Some crazy stats from this new JEL paper: – IV est. average 3–10x OLS (meta analysis) – Sign. results 30x more likely to be published in experimental econ (Andrews & Kasy) –",
-      "publishedAt": "2026-09-03T06:35:53.000Z",
-      "articleId": "563e7673ee0fb686"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/announcing-still-counting-with-galen",
@@ -1978,7 +1978,7 @@
     "dailyDigitSummary": "The muggiest and cloudiest day of the long weekend, but brighter skies and drier air are on the doorstep.",
     "articleId": "2d5d602b9eaadec0"
   },
-  "weatherGeneratedAt": "2026-09-05T23:50:46.407Z",
+  "weatherGeneratedAt": "2026-09-06T04:30:24.018Z",
   "weatherError": null,
   "sources": [
     {
