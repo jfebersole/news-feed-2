@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-06T21:20:58.413Z",
-  "fetchedAt": "2026-09-06T21:20:58.409Z",
+  "generatedAt": "2026-09-06T23:49:57.361Z",
+  "fetchedAt": "2026-09-06T23:49:57.357Z",
   "sourceCount": 24,
-  "itemCount": 171,
+  "itemCount": 172,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7570831/2026/09/06/giants-jameis-winston-contract-extension/",
+      "title": "Giants agree to extensions with QB Jameis Winston, G Jon Runyan: Source",
+      "url": "https://www.nytimes.com/athletic/7570831/2026/09/06/giants-jameis-winston-contract-extension/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Winston is locked in as Jaxson Dart's backup for the second consecutive season, while Runyan will be in New York through 2028.",
+      "publishedAt": "2026-09-06T20:47:04.000Z",
+      "articleId": "2a7412a337a951dc"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-140",
       "title": "Insurance price sentences to ponder",
@@ -1933,21 +1944,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-bright-and-beautiful-through-labor-day-warming-midweek/",
-    "title": "DC-area forecast: Bright and beautiful through Labor Day; warming midweek",
+    "title": "DC-area forecast: A comfortable evening and super Labor Day, then warming through midweek",
     "url": "https://www.capitalweather.com/dc-area-forecast-bright-and-beautiful-through-labor-day-warming-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny and less humid today. We'll reach glorious afternoon highs around 80 to 85.",
+    "summary": "HAPPENING NOW: Partly cloudy with comfortable evening readings in the 70s dipping to sunrise lows within a few degrees of 60.",
     "publishedAt": "2026-09-06T09:00:37.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
-    "articleId": "8f6319db2e7b9035",
-    "stale": true
+    "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-09-06T21:20:58.413Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-06T23:49:57.361Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
