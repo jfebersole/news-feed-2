@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-07T16:25:33.664Z",
-  "fetchedAt": "2026-09-07T16:25:33.660Z",
+  "generatedAt": "2026-09-07T20:32:47.319Z",
+  "fetchedAt": "2026-09-07T20:32:47.316Z",
   "sourceCount": 24,
-  "itemCount": 171,
-  "totalItemCount": 807,
+  "itemCount": 172,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
+      "title": "South Korean aspirational markets in everything",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Instead of Amazon, I spent the past week browsing a new breed of websites known as “dopamine sites,” a trend that emerged in South Korea. These websites — like Dopamine Shop and FoodNeverComes — recreate the entire ritual of online shopping: You search for products, compare reviews, add items to your cart, enter a shipping address, place an order, […]",
+      "publishedAt": "2026-09-07T18:41:20.000Z",
+      "articleId": "64a8091edd710fe5"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
+      "title": "How our ELWAY forecasts work",
+      "url": "https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Way more detail than you probably wanted on Silver Bulletin's new NFL forecasting system.",
+      "publishedAt": "2026-09-07T17:38:54.000Z",
+      "articleId": "7c008df757b8bd77"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-576",
       "title": "Monday assorted links",
@@ -408,17 +430,6 @@
       "summary": "Dallas was historically lopsided in 2025. But that may be exactly why a 2026 rebound is easier to engineer than it seems.",
       "publishedAt": "2026-09-04T09:02:31.000Z",
       "articleId": "cad64d994f6a0a07"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html?utm_source=rss&utm_medium=rss&utm_campaign=shout-it-from-the-rooftops-of-the-data-centers",
-      "title": "Shout it from the rooftops (of the data centers)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Data-center investment has become one of the largest capital-expenditure cycles in financial markets, with U.S. hyperscalers expected to deploy roughly $700 billion in 2026. This investment boom has raised concerns that large computing loads impose external costs on households through higher electricity prices. Using a 50-state panel for 2021-2024, we find no statistically significant evidence […]",
-      "publishedAt": "2026-09-04T06:52:26.000Z",
-      "articleId": "f333a7f7b8b21d91"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
@@ -1935,16 +1946,15 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: A refreshing morning gives way to a sunny and warm afternoon, with highs of 80 to 85.",
+    "summary": "Happening now: Enjoy the sunny and warm afternoon, with highs of 80 to 85.",
     "publishedAt": "2026-09-07T09:00:03.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "The warm sunshine is an outstanding way to cap the holiday weekend.",
-    "articleId": "17eed122ff5d47ae",
-    "stale": true
+    "articleId": "17eed122ff5d47ae"
   },
-  "weatherGeneratedAt": "2026-09-07T16:25:33.664Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-07T20:32:47.319Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2038,7 +2048,7 @@
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
