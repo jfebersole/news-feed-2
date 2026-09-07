@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-06T23:49:57.361Z",
-  "fetchedAt": "2026-09-06T23:49:57.357Z",
+  "generatedAt": "2026-09-07T04:29:48.828Z",
+  "fetchedAt": "2026-09-07T04:29:48.825Z",
   "sourceCount": 24,
-  "itemCount": 172,
+  "itemCount": 173,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/its-the-fun",
+      "title": "It's the fun",
+      "url": "https://scottsumner.substack.com/p/its-the-fun",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Collapsing fertility in four easy steps",
+      "publishedAt": "2026-09-07T00:18:40.000Z",
+      "articleId": "746a2155afab6d0a"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7570831/2026/09/06/giants-jameis-winston-contract-extension/",
       "title": "Giants agree to extensions with QB Jameis Winston, G Jon Runyan: Source",
@@ -1956,7 +1967,7 @@
     "dailyDigitSummary": "Not a gripe in sight with plenty of sun and a less humid feel. Enjoy!",
     "articleId": "8f6319db2e7b9035"
   },
-  "weatherGeneratedAt": "2026-09-06T23:49:57.361Z",
+  "weatherGeneratedAt": "2026-09-07T04:29:48.828Z",
   "weatherError": null,
   "sources": [
     {
