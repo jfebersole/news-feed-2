@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-07T10:11:37.708Z",
-  "fetchedAt": "2026-09-07T10:11:37.705Z",
+  "generatedAt": "2026-09-07T16:25:33.664Z",
+  "fetchedAt": "2026-09-07T16:25:33.660Z",
   "sourceCount": 24,
-  "itemCount": 173,
+  "itemCount": 171,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-576",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. How are age verification systems going? 2. Eliezer predictions. 3. Are humpback whales policing nature? 4. “Traces of nearly four million coins reveal how Rome achieved economic integration.” 5. Estimating cybersecurity costs (numbers). 6. Great Barrier Reef is doing fine? 7. California Forever meets further setbacks (NYT).",
+      "publishedAt": "2026-09-07T16:17:10.000Z",
+      "articleId": "c549a72e37309800"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/labor-day-is-basically-new-years",
+      "title": "Labor Day is Basically New Year’s For Sports",
+      "url": "https://neilpaine.substack.com/p/labor-day-is-basically-new-years",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The unofficial end of summer also marks the busiest, most crowded stretch on the sports calendar.",
+      "publishedAt": "2026-09-07T09:01:46.000Z",
+      "articleId": "2145dfd1b35e604b"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
       "title": "AI keeps stubbornly refusing to take our jobs",
@@ -399,17 +421,6 @@
       "articleId": "f333a7f7b8b21d91"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html?utm_source=rss&utm_medium=rss&utm_campaign=more-numbers-for-the-hugging-face-incident",
-      "title": "Share price numbers for the Hugging Face incident",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "…major publicly traded cybersecurity firms lost roughly $65–80 billion, or about 8–10% of their combined value, in the days following disclosure of the Hugging Face/OpenAI incident; by early September they had recovered roughly $58 billion, representing about 70–90% of that drawdown, depending on whether July 15 or July 20 is used as the pre-event baseline. […]",
-      "publishedAt": "2026-09-04T04:27:38.000Z",
-      "articleId": "b07f80bed4465b6c"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
       "title": "Beware big swings in midterm forecasts",
       "url": "https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
@@ -522,18 +533,6 @@
       "summary": "A conversation with Nate Silver and Jeremiah Johnson",
       "publishedAt": "2026-09-03T09:02:12.000Z",
       "articleId": "499d2d5f417b4e25"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/arte-morenos-angels-ownership-should",
-      "title": "Arte Moreno’s Angels Ownership Should Have Been a Golden Era. What Went Wrong?",
-      "url": "https://neilpaine.substack.com/p/arte-morenos-angels-ownership-should",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The Angels had Mike Trout, Shohei Ohtani and plenty of money. Somehow, they turned all of it into MLB’s longest playoff drought.",
-      "publishedAt": "2026-09-03T09:01:32.000Z",
-      "articleId": "305b4b640cb40c79"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
@@ -1927,29 +1926,6 @@
       "summary": "Important stories, internet fights, and stupid debates",
       "publishedAt": "2026-08-09T14:30:14.000Z",
       "articleId": "76eb927af926996f"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08082026",
-      "title": "Reading List 08/08/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-08082026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The Endangered Species Act and housing production, why it’s hard for LEGO to use 3D printing, robotic welding and shipbuilding, modular data centers, and more.",
-      "publishedAt": "2026-08-08T12:01:03.000Z",
-      "articleId": "bef3720c1ab2bdbc"
-    },
-    {
-      "id": "Ross Douthat (NYT):https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
-      "title": "Who Is My Enemy? I’m No Longer Sure.",
-      "url": "https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
-      "source": "Ross Douthat (NYT)",
-      "sourceUrl": "https://www.nytimes.com/column/ross-douthat",
-      "access": "paywalled",
-      "summary": "Where does the side of the angels really lie?",
-      "publishedAt": "2026-08-08T11:27:21.000Z",
-      "articleId": "b299d6d99249ffde"
     }
   ],
   "weather": {
@@ -1964,10 +1940,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "The warm sunshine is an outstanding way to cap the holiday weekend.",
-    "articleId": "17eed122ff5d47ae"
+    "articleId": "17eed122ff5d47ae",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-07T10:11:37.708Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-07T16:25:33.664Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
