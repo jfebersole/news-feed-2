@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T20:32:47.319Z",
-  "fetchedAt": "2026-09-07T20:32:47.316Z",
+  "generatedAt": "2026-09-07T23:28:08.245Z",
+  "fetchedAt": "2026-09-07T23:28:08.241Z",
   "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 806,
+  "itemCount": 171,
+  "totalItemCount": 805,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
@@ -1087,17 +1087,6 @@
       "articleId": "8fbebf38766ccb95"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/politics-should-be-more-boring",
-      "title": "Politics should be more boring",
-      "url": "https://www.slowboring.com/p/politics-should-be-more-boring",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It’s like drilling hard boards; it’s not supposed to be entertaining.",
-      "publishedAt": "2026-08-27T10:02:58.000Z",
-      "articleId": "5036473080343363"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/take-the-2026-acx-survey",
       "title": "Take The 2026 ACX Survey",
       "url": "https://www.astralcodexten.com/p/take-the-2026-acx-survey",
@@ -1941,19 +1930,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-stellar-today-and-then-a-steady-warming-trend/",
-    "title": "DC-area forecast: Stellar today and then a steady warming trend",
+    "title": "DC-area forecast: An enjoyable evening, then steady warming this week",
     "url": "https://www.capitalweather.com/dc-area-forecast-stellar-today-and-then-a-steady-warming-trend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Enjoy the sunny and warm afternoon, with highs of 80 to 85.",
+    "summary": "Happening now: Mostly clear and comfortable this evening with temperatures falling back into and through the 70s. Lows tonight in the upper 50s to mid-60s.",
     "publishedAt": "2026-09-07T09:00:03.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "The warm sunshine is an outstanding way to cap the holiday weekend.",
     "articleId": "17eed122ff5d47ae"
   },
-  "weatherGeneratedAt": "2026-09-07T20:32:47.319Z",
+  "weatherGeneratedAt": "2026-09-07T23:28:08.245Z",
   "weatherError": null,
   "sources": [
     {
@@ -2064,7 +2053,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
