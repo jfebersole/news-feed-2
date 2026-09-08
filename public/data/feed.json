@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-09-08T04:27:54.890Z",
-  "fetchedAt": "2026-09-08T04:27:54.879Z",
+  "generatedAt": "2026-09-08T09:36:17.807Z",
+  "fetchedAt": "2026-09-08T09:36:17.803Z",
   "sourceCount": 24,
-  "itemCount": 171,
-  "totalItemCount": 805,
+  "itemCount": 172,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-bears-are-coming-off-a-playoff",
+      "title": "The Bears Are Coming Off a Playoff Run. Yes, This Is Usually Where It Goes Wrong.",
+      "url": "https://neilpaine.substack.com/p/the-bears-are-coming-off-a-playoff",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Chicago has plenty of reasons to regress after last year’s breakthrough. But for once, the Bears may also have a real chance to avoid it.",
+      "publishedAt": "2026-09-08T09:00:55.000Z",
+      "articleId": "3a15ff0ceac48851"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=ed-elson-and-scott-galloway-interview-me-on-ai",
+      "title": "Ed Elson and Scott Galloway interview me on AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "",
+      "publishedAt": "2026-09-08T07:00:39.000Z",
+      "articleId": "5cc82f86130237e1"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html?utm_source=rss&utm_medium=rss&utm_campaign=will-new-transportation-technologies-increase-urban-density",
+      "title": "Will new transportation technologies increase urban density?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Will 21st century transportation innovations work against urban density, as the car did in the 20th century, or promote urban centralization, as the railroad did in the 19th century? Reducing the cost of commuting always reduces urban centralization in the classic Alonso-Muth-Mills model but that result reverses if the number of trips is endogenous and […]",
+      "publishedAt": "2026-09-08T04:56:22.000Z",
+      "articleId": "bd927fd3c9a6c439"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
       "title": "South Korean aspirational markets in everything",
@@ -354,17 +388,6 @@
       "articleId": "1abeaea49cd467ef"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-589",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. “After work, we’ll have each other.” 2. Gloria Steinem, RIP (NYT). 3. Henry Oliver on Finding Emily. 4. Solve for the Russian family squabble equilibrium (short video). 5. New Fuchsia Dunlop book due out October 20. 6. The O-Ring model, restated for AI. 7. Joshua Saxe on AI safety. 8. The pig kidney worked […]",
-      "publishedAt": "2026-09-04T15:38:16.000Z",
-      "articleId": "40bc263bf7285bdf"
-    },
-    {
       "id": "Tyler Cowen's Ethnic Dining Guide:https://tylercowensethnicdiningguide.com/index.php/pho-thin-13-lo-duc/",
       "title": "Pho Thin 13 Lo Duc",
       "url": "https://tylercowensethnicdiningguide.com/index.php/pho-thin-13-lo-duc/",
@@ -374,17 +397,6 @@
       "summary": "Pho Thin, 13 Lo Duc, web site, 7263H Arlington Blvd., Falls Church, VA, Graham Park Plaza, (571) 746-8446 (Metro Trip Planner – opens in new window) [Google | Washingtonian | Reddit] Has there been anything new in the Pho arena … Continue reading →",
       "publishedAt": "2026-09-04T14:17:00.000Z",
       "articleId": "b012b10ddf21f7b0"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html?utm_source=rss&utm_medium=rss&utm_campaign=real-gdp-per-capita-and-the-standard-of-living",
-      "title": "Real GDP Per Capita and the Standard of Living",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We are freshening up some of our videos with updated data so now is a good time to remind everyone that Modern Principles of Economics is best principles of economics textbook; great videos, clear writing and excellent applications and examples!",
-      "publishedAt": "2026-09-04T11:20:26.000Z",
-      "articleId": "6c897aab7418f1dd"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/you-cant-blame-housing-shortages",
@@ -1929,20 +1941,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-stellar-today-and-then-a-steady-warming-trend/",
-    "title": "DC-area forecast: An enjoyable evening, then steady warming this week",
-    "url": "https://www.capitalweather.com/dc-area-forecast-stellar-today-and-then-a-steady-warming-trend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-today-rain-free-until-chance-of-thursday-storms/",
+    "title": "DC-area forecast: Warming trend starts today. Rain-free until chance of Thursday storms.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-today-rain-free-until-chance-of-thursday-storms/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Mostly clear and comfortable this evening with temperatures falling back into and through the 70s. Lows tonight in the upper 50s to mid-60s.",
-    "publishedAt": "2026-09-07T09:00:03.000Z",
-    "dailyDigit": 9,
-    "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "The warm sunshine is an outstanding way to cap the holiday weekend.",
-    "articleId": "17eed122ff5d47ae"
+    "summary": "HAPPENING NOW: A fairly bright day despite some clouds mixing in at times. Temperatures rise into the 60s and 70s this morning, reaching the mid- to upper 80s this afternoon.",
+    "publishedAt": "2026-09-08T09:00:42.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "A very decent day even as our warming trend begins. Slightly more humid but still quite tolerable.",
+    "articleId": "0967ddb01c22014f"
   },
-  "weatherGeneratedAt": "2026-09-08T04:27:54.890Z",
+  "weatherGeneratedAt": "2026-09-08T09:36:17.807Z",
   "weatherError": null,
   "sources": [
     {
@@ -2029,7 +2041,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
