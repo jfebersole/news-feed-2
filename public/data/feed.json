@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-09-08T09:36:17.807Z",
-  "fetchedAt": "2026-09-08T09:36:17.803Z",
+  "generatedAt": "2026-09-08T14:30:44.893Z",
+  "fetchedAt": "2026-09-08T14:30:44.888Z",
   "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 806,
+  "itemCount": 174,
+  "totalItemCount": 799,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "title": "Pete Hegseth Is a Wrecking Ball",
+      "url": "https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "We are already paying a high price for the defense secretary’s purges and whims.",
+      "publishedAt": "2026-09-08T14:10:43.000Z",
+      "articleId": "80f3b4ddc44fb0d0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/some-navier-stokes-updates.html?utm_source=rss&utm_medium=rss&utm_campaign=some-navier-stokes-updates",
+      "title": "Some Navier-Stokes updates",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/some-navier-stokes-updates.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Some Terry Tao. More Terry Tao. Some ChatGPT. Some are calling this “a Deep Blue moment” for AI. All via T., a mathematician.",
+      "publishedAt": "2026-09-08T13:39:08.000Z",
+      "articleId": "9655aac34dfe47a0"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/butt-rock-an-album-a-day",
+      "title": "Butt Rock: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/butt-rock-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Creed, Puddle of Mudd, Nickelback, and others",
+      "publishedAt": "2026-09-08T13:31:51.000Z",
+      "articleId": "5b33c7323c220f9d"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
+      "title": "God Help Us, Let’s Try To Learn About Mechanistic Interpretability Techniques",
+      "url": "https://www.astralcodexten.com/p/god-help-us-lets-try-to-learn-about",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-08T12:04:21.000Z",
+      "articleId": "8e5ec382bed1cc11"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/no-doing-no-learning.html?utm_source=rss&utm_medium=rss&utm_campaign=no-doing-no-learning",
+      "title": "No Doing, No Learning",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/no-doing-no-learning.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A regulation that raises gasoline prices makes people angry but when regulation prevents an industry from ever existing, most people never learn what they lost. Consider nuclear power. Overnight construction costs for early U.S. demonstration reactors fell 81 percent between 1954 and 1968. For reactors begun between 1967 and 1972, costs rose 187 percent. The […]",
+      "publishedAt": "2026-09-08T11:16:52.000Z",
+      "articleId": "9b2d095586772788"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/theres-an-awful-lot-we-dont-know",
+      "title": "There’s an awful lot we don’t know about data centers",
+      "url": "https://www.slowboring.com/p/theres-an-awful-lot-we-dont-know",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "An un-splainer about the issue of the moment",
+      "publishedAt": "2026-09-08T10:03:27.000Z",
+      "articleId": "2bb0ebc9d1519085"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/write-things-down/",
+      "title": "Write Things Down",
+      "url": "https://stratechery.com/2026/write-things-down/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
+      "publishedAt": "2026-09-08T10:00:00.000Z",
+      "articleId": "def769291a05f7a1"
+    },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-bears-are-coming-off-a-playoff",
       "title": "The Bears Are Coming Off a Playoff Run. Yes, This Is Usually Where It Goes Wrong.",
@@ -185,17 +263,6 @@
       "articleId": "575dfd8c84df1e73"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
-      "title": "Pete Hegseth Is a Wrecking Ball",
-      "url": "https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "We are already paying a high price for the defense secretary’s purges and whims.",
-      "publishedAt": "2026-09-06T10:00:25.000Z",
-      "articleId": "80f3b4ddc44fb0d0"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html?utm_source=rss&utm_medium=rss&utm_campaign=why-not-bolivia",
       "title": "*Why Not Bolivia?*",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html",
@@ -298,17 +365,6 @@
       "articleId": "832586e25cbe24ae"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-lichtenstein-an-actual-monarchy",
-      "title": "Is Lichtenstein an actual monarchy?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "It seems so: Internal documents reviewed by the FT show that three days earlier, behind the walls of Vaduz Castle, Europe’s wealthiest ruling dynasty had quietly approved an overhaul that strengthens the authority of a prince who already wields extraordinary power over his 42,000 citizens, while reducing some of the rights and checks exercised by […]",
-      "publishedAt": "2026-09-05T05:14:01.000Z",
-      "articleId": "9f7af3c5bfd556df"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
       "title": "Slow Boring D.C. happy hour on Wednesday",
       "url": "https://www.slowboring.com/p/slow-boring-dc-happy-hour-on-wednesday",
@@ -363,17 +419,6 @@
       "summary": "Bring Japan Home With You (Japanese Pantry Staples) | Kenji Eats Japan Follow along as we walk you through every aisle in a Japanese grocery store for a complete guide on stocking your pantry. This extended cut is exclusi... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Bring Japan Home With You (Japanese Pantry Staples) | Kenji Eats Japan J. Kenji López-Alt Sep 4, 2026 View in app View in app Follow along as we walk you through every aisle in a Japanese grocery store for a complete guide on stocking your pantry. This extended cut is exclusive for Patreon! Hi Frienjis, Community & Content Manager Erin here with our very last episode of the Kenji Eats Japan series! Earlier this year, our team traveled to Japan in search of good food and even better kitchen knives (get the full story here). We knew we had to bring some of that culinary magic back for you. That’s why, today, we’re walking you through how to make that a reality with Kenji’s ultimate guide on How to Stock a Japanese Pantry. Kenji Ate Japan… Now You Can, Too! If you’re at all familiar with Japanese cuisine, you might be able to guess some of the basics Kenji will recommend: Soy sauce, miso paste, dashi, maybe a shiso leaf if you’re feeling fancy. But unlike most pantry hauls, this one is not just scratching the surface. With the help of our local Japanese grocery store, we walked down each aisle and covered everything from ginkgo nuts and shungiku...",
       "publishedAt": "2026-09-04T17:18:22.547Z",
       "articleId": "3db0f06b7778dc73"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/how-are-the-market-valuations-for-the-u-s-insurers-doing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-are-the-market-valuations-for-the-u-s-insurers-doing",
-      "title": "How are the market valuations for the U.S: insurers doing?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-are-the-market-valuations-for-the-u-s-insurers-doing.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "U.S. insurance stocks have been doing quite well since the beginning of May 2026, and they have materially outperformed the overall market. I’m using the May 1 close through the September 3 close so that we compare complete trading days; these are price changes, excluding dividends. The cleanest broad measure is the iShares U.S. Insurance […]",
-      "publishedAt": "2026-09-04T17:07:14.000Z",
-      "articleId": "7a4a9a30ecc79261"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/19-robotics-companies-to-watch",
@@ -1368,17 +1413,6 @@
       "articleId": "4dbc987e8f01b7cb"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/app-snore/",
-      "title": "2026.34: App Snore",
-      "url": "https://stratechery.com/2026/app-snore/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
-      "publishedAt": "2026-08-21T17:00:00.000Z",
-      "articleId": "1ba717bcfb2289f3"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
       "title": "Why Thailand was never colonized",
       "url": "https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
@@ -1926,18 +1960,6 @@
       "summary": "A guest post by Tim Fist and Saif Khan.",
       "publishedAt": "2026-08-09T18:15:22.000Z",
       "articleId": "3a16571b6bfdb96d"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
-      "title": "The Worst National Anthem: Link Drop",
-      "url": "https://www.cantgetmuchhigher.com/p/the-worst-national-anthem-link-drop",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Important stories, internet fights, and stupid debates",
-      "publishedAt": "2026-08-09T14:30:14.000Z",
-      "articleId": "76eb927af926996f"
     }
   ],
   "weather": {
@@ -1954,7 +1976,7 @@
     "dailyDigitSummary": "A very decent day even as our warming trend begins. Slightly more humid but still quite tolerable.",
     "articleId": "0967ddb01c22014f"
   },
-  "weatherGeneratedAt": "2026-09-08T09:36:17.807Z",
+  "weatherGeneratedAt": "2026-09-08T14:30:44.893Z",
   "weatherError": null,
   "sources": [
     {
@@ -1968,16 +1990,16 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2065,7 +2087,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2112,10 +2134,10 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
-      "itemCount": 6,
+      "mode": "fallback-cache",
+      "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
