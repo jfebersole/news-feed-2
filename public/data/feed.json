@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-09-09T19:44:27.818Z",
-  "fetchedAt": "2026-09-09T19:44:27.815Z",
+  "generatedAt": "2026-09-09T22:31:14.490Z",
+  "fetchedAt": "2026-09-09T22:31:14.485Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
+      "title": "Alaska’s ranked choice voting: Six years of experimenting and its biggest test yet",
+      "url": "https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The system that remade the state’s politics is back on the ballot, and so is a candidate it has both carried and sunk.",
+      "publishedAt": "2026-09-09T22:01:34.000Z",
+      "articleId": "dd2cd0c50be909b8"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/inside-elways-2026-nfl-forecast",
+      "title": "Inside ELWAY’s 2026 NFL forecast",
+      "url": "https://www.natesilver.net/p/inside-elways-2026-nfl-forecast",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Our model mostly agrees with Vegas, but the differences are revealing. For instance, why does it feel so conflicted about the Rams?",
+      "publishedAt": "2026-09-09T20:18:10.000Z",
+      "articleId": "2951398db8acbc9e"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/g13tgxdm8uji3cu9ngwg.html",
       "title": "Money Stuff: AAA AI",
@@ -412,8 +436,7 @@
       "url": "https://www.slowboring.com/p/the-return-of-institutional-purpose",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
+      "access": "open",
       "summary": "Generative A.I. gives institutions the chance to re-evaluate their values.",
       "publishedAt": "2026-09-05T13:02:15.000Z",
       "articleId": "601e27c7d80437a9"
@@ -1008,18 +1031,6 @@
       "articleId": "795738cca0e8ef05"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/everything-is-country",
-      "title": "Everything is country",
-      "url": "https://www.slowboring.com/p/everything-is-country",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "How a once-loathed genre became the sound of America",
-      "publishedAt": "2026-08-29T13:01:51.000Z",
-      "articleId": "13448adc3da9fd43"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082926",
       "title": "Reading List 08/29/26",
       "url": "https://www.construction-physics.com/p/reading-list-082926",
@@ -1115,8 +1126,7 @@
       "url": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
+      "access": "open",
       "summary": "Spoiler: It’s vibe-coded superviruses.",
       "publishedAt": "2026-08-28T09:48:43.000Z",
       "articleId": "8138d20dd2a472a0"
@@ -1917,17 +1927,6 @@
       "articleId": "5fa6da40347c52f4"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/flipr-midterms-model-methodology",
-      "title": "How FLIPR forecasts the midterm elections",
-      "url": "https://www.natesilver.net/p/flipr-midterms-model-methodology",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "And what changes we've made to the model for 2026.",
-      "publishedAt": "2026-08-11T17:33:21.000Z",
-      "articleId": "f3f59a9be16a3eaa"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/trading-favorites-an-album-a-day",
       "title": "Trading Favorites: An Album a Day",
       "url": "https://www.cantgetmuchhigher.com/p/trading-favorites-an-album-a-day",
@@ -1952,19 +1951,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
-    "title": "DC-area forecast: A bit hotter today before storm chances return Thursday",
+    "title": "DC-area forecast: Heat is back for now, and storm chances return Thursday",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Heating up this afternoon, but not terribly humid, with highs in the upper 80s to near 90.",
+    "summary": "HAPPENING NOW: Following above average highs in the upper 80s to near 90, we're mostly clear this evening with only a slow dip backwards through the 80s.",
     "publishedAt": "2026-09-09T09:00:20.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some spots have a shot at 90 degrees. But September heat isn't as harsh as midsummer, and humidity is still relatively tame.",
     "articleId": "3aa3666bc7364f2d"
   },
-  "weatherGeneratedAt": "2026-09-09T19:44:27.818Z",
+  "weatherGeneratedAt": "2026-09-09T22:31:14.490Z",
   "weatherError": null,
   "sources": [
     {
@@ -2130,10 +2129,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "Status code 502 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
