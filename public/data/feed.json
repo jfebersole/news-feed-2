@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-09T05:57:12.929Z",
-  "fetchedAt": "2026-09-09T05:57:12.925Z",
+  "generatedAt": "2026-09-09T11:15:40.667Z",
+  "fetchedAt": "2026-09-09T11:15:40.664Z",
   "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 807,
+  "itemCount": 173,
+  "totalItemCount": 808,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trumps-terrible-plan-to-break-skilled",
+      "title": "Trump’s terrible plan to break skilled immigration",
+      "url": "https://www.slowboring.com/p/trumps-terrible-plan-to-break-skilled",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Improve flawed programs — don’t destroy them.",
+      "publishedAt": "2026-09-09T10:00:39.000Z",
+      "articleId": "9e6a589b69262849"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+      "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "articleId": "7450c13789cb77a0"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
+      "title": "Liberalism needs a new philosophy of immigration",
+      "url": "https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "We need to make a principled stand instead of a tactical retreat.",
+      "publishedAt": "2026-09-09T08:39:04.000Z",
+      "articleId": "c6d1967593f95c65"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-141",
+      "title": "Reading sentences to ponder",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In 2015, 6 of the top 25 bestselling hardcover books—this is a not-perfect but useful proxy for new books published—were fiction. In 2025, 18 of the top 25 hardcover books were fiction, meaning only 7 were nonfiction, almost an exact inversion of ten years ago. From Sean Delone, via David Wallace-Wells.",
+      "publishedAt": "2026-09-09T07:06:06.000Z",
+      "articleId": "46b024d4e4a02259"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/reasons-to-go-to-college.html?utm_source=rss&utm_medium=rss&utm_campaign=reasons-to-go-to-college",
       "title": "Reasons to go to college",
@@ -327,17 +371,6 @@
       "summary": "I study how short-form design amplifies self-control problems in digital media. Short units repeatedly renew temptation that lasts longer than each unit, turning local temptation into sustained overconsumption. Using microdata from a U.S. short-drama platform, I exploit a nonlinear top-up menu to infer viewing plans and show that paying users watch 82.1% more than intended. […]",
       "publishedAt": "2026-09-05T18:11:39.000Z",
       "articleId": "68e4bb10f8b0c338"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-588",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Joaquin Rodrigo’s Toccata. Rodrigo by the way was blind, 2. China word of the day. 3. “People Keep Sneaking Into New York City Sewers. No One Knows Why.” (NYT) 4. Yiyang Zhuge has postponed her recording session with CWT, in case you will be wondering why the episode does not show up soon. 5. […]",
-      "publishedAt": "2026-09-05T15:50:35.000Z",
-      "articleId": "21741b8ceef88297"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-return-of-institutional-purpose",
@@ -1298,17 +1331,6 @@
       "articleId": "1539f1c2b7515b2a"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/autonomy-and-innovation/",
-      "title": "Autonomy and Innovation",
-      "url": "https://stratechery.com/2026/autonomy-and-innovation/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "publishedAt": "2026-08-24T10:00:00.000Z",
-      "articleId": "abf6c4e15f4ae859"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
       "title": "What if our biggest problems aren’t economic?",
       "url": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
@@ -1925,35 +1947,23 @@
       "summary": "The Giants are back from West Virginia, and their depth chart is coming into focus.",
       "publishedAt": "2026-08-10T13:41:32.000Z",
       "articleId": "be585a615463ba2a"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/perth-australia-the-beautiful-lonely",
-      "title": "Perth (Australia) -- The Beautiful Lonely City",
-      "url": "https://walkingtheworld.substack.com/p/perth-australia-the-beautiful-lonely",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Giant trees, odd birds, and few people living next to valuable rocks",
-      "publishedAt": "2026-08-10T09:47:37.000Z",
-      "articleId": "84204981c1c88493"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-today-rain-free-until-chance-of-thursday-storms/",
-    "title": "DC-area forecast: Warming trend underway. Rain-free until chance of Thursday storms.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-today-rain-free-until-chance-of-thursday-storms/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
+    "title": "DC-area forecast: A bit hotter today before storm chances return Thursday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly clear and pleasant tonight with lows dipping to the low to mid-60s.",
-    "publishedAt": "2026-09-08T09:00:42.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "A very decent day even as our warming trend begins. Slightly more humid but still quite tolerable.",
-    "articleId": "0967ddb01c22014f"
+    "summary": "HAPPENING NOW: Morning 60s and 70s with plenty of sun. Kind of hot this afternoon, but not terribly humid, with highs in the upper 80s to near 90.",
+    "publishedAt": "2026-09-09T09:00:20.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Some spots have a shot at 90 degrees. But September heat isn't as harsh as midsummer, and humidity is still relatively tame.",
+    "articleId": "3aa3666bc7364f2d"
   },
-  "weatherGeneratedAt": "2026-09-09T05:57:12.929Z",
+  "weatherGeneratedAt": "2026-09-09T11:15:40.667Z",
   "weatherError": null,
   "sources": [
     {
@@ -2064,7 +2074,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
