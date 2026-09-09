@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-09T00:09:43.345Z",
-  "fetchedAt": "2026-09-09T00:09:43.342Z",
+  "generatedAt": "2026-09-09T05:57:12.929Z",
+  "fetchedAt": "2026-09-09T05:57:12.925Z",
   "sourceCount": 24,
   "itemCount": 172,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/reasons-to-go-to-college.html?utm_source=rss&utm_medium=rss&utm_campaign=reasons-to-go-to-college",
+      "title": "Reasons to go to college",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reasons-to-go-to-college.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column, here is one excerpt: …college is a great place to make friends, date, and possibly meet a spouse. Those features are ever more important as America suffers a crisis of loneliness. Furthermore, if you think that artificial intelligence may displace a lot of jobs, or […]",
+      "publishedAt": "2026-09-09T04:47:02.000Z",
+      "articleId": "6ac04a59ef00ab7b"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gxlxs9hy613zsm7e6p79.html",
       "title": "Money Stuff: Robinhood Tokenized AMC",
@@ -351,17 +362,6 @@
       "summary": "SpaceX’s turbine blade factory, Fervo’s deal with Google, Delhi’s cheap metro, why recycling is overrated, and more.",
       "publishedAt": "2026-09-05T12:03:33.000Z",
       "articleId": "5f46217533f9a111"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-citizen-debt-forecast-cdf",
-      "title": "The Kalshi Citizen Debt Forecast (CDF)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Kalshi Research is doing interesting work on the fundamentals of prediction markets and also on how data from prediction markets can be used to improve other forecasts. Economists at the Fed, for example, recently wrote Kalshi and the Rise of Macro Markets finding: Prediction markets offer a new market-based approach to measuring macroeconomic expectations in […]",
-      "publishedAt": "2026-09-05T11:15:52.000Z",
-      "articleId": "4b2856d229999b6b"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-aug-31-sept-4-2026",
@@ -1946,14 +1946,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Warm and pleasant this evening with temperatures dipping through the 80s into sunset, then the 70s by 8 p.m. or so.",
+    "summary": "HAPPENING NOW: Mostly clear and pleasant tonight with lows dipping to the low to mid-60s.",
     "publishedAt": "2026-09-08T09:00:42.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "A very decent day even as our warming trend begins. Slightly more humid but still quite tolerable.",
     "articleId": "0967ddb01c22014f"
   },
-  "weatherGeneratedAt": "2026-09-09T00:09:43.345Z",
+  "weatherGeneratedAt": "2026-09-09T05:57:12.929Z",
   "weatherError": null,
   "sources": [
     {
