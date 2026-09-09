@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T21:48:32.218Z",
-  "fetchedAt": "2026-09-08T21:48:32.214Z",
+  "generatedAt": "2026-09-09T00:09:43.345Z",
+  "fetchedAt": "2026-09-09T00:09:43.342Z",
   "sourceCount": 24,
-  "itemCount": 173,
-  "totalItemCount": 808,
+  "itemCount": 172,
+  "totalItemCount": 807,
   "items": [
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gxlxs9hy613zsm7e6p79.html",
@@ -1065,18 +1065,6 @@
       "articleId": "86cd290243a2ba29"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-great-awokening-started-in-2014",
-      "title": "The Great Awokening started in 2014, not 2020",
-      "url": "https://www.slowboring.com/p/the-great-awokening-started-in-2014",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus price controls, a lot of Maine stuff, and what a 2028 anti-MAGA insurgency could look like",
-      "publishedAt": "2026-08-28T10:01:02.000Z",
-      "articleId": "e42b1cb8ebcdba88"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
       "title": "Here’s how we’re all going to die",
       "url": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
@@ -1965,7 +1953,7 @@
     "dailyDigitSummary": "A very decent day even as our warming trend begins. Slightly more humid but still quite tolerable.",
     "articleId": "0967ddb01c22014f"
   },
-  "weatherGeneratedAt": "2026-09-08T21:48:32.218Z",
+  "weatherGeneratedAt": "2026-09-09T00:09:43.345Z",
   "weatherError": null,
   "sources": [
     {
@@ -2076,7 +2064,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
