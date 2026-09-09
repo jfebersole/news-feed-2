@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-09T16:34:29.086Z",
-  "fetchedAt": "2026-09-09T16:34:29.081Z",
+  "generatedAt": "2026-09-09T19:44:27.818Z",
+  "fetchedAt": "2026-09-09T19:44:27.815Z",
   "sourceCount": 24,
-  "itemCount": 172,
+  "itemCount": 173,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/g13tgxdm8uji3cu9ngwg.html",
+      "title": "Money Stuff: AAA AI",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/g13tgxdm8uji3cu9ngwg.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "AI ratings I think sometimes , in our age of artificial intelligence, about two opposing theories of asset pricing. One is the standard academic theory , which is that investors demand compensation for correlated returns . An asset that will pay back your money 98% of the time, but will give you zero in the 2% of cases where there’s a big market crash, is bad: It loses money at the worst possible time, the time when all your other assets lose money and you really need money. An asset that will pay back your money 98% of the time, but will give you zero in some random 2% of cases — when there’s a hurricane in the Caribbean, when the Bengals win the Super Bowl — is good: Sure it has risk, but that risk is uncorrelated to the rest of your risks; this asset probably performs well when you really need it, and loses money when you are otherwise fine. There is another popular folk theory in the financial industry, though, which is that investors minimize career risk and thus demand compensation for taking uncorrelated risks. An asset that pays back your money 98% of the time, but goes to zero in the 2% of cases when all of your competitors are also losing money , is fine . If everyone’s losing money at the same time, then (1) no one will blame you for losing money too and (2) your firm is probably blowing up anyway so owning the asset doesn’t change much. (“ IBGYBG ,” this theory is sometimes called.) An asset that pays back your money 98% of the time, but goes to zero in some random 2% of cases when everyone else is doing great, is embarrassing . If you buy that thing and it blows up on a balmy summer day, (1) you’re getting fired and (2) everyone else is getting a nice bonus and shaking their heads at your idiosyncratic mistake. “Why did she buy that thing that blew up,” they ask. “She should have bought normal stuff like the rest of us.” There’s a classic paper rooted in the first theory, “Economic Catastrophe Bonds,” by Joshua Coval, Jakub Jurek and Erik Stafford. Here’s a 2007 working-paper version , and here’s the 2009 version in the American Economic Review. Some stuff happened between those dates. From the abstract: The central insight of asset pricing is that a security’s value depends on both its distribution of payoffs across economic states and state prices. In fixed income markets, many investors focus exclusively on estimates of expected payoffs, such as credit ratings, without considering the state of the economy in which default is likely to occur. Such investors are likely to be attracted to securities whose payoffs resemble those of economic catastrophe bonds — bonds that default only under severe economic conditions. We show that many structured finance instruments can be characterized as economic catastrophe bonds, but offer far less...",
+      "publishedAt": "2026-09-09T17:58:14.648Z",
+      "articleId": "55f9bc66fc50037d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-kevin-roose.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-kevin-roose",
+      "title": "What should I ask Kevin Roose?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-kevin-roose.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a podcast with him. From Wikipedia: Kevin Roose…is an American author and journalist. He is the author of three books, and is a technology columnist and podcast host for The New York Times. He wrote a book about Liberty University, an evangelical Christian university known for strict rules imposed on students… […]",
+      "publishedAt": "2026-09-09T17:47:49.000Z",
+      "articleId": "02c4639360a849c0"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-invention-of-the-mmo",
+      "title": "The invention of the MMO",
+      "url": "https://www.worksinprogress.news/p/the-invention-of-the-mmo",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "The massively multiplayer online game was created in the 1980s.",
+      "publishedAt": "2026-09-09T16:37:49.000Z",
+      "articleId": "8aa4df1ab102036e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-570",
       "title": "Wednesday assorted links",
@@ -360,17 +393,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-09-06T17:01:38.000Z",
       "articleId": "43287c0896ac7588"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-577",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Vishy now thinks Pragg is number one in the chess world. 2. Do children grow continuously, or grow in fits and starts? 3. It remains my view that Ferrante is the husband and wife team. 4. Essay on Olaf Stapledon. 5. “US annual interest expense is up to a record 18.5% of federal government […]",
-      "publishedAt": "2026-09-06T16:33:49.000Z",
-      "articleId": "14eb779881762a8c"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/is-this-it-a-conversation-with-steven",
@@ -758,17 +780,6 @@
       "summary": "A guest post by Daniel Böttger",
       "publishedAt": "2026-09-02T05:51:22.000Z",
       "articleId": "0190d956c4e56065"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/53jdzpckn8j19nhzzw3q.html",
-      "title": "Money Stuff: Amazon Charged the First Price",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/53jdzpckn8j19nhzzw3q.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Second price Amazon.com Inc. sells advertising on its site: If you search for something on Amazon, some of the results you see are “sponsored listings,” that is, advertisements from companies that want to sell you their products. Approximately speaking, the way Amazon sells those ads is with a second-price auction [1] : Advertisers submit sealed bids for each sponsored-product slot, the highest bidder wins, but the price that the winner pays is a tick more than the second- highest bid. So if there are three bidders who bid $10, $8 and $6 for a spot, the bidder who bids $10 wins, but it pays $8.01, a penny more than the second-best bid. [2] Second-price auctions are the normal way to sell online advertising, and the theory is that they give bidders better incentives to bid their real valuations than a normal auction where the winner pays the highest bid. How well this auction works depends on how many bidders there are. If 100 companies bid for each advertising spot, the auction is probably pretty competitive, the second-highest bid is probably pretty high, and you get an efficient auction whose price reflects the value of the ad. On the other hand, if only like two or three companies bid, you might get some inefficient auctions where the clearing price is pretty low. This comes up because Amazon does not actually sell ads to the highest bidder. In showing users sponsored listings, Amazon considers two factors: (1) who will pay the most for the ad and (2) how “relevant” the ad is to the user’s search. When a user searches for “paper towels,” she wants to see results for paper towels. It might be more lucrative to show her advertisements for, you know, Ponzi schemes; advertisers might be willing to pay more to show her non-paper-towel ads than they would to show her paper-towel ads. But that would be bad for Amazon’s business overall: Users would get annoyed if their search results were always wrong. Amazon says : Our early approach was simple: advertisers enter a bid, and if they win, they would pay just enough to beat the next highest ranked ad. Our auctions took relevancy into account to a degree, but they were much more weighted toward the highest bid amount. While we could have decided to continue to favor the higher bids, we instead chose to focus on more relevant bids to ensure the best possible shopper and advertiser experience. As our advanced machine learning-based relevance models more heavily weighted relevance versus highest bid, we saw winning bids drop significantly. That was good for advertisers and shoppers but meant premium placements in our Store were being undervalued. The rough intuition is: 100 companies were willing to pay for ads on each search, which produced a price that Amazon liked, but only 2 or 3 of them were advertising...",
-      "publishedAt": "2026-09-01T18:13:40.367Z",
-      "articleId": "ba36f2eebabca0f6"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7556301/2026/09/01/new-york-giants-mailbag-john-harbaugh-week-1/",
@@ -1953,7 +1964,7 @@
     "dailyDigitSummary": "Some spots have a shot at 90 degrees. But September heat isn't as harsh as midsummer, and humidity is still relatively tame.",
     "articleId": "3aa3666bc7364f2d"
   },
-  "weatherGeneratedAt": "2026-09-09T16:34:29.086Z",
+  "weatherGeneratedAt": "2026-09-09T19:44:27.818Z",
   "weatherError": null,
   "sources": [
     {
