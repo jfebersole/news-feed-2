@@ -1,10 +1,101 @@
 {
-  "generatedAt": "2026-09-10T05:55:29.479Z",
-  "fetchedAt": "2026-09-10T05:55:29.475Z",
+  "generatedAt": "2026-09-10T11:13:03.019Z",
+  "fetchedAt": "2026-09-10T11:13:03.016Z",
   "sourceCount": 24,
-  "itemCount": 173,
-  "totalItemCount": 808,
+  "itemCount": 174,
+  "totalItemCount": 809,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/royce-on-san-francisco",
+      "title": "Royce On San Francisco",
+      "url": "https://www.astralcodexten.com/p/royce-on-san-francisco",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-10T11:10:18.000Z",
+      "articleId": "50a5e559c8145651"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-economy-could-survive-a-downtick",
+      "title": "The economy could survive a downtick in A.I.",
+      "url": "https://www.slowboring.com/p/the-economy-could-survive-a-downtick",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus what happened to college and what’s wrong with Tucker Carlson",
+      "publishedAt": "2026-09-10T10:02:14.000Z",
+      "articleId": "f6ffb692e2001d6e"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
+      "title": "Targeted evolution: How Giants are molding Jaxson Dart into savior they need him to be",
+      "url": "https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "To become what the Giants need him to be, Dart must master aspects of the quarterback position he's largely unfamiliar with.",
+      "publishedAt": "2026-09-10T10:00:48.000Z",
+      "articleId": "1dbcdd12a7deb3db"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+      "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "articleId": "a273c631b90239b0"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-911-attacks-and-the-crisis-of",
+      "title": "The 9/11 attacks and the crisis of global liberalism",
+      "url": "https://www.slowboring.com/p/the-911-attacks-and-the-crisis-of",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Cosmopolitan Humanism 1 was crazy.",
+      "publishedAt": "2026-09-10T09:02:02.000Z",
+      "articleId": "df52eabbd7a6dd3a"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-bills-and-ravens-are-running",
+      "title": "The Bills and Ravens Are Running Out of Time",
+      "url": "https://neilpaine.substack.com/p/the-bills-and-ravens-are-running",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Josh Allen and Lamar Jackson have been circling the Super Bowl for years. History suggests there may not be many more chances this good left.",
+      "publishedAt": "2026-09-10T09:01:49.000Z",
+      "articleId": "c2ea6c0e4b1eebdd"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/economic-scenarios-for-transformative-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=economic-scenarios-for-transformative-ai",
+      "title": "Economic Scenarios for Transformative AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/economic-scenarios-for-transformative-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "By Anton Korinek, Charles I. Jones, Szymon Sacher, Tess Cotter, and Peter McCrory, a strong line-up from Anthropic. They are sober, reasoned, scientific, and (for the most part) dynamically consistent. Here is the paper, here is the abstract: This paper presents a framework for assessing the economic consequences of AI between 2026 and 2030. In […]",
+      "publishedAt": "2026-09-10T08:39:10.000Z",
+      "articleId": "09322798aa75684b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ricardo-reis-and-the-imf.html?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-reis-and-the-imf",
+      "title": "Ricardo Reis and the IMF?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ricardo-reis-and-the-imf.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The IMF dropped the lead candidate to become its new chief economist at the eleventh hour after he was found to have made critical remarks about the Trump administration’s economic policies, according to people briefed on the process. The Washington-based fund was preparing an announcement that Ricardo Reis, a professor at the London School of […]",
+      "publishedAt": "2026-09-10T06:25:27.000Z",
+      "articleId": "2f49e7bccff574fa"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-jared-diamond",
       "title": "My very interesting Conversation with Jared Diamond",
@@ -361,28 +452,6 @@
       "summary": "Happy Labor Day!! Your labor is still valuable.",
       "publishedAt": "2026-09-07T08:13:49.000Z",
       "articleId": "1c3f1fdc068b65bb"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/capital-gains-vs-wealth-taxes.html?utm_source=rss&utm_medium=rss&utm_campaign=capital-gains-vs-wealth-taxes",
-      "title": "Capital gains vs. wealth taxes",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/capital-gains-vs-wealth-taxes.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset price movements, adopting the modern finance view that asset prices fluctuate not only because of changing cash flows, but also due to other factors […]",
-      "publishedAt": "2026-09-07T07:47:13.000Z",
-      "articleId": "8db5ba7ef4732e98"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-winners-59th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-59th-cohort",
-      "title": "Emergent Ventures winners, 59th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-winners-59th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Tym Syrytczyk, London, autonomous vehicles in the UK. Shane Regan, Long Island, 16, AI agents. Maximilian Kornstein, 15, Atlanta area, agents and general career support. Irene Chen and Jessica Dai, UC Berkeley, data on peptides use. Evan Warfel, Bay Area, updated meta-analyses through AI. Daniel Dominguez Gomez, biomedical think tank for Mexico. Malhaar Agrawal, U […]",
-      "publishedAt": "2026-09-07T04:32:31.000Z",
-      "articleId": "fe161f6fe89bf687"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/its-the-fun",
@@ -952,17 +1021,6 @@
       "articleId": "a128a31867140635"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/democrats-should-vow-to-surrender",
-      "title": "Democrats should vow to surrender in the Canada trade war",
-      "url": "https://www.slowboring.com/p/democrats-should-vow-to-surrender",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Good politics, good policy, and the search for a peaceful world require complete repudiation of this nonsense.",
-      "publishedAt": "2026-08-31T10:03:38.000Z",
-      "articleId": "6327ef7f0e4fbbee"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
       "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
       "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
@@ -994,18 +1052,6 @@
       "summary": "From the Hugging Face Incident to Twilight Factories",
       "publishedAt": "2026-08-31T00:24:35.000Z",
       "articleId": "0cce3296bceb61c6"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-03e",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-03e",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-08-30T17:00:51.000Z",
-      "articleId": "f28f7f9eb3753a23"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
@@ -1296,17 +1342,6 @@
       "summary": "Does it matter whether building more houses lowers prices not?",
       "publishedAt": "2026-08-25T12:01:24.000Z",
       "articleId": "1ec9c10e2b09d636"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
-      "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
-      "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
-      "publishedAt": "2026-08-25T10:00:00.000Z",
-      "articleId": "ae289739381deefa"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
@@ -1860,17 +1895,6 @@
       "articleId": "081c25b3b74561d8"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
-      "title": "The Quest For Caffeine You Can Have At Night",
-      "url": "https://www.astralcodexten.com/p/the-quest-for-caffeine-you-can-have",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-13T04:09:15.000Z",
-      "articleId": "83f54b96618146fb"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/nak3dom9u33z5vp0rrj4.html",
       "title": "Bullet Trains and Bento Boxes, Oh My! | Kenji Eats Japan",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/nak3dom9u33z5vp0rrj4.html",
@@ -1936,34 +1960,23 @@
       "summary": "Featuring Queen, Bob Dylan, Lorde, and others",
       "publishedAt": "2026-08-11T13:30:50.000Z",
       "articleId": "1d77d94a63828422"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
-      "title": "The poverty of anti-tech thought",
-      "url": "https://www.noahpinion.blog/p/the-poverty-of-anti-tech-thought",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Some of my colleagues have been led into an intellectual cul-de-sac.",
-      "publishedAt": "2026-08-11T08:01:13.000Z",
-      "articleId": "a22429960383f08b"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
-    "title": "DC-area forecast: Heat is back for now. Shower chances return Thursday into Thursday night.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
+    "title": "DC-area forecast: Hot and humid today with a few showers; scattered storms tonight",
+    "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds increase a bit after midnight and toward dawn as lows settle in the upper 60s to mid-70s. A shower is possible by morning.",
-    "publishedAt": "2026-09-09T09:00:20.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Some spots have a shot at 90 degrees. But September heat isn't as harsh as midsummer, and humidity is still relatively tame.",
-    "articleId": "3aa3666bc7364f2d"
+    "summary": "HAPPENING NOW: A warm start with a few morning showers around the region. Partly sunny this afternoon with an isolated shower or storm possible as highs reach the upper 80s and low 90s.",
+    "publishedAt": "2026-09-10T09:00:28.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Feeling like August, with highs near 90 and the heat index pushing toward the mid-90s. Scattered storms possible late.",
+    "articleId": "c22ffa6150b44c7f"
   },
-  "weatherGeneratedAt": "2026-09-10T05:55:29.479Z",
+  "weatherGeneratedAt": "2026-09-10T11:13:03.019Z",
   "weatherError": null,
   "sources": [
     {
@@ -2050,7 +2063,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
