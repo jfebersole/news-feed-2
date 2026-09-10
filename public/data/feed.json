@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T19:37:38.935Z",
-  "fetchedAt": "2026-09-10T19:37:38.931Z",
+  "generatedAt": "2026-09-10T22:31:42.144Z",
+  "fetchedAt": "2026-09-10T22:31:42.140Z",
   "sourceCount": 24,
-  "itemCount": 174,
-  "totalItemCount": 806,
+  "itemCount": 173,
+  "totalItemCount": 805,
   "items": [
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/10/opinion/war-on-terror-failure.html",
@@ -13,7 +13,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The U.S. military accomplished more after 9/11 than many Americans realize.",
-      "publishedAt": "2026-09-10T19:13:36.000Z",
+      "publishedAt": "2026-09-10T19:13:37.000Z",
       "articleId": "db7575aa843c101b"
     },
     {
@@ -997,18 +997,6 @@
       "articleId": "d7df509b6517d2fb"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
-      "title": "The many ways to build more housing",
-      "url": "https://www.slowboring.com/p/the-many-ways-to-build-more-housing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A judge blocks HUD and California stacks up YIMBY wins. Commercial conversions and A.I. show different paths to more housing, while rent control gets in the way.",
-      "publishedAt": "2026-08-31T22:01:29.000Z",
-      "articleId": "76457c48e6579a14"
-    },
-    {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
       "title": "Riding the Aussie Dog. Again.",
       "url": "https://walkingtheworld.substack.com/p/riding-the-aussie-dog-again",
@@ -1963,19 +1951,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
-    "title": "DC-area forecast: Hot and humid today with an isolated shower; scattered storms possible tonight",
+    "title": "DC-area forecast: Scattered shower and storm odds increase late night into early Friday",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs reach the upper 80s and low 90s. An isolated shower or storm is possible during the afternoon into evening.",
+    "summary": "HAPPENING NOW: Temperatures slowly dip back through the 80s on a humid evening. An isolated shower or storm may pass, especially southern parts of the area.",
     "publishedAt": "2026-09-10T09:00:28.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Feeling like August with highs approaching 90, the heat index in the low to mid-90s, and an isolated shower or storm.",
     "articleId": "c22ffa6150b44c7f"
   },
-  "weatherGeneratedAt": "2026-09-10T19:37:38.935Z",
+  "weatherGeneratedAt": "2026-09-10T22:31:42.144Z",
   "weatherError": null,
   "sources": [
     {
@@ -2086,7 +2074,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
