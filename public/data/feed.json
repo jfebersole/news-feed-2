@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-10T16:20:39.588Z",
-  "fetchedAt": "2026-09-10T16:20:39.582Z",
+  "generatedAt": "2026-09-10T19:37:38.935Z",
+  "fetchedAt": "2026-09-10T19:37:38.931Z",
   "sourceCount": 24,
-  "itemCount": 173,
-  "totalItemCount": 807,
+  "itemCount": 174,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/10/opinion/war-on-terror-failure.html",
+      "title": "The War on Terror Did Not Fail",
+      "url": "https://www.nytimes.com/2026/09/10/opinion/war-on-terror-failure.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The U.S. military accomplished more after 9/11 than many Americans realize.",
+      "publishedAt": "2026-09-10T19:13:36.000Z",
+      "articleId": "db7575aa843c101b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-short-interview-with-julia-willemyns.html?utm_source=rss&utm_medium=rss&utm_campaign=my-short-interview-with-julia-willemyns",
+      "title": "My short interview with Julia Willemyns",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-short-interview-with-julia-willemyns.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the link, here is the end bit: Who is the most important thinker of our time? It’s not about individual thinkers any more. It’s about the internet as this vast organ of knowledge that you can play like a musical instrument, and combining the internet with AI. You can figure out things to […]",
+      "publishedAt": "2026-09-10T18:43:36.000Z",
+      "articleId": "24a1eef69358f45f"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/5-music-streaming-features-you-need",
+      "title": "5 Music Streaming Features You Need to Be Using",
+      "url": "https://www.cantgetmuchhigher.com/p/5-music-streaming-features-you-need",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Because there’s more out there than algorithmic playlists",
+      "publishedAt": "2026-09-10T17:30:42.000Z",
+      "articleId": "57f484bbde46dd52"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/a-cheeseheads-view-of-the-world",
+      "title": "A cheesehead’s view of the world",
+      "url": "https://scottsumner.substack.com/p/a-cheeseheads-view-of-the-world",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Am I a regional thinker?",
+      "publishedAt": "2026-09-10T17:20:46.000Z",
+      "articleId": "3ed25ecbdd3b68e1"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-569",
       "title": "Thursday assorted links",
@@ -421,17 +465,6 @@
       "articleId": "bd927fd3c9a6c439"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
-      "title": "South Korean aspirational markets in everything",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Instead of Amazon, I spent the past week browsing a new breed of websites known as “dopamine sites,” a trend that emerged in South Korea. These websites — like Dopamine Shop and FoodNeverComes — recreate the entire ritual of online shopping: You search for products, compare reviews, add items to your cart, enter a shipping address, place an order, […]",
-      "publishedAt": "2026-09-07T18:41:20.000Z",
-      "articleId": "64a8091edd710fe5"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
       "title": "How our ELWAY forecasts work",
       "url": "https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
@@ -441,17 +474,6 @@
       "summary": "Way more detail than you probably wanted on Silver Bulletin's new NFL forecasting system.",
       "publishedAt": "2026-09-07T17:38:54.000Z",
       "articleId": "7c008df757b8bd77"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/labor-day-is-basically-new-years",
-      "title": "Labor Day is Basically New Year’s For Sports",
-      "url": "https://neilpaine.substack.com/p/labor-day-is-basically-new-years",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The unofficial end of summer also marks the busiest, most crowded stretch on the sports calendar.",
-      "publishedAt": "2026-09-07T09:01:46.000Z",
-      "articleId": "2145dfd1b35e604b"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
@@ -1937,34 +1959,23 @@
       "summary": "The MAGA decline; The labor share decline; OPTs and American jobs; AI and Indian outsourcing; Drug users; AI and productivity; Botswana; Interracial Marriage; AI writing",
       "publishedAt": "2026-08-12T08:27:04.000Z",
       "articleId": "9bb49da5b9486be4"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/john-cochrane-on-monetarism",
-      "title": "John Cochrane on monetarism",
-      "url": "https://scottsumner.substack.com/p/john-cochrane-on-monetarism",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus a pushback against AI's unhealthy obsession with fiscal policy",
-      "publishedAt": "2026-08-11T18:44:32.000Z",
-      "articleId": "49a4c8cb92d7242c"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
-    "title": "DC-area forecast: Hot and humid today with an isolated shower; scattered storms tonight",
+    "title": "DC-area forecast: Hot and humid today with an isolated shower; scattered storms possible tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny this afternoon with an isolated shower or storm possible as highs reach the upper 80s and low 90s.",
+    "summary": "HAPPENING NOW: Partly sunny this afternoon as highs reach the upper 80s and low 90s. An isolated shower or storm is possible during the afternoon into evening.",
     "publishedAt": "2026-09-10T09:00:28.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Feeling like August, with highs near 90 and the heat index pushing toward the mid-90s. Scattered storms possible late.",
+    "dailyDigitSummary": "Feeling like August with highs approaching 90, the heat index in the low to mid-90s, and an isolated shower or storm.",
     "articleId": "c22ffa6150b44c7f"
   },
-  "weatherGeneratedAt": "2026-09-10T16:20:39.588Z",
+  "weatherGeneratedAt": "2026-09-10T19:37:38.935Z",
   "weatherError": null,
   "sources": [
     {
@@ -2051,7 +2062,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
