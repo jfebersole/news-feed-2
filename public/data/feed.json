@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-10T01:01:30.744Z",
-  "fetchedAt": "2026-09-10T01:01:30.739Z",
+  "generatedAt": "2026-09-10T05:55:29.479Z",
+  "fetchedAt": "2026-09-10T05:55:29.475Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-jared-diamond",
+      "title": "My very interesting Conversation with Jared Diamond",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: So which leaders do make a difference? Tyler and Jared debate that question, including conditions what a religious founder needs to succeed, whether destructive leaders matter more than constructive ones, why individual leaders have mattered so little in Papua New Guinea, whether we undervalue preventers, how much […]",
+      "publishedAt": "2026-09-10T04:36:50.000Z",
+      "articleId": "06f2d3e2833ddeaa"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
       "title": "Alaska’s ranked choice voting: Six years of experimenting and its biggest test yet",
@@ -394,17 +405,6 @@
       "summary": "Winston is locked in as Jaxson Dart's backup for the second consecutive season, while Runyan will be in New York through 2028.",
       "publishedAt": "2026-09-06T20:47:04.000Z",
       "articleId": "2a7412a337a951dc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-140",
-      "title": "Insurance price sentences to ponder",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "NYU Stern researcher @NateWitkin questions why cyber insurance rates keep falling if AI cyber risk is accelerating: “Insurance rates for cyber risk declined by about 4% globally in Q2 of this year, and that’s actually the 12th consecutive quarter in which they’ve declined. This is very valuable signal that implies that at a minimum you […]",
-      "publishedAt": "2026-09-06T19:39:39.000Z",
-      "articleId": "4ce138bb6f824d39"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-daf",
@@ -1951,19 +1951,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
-    "title": "DC-area forecast: Heat is back for now, and storm chances return Thursday",
+    "title": "DC-area forecast: Heat is back for now. Shower chances return Thursday into Thursday night.",
     "url": "https://www.capitalweather.com/dc-area-forecast-a-bit-hotter-today-before-storm-chances-return-thursday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds increase a bit after midnight and toward dawn as lows settle to a range of upper 60s to mid-70s. A passing shower possible by morning.",
+    "summary": "HAPPENING NOW: Clouds increase a bit after midnight and toward dawn as lows settle in the upper 60s to mid-70s. A shower is possible by morning.",
     "publishedAt": "2026-09-09T09:00:20.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some spots have a shot at 90 degrees. But September heat isn't as harsh as midsummer, and humidity is still relatively tame.",
     "articleId": "3aa3666bc7364f2d"
   },
-  "weatherGeneratedAt": "2026-09-10T01:01:30.744Z",
+  "weatherGeneratedAt": "2026-09-10T05:55:29.479Z",
   "weatherError": null,
   "sources": [
     {
