@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T22:31:14.490Z",
-  "fetchedAt": "2026-09-09T22:31:14.485Z",
+  "generatedAt": "2026-09-10T01:01:30.744Z",
+  "fetchedAt": "2026-09-10T01:01:30.739Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 808,
@@ -1956,14 +1956,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Following above average highs in the upper 80s to near 90, we're mostly clear this evening with only a slow dip backwards through the 80s.",
+    "summary": "HAPPENING NOW: Clouds increase a bit after midnight and toward dawn as lows settle to a range of upper 60s to mid-70s. A passing shower possible by morning.",
     "publishedAt": "2026-09-09T09:00:20.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Some spots have a shot at 90 degrees. But September heat isn't as harsh as midsummer, and humidity is still relatively tame.",
     "articleId": "3aa3666bc7364f2d"
   },
-  "weatherGeneratedAt": "2026-09-09T22:31:14.490Z",
+  "weatherGeneratedAt": "2026-09-10T01:01:30.744Z",
   "weatherError": null,
   "sources": [
     {
@@ -2129,10 +2129,10 @@
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "fallback-cache",
+      "mode": "rss",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": "Status code 502 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "J. Kenji López-Alt",
