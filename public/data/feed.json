@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-10T11:13:03.019Z",
-  "fetchedAt": "2026-09-10T11:13:03.016Z",
+  "generatedAt": "2026-09-10T16:20:39.588Z",
+  "fetchedAt": "2026-09-10T16:20:39.582Z",
   "sourceCount": 24,
-  "itemCount": 174,
-  "totalItemCount": 809,
+  "itemCount": 173,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-569",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-569.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. On India’s new gdp statistics. 2. Reasons why robotics are hard. 3. On 20th century music. 4. Is the inflation picture shifting? (correct link) 5. The importance of nuclear risk. 6. Call for AI safety start-ups. Project Tailwind. 7. Do the doomers have a good forecasting record? 8. OAI employees are contributing significantly to […]",
+      "publishedAt": "2026-09-10T15:47:02.000Z",
+      "articleId": "519c0427be5796cf"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/trump-vs-the-blue-wave",
+      "title": "Trump vs. the Blue Wave",
+      "url": "https://www.natesilver.net/p/trump-vs-the-blue-wave",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Still Counting EP1 is out!",
+      "publishedAt": "2026-09-10T14:26:52.000Z",
+      "articleId": "513e6c3d252b5f3f"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/royce-on-san-francisco",
       "title": "Royce On San Francisco",
@@ -30,7 +52,7 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
-      "title": "Targeted evolution: How Giants are molding Jaxson Dart into savior they need him to be",
+      "title": "How Giants are molding Jaxson Dart into savior they need him to be",
       "url": "https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
@@ -419,17 +441,6 @@
       "summary": "Way more detail than you probably wanted on Silver Bulletin's new NFL forecasting system.",
       "publishedAt": "2026-09-07T17:38:54.000Z",
       "articleId": "7c008df757b8bd77"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-576",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. How are age verification systems going? 2. Eliezer predictions. 3. Are humpback whales policing nature? 4. “Traces of nearly four million coins reveal how Rome achieved economic integration.” 5. Estimating cybersecurity costs (numbers). 6. Great Barrier Reef is doing fine? 7. California Forever meets further setbacks (NYT).",
-      "publishedAt": "2026-09-07T16:17:10.000Z",
-      "articleId": "c549a72e37309800"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/labor-day-is-basically-new-years",
@@ -1937,46 +1948,23 @@
       "summary": "Plus a pushback against AI's unhealthy obsession with fiscal policy",
       "publishedAt": "2026-08-11T18:44:32.000Z",
       "articleId": "49a4c8cb92d7242c"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/everything-is-breaking-democrats-way",
-      "title": "Everything is breaking Democrats’ way. Is it enough to win the Senate?",
-      "url": "https://www.natesilver.net/p/everything-is-breaking-democrats-way",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Our midterms model finds that polls, fundamentals and history all point toward a strong Democratic year. The House is theirs to lose, but winning four Senate seats is still a tall order.",
-      "publishedAt": "2026-08-11T17:39:41.000Z",
-      "articleId": "5fa6da40347c52f4"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/trading-favorites-an-album-a-day",
-      "title": "Trading Favorites: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/trading-favorites-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Queen, Bob Dylan, Lorde, and others",
-      "publishedAt": "2026-08-11T13:30:50.000Z",
-      "articleId": "1d77d94a63828422"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
-    "title": "DC-area forecast: Hot and humid today with a few showers; scattered storms tonight",
+    "title": "DC-area forecast: Hot and humid today with an isolated shower; scattered storms tonight",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A warm start with a few morning showers around the region. Partly sunny this afternoon with an isolated shower or storm possible as highs reach the upper 80s and low 90s.",
+    "summary": "HAPPENING NOW: Partly sunny this afternoon with an isolated shower or storm possible as highs reach the upper 80s and low 90s.",
     "publishedAt": "2026-09-10T09:00:28.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Feeling like August, with highs near 90 and the heat index pushing toward the mid-90s. Scattered storms possible late.",
     "articleId": "c22ffa6150b44c7f"
   },
-  "weatherGeneratedAt": "2026-09-10T11:13:03.019Z",
+  "weatherGeneratedAt": "2026-09-10T16:20:39.588Z",
   "weatherError": null,
   "sources": [
     {
@@ -2134,26 +2122,26 @@
     {
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "mode": "rss",
-      "itemCount": 6,
+      "mode": "fallback-cache",
+      "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
-      "error": null
+      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
     },
     {
       "name": "Brew Shop",
       "url": "https://www.arlbrew.com/",
-      "mode": "rss",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5.xml",
-      "error": null
+      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
     },
     {
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
-      "mode": "rss",
-      "itemCount": 9,
+      "mode": "fallback-cache",
+      "itemCount": 7,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
-      "error": null
+      "error": "connect ECONNREFUSED 159.69.13.122:443 Using previous snapshot data."
     },
     {
       "name": "Can't Get Much Higher",
