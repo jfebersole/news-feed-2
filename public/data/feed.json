@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-10T22:31:42.144Z",
-  "fetchedAt": "2026-09-10T22:31:42.140Z",
+  "generatedAt": "2026-09-11T01:00:33.647Z",
+  "fetchedAt": "2026-09-11T01:00:33.642Z",
   "sourceCount": 24,
-  "itemCount": 173,
+  "itemCount": 174,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/openai-spent-millions-to-solve-this",
+      "title": "OpenAI spent millions to solve this famous math problem — mathematicians are furious",
+      "url": "https://www.understandingai.org/p/openai-spent-millions-to-solve-this",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Mathematics relies on a community of experts openly sharing ideas.",
+      "publishedAt": "2026-09-10T22:40:39.000Z",
+      "articleId": "d4ce027f26909f7d"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/10/opinion/war-on-terror-failure.html",
       "title": "The War on Terror Did Not Fail",
@@ -1951,19 +1963,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
-    "title": "DC-area forecast: Scattered shower and storm odds increase late night into early Friday",
+    "title": "DC-area forecast: Scattered shower odds increase late night into early Friday",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-as-scattered-storms-threaten-late/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures slowly dip back through the 80s on a humid evening. An isolated shower or storm may pass, especially southern parts of the area.",
+    "summary": "HAPPENING NOW: Temperatures slowly dip back into the 70s on a moderately humid evening. Should be dry before a chance of scattered showers after 2 a.m. or so.",
     "publishedAt": "2026-09-10T09:00:28.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Feeling like August with highs approaching 90, the heat index in the low to mid-90s, and an isolated shower or storm.",
     "articleId": "c22ffa6150b44c7f"
   },
-  "weatherGeneratedAt": "2026-09-10T22:31:42.144Z",
+  "weatherGeneratedAt": "2026-09-11T01:00:33.647Z",
   "weatherError": null,
   "sources": [
     {
