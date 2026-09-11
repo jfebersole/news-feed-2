@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-11T01:00:33.647Z",
-  "fetchedAt": "2026-09-11T01:00:33.642Z",
+  "generatedAt": "2026-09-11T05:54:57.318Z",
+  "fetchedAt": "2026-09-11T05:54:57.315Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 175,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-do-respond-to-agi-news",
+      "title": "Markets do respond to AGI news",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the link.",
+      "publishedAt": "2026-09-11T04:47:44.000Z",
+      "articleId": "2aa8e61be3728e82"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-there-now-a-better-trend-in-youth-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-now-a-better-trend-in-youth-mental-health",
+      "title": "Is there now a better trend in youth mental health?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-there-now-a-better-trend-in-youth-mental-health.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A key U.S. government report on mental health, substance use and addiction showed continued improvements in several metrics, especially among young people. There was some uncertainty about the future of the National Survey on Drug Use and Health last year, when the entire 17-member team responsible for it was laid off by the Trump administration. But the […]",
+      "publishedAt": "2026-09-11T04:34:45.000Z",
+      "articleId": "ee9128d1a1b0f228"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/the-aboriginal-issue",
+      "title": "The Aboriginal Issue",
+      "url": "https://walkingtheworld.substack.com/p/the-aboriginal-issue",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Victimhood is more corrosive than payments with obligations",
+      "publishedAt": "2026-09-11T01:26:44.000Z",
+      "articleId": "a3cbed426de280c6"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/openai-spent-millions-to-solve-this",
       "title": "OpenAI spent millions to solve this famous math problem — mathematicians are furious",
@@ -16,6 +49,17 @@
       "summary": "Mathematics relies on a community of experts openly sharing ideas.",
       "publishedAt": "2026-09-10T22:40:39.000Z",
       "articleId": "d4ce027f26909f7d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/barry-melrose-was-hockeys-mulleted",
+      "title": "Barry Melrose Was Hockey’s Mulleted, Larger-Than-Life Ambassador",
+      "url": "https://neilpaine.substack.com/p/barry-melrose-was-hockeys-mulleted",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "As a coach, and then especially across decades as a broadcaster, Melrose brought Canada’s game to American audiences, combining wit and wisdom in a tough-but-warm package.",
+      "publishedAt": "2026-09-10T20:38:36.000Z",
+      "articleId": "9a3331b68dd5f805"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/10/opinion/war-on-terror-failure.html",
@@ -441,40 +485,6 @@
       "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
       "publishedAt": "2026-09-08T10:00:00.000Z",
       "articleId": "def769291a05f7a1"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-bears-are-coming-off-a-playoff",
-      "title": "The Bears Are Coming Off a Playoff Run. Yes, This Is Usually Where It Goes Wrong.",
-      "url": "https://neilpaine.substack.com/p/the-bears-are-coming-off-a-playoff",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Chicago has plenty of reasons to regress after last year’s breakthrough. But for once, the Bears may also have a real chance to avoid it.",
-      "publishedAt": "2026-09-08T09:00:55.000Z",
-      "articleId": "3a15ff0ceac48851"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=ed-elson-and-scott-galloway-interview-me-on-ai",
-      "title": "Ed Elson and Scott Galloway interview me on AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "",
-      "publishedAt": "2026-09-08T07:00:39.000Z",
-      "articleId": "5cc82f86130237e1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html?utm_source=rss&utm_medium=rss&utm_campaign=will-new-transportation-technologies-increase-urban-density",
-      "title": "Will new transportation technologies increase urban density?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Will 21st century transportation innovations work against urban density, as the car did in the 20th century, or promote urban centralization, as the railroad did in the 19th century? Reducing the cost of commuting always reduces urban centralization in the classic Alonso-Muth-Mills model but that result reverses if the number of trips is endogenous and […]",
-      "publishedAt": "2026-09-08T04:56:22.000Z",
-      "articleId": "bd927fd3c9a6c439"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
@@ -1975,7 +1985,7 @@
     "dailyDigitSummary": "Feeling like August with highs approaching 90, the heat index in the low to mid-90s, and an isolated shower or storm.",
     "articleId": "c22ffa6150b44c7f"
   },
-  "weatherGeneratedAt": "2026-09-11T01:00:33.647Z",
+  "weatherGeneratedAt": "2026-09-11T05:54:57.318Z",
   "weatherError": null,
   "sources": [
     {
