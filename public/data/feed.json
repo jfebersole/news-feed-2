@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T19:18:31.116Z",
-  "fetchedAt": "2026-09-12T19:18:31.111Z",
+  "generatedAt": "2026-09-12T22:13:33.597Z",
+  "fetchedAt": "2026-09-12T22:13:33.591Z",
   "sourceCount": 24,
-  "itemCount": 177,
+  "itemCount": 176,
   "totalItemCount": 806,
   "items": [
     {
@@ -1981,34 +1981,23 @@
       "summary": "...",
       "publishedAt": "2026-08-13T23:54:32.000Z",
       "articleId": "777c7437addc4b53"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7511520/2026/08/13/new-york-giants-terrion-arnold-cornerback/",
-      "title": "Why the Giants are showing serious interest in Terrion Arnold",
-      "url": "https://www.nytimes.com/athletic/7511520/2026/08/13/new-york-giants-terrion-arnold-cornerback/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Giants coach John Harbaugh: \"We're looking all of time for players who can help us. And he's a player who can help us.”",
-      "publishedAt": "2026-08-13T20:40:43.000Z",
-      "articleId": "f12a693c2ccd386b"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-rain-chances-increase-by-tonight-clearing-by-sunday-afternoon/",
-    "title": "DC-area forecast: Rain chances increase by tonight; clearing by Sunday afternoon",
+    "title": "DC-area forecast: Rain chances with a flood risk tonight. Clearing, warmer Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-rain-chances-increase-by-tonight-clearing-by-sunday-afternoon/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Mostly cloudy this afternoon, but with some peeks of sun, as highs reach the upper 70s to low 80s. Rain chances increase late.",
+    "summary": "Happening now: Mostly cloudy this evening with temperatures in the 70s. Shower chances increase this evening, mainly after 7 or 8 p.m., with spotty heavy rain—even a few flooding downpours possible—overnight.",
     "publishedAt": "2026-09-12T09:00:35.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Mostly cloudy and muggy today, rain tonight. Meh.",
     "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-12T19:18:31.116Z",
+  "weatherGeneratedAt": "2026-09-12T22:13:33.597Z",
   "weatherError": null,
   "sources": [
     {
