@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-12T05:45:28.763Z",
-  "fetchedAt": "2026-09-12T05:45:28.759Z",
+  "generatedAt": "2026-09-12T10:40:14.931Z",
+  "fetchedAt": "2026-09-12T10:40:14.927Z",
   "sourceCount": 24,
-  "itemCount": 176,
+  "itemCount": 177,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
+      "title": "Get the Middle East out of my politics!",
+      "url": "https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A manifesto.",
+      "publishedAt": "2026-09-12T08:44:47.000Z",
+      "articleId": "bad320b8ea1ac641"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution",
+      "title": "Labor reallocation during the Industrial Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "New technologies swept through Britain during the Second Industrial Revolution, destroying old jobs and creating new ones. We know little about how workers reallocated. Using 170 million full-count British census observations (1851-1911), I construct new task-level data on occupation and investigate English bootmaking as it mechanized. 153,000 artisanal jobs disappeared as skills became obsolete; 140,000 […]",
+      "publishedAt": "2026-09-12T07:28:51.000Z",
+      "articleId": "ca887490cccb3403"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-excess-pessimism-of-early-nuclear-bomb-designers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-excess-pessimism-of-early-nuclear-bomb-designers",
       "title": "The excess pessimism of early nuclear bomb designers",
@@ -484,17 +507,6 @@
       "summary": "We need to make a principled stand instead of a tactical retreat.",
       "publishedAt": "2026-09-09T08:39:04.000Z",
       "articleId": "c6d1967593f95c65"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-141",
-      "title": "Reading sentences to ponder",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In 2015, 6 of the top 25 bestselling hardcover books—this is a not-perfect but useful proxy for new books published—were fiction. In 2025, 18 of the top 25 hardcover books were fiction, meaning only 7 were nonfiction, almost an exact inversion of ten years ago. From Sean Delone, via David Wallace-Wells.",
-      "publishedAt": "2026-09-09T07:06:06.000Z",
-      "articleId": "46b024d4e4a02259"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/gxlxs9hy613zsm7e6p79.html",
@@ -1982,20 +1994,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cooler-and-rather-cloudy-today-damp-saturday-then-clearing-sunday/",
-    "title": "DC-area forecast: Mild tonight with patchy fog by dawn; rain chance rises late Saturday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-cooler-and-rather-cloudy-today-damp-saturday-then-clearing-sunday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-rain-chances-increase-by-tonight-clearing-by-sunday-afternoon/",
+    "title": "DC-area forecast: Rain chances increase by tonight; clearing by Sunday afternoon",
+    "url": "https://www.capitalweather.com/dc-area-forecast-rain-chances-increase-by-tonight-clearing-by-sunday-afternoon/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Mostly to partly clear this evening as temperatures slowly fall through the 70s. Clouds increase again overnight but remaining dry.",
-    "publishedAt": "2026-09-11T09:00:22.000Z",
+    "summary": "Happening now: Mostly cloudy for much of the day, with highs in the upper 70s to low 80s. Rain chances increase late.",
+    "publishedAt": "2026-09-12T09:00:35.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Cooler and more comfortable, but a lingering early shower, humidity, and plentiful clouds keep it from being a standout.",
-    "articleId": "a41f1d8f68edeb9f"
+    "dailyDigitSummary": "Cloudy and muggy today, rain tonight. Meh.",
+    "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-12T05:45:28.763Z",
+  "weatherGeneratedAt": "2026-09-12T10:40:14.931Z",
   "weatherError": null,
   "sources": [
     {
