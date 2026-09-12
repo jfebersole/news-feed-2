@@ -1,10 +1,67 @@
 {
-  "generatedAt": "2026-09-12T10:40:14.931Z",
-  "fetchedAt": "2026-09-12T10:40:14.927Z",
+  "generatedAt": "2026-09-12T14:03:47.008Z",
+  "fetchedAt": "2026-09-12T14:03:47.002Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 805,
+  "itemCount": 179,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
+      "title": "What I’ve learned after a year covering housing",
+      "url": "https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Abundance is mainstream, but it is fragile.",
+      "publishedAt": "2026-09-12T13:03:58.000Z",
+      "articleId": "18828c3487d72ea1"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09122026",
+      "title": "Reading List — 09/12/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09122026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "City permitting speeds, more efficient ground source heat pump drilling, an Amazon Air crash in Miami, cooling paint, and more.",
+      "publishedAt": "2026-09-12T12:32:46.000Z",
+      "articleId": "2b71c1de492759a9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8",
+      "title": "UK fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The UK economy grew 0.4 per cent in July as the global AI boom helped deliver an unexpectedly robust start to the third quarter, in a boost to Prime Minister Andy Burnham as he prepares for a tough first Budget next month. Friday’s figure from the Office for National Statistics was far above the zero […]",
+      "publishedAt": "2026-09-12T11:24:03.000Z",
+      "articleId": "56082352c8dc9cfb"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-prediction-archive",
+      "title": "The Prediction Archive",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Prediction Archive is a public database of tens of thousands of world predictions. Using AI it tracks predictions over many decades and marks to market. I was surprised to discover that I am currently the highest ranked individual predictor in the world! Huh, I would not have predicted that. Ranks are based on the […]",
+      "publishedAt": "2026-09-12T11:18:05.000Z",
+      "articleId": "1303b889fe63316a"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-september-7-11",
+      "title": "The Week That Was (September 7-11, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-september-7-11",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-09-12T09:01:29.000Z",
+      "articleId": "41a93c174cbfc22d"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
       "title": "Get the Middle East out of my politics!",
@@ -452,28 +509,6 @@
       "summary": "The massively multiplayer online game was created in the 1980s.",
       "publishedAt": "2026-09-09T16:37:49.000Z",
       "articleId": "8aa4df1ab102036e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-570",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-570.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Crime and drunkenness map of England and Wales (that was then, this is now). 2. Cesar Aira says he will stop writing. 3. Toward a post-cultural state? 4. Madrid has great PISA scores. 5. Firms as foragers. 6. Asimov Press is back.",
-      "publishedAt": "2026-09-09T16:21:58.000Z",
-      "articleId": "9e07f58dd91a344f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/next-wins-appeal.html?utm_source=rss&utm_medium=rss&utm_campaign=next-wins-appeal",
-      "title": "Next Wins Appeal",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/next-wins-appeal.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A spot of good news for Britain. Next has won its appeal and may go on paying warehouse workers more than “equal value” retail workers. I’ve written about this case in Equality Act 2010, The Equal Pay Madness Just Got Madder and The Apples and Oranges Tribunal, and discussed it at length on the CapX […]",
-      "publishedAt": "2026-09-09T11:17:12.000Z",
-      "articleId": "c0f170580403afa8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/trumps-terrible-plan-to-break-skilled",
@@ -983,17 +1018,6 @@
       "summary": "What if everything we know about recycling is wrong?",
       "publishedAt": "2026-09-02T12:07:13.000Z",
       "articleId": "7b1097ca360e8c34"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
-      "title": "An easy way to give kids more freedom",
-      "url": "https://www.slowboring.com/p/an-easy-way-to-give-kids-more-freedom",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Apple should let kids use digital transit passes. They’re already riding the bus — make it easier!",
-      "publishedAt": "2026-09-02T10:03:20.000Z",
-      "articleId": "2d74d934eef7fdcf"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
@@ -2007,7 +2031,7 @@
     "dailyDigitSummary": "Cloudy and muggy today, rain tonight. Meh.",
     "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-12T10:40:14.931Z",
+  "weatherGeneratedAt": "2026-09-12T14:03:47.008Z",
   "weatherError": null,
   "sources": [
     {
@@ -2094,7 +2118,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
