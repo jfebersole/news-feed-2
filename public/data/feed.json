@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-12T17:05:31.503Z",
-  "fetchedAt": "2026-09-12T17:05:31.499Z",
+  "generatedAt": "2026-09-12T19:18:31.116Z",
+  "fetchedAt": "2026-09-12T19:18:31.111Z",
   "sourceCount": 24,
   "itemCount": 177,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/september-polling-has-been-very-good",
+      "title": "September polling has been very good for Democrats",
+      "url": "https://www.natesilver.net/p/september-polling-has-been-very-good",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Back at the OG version of FiveThirtyEight.com in 2008, we ran a daily feature called “Today’s Polls”.",
+      "publishedAt": "2026-09-12T17:17:38.000Z",
+      "articleId": "1d7eccb9cbab2e6b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai",
       "title": "The mathematicians rebel against AI",
@@ -1980,17 +1992,6 @@
       "summary": "Giants coach John Harbaugh: \"We're looking all of time for players who can help us. And he's a player who can help us.”",
       "publishedAt": "2026-08-13T20:40:43.000Z",
       "articleId": "f12a693c2ccd386b"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-worst-beatles-song",
-      "title": "When The Beatles Sucked",
-      "url": "https://www.cantgetmuchhigher.com/p/the-worst-beatles-song",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "All You Need is Hate",
-      "publishedAt": "2026-08-13T17:30:41.000Z",
-      "articleId": "1743b02f1fb688b0"
     }
   ],
   "weather": {
@@ -2007,7 +2008,7 @@
     "dailyDigitSummary": "Mostly cloudy and muggy today, rain tonight. Meh.",
     "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-12T17:05:31.503Z",
+  "weatherGeneratedAt": "2026-09-12T19:18:31.116Z",
   "weatherError": null,
   "sources": [
     {
