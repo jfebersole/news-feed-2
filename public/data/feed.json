@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-12T14:03:47.008Z",
-  "fetchedAt": "2026-09-12T14:03:47.002Z",
+  "generatedAt": "2026-09-12T17:05:31.503Z",
+  "fetchedAt": "2026-09-12T17:05:31.499Z",
   "sourceCount": 24,
-  "itemCount": 179,
+  "itemCount": 177,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai",
+      "title": "The mathematicians rebel against AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the statement, signed by Terry Tao among many other math notables, most of you probably have read it by now. I do not accept the most cynical interpretations of this proclamation. Some of you for instance may recall that I made and indeed stressed a similar point in the last chapter of my […]",
+      "publishedAt": "2026-09-12T16:49:04.000Z",
+      "articleId": "c21f8166f6b682f8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html?utm_source=rss&utm_medium=rss&utm_campaign=dario-calls-for-a-pause",
+      "title": "Dario Calls for a Pause",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My second concern is the OpenAI-Hugging Face incident (OAI-HF), in which a swarm of agents essentially acted as a fanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the success of the group, and attempting to hack into the […]",
+      "publishedAt": "2026-09-12T15:44:51.000Z",
+      "articleId": "e917482a9e23c9a1"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
       "title": "What I’ve learned after a year covering housing",
@@ -443,17 +465,6 @@
       "articleId": "2f49e7bccff574fa"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-interesting-conversation-with-jared-diamond",
-      "title": "My very interesting Conversation with Jared Diamond",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: So which leaders do make a difference? Tyler and Jared debate that question, including conditions what a religious founder needs to succeed, whether destructive leaders matter more than constructive ones, why individual leaders have mattered so little in Papua New Guinea, whether we undervalue preventers, how much […]",
-      "publishedAt": "2026-09-10T04:36:50.000Z",
-      "articleId": "06f2d3e2833ddeaa"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
       "title": "Alaska’s ranked choice voting: Six years of experimenting and its biggest test yet",
       "url": "https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
@@ -487,17 +498,6 @@
       "summary": "AI ratings I think sometimes , in our age of artificial intelligence, about two opposing theories of asset pricing. One is the standard academic theory , which is that investors demand compensation for correlated returns . An asset that will pay back your money 98% of the time, but will give you zero in the 2% of cases where there’s a big market crash, is bad: It loses money at the worst possible time, the time when all your other assets lose money and you really need money. An asset that will pay back your money 98% of the time, but will give you zero in some random 2% of cases — when there’s a hurricane in the Caribbean, when the Bengals win the Super Bowl — is good: Sure it has risk, but that risk is uncorrelated to the rest of your risks; this asset probably performs well when you really need it, and loses money when you are otherwise fine. There is another popular folk theory in the financial industry, though, which is that investors minimize career risk and thus demand compensation for taking uncorrelated risks. An asset that pays back your money 98% of the time, but goes to zero in the 2% of cases when all of your competitors are also losing money , is fine . If everyone’s losing money at the same time, then (1) no one will blame you for losing money too and (2) your firm is probably blowing up anyway so owning the asset doesn’t change much. (“ IBGYBG ,” this theory is sometimes called.) An asset that pays back your money 98% of the time, but goes to zero in some random 2% of cases when everyone else is doing great, is embarrassing . If you buy that thing and it blows up on a balmy summer day, (1) you’re getting fired and (2) everyone else is getting a nice bonus and shaking their heads at your idiosyncratic mistake. “Why did she buy that thing that blew up,” they ask. “She should have bought normal stuff like the rest of us.” There’s a classic paper rooted in the first theory, “Economic Catastrophe Bonds,” by Joshua Coval, Jakub Jurek and Erik Stafford. Here’s a 2007 working-paper version , and here’s the 2009 version in the American Economic Review. Some stuff happened between those dates. From the abstract: The central insight of asset pricing is that a security’s value depends on both its distribution of payoffs across economic states and state prices. In fixed income markets, many investors focus exclusively on estimates of expected payoffs, such as credit ratings, without considering the state of the economy in which default is likely to occur. Such investors are likely to be attracted to securities whose payoffs resemble those of economic catastrophe bonds — bonds that default only under severe economic conditions. We show that many structured finance instruments can be characterized as economic catastrophe bonds, but offer far less...",
       "publishedAt": "2026-09-09T17:58:14.648Z",
       "articleId": "55f9bc66fc50037d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-kevin-roose.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-kevin-roose",
-      "title": "What should I ask Kevin Roose?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-kevin-roose.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a podcast with him. From Wikipedia: Kevin Roose…is an American author and journalist. He is the author of three books, and is a technology columnist and podcast host for The New York Times. He wrote a book about Liberty University, an evangelical Christian university known for strict rules imposed on students… […]",
-      "publishedAt": "2026-09-09T17:47:49.000Z",
-      "articleId": "02c4639360a849c0"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-invention-of-the-mmo",
@@ -1991,30 +1991,6 @@
       "summary": "All You Need is Hate",
       "publishedAt": "2026-08-13T17:30:41.000Z",
       "articleId": "1743b02f1fb688b0"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/prediction-markets-arent-magic",
-      "title": "Prediction markets aren't magic",
-      "url": "https://www.natesilver.net/p/prediction-markets-arent-magic",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "My chat with Galen Druke on Wisconsin, models, polls and prediction markets.",
-      "publishedAt": "2026-08-13T16:50:06.000Z",
-      "articleId": "e63bafaf60e1018f"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/labs-are-struggling-to-keep-frontier",
-      "title": "Labs are struggling to keep frontier models under control",
-      "url": "https://www.understandingai.org/p/labs-are-struggling-to-keep-frontier",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "OpenAI and Anthropic may have accidentally trained models to get better at hacking.",
-      "publishedAt": "2026-08-13T16:28:51.000Z",
-      "articleId": "081c25b3b74561d8"
     }
   ],
   "weather": {
@@ -2024,14 +2000,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Mostly cloudy for much of the day, with highs in the upper 70s to low 80s. Rain chances increase late.",
+    "summary": "Happening now: Mostly cloudy this afternoon, but with some peeks of sun, as highs reach the upper 70s to low 80s. Rain chances increase late.",
     "publishedAt": "2026-09-12T09:00:35.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Cloudy and muggy today, rain tonight. Meh.",
+    "dailyDigitSummary": "Mostly cloudy and muggy today, rain tonight. Meh.",
     "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-12T14:03:47.008Z",
+  "weatherGeneratedAt": "2026-09-12T17:05:31.503Z",
   "weatherError": null,
   "sources": [
     {

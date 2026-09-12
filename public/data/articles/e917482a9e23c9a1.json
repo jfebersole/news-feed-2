@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html",
+  "source": "Marginal Revolution",
+  "title": "Dario Calls for a Pause",
+  "subtitle": null,
+  "byline": "Alex Tabarrok",
+  "publishedAt": "2026-09-12T15:44:51.000Z",
+  "contentHtml": "<blockquote><p>My second concern is the OpenAI-Hugging Face incident (OAI-HF), in which a swarm of agents essentially acted as a&nbsp;<a href=\"https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/\" target=\"_blank\" rel=\"noopener noreferrer\">fanatically devoted collective</a>, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the success of the group, and attempting to hack into the “grader” responsible for evaluating their performance. It’s easy to dismiss this incident because no one was hurt and the economic damage was minimal, but in my opinion, a swarm that possessed greater&nbsp;<em>capabilities</em>&nbsp;but a similar level of&nbsp;<em>misalignment&nbsp;</em>could have caused catastrophic damage. Given the accelerating rate of AI capability development, it’s my worry that in 6–12 months such a swarm could be capable of taking over the entire internet with a persistent&nbsp;<a href=\"https://en.wikipedia.org/wiki/Botnet\" target=\"_blank\" rel=\"noopener noreferrer\">botnet</a>&nbsp;(potentially causing hundreds of billions of dollars in damage), and that the scale of damage would continue to increase from there if AI becomes more powerful without the necessary guardrails. It’s also easy to dismiss OAI-HF as the failure of one company, but I believe that would be a mistake. Similar, though less severe, incidents have happened across the industry,&nbsp;<a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\" target=\"_blank\" rel=\"noopener noreferrer\">including at Anthropic</a>, and I believe it’s incumbent on every frontier AI company to act as if OAI-HF had happened to them.</p></blockquote>\n<p>Read the <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\" target=\"_blank\" rel=\"noopener noreferrer\">whole thing</a>.</p>\n<p>Can we get China on board?</p>",
+  "wordCount": 223,
+  "imageCount": 0,
+  "linkCount": 4
+}
