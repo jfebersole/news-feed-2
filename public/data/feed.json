@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-13T11:46:16.521Z",
-  "fetchedAt": "2026-09-13T11:46:16.518Z",
+  "generatedAt": "2026-09-13T16:11:50.735Z",
+  "fetchedAt": "2026-09-13T16:11:50.730Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 173,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-process-is-the-point",
+      "title": "The Process is the Point",
+      "url": "https://www.cantgetmuchhigher.com/p/the-process-is-the-point",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "How a crisis in the math community teaches us about the future of music",
+      "publishedAt": "2026-09-13T14:30:56.000Z",
+      "articleId": "24e3b0565959c2e5"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength",
       "title": "Diversity Is Our Strength?",
@@ -1937,45 +1948,23 @@
       "summary": "By demanding the purification of the individual and branding broad swathes of the public as oppressor classes, 'Woke 1' besmirched the average Americans who Democrats once championed.",
       "publishedAt": "2026-08-14T17:17:36.000Z",
       "articleId": "d0956d63761d5a1a"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
-      "title": "Will factory farming fix itself?",
-      "url": "https://www.worksinprogress.news/p/will-factory-farming-fix-itself",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "What smog, deforestation, and child labor tell us about the future of animal suffering",
-      "publishedAt": "2026-08-14T13:35:08.000Z",
-      "articleId": "931e78248fabcfde"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
-      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
-      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "This is the second installment of my look under the hood of the recently passed 21st Century ROAD to Housing Act, looking at what each provision actually does and trying to suss out its actual impact on housing supply.",
-      "publishedAt": "2026-08-14T12:03:37.000Z",
-      "articleId": "6eb9ad1f598f164c"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
-    "title": "DC-area forecast: Muggy today as early showers give way to increasing sun. Refreshing tomorrow.",
+    "title": "DC-area forecast: Muggy with a shower or storm possible this afternoon. Refreshing tomorrow.",
     "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers should exit to the east by around 8 or 9 a.m., then increasing sun late morning into afternoon with muggy highs in the mid- to upper 80s.",
+    "summary": "HAPPENING NOW: Partly to mostly sunny and muggy this afternoon. Highs reach the mid- to upper 80s with few isolated showers or storms possible.",
     "publishedAt": "2026-09-13T09:00:36.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "A hard one to love with some afternoon heat and a soupy feel. At least there's sun?",
     "articleId": "04ce89e2df324a02"
   },
-  "weatherGeneratedAt": "2026-09-13T11:46:16.521Z",
+  "weatherGeneratedAt": "2026-09-13T16:11:50.735Z",
   "weatherError": null,
   "sources": [
     {
