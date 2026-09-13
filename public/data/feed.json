@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-13T00:55:52.178Z",
-  "fetchedAt": "2026-09-13T00:55:52.173Z",
+  "generatedAt": "2026-09-13T06:04:49.882Z",
+  "fetchedAt": "2026-09-13T06:04:49.878Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 174,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
+      "title": "A simple model of AI-aided economic growth",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Solow model has its uses, but it fails when it comes to major changes stemming from AI. Consider instead an economy with (at least) two factors of production: 1. Intelligence. Yes, formal smarts. Playing chess, proving math theorems, and doing well on evals. Don’t forget humans can do those things too, though AIs are […]",
+      "publishedAt": "2026-09-13T05:11:51.000Z",
+      "articleId": "f126f187f05bef22"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/september-polling-has-been-very-good",
       "title": "September polling has been very good for Democrats",
@@ -464,17 +475,6 @@
       "summary": "By Anton Korinek, Charles I. Jones, Szymon Sacher, Tess Cotter, and Peter McCrory, a strong line-up from Anthropic. They are sober, reasoned, scientific, and (for the most part) dynamically consistent. Here is the paper, here is the abstract: This paper presents a framework for assessing the economic consequences of AI between 2026 and 2030. In […]",
       "publishedAt": "2026-09-10T08:39:10.000Z",
       "articleId": "09322798aa75684b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ricardo-reis-and-the-imf.html?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-reis-and-the-imf",
-      "title": "Ricardo Reis and the IMF?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ricardo-reis-and-the-imf.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The IMF dropped the lead candidate to become its new chief economist at the eleventh hour after he was found to have made critical remarks about the Trump administration’s economic policies, according to people briefed on the process. The Washington-based fund was preparing an announcement that Ricardo Reis, a professor at the London School of […]",
-      "publishedAt": "2026-09-10T06:25:27.000Z",
-      "articleId": "2f49e7bccff574fa"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
@@ -1959,17 +1959,6 @@
       "summary": "Odell Beckham Jr. doesn't play special teams, so he needs to show enough value as a receiver to earn a spot on the 53-man roster.",
       "publishedAt": "2026-08-14T09:30:06.000Z",
       "articleId": "a01330d46655eab1"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-      "title": "23 low-regret recommendations for AI policy",
-      "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A guest post by Tim Fist and Saif Khan, with Tao Burga, Arthur Tellis, Ben Schifman, Jonah Weinbaum, and Olivia Scharfman",
-      "publishedAt": "2026-08-14T01:39:37.000Z",
-      "articleId": "bb0cf09e7fa58c9f"
     }
   ],
   "weather": {
@@ -1979,14 +1968,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Mostly cloudy this evening with temperatures in the 70s. Shower chances increase this evening, mainly after 7 or 8 p.m., with spotty heavy rain—even a few flooding downpours possible—overnight.",
+    "summary": "Happening now: Mostly cloudy this evening with temperatures in the 70s. Showers and storms are hit or miss through the evening and overnight hours, with a few flooding downpours possible overnight.",
     "publishedAt": "2026-09-12T09:00:35.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Mostly cloudy and muggy today, rain tonight. Meh.",
     "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-13T00:55:52.178Z",
+  "weatherGeneratedAt": "2026-09-13T06:04:49.882Z",
   "weatherError": null,
   "sources": [
     {
