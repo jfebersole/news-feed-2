@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T22:13:33.597Z",
-  "fetchedAt": "2026-09-12T22:13:33.591Z",
+  "generatedAt": "2026-09-13T00:55:52.178Z",
+  "fetchedAt": "2026-09-13T00:55:52.173Z",
   "sourceCount": 24,
-  "itemCount": 176,
+  "itemCount": 175,
   "totalItemCount": 806,
   "items": [
     {
@@ -1970,17 +1970,6 @@
       "summary": "A guest post by Tim Fist and Saif Khan, with Tao Burga, Arthur Tellis, Ben Schifman, Jonah Weinbaum, and Olivia Scharfman",
       "publishedAt": "2026-08-14T01:39:37.000Z",
       "articleId": "bb0cf09e7fa58c9f"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
-      "title": "The Foothills Of Bay Area House Party",
-      "url": "https://www.astralcodexten.com/p/the-foothills-of-bay-area-house-party",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-13T23:54:32.000Z",
-      "articleId": "777c7437addc4b53"
     }
   ],
   "weather": {
@@ -1997,7 +1986,7 @@
     "dailyDigitSummary": "Mostly cloudy and muggy today, rain tonight. Meh.",
     "articleId": "a1e2a1f14b333193"
   },
-  "weatherGeneratedAt": "2026-09-12T22:13:33.597Z",
+  "weatherGeneratedAt": "2026-09-13T00:55:52.178Z",
   "weatherError": null,
   "sources": [
     {
