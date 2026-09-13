@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T19:25:44.371Z",
-  "fetchedAt": "2026-09-13T19:25:44.368Z",
+  "generatedAt": "2026-09-13T22:22:25.178Z",
+  "fetchedAt": "2026-09-13T22:22:25.174Z",
   "sourceCount": 24,
-  "itemCount": 172,
+  "itemCount": 171,
   "totalItemCount": 806,
   "items": [
     {
@@ -1926,34 +1926,23 @@
       "summary": "Home price declines, the Strategic Petroleum Reserve, The Boring Company fundraising, and more.",
       "publishedAt": "2026-08-15T12:02:38.000Z",
       "articleId": "19c6f88a615d561f"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
-      "title": "Your Book Review: The Escape Artist",
-      "url": "https://www.astralcodexten.com/p/your-book-review-the-escape-artist",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #5 in the Book Review Contest",
-      "publishedAt": "2026-08-14T22:21:13.000Z",
-      "articleId": "b7e566c21a7a737a"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
-    "title": "DC-area forecast: Muggy with a shower or storm possible this afternoon. Refreshing tomorrow.",
+    "title": "DC-area forecast: Chance of isolated thundershowers into this evening. Nice and less humid early week.",
     "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly sunny and muggy this afternoon. Highs reach the mid- to upper 80s with few isolated showers or storms possible.",
+    "summary": "HAPPENING NOW: Late afternoon and evening temperatures near 80 hold onto the muggies, with an isolated shower or storm still possible. A cold front comes through overnight with lows in the mid-60s to around 70.",
     "publishedAt": "2026-09-13T09:00:36.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "A hard one to love with some afternoon heat and a soupy feel. At least there's sun?",
     "articleId": "04ce89e2df324a02"
   },
-  "weatherGeneratedAt": "2026-09-13T19:25:44.371Z",
+  "weatherGeneratedAt": "2026-09-13T22:22:25.178Z",
   "weatherError": null,
   "sources": [
     {
