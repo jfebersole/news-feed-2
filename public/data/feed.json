@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-13T06:04:49.882Z",
-  "fetchedAt": "2026-09-13T06:04:49.878Z",
+  "generatedAt": "2026-09-13T11:46:16.521Z",
+  "fetchedAt": "2026-09-13T11:46:16.518Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength",
+      "title": "Diversity Is Our Strength?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Diversity is our strength is a common motto. Indeed it is one of GMU’s core values but what is the scientific evidence for this thesis? A new scoping review: Recent years have witnessed many strong claims that ‘diversity’ leads to more original and impactful science, which is a science-focused form of what we call “The […]",
+      "publishedAt": "2026-09-13T11:17:26.000Z",
+      "articleId": "beb0f92b377e4cdf"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
+      "title": "The Fix Was Almost In",
+      "url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The midterms dodge their first MAGA bullet. It won’t be the last.",
+      "publishedAt": "2026-09-13T10:00:22.000Z",
+      "articleId": "2b6455ea8ac34083"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
       "title": "A simple model of AI-aided economic growth",
@@ -464,17 +486,6 @@
       "summary": "Josh Allen and Lamar Jackson have been circling the Super Bowl for years. History suggests there may not be many more chances this good left.",
       "publishedAt": "2026-09-10T09:01:49.000Z",
       "articleId": "c2ea6c0e4b1eebdd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/economic-scenarios-for-transformative-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=economic-scenarios-for-transformative-ai",
-      "title": "Economic Scenarios for Transformative AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/economic-scenarios-for-transformative-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "By Anton Korinek, Charles I. Jones, Szymon Sacher, Tess Cotter, and Peter McCrory, a strong line-up from Anthropic. They are sober, reasoned, scientific, and (for the most part) dynamically consistent. Here is the paper, here is the abstract: This paper presents a framework for assessing the economic consequences of AI between 2026 and 2030. In […]",
-      "publishedAt": "2026-09-10T08:39:10.000Z",
-      "articleId": "09322798aa75684b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
@@ -1948,34 +1959,23 @@
       "summary": "This is the second installment of my look under the hood of the recently passed 21st Century ROAD to Housing Act, looking at what each provision actually does and trying to suss out its actual impact on housing supply.",
       "publishedAt": "2026-08-14T12:03:37.000Z",
       "articleId": "6eb9ad1f598f164c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
-      "title": "Which 10 Giants players have the most to gain — and lose — in the preseason opener?",
-      "url": "https://www.nytimes.com/athletic/7512579/2026/08/14/new-york-giants-preseason-odell-beckham-jr-deonte-banks/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Odell Beckham Jr. doesn't play special teams, so he needs to show enough value as a receiver to earn a spot on the 53-man roster.",
-      "publishedAt": "2026-08-14T09:30:06.000Z",
-      "articleId": "a01330d46655eab1"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-rain-chances-increase-by-tonight-clearing-by-sunday-afternoon/",
-    "title": "DC-area forecast: Rain chances with a flood risk tonight. Clearing, warmer Sunday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-rain-chances-increase-by-tonight-clearing-by-sunday-afternoon/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
+    "title": "DC-area forecast: Muggy today as early showers give way to increasing sun. Refreshing tomorrow.",
+    "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Mostly cloudy this evening with temperatures in the 70s. Showers and storms are hit or miss through the evening and overnight hours, with a few flooding downpours possible overnight.",
-    "publishedAt": "2026-09-12T09:00:35.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Mostly cloudy and muggy today, rain tonight. Meh.",
-    "articleId": "a1e2a1f14b333193"
+    "summary": "HAPPENING NOW: Showers should exit to the east by around 8 or 9 a.m., then increasing sun late morning into afternoon with muggy highs in the mid- to upper 80s.",
+    "publishedAt": "2026-09-13T09:00:36.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "A hard one to love with some afternoon heat and a soupy feel. At least there's sun?",
+    "articleId": "04ce89e2df324a02"
   },
-  "weatherGeneratedAt": "2026-09-13T06:04:49.882Z",
+  "weatherGeneratedAt": "2026-09-13T11:46:16.521Z",
   "weatherError": null,
   "sources": [
     {
