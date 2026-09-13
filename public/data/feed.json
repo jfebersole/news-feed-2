@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-13T16:11:50.735Z",
-  "fetchedAt": "2026-09-13T16:11:50.730Z",
+  "generatedAt": "2026-09-13T19:25:44.371Z",
+  "fetchedAt": "2026-09-13T19:25:44.368Z",
   "sourceCount": 24,
-  "itemCount": 173,
+  "itemCount": 172,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-9e2",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-9e2",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-09-13T17:01:52.000Z",
+      "articleId": "ac88c056a87316dd"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Scott Sumner as regional thinker. 2. The economists who work on “Productivity and Innovation” are most likely to use AI for their writing. 3. Michael Levin defends neo-neo-Platonism? 4. Look for and try to limit agent collusion. 5. Do orangutans like Indian classical music? 6. “Our results demonstrate that LLM-evolved constitutions significantly outperform both […]",
+      "publishedAt": "2026-09-13T16:36:11.000Z",
+      "articleId": "b7b0468d3c105dc2"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-process-is-the-point",
       "title": "The Process is the Point",
@@ -406,17 +429,6 @@
       "summary": "Am I a regional thinker?",
       "publishedAt": "2026-09-10T17:20:46.000Z",
       "articleId": "3ed25ecbdd3b68e1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-569",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-569.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. On India’s new gdp statistics. 2. Reasons why robotics are hard. 3. On 20th century music. 4. Is the inflation picture shifting? (correct link) 5. The importance of nuclear risk. 6. Call for AI safety start-ups. Project Tailwind. 7. Do the doomers have a good forecasting record? 8. OAI employees are contributing significantly to […]",
-      "publishedAt": "2026-09-10T15:47:02.000Z",
-      "articleId": "519c0427be5796cf"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/trump-vs-the-blue-wave",
@@ -1006,18 +1018,6 @@
       "summary": "Our new podcast launches soon, and Silver Bulletin readers helped make it possible.",
       "publishedAt": "2026-09-03T01:20:26.000Z",
       "articleId": "79d29dc8ba8bf634"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/coalescence-or-no-alescence",
-      "title": "Coalescence or ... no-alescence",
-      "url": "https://www.slowboring.com/p/coalescence-or-no-alescence",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Candidates in Texas are being left out to dry by members of their own parties — even as their counterparts in Michigan are gaining support from unlikely places.",
-      "publishedAt": "2026-09-02T22:01:25.000Z",
-      "articleId": "852d6fc2a0b19854"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/how-google-taught-llms-to-control",
@@ -1937,17 +1937,6 @@
       "summary": "Finalist #5 in the Book Review Contest",
       "publishedAt": "2026-08-14T22:21:13.000Z",
       "articleId": "b7e566c21a7a737a"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
-      "title": "Woke 1 Was Anti-Populist, and Not in the Good Way",
-      "url": "https://www.joshbarro.com/p/woke-1-was-anti-populist-and-not",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "By demanding the purification of the individual and branding broad swathes of the public as oppressor classes, 'Woke 1' besmirched the average Americans who Democrats once championed.",
-      "publishedAt": "2026-08-14T17:17:36.000Z",
-      "articleId": "d0956d63761d5a1a"
     }
   ],
   "weather": {
@@ -1964,7 +1953,7 @@
     "dailyDigitSummary": "A hard one to love with some afternoon heat and a soupy feel. At least there's sun?",
     "articleId": "04ce89e2df324a02"
   },
-  "weatherGeneratedAt": "2026-09-13T16:11:50.735Z",
+  "weatherGeneratedAt": "2026-09-13T19:25:44.371Z",
   "weatherError": null,
   "sources": [
     {
