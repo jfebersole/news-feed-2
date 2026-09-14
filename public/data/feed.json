@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-09-14T06:11:50.395Z",
-  "fetchedAt": "2026-09-14T06:11:50.391Z",
+  "generatedAt": "2026-09-14T13:57:57.641Z",
+  "fetchedAt": "2026-09-14T13:57:57.638Z",
   "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 804,
+  "itemCount": 174,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
+      "title": "Do people prefer traditional architecture?",
+      "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Taste is subjective. But when it comes to architecture, there is a surprising level of agreement.",
+      "publishedAt": "2026-09-14T13:06:22.000Z",
+      "articleId": "0c19917afeab709c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie",
+      "title": "AI, Redistribution, and the Size of the Pie",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Anthropic’s economic team, including Anton Korinek and Chad Jones, have a valuable new paper, Economic Scenarios for Transformative AI. They make their assumptions explicit and provide a scenario explorer that lets you change them. How capable will AI become? How quickly will firms adopt it? Will it augment workers or automate their tasks? You can […]",
+      "publishedAt": "2026-09-14T11:18:04.000Z",
+      "articleId": "73fb52be47fd5538"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from",
+      "title": "A simple plan to save the world from rogue A.I.",
+      "url": "https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Plus a not-so-simple plan to save the world from rogue A.I.",
+      "publishedAt": "2026-09-14T10:03:04.000Z",
+      "articleId": "1e7e937a9fb9562e"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7593026/2026/09/14/jaxson-dart-giants-complete-quarterback-win-cowboys/",
+      "title": "Giants' Jaxson Dart aces first test, delivers flawless encore to promising rookie year",
+      "url": "https://www.nytimes.com/athletic/7593026/2026/09/14/jaxson-dart-giants-complete-quarterback-win-cowboys/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Giants offensive lineman Jermaine Eluemunor: \"He’s the heartbeat of this team. He’s a leader. We’ll go as far as he takes us.”",
+      "publishedAt": "2026-09-14T10:00:58.000Z",
+      "articleId": "1a0b838c57284ef8"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+      "publishedAt": "2026-09-14T10:00:00.000Z",
+      "articleId": "6c6638a31a6db4e6"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/mlbs-garbage-time-is-getting-out",
+      "title": "MLB’s Garbage Time is Getting Out of Control",
+      "url": "https://neilpaine.substack.com/p/mlbs-garbage-time-is-getting-out",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Nearly 1 percent of all runs are allowed by non-pitchers now.",
+      "publishedAt": "2026-09-14T09:02:55.000Z",
+      "articleId": "d900687d9cf0c920"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems",
+      "title": "Is it the screens? Or education systems?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Dark Ages implies television and phones are the main cause of cognitive decline. This fails to explain the patterns in PISA scores. Why did England and Scotland fall so precipitously from 2000 to 2005 whilst America improved? Why did England and Estonia hold steady after 2015 whilst most other OECD countries declined? How have Singapore, […]",
+      "publishedAt": "2026-09-14T07:01:27.000Z",
+      "articleId": "405f460c4f9b8653"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise",
       "title": "Does AI assistance enhance or erode expertise?",
@@ -373,28 +450,6 @@
       "summary": "You will find it here, with transcript.",
       "publishedAt": "2026-09-11T06:34:26.000Z",
       "articleId": "717bbc4e2971ca3f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-do-respond-to-agi-news",
-      "title": "Markets do respond to AGI news",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the link. What are the changes in the other market prices telling you?",
-      "publishedAt": "2026-09-11T04:47:44.000Z",
-      "articleId": "2aa8e61be3728e82"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-there-now-a-better-trend-in-youth-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-now-a-better-trend-in-youth-mental-health",
-      "title": "Is there now a better trend in youth mental health?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-there-now-a-better-trend-in-youth-mental-health.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A key U.S. government report on mental health, substance use and addiction showed continued improvements in several metrics, especially among young people. There was some uncertainty about the future of the National Survey on Drug Use and Health last year, when the entire 17-member team responsible for it was laid off by the Trump administration. But the […]",
-      "publishedAt": "2026-09-11T04:34:45.000Z",
-      "articleId": "ee9128d1a1b0f228"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/the-aboriginal-issue",
@@ -996,18 +1051,6 @@
       "articleId": "8b235d479ce6d7a3"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/is-there-a-liberal-center-should",
-      "title": "Is there a liberal center? Should there be?",
-      "url": "https://www.slowboring.com/p/is-there-a-liberal-center-should",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A conversation with Nate Silver and Jeremiah Johnson",
-      "publishedAt": "2026-09-03T09:02:12.000Z",
-      "articleId": "499d2d5f417b4e25"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
       "title": "College EA Meetups Everywhere: Times & Places",
       "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
@@ -1320,17 +1363,6 @@
       "summary": "Plus brief thoughts on Jackson Hole",
       "publishedAt": "2026-08-28T17:06:46.000Z",
       "articleId": "ef30eaeec38822a3"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/internet-hype-and-real-world-change/",
-      "title": "2026.35: Internet Hype and Real World Change",
-      "url": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
-      "publishedAt": "2026-08-28T17:00:00.000Z",
-      "articleId": "9ca25d2874fd5063"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
@@ -1924,35 +1956,23 @@
       "summary": "There’s a 71 percent chance this is where control of the chamber is decided.",
       "publishedAt": "2026-08-15T18:04:42.000Z",
       "articleId": "7399668e6add6b8e"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-08152026",
-      "title": "Reading List — 08/15/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-08152026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Home price declines, the Strategic Petroleum Reserve, The Boring Company fundraising, and more.",
-      "publishedAt": "2026-08-15T12:02:38.000Z",
-      "articleId": "19c6f88a615d561f"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
-    "title": "DC-area forecast: Chance of isolated shower or storm this evening. Nice and less humid early week.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-muggy-today-as-early-showers-give-way-to-increasing-sun-refreshing-tomorrow/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-refreshing-start-to-the-week-before-it-turns-toasty-again/",
+    "title": "DC-area forecast: A refreshing start to the week before it turns toasty again",
+    "url": "https://www.capitalweather.com/dc-area-forecast-a-refreshing-start-to-the-week-before-it-turns-toasty-again/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures in the 70s hold onto the muggies, with an isolated shower or storm still possible. A cold front comes through overnight with lows in the mid-60s to around 70.",
-    "publishedAt": "2026-09-13T09:00:36.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "A hard one to love with some afternoon heat and a soupy feel. At least there's sun?",
-    "articleId": "04ce89e2df324a02"
+    "summary": "Happening now: Increasing sunshine, falling humidity and a steady breezy. Afternoon highs are near 80.",
+    "publishedAt": "2026-09-14T09:00:33.000Z",
+    "dailyDigit": 9,
+    "dailyDigitLabel": "9/10",
+    "dailyDigitSummary": "Close to perfect with sunshine, dropping humidity, and a refreshing breeze.",
+    "articleId": "efa6ce93adbba203"
   },
-  "weatherGeneratedAt": "2026-09-14T06:11:50.395Z",
+  "weatherGeneratedAt": "2026-09-14T13:57:57.641Z",
   "weatherError": null,
   "sources": [
     {
@@ -2039,7 +2059,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
