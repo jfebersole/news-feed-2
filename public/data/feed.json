@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-09-14T13:57:57.641Z",
-  "fetchedAt": "2026-09-14T13:57:57.638Z",
+  "generatedAt": "2026-09-14T19:18:28.237Z",
+  "fetchedAt": "2026-09-14T19:18:28.233Z",
   "sourceCount": 24,
   "itemCount": 174,
-  "totalItemCount": 805,
+  "totalItemCount": 797,
   "items": [
     {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/f2gy52tguhqm2vd0yl5m.html",
+      "title": "Money Stuff: AI Labs Want Someone to Stop Them",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/f2gy52tguhqm2vd0yl5m.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "P(doom) When it goes public, probably this year , Anthropic PBC “ is likely to tell investors its potential revenue opportunities are above $30 trillion, topping SpaceX’s $28.5 trillion estimate.” That would give Anthropic the largest total addressable market in the history of finance. I mean, that’s just a number that they write down; it’s not like Anthropic expects $30 trillion of revenue in 2027, or in 2057. But in theory, the maximal upside case for Anthropic is something like “one-quarter of all human economic activity will be done by artificial intelligence, and Anthropic will capture all of it.” What is the negative of a total addressable market? Like, if the maximal upside case for Anthropic is $30 trillion, what is the maximal downside case? With the benefit of hindsight, you could imagine a tobacco company going public in 1970 saying “our maximum upside case is 8 billion humans smoking two packs a day of our cigarettes, and our maximum downside case is paying billions of dollars in damages for causing lung cancer,” but Anthropic is on a whole different scale. Anthropic’s negative TAM is “you and everyone else on earth will be killed by our AI.” [1] I want to be clear that I do not think that Anthropic Chief Executive Officer Dario Amodei’s call to slow down AI development to prevent misaligned rogue AI is insincere or intended as marketing hype. But I do think that it is great marketing. In hindsight it is crazy that the SpaceX initial public offering prospectus does not have a risk factor saying “there’s a 10% chance our AI will kill everyone on earth.” I mean, maybe SpaceX doesn’t believe that! But Anthropic does , and arguably the closer you are to the frontier, the more likely you are to be deadly. Which means that you ought to have a “we might kill everyone” risk factor , if you want to get IPO investors excited about your capabilities. When OpenAI goes public, I assume it will need to claim a 15% probability of killing everyone. Anyway. Amodei published his call to “ pace the frontier ” on Saturday. Sam Altman of OpenAI and Elon Musk of SpaceX endorsed it ; Google and Microsoft also seem to mostly agree. Others do not, including US President Donald Trump : “We’re leading China in AI. We’re the most sophisticated country in the world, and frankly, I want to keep it that way because whoever wins AI wins,” Trump told reporters on the sidelines of the Irish Open golf tournament. “And we can put guardrails. We can do this and that. But I think you have a lot of very negative forces that are bringing it up that shouldn’t be bringing it up.” And Chinese officials : “Fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance and serve the interests of no one,” Foreign Ministry spokesman Guo...",
+      "publishedAt": "2026-09-14T19:02:32.722Z",
+      "articleId": "c8ea51eff4a14d80"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
+      "title": "The Fix Was Almost In",
+      "url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The midterms dodge their first MAGA bullet. It won’t be the last.",
+      "publishedAt": "2026-09-14T18:30:00.000Z",
+      "articleId": "2b6455ea8ac34083"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Will driverless cars increase or reduce urban density? 2. One decomposition approach to why interest rates have been going up. 3. New Guinness record holders. 4. Is there any chance of finding Rembrandt DNA? 5. “Abundance Corps is hosting Making Progress, a private gathering for students interested in how science, technology, and institutions can […]",
+      "publishedAt": "2026-09-14T16:53:00.000Z",
+      "articleId": "c9e5c1354ff12bde"
+    },
+    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-      "title": "Do people prefer traditional architecture?",
+      "title": "Most people prefer traditional architecture",
       "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
@@ -159,17 +192,6 @@
       "summary": "Diversity is our strength is a common motto. Indeed it is one of GMU’s core values but what is the scientific evidence for this thesis? A new scoping review: Recent years have witnessed many strong claims that ‘diversity’ leads to more original and impactful science, which is a science-focused form of what we call “The […]",
       "publishedAt": "2026-09-13T11:17:26.000Z",
       "articleId": "beb0f92b377e4cdf"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
-      "title": "The Fix Was Almost In",
-      "url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The midterms dodge their first MAGA bullet. It won’t be the last.",
-      "publishedAt": "2026-09-13T10:00:22.000Z",
-      "articleId": "2b6455ea8ac34083"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
@@ -439,17 +461,6 @@
       "summary": "The Brew Shop - Weekly Email Update Check out what is new to the shop this week ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-09-11T08:25:06.423Z",
       "articleId": "691659002732c024"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-ai-podcast-with-james-pethokoukis.html?utm_source=rss&utm_medium=rss&utm_campaign=my-ai-podcast-with-james-pethokoukis",
-      "title": "My AI podcast with James Pethokoukis",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-ai-podcast-with-james-pethokoukis.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "You will find it here, with transcript.",
-      "publishedAt": "2026-09-11T06:34:26.000Z",
-      "articleId": "717bbc4e2971ca3f"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/the-aboriginal-issue",
@@ -1944,18 +1955,6 @@
       "summary": "“I’m still puzzled by (how) it feels like every time I get hit I find my way (to the medical tent).\"",
       "publishedAt": "2026-08-15T21:00:26.000Z",
       "articleId": "dc15fb911d6ee1cd"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-7-key-senate-races",
-      "title": "A tour of the 7 key Senate races",
-      "url": "https://www.natesilver.net/p/a-tour-of-the-7-key-senate-races",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "There’s a 71 percent chance this is where control of the chamber is decided.",
-      "publishedAt": "2026-08-15T18:04:42.000Z",
-      "articleId": "7399668e6add6b8e"
     }
   ],
   "weather": {
@@ -1970,10 +1969,11 @@
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Close to perfect with sunshine, dropping humidity, and a refreshing breeze.",
-    "articleId": "efa6ce93adbba203"
+    "articleId": "efa6ce93adbba203",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-14T13:57:57.641Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-14T19:18:28.237Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1986,10 +1986,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415 Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
