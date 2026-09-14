@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-14T00:59:31.506Z",
-  "fetchedAt": "2026-09-14T00:59:31.503Z",
+  "generatedAt": "2026-09-14T06:11:50.395Z",
+  "fetchedAt": "2026-09-14T06:11:50.391Z",
   "sourceCount": 24,
-  "itemCount": 171,
-  "totalItemCount": 805,
+  "itemCount": 172,
+  "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise",
+      "title": "Does AI assistance enhance or erode expertise?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From a new NBER working paper: Whether AI assistance builds or erodes professional expertise is unsettled. In a pre-registered three-month randomized controlled trial, we gave 133 practicing patent lawyers at eleven U.S. intellectual property law firms access to a custom AI drafting assistant and measured both their performance while using AI and their professional judgment […]",
+      "publishedAt": "2026-09-14T04:14:34.000Z",
+      "articleId": "f7ab9aa0d0d7156e"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7590348/2026/09/13/cowboys-giants-nfl-2026-score-result-takeaways/",
+      "title": "Giants hold off Cowboys in John Harbaugh's New York debut. Is the rivalry renewed?",
+      "url": "https://www.nytimes.com/athletic/7590348/2026/09/13/cowboys-giants-nfl-2026-score-result-takeaways/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Harbaugh vowed to build a team good enough to \"kick the Cowboys' ass.\" The Giants delivered on Sunday night.",
+      "publishedAt": "2026-09-14T03:29:13.000Z",
+      "articleId": "c6c6ebf410b8e110"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/two-missing-pieces-in-the-ai-safety",
+      "title": "Two missing pieces in the AI safety discussion",
+      "url": "https://www.noahpinion.blog/p/two-missing-pieces-in-the-ai-safety",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "We need to make skeptics properly scared. And we need to make CHINA properly scared.",
+      "publishedAt": "2026-09-14T01:43:28.000Z",
+      "articleId": "161e257985cbe225"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-9e2",
       "title": "Sunday Thread + Mailbag",
@@ -398,17 +431,6 @@
       "articleId": "9a3331b68dd5f805"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-short-interview-with-julia-willemyns.html?utm_source=rss&utm_medium=rss&utm_campaign=my-short-interview-with-julia-willemyns",
-      "title": "My short interview with Julia Willemyns",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-short-interview-with-julia-willemyns.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the link, here is the end bit: Who is the most important thinker of our time? It’s not about individual thinkers any more. It’s about the internet as this vast organ of knowledge that you can play like a musical instrument, and combining the internet with AI. You can figure out things to […]",
-      "publishedAt": "2026-09-10T18:43:36.000Z",
-      "articleId": "24a1eef69358f45f"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/5-music-streaming-features-you-need",
       "title": "5 Music Streaming Features You Need to Be Using",
       "url": "https://www.cantgetmuchhigher.com/p/5-music-streaming-features-you-need",
@@ -497,18 +519,6 @@
       "summary": "Cosmopolitan Humanism 1 was crazy.",
       "publishedAt": "2026-09-10T09:02:02.000Z",
       "articleId": "df52eabbd7a6dd3a"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-bills-and-ravens-are-running",
-      "title": "The Bills and Ravens Are Running Out of Time",
-      "url": "https://neilpaine.substack.com/p/the-bills-and-ravens-are-running",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Josh Allen and Lamar Jackson have been circling the Super Bowl for years. History suggests there may not be many more chances this good left.",
-      "publishedAt": "2026-09-10T09:01:49.000Z",
-      "articleId": "c2ea6c0e4b1eebdd"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/alaskas-ranked-choice-voting-six",
@@ -1942,7 +1952,7 @@
     "dailyDigitSummary": "A hard one to love with some afternoon heat and a soupy feel. At least there's sun?",
     "articleId": "04ce89e2df324a02"
   },
-  "weatherGeneratedAt": "2026-09-14T00:59:31.506Z",
+  "weatherGeneratedAt": "2026-09-14T06:11:50.395Z",
   "weatherError": null,
   "sources": [
     {
@@ -2029,7 +2039,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 4,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
