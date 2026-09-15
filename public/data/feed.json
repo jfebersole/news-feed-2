@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-15T18:08:39.150Z",
-  "fetchedAt": "2026-09-15T18:08:39.145Z",
+  "generatedAt": "2026-09-15T22:10:36.215Z",
+  "fetchedAt": "2026-09-15T22:10:36.211Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 175,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+      "title": "We’re not ready for superpersistent AI",
+      "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Intelligence isn’t the only thing to worry about. What happens when AI just won’t quit?",
+      "publishedAt": "2026-09-15T20:06:44.000Z",
+      "articleId": "ef8bd9c25cd9ced0"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hhs4k87snxujj1dn7ozz.html",
+      "title": "Money Stuff: Not All the Susquehanna Puts Were Bad",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hhs4k87snxujj1dn7ozz.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "SIG puts Let’s say you’re a senior executive at a public company. You know that, next week, your company is going to announce that it has agreed to be acquired for cash at a large premium. So you go out and buy a lot of short-dated out-of-the-money call options on your company’s stock, options that will pay out a ton of money when the merger is announced. That’s bad! For one thing, it is obviously illegal insider trading: You are misusing your company’s material nonpublic information to trade for your own profit. For another thing, you will get caught: When a merger is announced, the first place the US Securities and Exchange Commission will look is at suspicious activity in short-dated out-of-the-money call options on the target. They will notice your trades: There’s probably not that much trading in those options, the trades are publicly reported , and your big sudden trade will stick out like a sore thumb. This is not legal advice, but I do spend a lot of time around here hammering home the point that you should not trade short-dated out-of-the-money call options on merger targets using inside information. People keep doing it, though. Let’s change the hypothetical somewhat. Let’s say you’re a casual day trader. You notice that someone just bought a ton of short-dated out-of-the-money call options on a company without any major news. You think: “Hmm. Maybe this another casual day trader like me making a big gamble. But maybe there’s something going on. Maybe this person knows something I don’t. Maybe she has some good reason for betting a ton of money on a big sudden spike in this stock’s price. Maybe — and I’m just guessing here — but maybe she is actually a senior executive at the company, knows that a merger is coming, and is insider trading in the dumbest but nonetheless most popular way. Bad luck for her if that’s true! But all of this option activity makes me think that something is going on, so I’m going to buy some short-dated out-of-the-money call options too and see what happens.” And then the merger is announced and you make a ton of money. The SEC looks at the options trading activity. It sees the other person’s big trade, calls her up, and finds out that in fact she is a senior executive at the target company. Off she goes to jail. The SEC also sees your smaller, later trade. It calls you up and says “hey were you trading on inside information too?” You say: “Not at all! I was just looking at public trading information, I saw a big options trade print, I thought that was bullish, so I copied it.” The SEC does some more digging and finds no suspicious phone calls or texts or emails or old college ties to executives at the company. It is satisfied that you traded only on public information. It moves on, and you keep your money. This is...",
+      "publishedAt": "2026-09-15T19:17:13.469Z",
+      "articleId": "e8b6d69406f7d316"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices",
+      "title": "Callum Williams on cybersecurity prices",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Share prices of cyber firms have jumped around a lot in recent weeks, leading one side or the other to claim victory. But the crucial point is that, relative to the historical norm, the market is not really pricing ANYTHING big to change. There was a much bigger move in cyber stocks in both 2020-22 […]",
+      "publishedAt": "2026-09-15T18:40:18.000Z",
+      "articleId": "b86423442616b73b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586",
       "title": "Tuesday assorted links",
@@ -429,17 +462,6 @@
       "summary": "The UK economy grew 0.4 per cent in July as the global AI boom helped deliver an unexpectedly robust start to the third quarter, in a boost to Prime Minister Andy Burnham as he prepares for a tough first Budget next month. Friday’s figure from the Office for National Statistics was far above the zero […]",
       "publishedAt": "2026-09-12T11:24:03.000Z",
       "articleId": "56082352c8dc9cfb"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-prediction-archive",
-      "title": "The Prediction Archive",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Prediction Archive is a public database of tens of thousands of world predictions. Using AI it tracks predictions over many decades and marks to market. I was surprised to discover that I am currently the highest ranked individual predictor in the world! Huh, I would not have predicted that. Ranks are based on the […]",
-      "publishedAt": "2026-09-12T11:18:05.000Z",
-      "articleId": "1303b889fe63316a"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-september-7-11",
@@ -1015,18 +1037,6 @@
       "summary": "Pho Thin, 13 Lo Duc, web site, 7263H Arlington Blvd., Falls Church, VA, Graham Park Plaza, (571) 746-8446 (Metro Trip Planner – opens in new window) [Google | Washingtonian | Reddit] Has there been anything new in the Pho arena … Continue reading →",
       "publishedAt": "2026-09-04T14:17:00.000Z",
       "articleId": "b012b10ddf21f7b0"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/you-cant-blame-housing-shortages",
-      "title": "You can’t blame housing shortages for literally everything",
-      "url": "https://www.slowboring.com/p/you-cant-blame-housing-shortages",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus alternate Reconstructions, saving D.C. real estate, and the truth about Tupac",
-      "publishedAt": "2026-09-04T10:03:10.000Z",
-      "articleId": "d794b0bdd7918026"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
@@ -1960,19 +1970,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-one-more-perfect-day-before-warmth-and-humidity-make-a-comeback/",
-    "title": "DC-area forecast: One more perfect day before warmth and humidity make a comeback",
+    "title": "DC-area forecast: Another stellar evening before warmth and humidity make a gradual comeback",
     "url": "https://www.capitalweather.com/dc-area-forecast-one-more-perfect-day-before-warmth-and-humidity-make-a-comeback/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Sunny skies and comfortably dry air. Highs climb into the mid-70s to around 80 this afternoon.",
+    "summary": "HAPPENING NOW: Temperatures fall back through the 70s this evening as skies remain clear.",
     "publishedAt": "2026-09-15T09:00:17.000Z",
     "dailyDigit": 10,
     "dailyDigitLabel": "10/10",
     "dailyDigitSummary": "Wall-to-wall sunshine, refreshingly dry air, and highs from the mid-70s to around 80 — about as perfect as a September day gets.",
     "articleId": "444edc54067511a7"
   },
-  "weatherGeneratedAt": "2026-09-15T18:08:39.150Z",
+  "weatherGeneratedAt": "2026-09-15T22:10:36.215Z",
   "weatherError": null,
   "sources": [
     {
@@ -2083,7 +2093,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2131,7 +2141,7 @@
       "name": "Money Stuff (Bloomberg)",
       "url": "https://www.bloomberg.com/account/newsletters/money-stuff",
       "mode": "rss",
-      "itemCount": 5,
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj.xml",
       "error": null
     },
