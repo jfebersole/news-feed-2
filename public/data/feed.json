@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-09-15T07:39:34.404Z",
-  "fetchedAt": "2026-09-15T07:39:34.395Z",
+  "generatedAt": "2026-09-15T13:29:09.588Z",
+  "fetchedAt": "2026-09-15T13:29:09.585Z",
   "sourceCount": 24,
-  "itemCount": 172,
-  "totalItemCount": 805,
+  "itemCount": 175,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved",
+      "title": "The striking thing is how late the market moved",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here’s the S&P 500 (daily close) with the key COVID and policy events marked; the numbered key is below the chart. Event key: Dec 31 – China reports the Wuhan pneumonia cluster to the WHO Jan 21 – First confirmed US case (Washington state) Jan 23 – Wuhan locked down Jan 30 – WHO declares […]",
+      "publishedAt": "2026-09-15T11:18:36.000Z",
+      "articleId": "286413424711efd6"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/why-alberta-doesnt-have-rats",
+      "title": "Why Alberta doesn’t have rats",
+      "url": "https://www.worksinprogress.news/p/why-alberta-doesnt-have-rats",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Rats have conquered nearly every place on earth where humans live. Only Alberta soldiers on.",
+      "publishedAt": "2026-09-15T11:02:06.000Z",
+      "articleId": "6ab2caea87033da8"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7595778/2026/09/15/new-york-giants-john-harbaugh-cowboys-signature-win/",
+      "title": "Why it was so important for Giants to secure signature win early in John Harbaugh's tenure",
+      "url": "https://www.nytimes.com/athletic/7595778/2026/09/15/new-york-giants-john-harbaugh-cowboys-signature-win/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The most encouraging aspect of Sunday’s win over the Cowboys was how much the game fit the vision Harbaugh has outlined since his arrival.",
+      "publishedAt": "2026-09-15T10:30:06.000Z",
+      "articleId": "db778a21c50dbfff"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sanctions-on-west-bank-settlements",
+      "title": "Sanctions on West Bank settlements aren’t enough",
+      "url": "https://www.slowboring.com/p/sanctions-on-west-bank-settlements",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Unfortunately, the Israeli-Palestinian conflict turns out to be a difficult problem.",
+      "publishedAt": "2026-09-15T10:02:03.000Z",
+      "articleId": "649848ee17a0a398"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "articleId": "5690505b5fae314e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
       "title": "Those new service sector jobs",
@@ -374,17 +430,6 @@
       "summary": "New technologies swept through Britain during the Second Industrial Revolution, destroying old jobs and creating new ones. We know little about how workers reallocated. Using 170 million full-count British census observations (1851-1911), I construct new task-level data on occupation and investigate English bootmaking as it mechanized. 153,000 artisanal jobs disappeared as skills became obsolete; 140,000 […]",
       "publishedAt": "2026-09-12T07:28:51.000Z",
       "articleId": "ca887490cccb3403"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-excess-pessimism-of-early-nuclear-bomb-designers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-excess-pessimism-of-early-nuclear-bomb-designers",
-      "title": "The excess pessimism of early nuclear bomb designers",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-excess-pessimism-of-early-nuclear-bomb-designers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From GPT Pro: The Manhattan Project scientists were remarkably good technological and arms-race forecasters. They correctly rejected the idea that America’s nuclear monopoly could be maintained; the Soviet bomb arrived in 1949. They anticipated thermonuclear weapons, huge arsenals and the extreme vulnerability of cities. Where many of them went wrong was in moving from “a […]",
-      "publishedAt": "2026-09-12T04:25:50.000Z",
-      "articleId": "06b49116498511dd"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ai1svee70l5mpyyux0yo.html",
@@ -1275,17 +1320,6 @@
       "articleId": "a128a31867140635"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
-      "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
-      "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
-      "publishedAt": "2026-08-31T10:00:00.000Z",
-      "articleId": "e04e2b6477820454"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7551353/2026/08/30/new-york-giants-roster-53-odell-beckham-2026/",
       "title": "Giants 53-man roster breakdown: Odell Beckham Jr. is back; what comes next for NY?",
       "url": "https://www.nytimes.com/athletic/7551353/2026/08/30/new-york-giants-roster-53-odell-beckham-2026/",
@@ -1936,20 +1970,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-a-refreshing-start-to-the-week-before-it-turns-toasty-again/",
-    "title": "DC-area forecast: Refreshing again tomorrow before it turns toasty again",
-    "url": "https://www.capitalweather.com/dc-area-forecast-a-refreshing-start-to-the-week-before-it-turns-toasty-again/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-one-more-perfect-day-before-warmth-and-humidity-make-a-comeback/",
+    "title": "DC-area forecast: One more perfect day before warmth and humidity make a comeback",
+    "url": "https://www.capitalweather.com/dc-area-forecast-one-more-perfect-day-before-warmth-and-humidity-make-a-comeback/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Evening temperatures dip through the 70s and into the 60s. Breezes of the day diminish somewhat with sunset ahead of a clear and crisp night.",
-    "publishedAt": "2026-09-14T09:00:33.000Z",
-    "dailyDigit": 9,
-    "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "Close to perfect with sunshine, dropping humidity, and a refreshing breeze.",
-    "articleId": "efa6ce93adbba203"
+    "summary": "HAPPENING NOW: Sunny skies and comfortably dry air greet the cool morning. Morning 50s climb to afternoon highs in the mid-70s to around 80.",
+    "publishedAt": "2026-09-15T09:00:17.000Z",
+    "dailyDigit": 10,
+    "dailyDigitLabel": "10/10",
+    "dailyDigitSummary": "Wall-to-wall sunshine, refreshingly dry air and highs from the mid-70s to around 80 — about as perfect as a September day gets.",
+    "articleId": "444edc54067511a7"
   },
-  "weatherGeneratedAt": "2026-09-15T07:39:34.404Z",
+  "weatherGeneratedAt": "2026-09-15T13:29:09.588Z",
   "weatherError": null,
   "sources": [
     {
@@ -2060,7 +2094,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
