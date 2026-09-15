@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-14T23:06:05.249Z",
-  "fetchedAt": "2026-09-14T23:06:05.244Z",
+  "generatedAt": "2026-09-15T01:27:01.180Z",
+  "fetchedAt": "2026-09-15T01:27:01.175Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/king-ludd",
+      "title": "King Ludd",
+      "url": "https://www.astralcodexten.com/p/king-ludd",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-14T23:56:40.000Z",
+      "articleId": "d49d53bfc29104b5"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/bay-area-officials-want-more-housing",
       "title": "Bay Area officials want more housing to keep up with the A.I. boom. One developer sees a different opportunity.",
@@ -1934,17 +1945,6 @@
       "summary": "Zhu Rongji's formula won't work anymore. But that doesn't mean Xi Jinping's will work either.",
       "publishedAt": "2026-08-16T07:26:51.000Z",
       "articleId": "21fa293e94990c9f"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7516003/2026/08/15/new-york-giants-jaxson-dart-vikings-concussion-medical-tent/",
-      "title": "The Jaxson Dart roller-coaster ride continues in Giants' eventful preseason opener",
-      "url": "https://www.nytimes.com/athletic/7516003/2026/08/15/new-york-giants-jaxson-dart-vikings-concussion-medical-tent/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Dart's 2026 preseason debut felt like an extension of his roller-coaster rookie year, complete with a visit to the sideline medical tent.",
-      "publishedAt": "2026-08-15T23:37:56.000Z",
-      "articleId": "baf0ca727a13679a"
     }
   ],
   "weather": {
@@ -1961,7 +1961,7 @@
     "dailyDigitSummary": "Close to perfect with sunshine, dropping humidity, and a refreshing breeze.",
     "articleId": "efa6ce93adbba203"
   },
-  "weatherGeneratedAt": "2026-09-14T23:06:05.249Z",
+  "weatherGeneratedAt": "2026-09-15T01:27:01.180Z",
   "weatherError": null,
   "sources": [
     {
