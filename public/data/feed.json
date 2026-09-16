@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-16T18:09:55.474Z",
-  "fetchedAt": "2026-09-16T18:09:55.469Z",
+  "generatedAt": "2026-09-16T22:06:00.991Z",
+  "fetchedAt": "2026-09-16T22:06:00.982Z",
   "sourceCount": 24,
   "itemCount": 174,
-  "totalItemCount": 806,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/republicans-are-playing-defense-in",
+      "title": "Republicans are playing defense in what should be easy races",
+      "url": "https://www.slowboring.com/p/republicans-are-playing-defense-in",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Two new polls show Republicans running well behind Democrats on the generic ballot.",
+      "publishedAt": "2026-09-16T22:01:05.000Z",
+      "articleId": "8dc58e2bc78228f7"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mv0ux7el2ilz0edxf934.html",
       "title": "Money Stuff: BlackRock Wants Pensions",
@@ -1944,34 +1956,23 @@
       "summary": "Part 1 of my personal recommendations.",
       "publishedAt": "2026-08-18T05:21:55.000Z",
       "articleId": "f0b3e2ab58e32fd2"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
-      "title": "Giants' Malik Nabers takes another big step toward being ready for Week 1",
-      "url": "https://www.nytimes.com/athletic/7518905/2026/08/17/new-york-giants-malik-nabers-practice/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The star wide receiver participated in full-speed team drills Monday, the first time he's done so since tearing his ACL last season.",
-      "publishedAt": "2026-08-17T19:52:50.000Z",
-      "articleId": "856ef5b35f7b44ae"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-still-nice-today-despite-the-start-of-a-warming-trend/",
-    "title": "DC-area forecast: Still nice today despite the start of a warming trend",
+    "title": "DC-area forecast: Still decent this evening despite the start of a warming trend",
     "url": "https://www.capitalweather.com/dc-area-forecast-still-nice-today-despite-the-start-of-a-warming-trend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Plenty of sun helps afternoon highs to the mid-80s. Humidity is still reasonable.",
+    "summary": "Happening now: A bit humid this evening as temperatures slowly fall through the 80s and into the 70s after sunset.",
     "publishedAt": "2026-09-16T09:00:13.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "They can't all be perfect 10s like yesterday, but today is perfectly nice even if several degrees warmer.",
     "articleId": "8a64e97b84f75e78"
   },
-  "weatherGeneratedAt": "2026-09-16T18:09:55.474Z",
+  "weatherGeneratedAt": "2026-09-16T22:06:00.991Z",
   "weatherError": null,
   "sources": [
     {
@@ -2082,7 +2083,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
