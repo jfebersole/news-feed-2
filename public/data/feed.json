@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-16T01:22:25.179Z",
-  "fetchedAt": "2026-09-16T01:22:25.176Z",
+  "generatedAt": "2026-09-16T07:38:08.665Z",
+  "fetchedAt": "2026-09-16T07:38:08.662Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 176,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk",
+      "title": "The economics of cyber risk",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Aniket Baksy and Daniele Caratelli, here is part of the abstract: Because larger firms are more attractive targets but also invest more in protection, the model generates an inverse-U relationship between firm size and attack risk, consistent with the data. Introducing cyber risk reduces firm entry by 3.6 percent, aggregate productivity by 0.6 percent, […]",
+      "publishedAt": "2026-09-16T07:30:24.000Z",
+      "articleId": "0fc0856ca5ca983d"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-anti-american-right",
+      "title": "The anti-American Right",
+      "url": "https://www.noahpinion.blog/p/the-anti-american-right",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Bo French’s rightist movement is a dead end for our nation. Fortunately, it’s beatable.",
+      "publishedAt": "2026-09-16T06:08:15.000Z",
+      "articleId": "1a5b1d998312c61a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china",
+      "title": "When discussing AI policy, start with China",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Whatever your ideas for regulating AI, I say start with China. Do not put China as an afterthought at the end of your proposal, mentioned in a vague wish that something good ought to happen and that maybe the future of humanity can be secured. During the 2023 U.S.-China nuclear talks, America proposed missile-launch notifications, […]",
+      "publishedAt": "2026-09-16T04:58:51.000Z",
+      "articleId": "03abceea320e9dae"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/were-not-ready-for-superpersistent",
       "title": "We’re not ready for superpersistent AI",
@@ -418,17 +451,6 @@
       "articleId": "c21f8166f6b682f8"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html?utm_source=rss&utm_medium=rss&utm_campaign=dario-calls-for-a-pause",
-      "title": "Dario Calls for a Pause",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "My second concern is the OpenAI-Hugging Face incident (OAI-HF), in which a swarm of agents essentially acted as a fanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the success of the group, and attempting to hack into the […]",
-      "publishedAt": "2026-09-12T15:44:51.000Z",
-      "articleId": "e917482a9e23c9a1"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
       "title": "What I’ve learned after a year covering housing",
       "url": "https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
@@ -451,17 +473,6 @@
       "summary": "City permitting speeds, more efficient ground source heat pump drilling, an Amazon Air crash in Miami, cooling paint, and more.",
       "publishedAt": "2026-09-12T12:32:46.000Z",
       "articleId": "2b71c1de492759a9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8",
-      "title": "UK fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The UK economy grew 0.4 per cent in July as the global AI boom helped deliver an unexpectedly robust start to the third quarter, in a boost to Prime Minister Andy Burnham as he prepares for a tough first Budget next month. Friday’s figure from the Office for National Statistics was far above the zero […]",
-      "publishedAt": "2026-09-12T11:24:03.000Z",
-      "articleId": "56082352c8dc9cfb"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-september-7-11",
@@ -1975,14 +1986,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Temperatures fall back through the 70s this evening as skies remain clear.",
+    "summary": "HAPPENING NOW: Mostly clear as late-evening 60s cool off to overnight lows in the mid-50s to low 60s.",
     "publishedAt": "2026-09-15T09:00:17.000Z",
     "dailyDigit": 10,
     "dailyDigitLabel": "10/10",
     "dailyDigitSummary": "Wall-to-wall sunshine, refreshingly dry air, and highs from the mid-70s to around 80 — about as perfect as a September day gets.",
     "articleId": "444edc54067511a7"
   },
-  "weatherGeneratedAt": "2026-09-16T01:22:25.179Z",
+  "weatherGeneratedAt": "2026-09-16T07:38:08.665Z",
   "weatherError": null,
   "sources": [
     {
