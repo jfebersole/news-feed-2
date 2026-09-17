@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-17T20:16:58.890Z",
-  "fetchedAt": "2026-09-17T20:16:58.885Z",
+  "generatedAt": "2026-09-17T23:31:48.146Z",
+  "fetchedAt": "2026-09-17T23:31:48.143Z",
   "sourceCount": 24,
-  "itemCount": 176,
+  "itemCount": 177,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/how-a-single-tweet-transformed-the",
+      "title": "How a single tweet transformed the AI safety debate",
+      "url": "https://www.understandingai.org/p/how-a-single-tweet-transformed-the",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Most people think AI is risky, but they don’t agree what to do next.",
+      "publishedAt": "2026-09-17T20:21:40.000Z",
+      "articleId": "f20095b00a6a493d"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/r8ha9326dj7cusoq5ttl.html",
       "title": "Money Stuff: The Whole Indian Options Trade Was Too Good",
@@ -1983,19 +1995,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
-    "title": "DC-area forecast: Summer surges back today with a few showers and storms",
+    "title": "DC-area forecast: A shower or storm through evening; drier Friday and Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Partly to mostly cloudy and more humid with afternoon highs in the 80s. A line of storms west of the Beltway tracks through areas from I-66 to the south through about 3:45 p.m. Elsewhere a few hit-or-miss showers and storms are possible this afternoon into evening.",
+    "summary": "Happening now: Partly to mostly cloudy and humid with evening temperatures in the 70s to near 80 and a couple of hit-or-miss showers and storms possible.",
     "publishedAt": "2026-09-17T09:00:38.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "We're about a week past the average final day of 90-plus but could get there today, and humidity is high. It's not the September weather we dream of!",
     "articleId": "3f6915246cc696fc"
   },
-  "weatherGeneratedAt": "2026-09-17T20:16:58.890Z",
+  "weatherGeneratedAt": "2026-09-17T23:31:48.146Z",
   "weatherError": null,
   "sources": [
     {
