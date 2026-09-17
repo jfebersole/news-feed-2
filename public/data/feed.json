@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-17T00:30:01.105Z",
-  "fetchedAt": "2026-09-17T00:30:01.101Z",
+  "generatedAt": "2026-09-17T06:06:09.044Z",
+  "fetchedAt": "2026-09-17T06:06:09.040Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 174,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior",
+      "title": "The correct model of AI CEO behavior",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I agree with Alex that the standard model of regulatory capture does not apply here, but I think he neglects the best model we have. From my recent Free Press piece: Recently I have been reading my review copy of Kevin Roose’s excellent forthcoming book The AGI Chronicles: The Inside Story of the Race to Create an […]",
+      "publishedAt": "2026-09-17T04:19:07.000Z",
+      "articleId": "76a5988fe395bf7d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html?utm_source=rss&utm_medium=rss&utm_campaign=metr-ea-and-others-being-attacked",
+      "title": "METR, EA, and others being attacked",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Always focus on what you can learn from people and groups. Criticize in ways where you can learn something from the answer (or non-answer) and from the dialogue. If you attack how people look, their sex lives, their donors, whatever, it will make the critic stupider. It may not even hurt the target of the […]",
+      "publishedAt": "2026-09-17T03:10:53.000Z",
+      "articleId": "4b90929d9f36a8cc"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
       "title": "AI Superforecasting Should Transform The FDA",
@@ -440,17 +462,6 @@
       "articleId": "405f460c4f9b8653"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise",
-      "title": "Does AI assistance enhance or erode expertise?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From a new NBER working paper: Whether AI assistance builds or erodes professional expertise is unsettled. In a pre-registered three-month randomized controlled trial, we gave 133 practicing patent lawyers at eleven U.S. intellectual property law firms access to a custom AI drafting assistant and measured both their performance while using AI and their professional judgment […]",
-      "publishedAt": "2026-09-14T04:14:34.000Z",
-      "articleId": "f7ab9aa0d0d7156e"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7590348/2026/09/13/cowboys-giants-nfl-2026-score-result-takeaways/",
       "title": "Giants hold off Cowboys in John Harbaugh's New York debut. Is the rivalry renewed?",
       "url": "https://www.nytimes.com/athletic/7590348/2026/09/13/cowboys-giants-nfl-2026-score-result-takeaways/",
@@ -483,17 +494,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-09-13T17:01:52.000Z",
       "articleId": "ac88c056a87316dd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Scott Sumner as regional thinker. 2. The economists who work on “Productivity and Innovation” are most likely to use AI for their writing. 3. Michael Levin defends neo-neo-Platonism? 4. Look for and try to limit agent collusion. 5. Do orangutans like Indian classical music? 6. “Our results demonstrate that LLM-evolved constitutions significantly outperform both […]",
-      "publishedAt": "2026-09-13T16:36:11.000Z",
-      "articleId": "b7b0468d3c105dc2"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-process-is-the-point",
@@ -1956,17 +1956,6 @@
       "summary": "Featuring Outkast, Missy Elliot, Mobb Deep, and others",
       "publishedAt": "2026-08-18T13:31:45.000Z",
       "articleId": "3c3fc5195620cfa5"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
-      "title": "Where to eat in San Francisco",
-      "url": "https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Part 1 of my personal recommendations.",
-      "publishedAt": "2026-08-18T05:21:55.000Z",
-      "articleId": "f0b3e2ab58e32fd2"
     }
   ],
   "weather": {
@@ -1983,7 +1972,7 @@
     "dailyDigitSummary": "They can't all be perfect 10s like yesterday, but today is perfectly nice even if several degrees warmer.",
     "articleId": "8a64e97b84f75e78"
   },
-  "weatherGeneratedAt": "2026-09-17T00:30:01.105Z",
+  "weatherGeneratedAt": "2026-09-17T06:06:09.044Z",
   "weatherError": null,
   "sources": [
     {
