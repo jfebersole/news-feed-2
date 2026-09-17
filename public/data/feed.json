@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-17T11:39:19.505Z",
-  "fetchedAt": "2026-09-17T11:39:19.501Z",
+  "generatedAt": "2026-09-17T16:54:22.364Z",
+  "fetchedAt": "2026-09-17T16:54:22.360Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 176,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570",
+      "title": "Thursday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. An American at Brazil’s largest rodeo. 2. Ingeborg Bachmann centenary. 3. “Huawei Technologies Co. predicted on Wednesday that global computing demand will surge 100,000-fold by 2035, with AI agents generating over 90% of network traffic.” And a report from someone who has done AI diplomacy with China (NYT). 4. “US Gov Federal Register use […]",
+      "publishedAt": "2026-09-17T15:54:05.000Z",
+      "articleId": "55683f6197d3cf44"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-nimby-problem",
+      "title": "Why housing reforms keep failing",
+      "url": "https://www.worksinprogress.news/p/the-nimby-problem",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Not all NIMBYs are alike. Dividing the most unreasonable ones from the rest might be the key to getting homes built.",
+      "publishedAt": "2026-09-17T15:06:01.000Z",
+      "articleId": "f4534f3cd98f8d07"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/a-supermajority-wants-to-slow-ai",
+      "title": "A supermajority wants to slow AI down",
+      "url": "https://www.natesilver.net/p/a-supermajority-wants-to-slow-ai",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Still Counting EP2 is out.",
+      "publishedAt": "2026-09-17T14:55:14.000Z",
+      "articleId": "9442f4d40044b894"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "title": "How SpaceX Streamlined the Raptor Engine",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "If you’re reading this, there’s a very good chance you’ve seen this famous image of three iterations of SpaceX’s Raptor rocket engine.",
+      "publishedAt": "2026-09-17T12:02:08.000Z",
+      "articleId": "cf65b761e6f3bf60"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety",
       "title": "Pandemic Preparation is AI Safety",
@@ -429,17 +473,6 @@
       "summary": "They are very different policy tools",
       "publishedAt": "2026-09-14T17:29:29.000Z",
       "articleId": "cbd6b6c61249acbf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Will driverless cars increase or reduce urban density? 2. One decomposition approach to why interest rates have been going up. 3. New Guinness record holders. 4. Is there any chance of finding Rembrandt DNA? 5. “Abundance Corps is hosting Making Progress, a private gathering for students interested in how science, technology, and institutions can […]",
-      "publishedAt": "2026-09-14T16:53:00.000Z",
-      "articleId": "c9e5c1354ff12bde"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
@@ -1947,34 +1980,23 @@
       "summary": "...",
       "publishedAt": "2026-08-19T05:24:22.000Z",
       "articleId": "3755894f311e5ed3"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/1990s-hip-hop-an-album-a-day",
-      "title": "1990s Hip-Hop: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/1990s-hip-hop-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Outkast, Missy Elliot, Mobb Deep, and others",
-      "publishedAt": "2026-08-18T13:31:45.000Z",
-      "articleId": "3c3fc5195620cfa5"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
-    "title": "DC-area forecast: Summer surges back today, then cooler Friday and Saturday",
+    "title": "DC-area forecast: Summer surges back today with a few showers and storms",
     "url": "https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Temperatures move into the 80s by mid- to late morning and should flirt with 90 in and around DC during the afternoon. A few showers or a storm are possible late day.",
+    "summary": "Happening now: Partly sunny and more humid as highs head for the mid-80s to near 90 this afternoon. Scattered storms pass through northern areas through 2 or 3 p.m. Elsewhere a few hit-or-miss showers and storms are possible this afternoon into evening.",
     "publishedAt": "2026-09-17T09:00:38.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "We're about a week past the average final day of 90-plus but could get there today, and humidity is high. It's not the September weather we dream of!",
     "articleId": "3f6915246cc696fc"
   },
-  "weatherGeneratedAt": "2026-09-17T11:39:19.505Z",
+  "weatherGeneratedAt": "2026-09-17T16:54:22.364Z",
   "weatherError": null,
   "sources": [
     {
