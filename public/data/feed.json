@@ -1,10 +1,67 @@
 {
-  "generatedAt": "2026-09-17T06:06:09.044Z",
-  "fetchedAt": "2026-09-17T06:06:09.040Z",
+  "generatedAt": "2026-09-17T11:39:19.505Z",
+  "fetchedAt": "2026-09-17T11:39:19.501Z",
   "sourceCount": 24,
   "itemCount": 174,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety",
+      "title": "Pandemic Preparation is AI Safety",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I am not a big fan of the “now more than ever” post, which interprets recent events to support—surprise!—something the writer already believed. And yet…is it not obvious that AI risk increases the value of pandemic preparation? If COVID began with a laboratory leak—plausible, though unproven—then a research accident has already killed millions. Whatever its […]",
+      "publishedAt": "2026-09-17T11:17:01.000Z",
+      "articleId": "24fa36b9bc6a4398"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-to-stop-hitler",
+      "title": "How to stop Hitler",
+      "url": "https://www.slowboring.com/p/how-to-stop-hitler",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Read Hayek, but don’t listen to him about the specifics of the rise of fascism.",
+      "publishedAt": "2026-09-17T10:03:35.000Z",
+      "articleId": "4dd5358fafadf890"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "publishedAt": "2026-09-17T10:00:00.000Z",
+      "articleId": "0e954741e52cf193"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/hideo-nomos-no-no-was-the-toughest",
+      "title": "Hideo Nomo’s No-No Was the Toughest Ever",
+      "url": "https://neilpaine.substack.com/p/hideo-nomos-no-no-was-the-toughest",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "We ran the degree-of-difficulty numbers on every no-hitter ever — and Nomo blanking the hard-hitting Rockies at Coors Field, 30 years ago today, was No. 1.",
+      "publishedAt": "2026-09-17T09:00:29.000Z",
+      "articleId": "cd5fe0db7dca5e1d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-annie-lowrey",
+      "title": "My excellent Conversation with Annie Lowrey",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Annie Lowrey’s new book, The Time Tax, argues that the most regressive levy in American life is the hours each of us must spend on hold, in waiting rooms, and filling out forms a competent state would have pre-filled — roughly fifty a year […]",
+      "publishedAt": "2026-09-17T08:20:16.000Z",
+      "articleId": "98f12f1f22361c1e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior",
       "title": "The correct model of AI CEO behavior",
@@ -396,17 +453,6 @@
       "articleId": "0c19917afeab709c"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie",
-      "title": "AI, Redistribution, and the Size of the Pie",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Anthropic’s economic team, including Anton Korinek and Chad Jones, have a valuable new paper, Economic Scenarios for Transformative AI. They make their assumptions explicit and provide a scenario explorer that lets you change them. How capable will AI become? How quickly will firms adopt it? Will it augment workers or automate their tasks? You can […]",
-      "publishedAt": "2026-09-14T11:18:04.000Z",
-      "articleId": "73fb52be47fd5538"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from",
       "title": "A simple plan to save the world from rogue A.I.",
       "url": "https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from",
@@ -438,28 +484,6 @@
       "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
       "publishedAt": "2026-09-14T10:00:00.000Z",
       "articleId": "6c6638a31a6db4e6"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/mlbs-garbage-time-is-getting-out",
-      "title": "MLB’s Garbage Time is Getting Out of Control",
-      "url": "https://neilpaine.substack.com/p/mlbs-garbage-time-is-getting-out",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Nearly 1 percent of all runs are allowed by non-pitchers now.",
-      "publishedAt": "2026-09-14T09:02:55.000Z",
-      "articleId": "d900687d9cf0c920"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems",
-      "title": "Is it the screens? Or education systems?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Dark Ages implies television and phones are the main cause of cognitive decline. This fails to explain the patterns in PISA scores. Why did England and Scotland fall so precipitously from 2000 to 2005 whilst America improved? Why did England and Estonia hold steady after 2015 whilst most other OECD countries declined? How have Singapore, […]",
-      "publishedAt": "2026-09-14T07:01:27.000Z",
-      "articleId": "405f460c4f9b8653"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7590348/2026/09/13/cowboys-giants-nfl-2026-score-result-takeaways/",
@@ -993,17 +1017,6 @@
       "articleId": "575dfd8c84df1e73"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-return-of-institutional-purpose",
-      "title": "The return of institutional purpose",
-      "url": "https://www.slowboring.com/p/the-return-of-institutional-purpose",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Generative A.I. gives institutions the chance to re-evaluate their values.",
-      "publishedAt": "2026-09-05T13:02:15.000Z",
-      "articleId": "601e27c7d80437a9"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09052026",
       "title": "Reading List - 09/05/2026",
       "url": "https://www.construction-physics.com/p/reading-list-09052026",
@@ -1239,17 +1252,6 @@
       "summary": "What if everything we know about recycling is wrong?",
       "publishedAt": "2026-09-02T12:07:13.000Z",
       "articleId": "7b1097ca360e8c34"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
-      "title": "Fable 5.1, Enterprise Frontier Safeguards",
-      "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
-      "publishedAt": "2026-09-02T10:00:00.000Z",
-      "articleId": "e23816de1025b3fb"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/absurd-adventure-and-amygdalectomy",
@@ -1959,20 +1961,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-still-nice-today-despite-the-start-of-a-warming-trend/",
-    "title": "DC-area forecast: Still decent this evening despite the start of a warming trend",
-    "url": "https://www.capitalweather.com/dc-area-forecast-still-nice-today-despite-the-start-of-a-warming-trend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
+    "title": "DC-area forecast: Summer surges back today, then cooler Friday and Saturday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: A bit humid heading into the night as temperatures fall through the 70s to lows mainly in the 60s.",
-    "publishedAt": "2026-09-16T09:00:13.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "They can't all be perfect 10s like yesterday, but today is perfectly nice even if several degrees warmer.",
-    "articleId": "8a64e97b84f75e78"
+    "summary": "Happening now: Temperatures move into the 80s by mid- to late morning and should flirt with 90 in and around DC during the afternoon. A few showers or a storm are possible late day.",
+    "publishedAt": "2026-09-17T09:00:38.000Z",
+    "dailyDigit": 3,
+    "dailyDigitLabel": "3/10",
+    "dailyDigitSummary": "We're about a week past the average final day of 90-plus but could get there today, and humidity is high. It's not the September weather we dream of!",
+    "articleId": "3f6915246cc696fc"
   },
-  "weatherGeneratedAt": "2026-09-17T06:06:09.044Z",
+  "weatherGeneratedAt": "2026-09-17T11:39:19.505Z",
   "weatherError": null,
   "sources": [
     {
