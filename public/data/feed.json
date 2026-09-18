@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-18T04:36:03.588Z",
-  "fetchedAt": "2026-09-18T04:36:03.584Z",
+  "generatedAt": "2026-09-18T09:40:48.496Z",
+  "fetchedAt": "2026-09-18T09:40:48.492Z",
   "sourceCount": 24,
   "itemCount": 178,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
+      "title": "Roundup #88: Is it time to panic yet?",
+      "url": "https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "AI risk; AI and growth; AI and Saas; Rich people; Christians vs. Nazis; Japanese culture; State capacity; City size",
+      "publishedAt": "2026-09-18T09:04:11.000Z",
+      "articleId": "c5f23cf39c1bf0cc"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is a new Nature paper by Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, and James Zou. Here goes: Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research […]",
+      "publishedAt": "2026-09-18T07:07:11.000Z",
+      "articleId": "7d5f0b0f3ec01ed8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting",
+      "title": "Why Papua New Guinea is so interesting",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "And this leads to the most interesting part of this story: how the highlanders were so isolated for so long. I want to acknowledge that the highlanders were not completely, hermetically sealed off from the outside world – it’s just that knowledge of outside world never actually made it to them or vice versa. Over […]",
+      "publishedAt": "2026-09-18T04:50:51.000Z",
+      "articleId": "84ddcbacac3e227e"
+    },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/a-trip-to-the-er-and-a-public-service",
       "title": "A Trip to the ER -- and a Public Service Message",
@@ -450,28 +483,6 @@
       "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
       "publishedAt": "2026-09-15T10:00:00.000Z",
       "articleId": "5690505b5fae314e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
-      "title": "Those new service sector jobs",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Horwitz is in the business of playing a version of mom for local college students. Concierge companies offering student support have existed for decades. But in recent years, a new crop of upstarts — such as Horwitz’s company, MindyKnows; the Bama Mama in Alabama; the GA Mom in Georgia; and Campus Mom in Texas — have […]",
-      "publishedAt": "2026-09-15T07:33:49.000Z",
-      "articleId": "ed849e5e161050ef"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality",
-      "title": "Did the ACA reduce mortality?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Many of us brought up related points at the time, but basically we were booed off the reservation: While recent research has provided evidence that the Medicaid expansions of the Affordable Care Act (ACA) reduced mortality, there is no evidence on the effect of the Affordable Care Act (ACA) net of the Medicaid expansions on […]",
-      "publishedAt": "2026-09-15T04:30:10.000Z",
-      "articleId": "783f1ba188e5b3b6"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/king-ludd",
@@ -1991,34 +2002,23 @@
       "summary": "If it had a clear effect on children we would know by now.",
       "publishedAt": "2026-08-19T13:31:49.000Z",
       "articleId": "2cde87f0406cb729"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
-      "title": "Why I'm Staying Out Of The Substack Religion Debate",
-      "url": "https://www.astralcodexten.com/p/why-im-staying-out-of-the-substack",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-19T05:24:22.000Z",
-      "articleId": "3755894f311e5ed3"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
-    "title": "DC-area forecast: Muggy this evening, mostly dry Friday and Saturday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warm-and-breezy-today-cooler-wetter-pattern-on-the-horizon/",
+    "title": "DC-area forecast: Warm and a bit breezy today; cooler, wetter pattern on the horizon",
+    "url": "https://www.capitalweather.com/dc-area-forecast-warm-and-breezy-today-cooler-wetter-pattern-on-the-horizon/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Partly to mostly cloudy and humid with evening temperatures in the 70s and an isolated shower possible.",
-    "publishedAt": "2026-09-17T09:00:38.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "We're about a week past the average final day of 90-plus but could get there today, and humidity is high. It's not the September weather we dream of!",
-    "articleId": "3f6915246cc696fc"
+    "summary": "HAPPENING NOW: Sunshine mixes with clouds. Muggy morning 70s head to afternoon highs mainly in the low to mid-80s. A breeze from the north is noticeable at times.",
+    "publishedAt": "2026-09-18T09:00:15.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
+    "articleId": "a9fc21d7ec473963"
   },
-  "weatherGeneratedAt": "2026-09-18T04:36:03.588Z",
+  "weatherGeneratedAt": "2026-09-18T09:40:48.496Z",
   "weatherError": null,
   "sources": [
     {
