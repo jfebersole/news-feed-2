@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-17T23:31:48.146Z",
-  "fetchedAt": "2026-09-17T23:31:48.143Z",
+  "generatedAt": "2026-09-18T04:36:03.588Z",
+  "fetchedAt": "2026-09-18T04:36:03.584Z",
   "sourceCount": 24,
-  "itemCount": 177,
+  "itemCount": 178,
   "totalItemCount": 807,
   "items": [
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/a-trip-to-the-er-and-a-public-service",
+      "title": "A Trip to the ER -- and a Public Service Message",
+      "url": "https://walkingtheworld.substack.com/p/a-trip-to-the-er-and-a-public-service",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Pulmonary Embolism and long haul travel",
+      "publishedAt": "2026-09-17T23:16:26.000Z",
+      "articleId": "4d5e4bd7762b47b5"
+    },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/how-a-single-tweet-transformed-the",
       "title": "How a single tweet transformed the AI safety debate",
@@ -1995,19 +2006,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
-    "title": "DC-area forecast: A shower or storm through evening; drier Friday and Saturday",
+    "title": "DC-area forecast: Muggy this evening, mostly dry Friday and Saturday",
     "url": "https://www.capitalweather.com/dc-area-forecast-summer-surges-back-today-then-cooler-friday-and-saturday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "Happening now: Partly to mostly cloudy and humid with evening temperatures in the 70s to near 80 and a couple of hit-or-miss showers and storms possible.",
+    "summary": "Happening now: Partly to mostly cloudy and humid with evening temperatures in the 70s and an isolated shower possible.",
     "publishedAt": "2026-09-17T09:00:38.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "We're about a week past the average final day of 90-plus but could get there today, and humidity is high. It's not the September weather we dream of!",
     "articleId": "3f6915246cc696fc"
   },
-  "weatherGeneratedAt": "2026-09-17T23:31:48.146Z",
+  "weatherGeneratedAt": "2026-09-18T04:36:03.588Z",
   "weatherError": null,
   "sources": [
     {
