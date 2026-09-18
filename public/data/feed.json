@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-18T09:40:48.496Z",
-  "fetchedAt": "2026-09-18T09:40:48.492Z",
+  "generatedAt": "2026-09-18T14:27:43.051Z",
+  "fetchedAt": "2026-09-18T14:27:43.047Z",
   "sourceCount": 24,
   "itemCount": 178,
-  "totalItemCount": 807,
+  "totalItemCount": 808,
   "items": [
+    {
+      "id": "Maximum Progress:https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
+      "title": "The Best Philosophy Article of 2025 is Bad Economics",
+      "url": "https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
+      "source": "Maximum Progress",
+      "sourceUrl": "https://www.maximum-progress.com/",
+      "access": "open",
+      "summary": "Evan Behrle on Desert and Economic Interdependence",
+      "publishedAt": "2026-09-18T12:04:18.000Z",
+      "articleId": "4b68d9696ec4583d"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trying-to-convince-people-youre-right",
+      "title": "Trying to convince people you’re right is underrated",
+      "url": "https://www.slowboring.com/p/trying-to-convince-people-youre-right",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus prepper takes and the end of history",
+      "publishedAt": "2026-09-18T10:01:04.000Z",
+      "articleId": "58675b6c0cc36e39"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
       "title": "Roundup #88: Is it time to panic yet?",
@@ -15,6 +38,17 @@
       "summary": "AI risk; AI and growth; AI and Saas; Rich people; Christians vs. Nazis; Japanese culture; State capacity; City size",
       "publishedAt": "2026-09-18T09:04:11.000Z",
       "articleId": "c5f23cf39c1bf0cc"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-rise-of-the-championship-gap",
+      "title": "The Rise of the Championship “Gap Year”",
+      "url": "https://neilpaine.substack.com/p/the-rise-of-the-championship-gap",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The Kansas City Chiefs and Florida Panthers are betting that one lost season doesn’t have to close a title window — especially when the stars and structure of the dynasty remain intact.",
+      "publishedAt": "2026-09-18T09:02:40.000Z",
+      "articleId": "525c4c9a9af6ec6d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
@@ -1015,18 +1049,6 @@
       "articleId": "8e5ec382bed1cc11"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/theres-an-awful-lot-we-dont-know",
-      "title": "There’s an awful lot we don’t know about data centers",
-      "url": "https://www.slowboring.com/p/theres-an-awful-lot-we-dont-know",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "An un-splainer about the issue of the moment",
-      "publishedAt": "2026-09-08T10:03:27.000Z",
-      "articleId": "2bb0ebc9d1519085"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/write-things-down/",
       "title": "Write Things Down",
       "url": "https://stratechery.com/2026/write-things-down/",
@@ -1980,28 +2002,6 @@
       "summary": "Watching the force Reese plays with can make it easy to forget he is only 20 years old. His power has seamlessly transitioned to the NFL.",
       "publishedAt": "2026-08-19T14:49:27.000Z",
       "articleId": "33b1ec05a1ec39d6"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7523773/2026/08/19/new-york-giants-jaguars-trade-daniel-faalele/",
-      "title": "Giants trade guard Daniel Faalele to Jaguars for 2027 sixth-rounder: Source",
-      "url": "https://www.nytimes.com/athletic/7523773/2026/08/19/new-york-giants-jaguars-trade-daniel-faalele/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "There was a time in the spring when it looked like Faalele might start at right guard. Since then, he's fallen down New York's depth chart.",
-      "publishedAt": "2026-08-19T14:11:27.000Z",
-      "articleId": "c34cf4fa21fd05d4"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/daycare-barely-matters",
-      "title": "Does daycare damage children's brains?",
-      "url": "https://www.worksinprogress.news/p/daycare-barely-matters",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "If it had a clear effect on children we would know by now.",
-      "publishedAt": "2026-08-19T13:31:49.000Z",
-      "articleId": "2cde87f0406cb729"
     }
   ],
   "weather": {
@@ -2018,7 +2018,7 @@
     "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
     "articleId": "a9fc21d7ec473963"
   },
-  "weatherGeneratedAt": "2026-09-18T09:40:48.496Z",
+  "weatherGeneratedAt": "2026-09-18T14:27:43.051Z",
   "weatherError": null,
   "sources": [
     {
@@ -2105,7 +2105,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
