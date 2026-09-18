@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-18T14:27:43.051Z",
-  "fetchedAt": "2026-09-18T14:27:43.047Z",
+  "generatedAt": "2026-09-18T18:22:59.898Z",
+  "fetchedAt": "2026-09-18T18:22:59.895Z",
   "sourceCount": 24,
-  "itemCount": 178,
-  "totalItemCount": 808,
+  "itemCount": 177,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming",
+      "title": "Scott Beaulier interviews me, in part about Wyoming",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "",
+      "publishedAt": "2026-09-18T18:10:55.000Z",
+      "articleId": "ffe97944bfb08538"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-overhang",
+      "title": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Using your deep knowledge, wide knowledge, taste, and agency",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "articleId": "44ad14e38ca0d0c8"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/doomforce/",
+      "title": "2026.38: Doomforce",
+      "url": "https://stratechery.com/2026/doomforce/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag.",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "articleId": "dae156fd162792ed"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Gender differences in financial information processing. 2. Urban harassment of women in India. 3. The making of Roger Scruton? 4. Astra vs. Enigma. 5. Coetzee on genocide. 6. Dan Ariely update. And running for office in Israel. 7. A more sober look at the HuggingFace incident (WSJ). 8. Cass Sunstein on AI regulation and […]",
+      "publishedAt": "2026-09-18T15:39:23.000Z",
+      "articleId": "16fffe0c43331765"
+    },
     {
       "id": "Maximum Progress:https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
       "title": "The Best Philosophy Article of 2025 is Bad Economics",
@@ -430,17 +474,6 @@
       "articleId": "b86423442616b73b"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Easy to bioengineer a very dangerous virus? 2. The astrophysicists are getting antsy too. Princeton is also getting nervous. If nothing else, these are huge PR own goals. The guy is a Mill scholars, can you imagine J.S. Mill tweeting that way? 3. New David Brooks podcast. 4. One Chinese view of AI risk. […]",
-      "publishedAt": "2026-09-15T16:13:21.000Z",
-      "articleId": "de2385f4c399e060"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
       "title": "Who’s the Snowflake Now?",
       "url": "https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
@@ -461,17 +494,6 @@
       "summary": "Featuring Lee DeWyze, Kris Allen, Taylor Hicks, and others",
       "publishedAt": "2026-09-15T13:32:40.000Z",
       "articleId": "9641e5539656f99a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved",
-      "title": "The striking thing is how late the market moved",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here’s the S&P 500 (daily close) with the key COVID and policy events marked; the numbered key is below the chart. Event key: Dec 31 – China reports the Wuhan pneumonia cluster to the WHO Jan 21 – First confirmed US case (Washington state) Jan 23 – Wuhan locked down Jan 30 – WHO declares […]",
-      "publishedAt": "2026-09-15T11:18:36.000Z",
-      "articleId": "286413424711efd6"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-alberta-doesnt-have-rats",
@@ -1216,17 +1238,6 @@
       "summary": "Question topics include the team's offensive scheme and possible Week 1 inactive selections.",
       "publishedAt": "2026-09-04T10:00:30.000Z",
       "articleId": "ea65ab2f843c641b"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
-      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
-      "publishedAt": "2026-09-04T10:00:00.000Z",
-      "articleId": "17f1523692159674"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
@@ -1980,28 +1991,6 @@
       "summary": "Don’t be so quick to dismiss the threat of an aging, declining population.",
       "publishedAt": "2026-08-19T23:27:31.000Z",
       "articleId": "91812788e8a35a11"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qdgslutvo9yt7szfulal.html",
-      "title": "Konbini Taste Test | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qdgslutvo9yt7szfulal.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "Konbini Taste Test | Kenji Eats Japan Konbini are the cornerstones (quite literally) of quick, convenient food and drink throughout Japan. Kenji put the big three—7-Eleven, FamilyMart, and... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Konbini Taste Test | Kenji Eats Japan J. Kenji López-Alt Aug 19, 2026 View in app View in app Konbini are the cornerstones (quite literally) of quick, convenient food and drink throughout Japan. Kenji put the big three—7-Eleven, FamilyMart, and Lawson—to the test! Hi Frienjis, It’s Erin, Content & Community Manager here on Patreon with another episode of Kenji Eats Japan. This time, it’s a battle for the ages. It’s a Konbini Taste Test! But First... What’s A Konbini? Well, what does it sound like? Konbini is actually a shortened phrase for “konbiniensu sutoru” (meaning convenience store) in Japanese. It sounds similar to English because it’s one of many loanwords originating from English that the Japanese language utilizes, just like kurejitto kādo (credit card), eakon (air conditioning), or hankachi (handkerchief). Lawson dressed up in Hiroshima Carp colors outside their baseball stadium. Photo by Lena Davidson, Kenji's head of operations. Convenience Culture Japan loves a convenient food choice. Going into our team’s trip earlier this year, I knew the country had a big vending machine and konbini culture. The moment I stepped foot in Kyoto I realized, oh... they are quite...",
-      "publishedAt": "2026-08-19T16:09:16.417Z",
-      "articleId": "c62dca725b913d8f"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7522863/2026/08/19/new-york-giants-arvell-reese-practice-diary/",
-      "title": "The power and poise of Arvell Reese: Spend a Giants practice with NY's 'violent' rookie LB",
-      "url": "https://www.nytimes.com/athletic/7522863/2026/08/19/new-york-giants-arvell-reese-practice-diary/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Watching the force Reese plays with can make it easy to forget he is only 20 years old. His power has seamlessly transitioned to the NFL.",
-      "publishedAt": "2026-08-19T14:49:27.000Z",
-      "articleId": "33b1ec05a1ec39d6"
     }
   ],
   "weather": {
@@ -2011,14 +2000,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Sunshine mixes with clouds. Muggy morning 70s head to afternoon highs mainly in the low to mid-80s. A breeze from the north is noticeable at times.",
+    "summary": "HAPPENING NOW: Sunshine mixes with clouds. Humidity hangs around with highs in the low to mid-80s and an isolated afternoon shower. A breeze from the north is noticeable at times.",
     "publishedAt": "2026-09-18T09:00:15.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
     "articleId": "a9fc21d7ec473963"
   },
-  "weatherGeneratedAt": "2026-09-18T14:27:43.051Z",
+  "weatherGeneratedAt": "2026-09-18T18:22:59.898Z",
   "weatherError": null,
   "sources": [
     {
@@ -2193,7 +2182,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 7,
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
