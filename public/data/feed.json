@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-18T18:22:59.898Z",
-  "fetchedAt": "2026-09-18T18:22:59.895Z",
+  "generatedAt": "2026-09-18T21:37:35.554Z",
+  "fetchedAt": "2026-09-18T21:37:35.550Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 807,
+  "itemCount": 178,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
+      "title": "Your Book Review: This Is Going To Hurt",
+      "url": "https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #9 in the Book Review Contest",
+      "publishedAt": "2026-09-18T20:53:58.000Z",
+      "articleId": "939eab5cd7c707d9"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/adam-smiths-greatest-insight",
+      "title": "Adam Smith’s greatest insight?",
+      "url": "https://scottsumner.substack.com/p/adam-smiths-greatest-insight",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "The Wealth of Nations at 250",
+      "publishedAt": "2026-09-18T18:55:01.000Z",
+      "articleId": "414a8083ea2efc71"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming",
       "title": "Scott Beaulier interviews me, in part about Wyoming",
@@ -272,18 +294,6 @@
       "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
       "publishedAt": "2026-09-17T10:00:00.000Z",
       "articleId": "0e954741e52cf193"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/hideo-nomos-no-no-was-the-toughest",
-      "title": "Hideo Nomo’s No-No Was the Toughest Ever",
-      "url": "https://neilpaine.substack.com/p/hideo-nomos-no-no-was-the-toughest",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "We ran the degree-of-difficulty numbers on every no-hitter ever — and Nomo blanking the hard-hitting Rockies at Coors Field, 30 years ago today, was No. 1.",
-      "publishedAt": "2026-09-17T09:00:29.000Z",
-      "articleId": "cd5fe0db7dca5e1d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-annie-lowrey",
@@ -1995,19 +2005,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warm-and-breezy-today-cooler-wetter-pattern-on-the-horizon/",
-    "title": "DC-area forecast: Warm and a bit breezy today; cooler, wetter pattern on the horizon",
+    "title": "DC-area forecast: Warm evening with waning humidity; cooler, wetter pattern on the way",
     "url": "https://www.capitalweather.com/dc-area-forecast-warm-and-breezy-today-cooler-wetter-pattern-on-the-horizon/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Sunshine mixes with clouds. Humidity hangs around with highs in the low to mid-80s and an isolated afternoon shower. A breeze from the north is noticeable at times.",
+    "summary": "HAPPENING NOW: Isolated sprinkle until 6 p.m. or so. Overall, some clearing through evening as temperatures fall through the 70s and humidity begins to dip a bit.",
     "publishedAt": "2026-09-18T09:00:15.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
     "articleId": "a9fc21d7ec473963"
   },
-  "weatherGeneratedAt": "2026-09-18T18:22:59.898Z",
+  "weatherGeneratedAt": "2026-09-18T21:37:35.554Z",
   "weatherError": null,
   "sources": [
     {
@@ -2094,7 +2104,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
