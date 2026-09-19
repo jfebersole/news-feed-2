@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-19T00:15:30.297Z",
-  "fetchedAt": "2026-09-19T00:15:30.295Z",
+  "generatedAt": "2026-09-19T05:48:05.555Z",
+  "fetchedAt": "2026-09-19T05:48:05.550Z",
   "sourceCount": 24,
-  "itemCount": 177,
+  "itemCount": 176,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort",
+      "title": "Emergent Ventures India, 19th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Asit Singh, founder of Syngi, received his grant to develop sub-angstrom optical MEMS sensors for next-generation semiconductor lithography. Rishabh received his grant to build a platform for real-time updates from Delhi courts, making judicial activity easier to track and understand. Hari and Naveen received their grant for Archgen AI, an agentic ecosystem connecting legacy EDA […]",
+      "publishedAt": "2026-09-19T04:22:09.000Z",
+      "articleId": "22c63942da293674"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
       "title": "Your Book Review: This Is Going To Hurt",
@@ -471,17 +482,6 @@
       "summary": "SIG puts Let’s say you’re a senior executive at a public company. You know that, next week, your company is going to announce that it has agreed to be acquired for cash at a large premium. So you go out and buy a lot of short-dated out-of-the-money call options on your company’s stock, options that will pay out a ton of money when the merger is announced. That’s bad! For one thing, it is obviously illegal insider trading: You are misusing your company’s material nonpublic information to trade for your own profit. For another thing, you will get caught: When a merger is announced, the first place the US Securities and Exchange Commission will look is at suspicious activity in short-dated out-of-the-money call options on the target. They will notice your trades: There’s probably not that much trading in those options, the trades are publicly reported , and your big sudden trade will stick out like a sore thumb. This is not legal advice, but I do spend a lot of time around here hammering home the point that you should not trade short-dated out-of-the-money call options on merger targets using inside information. People keep doing it, though. Let’s change the hypothetical somewhat. Let’s say you’re a casual day trader. You notice that someone just bought a ton of short-dated out-of-the-money call options on a company without any major news. You think: “Hmm. Maybe this another casual day trader like me making a big gamble. But maybe there’s something going on. Maybe this person knows something I don’t. Maybe she has some good reason for betting a ton of money on a big sudden spike in this stock’s price. Maybe — and I’m just guessing here — but maybe she is actually a senior executive at the company, knows that a merger is coming, and is insider trading in the dumbest but nonetheless most popular way. Bad luck for her if that’s true! But all of this option activity makes me think that something is going on, so I’m going to buy some short-dated out-of-the-money call options too and see what happens.” And then the merger is announced and you make a ton of money. The SEC looks at the options trading activity. It sees the other person’s big trade, calls her up, and finds out that in fact she is a senior executive at the target company. Off she goes to jail. The SEC also sees your smaller, later trade. It calls you up and says “hey were you trading on inside information too?” You say: “Not at all! I was just looking at public trading information, I saw a big options trade print, I thought that was bullish, so I copied it.” The SEC does some more digging and finds no suspicious phone calls or texts or emails or old college ties to executives at the company. It is satisfied that you traded only on public information. It moves on, and you keep your money. This is...",
       "publishedAt": "2026-09-15T19:17:13.469Z",
       "articleId": "e8b6d69406f7d316"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices",
-      "title": "Callum Williams on cybersecurity prices",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Share prices of cyber firms have jumped around a lot in recent weeks, leading one side or the other to claim victory. But the crucial point is that, relative to the historical norm, the market is not really pricing ANYTHING big to change. There was a much bigger move in cyber stocks in both 2020-22 […]",
-      "publishedAt": "2026-09-15T18:40:18.000Z",
-      "articleId": "b86423442616b73b"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
@@ -1978,18 +1978,6 @@
       "summary": "According to the vice president, we are wasting our freedom.",
       "publishedAt": "2026-08-20T16:13:37.000Z",
       "articleId": "b5a31da5357e6a8d"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
-      "title": "Are Democrats on a summer sugar high?",
-      "url": "https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "They’re polling surprisingly strongly in some Senate races. But should you bet on those numbers falling back to earth? Plus, some quick thoughts on Alaska and Florida.",
-      "publishedAt": "2026-08-20T01:26:44.000Z",
-      "articleId": "1b11bd2d3d8212f3"
     }
   ],
   "weather": {
@@ -2006,7 +1994,7 @@
     "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
     "articleId": "a9fc21d7ec473963"
   },
-  "weatherGeneratedAt": "2026-09-19T00:15:30.297Z",
+  "weatherGeneratedAt": "2026-09-19T05:48:05.555Z",
   "weatherError": null,
   "sources": [
     {
