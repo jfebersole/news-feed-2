@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-19T14:21:22.060Z",
-  "fetchedAt": "2026-09-19T14:21:22.054Z",
+  "generatedAt": "2026-09-19T17:58:27.632Z",
+  "fetchedAt": "2026-09-19T17:58:27.624Z",
   "sourceCount": 24,
-  "itemCount": 178,
-  "totalItemCount": 805,
+  "itemCount": 175,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Critique of Villaroel on UAPs. 2. Bergen County (Korean) fact of the day. 3. AIs cracking superforecasting. 4. Gregor Benko, RIP (NYT). 5. Joshua Saxe on the increase in cyber risk. 6. Lichtenstein political infighting heats up (FT). 7. Risk, the biggie. And on the Suwalki gap.",
+      "publishedAt": "2026-09-19T17:04:04.000Z",
+      "articleId": "6e4a96c273a3bf2d"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
       "title": "What stake does Airbnb have in the supply game?",
@@ -451,17 +462,6 @@
       "summary": "Michael Kremer picked as World Bank chief economist (Bloomberg). Here are many many previous MR posts on Kremer, of course Alex also worked with him on Operation Warp Speed.",
       "publishedAt": "2026-09-16T13:12:00.000Z",
       "articleId": "f86549bdf24a8196"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&utm_medium=rss&utm_campaign=what-regulatory-capture-actually-looks-like",
-      "title": "What Regulatory Capture Actually Looks Like",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "It’s amazing how a theory can take over a brain. Consider the idea that people believe what serves their interests. As heuristics go, it’s a good one. I use it all the time. Yet when Dario Amodei says AI is dangerous, perhaps even an extinction risk, some people conclude he must be running a marketing […]",
-      "publishedAt": "2026-09-16T11:16:50.000Z",
-      "articleId": "41753002daa625e7"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
@@ -1967,41 +1967,6 @@
       "summary": "...",
       "publishedAt": "2026-08-20T19:55:39.000Z",
       "articleId": "35bb015b2368d29e"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/on-the-bigness-of-china",
-      "title": "On the bigness of China",
-      "url": "https://scottsumner.substack.com/p/on-the-bigness-of-china",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "How international borders distort our thinking",
-      "publishedAt": "2026-08-20T17:54:41.000Z",
-      "articleId": "0e2509ff33e3e297"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-most-influential-critic",
-      "title": "Fantano vs. Christgau",
-      "url": "https://www.cantgetmuchhigher.com/p/the-most-influential-critic",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The Great Music Critic Debate",
-      "publishedAt": "2026-08-20T17:30:58.000Z",
-      "articleId": "f46d5da94c004dbf"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
-      "title": "JD Vance Thinks You Are Not Christian Enough",
-      "url": "https://www.nytimes.com/2026/08/20/opinion/vance-christian-conservative-republican.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "According to the vice president, we are wasting our freedom.",
-      "publishedAt": "2026-08-20T16:13:37.000Z",
-      "articleId": "b5a31da5357e6a8d"
     }
   ],
   "weather": {
@@ -2011,14 +1976,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny to mostly cloudy skies today, with seasonable afternoon highs in the mid-70s to near 80. Lower humidity adds to the pleasant feel.",
+    "summary": "HAPPENING NOW: Partly sunny with seasonable afternoon highs in the upper 70s to near 80. Lower humidity adds to the pleasant feel.",
     "publishedAt": "2026-09-19T09:00:39.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "It might be cloudy at times, but at least humidity has backed off for the day!",
+    "dailyDigitSummary": "Decent sunshine, some cloudier times, and humidity has backed off nicely for the day!",
     "articleId": "c0741b3732e1851c"
   },
-  "weatherGeneratedAt": "2026-09-19T14:21:22.060Z",
+  "weatherGeneratedAt": "2026-09-19T17:58:27.632Z",
   "weatherError": null,
   "sources": [
     {
@@ -2072,10 +2037,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 8,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
