@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T21:37:35.554Z",
-  "fetchedAt": "2026-09-18T21:37:35.550Z",
+  "generatedAt": "2026-09-19T00:15:30.297Z",
+  "fetchedAt": "2026-09-19T00:15:30.295Z",
   "sourceCount": 24,
-  "itemCount": 178,
+  "itemCount": 177,
   "totalItemCount": 806,
   "items": [
     {
@@ -1990,17 +1990,6 @@
       "summary": "They’re polling surprisingly strongly in some Senate races. But should you bet on those numbers falling back to earth? Plus, some quick thoughts on Alaska and Florida.",
       "publishedAt": "2026-08-20T01:26:44.000Z",
       "articleId": "1b11bd2d3d8212f3"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/economists-should-be-worried-about",
-      "title": "Economists should be worried about birth rates",
-      "url": "https://www.noahpinion.blog/p/economists-should-be-worried-about",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Don’t be so quick to dismiss the threat of an aging, declining population.",
-      "publishedAt": "2026-08-19T23:27:31.000Z",
-      "articleId": "91812788e8a35a11"
     }
   ],
   "weather": {
@@ -2010,14 +1999,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Isolated sprinkle until 6 p.m. or so. Overall, some clearing through evening as temperatures fall through the 70s and humidity begins to dip a bit.",
+    "summary": "HAPPENING NOW: Clearer into the early overnight as temperatures fall through the 70s and humidity dips a bit.",
     "publishedAt": "2026-09-18T09:00:15.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
     "articleId": "a9fc21d7ec473963"
   },
-  "weatherGeneratedAt": "2026-09-18T21:37:35.554Z",
+  "weatherGeneratedAt": "2026-09-19T00:15:30.297Z",
   "weatherError": null,
   "sources": [
     {
