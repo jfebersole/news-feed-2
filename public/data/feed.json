@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-19T05:48:05.555Z",
-  "fetchedAt": "2026-09-19T05:48:05.550Z",
+  "generatedAt": "2026-09-19T10:52:05.715Z",
+  "fetchedAt": "2026-09-19T10:52:05.713Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline",
+      "title": "Internet diffusion and religious decline?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Using a panel of 81 countries across six World Values Survey waves (1990–2022), we examine whether growth in internet diffusion is associated with religious decline. We construct a six-item composite religiosity index, align annual macro series to wave periods, and estimate country fixed-effects models with one-wave lags and a broad set of modernization, demographic, welfare-state, […]",
+      "publishedAt": "2026-09-19T06:22:39.000Z",
+      "articleId": "f5e140363a08358f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort",
       "title": "Emergent Ventures India, 19th cohort",
@@ -449,17 +460,6 @@
       "summary": "Bo French’s rightist movement is a dead end for our nation. Fortunately, it’s beatable.",
       "publishedAt": "2026-09-16T06:08:15.000Z",
       "articleId": "1a5b1d998312c61a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china",
-      "title": "When discussing AI policy, start with China",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Whatever your ideas for regulating AI, I say start with China. Do not put China as an afterthought at the end of your proposal, mentioned in a vague wish that something good ought to happen and that maybe the future of humanity can be secured. During the 2023 U.S.-China nuclear talks, America proposed missile-launch notifications, […]",
-      "publishedAt": "2026-09-16T04:58:51.000Z",
-      "articleId": "03abceea320e9dae"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/were-not-ready-for-superpersistent",
@@ -1981,20 +1981,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warm-and-breezy-today-cooler-wetter-pattern-on-the-horizon/",
-    "title": "DC-area forecast: Warm evening with waning humidity; cooler, wetter pattern on the way",
-    "url": "https://www.capitalweather.com/dc-area-forecast-warm-and-breezy-today-cooler-wetter-pattern-on-the-horizon/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
+    "title": "DC-area forecast: Mild today before shower chances rise Sunday; cooler, wetter pattern ahead",
+    "url": "https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clearer into the early overnight as temperatures fall through the 70s and humidity dips a bit.",
-    "publishedAt": "2026-09-18T09:00:15.000Z",
+    "summary": "HAPPENING NOW: Partly sunny to mostly cloudy skies today, with seasonable afternoon highs in the mid-70s to near 80. Lower humidity adds to the pleasant feel.",
+    "publishedAt": "2026-09-19T09:00:39.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Humidity may be slow to drop, but at least we're eventually headed in the right direction. A warm day with a mix of clouds and sun, plus only an isolated shower.",
-    "articleId": "a9fc21d7ec473963"
+    "dailyDigitSummary": "It might be cloudy at times, but at least humidity has backed off for the day!",
+    "articleId": "c0741b3732e1851c"
   },
-  "weatherGeneratedAt": "2026-09-19T05:48:05.555Z",
+  "weatherGeneratedAt": "2026-09-19T10:52:05.715Z",
   "weatherError": null,
   "sources": [
     {
