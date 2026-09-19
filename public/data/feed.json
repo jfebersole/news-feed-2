@@ -1,10 +1,56 @@
 {
-  "generatedAt": "2026-09-19T10:52:05.715Z",
-  "fetchedAt": "2026-09-19T10:52:05.713Z",
+  "generatedAt": "2026-09-19T14:21:22.060Z",
+  "fetchedAt": "2026-09-19T14:21:22.054Z",
   "sourceCount": 24,
-  "itemCount": 176,
-  "totalItemCount": 806,
+  "itemCount": 178,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
+      "title": "What stake does Airbnb have in the supply game?",
+      "url": "https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A Q&A with Daniel Hornung",
+      "publishedAt": "2026-09-19T13:02:08.000Z",
+      "articleId": "81df084b1616fee8"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09192026",
+      "title": "Reading List 09/19/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09192026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "AirBnB’s housing accelerator, rising steel prices, a resurgence of US coal power, low-head dams, and more.",
+      "publishedAt": "2026-09-19T12:03:09.000Z",
+      "articleId": "266a44d2d9d3fd86"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors",
+      "title": "The Age of Wonders and Terrors",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Scott Aaranson, theoretical computer scientist writes: My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA It seems to me that the Singularity has already started; […]",
+      "publishedAt": "2026-09-19T11:17:18.000Z",
+      "articleId": "6dbee29daf057758"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-september-14-18",
+      "title": "The Week That Was (September 14-18, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-september-14-18",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-09-19T09:01:30.000Z",
+      "articleId": "1d906121f761226f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline",
       "title": "Internet diffusion and religious decline?",
@@ -438,17 +484,6 @@
       "summary": "Dems are quietly becoming more reasonable, and Republicans are revealing their true colors.",
       "publishedAt": "2026-09-16T10:01:26.000Z",
       "articleId": "032094c3a5831895"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk",
-      "title": "The economics of cyber risk",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Aniket Baksy and Daniele Caratelli, here is part of the abstract: Because larger firms are more attractive targets but also invest more in protection, the model generates an inverse-U relationship between firm size and attack risk, consistent with the data. Introducing cyber risk reduces firm entry by 3.6 percent, aggregate productivity by 0.6 percent, […]",
-      "publishedAt": "2026-09-16T07:30:24.000Z",
-      "articleId": "0fc0856ca5ca983d"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-anti-american-right",
@@ -1002,17 +1037,6 @@
       "summary": "The massively multiplayer online game was created in the 1980s.",
       "publishedAt": "2026-09-09T16:37:49.000Z",
       "articleId": "8aa4df1ab102036e"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/trumps-terrible-plan-to-break-skilled",
-      "title": "Trump’s terrible plan to break skilled immigration",
-      "url": "https://www.slowboring.com/p/trumps-terrible-plan-to-break-skilled",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Improve flawed programs — don’t destroy them.",
-      "publishedAt": "2026-09-09T10:00:39.000Z",
-      "articleId": "9e6a589b69262849"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
@@ -1994,7 +2018,7 @@
     "dailyDigitSummary": "It might be cloudy at times, but at least humidity has backed off for the day!",
     "articleId": "c0741b3732e1851c"
   },
-  "weatherGeneratedAt": "2026-09-19T10:52:05.715Z",
+  "weatherGeneratedAt": "2026-09-19T14:21:22.060Z",
   "weatherError": null,
   "sources": [
     {
@@ -2048,10 +2072,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 8,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -2081,7 +2105,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
