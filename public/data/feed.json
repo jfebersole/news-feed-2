@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T20:34:24.314Z",
-  "fetchedAt": "2026-09-19T20:34:24.306Z",
+  "generatedAt": "2026-09-19T22:57:42.921Z",
+  "fetchedAt": "2026-09-19T22:57:42.918Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 806,
@@ -1954,14 +1954,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Late afternoon and evening temperatures hover around the mid-70s. Lower humidity adds to the pleasant feel under partly sunny to mostly cloudy skies.",
+    "summary": "HAPPENING NOW: Not too humid as evening temperatures hover in the mid- to low 70s under partly to mostly cloudy skies.",
     "publishedAt": "2026-09-19T09:00:39.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Decent sunshine, some cloudier times, and humidity has backed off nicely for the day!",
     "articleId": "c0741b3732e1851c"
   },
-  "weatherGeneratedAt": "2026-09-19T20:34:24.314Z",
+  "weatherGeneratedAt": "2026-09-19T22:57:42.921Z",
   "weatherError": null,
   "sources": [
     {
