@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T17:58:27.632Z",
-  "fetchedAt": "2026-09-19T17:58:27.624Z",
+  "generatedAt": "2026-09-19T20:34:24.314Z",
+  "fetchedAt": "2026-09-19T20:34:24.306Z",
   "sourceCount": 24,
-  "itemCount": 175,
-  "totalItemCount": 807,
+  "itemCount": 173,
+  "totalItemCount": 806,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579",
@@ -284,17 +284,6 @@
       "summary": "Or, why The Voice stinks",
       "publishedAt": "2026-09-17T17:31:02.000Z",
       "articleId": "6faaf62c53dfa20d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/how-my-goals-above-replacement-gar",
-      "title": "How My Goals Above Replacement (GAR) Stat Works",
-      "url": "https://neilpaine.substack.com/p/how-my-goals-above-replacement-gar",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A single number, measured in goals, for every skater and goalie season in NHL history, that adds up to team-wide performance.",
-      "publishedAt": "2026-09-17T16:10:27.000Z",
-      "articleId": "994553378d8b39b7"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570",
@@ -1956,34 +1945,23 @@
       "summary": "Diplomacy, reform, and a convenient stone",
       "publishedAt": "2026-08-21T11:21:12.000Z",
       "articleId": "dd762de10c049ecf"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
-      "title": "College EA Meetups Everywhere: Call For Organizers",
-      "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-20T19:55:39.000Z",
-      "articleId": "35bb015b2368d29e"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
-    "title": "DC-area forecast: Mild today before shower chances rise Sunday; cooler, wetter pattern ahead",
+    "title": "DC-area forecast: Comfortable tonight before shower chances rise Sunday; cooler, wetter pattern ahead",
     "url": "https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny with seasonable afternoon highs in the upper 70s to near 80. Lower humidity adds to the pleasant feel.",
+    "summary": "HAPPENING NOW: Late afternoon and evening temperatures hover around the mid-70s. Lower humidity adds to the pleasant feel under partly sunny to mostly cloudy skies.",
     "publishedAt": "2026-09-19T09:00:39.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Decent sunshine, some cloudier times, and humidity has backed off nicely for the day!",
     "articleId": "c0741b3732e1851c"
   },
-  "weatherGeneratedAt": "2026-09-19T17:58:27.632Z",
+  "weatherGeneratedAt": "2026-09-19T20:34:24.314Z",
   "weatherError": null,
   "sources": [
     {
@@ -2070,7 +2048,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
