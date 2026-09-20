@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-20T12:16:30.162Z",
-  "fetchedAt": "2026-09-20T12:16:30.159Z",
+  "generatedAt": "2026-09-20T16:46:20.957Z",
+  "fetchedAt": "2026-09-20T16:46:20.953Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 176,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse",
+      "title": "Muse",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/muse.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It is excellent. It has one of the best user interfaces I have seen on any product. The model is good and the speed and clarity exemplary. It integrates with your calendar and email, if that is want you want, very easily and smoothly. It all feels very…American. Kudos to the team!",
+      "publishedAt": "2026-09-20T15:46:21.000Z",
+      "articleId": "7e9094c01d8c258d"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/going-to-graceland-a-conversation",
+      "title": "Going to Graceland: A Conversation with Ashley Kahn",
+      "url": "https://www.cantgetmuchhigher.com/p/going-to-graceland-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Ashley Kahn and I talk about his new book celebrating the 40th anniversary of Paul Simon’s Graceland",
+      "publishedAt": "2026-09-20T13:30:56.000Z",
+      "articleId": "6350418bd60e05f6"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
       "title": "JD Vance Has a Twisted Idea of What It Means to Be American",
@@ -440,17 +463,6 @@
       "summary": "Here is the audio, video, and transcript. Here is the episode summary: Annie Lowrey’s new book, The Time Tax, argues that the most regressive levy in American life is the hours each of us must spend on hold, in waiting rooms, and filling out forms a competent state would have pre-filled — roughly fifty a year […]",
       "publishedAt": "2026-09-17T08:20:16.000Z",
       "articleId": "98f12f1f22361c1e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior",
-      "title": "The correct model of AI CEO behavior",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I agree with Alex that the standard model of regulatory capture does not apply here, but I think he neglects the best model we have. From my recent Free Press piece: Recently I have been reading my review copy of Kevin Roose’s excellent forthcoming book The AGI Chronicles: The Inside Story of the Race to Create an […]",
-      "publishedAt": "2026-09-17T04:19:07.000Z",
-      "articleId": "76a5988fe395bf7d"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
@@ -1972,19 +1984,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
-    "title": "DC-area forecast: More humid with shower chances today; looking cool and wet midweek",
+    "title": "DC-area forecast: Warm today with a few showers late; cool and wet midweek",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy today with a more humid feel and highs in the upper 70s to low 80s. Could see a few showers this morning, then scattered showers and a storm possible this afternoon.",
+    "summary": "HAPPENING NOW: Partly sunny and humid this afternoon. Scattered showers or a thunderstorm may pop up, especially toward evening, but plenty of dry time with highs around 80.",
     "publishedAt": "2026-09-20T09:00:40.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Mostly gray skies, kind of sticky, and some pesky shower potential. Blah.",
     "articleId": "98487598ed76f816"
   },
-  "weatherGeneratedAt": "2026-09-20T12:16:30.162Z",
+  "weatherGeneratedAt": "2026-09-20T16:46:20.957Z",
   "weatherError": null,
   "sources": [
     {
