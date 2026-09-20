@@ -1,20 +1,54 @@
 {
-  "generatedAt": "2026-09-20T06:10:50.587Z",
-  "fetchedAt": "2026-09-20T06:10:50.583Z",
+  "generatedAt": "2026-09-20T12:16:30.162Z",
+  "fetchedAt": "2026-09-20T12:16:30.159Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 175,
   "totalItemCount": 806,
   "items": [
     {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
+      "title": "JD Vance Has a Twisted Idea of What It Means to Be American",
+      "url": "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "I am a “heritage American,” too. How should that guide my life?",
+      "publishedAt": "2026-09-20T11:00:11.000Z",
+      "articleId": "445c7e1dff1a64e0"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/how-we-can-beat-china",
+      "title": "How we can beat China",
+      "url": "https://www.noahpinion.blog/p/how-we-can-beat-china",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The trick is to let them beat themselves.",
+      "publishedAt": "2026-09-20T09:51:30.000Z",
+      "articleId": "3e898c2057b3377b"
+    },
+    {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
-      "title": "We’re Not Losing Control of A.I. We’re Giving It Away.",
+      "title": "This Is What I Fear Most About A.I.",
       "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
       "source": "Ezra Klein (NYT)",
       "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
       "access": "paywalled",
       "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
-      "publishedAt": "2026-09-20T05:00:06.000Z",
+      "publishedAt": "2026-09-20T08:14:04.000Z",
       "articleId": "b99f663190a5feb9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps",
+      "title": "Empathy gaps",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I observed, for example, that when I got an invitation to travel to give a talk in a different time zone, it mattered what time zone I was in when I got the invitation. if well rested, in my home time zone, I would think, No big deal, about making a long trip and would […]",
+      "publishedAt": "2026-09-20T06:38:59.000Z",
+      "articleId": "73861fca18ebaf0e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought",
@@ -417,17 +451,6 @@
       "summary": "I agree with Alex that the standard model of regulatory capture does not apply here, but I think he neglects the best model we have. From my recent Free Press piece: Recently I have been reading my review copy of Kevin Roose’s excellent forthcoming book The AGI Chronicles: The Inside Story of the Race to Create an […]",
       "publishedAt": "2026-09-17T04:19:07.000Z",
       "articleId": "76a5988fe395bf7d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html?utm_source=rss&utm_medium=rss&utm_campaign=metr-ea-and-others-being-attacked",
-      "title": "METR, EA, and others being attacked",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Always focus on what you can learn from people and groups. Criticize in ways where you can learn something from the answer (or non-answer) and from the dialogue. If you attack how people look, their sex lives, their donors, whatever, it will make the critic stupider. It may not even hurt the target of the […]",
-      "publishedAt": "2026-09-17T03:10:53.000Z",
-      "articleId": "4b90929d9f36a8cc"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
@@ -1945,34 +1968,23 @@
       "summary": "Finalist #6 in the Book Review Contest",
       "publishedAt": "2026-08-21T17:16:16.000Z",
       "articleId": "4dbc987e8f01b7cb"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
-      "title": "Why Thailand was never colonized",
-      "url": "https://www.worksinprogress.news/p/why-thailand-was-never-colonized",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Diplomacy, reform, and a convenient stone",
-      "publishedAt": "2026-08-21T11:21:12.000Z",
-      "articleId": "dd762de10c049ecf"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
-    "title": "DC-area forecast: Shower chances rise Sunday; cooler, wetter pattern ahead",
-    "url": "https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
+    "title": "DC-area forecast: More humid with shower chances today; looking cool and wet midweek",
+    "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy overnight with a stray shower possible and lows in the mid-60s to near 70.",
-    "publishedAt": "2026-09-19T09:00:39.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Decent sunshine, some cloudier times, and humidity has backed off nicely for the day!",
-    "articleId": "c0741b3732e1851c"
+    "summary": "HAPPENING NOW: Mostly cloudy today with a more humid feel and highs in the upper 70s to low 80s. Could see a few showers this morning, then scattered showers and a storm possible this afternoon.",
+    "publishedAt": "2026-09-20T09:00:40.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "Mostly gray skies, kind of sticky, and some pesky shower potential. Blah.",
+    "articleId": "98487598ed76f816"
   },
-  "weatherGeneratedAt": "2026-09-20T06:10:50.587Z",
+  "weatherGeneratedAt": "2026-09-20T12:16:30.162Z",
   "weatherError": null,
   "sources": [
     {
