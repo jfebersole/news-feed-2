@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-20T19:25:05.301Z",
-  "fetchedAt": "2026-09-20T19:25:05.298Z",
+  "generatedAt": "2026-09-20T22:23:44.771Z",
+  "fetchedAt": "2026-09-20T22:23:44.768Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
+      "title": "There Is Something We Have to Do Right Now About A.I.",
+      "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
+      "publishedAt": "2026-09-20T21:46:15.000Z",
+      "articleId": "b99f663190a5feb9"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
+      "title": "Vance Has a Twisted Idea of What It Means to Be American",
+      "url": "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "I am a “heritage American,” too. How should that guide my life?",
+      "publishedAt": "2026-09-20T20:24:33.000Z",
+      "articleId": "445c7e1dff1a64e0"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
       "title": "Expert ratings are ignoring signs of a blue wave",
@@ -16,17 +38,6 @@
       "summary": "Assuming we’re in a roughly neutral political environment doesn’t make sense given the history of the midterms, $4.50 gas or Trump’s dismal approval ratings.",
       "publishedAt": "2026-09-20T19:08:19.000Z",
       "articleId": "4a3dcec638b6b28f"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
-      "title": "There Is Something We Have to Do Right Now About A.I.",
-      "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
-      "publishedAt": "2026-09-20T17:55:59.000Z",
-      "articleId": "b99f663190a5feb9"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583",
@@ -84,17 +95,6 @@
       "summary": "Ashley Kahn and I talk about his new book celebrating the 40th anniversary of Paul Simon’s Graceland",
       "publishedAt": "2026-09-20T13:30:56.000Z",
       "articleId": "6350418bd60e05f6"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
-      "title": "JD Vance Has a Twisted Idea of What It Means to Be American",
-      "url": "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "I am a “heritage American,” too. How should that guide my life?",
-      "publishedAt": "2026-09-20T11:00:11.000Z",
-      "articleId": "445c7e1dff1a64e0"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/how-we-can-beat-china",
@@ -1985,19 +1985,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
-    "title": "DC-area forecast: Warm today with a few showers late; cool and wet midweek",
+    "title": "DC-area forecast: A few showers or a storm before midnight; trending cool and wet into midweek",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny and humid this afternoon. Scattered showers or a thunderstorm may pop up, especially toward evening, but plenty of dry time with highs around 80.",
+    "summary": "HAPPENING NOW: Late afternoon and evening 70s have some mugginess still. A few showers and a rumble of thunder are possible this evening through around midnight.",
     "publishedAt": "2026-09-20T09:00:40.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Mostly gray skies, kind of sticky, and some pesky shower potential. Blah.",
     "articleId": "98487598ed76f816"
   },
-  "weatherGeneratedAt": "2026-09-20T19:25:05.301Z",
+  "weatherGeneratedAt": "2026-09-20T22:23:44.771Z",
   "weatherError": null,
   "sources": [
     {
