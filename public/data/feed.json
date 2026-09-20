@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-20T01:02:53.888Z",
-  "fetchedAt": "2026-09-20T01:02:53.884Z",
+  "generatedAt": "2026-09-20T06:10:50.587Z",
+  "fetchedAt": "2026-09-20T06:10:50.583Z",
   "sourceCount": 24,
-  "itemCount": 173,
+  "itemCount": 174,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
+      "title": "We’re Not Losing Control of A.I. We’re Giving It Away.",
+      "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
+      "publishedAt": "2026-09-20T05:00:06.000Z",
+      "articleId": "b99f663190a5feb9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought",
+      "title": "UK productivity higher than we had thought",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "UK productivity rose at almost twice the pace previously estimated in the decade after the 2008 global financial crisis, according to new official figures that make Britain look much less of an international outlier. Output per hour worked, the main measure of labour productivity, grew by an average of 1.3 per cent per year between […]",
+      "publishedAt": "2026-09-20T04:53:01.000Z",
+      "articleId": "a1328614265507a3"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-2",
+      "title": "The polity that is Singapore",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "…this month, Singapore launched a scheme promising actual cash to citizens as a reward for logging reading time on a government website. It’s unlikely to make you megabucks – you have to rack up 50 reading sessions of at least 15 minutes to earn one Singapore dollar (£0.59), with only one logged session allowed per day. But behavioural […]",
+      "publishedAt": "2026-09-20T02:09:48.000Z",
+      "articleId": "c3d73e7c572b5a83"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579",
       "title": "Saturday assorted links",
@@ -429,28 +462,6 @@
       "summary": "Everybody wants a pension Back in March, I laid out my theory of pensions . There are two main components to this theory. One is that people in the US used to have defined-benefit pensions, and now they mostly have defined-contribution retirement plans like 401(k)s. A pension is a big pool of money, managed by professionals, that has to pay thousands of beneficiaries some promised level of benefits every month when they retire. Because the payouts are pretty predictable, the pension fund can make very long-term investments: Some of its money definitely won’t be needed in for the next 30 years, so it can lock that money up for decades. So pension funds can make illiquid investments, and get paid an illiquidity premium: By locking up their money in bespoke, non-traded stuff, they can hope to earn a higher return than they’d get by just investing in Treasury bonds or even the stock market. Meanwhile a 401(k) is an individual account; you put money into the 401(k), you pick how it’s invested, and at retirement you can spend it. In the abstract, a 401(k) has similar goals to a pension, and could do similar things: If you are a 35-year-old saving for retirement, you shouldn’t need your money for 30 years, so you can also buy illiquid investments and earn an illiquidity premium. But because a 401(k) is, in most respects, an individual account, it is not so simple to lock it up for 30 years. You probably won’t withdraw money until you retire, but you might. What if you have a medical emergency and need the money? What if you die? A pension fund can smooth out those risks; a 401(k) can’t. Therefore, in practice, investments in 401(k) plans need to offer some liquidity. You need to be able to take your money out; mass marketed 401(k) investments can’t have the form “you give us money and we give it back in 10 years, no earlier.” So it is much harder for a 401(k) plan to invest in bespoke, non-traded stuff. It’s not impossible: There are various structures (interval funds, mixed public/private funds, etc.) that are designed to, essentially, do the pooling. If you raise money from retail investors and invest it in illiquid private credit, but you let the investors take up to 5% of their money out each quarter, that’s mostly fine: Fewer than 5% of your investors will probably need money (for emergencies, etc.) in any given quarter, so you will be able to keep your money invested in the illiquid private stuff. But, if you’re offering liquidity, eventually your retail investors will use it in a correlated way. We talked a lot earlier this year about a sort of quasi-run on retail private credit funds: Those funds often let investors withdraw 5% of their money each quarter, but there was a wave of investor worry about private credit, and investors started asking for...",
       "publishedAt": "2026-09-16T17:59:52.978Z",
       "articleId": "87fb5f63c4c5ed6b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-571",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-571.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Competitive market behavior with LLMs? 2. Prophets of the Marginal Revolution. 3. The university after AI. 4. Which African nations are spending on education? 5. @mattyglesias: “In an all-or-nothing scenario, bond interest rates would go to the moon. Why lend money at 5% (or whatever) if the two options are not being repaid and […]",
-      "publishedAt": "2026-09-16T16:30:58.000Z",
-      "articleId": "1b3acfed37d5e1dd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html?utm_source=rss&utm_medium=rss&utm_campaign=very-good-news",
-      "title": "Very good news",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Michael Kremer picked as World Bank chief economist (Bloomberg). Here are many many previous MR posts on Kremer, of course Alex also worked with him on Operation Warp Speed.",
-      "publishedAt": "2026-09-16T13:12:00.000Z",
-      "articleId": "f86549bdf24a8196"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
@@ -1949,19 +1960,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
-    "title": "DC-area forecast: Comfortable tonight before shower chances rise Sunday; cooler, wetter pattern ahead",
+    "title": "DC-area forecast: Shower chances rise Sunday; cooler, wetter pattern ahead",
     "url": "https://www.capitalweather.com/dc-area-forecast-mild-to-warm-weekend-gives-way-to-a-cooler-wetter-pattern/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Not too humid as evening temperatures hover in the mid- to low 70s under partly to mostly cloudy skies.",
+    "summary": "HAPPENING NOW: Partly to mostly cloudy overnight with a stray shower possible and lows in the mid-60s to near 70.",
     "publishedAt": "2026-09-19T09:00:39.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Decent sunshine, some cloudier times, and humidity has backed off nicely for the day!",
     "articleId": "c0741b3732e1851c"
   },
-  "weatherGeneratedAt": "2026-09-20T01:02:53.888Z",
+  "weatherGeneratedAt": "2026-09-20T06:10:50.587Z",
   "weatherError": null,
   "sources": [
     {
