@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-21T19:21:43.266Z",
-  "fetchedAt": "2026-09-21T19:21:43.261Z",
+  "generatedAt": "2026-09-21T23:14:15.864Z",
+  "fetchedAt": "2026-09-21T23:14:15.860Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 806,
+  "itemCount": 175,
+  "totalItemCount": 804,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-market-full-of-paradoxes",
+      "title": "A market full of paradoxes",
+      "url": "https://www.slowboring.com/p/a-market-full-of-paradoxes",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Buyers have leverage they can’t use, but developers have a socialist mayor they can. Americans love housing and hate data centers, but the country seems to feel the opposite. Everything’s weird.",
+      "publishedAt": "2026-09-21T22:01:26.000Z",
+      "articleId": "a8dabe3936c83ffa"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation",
       "title": "Further results on AI and labor market reallocation",
@@ -285,17 +297,6 @@
       "summary": "Scott Aaranson, theoretical computer scientist writes: My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA It seems to me that the Singularity has already started; […]",
       "publishedAt": "2026-09-19T11:17:18.000Z",
       "articleId": "6dbee29daf057758"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-september-14-18",
-      "title": "The Week That Was (September 14-18, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-september-14-18",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-09-19T09:01:30.000Z",
-      "articleId": "1d906121f761226f"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline",
@@ -1059,18 +1060,6 @@
       "summary": "...",
       "publishedAt": "2026-09-10T11:10:18.000Z",
       "articleId": "50a5e559c8145651"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-economy-could-survive-a-downtick",
-      "title": "The economy could survive a downtick in A.I.",
-      "url": "https://www.slowboring.com/p/the-economy-could-survive-a-downtick",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus what happened to college and what’s wrong with Tucker Carlson",
-      "publishedAt": "2026-09-10T10:02:14.000Z",
-      "articleId": "f6ffb692e2001d6e"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
@@ -1977,35 +1966,23 @@
       "summary": "First, Tracy missed a block that got Jaxson Dart crushed; then New York signed Najee Harris. On Saturday, somehow, things got worse.",
       "publishedAt": "2026-08-23T01:02:46.000Z",
       "articleId": "61c272bb75b20c6b"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-48-key-house-races",
-      "title": "A tour of the 48 key House races",
-      "url": "https://www.natesilver.net/p/a-tour-of-the-48-key-house-races",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "In the Northeast, Midwest and West, it’s almost all upside for Democrats. But redistricting will hand Republicans some seats in the South.",
-      "publishedAt": "2026-08-22T19:22:11.000Z",
-      "articleId": "471de1cf42d5749d"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-less-warm-today-before-a-cool-and-rainy-tuesday/",
-    "title": "DC-area forecast: Less warm today with afternoon showers; cool and rainy Tuesday",
+    "title": "DC-area forecast: An isolated shower this evening; cool and rainy Tuesday",
     "url": "https://www.capitalweather.com/dc-area-forecast-less-warm-today-before-a-cool-and-rainy-tuesday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with scattered showers this afternoon and comfortable temperatures in the upper 60s to mid-70s.",
+    "summary": "HAPPENING NOW: An isolated shower is possible this evening as temperatures fall through the 60s. The chance of scattered showers increases overnight.",
     "publishedAt": "2026-09-21T09:00:07.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Hello 70s, goodbye 80s. Lots of clouds, maybe a few showers.",
     "articleId": "be43c9b6534a8b34"
   },
-  "weatherGeneratedAt": "2026-09-21T19:21:43.266Z",
+  "weatherGeneratedAt": "2026-09-21T23:14:15.864Z",
   "weatherError": null,
   "sources": [
     {
@@ -2028,7 +2005,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2092,7 +2069,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
