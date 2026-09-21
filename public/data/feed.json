@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-21T01:02:08.512Z",
-  "fetchedAt": "2026-09-21T01:02:08.503Z",
+  "generatedAt": "2026-09-21T06:15:46.957Z",
+  "fetchedAt": "2026-09-21T06:15:46.954Z",
   "sourceCount": 24,
-  "itemCount": 176,
+  "itemCount": 175,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai",
+      "title": "Obama on agentic AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Obama recently said: “If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.” As Roon noted: “this sounds completely incoherent to me” From Rob Saker: An agent is a […]",
+      "publishedAt": "2026-09-21T04:11:54.000Z",
+      "articleId": "5ed4cb20b3652de3"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
       "title": "There Is Something We Have to Do Right Now About A.I.",
@@ -453,17 +464,6 @@
       "summary": "If you’re reading this, there’s a very good chance you’ve seen this famous image of three iterations of SpaceX’s Raptor rocket engine.",
       "publishedAt": "2026-09-17T12:02:08.000Z",
       "articleId": "cf65b761e6f3bf60"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety",
-      "title": "Pandemic Preparation is AI Safety",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I am not a big fan of the “now more than ever” post, which interprets recent events to support—surprise!—something the writer already believed. And yet…is it not obvious that AI risk increases the value of pandemic preparation? If COVID began with a laboratory leak—plausible, though unproven—then a research accident has already killed millions. Whatever its […]",
-      "publishedAt": "2026-09-17T11:17:01.000Z",
-      "articleId": "24fa36b9bc6a4398"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/how-to-stop-hitler",
@@ -1969,18 +1969,6 @@
       "summary": "Los Angeles’ ADUs, electrical transformer manufacturing, gas turbine power plants, how water in the Colorado River is used, and more.",
       "publishedAt": "2026-08-22T12:02:58.000Z",
       "articleId": "dc407f3a89ae772f"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
-      "title": "Are we watching the U.S. go bankrupt?",
-      "url": "https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "No, but there are still reasons for concern.",
-      "publishedAt": "2026-08-22T01:47:17.000Z",
-      "articleId": "b824db9b909c976a"
     }
   ],
   "weather": {
@@ -1997,7 +1985,7 @@
     "dailyDigitSummary": "Mostly gray skies, kind of sticky, and some pesky shower potential. Blah.",
     "articleId": "98487598ed76f816"
   },
-  "weatherGeneratedAt": "2026-09-21T01:02:08.512Z",
+  "weatherGeneratedAt": "2026-09-21T06:15:46.957Z",
   "weatherError": null,
   "sources": [
     {
