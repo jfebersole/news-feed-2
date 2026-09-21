@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-21T14:00:59.696Z",
-  "fetchedAt": "2026-09-21T14:00:59.692Z",
+  "generatedAt": "2026-09-21T19:21:43.266Z",
+  "fetchedAt": "2026-09-21T19:21:43.261Z",
   "sourceCount": 24,
   "itemCount": 177,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation",
+      "title": "Further results on AI and labor market reallocation",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper documents how artificial intelligence has affected stocks and flows in the U.S. labor market. Combining CPS and JOLTS data with AI exposure and adoption measures from OpenAI and Lightcast, respectively, we construct labor force stocks, worker flows, and market tightness by AI exposure and adoption. Since the introduction of LLMs, workers with high […]",
+      "publishedAt": "2026-09-21T18:49:42.000Z",
+      "articleId": "5426cd9f7b9bb9bd"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Avi Loeb video on UAPs. 2. “[The Mises] library now has a permanent independent home: https://freecapitalists.org/. It holds 945 books, 3,374 journal issues and 2,732 recorded lectures, all free, in PDF, EPUB and MOBI, with the rights recorded per work.” 3. “They invited me to come see it for myself at Sopchoppy’s annual worm grunting festival, which […]",
+      "publishedAt": "2026-09-21T17:57:03.000Z",
+      "articleId": "ab61e9dd7ed4be45"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
+      "title": "Vance Has a Twisted Idea of What It Means to Be American",
+      "url": "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "I am a “heritage American,” too. How should that guide my life?",
+      "publishedAt": "2026-09-21T16:38:01.000Z",
+      "articleId": "445c7e1dff1a64e0"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-arab-armies-dont-win-wars",
       "title": "Why Arab armies don’t win wars",
@@ -92,17 +125,6 @@
       "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
       "publishedAt": "2026-09-20T21:46:16.000Z",
       "articleId": "b99f663190a5feb9"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
-      "title": "Vance Has a Twisted Idea of What It Means to Be American",
-      "url": "https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "I am a “heritage American,” too. How should that guide my life?",
-      "publishedAt": "2026-09-20T20:24:33.000Z",
-      "articleId": "445c7e1dff1a64e0"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
@@ -396,28 +418,6 @@
       "summary": "AI risk; AI and growth; AI and Saas; Rich people; Christians vs. Nazis; Japanese culture; State capacity; City size",
       "publishedAt": "2026-09-18T09:04:11.000Z",
       "articleId": "c5f23cf39c1bf0cc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
-      "title": "Reimagining research papers as interactive and reliable AI agents",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is a new Nature paper by Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, and James Zou. Here goes: Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research […]",
-      "publishedAt": "2026-09-18T07:07:11.000Z",
-      "articleId": "7d5f0b0f3ec01ed8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting",
-      "title": "Why Papua New Guinea is so interesting",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "And this leads to the most interesting part of this story: how the highlanders were so isolated for so long. I want to acknowledge that the highlanders were not completely, hermetically sealed off from the outside world – it’s just that knowledge of outside world never actually made it to them or vice versa. Over […]",
-      "publishedAt": "2026-09-18T04:50:51.000Z",
-      "articleId": "84ddcbacac3e227e"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/a-trip-to-the-er-and-a-public-service",
@@ -1993,19 +1993,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-less-warm-today-before-a-cool-and-rainy-tuesday/",
-    "title": "DC-area forecast: Less warm today with afternoon shower chances; cool and rainy Tuesday",
+    "title": "DC-area forecast: Less warm today with afternoon showers; cool and rainy Tuesday",
     "url": "https://www.capitalweather.com/dc-area-forecast-less-warm-today-before-a-cool-and-rainy-tuesday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with comfortable temperatures rising from morning 60s to highs in the low to mid-70s. Isolated to scattered showers are possible this afternoon.",
+    "summary": "HAPPENING NOW: Mostly cloudy with scattered showers this afternoon and comfortable temperatures in the upper 60s to mid-70s.",
     "publishedAt": "2026-09-21T09:00:07.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Hello 70s, goodbye 80s. Lots of clouds, maybe a few showers.",
     "articleId": "be43c9b6534a8b34"
   },
-  "weatherGeneratedAt": "2026-09-21T14:00:59.696Z",
+  "weatherGeneratedAt": "2026-09-21T19:21:43.266Z",
   "weatherError": null,
   "sources": [
     {
