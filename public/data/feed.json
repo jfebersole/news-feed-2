@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T22:23:44.771Z",
-  "fetchedAt": "2026-09-20T22:23:44.768Z",
+  "generatedAt": "2026-09-21T01:02:08.512Z",
+  "fetchedAt": "2026-09-21T01:02:08.503Z",
   "sourceCount": 24,
   "itemCount": 176,
   "totalItemCount": 805,
@@ -1985,19 +1985,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
-    "title": "DC-area forecast: A few showers or a storm before midnight; trending cool and wet into midweek",
+    "title": "DC-area forecast: A few isolated showers before midnight; trending cool and wet into midweek",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-humid-with-shower-chances-today-looking-cool-and-wet-midweek/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Late afternoon and evening 70s have some mugginess still. A few showers and a rumble of thunder are possible this evening through around midnight.",
+    "summary": "HAPPENING NOW: Evening 70s have some mugginess still. A few isolated showers are possible through around midnight. Lows in the low to mid-60s.",
     "publishedAt": "2026-09-20T09:00:40.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Mostly gray skies, kind of sticky, and some pesky shower potential. Blah.",
     "articleId": "98487598ed76f816"
   },
-  "weatherGeneratedAt": "2026-09-20T22:23:44.771Z",
+  "weatherGeneratedAt": "2026-09-21T01:02:08.512Z",
   "weatherError": null,
   "sources": [
     {
