@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-09-22T09:53:36.444Z",
-  "fetchedAt": "2026-09-22T09:53:36.441Z",
+  "generatedAt": "2026-09-22T14:47:24.557Z",
+  "fetchedAt": "2026-09-22T14:47:24.553Z",
   "sourceCount": 24,
-  "itemCount": 176,
-  "totalItemCount": 804,
+  "itemCount": 180,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/random-rolling-stone-an-album-a-day",
+      "title": "Random Rolling Stone: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/random-rolling-stone-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Tom Petty, Diana Ross, New Order, and others",
+      "publishedAt": "2026-09-22T13:30:51.000Z",
+      "articleId": "a7272b410ace629c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie",
+      "title": "Dartmouth Provost okie-dokie",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "On Aug. 26, a Semafor investigation using Pangram to determine whether recent guest columns in major newspapers were written using artificial intelligence identified a column by Schnell as “100% AI-written.” Schnell’s column in The Washington Post — titled “Universities are fighting AI cheating. But there’s a deeper problem.” — argued that “a degree should distinguish what students can do […]",
+      "publishedAt": "2026-09-22T12:20:22.000Z",
+      "articleId": "4f6c714de8ef35cb"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7619394/2026/09/22/giants-extremes-loss-rams-monday-night-football/",
+      "title": "The Giants' major questions run deeper than injuries after blowout loss to Rams",
+      "url": "https://www.nytimes.com/athletic/7619394/2026/09/22/giants-extremes-loss-rams-monday-night-football/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "It didn't take long Monday night for the good vibes from the Giants' win over the Cowboys in Week 1 to disappear.",
+      "publishedAt": "2026-09-22T11:30:39.000Z",
+      "articleId": "f58cbdae524622cd"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/all-the-microbes-you-cant-have",
+      "title": "The 1970s law holding back modern biotechnology",
+      "url": "https://www.worksinprogress.news/p/all-the-microbes-you-cant-have",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "We’ve invented microbes that can eat plastic, detect landmines, and extract rare metals. They’ve been swallowed by a black hole.",
+      "publishedAt": "2026-09-22T11:05:09.000Z",
+      "articleId": "baadcb6778541e7a"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/why-i-send-my-kid-to-low-income-urban",
+      "title": "Why I send my kid to low-income urban public schools",
+      "url": "https://www.slowboring.com/p/why-i-send-my-kid-to-low-income-urban",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Not every school with unfavorable demographics is a dysfunctional mess — policy matters!",
+      "publishedAt": "2026-09-22T10:03:25.000Z",
+      "articleId": "64132dba534b2831"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "articleId": "a5457bf5f304e893"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/who-needs-a-starting-qb-not-seattle",
+      "title": "Who Needs a Starting QB? Not Seattle or Minnesota.",
+      "url": "https://neilpaine.substack.com/p/who-needs-a-starting-qb-not-seattle",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The Seahawks and Vikings are showing how to build a quarterback-proof contender — and even Kansas City is taking notes.",
+      "publishedAt": "2026-09-22T09:02:17.000Z",
+      "articleId": "6dddc19d27f37425"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
       "title": "The problem(s) with utilitarianism",
@@ -40,7 +118,7 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7618907/2026/09/21/giants-jaxson-dart-injury-rams-monday-night-football/",
-      "title": "Giants' John Harbaugh: Jaxson Dart knee injury 'in the neighborhood' of sprained MCL",
+      "title": "Jaxson Dart knee injury in 'neighborhood' of sprained MCL, per Giants' Harbaugh",
       "url": "https://www.nytimes.com/athletic/7618907/2026/09/21/giants-jaxson-dart-injury-rams-monday-night-football/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
@@ -385,17 +463,6 @@
       "summary": "The Wealth of Nations at 250",
       "publishedAt": "2026-09-18T18:55:01.000Z",
       "articleId": "414a8083ea2efc71"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming",
-      "title": "Scott Beaulier interviews me, in part about Wyoming",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "",
-      "publishedAt": "2026-09-18T18:10:55.000Z",
-      "articleId": "ffe97944bfb08538"
     },
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-overhang",
@@ -1217,17 +1284,6 @@
       "articleId": "8e5ec382bed1cc11"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/write-things-down/",
-      "title": "Write Things Down",
-      "url": "https://stratechery.com/2026/write-things-down/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
-      "publishedAt": "2026-09-08T10:00:00.000Z",
-      "articleId": "def769291a05f7a1"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
       "title": "How our ELWAY forecasts work",
       "url": "https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
@@ -1965,18 +2021,6 @@
       "summary": "A new social challenge for a new century.",
       "publishedAt": "2026-08-24T08:46:48.000Z",
       "articleId": "f9a34de4219cbfa7"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
-      "title": "How to Survive as a Music Critic: A Conversation with Steven Hyden",
-      "url": "https://www.cantgetmuchhigher.com/p/how-to-survive-as-a-music-critic",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Or, when you’re supposed to talk about The Strokes but end up philosophizing about the music business instead",
-      "publishedAt": "2026-08-23T13:30:54.000Z",
-      "articleId": "e50ca15b475143d2"
     }
   ],
   "weather": {
@@ -1993,7 +2037,7 @@
     "dailyDigitSummary": "Autumn's first notes are a soggy song, with our coolest weather since May. But hey, it's that old refrain that we need this rain!",
     "articleId": "0d845f1dd1b8f627"
   },
-  "weatherGeneratedAt": "2026-09-22T09:53:36.444Z",
+  "weatherGeneratedAt": "2026-09-22T14:47:24.557Z",
   "weatherError": null,
   "sources": [
     {
@@ -2079,10 +2123,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss-proxy",
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -2104,7 +2148,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
