@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-22T04:47:27.809Z",
-  "fetchedAt": "2026-09-22T04:47:27.805Z",
+  "generatedAt": "2026-09-22T09:53:36.444Z",
+  "fetchedAt": "2026-09-22T09:53:36.441Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 176,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
+      "title": "The problem(s) with utilitarianism",
+      "url": "https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Our favorite moral philosophy is about to come under increasing strain.",
+      "publishedAt": "2026-09-22T08:53:46.000Z",
+      "articleId": "b2084f5e6d105206"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models",
       "title": "Banning self-recursive improvement in AI models?",
@@ -1969,20 +1980,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-less-warm-today-before-a-cool-and-rainy-tuesday/",
-    "title": "DC-area forecast: Scattered showers increase overnight; cool and rainy Tuesday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-less-warm-today-before-a-cool-and-rainy-tuesday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cool-and-wet-as-fall-begins-nicer-late-week/",
+    "title": "DC-area forecast: Cool and wet as fall begins; nicer late week",
+    "url": "https://www.capitalweather.com/dc-area-forecast-cool-and-wet-as-fall-begins-nicer-late-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: The chance of scattered showers increases overnight with lows in the 60s.",
-    "publishedAt": "2026-09-21T09:00:07.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "Hello 70s, goodbye 80s. Lots of clouds, maybe a few showers.",
-    "articleId": "be43c9b6534a8b34"
+    "summary": "HAPPENING NOW: Cloudy with periods of rain today, cool temperatures holding steady around 60 to 65, and breezy winds from the northeast. Fall officially begins this evening at 8:05 p.m.",
+    "publishedAt": "2026-09-22T09:00:24.000Z",
+    "dailyDigit": 5,
+    "dailyDigitLabel": "5/10",
+    "dailyDigitSummary": "Autumn's first notes are a soggy song, with our coolest weather since May. But hey, it's that old refrain that we need this rain!",
+    "articleId": "0d845f1dd1b8f627"
   },
-  "weatherGeneratedAt": "2026-09-22T04:47:27.809Z",
+  "weatherGeneratedAt": "2026-09-22T09:53:36.444Z",
   "weatherError": null,
   "sources": [
     {
@@ -2068,10 +2079,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
