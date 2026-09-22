@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-22T14:47:24.557Z",
-  "fetchedAt": "2026-09-22T14:47:24.553Z",
+  "generatedAt": "2026-09-22T18:49:32.391Z",
+  "fetchedAt": "2026-09-22T18:49:32.388Z",
   "sourceCount": 24,
   "itemCount": 180,
   "totalItemCount": 806,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Designing a FINRA for frontier AI. 2. Andrew Ng. 3. Some semi-skeptical notes on stablecoins, based on economic history. 4. Global views on fairness and redistribution. 5. Essays on whether AI will make management more valuable. 6. The real authorities on the California billionaire wealth tax. They are right in front of your eyes. […]",
+      "publishedAt": "2026-09-22T16:10:01.000Z",
+      "articleId": "9f6370ac43486194"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/random-rolling-stone-an-album-a-day",
       "title": "Random Rolling Stone: An Album a Day",
@@ -430,17 +441,6 @@
       "summary": "Using a panel of 81 countries across six World Values Survey waves (1990–2022), we examine whether growth in internet diffusion is associated with religious decline. We construct a six-item composite religiosity index, align annual macro series to wave periods, and estimate country fixed-effects models with one-wave lags and a broad set of modernization, demographic, welfare-state, […]",
       "publishedAt": "2026-09-19T06:22:39.000Z",
       "articleId": "f5e140363a08358f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort",
-      "title": "Emergent Ventures India, 19th cohort",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Asit Singh, founder of Syngi, received his grant to develop sub-angstrom optical MEMS sensors for next-generation semiconductor lithography. Rishabh received his grant to build a platform for real-time updates from Delhi courts, making judicial activity easier to track and understand. Hari and Naveen received their grant for Archgen AI, an agentic ecosystem connecting legacy EDA […]",
-      "publishedAt": "2026-09-19T04:22:09.000Z",
-      "articleId": "22c63942da293674"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
@@ -2030,14 +2030,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Cloudy with periods of rain today, cool temperatures holding steady around 60 to 65, and breezy winds from the northeast. Fall officially begins this evening at 8:05 p.m.",
+    "summary": "HAPPENING NOW: Cloudy with periods of rain continuing this afternoon, cool temperatures holding steady in the upper 50s to low 60s, and breezy winds from the northeast. Fall officially begins this evening at 8:05 p.m.",
     "publishedAt": "2026-09-22T09:00:24.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Autumn's first notes are a soggy song, with our coolest weather since May. But hey, it's that old refrain that we need this rain!",
     "articleId": "0d845f1dd1b8f627"
   },
-  "weatherGeneratedAt": "2026-09-22T14:47:24.557Z",
+  "weatherGeneratedAt": "2026-09-22T18:49:32.391Z",
   "weatherError": null,
   "sources": [
     {
