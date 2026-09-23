@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-09-23T05:55:15.716Z",
-  "fetchedAt": "2026-09-23T05:55:15.713Z",
+  "generatedAt": "2026-09-23T11:27:50.027Z",
+  "fetchedAt": "2026-09-23T11:27:50.023Z",
   "sourceCount": 24,
   "itemCount": 182,
-  "totalItemCount": 804,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-intelligence-is-falling",
+      "title": "The Price of Intelligence is Falling Rapidly",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "An amazing Epoch AI report from Emberson and Roodman: Over the past three years, the cost of a given level of AI performance has fallen an average of some 47% per quarter. That is a 13-fold drop every year – a faster rate than any other transformative technology in history. To give an example, OpenAI […]",
+      "publishedAt": "2026-09-23T11:17:32.000Z",
+      "articleId": "53b64e9e55aa8c1d"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-republican-urge-to-start-wars",
+      "title": "The Republican urge to start wars in the Middle East",
+      "url": "https://www.slowboring.com/p/the-republican-urge-to-start-wars",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "And other ways Trump has failed in his second term",
+      "publishedAt": "2026-09-23T10:02:13.000Z",
+      "articleId": "6b86725f6ccd8559"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+      "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "articleId": "836e43d312ea7666"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
       "title": "What I’ve been reading",
@@ -450,17 +483,6 @@
       "summary": "…this month, Singapore launched a scheme promising actual cash to citizens as a reward for logging reading time on a government website. It’s unlikely to make you megabucks – you have to rack up 50 reading sessions of at least 15 minutes to earn one Singapore dollar (£0.59), with only one logged session allowed per day. But behavioural […]",
       "publishedAt": "2026-09-20T02:09:48.000Z",
       "articleId": "c3d73e7c572b5a83"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Critique of Villaroel on UAPs. 2. Bergen County (Korean) fact of the day. 3. AIs cracking superforecasting. 4. Gregor Benko, RIP (NYT). 5. Joshua Saxe on the increase in cyber risk. 6. Lichtenstein political infighting heats up (FT). 7. Risk, the biggie. And on the Suwalki gap.",
-      "publishedAt": "2026-09-19T17:04:04.000Z",
-      "articleId": "6e4a96c273a3bf2d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
@@ -1237,17 +1259,6 @@
       "summary": "The massively multiplayer online game was created in the 1980s.",
       "publishedAt": "2026-09-09T16:37:49.000Z",
       "articleId": "8aa4df1ab102036e"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
-      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
-      "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
-      "publishedAt": "2026-09-09T10:00:00.000Z",
-      "articleId": "7450c13789cb77a0"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
@@ -2031,34 +2042,23 @@
       "summary": "Why China needs to produce much more output",
       "publishedAt": "2026-08-24T16:18:43.000Z",
       "articleId": "1539f1c2b7515b2a"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
-      "title": "What if our biggest problems aren’t economic?",
-      "url": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A new social challenge for a new century.",
-      "publishedAt": "2026-08-24T08:46:48.000Z",
-      "articleId": "f9a34de4219cbfa7"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cool-and-wet-as-fall-begins-nicer-late-week/",
-    "title": "DC-area forecast: Cool and wet into Wednesday as fall begins; drier late week",
-    "url": "https://www.capitalweather.com/dc-area-forecast-cool-and-wet-as-fall-begins-nicer-late-week/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-2/",
+    "title": "DC-area forecast: Rain tapers today, then gradually brighter and a bit warmer",
+    "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-2/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Cloudy with plentiful light rain through evening, cool temperatures fairly steady in the upper 50s to low 60s, and breezy winds from the northeast. Fall officially began this evening at 8:05 p.m.",
-    "publishedAt": "2026-09-22T09:00:24.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "Autumn's first notes are a soggy song, with our coolest weather since May. But hey, it's that old refrain that we need this rain!",
-    "articleId": "0d845f1dd1b8f627"
+    "summary": "HAPPENING NOW: Overcast with occasional light showers this morning and temperatures in the 50s. A spotty shower or two could linger this afternoon with highs in the upper 50s to mid-60s and a gusty breeze.",
+    "publishedAt": "2026-09-23T09:00:28.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "Another cloudy, damp, and cool day puts summer farther back in the rearview mirror on this first full day of fall.",
+    "articleId": "3cb0d62fc056a2b8"
   },
-  "weatherGeneratedAt": "2026-09-23T05:55:15.716Z",
+  "weatherGeneratedAt": "2026-09-23T11:27:50.027Z",
   "weatherError": null,
   "sources": [
     {
@@ -2169,7 +2169,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
