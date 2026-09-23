@@ -1,10 +1,77 @@
 {
-  "generatedAt": "2026-09-23T16:51:15.400Z",
-  "fetchedAt": "2026-09-23T16:51:15.397Z",
+  "generatedAt": "2026-09-23T20:17:24.027Z",
+  "fetchedAt": "2026-09-23T20:17:24.024Z",
   "sourceCount": 24,
   "itemCount": 181,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/do-republicans-really-have-a-money",
+      "title": "Do Republicans really have a money advantage?",
+      "url": "https://www.natesilver.net/p/do-republicans-really-have-a-money",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "They have massive amounts of outside spending, but their candidates are consistently being outraised by Democrats.",
+      "publishedAt": "2026-09-23T20:01:32.000Z",
+      "articleId": "d77c9eed4e473bda"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cmhzyayiwhoiz2ne78i4.html",
+      "title": "Money Stuff: Kalshi Levers the Predictions",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cmhzyayiwhoiz2ne78i4.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Kalshi Klear Back in March, I wrote up a little flight of fancy about leveraged prediction markets. A prediction market like Kalshi or Polymarket mostly lists binary event contracts that pay out $1 if some event happens or $0 if it doesn’t. These contracts have some very nice properties for youngish startup-ish exchanges like Kalshi and Polymarket. The exchange can create an event contract by selling a package of one Yes bet and one No bet for a total of $1. The exchange’s books are always balanced; there is always exactly one No per Yes. When the contract resolves, the exchange always owes exactly $1 to the winner and always has exactly $1. [1] There is no risk and no leverage: The exchange just takes the bettors’ money, hangs onto it for them, and gives it to the winner at the end. This is completely different from regular commodity futures exchanges that list continuous futures contracts on the price of wheat or whatever. Those exchanges can’t take the full amount upfront, for two reasons: These are classically financial hedging instruments, and paying upfront for wheat to be delivered in a year is an inefficient use of capital for millers, farmers, hedge funds, etc. The prices of commodities are generally unbounded, so the short side of the trade — the person betting on wheat prices to go down — could never really put up “the full amount.” If wheat is trading at $7 per bushel, and you and I enter into a wheat futures contract, and I put down $7 on the long side and you put down $7 on the short side, and then wheat goes to $50 per bushel, I am owed $50 and the exchange has only $14. And so actual commodities futures exchanges have complicated margining systems in which they collect money (“margin” or “collateral”) from both sides of the trade, call additional margin from one side when the position moves against it, [2] set margin requirements to account for the likely volatility of the trade, and nonetheless occasionally have shortfalls where a customer owes additional money on a trade. And prediction markets have none of that: They just take the money upfront, the end. Their processes are simpler, they have less risk, and they can sign up customers on their websites with a minimum of fuss because they don’t need to worry about credit limits or margin calls. This is all very simple and attractive to retail gamblers, and in the first instance retail gamblers are the core audience for prediction markets. But eventually, if you want to get into the business of hedging business risks — if you want to sell event contracts to millers and farmers and hedge funds — you will want to make those contracts more capital-efficient. You will want to allow some trading on margin. If some hedge fund wants to own $50 million of “Ken Paxton wins the Texas Senate...",
+      "publishedAt": "2026-09-23T18:35:51.903Z",
+      "articleId": "ce6b79855b81d107"
+    },
+    {
+      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/fc9l7ddpiq12uqbbuttq.html",
+      "title": "Easy Weeknight Pasta with Mushrooms",
+      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/fc9l7ddpiq12uqbbuttq.html",
+      "source": "J. Kenji López-Alt",
+      "sourceUrl": "https://frienji.kenjilopezalt.com/",
+      "access": "open",
+      "summary": "Easy Weeknight Pasta with Mushrooms Deeply browned mushrooms, rigatoni, and a loose, glossy cream sauce finished with pecorino, herbs, and lemon.I came across some beautiful chanterelles... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Easy Weeknight Pasta with Mushrooms J. Kenji López-Alt Sep 23, 2026 View in app View in app Deeply browned mushrooms, rigatoni, and a loose, glossy cream sauce finished with pecorino, herbs, and lemon. I came across some beautiful chanterelles at Uwajimaya while filming our Japanese Pantry Guide the other day, and while I normally make this pasta dish with much less expensive mushrooms, I love chanterelles enough that I couldn't resist. The good news is that the specific mushroom really isn't important here. Button or cremini mushrooms work great. So do shiitake, portobello, hen of the woods, oyster mushrooms, or virtually any mixture you can find at the grocery store or farmers market. The important part is giving the mushrooms enough heat and time to actually brown them before you start building the sauce. This is one of those pastas where the sauce doesn't really exist until the very end. You start by browning the mushrooms hard in olive oil (I like to throw in a thyme or rosemary sprig while the mushrooms sauté and fish it out later), then add a little onion or shallot and garlic. Lemon juice gives it brightness, a tiny splash of soy sauce adds savory depth without making the...",
+      "publishedAt": "2026-09-23T18:19:44.980Z",
+      "articleId": "eb3a08568f913add"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=optimal-liability-for-offensive-and-defensive-ai",
+      "title": "Optimal liability for offensive and defensive AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack success or attacker profits, saving resources and improving the […]",
+      "publishedAt": "2026-09-23T18:03:36.000Z",
+      "articleId": "e69a2a14521be164"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
+      "title": "There Is Something We Have to Do Right Now About A.I.",
+      "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
+      "publishedAt": "2026-09-23T16:58:17.000Z",
+      "articleId": "b99f663190a5feb9"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7623242/2026/09/23/new-york-giants-jaxson-dart-knee-surgery/",
+      "title": "Giants’ Jaxson Dart to have knee surgery that will likely end season: Sources",
+      "url": "https://www.nytimes.com/athletic/7623242/2026/09/23/new-york-giants-jaxson-dart-knee-surgery/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Dart suffered a significant injury in the first quarter of the Giants’ loss to the Rams on Monday night.",
+      "publishedAt": "2026-09-23T16:52:26.000Z",
+      "articleId": "41cbfe30270d1f7e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-572",
       "title": "Wednesday assorted links",
@@ -48,6 +115,18 @@
       "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "articleId": "836e43d312ea7666"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/does-baseball-still-need-divisions",
+      "title": "Does Baseball Still Need Divisions To Matter This Much?",
+      "url": "https://neilpaine.substack.com/p/does-baseball-still-need-divisions",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "MLB has expanded its playoffs and balanced its schedule, making outsized rewards for division winners increasingly difficult to justify.",
+      "publishedAt": "2026-09-23T09:01:43.000Z",
+      "articleId": "0b57fd9a250f1691"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
@@ -205,17 +284,6 @@
       "articleId": "a5457bf5f304e893"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/who-needs-a-starting-qb-not-seattle",
-      "title": "Who Needs a Starting QB? Not Seattle or Minnesota.",
-      "url": "https://neilpaine.substack.com/p/who-needs-a-starting-qb-not-seattle",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The Seahawks and Vikings are showing how to build a quarterback-proof contender — and even Kansas City is taking notes.",
-      "publishedAt": "2026-09-22T09:02:17.000Z",
-      "articleId": "6dddc19d27f37425"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
       "title": "The problem(s) with utilitarianism",
       "url": "https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
@@ -371,17 +439,6 @@
       "articleId": "5ed4cb20b3652de3"
     },
     {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
-      "title": "There Is Something We Have to Do Right Now About A.I.",
-      "url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.",
-      "publishedAt": "2026-09-20T21:46:16.000Z",
-      "articleId": "b99f663190a5feb9"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
       "title": "Expert ratings are ignoring signs of a blue wave",
       "url": "https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
@@ -472,17 +529,6 @@
       "summary": "I observed, for example, that when I got an invitation to travel to give a talk in a different time zone, it mattered what time zone I was in when I got the invitation. if well rested, in my home time zone, I would think, No big deal, about making a long trip and would […]",
       "publishedAt": "2026-09-20T06:38:59.000Z",
       "articleId": "73861fca18ebaf0e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought",
-      "title": "UK productivity higher than we had thought",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "UK productivity rose at almost twice the pace previously estimated in the decade after the 2008 global financial crisis, according to new official figures that make Britain look much less of an international outlier. Output per hour worked, the main measure of labour productivity, grew by an average of 1.3 per cent per year between […]",
-      "publishedAt": "2026-09-20T04:53:01.000Z",
-      "articleId": "a1328614265507a3"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
@@ -1059,17 +1105,6 @@
       "summary": "A manifesto.",
       "publishedAt": "2026-09-12T08:44:47.000Z",
       "articleId": "bad320b8ea1ac641"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ai1svee70l5mpyyux0yo.html",
-      "title": "Money Stuff: Dallas Gets Some Equities",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ai1svee70l5mpyyux0yo.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "TXSE There is arguably something a bit weird about stock exchanges as for-profit businesses. In the olden days, stock exchanges were often nonprofit members’ organizations: There’d be 20 stockbrokers in a city, and they would all meet up under a tree or on a sidewalk to trade stocks with each other, and then it would rain, and they’d be like “what if we traded stocks indoors,” and they’d find a building to trade stocks in, and they’d need to buy the building, so they’d all go in on it together as a sort of cooperative of stockbrokers. And they’d own the building, and they’d write rules governing how they traded stocks, and the stockbrokers would be members of the exchange and have a say over the rules. And the exchange would need money to pay for, like, building maintenance and stuff, so it would collect some fees from its members. And then eventually the exchanges realized that they could become for-profit public companies: They could raise the fees and turn a profit, and they could issue shares to the public, and the shares could be worth a lot of money (because of the profits), and the old memberships could be turned into shares, and the old nonprofit members could sell their shares for lots of money. And now most exchanges are big for-profit companies, and they operate online electronic exchanges rather than buildings where traders meet up. But the exchanges are also still sort of collectives of traders, in the sense that the trading activity that happens on the exchanges is still largely like 20 brokerages and trading firms trading stocks with each other. Now, though, instead of being member-owners of the exchange, the trading firms are just customers, and they pay fees to the exchanges, which then become profits for the exchanges’ shareholders. Occasionally the traders get annoyed by this. “Why should we pay big fees to for-profit exchange operators just to match our orders up with each other,” they ask. “We could just trade with each other without the exchange, and keep the fees for ourselves.” This dissatisfaction manifests in various ways. Sometimes it’s, like, trading firms objecting to exchanges’ fee increases . Mostly it’s off-exchange trading: Banks and trading firms and brokerages will use dark pools to trade among themselves, or will directly internalize retail customers’ orders , to save on exchange fees. But we have also talked once or twice about MEMX , the Members Exchange, a stock exchange whose basic pitch is (1) it’s owned by big banks and trading firms and (2) it charges low fees. This is not quite a return to the old nonprofit governance system. But maybe a little, kind of? Like the idea is roughly that the value of a stock exchange comes from the traders who meet there to trade stocks, so those traders should capture that...",
-      "publishedAt": "2026-09-12T03:28:32.716Z",
-      "articleId": "4308bddecc3f59cb"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/r3g9mzgc4uw4rq32lenm.html",
@@ -1966,18 +2001,6 @@
       "articleId": "5c6f89479b13add2"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
-      "title": "Do I really buy that Texas could turn blue?",
-      "url": "https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Some of the skepticism about James Talarico’s chances amounts to superstition. But I have one lingering concern about our forecast in Texas.",
-      "publishedAt": "2026-08-25T13:58:30.000Z",
-      "articleId": "6f6483088c252902"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
       "title": "Q but No Queens: An Album a Day",
       "url": "https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
@@ -2009,28 +2032,6 @@
       "summary": "...",
       "publishedAt": "2026-08-24T23:54:20.000Z",
       "articleId": "573f32ecc751bf65"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "title": "Twitter Broke the Left. X Will Break the Right.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Democrats paid a price for forming their politics on Twitter; people on the right will pay a price for forming theirs on X.",
-      "publishedAt": "2026-08-24T18:46:44.000Z",
-      "articleId": "62ab3ec8047e7531"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/t4vvj7nxlls8dkup97sl.html",
-      "title": "Knife Making In Sanjō (With Aiba Steel) | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/t4vvj7nxlls8dkup97sl.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "Knife Making In Sanjō (With Aiba Steel) | Kenji Eats Japan In pursuit of the perfect kitchen knife, we traveled to Tsubame-Sanjō, a world-famous metalworking region in Japan, with the help of some friends. Hi ... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Knife Making In Sanjō (With Aiba Steel) | Kenji Eats Japan J. Kenji López-Alt Aug 24, 2026 View in app View in app In pursuit of the perfect kitchen knife, we traveled to Tsubame-Sanjō, a world-famous metalworking region in Japan, with the help of some friends. Hi Frienjis, It’s Erin, Community & Content Manager here with a special episode of Kenji Eats Japan. So far in this series, we’ve brought you along to basement food courts and elegant tofu lunches, we’ve enjoyed Hokkaido milk flights and konbini taste tests, and we’ve made a whole lot of recipes inspired by our team’s travels through Japan earlier this year. But why were we in Japan to begin with? The story starts in Falls City, Oregon, and ends in Tsubame-Sanjō, Niigata Prefecture, Japan. Come along! A Series Of Fortunate Events A long time ago in a tiny Oregon town far, far away… Kenji met Gordon Hanson of Vonhelmick Knives by total happenstance during a road trip. Being a chef and artisan knife maker respectively, a friendship was quickly born, as was a beautiful knife partnership. At Vonhelmick, all knives are hand-forged and just as Gordon’s steel supply started to diminish, luck struck again in...",
-      "publishedAt": "2026-08-24T17:13:33.552Z",
-      "articleId": "4fc1e4a496c018f5"
     }
   ],
   "weather": {
@@ -2045,10 +2046,11 @@
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "Another cloudy, damp, and cool day puts summer farther back in the rearview mirror on this first full day of fall.",
-    "articleId": "3cb0d62fc056a2b8"
+    "articleId": "3cb0d62fc056a2b8",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-23T16:51:15.400Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-23T20:17:24.027Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2133,10 +2135,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
