@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T22:02:29.871Z",
-  "fetchedAt": "2026-09-22T22:02:29.867Z",
+  "generatedAt": "2026-09-23T00:25:41.564Z",
+  "fetchedAt": "2026-09-23T00:25:41.557Z",
   "sourceCount": 24,
-  "itemCount": 182,
-  "totalItemCount": 805,
+  "itemCount": 181,
+  "totalItemCount": 804,
   "items": [
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7621149/2026/09/22/new-york-giants-jaxson-dart-knee-injury-lost-season/",
@@ -1105,18 +1105,6 @@
       "articleId": "281deac49bdbfe4c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/911-was-a-hinge-point-of-history",
-      "title": "We’re still underrating 9/11’s impact",
-      "url": "https://www.slowboring.com/p/911-was-a-hinge-point-of-history",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Flukey events and eccentric decisions changed the world for the worse forever.",
-      "publishedAt": "2026-09-11T10:03:13.000Z",
-      "articleId": "2dfe2d6f30648881"
-    },
-    {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/l45p46cgb0dmlkeo2ea4.html",
       "title": "The Brew Shop - Weekly Email Update",
       "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/l45p46cgb0dmlkeo2ea4.html",
@@ -2059,7 +2047,7 @@
     "dailyDigitSummary": "Autumn's first notes are a soggy song, with our coolest weather since May. But hey, it's that old refrain that we need this rain!",
     "articleId": "0d845f1dd1b8f627"
   },
-  "weatherGeneratedAt": "2026-09-22T22:02:29.871Z",
+  "weatherGeneratedAt": "2026-09-23T00:25:41.564Z",
   "weatherError": null,
   "sources": [
     {
@@ -2170,7 +2158,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
