@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-23T00:25:41.564Z",
-  "fetchedAt": "2026-09-23T00:25:41.557Z",
+  "generatedAt": "2026-09-23T05:55:15.716Z",
+  "fetchedAt": "2026-09-23T05:55:15.713Z",
   "sourceCount": 24,
-  "itemCount": 181,
+  "itemCount": 182,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Constance Reid, Hilbert. We should all be reading more mathematics these days, right? Because the field is “on fire.” Hilbert is not a bad place to start, and I found this book clear and biographical in a good way. It is less on the math and more closely tied to broader German history. Soon […]",
+      "publishedAt": "2026-09-23T04:40:51.000Z",
+      "articleId": "6bb4f40be0bb938d"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
+      "title": "Mysteries Of AI Generalization",
+      "url": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-23T01:07:40.000Z",
+      "articleId": "860fb819a655376b"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7621149/2026/09/22/new-york-giants-jaxson-dart-knee-injury-lost-season/",
       "title": "Jaxson Dart injury doesn’t just doom Giants’ season, it clouds their future, too",
@@ -463,17 +485,6 @@
       "summary": "AirBnB’s housing accelerator, rising steel prices, a resurgence of US coal power, low-head dams, and more.",
       "publishedAt": "2026-09-19T12:03:09.000Z",
       "articleId": "266a44d2d9d3fd86"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors",
-      "title": "The Age of Wonders and Terrors",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Scott Aaranson, theoretical computer scientist writes: My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA It seems to me that the Singularity has already started; […]",
-      "publishedAt": "2026-09-19T11:17:18.000Z",
-      "articleId": "6dbee29daf057758"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
@@ -2035,19 +2046,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cool-and-wet-as-fall-begins-nicer-late-week/",
-    "title": "DC-area forecast: Cool and wet as fall begins; improvement late week",
+    "title": "DC-area forecast: Cool and wet into Wednesday as fall begins; drier late week",
     "url": "https://www.capitalweather.com/dc-area-forecast-cool-and-wet-as-fall-begins-nicer-late-week/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Cloudy with plentiful light rain through evening, cool temperatures fairly steady in the upper 50s to low 60s, and breezy winds from the northeast. Fall officially begins this evening at 8:05 p.m.",
+    "summary": "HAPPENING NOW: Cloudy with plentiful light rain through evening, cool temperatures fairly steady in the upper 50s to low 60s, and breezy winds from the northeast. Fall officially began this evening at 8:05 p.m.",
     "publishedAt": "2026-09-22T09:00:24.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "Autumn's first notes are a soggy song, with our coolest weather since May. But hey, it's that old refrain that we need this rain!",
     "articleId": "0d845f1dd1b8f627"
   },
-  "weatherGeneratedAt": "2026-09-23T00:25:41.564Z",
+  "weatherGeneratedAt": "2026-09-23T05:55:15.716Z",
   "weatherError": null,
   "sources": [
     {
