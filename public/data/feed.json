@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-23T20:17:24.027Z",
-  "fetchedAt": "2026-09-23T20:17:24.024Z",
+  "generatedAt": "2026-09-23T23:38:27.991Z",
+  "fetchedAt": "2026-09-23T23:38:27.988Z",
   "sourceCount": 24,
   "itemCount": 181,
-  "totalItemCount": 805,
+  "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-master-of-industrial-organization",
+      "title": "From the Master of Industrial Organization",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Believing that AI will be incorrigible leads us to proposing the wrong solutions, including ones which are likely to increase the danger than decrease it. I think that an AI pause is using the wrong method to fix an ill-posed problem. The point of a pause would be to research AI until we have a […]",
+      "publishedAt": "2026-09-23T21:40:20.000Z",
+      "articleId": "10a02c680f4b8512"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/do-republicans-really-have-a-money",
       "title": "Do Republicans really have a money advantage?",
@@ -16,6 +27,17 @@
       "summary": "They have massive amounts of outside spending, but their candidates are consistently being outraised by Democrats.",
       "publishedAt": "2026-09-23T20:01:32.000Z",
       "articleId": "d77c9eed4e473bda"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/wanna-bet",
+      "title": "Wanna bet?",
+      "url": "https://scottsumner.substack.com/p/wanna-bet",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "And do we even have a choice?",
+      "publishedAt": "2026-09-23T19:18:28.000Z",
+      "articleId": "958eb4a6ab599a36"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cmhzyayiwhoiz2ne78i4.html",
@@ -63,12 +85,12 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7623242/2026/09/23/new-york-giants-jaxson-dart-knee-surgery/",
-      "title": "Giants’ Jaxson Dart to have knee surgery that will likely end season: Sources",
+      "title": "Giants' Jaxson Dart to undergo knee surgery, miss regular season",
       "url": "https://www.nytimes.com/athletic/7623242/2026/09/23/new-york-giants-jaxson-dart-knee-surgery/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
       "access": "paywalled",
-      "summary": "Dart suffered a significant injury in the first quarter of the Giants’ loss to the Rams on Monday night.",
+      "summary": "While Dart is out for the regular season, Giants coach John Harbaugh left the door open for the QB to return if NY makes the playoffs.",
       "publishedAt": "2026-09-23T16:52:26.000Z",
       "articleId": "41cbfe30270d1f7e"
     },
@@ -518,17 +540,6 @@
       "summary": "The trick is to let them beat themselves.",
       "publishedAt": "2026-09-20T09:51:30.000Z",
       "articleId": "3e898c2057b3377b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps",
-      "title": "Empathy gaps",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I observed, for example, that when I got an invitation to travel to give a talk in a different time zone, it mattered what time zone I was in when I got the invitation. if well rested, in my home time zone, I would think, No big deal, about making a long trip and would […]",
-      "publishedAt": "2026-09-20T06:38:59.000Z",
-      "articleId": "73861fca18ebaf0e"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
@@ -1069,18 +1080,6 @@
       "summary": "Back at the OG version of FiveThirtyEight.com in 2008, we ran a daily feature called “Today’s Polls”.",
       "publishedAt": "2026-09-12T17:17:38.000Z",
       "articleId": "1d7eccb9cbab2e6b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
-      "title": "What I’ve learned after a year covering housing",
-      "url": "https://www.slowboring.com/p/what-ive-learned-after-a-year-covering",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Abundance is mainstream, but it is fragile.",
-      "publishedAt": "2026-09-12T13:03:58.000Z",
-      "articleId": "18828c3487d72ea1"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09122026",
@@ -2036,21 +2035,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-2/",
-    "title": "DC-area forecast: Cloudy and cool with a spotty shower today; brighter and a bit warmer tomorrow",
+    "title": "DC-area forecast: Cool, breezy, and some clearing tonight; brighter plus a bit warmer tomorrow",
     "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-2/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with just a spotty shower or two possible into this afternoon. Afternoon highs stall in the upper 50s to mid-60s with an occasionally gusty breeze.",
+    "summary": "HAPPENING NOW: Mostly cloudy through evening, as temperatures slowly dip back from highs around 60 to the mid-60s. An occasionally gusty breeze continues.",
     "publishedAt": "2026-09-23T09:00:28.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Another cloudy, damp, and cool day puts summer farther back in the rearview mirror on this first full day of fall.",
-    "articleId": "3cb0d62fc056a2b8",
-    "stale": true
+    "dailyDigitSummary": "Another cloudy and cool day puts summer farther back in the rearview mirror on this first full day of fall.",
+    "articleId": "3cb0d62fc056a2b8"
   },
-  "weatherGeneratedAt": "2026-09-23T20:17:24.027Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-23T23:38:27.991Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2160,7 +2158,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
