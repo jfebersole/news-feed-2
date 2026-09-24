@@ -1,20 +1,100 @@
 {
-  "generatedAt": "2026-09-24T09:56:10.715Z",
-  "fetchedAt": "2026-09-24T09:56:10.710Z",
+  "generatedAt": "2026-09-24T15:00:13.829Z",
+  "fetchedAt": "2026-09-24T15:00:13.825Z",
   "sourceCount": 24,
-  "itemCount": 183,
+  "itemCount": 182,
   "totalItemCount": 804,
   "items": [
     {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/the-blue-wave-is-mostly-in-red-states",
+      "title": "The blue wave is mostly in red states. That’s a little weird.",
+      "url": "https://www.natesilver.net/p/the-blue-wave-is-mostly-in-red-states",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Still Counting EP3. Plus some quick thoughts on that NYT poll in Maine.",
+      "publishedAt": "2026-09-24T14:59:27.000Z",
+      "articleId": "2451192bcd774dd8"
+    },
+    {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
-      "title": "What Pete Hegseth Is Hiding",
+      "title": "What Hegseth Is Hiding",
       "url": "https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
       "source": "David French (NYT)",
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "Soldiers want to tell their stories, and we need to hear them.",
-      "publishedAt": "2026-09-24T09:03:09.000Z",
+      "publishedAt": "2026-09-24T13:05:28.000Z",
       "articleId": "5111a386b221d030"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7624976/2026/09/24/new-york-giants-jaxson-dart-trade-jameis-winston-jj-mccarthy/",
+      "title": "Giants would be foolish to make desperate QB trade in wake of Jaxson Dart injury",
+      "url": "https://www.nytimes.com/athletic/7624976/2026/09/24/new-york-giants-jaxson-dart-trade-jameis-winston-jj-mccarthy/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "It’s fair to be spooked by Jameis Winston’s rough performance Monday, but the Giants shouldn't consider dealing away precious draft capital.",
+      "publishedAt": "2026-09-24T11:16:37.000Z",
+      "articleId": "af70aeabbf206b7a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation",
+      "title": "CA 91326: A Public Choice Mystery Investigation",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Carl Danner writes to me with a political economy mystery. On Sept 9, 2026, The California Public Utilities Commission announced a set of clean energy grants but only “for eligible organizations headquartered in ZIP Code 91326.” I decided to investigate with ChatGPT. The first thing we discovered is that: The ZIP-code restriction is about the […]",
+      "publishedAt": "2026-09-24T11:15:32.000Z",
+      "articleId": "8ae993d9c3604566"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-ai-apocalypse-canon-and-why-it",
+      "title": "The A.I. apocalypse canon and why it matters",
+      "url": "https://www.slowboring.com/p/the-ai-apocalypse-canon-and-why-it",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "We have always known that recursive self-improvement is dangerous.",
+      "publishedAt": "2026-09-24T10:02:49.000Z",
+      "articleId": "d3f0969f9819de64"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
+      "title": "“The Argument” podcast, ad-free: Is the A.I. apocalypse coming for us all?",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "This page is for podcast-feed delivery only.",
+      "publishedAt": "2026-09-24T10:02:47.000Z",
+      "articleId": "38caa0c0f1c31879"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "articleId": "ae6927f8c429134e"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-market-believes-in-the-dodgers",
+      "title": "The Market Believes In the Dodgers. Not So Much the Brewers, Rays, White Sox and Cubs.",
+      "url": "https://neilpaine.substack.com/p/the-market-believes-in-the-dodgers",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Look at 2026 results, and Milwaukee is a co-favorite. Expand the lens, and the Dodgers are still obviously the team to beat.",
+      "publishedAt": "2026-09-24T09:02:14.000Z",
+      "articleId": "f248b057078dc4ea"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data",
@@ -192,18 +272,6 @@
       "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "articleId": "836e43d312ea7666"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/does-baseball-still-need-divisions",
-      "title": "Does Baseball Still Need Divisions To Matter This Much?",
-      "url": "https://neilpaine.substack.com/p/does-baseball-still-need-divisions",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "MLB has expanded its playoffs and balanced its schedule, making outsized rewards for division winners increasingly difficult to justify.",
-      "publishedAt": "2026-09-23T09:01:43.000Z",
-      "articleId": "0b57fd9a250f1691"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
@@ -503,17 +571,6 @@
       "summary": "The hype will soar off the charts if the Giants improve to 2-0 with a win over the Super Bowl favorite Los Angeles Rams on Monday night.",
       "publishedAt": "2026-09-21T09:30:54.000Z",
       "articleId": "bc64e6ff0debcafe"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai",
-      "title": "Obama on agentic AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Obama recently said: “If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet.” As Roon noted: “this sounds completely incoherent to me” From Rob Saker: An agent is a […]",
-      "publishedAt": "2026-09-21T04:11:54.000Z",
-      "articleId": "5ed4cb20b3652de3"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
@@ -1025,17 +1082,6 @@
       "articleId": "0c19917afeab709c"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from",
-      "title": "A simple plan to save the world from rogue A.I.",
-      "url": "https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Plus a not-so-simple plan to save the world from rogue A.I.",
-      "publishedAt": "2026-09-14T10:03:04.000Z",
-      "articleId": "1e7e937a9fb9562e"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7593026/2026/09/14/jaxson-dart-giants-complete-quarterback-win-cowboys/",
       "title": "Giants' Jaxson Dart aces first test, delivers flawless encore to promising rookie year",
       "url": "https://www.nytimes.com/athletic/7593026/2026/09/14/jaxson-dart-giants-complete-quarterback-win-cowboys/",
@@ -1078,18 +1124,6 @@
       "summary": "We need to make skeptics properly scared. And we need to make CHINA properly scared.",
       "publishedAt": "2026-09-14T01:43:28.000Z",
       "articleId": "161e257985cbe225"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-9e2",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-9e2",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-09-13T17:01:52.000Z",
-      "articleId": "ac88c056a87316dd"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-process-is-the-point",
@@ -1292,17 +1326,6 @@
       "summary": "To become what the Giants need him to be, Dart must master aspects of the quarterback position he's largely unfamiliar with.",
       "publishedAt": "2026-09-10T10:00:48.000Z",
       "articleId": "1dbcdd12a7deb3db"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
-      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
-      "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
-      "publishedAt": "2026-09-10T10:00:00.000Z",
-      "articleId": "a273c631b90239b0"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/inside-elways-2026-nfl-forecast",
@@ -1845,18 +1868,6 @@
       "articleId": "db18557a57f304bb"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
-      "title": "A tour of the 9 key governor races",
-      "url": "https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Democrats are almost certain to govern more Americans than Republicans, but can they flip swing states like Georgia?",
-      "publishedAt": "2026-08-28T19:59:24.000Z",
-      "articleId": "b5a7d25ff6885e7e"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
       "title": "Your Book Review: Thomas Urquhart’s Translation Of Rabelais",
       "url": "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
@@ -2031,28 +2042,6 @@
       "summary": "...",
       "publishedAt": "2026-08-25T16:03:47.000Z",
       "articleId": "5c6f89479b13add2"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
-      "title": "Q but No Queens: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/q-but-no-queens-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Quiet Riot, Quinn XCII, and Quincy Jones, among others",
-      "publishedAt": "2026-08-25T13:31:24.000Z",
-      "articleId": "6cb6c65f1ac2e570"
-    },
-    {
-      "id": "Maximum Progress:https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
-      "title": "Contra Weisenthal on Highways",
-      "url": "https://www.maximum-progress.com/p/contra-weisenthal-on-highways",
-      "source": "Maximum Progress",
-      "sourceUrl": "https://www.maximum-progress.com/",
-      "access": "open",
-      "summary": "Does it matter whether building more houses lowers prices not?",
-      "publishedAt": "2026-08-25T12:01:24.000Z",
-      "articleId": "1ec9c10e2b09d636"
     }
   ],
   "weather": {
@@ -2069,7 +2058,7 @@
     "dailyDigitSummary": "Partial sunshine feels like a big win after several days dominated by rain and clouds.",
     "articleId": "e892370717de9c6a"
   },
-  "weatherGeneratedAt": "2026-09-24T09:56:10.715Z",
+  "weatherGeneratedAt": "2026-09-24T15:00:13.829Z",
   "weatherError": null,
   "sources": [
     {
