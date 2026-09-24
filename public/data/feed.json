@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-24T19:05:21.099Z",
-  "fetchedAt": "2026-09-24T19:05:21.096Z",
+  "generatedAt": "2026-09-24T22:21:45.305Z",
+  "fetchedAt": "2026-09-24T22:21:45.302Z",
   "sourceCount": 24,
-  "itemCount": 182,
-  "totalItemCount": 804,
+  "itemCount": 181,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-specter-of-neuralese",
+      "title": "The Specter Of Neuralese",
+      "url": "https://www.astralcodexten.com/p/the-specter-of-neuralese",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-24T22:12:39.000Z",
+      "articleId": "f3e443749a254a28"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2",
       "title": "Earth fact of the day",
@@ -1058,18 +1069,6 @@
       "articleId": "d49d53bfc29104b5"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/bay-area-officials-want-more-housing",
-      "title": "Bay Area officials want more housing to keep up with the A.I. boom. One developer sees a different opportunity.",
-      "url": "https://www.slowboring.com/p/bay-area-officials-want-more-housing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "As the A.I. industry pushes up costs in San Francisco, one developer has opted to lean in and build office space for the city’s wealthy new tenants.",
-      "publishedAt": "2026-09-14T22:01:53.000Z",
-      "articleId": "3f15efad752c725b"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
       "title": "The Fix Was Almost In",
       "url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html",
@@ -2031,17 +2030,6 @@
       "summary": "How San Francisco turned its most iconic street into a giant empty scar.",
       "publishedAt": "2026-08-26T09:12:35.000Z",
       "articleId": "9697dcd040e053f7"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
-      "title": "Giants slot receiver Calvin Austin III tears ACL, will miss 2026 season",
-      "url": "https://www.nytimes.com/athletic/7538282/2026/08/25/new-york-giants-calvin-austin-iii-acl-odell-beckham/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Giants wide receivers and defensive backs couldn’t even look as trainers attended to Austin.",
-      "publishedAt": "2026-08-25T19:14:56.000Z",
-      "articleId": "b4fb6e7d6ed5dd0a"
     }
   ],
   "weather": {
@@ -2059,7 +2047,7 @@
     "articleId": "e892370717de9c6a",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-09-24T19:05:21.099Z",
+  "weatherGeneratedAt": "2026-09-24T22:21:45.305Z",
   "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
@@ -2170,7 +2158,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
