@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-23T23:38:27.991Z",
-  "fetchedAt": "2026-09-23T23:38:27.988Z",
+  "generatedAt": "2026-09-24T04:39:55.533Z",
+  "fetchedAt": "2026-09-24T04:39:55.530Z",
   "sourceCount": 24,
   "itemCount": 181,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "title": "Does Georgism Work? Five Years Later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "A guest post by Lars Doucet",
+      "publishedAt": "2026-09-24T03:16:49.000Z",
+      "articleId": "78ecb1011f970c45"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-master-of-industrial-organization",
       "title": "From the Master of Industrial Organization",
@@ -2020,17 +2031,6 @@
       "summary": "Does it matter whether building more houses lowers prices not?",
       "publishedAt": "2026-08-25T12:01:24.000Z",
       "articleId": "1ec9c10e2b09d636"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
-      "title": "Re: Re: Re: Pritchard On Liberal Happiness",
-      "url": "https://www.astralcodexten.com/p/re-re-re-pritchard-on-liberal-happiness",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-24T23:54:20.000Z",
-      "articleId": "573f32ecc751bf65"
     }
   ],
   "weather": {
@@ -2047,7 +2047,7 @@
     "dailyDigitSummary": "Another cloudy and cool day puts summer farther back in the rearview mirror on this first full day of fall.",
     "articleId": "3cb0d62fc056a2b8"
   },
-  "weatherGeneratedAt": "2026-09-23T23:38:27.991Z",
+  "weatherGeneratedAt": "2026-09-24T04:39:55.533Z",
   "weatherError": null,
   "sources": [
     {
