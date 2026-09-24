@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-24T04:39:55.533Z",
-  "fetchedAt": "2026-09-24T04:39:55.530Z",
+  "generatedAt": "2026-09-24T09:56:10.715Z",
+  "fetchedAt": "2026-09-24T09:56:10.710Z",
   "sourceCount": 24,
-  "itemCount": 181,
+  "itemCount": 183,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
+      "title": "What Pete Hegseth Is Hiding",
+      "url": "https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Soldiers want to tell their stories, and we need to hear them.",
+      "publishedAt": "2026-09-24T09:03:09.000Z",
+      "articleId": "5111a386b221d030"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data",
+      "title": "*Fear of Data*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Omri Ben-Shahar, and the subtitle is How Privacy Panic Led Tech Regulation Astray — and How to Fix It. I would describe this book as bracing, and full of substantive engagement. Basically the author wishes to give privacy considerations less weight in social decisions. Excerpt: What is the concrete evidence for the […]",
+      "publishedAt": "2026-09-24T08:24:05.000Z",
+      "articleId": "8cf5925deb60622d"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
+      "title": "No, you are not on Indigenous land",
+      "url": "https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A repost from 2024.",
+      "publishedAt": "2026-09-24T07:44:38.000Z",
+      "articleId": "1b471172353d3754"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=my-economics-rich-conversation-with-gita-gopinath",
+      "title": "My economics-rich Conversation with Gita Gopinath",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is the episode summary: Gita Gopinath has spent the last several years inside the room where the world’s monetary plumbing gets fixed — or doesn’t. As first deputy managing director of the IMF and, before that, the Fund’s chief economist, she worked on sovereign debt restructuring, followed […]",
+      "publishedAt": "2026-09-24T04:41:41.000Z",
+      "articleId": "a27dd7b8f7062efe"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "title": "Does Georgism Work? Five Years Later",
@@ -484,17 +528,6 @@
       "articleId": "4a3dcec638b6b28f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Nobel Laureates in support of the California billionaire wealth tax include Krugman, Acemoglu, Diamond, Stiglitz, Banerjee, and Duflo (FT). 2. Secretariat as GOAT. 3. Dead brains and the piano?? 4. “A real contribution of AI is showing the critical weaknesses of humans and human structures.” But can we take it? 5. When did the […]",
-      "publishedAt": "2026-09-20T17:42:50.000Z",
-      "articleId": "41eaafde76987f63"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7613893/2026/09/20/ernie-accorsi-ny-giants-obituary/",
       "title": "Ernie Accorsi, former Giants GM who traded for Eli Manning, dies at 84",
       "url": "https://www.nytimes.com/athletic/7613893/2026/09/20/ernie-accorsi-ny-giants-obituary/",
@@ -516,17 +549,6 @@
       "summary": "Ask your questions below.",
       "publishedAt": "2026-09-20T17:00:51.000Z",
       "articleId": "4d4c9375e1075edb"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse",
-      "title": "Muse",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/muse.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "It is excellent. It has one of the best user interfaces I have seen on any product. The model is good and the speed and clarity exemplary. It integrates with your calendar and email, if that is want you want, very easily and smoothly. It all feels very…American. Kudos to the team!",
-      "publishedAt": "2026-09-20T15:46:21.000Z",
-      "articleId": "7e9094c01d8c258d"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/going-to-graceland-a-conversation",
@@ -2034,20 +2056,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-2/",
-    "title": "DC-area forecast: Cool, breezy, and some clearing tonight; brighter plus a bit warmer tomorrow",
-    "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-2/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-sun-is-back-today-as-temperatures-slowly-moderate-into-friday/",
+    "title": "DC-area forecast: Some sun is back today as temperatures slowly warm into Friday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-sun-is-back-today-as-temperatures-slowly-moderate-into-friday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy through evening, as temperatures slowly dip back from highs around 60 to the mid-60s. An occasionally gusty breeze continues.",
-    "publishedAt": "2026-09-23T09:00:28.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "Another cloudy and cool day puts summer farther back in the rearview mirror on this first full day of fall.",
-    "articleId": "3cb0d62fc056a2b8"
+    "summary": "HAPPENING NOW: A crisp, breezy start comes with a welcome return of at least partial sunshine after days of gloom. Highs reach the low to mid-60s.",
+    "publishedAt": "2026-09-24T09:00:05.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Partial sunshine feels like a big win after several days dominated by rain and clouds.",
+    "articleId": "e892370717de9c6a"
   },
-  "weatherGeneratedAt": "2026-09-24T04:39:55.533Z",
+  "weatherGeneratedAt": "2026-09-24T09:56:10.715Z",
   "weatherError": null,
   "sources": [
     {
