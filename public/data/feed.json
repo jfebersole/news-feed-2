@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-24T22:21:45.305Z",
-  "fetchedAt": "2026-09-24T22:21:45.302Z",
+  "generatedAt": "2026-09-25T01:26:06.680Z",
+  "fetchedAt": "2026-09-25T01:26:06.676Z",
   "sourceCount": 24,
   "itemCount": 181,
   "totalItemCount": 803,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation",
+      "title": "Peter Thiel on AI and tech stagnation and democracy",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Lots of fresh material, one of the very best Peter Thiel outputs.",
+      "publishedAt": "2026-09-24T23:31:20.000Z",
+      "articleId": "57133c0c36fb3cb7"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-specter-of-neuralese",
       "title": "The Specter Of Neuralese",
@@ -549,17 +560,6 @@
       "summary": "Buyers have leverage they can’t use, but developers have a socialist mayor they can. Americans love housing and hate data centers, but the country seems to feel the opposite. Everything’s weird.",
       "publishedAt": "2026-09-21T22:01:26.000Z",
       "articleId": "a8dabe3936c83ffa"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation",
-      "title": "Further results on AI and labor market reallocation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper documents how artificial intelligence has affected stocks and flows in the U.S. labor market. Combining CPS and JOLTS data with AI exposure and adoption measures from OpenAI and Lightcast, respectively, we construct labor force stocks, worker flows, and market tightness by AI exposure and adoption. Since the introduction of LLMs, workers with high […]",
-      "publishedAt": "2026-09-21T18:49:42.000Z",
-      "articleId": "5426cd9f7b9bb9bd"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
@@ -2034,21 +2034,20 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-sun-is-back-today-as-temperatures-slowly-moderate-into-friday/",
-    "title": "DC-area forecast: Some sun is back today as temperatures slowly warm into Friday",
+    "title": "DC-area forecast: Slowly warmer into Friday. On the edge of a coastal storm this weekend.",
     "url": "https://www.capitalweather.com/dc-area-forecast-sun-is-back-today-as-temperatures-slowly-moderate-into-friday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A crisp, breezy start comes with a welcome return of at least partial sunshine after days of gloom. Highs reach the low to mid-60s.",
+    "summary": "HAPPENING NOW: A pause in the gusty breeze as evening 50s drop to overnight lows in the upper 40s to low 50s.",
     "publishedAt": "2026-09-24T09:00:05.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Partial sunshine feels like a big win after several days dominated by rain and clouds.",
-    "articleId": "e892370717de9c6a",
-    "stale": true
+    "articleId": "e892370717de9c6a"
   },
-  "weatherGeneratedAt": "2026-09-24T22:21:45.305Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-25T01:26:06.680Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
