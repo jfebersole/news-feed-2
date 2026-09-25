@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T18:31:56.212Z",
-  "fetchedAt": "2026-09-25T18:31:56.201Z",
+  "generatedAt": "2026-09-25T22:15:28.478Z",
+  "fetchedAt": "2026-09-25T22:15:28.474Z",
   "sourceCount": 24,
-  "itemCount": 183,
+  "itemCount": 182,
   "totalItemCount": 804,
   "items": [
     {
@@ -2042,34 +2042,23 @@
       "summary": "The US Strategic Petroleum Reserve (SPR) is the largest crude oil storage facility in the world.",
       "publishedAt": "2026-08-27T12:03:58.000Z",
       "articleId": "8fbebf38766ccb95"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
-      "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Four years at Harvard won’t corrupt your children.",
-      "publishedAt": "2026-08-26T18:49:44.000Z",
-      "articleId": "e12791ef863cb68e"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-decent-today-coastal-storm-may-bring-a-few-showers-late-saturday-more-sunday/",
-    "title": "DC-area forecast: Decent today; coastal storm may bring a few showers late Saturday, more Sunday",
+    "title": "DC-area forecast: Coastal storm to deliver waves of showers Saturday afternoon through Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-decent-today-coastal-storm-may-bring-a-few-showers-late-saturday-more-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Brighter and breezy today, with afternoon highs climbing to near 70 to the mid-70s. Winds from the north may gust to near 25 mph.",
+    "summary": "HAPPENING NOW: Falling from the 70s into the 60s this evening as breezy conditions persist.",
     "publishedAt": "2026-09-25T09:00:01.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Mainly bright but breezy. Still, it’s plenty comfortable with temperatures up a handful of degrees from yesterday.",
     "articleId": "f4f445372d63f25b"
   },
-  "weatherGeneratedAt": "2026-09-25T18:31:56.212Z",
+  "weatherGeneratedAt": "2026-09-25T22:15:28.478Z",
   "weatherError": null,
   "sources": [
     {
