@@ -1,10 +1,56 @@
 {
-  "generatedAt": "2026-09-25T07:42:28.692Z",
-  "fetchedAt": "2026-09-25T07:42:28.689Z",
+  "generatedAt": "2026-09-25T13:41:16.826Z",
+  "fetchedAt": "2026-09-25T13:41:16.821Z",
   "sourceCount": 24,
   "itemCount": 181,
   "totalItemCount": 803,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body",
+      "title": "*My Dreadful Body*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "By Egana Djabbarova of Azerbaijan. A wonderful short novel, and as described by Olga Grjasnowa “An extraordinary novel that translates corporality and estrangement into language.” Here is the Amazon link. This has been a fantastic year for fiction, and in November I will be writing up a report.",
+      "publishedAt": "2026-09-25T10:08:21.000Z",
+      "articleId": "f49adc27b12690c8"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/getting-to-yes-with-iran",
+      "title": "Getting to yes with Iran",
+      "url": "https://www.slowboring.com/p/getting-to-yes-with-iran",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus better local elections, banning online gambling, and F.D.R.’s legacy",
+      "publishedAt": "2026-09-25T10:01:28.000Z",
+      "articleId": "c8f8d797d5c2ef8f"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7628353/2026/09/25/giants-titans-john-harbaugh-jameis-winston/",
+      "title": "Giants' season hinges on John Harbaugh after Jaxson Dart injury",
+      "url": "https://www.nytimes.com/athletic/7628353/2026/09/25/giants-titans-john-harbaugh-jameis-winston/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "With the second-year quarterback out, the Giants need Harbaugh to steady the ship over a soft stretch that begins against the Titans.",
+      "publishedAt": "2026-09-25T10:00:52.000Z",
+      "articleId": "2cd1f9e7fb6856c7"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/four-eras-of-san-francisco-tech-culture",
+      "title": "Four eras of San Francisco tech culture",
+      "url": "https://www.noahpinion.blog/p/four-eras-of-san-francisco-tech-culture",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "An anthropological reflection.",
+      "publishedAt": "2026-09-25T08:29:29.000Z",
+      "articleId": "30b2e363bb2b7f80"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup",
       "title": "Fall Meetups 2026 - Call For Meetup Organizers",
@@ -470,17 +516,6 @@
       "summary": "Featuring Tom Petty, Diana Ross, New Order, and others",
       "publishedAt": "2026-09-22T13:30:51.000Z",
       "articleId": "a7272b410ace629c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie",
-      "title": "Dartmouth Provost okie-dokie",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "On Aug. 26, a Semafor investigation using Pangram to determine whether recent guest columns in major newspapers were written using artificial intelligence identified a column by Schnell as “100% AI-written.” Schnell’s column in The Washington Post — titled “Universities are fighting AI cheating. But there’s a deeper problem.” — argued that “a degree should distinguish what students can do […]",
-      "publishedAt": "2026-09-22T12:20:22.000Z",
-      "articleId": "4f6c714de8ef35cb"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7619394/2026/09/22/giants-extremes-loss-rams-monday-night-football/",
@@ -1044,18 +1079,6 @@
       "summary": "The most encouraging aspect of Sunday’s win over the Cowboys was how much the game fit the vision Harbaugh has outlined since his arrival.",
       "publishedAt": "2026-09-15T10:30:06.000Z",
       "articleId": "db778a21c50dbfff"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sanctions-on-west-bank-settlements",
-      "title": "Sanctions on West Bank settlements aren’t enough",
-      "url": "https://www.slowboring.com/p/sanctions-on-west-bank-settlements",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Unfortunately, the Israeli-Palestinian conflict turns out to be a difficult problem.",
-      "publishedAt": "2026-09-15T10:02:03.000Z",
-      "articleId": "649848ee17a0a398"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
@@ -2008,45 +2031,23 @@
       "summary": "Four years at Harvard won’t corrupt your children.",
       "publishedAt": "2026-08-26T18:49:44.000Z",
       "articleId": "e12791ef863cb68e"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
-      "title": "A future of programmable medicine",
-      "url": "https://www.worksinprogress.news/p/switch-off-a-gene-of-your-choice",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "What if instead of editing a gene, or blocking the protein it produces, you could simply switch it off?",
-      "publishedAt": "2026-08-26T12:04:33.000Z",
-      "articleId": "c3fdda281a297838"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-death-of-market-street",
-      "title": "The death of Market Street",
-      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "How San Francisco turned its most iconic street into a giant empty scar.",
-      "publishedAt": "2026-08-26T09:12:35.000Z",
-      "articleId": "9697dcd040e053f7"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-sun-is-back-today-as-temperatures-slowly-moderate-into-friday/",
-    "title": "DC-area forecast: Slowly warmer into Friday. On the edge of a coastal storm this weekend.",
-    "url": "https://www.capitalweather.com/dc-area-forecast-sun-is-back-today-as-temperatures-slowly-moderate-into-friday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-decent-today-coastal-storm-may-bring-a-few-showers-late-saturday-more-sunday/",
+    "title": "DC-area forecast: Decent today; coastal storm may bring a few showers late Saturday, more Sunday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-decent-today-coastal-storm-may-bring-a-few-showers-late-saturday-more-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A pause in the gusty breeze as evening 50s drop to overnight lows in the upper 40s to low 50s.",
-    "publishedAt": "2026-09-24T09:00:05.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Partial sunshine feels like a big win after several days dominated by rain and clouds.",
-    "articleId": "e892370717de9c6a"
+    "summary": "HAPPENING NOW: Bright and breezy today, with morning 40s and 50s climbing to highs near 70 to the mid-70s. Winds from the north may gust to near 25 mph.",
+    "publishedAt": "2026-09-25T09:00:01.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "Mainly bright but breezy. Still, it’s plenty comfortable with temperatures up a handful of degrees from yesterday.",
+    "articleId": "f4f445372d63f25b"
   },
-  "weatherGeneratedAt": "2026-09-25T07:42:28.692Z",
+  "weatherGeneratedAt": "2026-09-25T13:41:16.826Z",
   "weatherError": null,
   "sources": [
     {
