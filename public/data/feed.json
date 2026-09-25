@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-25T01:26:06.680Z",
-  "fetchedAt": "2026-09-25T01:26:06.676Z",
+  "generatedAt": "2026-09-25T07:42:28.692Z",
+  "fetchedAt": "2026-09-25T07:42:28.689Z",
   "sourceCount": 24,
   "itemCount": 181,
   "totalItemCount": 803,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup",
+      "title": "Fall Meetups 2026 - Call For Meetup Organizers",
+      "url": "https://www.astralcodexten.com/p/fall-meetups-2026-call-for-meetup",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-09-25T06:06:18.000Z",
+      "articleId": "afee195446369e11"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes",
+      "title": "Armenia notes",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I strongly recommend a trip to Armenia, now is a great time to go. Here are a few things I noticed: 1. The country remains intellectual. The book fair is well attended. The classical music season is excellent, with good concerts multiple times a week, and the theatre scene, in both Armenian and Russian, is […]",
+      "publishedAt": "2026-09-25T04:52:17.000Z",
+      "articleId": "ac84cefc1239233f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation",
       "title": "Peter Thiel on AI and tech stagnation and democracy",
@@ -515,17 +537,6 @@
       "summary": "Our favorite moral philosophy is about to come under increasing strain.",
       "publishedAt": "2026-09-22T08:53:46.000Z",
       "articleId": "b2084f5e6d105206"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models",
-      "title": "Banning self-recursive improvement in AI models?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Some people are suggesting this, including Ezra Klein. I do not understand how it is supposed to work. Put aside the issue of foregone innovations, let us say I seek to access an AI from overseas. Am I allowed to visit their website? So many sites have AI behind them, including Chinese open source AI. […]",
-      "publishedAt": "2026-09-22T04:45:57.000Z",
-      "articleId": "211f28f065b7bd79"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7619143/2026/09/21/rams-giants-nfl-2026-score-result-takeaways/",
@@ -1988,17 +1999,6 @@
       "articleId": "8fbebf38766ccb95"
     },
     {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/take-the-2026-acx-survey",
-      "title": "Take The 2026 ACX Survey",
-      "url": "https://www.astralcodexten.com/p/take-the-2026-acx-survey",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-08-27T07:16:18.000Z",
-      "articleId": "6fb8a8f208e6a490"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
       "title": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
       "url": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
@@ -2046,7 +2046,7 @@
     "dailyDigitSummary": "Partial sunshine feels like a big win after several days dominated by rain and clouds.",
     "articleId": "e892370717de9c6a"
   },
-  "weatherGeneratedAt": "2026-09-25T01:26:06.680Z",
+  "weatherGeneratedAt": "2026-09-25T07:42:28.692Z",
   "weatherError": null,
   "sources": [
     {
