@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T19:50:50.699Z",
-  "fetchedAt": "2026-09-26T19:50:50.695Z",
+  "generatedAt": "2026-09-26T22:44:10.809Z",
+  "fetchedAt": "2026-09-26T22:44:10.805Z",
   "sourceCount": 24,
   "itemCount": 181,
   "totalItemCount": 804,
@@ -2037,19 +2037,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-noreaster-to-bring-periodic-showers-this-weekend/",
-    "title": "DC-area forecast: A break in the rain and gustiest wind late tonight. Breezy with light showers Sunday.",
+    "title": "DC-area forecast: Rainy into this evening. Still breezy with light showers Sunday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-noreaster-to-bring-periodic-showers-this-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Late afternoon and evening temperatures dip from the 60s toward mid-50s to near 60 for predawn lows. The steadiest, heaviest showers—along with the gustiest winds—should ease, giving us a partial lull from about midnight into morning.",
+    "summary": "HAPPENING NOW: Showers continue into this evening with a gusty breeze and temperatures in the 50s. We could see a partial lull in the rain after midnight.",
     "publishedAt": "2026-09-26T09:00:18.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "At least the morning is dry before shower chances increase this afternoon.",
     "articleId": "82e1d69b181e4fd7"
   },
-  "weatherGeneratedAt": "2026-09-26T19:50:50.699Z",
+  "weatherGeneratedAt": "2026-09-26T22:44:10.809Z",
   "weatherError": null,
   "sources": [
     {
