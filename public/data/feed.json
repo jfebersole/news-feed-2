@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-26T01:29:26.379Z",
-  "fetchedAt": "2026-09-26T01:29:26.376Z",
+  "generatedAt": "2026-09-26T07:35:36.653Z",
+  "fetchedAt": "2026-09-26T07:35:36.649Z",
   "sourceCount": 24,
   "itemCount": 183,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more",
+      "title": "Should you text more?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here, in five waves of panel data (N = 1,966 US adults), we examined associations between life satisfaction and self-reported use of ten common social technologies measured every 3 months on a six-point frequency scale from ‘I did not use’ to ‘multiple times daily’. At this measurement level and timescale, Bayesian and frequentist random-intercept cross-lagged panel models showed […]",
+      "publishedAt": "2026-09-26T07:28:35.000Z",
+      "articleId": "ad14b49d68b03c2b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai",
+      "title": "A doomsday scenario for American AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the title of my latest Free Press column, here is the closing bit: Sick and elderly Americans will go to Chinese companies for their AI-invented and AI-tested medical devices and drugs. America still will be a wealthy country, so China will charge the highest prices possible, yet prioritize Chinese citizens for treatment. Large […]",
+      "publishedAt": "2026-09-26T04:10:05.000Z",
+      "articleId": "f20bc149300248d9"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
       "title": "What Hegseth Is Hiding",
@@ -452,17 +474,6 @@
       "articleId": "10139c5918a9f0a7"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-intelligence-is-falling",
-      "title": "The Price of Intelligence is Falling Rapidly",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An amazing Epoch AI report from Emberson and Roodman: Over the past three years, the cost of a given level of AI performance has fallen an average of some 47% per quarter. That is a 13-fold drop every year – a faster rate than any other transformative technology in history. To give an example, OpenAI […]",
-      "publishedAt": "2026-09-23T11:17:32.000Z",
-      "articleId": "53b64e9e55aa8c1d"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-republican-urge-to-start-wars",
       "title": "The Republican urge to start wars in the Middle East",
       "url": "https://www.slowboring.com/p/the-republican-urge-to-start-wars",
@@ -483,17 +494,6 @@
       "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "articleId": "836e43d312ea7666"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
-      "title": "What I’ve been reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Constance Reid, Hilbert. We should all be reading more mathematics these days, right? Because the field is “on fire.” Hilbert is not a bad place to start, and I found this book clear and biographical in a good way. It is less on the math and more closely tied to broader German history. Soon […]",
-      "publishedAt": "2026-09-23T04:40:51.000Z",
-      "articleId": "6bb4f40be0bb938d"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
@@ -2057,19 +2057,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-decent-today-coastal-storm-may-bring-a-few-showers-late-saturday-more-sunday/",
-    "title": "DC-area forecast: Coastal storm to deliver waves of showers Saturday afternoon through Sunday",
+    "title": "DC-area forecast: Coastal storm to deliver showers at times Saturday afternoon through Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-decent-today-coastal-storm-may-bring-a-few-showers-late-saturday-more-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Falling from the 70s into the 60s this evening as breezy conditions persist.",
+    "summary": "HAPPENING NOW: In the 60s this evening and still breezy. Lows tonight range through the 50s.",
     "publishedAt": "2026-09-25T09:00:01.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "Mainly bright but breezy. Still, it’s plenty comfortable with temperatures up a handful of degrees from yesterday.",
     "articleId": "f4f445372d63f25b"
   },
-  "weatherGeneratedAt": "2026-09-26T01:29:26.379Z",
+  "weatherGeneratedAt": "2026-09-26T07:35:36.653Z",
   "weatherError": null,
   "sources": [
     {
