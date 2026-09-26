@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-25T22:15:28.478Z",
-  "fetchedAt": "2026-09-25T22:15:28.474Z",
+  "generatedAt": "2026-09-26T01:29:26.379Z",
+  "fetchedAt": "2026-09-26T01:29:26.376Z",
   "sourceCount": 24,
-  "itemCount": 182,
-  "totalItemCount": 804,
+  "itemCount": 183,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
+      "title": "What Hegseth Is Hiding",
+      "url": "https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Soldiers want to tell their stories, and we need to hear them.",
+      "publishedAt": "2026-09-26T00:19:52.000Z",
+      "articleId": "5111a386b221d030"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
+      "title": "Your Book Review: Lee Kuan Yew's Memoirs",
+      "url": "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #10 in the Book Review Contest",
+      "publishedAt": "2026-09-25T22:26:10.000Z",
+      "articleId": "0c5b2af6c91412e5"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland",
       "title": "Good points from James Gilliland",
@@ -183,17 +205,6 @@
       "summary": "Deal list leak I always think of an investment banking group’s “pipeline” as a fairly aspirational document. “What deals do we have coming,” your boss asks you, so you go write down a list of: Deals on which you have a mandate; Deals on which you are pitching for a mandate; Companies that you talk to regularly and that might do a deal one of these days; Companies that you’ve been meaning to call but you’ve been busy; Companies that someone told you might be doing a deal with another bank; Companies that you’ve never talked to but, based on public information, they really should do a deal; and Other companies that exist. And you hand your boss the list, and she looks at it and says “ah, good, you are keeping busy,” and leaves you alone for another day. This view might be extremely biased by my own experience of being an investment banker. I was bad at it. I’m sure other people just wrote down like 20 deals they were actually doing. Not me. Anyway here’s a fascinating natural experiment : A Morgan Stanley employee accidentally leaked an internal document listing more than 100 investment-banking deals the firm is pitching and monitoring in Asia, revealing details of the bank’s pipeline, according to people familiar with the matter. The list contained candidates for initial public offerings, spanning from China to South Korea and India, according to a copy seen by Bloomberg News and verified by people familiar with the matter. The list — which focused mostly on Asia, along with Europe, the Middle East, and Africa — also included private equity and pension funds backing those companies, and projects that were put on hold. … The banker had intended to send a client-facing version of the file, which largely contained general updates on the private equity sector and recent transactions, but mistakenly sent the internal version instead, some of which contained extensive price-sensitive information. I mean, it’s not a perfect experiment. (Maybe some of the deals on this list were very real, but were canceled because of this leak.) But, like, take that list of 100 companies, construct a control list of 100 similar companies that are not on the list, and see which list produces more equity capital markets deals in the next six months. “Leaks about an imminent share placement can … weigh on the stock as investors brace for additional supply”: Construct a portfolio that is short the public companies on this list and long a basket of similar companies, and see if the listed companies’ stocks underperform. Because they do block trades. Will they do block trades? Well, they might. Morgan Stanley is working with them on doing block trades. Or pitching them. Or monitoring them. When I was an investment banker, if my pipeline fell into your hands, and you used it to...",
       "publishedAt": "2026-09-24T18:18:00.045Z",
       "articleId": "dd3d22ae0836f718"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
-      "title": "What Hegseth Is Hiding",
-      "url": "https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Soldiers want to tell their stories, and we need to hear them.",
-      "publishedAt": "2026-09-24T18:12:25.000Z",
-      "articleId": "5111a386b221d030"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-biggest-one-hit-wonder",
@@ -2058,7 +2069,7 @@
     "dailyDigitSummary": "Mainly bright but breezy. Still, it’s plenty comfortable with temperatures up a handful of degrees from yesterday.",
     "articleId": "f4f445372d63f25b"
   },
-  "weatherGeneratedAt": "2026-09-25T22:15:28.478Z",
+  "weatherGeneratedAt": "2026-09-26T01:29:26.379Z",
   "weatherError": null,
   "sources": [
     {
@@ -2081,7 +2092,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
