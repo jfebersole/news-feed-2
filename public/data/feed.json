@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-26T13:00:52.304Z",
-  "fetchedAt": "2026-09-26T13:00:52.300Z",
+  "generatedAt": "2026-09-26T17:06:41.302Z",
+  "fetchedAt": "2026-09-26T17:06:41.298Z",
   "sourceCount": 24,
   "itemCount": 183,
   "totalItemCount": 805,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. One way to use screens less, will it catch on? 2. Roon as cultural critic. 3. The Greenland deal sounds pretty good for America? 4. The cultures that are New England? 5. Yet newer results on AI-driven labor demand. 6. Ayn Rand as movie extra.",
+      "publishedAt": "2026-09-26T16:11:35.000Z",
+      "articleId": "8389c7312314f868"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-map-is-melting",
+      "title": "The map is melting",
+      "url": "https://www.slowboring.com/p/the-map-is-melting",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A widening battlefield has Republicans bracing for a rough November. The party’s anxiety is no longer hidden behind closed doors.",
+      "publishedAt": "2026-09-26T13:02:49.000Z",
+      "articleId": "d43ebabc8b503a42"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-2026-09-26",
       "title": "Reading List 2026-09-26",
@@ -473,17 +496,6 @@
       "summary": "While Dart is out for the regular season, Giants coach John Harbaugh left the door open for the QB to return if NY makes the playoffs.",
       "publishedAt": "2026-09-23T16:52:26.000Z",
       "articleId": "41cbfe30270d1f7e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-572",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Diving northern gannets. 2. Guatemala update. 3. Tech-utopian project coming in Uruguay? 4. “Toy sales among adult-only households have now outpaced households with children for toy sales, growing 16% through June, according to a market research group.” 5. Do stock buybacks bring harm? 6. How AI competition works in China. 7. Economist column on […]",
-      "publishedAt": "2026-09-23T15:48:52.000Z",
-      "articleId": "10139c5918a9f0a7"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-republican-urge-to-start-wars",
@@ -1047,17 +1059,6 @@
       "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
       "publishedAt": "2026-09-16T10:18:04.000Z",
       "articleId": "3937e7c3e780f241"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/destroying-womens-sports-in-order",
-      "title": "Destroying women’s sports in order to save it",
-      "url": "https://www.slowboring.com/p/destroying-womens-sports-in-order",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Dems are quietly becoming more reasonable, and Republicans are revealing their true colors.",
-      "publishedAt": "2026-09-16T10:01:26.000Z",
-      "articleId": "032094c3a5831895"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-anti-american-right",
@@ -2070,7 +2071,7 @@
     "dailyDigitSummary": "At least the morning is dry before shower chances increase this afternoon.",
     "articleId": "82e1d69b181e4fd7"
   },
-  "weatherGeneratedAt": "2026-09-26T13:00:52.304Z",
+  "weatherGeneratedAt": "2026-09-26T17:06:41.302Z",
   "weatherError": null,
   "sources": [
     {
@@ -2156,10 +2157,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
