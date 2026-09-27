@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-09-27T13:53:59.483Z",
-  "fetchedAt": "2026-09-27T13:53:59.479Z",
+  "generatedAt": "2026-09-27T18:18:56.857Z",
+  "fetchedAt": "2026-09-27T18:18:56.852Z",
   "sourceCount": 24,
-  "itemCount": 179,
+  "itemCount": 177,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-f80",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-f80",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-09-27T17:01:53.000Z",
+      "articleId": "dfab6761f650db6f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. AI-related efforts in higher education in Morocco (ChatGPT). 2. Intelligence explosions are social. 3. The speech-processing skills of dogs. 4. Kalshi market in economics Nobel. 5. Why are Indian weddings with dancing gorillas going viral? Pakistan too. 6. Eminem, and some German guy. 7. On the UAP council. 8. On higher interest rates.",
+      "publishedAt": "2026-09-27T15:52:50.000Z",
+      "articleId": "b4c15f276e255c6d"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
+      "title": "The 10 Best Wedding Albums",
+      "url": "https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Matthew Campbell stops by to talk the wedding music canon",
+      "publishedAt": "2026-09-27T14:31:16.000Z",
+      "articleId": "7531d731e7d253e6"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
       "title": "Where’s the “intelligence explosion”?",
@@ -407,17 +441,6 @@
       "summary": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
       "publishedAt": "2026-09-24T10:00:00.000Z",
       "articleId": "ae6927f8c429134e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data",
-      "title": "*Fear of Data*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is Omri Ben-Shahar, and the subtitle is How Privacy Panic Led Tech Regulation Astray — and How to Fix It. I would describe this book as bracing, and full of substantive engagement. Basically the author wishes to give privacy considerations less weight in social decisions. Excerpt: What is the concrete evidence for the […]",
-      "publishedAt": "2026-09-24T08:24:05.000Z",
-      "articleId": "8cf5925deb60622d"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
@@ -1036,18 +1059,6 @@
       "summary": "A guest post by Josh Morrison",
       "publishedAt": "2026-09-16T23:33:42.000Z",
       "articleId": "c5fba4ef4c2c28c8"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/republicans-are-playing-defense-in",
-      "title": "Republicans are playing defense in what should be easy races",
-      "url": "https://www.slowboring.com/p/republicans-are-playing-defense-in",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Two new polls show Republicans running well behind Democrats on the generic ballot.",
-      "publishedAt": "2026-09-16T22:01:05.000Z",
-      "articleId": "8dc58e2bc78228f7"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mv0ux7el2ilz0edxf934.html",
@@ -1978,58 +1989,24 @@
       "summary": "Beyond the big names, the Giants have some tricky decisions to make along the offensive line, as well as at tight end and cornerback.",
       "publishedAt": "2026-08-29T11:00:58.000Z",
       "articleId": "db18557a57f304bb"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
-      "title": "Your Book Review: Thomas Urquhart’s Translation Of Rabelais",
-      "url": "https://www.astralcodexten.com/p/your-book-review-thomas-urquharts",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #7 in the Book Review Contest",
-      "publishedAt": "2026-08-28T17:32:14.000Z",
-      "articleId": "ad3048b493f0b87e"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/august-2026-links",
-      "title": "August 2026 links",
-      "url": "https://scottsumner.substack.com/p/august-2026-links",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Plus brief thoughts on Jackson Hole",
-      "publishedAt": "2026-08-28T17:06:46.000Z",
-      "articleId": "ef30eaeec38822a3"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
-      "title": "American transit is bad because of scope creep",
-      "url": "https://www.worksinprogress.news/p/mission-creep-in-public-transportation",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Who benefits when we ask transit to pursue social goals?",
-      "publishedAt": "2026-08-28T14:18:03.000Z",
-      "articleId": "b640106ad849b032"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-noreaster-to-bring-periodic-showers-this-weekend/",
-    "title": "DC-area forecast: Some showers at times tonight; still damp and breezy Sunday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-noreaster-to-bring-periodic-showers-this-weekend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-clouds-breezes-and-some-showers-today-before-noreaster-moves-away/",
+    "title": "DC-area forecast: More clouds, breezes, and some showers today before nor’easter moves away",
+    "url": "https://www.capitalweather.com/dc-area-forecast-more-clouds-breezes-and-some-showers-today-before-noreaster-moves-away/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers take a break through around midnight, though some sprinkles remain with temperatures in the 50s. Scattered showers could pick up again after midnight, mainly across the eastern half of the area.",
-    "publishedAt": "2026-09-26T09:00:18.000Z",
-    "dailyDigit": 5,
-    "dailyDigitLabel": "5/10",
-    "dailyDigitSummary": "At least the morning is dry before shower chances increase this afternoon.",
-    "articleId": "82e1d69b181e4fd7",
-    "stale": true
+    "summary": "HAPPENING NOW: We catch the gusty breeze and clouds from a nor'easter for one more day. Occasional showers could disrupt outdoor plans at times with cool highs around 60 to 65.",
+    "publishedAt": "2026-09-27T09:00:46.000Z",
+    "dailyDigit": 4,
+    "dailyDigitLabel": "4/10",
+    "dailyDigitSummary": "A September nor'easter continues to sweep in cloudy skies, gusty winds, and cool vibes – oh, and some showers too.",
+    "articleId": "0c0a00944c0998e3"
   },
-  "weatherGeneratedAt": "2026-09-27T13:53:59.483Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-09-27T18:18:56.857Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
