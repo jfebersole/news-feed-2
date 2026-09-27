@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-27T18:18:56.857Z",
-  "fetchedAt": "2026-09-27T18:18:56.852Z",
+  "generatedAt": "2026-09-27T22:04:35.322Z",
+  "fetchedAt": "2026-09-27T22:04:35.317Z",
   "sourceCount": 24,
   "itemCount": 177,
-  "totalItemCount": 804,
+  "totalItemCount": 795,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
+      "title": "AI in science",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of over 2,600 specialized AI models […]",
+      "publishedAt": "2026-09-27T19:03:12.000Z",
+      "articleId": "1d8c9b5ad3f298c8"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-f80",
       "title": "Sunday Thread + Mailbag",
@@ -395,17 +406,6 @@
       "summary": "It’s fair to be spooked by Jameis Winston’s rough performance Monday, but the Giants shouldn't consider dealing away precious draft capital.",
       "publishedAt": "2026-09-24T11:16:37.000Z",
       "articleId": "af70aeabbf206b7a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation",
-      "title": "CA 91326: A Public Choice Mystery Investigation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Carl Danner writes to me with a political economy mystery. On Sept 9, 2026, The California Public Utilities Commission announced a set of clean energy grants but only “for eligible organizations headquartered in ZIP Code 91326.” I decided to investigate with ChatGPT. The first thing we discovered is that: The ZIP-code restriction is about the […]",
-      "publishedAt": "2026-09-24T11:15:32.000Z",
-      "articleId": "8ae993d9c3604566"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-ai-apocalypse-canon-and-why-it",
@@ -1993,19 +1993,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-clouds-breezes-and-some-showers-today-before-noreaster-moves-away/",
-    "title": "DC-area forecast: More clouds, breezes, and some showers today before nor’easter moves away",
+    "title": "DC-area forecast: Showers wind down this evening; drier and milder Monday",
     "url": "https://www.capitalweather.com/dc-area-forecast-more-clouds-breezes-and-some-showers-today-before-noreaster-moves-away/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: We catch the gusty breeze and clouds from a nor'easter for one more day. Occasional showers could disrupt outdoor plans at times with cool highs around 60 to 65.",
+    "summary": "HAPPENING NOW: Showers diminish early to mid-evening with an isolated shower possible overnight. Winds gradually ease with temperatures around 60 through the night.",
     "publishedAt": "2026-09-27T09:00:46.000Z",
     "dailyDigit": 4,
     "dailyDigitLabel": "4/10",
     "dailyDigitSummary": "A September nor'easter continues to sweep in cloudy skies, gusty winds, and cool vibes – oh, and some showers too.",
     "articleId": "0c0a00944c0998e3"
   },
-  "weatherGeneratedAt": "2026-09-27T18:18:56.857Z",
+  "weatherGeneratedAt": "2026-09-27T22:04:35.322Z",
   "weatherError": null,
   "sources": [
     {
@@ -2019,10 +2019,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 1,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Request timed out after 15000ms Using previous snapshot data."
     },
     {
       "name": "Astral Codex Ten",
