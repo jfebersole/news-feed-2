@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T22:44:10.809Z",
-  "fetchedAt": "2026-09-26T22:44:10.805Z",
+  "generatedAt": "2026-09-27T01:22:14.797Z",
+  "fetchedAt": "2026-09-27T01:22:14.793Z",
   "sourceCount": 24,
-  "itemCount": 181,
+  "itemCount": 180,
   "totalItemCount": 804,
   "items": [
     {
@@ -2022,34 +2022,23 @@
       "summary": "Spoiler: It’s vibe-coded superviruses.",
       "publishedAt": "2026-08-28T09:48:43.000Z",
       "articleId": "8138d20dd2a472a0"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
-      "title": "There Is a Sickness Worse Than Wokeness",
-      "url": "https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The anti-woke movement’s “cure” was more intolerance and more repression.",
-      "publishedAt": "2026-08-27T23:49:06.000Z",
-      "articleId": "b25ed1d0a9e1af3b"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-noreaster-to-bring-periodic-showers-this-weekend/",
-    "title": "DC-area forecast: Rainy into this evening. Still breezy with light showers Sunday.",
+    "title": "DC-area forecast: Scattered showers this evening. Still breezy Sunday with lingering light showers.",
     "url": "https://www.capitalweather.com/dc-area-forecast-noreaster-to-bring-periodic-showers-this-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers continue into this evening with a gusty breeze and temperatures in the 50s. We could see a partial lull in the rain after midnight.",
+    "summary": "HAPPENING NOW: The steady rain has let up, but scattered showers continue through around midnight, with an isolated shower overnight. Breezes ease a bit tonight with temperatures in the 50s.",
     "publishedAt": "2026-09-26T09:00:18.000Z",
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "At least the morning is dry before shower chances increase this afternoon.",
     "articleId": "82e1d69b181e4fd7"
   },
-  "weatherGeneratedAt": "2026-09-26T22:44:10.809Z",
+  "weatherGeneratedAt": "2026-09-27T01:22:14.797Z",
   "weatherError": null,
   "sources": [
     {
