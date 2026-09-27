@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T08:03:19.200Z",
-  "fetchedAt": "2026-09-27T08:03:19.197Z",
+  "generatedAt": "2026-09-27T13:53:59.483Z",
+  "fetchedAt": "2026-09-27T13:53:59.479Z",
   "sourceCount": 24,
-  "itemCount": 181,
+  "itemCount": 179,
   "totalItemCount": 804,
   "items": [
     {
@@ -2011,28 +2011,6 @@
       "summary": "Who benefits when we ask transit to pursue social goals?",
       "publishedAt": "2026-08-28T14:18:03.000Z",
       "articleId": "b640106ad849b032"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
-      "title": "Giants by the numbers: Just how grueling was John Harbaugh's training camp?",
-      "url": "https://www.nytimes.com/athletic/7544225/2026/08/28/new-york-giants-john-harbaugh-training-camp-grueling/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Harbaugh has packed in 21 practices during Giants camp. In the same time frame last year, the Giants practiced 15 times.",
-      "publishedAt": "2026-08-28T10:15:05.000Z",
-      "articleId": "86cd290243a2ba29"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
-      "title": "Here’s how we’re all going to die",
-      "url": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Spoiler: It’s vibe-coded superviruses.",
-      "publishedAt": "2026-08-28T09:48:43.000Z",
-      "articleId": "8138d20dd2a472a0"
     }
   ],
   "weather": {
@@ -2047,10 +2025,11 @@
     "dailyDigit": 5,
     "dailyDigitLabel": "5/10",
     "dailyDigitSummary": "At least the morning is dry before shower chances increase this afternoon.",
-    "articleId": "82e1d69b181e4fd7"
+    "articleId": "82e1d69b181e4fd7",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-09-27T08:03:19.200Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-09-27T13:53:59.483Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
