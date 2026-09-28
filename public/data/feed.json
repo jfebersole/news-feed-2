@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-09-28T06:46:56.070Z",
-  "fetchedAt": "2026-09-28T06:46:56.067Z",
+  "generatedAt": "2026-09-28T15:21:36.613Z",
+  "fetchedAt": "2026-09-28T15:21:36.609Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 804,
+  "itemCount": 175,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "title": "Why the Bronze Age collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Historians like to blame drought, famine and invaders. But this can’t explain why the empires never came back.",
+      "publishedAt": "2026-09-28T14:02:18.000Z",
+      "articleId": "7d1c6901e5ff0665"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip",
+      "title": "Mighty Sparrow, RIP",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the NYT obituary.",
+      "publishedAt": "2026-09-28T13:56:32.000Z",
+      "articleId": "b96bfc3b3f56fe52"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate",
+      "title": "Defining the Unemployment Rate",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "An updated version of our Marginal Revolution University (MRU) video on defining the unemployment rate. Free to use for anyone but goes best, of course, with Modern Principles of Economics, the best principles of economics textbook.",
+      "publishedAt": "2026-09-28T11:18:03.000Z",
+      "articleId": "c4ee8c05fec7b074"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "title": "Apps, Agents, and Aggregation",
+      "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech's biggest prize.",
+      "publishedAt": "2026-09-28T10:25:37.000Z",
+      "articleId": "1cbe862e6ba9c448"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/feed-the-lizard",
+      "title": "Feed the lizard",
+      "url": "https://www.slowboring.com/p/feed-the-lizard",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "It’s a good idea to work hard and be helpful when you’re young and don’t have responsibilities.",
+      "publishedAt": "2026-09-28T10:02:15.000Z",
+      "articleId": "34e631b3e8e6ea6c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland",
       "title": "Bundesrepublik Deutschland",
@@ -151,17 +206,6 @@
       "summary": "ASML’s lack of European sales, a California distributed power plant, Starlink as a planetary barometer, and more.",
       "publishedAt": "2026-09-26T10:17:46.000Z",
       "articleId": "971ad104932b54e9"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-september-21-25",
-      "title": "The Week That Was (September 21-25, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-september-21-25",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-09-26T09:01:55.000Z",
-      "articleId": "d0c132e53d7da2c3"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more",
@@ -320,17 +364,6 @@
       "articleId": "ac84cefc1239233f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation",
-      "title": "Peter Thiel on AI and tech stagnation and democracy",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Lots of fresh material, one of the very best Peter Thiel outputs.",
-      "publishedAt": "2026-09-24T23:31:20.000Z",
-      "articleId": "57133c0c36fb3cb7"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-specter-of-neuralese",
       "title": "The Specter Of Neuralese",
       "url": "https://www.astralcodexten.com/p/the-specter-of-neuralese",
@@ -340,17 +373,6 @@
       "summary": "...",
       "publishedAt": "2026-09-24T22:12:39.000Z",
       "articleId": "f3e443749a254a28"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2",
-      "title": "Earth fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An average of 72 percent of respondents said they felt curious, happy or excited about A.I., compared with 41 percent who felt worried, sad or angry.’@nytimes‘s Damien Cave uses @Gallup data to remind us the rest of the world digs AI. It is 93 percent positive from China. That is from Nick Gillespie. Snap out of it […]",
-      "publishedAt": "2026-09-24T18:58:55.000Z",
-      "articleId": "fbc5e40f5476c80e"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/dnh4cmh4giz470dthg9j.html",
@@ -421,7 +443,7 @@
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
-      "title": "“The Argument” podcast, ad-free: Is the A.I. apocalypse coming for us all?",
+      "title": "“The Argument” podcast, ad free: Is the A.I. apocalypse coming for us all?",
       "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
@@ -972,7 +994,7 @@
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-why",
-      "title": "“The Argument” podcast, ad-free: Why the worst people always end up in charge",
+      "title": "“The Argument” podcast, ad free: Why the worst people always end up in charge",
       "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-why",
       "source": "Slow Boring",
       "sourceUrl": "https://www.slowboring.com/",
@@ -1025,18 +1047,6 @@
       "summary": "If you’re reading this, there’s a very good chance you’ve seen this famous image of three iterations of SpaceX’s Raptor rocket engine.",
       "publishedAt": "2026-09-17T12:02:08.000Z",
       "articleId": "cf65b761e6f3bf60"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/how-to-stop-hitler",
-      "title": "How to stop Hitler",
-      "url": "https://www.slowboring.com/p/how-to-stop-hitler",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Read Hayek, but don’t listen to him about the specifics of the rise of fascism.",
-      "publishedAt": "2026-09-17T10:03:35.000Z",
-      "articleId": "4dd5358fafadf890"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
@@ -1225,17 +1235,6 @@
       "summary": "Giants offensive lineman Jermaine Eluemunor: \"He’s the heartbeat of this team. He’s a leader. We’ll go as far as he takes us.”",
       "publishedAt": "2026-09-14T10:00:58.000Z",
       "articleId": "1a0b838c57284ef8"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
-      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
-      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
-      "publishedAt": "2026-09-14T10:00:00.000Z",
-      "articleId": "6c6638a31a6db4e6"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7590348/2026/09/13/cowboys-giants-nfl-2026-score-result-takeaways/",
@@ -1966,46 +1965,23 @@
       "summary": "People are creating some very interesting and original stuff!",
       "publishedAt": "2026-08-30T00:15:19.000Z",
       "articleId": "795738cca0e8ef05"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-082926",
-      "title": "Reading List 08/29/26",
-      "url": "https://www.construction-physics.com/p/reading-list-082926",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic flooding in Nepal, and more.",
-      "publishedAt": "2026-08-29T12:03:07.000Z",
-      "articleId": "c534dc612628aa55"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7544926/2026/08/29/giants-53-man-roster-projection-odell-beckham-jr-tyrone-tracy/",
-      "title": "Giants 53-man roster projection: Are Odell Beckham Jr. and Tyrone Tracy Jr. safe?",
-      "url": "https://www.nytimes.com/athletic/7544926/2026/08/29/giants-53-man-roster-projection-odell-beckham-jr-tyrone-tracy/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Beyond the big names, the Giants have some tricky decisions to make along the offensive line, as well as at tight end and cornerback.",
-      "publishedAt": "2026-08-29T11:00:58.000Z",
-      "articleId": "db18557a57f304bb"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-more-clouds-breezes-and-some-showers-today-before-noreaster-moves-away/",
-    "title": "DC-area forecast: Drier and milder Monday; trending brighter and warmer midweek",
-    "url": "https://www.capitalweather.com/dc-area-forecast-more-clouds-breezes-and-some-showers-today-before-noreaster-moves-away/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-3/",
+    "title": "DC-area forecast: Gradual clearing as temperatures climb this week",
+    "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-3/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A stray shower possible tonight. Winds gradually ease with temperatures around 60 through the night.",
-    "publishedAt": "2026-09-27T09:00:46.000Z",
-    "dailyDigit": 4,
-    "dailyDigitLabel": "4/10",
-    "dailyDigitSummary": "A September nor'easter continues to sweep in cloudy skies, gusty winds, and cool vibes – oh, and some showers too.",
-    "articleId": "0c0a00944c0998e3"
+    "summary": "HAPPENING NOW: Lots of clouds in the first half of the day, with peeks of sun possible during the afternoon. Highs from 65 to 70.",
+    "publishedAt": "2026-09-28T09:00:00.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "So glad to say goodbye to the rain. Highs near 70 are an improvement, with maybe some sun late.",
+    "articleId": "d8d5e21c5ef97537"
   },
-  "weatherGeneratedAt": "2026-09-28T06:46:56.070Z",
+  "weatherGeneratedAt": "2026-09-28T15:21:36.613Z",
   "weatherError": null,
   "sources": [
     {
@@ -2092,7 +2068,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
