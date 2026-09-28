@@ -1,10 +1,78 @@
 {
-  "generatedAt": "2026-09-28T15:21:36.613Z",
-  "fetchedAt": "2026-09-28T15:21:36.609Z",
+  "generatedAt": "2026-09-28T21:55:19.404Z",
+  "fetchedAt": "2026-09-28T21:55:19.401Z",
   "sourceCount": 24,
-  "itemCount": 175,
-  "totalItemCount": 803,
+  "itemCount": 177,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
+      "title": "Giants' trade for J.J. McCarthy was aggressive, but was it also reckless?",
+      "url": "https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Giving up a mid-round draft pick for McCarthy, especially after now losing Brian Burns for the season, feels like a rash move.",
+      "publishedAt": "2026-09-28T21:00:36.000Z",
+      "articleId": "0e3a687e4f7535af"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/nba-future-of-the-franchise-rankings-6cb",
+      "title": "NBA Future of the Franchise Rankings 4.0",
+      "url": "https://www.natesilver.net/p/nba-future-of-the-franchise-rankings-6cb",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "It won’t shock you to learn that the Spurs and Thunder have the brightest futures. But what about the rest of the league after a crazy offseason?",
+      "publishedAt": "2026-09-28T19:01:48.000Z",
+      "articleId": "f0033a96173eb6a2"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/4dokdjtcfu3se4h9dx4i.html",
+      "title": "Money Stuff: Banks Recycle the Risk",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/4dokdjtcfu3se4h9dx4i.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Structured notes A traditional model might be: There are a lot of investors in the world and they each want to take some risks. Some big asset managers want to own the stock market and also buy some put options for insurance; others want to own corporate bonds and get some duration by owning Treasury futures ; some hedge funds want to make big levered bets on artificial intelligence ; others want to make big bets against GameStop . Some of these risks exist naturally in the world: Asset managers can buy stocks and bonds from the companies that issue them. Many don’t: If you want to buy put options or Treasury futures, someone has to take the other side of your bet. Traditionally, that is the job of an investment bank: If you are an asset manager looking to take a risk, you call an investment bank and say “will you sell me this risk,” and the bank will take the other side of the risk and charge you some money for it. The bank is skilled at pricing risk and selling it to you at a markup. Traditionally, there were many investors, each taking a few risks, and a few investment banks, each taking the other side of many risks. The banks just sort of naturally had more risks than the investors, because they were in the risk-manufacturing business. This required them, also, to be in the risk-balancing business. An investor might think really hard for a while, decide on like five risks to take, and then take them wholeheartedly. A bank would just take whatever risks came in the door, not because it wanted those exact risks but because it could sell them at a markup. It had to be good at finding offsetting risks, so that it didn’t end up taking too much risk in any one direction. If some investor showed up at a bank to buy puts, the bank was short puts, and it had to go out and find some puts to buy. If several investors showed up to buy puts, and no investors showed up to sell puts — because there are some risks that lots of investors want and others that they don’t — then the bank had to find some way to manufacture the puts, to buy some stuff that approximately offset the puts. (A classic approach: If lots of investors want to buy puts on the stock index, you can buy calls on individual stocks to kinda sorta offset those puts. Different stuff, with different risks, but partially offsetting. This is called “the dispersion trade .”) This all made banks into supermarkets of risk, with the skills and desire to go out and manufacture new and complicated risks. For instance, there is the structured notes business: A bank will go out and sell customers some complex package of derivatives that pays off if two stock indexes outperform a third on a majority of Tuesdays this year, but will lose money if the peso appreciates against the yen on Thursdays. Why do...",
+      "publishedAt": "2026-09-28T18:05:35.131Z",
+      "articleId": "b19e43266200143d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend",
+      "title": "Man’s best friend?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "When it comes to bear encounters in or near the wild, dogs are the aggressors in 54 percent of incidents, according to a recent study conducted by bear experts at Brigham Young University and other institutions, and published in the Journal of Wildlife Management. In approximately 36 percent of the encounters, dogs did not come to […]",
+      "publishedAt": "2026-09-28T17:53:27.000Z",
+      "articleId": "63429733783b96b2"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/september-2026-links",
+      "title": "September 2026 links",
+      "url": "https://scottsumner.substack.com/p/september-2026-links",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Superhero edition",
+      "publishedAt": "2026-09-28T17:00:01.000Z",
+      "articleId": "3af9fb6f27846240"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Should more men move to Alaska? 2. The world’s oldest known peace treaty found. 3. In praise of Joyce, Whitman, and Crane. 4. Background explainer on the Chinese AI ecosystem. 5. YIMBY working in Portland (WSJ). 6. Profile of Helen DeWitt. 7. Human frailty.",
+      "publishedAt": "2026-09-28T16:36:21.000Z",
+      "articleId": "018a3a77065c32a1"
+    },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
       "title": "Why the Bronze Age collapsed",
@@ -296,17 +364,6 @@
       "articleId": "8186c4b4052bcae8"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body",
-      "title": "*My Dreadful Body*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "By Egana Djabbarova of Azerbaijan. A wonderful short novel, and as described by Olga Grjasnowa “An extraordinary novel that translates corporality and estrangement into language.” Here is the Amazon link. This has been a fantastic year for fiction, and in November I will be writing up a report.",
-      "publishedAt": "2026-09-25T10:08:21.000Z",
-      "articleId": "f49adc27b12690c8"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/getting-to-yes-with-iran",
       "title": "Getting to yes with Iran",
       "url": "https://www.slowboring.com/p/getting-to-yes-with-iran",
@@ -351,17 +408,6 @@
       "summary": "...",
       "publishedAt": "2026-09-25T06:06:18.000Z",
       "articleId": "afee195446369e11"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes",
-      "title": "Armenia notes",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I strongly recommend a trip to Armenia, now is a great time to go. Here are a few things I noticed: 1. The country remains intellectual. The book fair is well attended. The classical music season is excellent, with good concerts multiple times a week, and the theatre scene, in both Armenian and Russian, is […]",
-      "publishedAt": "2026-09-25T04:52:17.000Z",
-      "articleId": "ac84cefc1239233f"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/the-specter-of-neuralese",
@@ -1115,17 +1161,6 @@
       "articleId": "ef8bd9c25cd9ced0"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hhs4k87snxujj1dn7ozz.html",
-      "title": "Money Stuff: Not All the Susquehanna Puts Were Bad",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/hhs4k87snxujj1dn7ozz.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "SIG puts Let’s say you’re a senior executive at a public company. You know that, next week, your company is going to announce that it has agreed to be acquired for cash at a large premium. So you go out and buy a lot of short-dated out-of-the-money call options on your company’s stock, options that will pay out a ton of money when the merger is announced. That’s bad! For one thing, it is obviously illegal insider trading: You are misusing your company’s material nonpublic information to trade for your own profit. For another thing, you will get caught: When a merger is announced, the first place the US Securities and Exchange Commission will look is at suspicious activity in short-dated out-of-the-money call options on the target. They will notice your trades: There’s probably not that much trading in those options, the trades are publicly reported , and your big sudden trade will stick out like a sore thumb. This is not legal advice, but I do spend a lot of time around here hammering home the point that you should not trade short-dated out-of-the-money call options on merger targets using inside information. People keep doing it, though. Let’s change the hypothetical somewhat. Let’s say you’re a casual day trader. You notice that someone just bought a ton of short-dated out-of-the-money call options on a company without any major news. You think: “Hmm. Maybe this another casual day trader like me making a big gamble. But maybe there’s something going on. Maybe this person knows something I don’t. Maybe she has some good reason for betting a ton of money on a big sudden spike in this stock’s price. Maybe — and I’m just guessing here — but maybe she is actually a senior executive at the company, knows that a merger is coming, and is insider trading in the dumbest but nonetheless most popular way. Bad luck for her if that’s true! But all of this option activity makes me think that something is going on, so I’m going to buy some short-dated out-of-the-money call options too and see what happens.” And then the merger is announced and you make a ton of money. The SEC looks at the options trading activity. It sees the other person’s big trade, calls her up, and finds out that in fact she is a senior executive at the target company. Off she goes to jail. The SEC also sees your smaller, later trade. It calls you up and says “hey were you trading on inside information too?” You say: “Not at all! I was just looking at public trading information, I saw a big options trade print, I thought that was bullish, so I copied it.” The SEC does some more digging and finds no suspicious phone calls or texts or emails or old college ties to executives at the company. It is satisfied that you traded only on public information. It moves on, and you keep your money. This is...",
-      "publishedAt": "2026-09-15T19:17:13.469Z",
-      "articleId": "e8b6d69406f7d316"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
       "title": "Who’s the Snowflake Now?",
       "url": "https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
@@ -1754,17 +1789,6 @@
       "articleId": "60803d49fd242826"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/announcing-still-counting-with-galen",
-      "title": "Announcing “Still Counting” with Galen Druke and Clare Malone",
-      "url": "https://www.natesilver.net/p/announcing-still-counting-with-galen",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Our new podcast launches soon, and Silver Bulletin readers helped make it possible.",
-      "publishedAt": "2026-09-03T01:20:26.000Z",
-      "articleId": "79d29dc8ba8bf634"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/how-google-taught-llms-to-control",
       "title": "How Google taught LLMs to control robots and started a robotics boom",
       "url": "https://www.understandingai.org/p/how-google-taught-llms-to-control",
@@ -1974,14 +1998,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Lots of clouds in the first half of the day, with peeks of sun possible during the afternoon. Highs from 65 to 70.",
+    "summary": "HAPPENING NOW: Increased breaks in the clouds through evening as temperatures fall through the 60s.",
     "publishedAt": "2026-09-28T09:00:00.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "So glad to say goodbye to the rain. Highs near 70 are an improvement, with maybe some sun late.",
     "articleId": "d8d5e21c5ef97537"
   },
-  "weatherGeneratedAt": "2026-09-28T15:21:36.613Z",
+  "weatherGeneratedAt": "2026-09-28T21:55:19.404Z",
   "weatherError": null,
   "sources": [
     {
@@ -2004,7 +2028,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
