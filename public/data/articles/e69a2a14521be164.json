@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html",
+  "source": "Marginal Revolution",
+  "title": "Optimal liability for offensive and defensive AI",
+  "subtitle": null,
+  "byline": "Tyler Cowen",
+  "publishedAt": "2026-09-23T18:03:36.000Z",
+  "contentHtml": "<blockquote><p>How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack success or attacker profits, saving resources and improving the target’s security payoff. Compensation weakens defence and raises attacker profits. Optimal liability balances these effects against productive exclusion. Greater competition can lower optimal liability; every such decline must end at an outcome retaining defence. With cybersecurity access fixed, monopoly can warrant partial liability but never full liability when provision is worthwhile. When guardrails preserving productive uses are available, strong competition favours universal guarding socially but encourages unilateral removal at insufficient liability. At a fixed provider count, sufficiently many productive users ensure a pure equilibrium with universal guarding under high liability. A universal-guarding requirement makes liability redundant. Under monopoly, adoption follows a unique liability threshold, while zero liability remains uniquely optimal for a range of parameters with sufficiently many productive users.</p></blockquote>\n<p>That is from <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7504998\" target=\"_blank\" rel=\"noopener noreferrer\">a new paper by Joshua Gans</a>.</p>",
+  "wordCount": 184,
+  "imageCount": 0,
+  "linkCount": 1
+}
