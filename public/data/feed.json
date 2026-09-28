@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T22:04:35.322Z",
-  "fetchedAt": "2026-09-27T22:04:35.317Z",
+  "generatedAt": "2026-09-28T00:41:26.600Z",
+  "fetchedAt": "2026-09-28T00:41:26.596Z",
   "sourceCount": 24,
   "itemCount": 177,
-  "totalItemCount": 795,
+  "totalItemCount": 804,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
@@ -2005,7 +2005,7 @@
     "dailyDigitSummary": "A September nor'easter continues to sweep in cloudy skies, gusty winds, and cool vibes – oh, and some showers too.",
     "articleId": "0c0a00944c0998e3"
   },
-  "weatherGeneratedAt": "2026-09-27T22:04:35.322Z",
+  "weatherGeneratedAt": "2026-09-28T00:41:26.600Z",
   "weatherError": null,
   "sources": [
     {
@@ -2019,10 +2019,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Request timed out after 15000ms Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -2091,10 +2091,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
