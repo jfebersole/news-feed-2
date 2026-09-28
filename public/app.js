@@ -634,6 +634,30 @@ function decodeHtmlEntities(value) {
   return htmlEntityDecoder.value;
 }
 
+function isSubtitleRepeatedInArticleBody(subtitle, contentHtml) {
+  if (!subtitle || !contentHtml) {
+    return false;
+  }
+
+  const container = document.createElement("div");
+  container.innerHTML = contentHtml;
+  const bodyText = normalizeReaderComparisonText(container.textContent || "");
+  const subtitleText = normalizeReaderComparisonText(subtitle)
+    .replace(/\s*(?:\[\s*(?:…|\.\.\.)\s*\]|…|\.\.\.)\s*$/u, "")
+    .trim();
+
+  return subtitleText.length >= 60 && bodyText.includes(subtitleText);
+}
+
+function normalizeReaderComparisonText(value) {
+  return decodeHtmlEntities(String(value || ""))
+    .toLowerCase()
+    .replace(/[“”]/g, '"')
+    .replace(/[‘’]/g, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 async function openReader(item, options = {}) {
   const { fromHistory = false } = options;
 
@@ -796,7 +820,11 @@ function renderReader() {
   readerSubtitle.textContent = "";
   readerSubtitle.classList.remove("visible");
   const subtitleRaw = decodeHtmlEntities(article?.subtitle || "");
-  const subtitle = subtitleRaw.length > 320 ? "" : subtitleRaw;
+  const subtitle =
+    subtitleRaw.length > 320 ||
+    isSubtitleRepeatedInArticleBody(subtitleRaw, article?.contentHtml || "")
+      ? ""
+      : subtitleRaw;
   if (subtitle) {
     readerSubtitle.textContent = subtitle;
     readerSubtitle.classList.add("visible");

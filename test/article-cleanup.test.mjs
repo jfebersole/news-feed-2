@@ -96,7 +96,7 @@ test("removes the Listen to this post label from fetched Stratechery articles", 
   assert.match(article.contentHtml, /actual Stratechery article/);
 });
 
-test("keeps a repeated Capital Weather description in the body instead of the subtitle", () => {
+test("keeps repeated metadata descriptions in the body instead of the subtitle", () => {
   const happeningNow =
     "HAPPENING NOW: Partly sunny today with humidity slow to budge and highs in the mid- to upper 80s.";
   const html = `
@@ -123,7 +123,8 @@ test("keeps a repeated Capital Weather description in the body instead of the su
     url: "https://example.com/forecast-test/",
     sourceName: "Another Source",
   });
-  assert.equal(otherSourceArticle.subtitle, happeningNow);
+  assert.equal(otherSourceArticle.subtitle, null);
+  assert.match(otherSourceArticle.contentHtml, /<strong>Happening now: <\/strong>Partly sunny today/);
 });
 
 test("keeps links in very short Marginal Revolution posts and removes its RSS footer", async () => {
@@ -166,6 +167,70 @@ test("keeps links in very short Marginal Revolution posts and removes its RSS fo
   assert.equal(fallback.linkCount, 2);
   assert.doesNotMatch(fallback.contentHtml, /appeared first on|The post/i);
   assert.doesNotMatch(cleanFeedSummary(feedContentHtml, "Marginal Revolution"), /appeared first on|The post/i);
+});
+
+test("renders a safe YouTube iframe when it is the entire article", async () => {
+  const article = await buildArticlePayload({
+    url: "data:text/html,<html><head><title>Video shell</title></head><body></body></html>",
+    sourceName: "Marginal Revolution",
+    fallbackTitle: "Scott Beaulier interviews me, in part about Wyoming",
+    fallbackSummary: "",
+    fallbackContentHtml: `
+      <p><iframe
+        title="Tyler Cowen - University of Wyoming Discussion"
+        src="https://www.youtube.com/embed/rj8Wv1XIfjo?start=384&feature=oembed"
+        allowfullscreen></iframe></p>
+      <p>The post <a href="https://marginalrevolution.com/test">Scott Beaulier interviews me</a>
+      appeared first on <a href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+    `,
+    accessLevel: "open",
+  });
+
+  assert.equal(article.mode, "full");
+  assert.match(article.contentHtml, /class="reader-youtube-embed"/);
+  assert.match(article.contentHtml, /https:\/\/www\.youtube-nocookie\.com\/embed\/rj8Wv1XIfjo\?start=384/);
+  assert.match(article.contentHtml, /class="reader-video"/);
+  assert.doesNotMatch(article.contentHtml, /appeared first on/i);
+});
+
+test("removes unsafe third-party iframes from reader content", () => {
+  const article = extractArticleFromHtml({
+    html: `
+      <html><head><title>Unsafe frame test</title></head><body><article>
+        <p>This substantive article paragraph is intentionally long enough to remain in reader mode after cleanup.</p>
+        <p><iframe src="https://malicious.example/embed/tracker"></iframe></p>
+      </article></body></html>
+    `,
+    url: "https://example.com/unsafe-frame-test",
+    sourceName: "Another Source",
+  });
+
+  assert.match(article.contentHtml, /substantive article paragraph/);
+  assert.doesNotMatch(article.contentHtml, /iframe|malicious\.example/i);
+});
+
+test("does not promote a repeated article excerpt into the reader subtitle", async () => {
+  const summary =
+    "And this leads to the most interesting part of this story: how the highlanders were so isolated for so long. I want to acknowledge that the highlanders were not completely sealed off from the outside world. Over […]";
+  const article = await buildArticlePayload({
+    url: "data:text/html,<html><head><title>Fallback shell</title></head><body></body></html>",
+    sourceName: "Another Source",
+    fallbackTitle: "Why Papua New Guinea is so interesting",
+    fallbackSummary: summary,
+    fallbackContentHtml: `
+      <blockquote>
+        <p>And this leads to the most interesting part of this story: how the highlanders were so isolated for so long.</p>
+        <p>I want to acknowledge that the highlanders were not completely sealed off from the outside world.</p>
+        <p>Over time, a few goods did make their way up to the highlands, including pigs and sweet potatoes.</p>
+        <p>The exchange of those goods changed life while preserving the region's extraordinary isolation.</p>
+      </blockquote>
+    `,
+    accessLevel: "open",
+  });
+
+  assert.equal(article.mode, "full");
+  assert.equal(article.subtitle, null);
+  assert.match(article.contentHtml, /most interesting part of this story/);
 });
 
 test("preserves terse closing paragraphs in Marginal Revolution articles", () => {

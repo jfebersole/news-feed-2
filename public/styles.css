@@ -949,6 +949,7 @@ body::before {
 .reader-body > figure,
 .reader-body > .reader-image-row,
 .reader-body > .reader-datawrapper,
+.reader-body > .reader-video,
 .reader-body > figcaption {
   max-width: min(760px, 100%);
 }
@@ -1012,6 +1013,30 @@ body::before {
   font-size: 0.9rem;
   line-height: 1.35;
   color: #5a5348;
+}
+
+.reader-body .reader-video {
+  width: 100%;
+  max-width: min(760px, 100%);
+  aspect-ratio: 16 / 9;
+  margin: 0 0 22px;
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+}
+
+.reader-body .reader-youtube-embed {
+  display: block;
+  width: 100%;
+  max-width: min(760px, 100%);
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  background: #000;
+}
+
+.reader-body .reader-video > .reader-youtube-embed {
+  height: 100%;
 }
 
 .reader-body .reader-footnote-ref {
@@ -1254,6 +1279,7 @@ body::before {
   .reader-body > figure,
   .reader-body > .reader-image-row,
   .reader-body > .reader-datawrapper,
+  .reader-body > .reader-video,
   .reader-body > .reader-embed-card,
   .reader-body > figcaption {
     max-width: min(760px, 100%);

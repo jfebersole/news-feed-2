@@ -356,7 +356,10 @@ async function buildArticlePayload({
     const extracted = extractArticleFromHtml({ html, url, sourceName });
 
     const tooThinForReader =
-      extracted.wordCount < 70 && extracted.imageCount === 0 && extracted.linkCount < 2;
+      extracted.wordCount < 70 &&
+      extracted.imageCount === 0 &&
+      extracted.linkCount < 2 &&
+      !hasEmbeddedReaderMedia(extracted.contentHtml);
     if (extracted.isLikelyPaywalled || tooThinForReader) {
       if (!extracted.isLikelyPaywalled && feedFallbackPayload) {
         if (cacheKey) {
@@ -1087,7 +1090,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
   const isMoneyStuffNewsletter = source.includes("money stuff") && isKillTheNewsletterHost;
   const isBrewShopNewsletter = source.includes("brew shop") && isKillTheNewsletterHost;
   const isEmailNewsletter = isMoneyStuffNewsletter || isBrewShopNewsletter;
-  const fallbackSubtitle = isEmailNewsletter ? null : fallbackSummary || null;
+  const fallbackSubtitleCandidate = isEmailNewsletter ? null : fallbackSummary || null;
 
   let content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   try {
@@ -1103,10 +1106,16 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     content = { contentHtml: "", wordCount: 0, imageCount: 0, linkCount: 0 };
   }
 
-  if (!content.contentHtml || (!isEmailNewsletter && content.wordCount < 80)) {
+  if (
+    !content.contentHtml ||
+    (!isEmailNewsletter && content.wordCount < 80 && !hasEmbeddedReaderMedia(content.contentHtml))
+  ) {
     const plainText = cleanText(rawHtml);
     if (plainText.length < 140) {
-      if (!content.contentHtml || content.wordCount < 35) {
+      if (
+        !content.contentHtml ||
+        (content.wordCount < 35 && !hasEmbeddedReaderMedia(content.contentHtml))
+      ) {
         return null;
       }
       return {
@@ -1116,7 +1125,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
         url,
         source: sourceName,
         title: fallbackTitle || "Article",
-        subtitle: fallbackSubtitle,
+        subtitle: selectReaderSubtitle(fallbackSubtitleCandidate, content, sourceName),
         byline: inferFallbackByline(sourceName, rawHtml),
         publishedAt: null,
         contentHtml: content.contentHtml,
@@ -1128,7 +1137,10 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
 
     const paragraphs = dedupeParagraphs(splitIntoParagraphs(plainText, 35)).slice(0, 240);
     if (!paragraphs.length) {
-      if (!content.contentHtml || content.wordCount < 35) {
+      if (
+        !content.contentHtml ||
+        (content.wordCount < 35 && !hasEmbeddedReaderMedia(content.contentHtml))
+      ) {
         return null;
       }
       return {
@@ -1138,7 +1150,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
         url,
         source: sourceName,
         title: fallbackTitle || "Article",
-        subtitle: fallbackSubtitle,
+        subtitle: selectReaderSubtitle(fallbackSubtitleCandidate, content, sourceName),
         byline: inferFallbackByline(sourceName, rawHtml),
         publishedAt: null,
         contentHtml: content.contentHtml,
@@ -1164,7 +1176,11 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
 
   const isUsableShortMarginalRevolutionPost =
     source.includes("marginal revolution") && content.wordCount >= 5 && content.linkCount >= 1;
-  if (content.wordCount < 35 && !isUsableShortMarginalRevolutionPost) {
+  if (
+    content.wordCount < 35 &&
+    !isUsableShortMarginalRevolutionPost &&
+    !hasEmbeddedReaderMedia(content.contentHtml)
+  ) {
     return null;
   }
 
@@ -1177,7 +1193,7 @@ function buildFullPayloadFromFeedFallback({ url, sourceName, fallbackTitle, fall
     url,
     source: sourceName,
     title: fallbackTitle || "Article",
-    subtitle: fallbackSubtitle,
+    subtitle: selectReaderSubtitle(fallbackSubtitleCandidate, content, sourceName),
     byline,
     publishedAt: null,
     contentHtml: content.contentHtml,
@@ -1603,9 +1619,7 @@ function extractArticleFromHtml({ html, url, sourceName }) {
     subtitle = null;
   }
   if (subtitle) {
-    const isCapitalWeatherHappeningNow =
-      source === "capital weather" && /^happening now\s*:/i.test(cleanText(subtitle));
-    if (isCapitalWeatherHappeningNow && contentRepeatsSubtitle(content, subtitle)) {
+    if (contentRepeatsSubtitle(content, subtitle)) {
       subtitle = null;
     } else {
       content = stripDuplicativeLeadHeading(content, subtitle);
@@ -1846,6 +1860,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
         "a[data-component-name='Twitter2ToDOM']",
         "div[class*='imageRow']",
         "img",
+        "iframe",
         "blockquote",
         "pre",
         "hr",
@@ -1866,6 +1881,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
         "div[data-component-name='FootnoteToDOM']",
         "a[data-component-name='Twitter2ToDOM']",
         "img",
+        "iframe",
         "blockquote",
         "pre",
         "hr",
@@ -1882,6 +1898,7 @@ function collectContentBlocks($, container, baseUrl, options = {}) {
     "table",
     "figure",
     "img",
+    "iframe",
     "blockquote",
     "pre",
     "hr",
@@ -1990,6 +2007,7 @@ function shouldKeepContentBlock($, element, options = {}) {
   const text = cleanText(node.text());
   const hasLinks = node.find("a[href]").length > 0;
   const hasImages = tag === "img" || node.find("img").length > 0;
+  const hasEmbeds = tag === "iframe" || node.find("iframe").length > 0;
   const isSubstackShareButton =
     text.toLowerCase() === "share" &&
     node
@@ -2052,6 +2070,7 @@ function shouldKeepContentBlock($, element, options = {}) {
     text.length < 18 &&
     !hasLinks &&
     !hasImages &&
+    !hasEmbeds &&
     !options.preserveShortParagraphs
   ) {
     if (text.length >= 3 && node.children("strong").length > 0) {
@@ -2081,7 +2100,7 @@ function shouldKeepContentBlock($, element, options = {}) {
     return isLikelyDataTableNode(node);
   }
 
-  if (tag === "figure" && !hasImages && text.length < 20) {
+  if (tag === "figure" && !hasImages && !hasEmbeds && text.length < 20) {
     return false;
   }
 
@@ -2130,6 +2149,7 @@ function sanitizeContentBlock($, element, baseUrl) {
     "strong",
     "a",
     "img",
+    "iframe",
     "figure",
     "figcaption",
     "h2",
@@ -2145,7 +2165,7 @@ function sanitizeContentBlock($, element, baseUrl) {
   ]);
 
   const block = $(element).clone();
-  block.find("script,style,noscript,iframe,form,button,input,textarea,select,svg,canvas").remove();
+  block.find("script,style,noscript,form,button,input,textarea,select,svg,canvas").remove();
   block.find("[aria-hidden='true']").remove();
 
   const nodes = [block.get(0), ...block.find("*").toArray()];
@@ -2192,6 +2212,11 @@ function sanitizeContentBlock($, element, baseUrl) {
       normalizeImageElement($node, attrs, baseUrl);
       return;
     }
+
+    if (tag === "iframe") {
+      normalizeYouTubeEmbedElement($node, attrs, baseUrl);
+      return;
+    }
   });
 
   block.find("*").each((_idx, node) => {
@@ -2204,11 +2229,16 @@ function sanitizeContentBlock($, element, baseUrl) {
     if (["p", "li", "span", "figcaption", "blockquote"].includes(tag)) {
       const text = cleanText($node.text());
       const hasImage = $node.find("img").length > 0;
-      if (!text && !hasImage) {
+      const hasEmbed = $node.find("iframe.reader-youtube-embed").length > 0;
+      if (!text && !hasImage && !hasEmbed) {
         $node.remove();
       }
     }
   });
+
+  if (block.find("iframe.reader-youtube-embed").length > 0) {
+    block.attr("class", "reader-video");
+  }
 
   const html = $.html(block).trim();
   if (!html || html === "<p></p>") {
@@ -2385,6 +2415,54 @@ function normalizeImageElement(node, attrs, baseUrl) {
 
   node.attr("loading", "lazy");
   node.attr("decoding", "async");
+}
+
+function normalizeYouTubeEmbedElement(node, attrs, baseUrl) {
+  const src = normalizeYouTubeEmbedUrl(attrs.src || "", baseUrl);
+  if (!src) {
+    node.remove();
+    return;
+  }
+
+  node.attr("class", "reader-youtube-embed");
+  node.attr("src", src);
+  node.attr("title", cleanText(attrs.title || "") || "YouTube video");
+  node.attr("loading", "lazy");
+  node.attr("referrerpolicy", "strict-origin-when-cross-origin");
+  node.attr("allow", "accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share");
+  node.attr("allowfullscreen", "");
+}
+
+function normalizeYouTubeEmbedUrl(value, baseUrl = "") {
+  try {
+    const resolved = new URL(String(value || "").trim(), baseUrl || undefined);
+    const host = resolved.hostname.toLowerCase().replace(/^www\./, "");
+    if (host !== "youtube.com" && host !== "youtube-nocookie.com") {
+      return "";
+    }
+
+    const match = resolved.pathname.match(/^\/embed\/([A-Za-z0-9_-]{6,20})\/?$/);
+    if (!match?.[1]) {
+      return "";
+    }
+
+    const normalized = new URL(`https://www.youtube-nocookie.com/embed/${match[1]}`);
+    for (const name of ["start", "end", "index"]) {
+      const candidate = resolved.searchParams.get(name);
+      if (/^\d{1,8}$/.test(candidate || "")) {
+        normalized.searchParams.set(name, candidate);
+      }
+    }
+
+    const list = resolved.searchParams.get("list");
+    if (/^[A-Za-z0-9_-]{6,80}$/.test(list || "")) {
+      normalized.searchParams.set("list", list);
+    }
+
+    return normalized.toString();
+  } catch {
+    return "";
+  }
 }
 
 function normalizeDivElement(node, attrs, baseUrl) {
@@ -2694,12 +2772,33 @@ function stripDuplicativeLeadHeading(content, subtitle) {
   };
 }
 
+function hasEmbeddedReaderMedia(contentHtml) {
+  return /<iframe\b[^>]*\bclass=["'][^"']*\breader-youtube-embed\b/i.test(
+    String(contentHtml || "")
+  );
+}
+
+function selectReaderSubtitle(candidate, content, sourceName = "") {
+  const subtitle = cleanText(candidate || "");
+  if (!subtitle) {
+    return null;
+  }
+
+  // Marginal Revolution uses its article excerpt as the metadata description,
+  // not as a separate deck. This must also cover RSS/fallback rendering.
+  if (String(sourceName || "").toLowerCase().includes("marginal revolution")) {
+    return null;
+  }
+
+  return contentRepeatsSubtitle(content, subtitle) ? null : subtitle;
+}
+
 function contentRepeatsSubtitle(content, subtitle) {
   if (!content?.contentHtml || !subtitle) {
     return false;
   }
 
-  const normalizedSubtitle = cleanText(subtitle).toLowerCase();
+  const normalizedSubtitle = normalizeComparableReaderText(subtitle);
   if (!normalizedSubtitle) {
     return false;
   }
@@ -2707,13 +2806,31 @@ function contentRepeatsSubtitle(content, subtitle) {
   try {
     const $ = cheerio.load(`<div id="reader-subtitle-check-root">${content.contentHtml}</div>`);
     const $root = $("#reader-subtitle-check-root");
-    return $root
+    const repeatsBlock = $root
       .find("h1,h2,h3,h4,h5,h6,p,blockquote")
       .toArray()
-      .some((node) => cleanText($(node).text()).toLowerCase() === normalizedSubtitle);
+      .some((node) => normalizeComparableReaderText($(node).text()) === normalizedSubtitle);
+    if (repeatsBlock) {
+      return true;
+    }
+
+    const contentText = normalizeComparableReaderText($root.text());
+    const untruncatedSubtitle = normalizedSubtitle
+      .replace(/\s*(?:\[\s*(?:…|\.\.\.)\s*\]|…|\.\.\.)\s*$/u, "")
+      .trim();
+    return untruncatedSubtitle.length >= 60 && contentText.includes(untruncatedSubtitle);
   } catch {
     return false;
   }
+}
+
+function normalizeComparableReaderText(value) {
+  return cleanText(value)
+    .toLowerCase()
+    .replace(/[“”]/g, '"')
+    .replace(/[‘’]/g, "'")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function splitIntoParagraphs(text, minLength = 45) {
