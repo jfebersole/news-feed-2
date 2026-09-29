@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-09-29T08:23:14.603Z",
-  "fetchedAt": "2026-09-29T08:23:14.599Z",
+  "generatedAt": "2026-09-29T15:44:04.713Z",
+  "fetchedAt": "2026-09-29T15:44:04.709Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 802,
+  "itemCount": 178,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/murdered-musicians-an-album-a-day",
+      "title": "Murdered Musicians: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/murdered-musicians-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Selena, Blaze Foley, Marvin Gaye, and others",
+      "publishedAt": "2026-09-29T13:30:52.000Z",
+      "articleId": "3cd1709bd515ed93"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-truth-about-rich-people-in-america",
+      "title": "The truth about rich people in America",
+      "url": "https://www.slowboring.com/p/the-truth-about-rich-people-in-america",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A new book reveals the vast wealth of America’s banal small-business owners.",
+      "publishedAt": "2026-09-29T10:03:46.000Z",
+      "articleId": "f574e906ec83bcae"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "articleId": "20723d9e82af55a6"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited",
       "title": "Accounting for Cross-Country Income Differences Revisited",
@@ -1216,17 +1250,6 @@
       "articleId": "db778a21c50dbfff"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-      "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
-      "publishedAt": "2026-09-15T10:00:00.000Z",
-      "articleId": "5690505b5fae314e"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/king-ludd",
       "title": "King Ludd",
       "url": "https://www.astralcodexten.com/p/king-ludd",
@@ -1977,35 +2000,23 @@
       "summary": "From the Hugging Face Incident to Twilight Factories",
       "publishedAt": "2026-08-31T00:24:35.000Z",
       "articleId": "0cce3296bceb61c6"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
-      "title": "Rockabye Baby: A Conversation with Lisa Roth",
-      "url": "https://www.cantgetmuchhigher.com/p/rockabye-baby-a-conversation-with",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Lisa Roth stopped by to talk about how she revolutionized music for children",
-      "publishedAt": "2026-08-30T14:31:00.000Z",
-      "articleId": "9510ab32455b269a"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-3/",
-    "title": "DC-area forecast: Gradual clearing as temperatures climb this week",
-    "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-3/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-improvement-with-increasing-sunshine-and-temperatures/",
+    "title": "DC-area forecast: Trending warmer and eventually brighter before a cooler weekend",
+    "url": "https://www.capitalweather.com/dc-area-forecast-improvement-with-increasing-sunshine-and-temperatures/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Increased breaks in the clouds through evening as temperatures fall through the 60s.",
-    "publishedAt": "2026-09-28T09:00:00.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "So glad to say goodbye to the rain. Highs near 70 are an improvement, with maybe some sun late.",
-    "articleId": "d8d5e21c5ef97537"
+    "summary": "HAPPENING NOW: Partly to mostly cloudy as afternoon highs reach the mid-70s. Maybe a sprinkle or passing shower.",
+    "publishedAt": "2026-09-29T09:00:17.000Z",
+    "dailyDigit": 8,
+    "dailyDigitLabel": "8/10",
+    "dailyDigitSummary": "Considerable clouds, but peeks of sunshine and pleasantly warmer temperatures have the digit trending up.",
+    "articleId": "51d2750ced5ffa33"
   },
-  "weatherGeneratedAt": "2026-09-29T08:23:14.603Z",
+  "weatherGeneratedAt": "2026-09-29T15:44:04.713Z",
   "weatherError": null,
   "sources": [
     {
@@ -2116,7 +2127,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
