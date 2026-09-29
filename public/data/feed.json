@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-09-29T15:44:04.713Z",
-  "fetchedAt": "2026-09-29T15:44:04.709Z",
+  "generatedAt": "2026-09-29T20:42:50.204Z",
+  "fetchedAt": "2026-09-29T20:42:50.200Z",
   "sourceCount": 24,
-  "itemCount": 178,
+  "itemCount": 179,
   "totalItemCount": 803,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bzzm0vwmcmkihfevdo0t.html",
+      "title": "Money Stuff: Is Existential Risk Securities Fraud?",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bzzm0vwmcmkihfevdo0t.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Sub-existential risk One thing that artificial intelligence labs’ frontier models have gotten up to recently is hacking into companies ’ and governments ’ computer systems. If you are worried about AI as an existential threat to humanity, these hacking incidents probably make you more worried. The worries you had — that AI alignment is a hard problem, that AI systems can disguise their non-alignment, that AI containment is a hard problem, that AI agents can selflessly coordinate with each other to outwit humans, etc. — all seem to have been strengthened by those incidents. The best-known form of this argument is Dwarkesh Patel on the Hugging Face incident . Dario Amodei’s call to “ pace the frontier ” was in part a response to hacking incidents. But even if you do not believe in agent civilizations or pacing the frontier or AI as an existential threat to humanity, those hacking incidents are, you know, hacking incidents. You’re not supposed to hack into companies’ and governments’ computer systems. It is frowned upon when people do it, it is frowned upon when AI agents do it, and when a company builds AI agents that do it, you might quite reasonably frown at the company. I wrote about “pacing the frontier” — the idea that the big AI labs should cooperate with each other and with democratic governments to slow the advance of AI — a few weeks ago, and I got an email from a reader saying: Hacking into a company website is a federal crime. So perhaps Sam Altman and other OpenAI executive should be charged with a felony for the Hugging Face hack. I have a hunch, if they envision themselves beyond bars, they will figure out how to control AI. This struck me as misguided. [1] My assumption is that Altman, Amodei and other AI leaders are totally sincere in worrying that the pace of AI development is an existential risk to humanity . That is, my assumption is that they think there is a real probability that, if they lose control of their AI systems, those AI systems will kill them and everyone they know. Despite having that extremely powerful personal incentive to control AI, they are not confident that they can do it. Adding some lesser incentive — “ooh if your evil AI hacks a computer you might get arrested” — seems trivial. They’re trying as hard as they can to control it already! But maybe I am naive. Maybe they’re not totally sincere about the existential risk. Maybe they think AI will wipe out most people, but they’ll be safe in their bunkers or whatever. Maybe they think AI will enslave the rest of humanity and install them as philosopher-kings. Maybe short-term legal consequences focus the mind more than long-term existential consequences. Maybe they think the existential risk has a 10% probability and they can live with that, but a 30% chance of...",
+      "publishedAt": "2026-09-29T19:25:57.843Z",
+      "articleId": "452666f190f1f37b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america",
+      "title": "Shipping to America",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The vulnerability of our shipping routes remains underdiscussed, perhaps that is in some ways a good thing: We study the macroeconomic and trade-policy implications of disruptions to U.S.-bound shipping routes. Standard models treat them as iceberg-cost shocks, conflating the shock with the response to it. Using satellite vessel-tracking data, we construct route-level measures of potential […]",
+      "publishedAt": "2026-09-29T17:53:09.000Z",
+      "articleId": "9e379c7aa24d3c06"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7643392/2026/09/29/new-york-giants-odell-beckham-jr-release/",
+      "title": "New York Giants to release Odell Beckham Jr.: Sources",
+      "url": "https://www.nytimes.com/athletic/7643392/2026/09/29/new-york-giants-odell-beckham-jr-release/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Beckham did not make a catch in three games with the Giants.",
+      "publishedAt": "2026-09-29T17:07:39.000Z",
+      "articleId": "d970daacc275c9ef"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Comment section arbitrage. This is what the AIs do too, right? 2. Claims about New Zealand. 3. Good Bryan Caplan post on Effective Altruism. 4. Reported female bisexuality is in retreat? 5. Sadly, now a fringey view, yes. But not with me. 6. Fewer and fewer are defecting from North Korea.",
+      "publishedAt": "2026-09-29T15:47:30.000Z",
+      "articleId": "deb3c6085380aba3"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/murdered-musicians-an-album-a-day",
       "title": "Murdered Musicians: An Album a Day",
@@ -353,28 +397,6 @@
       "summary": "ASML’s lack of European sales, a California distributed power plant, Starlink as a planetary barometer, and more.",
       "publishedAt": "2026-09-26T10:17:46.000Z",
       "articleId": "971ad104932b54e9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more",
-      "title": "Should you text more?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here, in five waves of panel data (N = 1,966 US adults), we examined associations between life satisfaction and self-reported use of ten common social technologies measured every 3 months on a six-point frequency scale from ‘I did not use’ to ‘multiple times daily’. At this measurement level and timescale, Bayesian and frequentist random-intercept cross-lagged panel models showed […]",
-      "publishedAt": "2026-09-26T07:28:35.000Z",
-      "articleId": "ad14b49d68b03c2b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai",
-      "title": "A doomsday scenario for American AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the title of my latest Free Press column, here is the closing bit: Sick and elderly Americans will go to Chinese companies for their AI-invented and AI-tested medical devices and drugs. America still will be a wealthy country, so China will charge the highest prices possible, yet prioritize Chinese citizens for treatment. Large […]",
-      "publishedAt": "2026-09-26T04:10:05.000Z",
-      "articleId": "f20bc149300248d9"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
@@ -1160,17 +1182,6 @@
       "summary": "A guest post by Josh Morrison",
       "publishedAt": "2026-09-16T23:33:42.000Z",
       "articleId": "c5fba4ef4c2c28c8"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mv0ux7el2ilz0edxf934.html",
-      "title": "Money Stuff: BlackRock Wants Pensions",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/mv0ux7el2ilz0edxf934.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Everybody wants a pension Back in March, I laid out my theory of pensions . There are two main components to this theory. One is that people in the US used to have defined-benefit pensions, and now they mostly have defined-contribution retirement plans like 401(k)s. A pension is a big pool of money, managed by professionals, that has to pay thousands of beneficiaries some promised level of benefits every month when they retire. Because the payouts are pretty predictable, the pension fund can make very long-term investments: Some of its money definitely won’t be needed in for the next 30 years, so it can lock that money up for decades. So pension funds can make illiquid investments, and get paid an illiquidity premium: By locking up their money in bespoke, non-traded stuff, they can hope to earn a higher return than they’d get by just investing in Treasury bonds or even the stock market. Meanwhile a 401(k) is an individual account; you put money into the 401(k), you pick how it’s invested, and at retirement you can spend it. In the abstract, a 401(k) has similar goals to a pension, and could do similar things: If you are a 35-year-old saving for retirement, you shouldn’t need your money for 30 years, so you can also buy illiquid investments and earn an illiquidity premium. But because a 401(k) is, in most respects, an individual account, it is not so simple to lock it up for 30 years. You probably won’t withdraw money until you retire, but you might. What if you have a medical emergency and need the money? What if you die? A pension fund can smooth out those risks; a 401(k) can’t. Therefore, in practice, investments in 401(k) plans need to offer some liquidity. You need to be able to take your money out; mass marketed 401(k) investments can’t have the form “you give us money and we give it back in 10 years, no earlier.” So it is much harder for a 401(k) plan to invest in bespoke, non-traded stuff. It’s not impossible: There are various structures (interval funds, mixed public/private funds, etc.) that are designed to, essentially, do the pooling. If you raise money from retail investors and invest it in illiquid private credit, but you let the investors take up to 5% of their money out each quarter, that’s mostly fine: Fewer than 5% of your investors will probably need money (for emergencies, etc.) in any given quarter, so you will be able to keep your money invested in the illiquid private stuff. But, if you’re offering liquidity, eventually your retail investors will use it in a correlated way. We talked a lot earlier this year about a sort of quasi-run on retail private credit funds: Those funds often let investors withdraw 5% of their money each quarter, but there was a wave of investor worry about private credit, and investors started asking for...",
-      "publishedAt": "2026-09-16T17:59:52.978Z",
-      "articleId": "87fb5f63c4c5ed6b"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
@@ -2009,14 +2020,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly to mostly cloudy as afternoon highs reach the mid-70s. Maybe a sprinkle or passing shower.",
+    "summary": "HAPPENING NOW: Skies become clearer through evening as temperatures slowly fall off from daytime highs in the low 70s.",
     "publishedAt": "2026-09-29T09:00:17.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Considerable clouds, but peeks of sunshine and pleasantly warmer temperatures have the digit trending up.",
     "articleId": "51d2750ced5ffa33"
   },
-  "weatherGeneratedAt": "2026-09-29T15:44:04.713Z",
+  "weatherGeneratedAt": "2026-09-29T20:42:50.204Z",
   "weatherError": null,
   "sources": [
     {
