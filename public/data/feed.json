@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-09-28T21:55:19.404Z",
-  "fetchedAt": "2026-09-28T21:55:19.401Z",
+  "generatedAt": "2026-09-29T01:52:47.499Z",
+  "fetchedAt": "2026-09-29T01:52:47.496Z",
   "sourceCount": 24,
   "itemCount": 177,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/stop-spending-money-on-smaller-classes",
+      "title": "Stop spending money on smaller classes",
+      "url": "https://www.noahpinion.blog/p/stop-spending-money-on-smaller-classes",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "We’ve spent decades raising teacher quantity when we should have been raising quality.",
+      "publishedAt": "2026-09-28T22:27:25.000Z",
+      "articleId": "7ea924271fd05800"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-housing-market-is-way-out-of",
+      "title": "The housing market is way out of whack",
+      "url": "https://www.slowboring.com/p/the-housing-market-is-way-out-of",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "With mortgage rates above 7 percent and stocks over-performing, some Americans are rethinking their investments. Meanwhile, Portland is having a rent mismatch.",
+      "publishedAt": "2026-09-28T22:01:55.000Z",
+      "articleId": "9ec9e55a9712f6ca"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
       "title": "Giants' trade for J.J. McCarthy was aggressive, but was it also reckless?",
@@ -1039,18 +1062,6 @@
       "articleId": "812d78afc11d8605"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-why",
-      "title": "“The Argument” podcast, ad free: Why the worst people always end up in charge",
-      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-why",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "This page is for podcast-feed delivery only.",
-      "publishedAt": "2026-09-17T17:52:33.000Z",
-      "articleId": "22dccd9b0e37a629"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/american-idol-should-have-been-canceled",
       "title": "American Idol Should Have Been Canceled After Season One",
       "url": "https://www.cantgetmuchhigher.com/p/american-idol-should-have-been-canceled",
@@ -1978,17 +1989,6 @@
       "summary": "Lisa Roth stopped by to talk about how she revolutionized music for children",
       "publishedAt": "2026-08-30T14:31:00.000Z",
       "articleId": "9510ab32455b269a"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
-      "title": "In defense of Asian American art",
-      "url": "https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "People are creating some very interesting and original stuff!",
-      "publishedAt": "2026-08-30T00:15:19.000Z",
-      "articleId": "795738cca0e8ef05"
     }
   ],
   "weather": {
@@ -2005,7 +2005,7 @@
     "dailyDigitSummary": "So glad to say goodbye to the rain. Highs near 70 are an improvement, with maybe some sun late.",
     "articleId": "d8d5e21c5ef97537"
   },
-  "weatherGeneratedAt": "2026-09-28T21:55:19.404Z",
+  "weatherGeneratedAt": "2026-09-29T01:52:47.499Z",
   "weatherError": null,
   "sources": [
     {
