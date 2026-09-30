@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-09-30T00:22:30.023Z",
-  "fetchedAt": "2026-09-30T00:22:30.020Z",
+  "generatedAt": "2026-09-30T06:38:42.403Z",
+  "fetchedAt": "2026-09-30T06:38:42.399Z",
   "sourceCount": 24,
-  "itemCount": 178,
+  "itemCount": 176,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
+      "title": "*Shade*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Sam Bloch, and the subtitle is The Promise of a Forgotten Natural Resource. An interesting book on a neglected topic, here is one excerpt: Shade is not part of L.A.’s modern identity. In the 1930s, the city was rezoned to Federal Housing Administration design standards and banned high-density developments like row houses. […]",
+      "publishedAt": "2026-09-30T06:26:22.000Z",
+      "articleId": "d7807cf181909287"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber",
+      "title": "Don’t let AI make you dumber",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column, here is one excerpt: I do not think the skeptics would put it this way, but as I read Conti, I find he has a pretty bleak fundamental view of humanity. Are we all really just looking to veg out and abandon curiosity and inquiry, […]",
+      "publishedAt": "2026-09-30T04:17:47.000Z",
+      "articleId": "526dbf416df20b67"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
       "title": "Midterm waves are the rule, not the exception",
@@ -363,28 +385,6 @@
       "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use principle and generally, the biological aim of maximum sustained-yield. […]",
       "publishedAt": "2026-09-27T04:27:05.000Z",
       "articleId": "78e965477b21845d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao",
-      "title": "What should I ask Terence Tao?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him?",
-      "publishedAt": "2026-09-26T17:38:34.000Z",
-      "articleId": "e7b9f6038b8e0979"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. One way to use screens less, will it catch on? 2. Roon as cultural critic. 3. The Greenland deal sounds pretty good for America? 4. The cultures that are New England? 5. Yet newer results on AI-driven labor demand. 6. Ayn Rand as movie extra.",
-      "publishedAt": "2026-09-26T16:11:35.000Z",
-      "articleId": "8389c7312314f868"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-map-is-melting",
@@ -1977,45 +1977,23 @@
       "summary": "People are right to want less police intrusion in their lives",
       "publishedAt": "2026-08-31T13:40:20.000Z",
       "articleId": "a128a31867140635"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7551353/2026/08/30/new-york-giants-roster-53-odell-beckham-2026/",
-      "title": "Giants 53-man roster breakdown: Odell Beckham Jr. is back; what comes next for NY?",
-      "url": "https://www.nytimes.com/athletic/7551353/2026/08/30/new-york-giants-roster-53-odell-beckham-2026/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The Giants' depth is still lacking in a few key areas. They’re fifth in the waiver claim pecker order; what positions might they target?",
-      "publishedAt": "2026-08-31T00:57:48.000Z",
-      "articleId": "ae92f441839efa29"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/agency-and-agents",
-      "title": "Agency and Agents",
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "From the Hugging Face Incident to Twilight Factories",
-      "publishedAt": "2026-08-31T00:24:35.000Z",
-      "articleId": "0cce3296bceb61c6"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-improvement-with-increasing-sunshine-and-temperatures/",
-    "title": "DC-area forecast: Trending warmer and eventually brighter before a cooler weekend",
+    "title": "DC-area forecast: Trending warmer and brighter before a cooler weekend",
     "url": "https://www.capitalweather.com/dc-area-forecast-improvement-with-increasing-sunshine-and-temperatures/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Skies become clearer through evening as temperatures slowly fall off from daytime highs in the low 70s.",
+    "summary": "HAPPENING NOW: Skies become clearer through evening with temperatures in the 60s.",
     "publishedAt": "2026-09-29T09:00:17.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Considerable clouds, but peeks of sunshine and pleasantly warmer temperatures have the digit trending up.",
     "articleId": "51d2750ced5ffa33"
   },
-  "weatherGeneratedAt": "2026-09-30T00:22:30.023Z",
+  "weatherGeneratedAt": "2026-09-30T06:38:42.403Z",
   "weatherError": null,
   "sources": [
     {
