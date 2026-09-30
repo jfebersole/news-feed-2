@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-30T19:13:13.825Z",
-  "fetchedAt": "2026-09-30T19:13:13.822Z",
+  "generatedAt": "2026-09-30T23:43:47.091Z",
+  "fetchedAt": "2026-09-30T23:43:47.086Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 177,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
+      "title": "This Is What Fed Independence Looks Like",
+      "url": "https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "President Trump’s economic team is annoyed he hasn’t been able to reshape the Federal Reserve Board. But he’s not supposed to be able to.",
+      "publishedAt": "2026-09-30T22:42:58.000Z",
+      "articleId": "8e74f2c03b11ede3"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/cracks-in-the-republican-coalition",
+      "title": "Cracks in the Republican coalition",
+      "url": "https://www.slowboring.com/p/cracks-in-the-republican-coalition",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Rural and Hispanic voters are souring on Trump and his party, and Democrats are trying to win them over without alienating their own base.",
+      "publishedAt": "2026-09-30T22:01:54.000Z",
+      "articleId": "888030f27c980872"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7646784/2026/09/30/jameis-winston-j-j-mccarthy-new-york-giants/",
+      "title": "Giants QB Jameis Winston excited to work with J.J. McCarthy",
+      "url": "https://www.nytimes.com/athletic/7646784/2026/09/30/jameis-winston-j-j-mccarthy-new-york-giants/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "\"Anybody who gets an opportunity to come to a new organization with a fresh start wants to make an impact,\" Winston said of McCarthy.",
+      "publishedAt": "2026-09-30T20:06:53.000Z",
+      "articleId": "6e1d2f0e1a72b137"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7643392/2026/09/30/new-york-giants-odell-beckham-jr-release/",
+      "title": "John Harbaugh on why Giants cut Odell Beckham Jr.: 'We weren't getting enough'",
+      "url": "https://www.nytimes.com/athletic/7643392/2026/09/30/new-york-giants-odell-beckham-jr-release/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Beckham did not make a catch in three games with the Giants.",
+      "publishedAt": "2026-09-30T19:36:39.000Z",
+      "articleId": "48a3add6b09ec62f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3",
       "title": "The polity that is Singapore",
@@ -15,6 +60,17 @@
       "summary": "Police in Singapore have charged a man who is accused of posting an AI-generated image of a saltwater crocodile in a popular reservoir. Ye Lin was charged with communicating a false message and obstructing the course of justice for allegedly deleting the picture and the application he used. The fake image caused public concern, authorities […]",
       "publishedAt": "2026-09-30T18:37:04.000Z",
       "articleId": "aa962097cf51db05"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/quick-update",
+      "title": "Quick Update",
+      "url": "https://walkingtheworld.substack.com/p/quick-update",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Since being released from the ER I’ve done very little other than doctor visits and sit in my local McDonald’s, reading and scrolling online — a product of continuing lethargy and some lingering pain, and bad weather.",
+      "publishedAt": "2026-09-30T17:02:14.000Z",
+      "articleId": "7a90484ca1616360"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/gxbj1p1t6f4dcbttjj96.html",
@@ -138,17 +194,6 @@
       "summary": "The vulnerability of our shipping routes remains underdiscussed, perhaps that is in some ways a good thing: We study the macroeconomic and trade-policy implications of disruptions to U.S.-bound shipping routes. Standard models treat them as iceberg-cost shocks, conflating the shock with the response to it. Using satellite vessel-tracking data, we construct route-level measures of potential […]",
       "publishedAt": "2026-09-29T17:53:09.000Z",
       "articleId": "9e379c7aa24d3c06"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7643392/2026/09/29/new-york-giants-odell-beckham-jr-release/",
-      "title": "New York Giants to release Odell Beckham Jr.: Sources",
-      "url": "https://www.nytimes.com/athletic/7643392/2026/09/29/new-york-giants-odell-beckham-jr-release/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Beckham did not make a catch in three games with the Giants.",
-      "publishedAt": "2026-09-29T17:07:39.000Z",
-      "articleId": "d970daacc275c9ef"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588",
@@ -1014,18 +1059,6 @@
       "summary": "The trick is to let them beat themselves.",
       "publishedAt": "2026-09-20T09:51:30.000Z",
       "articleId": "3e898c2057b3377b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
-      "title": "What stake does Airbnb have in the supply game?",
-      "url": "https://www.slowboring.com/p/what-stake-does-airbnb-have-in-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A Q&A with Daniel Hornung",
-      "publishedAt": "2026-09-19T13:02:08.000Z",
-      "articleId": "81df084b1616fee8"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09192026",
@@ -1963,14 +1996,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny and pleasant this afternoon as highs top out near 80.",
+    "summary": "HAPPENING NOW: Bubbly clouds of the day dissipate as high, thin clouds stream by during a pleasant evening with temperatures falling to near 70.",
     "publishedAt": "2026-09-30T09:00:06.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Not too far off from an ideal fall day. Just a touch too warm and not super dry air.",
     "articleId": "0d98ba24fa6bfe35"
   },
-  "weatherGeneratedAt": "2026-09-30T19:13:13.825Z",
+  "weatherGeneratedAt": "2026-09-30T23:43:47.091Z",
   "weatherError": null,
   "sources": [
     {
@@ -2056,10 +2089,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
