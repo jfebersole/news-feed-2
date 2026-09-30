@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-09-29T20:42:50.204Z",
-  "fetchedAt": "2026-09-29T20:42:50.200Z",
+  "generatedAt": "2026-09-30T00:22:30.023Z",
+  "fetchedAt": "2026-09-30T00:22:30.020Z",
   "sourceCount": 24,
-  "itemCount": 179,
-  "totalItemCount": 803,
+  "itemCount": 178,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
+      "title": "Midterm waves are the rule, not the exception",
+      "url": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Democrats have an increasingly large lead in the polls — and in FLIPR. But history says that shouldn’t be surprising.",
+      "publishedAt": "2026-09-29T23:03:04.000Z",
+      "articleId": "73aa30ae6ba01acb"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bzzm0vwmcmkihfevdo0t.html",
       "title": "Money Stuff: Is Existential Risk Securities Fraud?",
@@ -1050,18 +1062,6 @@
       "articleId": "4b68d9696ec4583d"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/trying-to-convince-people-youre-right",
-      "title": "Trying to convince people you’re right is underrated",
-      "url": "https://www.slowboring.com/p/trying-to-convince-people-youre-right",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus prepper takes and the end of history",
-      "publishedAt": "2026-09-18T10:01:04.000Z",
-      "articleId": "58675b6c0cc36e39"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
       "title": "Roundup #88: Is it time to panic yet?",
       "url": "https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
@@ -1755,18 +1755,6 @@
       "articleId": "ea65ab2f843c641b"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
-      "title": "Beware big swings in midterm forecasts",
-      "url": "https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "As Labor Day approaches, we’re entering the traditional stretch run of the campaign. But history says the national picture probably won’t change much before Election Day.",
-      "publishedAt": "2026-09-03T20:35:36.000Z",
-      "articleId": "9be40bb7a97e289a"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
       "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
       "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
@@ -2027,7 +2015,7 @@
     "dailyDigitSummary": "Considerable clouds, but peeks of sunshine and pleasantly warmer temperatures have the digit trending up.",
     "articleId": "51d2750ced5ffa33"
   },
-  "weatherGeneratedAt": "2026-09-29T20:42:50.204Z",
+  "weatherGeneratedAt": "2026-09-30T00:22:30.023Z",
   "weatherError": null,
   "sources": [
     {
@@ -2138,7 +2126,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
