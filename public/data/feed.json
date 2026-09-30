@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-09-30T06:38:42.403Z",
-  "fetchedAt": "2026-09-30T06:38:42.399Z",
+  "generatedAt": "2026-09-30T13:37:57.599Z",
+  "fetchedAt": "2026-09-30T13:37:57.594Z",
   "sourceCount": 24,
-  "itemCount": 176,
-  "totalItemCount": 802,
+  "itemCount": 177,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-limits-predatory-lending-in-education",
+      "title": "Trump Administration Limits Predatory Lending in Education",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The New Republic writes “President Trump is banning students majoring in degrees that don’t make enough money from taking out college loans.” Yes, but do note that no student is banned from any major and the lending rule is mild. Undergraduate programs must show: that their graduates earn more than the typical high school diploma […]",
+      "publishedAt": "2026-09-30T11:17:27.000Z",
+      "articleId": "e657514b9343737c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/math-needs-a-phonics-style-reckoning",
+      "title": "Math needs a phonics-style reckoning",
+      "url": "https://www.slowboring.com/p/math-needs-a-phonics-style-reckoning",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Teachers should teach students how to do stuff correctly.",
+      "publishedAt": "2026-09-30T10:02:46.000Z",
+      "articleId": "6b9a85f698432bb7"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
+      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "articleId": "92cd0f65318c49c7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/will-the-loser-point-wreck-the-nhl",
+      "title": "Will the Loser Point Wreck the NHL Standings Again?",
+      "url": "https://neilpaine.substack.com/p/will-the-loser-point-wreck-the-nhl",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The NHL handed out more 3-point games than ever last season — and there’s no reason to think the Loser Point won’t scramble another playoff race in 2026-27.",
+      "publishedAt": "2026-09-30T09:01:18.000Z",
+      "articleId": "c0a73de9cb85d66e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
       "title": "*Shade*",
@@ -297,18 +342,6 @@
       "articleId": "ef2b7e89f2c9afd6"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/who-can-win-the-2026-world-series",
-      "title": "Who Can Win the 2026 World Series? (And Other Burning Postseason Questions.)",
-      "url": "https://neilpaine.substack.com/p/who-can-win-the-2026-world-series",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Is it finally Milwaukee’s year? Can the Cubs overcome their pitching? How much does the bracket warp the odds? And after all that, should we just pencil in the Dodgers again?",
-      "publishedAt": "2026-09-28T01:00:28.000Z",
-      "articleId": "9c80bb207c2f8662"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
       "title": "AI in science",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html",
@@ -374,17 +407,6 @@
       "summary": "The shortages have gone on for so long that they are aggressively driving down how much carbon is being released into the atmosphere, a Washington Post analysis of data from the International Energy Agency shows. People worldwide are using significantly less oil and gas, which means less climate pollution… Such an annual decline has not happened since […]",
       "publishedAt": "2026-09-27T06:56:56.000Z",
       "articleId": "aa194a7fa4c1ccbf"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective",
-      "title": "The Federal Lands: An Economic Property Rights Perspective",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use principle and generally, the biological aim of maximum sustained-yield. […]",
-      "publishedAt": "2026-09-27T04:27:05.000Z",
-      "articleId": "78e965477b21845d"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-map-is-melting",
@@ -1184,17 +1206,6 @@
       "articleId": "c5fba4ef4c2c28c8"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
-      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
-      "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
-      "publishedAt": "2026-09-16T10:18:04.000Z",
-      "articleId": "3937e7c3e780f241"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-anti-american-right",
       "title": "The anti-American Right",
       "url": "https://www.noahpinion.blog/p/the-anti-american-right",
@@ -1980,20 +1991,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-improvement-with-increasing-sunshine-and-temperatures/",
-    "title": "DC-area forecast: Trending warmer and brighter before a cooler weekend",
-    "url": "https://www.capitalweather.com/dc-area-forecast-improvement-with-increasing-sunshine-and-temperatures/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warming-up-through-friday-watching-weekend-rain-chances/",
+    "title": "DC-area forecast: Warming up through Friday; watching weekend rain chances",
+    "url": "https://www.capitalweather.com/dc-area-forecast-warming-up-through-friday-watching-weekend-rain-chances/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Skies become clearer through evening with temperatures in the 60s.",
-    "publishedAt": "2026-09-29T09:00:17.000Z",
+    "summary": "HAPPENING NOW: A nice mix of sun and clouds as morning temperatures rise into and through the 60s to low 70s, topping out near 80 this afternoon.",
+    "publishedAt": "2026-09-30T09:00:06.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Considerable clouds, but peeks of sunshine and pleasantly warmer temperatures have the digit trending up.",
-    "articleId": "51d2750ced5ffa33"
+    "dailyDigitSummary": "Not too far off from an ideal fall day. Just a touch too warm and not super dry air.",
+    "articleId": "0d98ba24fa6bfe35"
   },
-  "weatherGeneratedAt": "2026-09-30T06:38:42.403Z",
+  "weatherGeneratedAt": "2026-09-30T13:37:57.599Z",
   "weatherError": null,
   "sources": [
     {
@@ -2079,10 +2090,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -2104,7 +2115,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
