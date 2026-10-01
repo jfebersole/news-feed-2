@@ -1,10 +1,132 @@
 {
-  "generatedAt": "2026-10-01T05:44:45.586Z",
-  "fetchedAt": "2026-10-01T05:44:45.583Z",
+  "generatedAt": "2026-10-01T13:04:23.541Z",
+  "fetchedAt": "2026-10-01T13:04:23.537Z",
   "sourceCount": 24,
-  "itemCount": 176,
-  "totalItemCount": 804,
+  "itemCount": 179,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7649073/2026/10/01/giants-brian-burns-meniscus-acl-injury/",
+      "title": "Giants star LB Brian Burns tore meniscus as well as ACL: Sources",
+      "url": "https://www.nytimes.com/athletic/7649073/2026/10/01/giants-brian-burns-meniscus-acl-injury/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Burns is scheduled to undergo surgery to repair both injuries Wednesday at the Hospital for Special Surgery in New York City.",
+      "publishedAt": "2026-10-01T12:58:50.000Z",
+      "articleId": "85439ed678cd0cc0"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "title": "Understanding the AI That Drives Robots",
+      "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "An Explanation of Vision-Language-Action Models",
+      "publishedAt": "2026-10-01T12:04:36.000Z",
+      "articleId": "1c447382d1fd10a6"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
+      "title": "Why did Ohio stop being a swing state?",
+      "url": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Still Counting EP4 covers the Ohio and Maine Senate races. Plus, we’re reviving Silver Bulletin Subscriber Questions (SBSQ).",
+      "publishedAt": "2026-10-01T11:31:33.000Z",
+      "articleId": "2c592fd242ae42c9"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/sbsq-reboot-thread",
+      "title": "SBSQ reboot thread",
+      "url": "https://www.natesilver.net/p/sbsq-reboot-thread",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Please ask your questions in the comments!",
+      "publishedAt": "2026-10-01T11:29:17.000Z",
+      "articleId": "d6abd5fba9310f5d"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "Benefitting from the Bitter Lesson",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
+      "articleId": "ee61659f96467b43"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-europes",
+      "title": "“The Argument” podcast, ad free: Europe’s liberals are losing on immigration",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-europes",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-10-01T10:03:38.000Z",
+      "articleId": "a24f2718f838ba20"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/who-lost-afghanistan",
+      "title": "Who lost Afghanistan?",
+      "url": "https://www.slowboring.com/p/who-lost-afghanistan",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "George W. Bush blundered away a winnable war.",
+      "publishedAt": "2026-10-01T10:03:31.000Z",
+      "articleId": "4756689ce63e58b9"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
+      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+      "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
+      "publishedAt": "2026-10-01T10:00:00.000Z",
+      "articleId": "9bc395b1c934dc41"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/can-week-4-of-the-2026-nfl-season",
+      "title": "Can Week 4 of the 2026 NFL Season Just Be Normal Again?",
+      "url": "https://neilpaine.substack.com/p/can-week-4-of-the-2026-nfl-season",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Because Week 3 was anything but.",
+      "publishedAt": "2026-10-01T09:37:59.000Z",
+      "articleId": "48b81fcb2e889fdf"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html?utm_source=rss&utm_medium=rss&utm_campaign=the-top-private-sector-employers-of-economics-graduates",
+      "title": "The top private sector employers of economics graduates",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the link.",
+      "publishedAt": "2026-10-01T06:23:03.000Z",
+      "articleId": "31af82006e8972b9"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-89-it-isnt-x-its-y",
+      "title": "Roundup #89: It isn’t X, it’s Y",
+      "url": "https://www.noahpinion.blog/p/roundup-89-it-isnt-x-its-y",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "AI risk; Reindustrialization; The rent crisis; AI and jobs; Mass deportation; Chinese investment; Cyber risk",
+      "publishedAt": "2026-10-01T06:14:51.000Z",
+      "articleId": "2d4f97f073d73d63"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research",
       "title": "Merging LLMs and economics research",
@@ -418,17 +540,6 @@
       "summary": "It’s a good idea to work hard and be helpful when you’re young and don’t have responsibilities.",
       "publishedAt": "2026-09-28T10:02:15.000Z",
       "articleId": "34e631b3e8e6ea6c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland",
-      "title": "Bundesrepublik Deutschland",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "At times we forget what an amazing wonder the Bundesrepublik Deutschland was. At the end of the World War II, Germany was one of the sickest and cruelest human societies in history, ever. Not too many years later, it was one of the best and most successful societies ever. By the 1980s, living standards had […]",
-      "publishedAt": "2026-09-28T04:34:12.000Z",
-      "articleId": "ef2b7e89f2c9afd6"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-f80",
@@ -969,17 +1080,6 @@
       "articleId": "d64504f2661af517"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/is-the-blue-wave-forecast-by-polling",
-      "title": "Is the blue wave forecast by polling real?",
-      "url": "https://www.slowboring.com/p/is-the-blue-wave-forecast-by-polling",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Prediction markets say it is, but they don’t seem to add much to polling.",
-      "publishedAt": "2026-09-21T10:02:59.000Z",
-      "articleId": "7b2e5a109e7afb8c"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/frontier-overhangs/",
       "title": "Frontier Overhangs",
       "url": "https://stratechery.com/2026/frontier-overhangs/",
@@ -1023,18 +1123,6 @@
       "summary": "Accorsi led the franchise to two NFC East division titles, four postseason berths and a trip to Super Bowl XXXV during his nine-year tenure.",
       "publishedAt": "2026-09-20T17:02:07.000Z",
       "articleId": "e3f8481ee3c4d8bc"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-457",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-457",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-09-20T17:00:51.000Z",
-      "articleId": "4d4c9375e1075edb"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/going-to-graceland-a-conversation",
@@ -1226,17 +1314,6 @@
       "summary": "If you’re reading this, there’s a very good chance you’ve seen this famous image of three iterations of SpaceX’s Raptor rocket engine.",
       "publishedAt": "2026-09-17T12:02:08.000Z",
       "articleId": "cf65b761e6f3bf60"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
-      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "publishedAt": "2026-09-17T10:00:00.000Z",
-      "articleId": "0e954741e52cf193"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
@@ -1663,17 +1740,6 @@
       "articleId": "8e5ec382bed1cc11"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
-      "title": "How our ELWAY forecasts work",
-      "url": "https://www.natesilver.net/p/how-our-elway-forecasts-work-methodology",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Way more detail than you probably wanted on Silver Bulletin's new NFL forecasting system.",
-      "publishedAt": "2026-09-07T17:38:54.000Z",
-      "articleId": "7c008df757b8bd77"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
       "title": "AI keeps stubbornly refusing to take our jobs",
       "url": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
@@ -1741,17 +1807,6 @@
       "summary": "The U.S. is staying ahead, though the costs of that lead are still unknown.",
       "publishedAt": "2026-09-05T07:36:17.000Z",
       "articleId": "eba5e2d6af7ef14f"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
-      "title": "Democrats just got one seat closer to retaking the House",
-      "url": "https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Missouri’s new old map has diminished Republicans’ redistricting gains.",
-      "publishedAt": "2026-09-04T20:48:39.000Z",
-      "articleId": "3a016f906010c03a"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
@@ -1954,45 +2009,23 @@
       "summary": "Featuring Kylie Minogue, Robyn, Vengaboys, and more",
       "publishedAt": "2026-09-01T13:31:29.000Z",
       "articleId": "72e5c712ae395352"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "title": "Why humanoid robots won’t catch up to human workers any time soon",
-      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "A deep dive into the current state of humanoid robotics.",
-      "publishedAt": "2026-09-01T12:52:39.000Z",
-      "articleId": "a757f4cc32ea7cf0"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/nicholas-decker-in-hell",
-      "title": "Nicholas Decker In Hell",
-      "url": "https://www.astralcodexten.com/p/nicholas-decker-in-hell",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-09-01T07:37:05.000Z",
-      "articleId": "b5ab24f6acc877ba"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warming-up-through-friday-watching-weekend-rain-chances/",
-    "title": "DC-area forecast: Warming up through Friday; watching weekend rain chances",
-    "url": "https://www.capitalweather.com/dc-area-forecast-warming-up-through-friday-watching-weekend-rain-chances/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-summerlike-through-friday-then-wetter-and-cooler-into-the-weekend/",
+    "title": "DC-area forecast: Summerlike through Friday, then cooler and wetter into the weekend",
+    "url": "https://www.capitalweather.com/dc-area-forecast-summerlike-through-friday-then-wetter-and-cooler-into-the-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Bubbly clouds of the day dissipate as high, thin clouds stream by during a pleasant evening with temperatures falling into the 60s.",
-    "publishedAt": "2026-09-30T09:00:06.000Z",
+    "summary": "HAPPENING NOW: Any lingering morning clouds fade as temperatures soar into the mid- and upper 80s during the afternoon.",
+    "publishedAt": "2026-10-01T09:00:35.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "Not too far off from an ideal fall day. Just a touch too warm and not super dry air.",
-    "articleId": "0d98ba24fa6bfe35"
+    "dailyDigitSummary": "On the warm side, with highs well into the 80s. But we’re running low on warm days, so it's worth enjoying.",
+    "articleId": "1b493c252c72248b"
   },
-  "weatherGeneratedAt": "2026-10-01T05:44:45.586Z",
+  "weatherGeneratedAt": "2026-10-01T13:04:23.541Z",
   "weatherError": null,
   "sources": [
     {
@@ -2079,7 +2112,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
