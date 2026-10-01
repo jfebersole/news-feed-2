@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-09-30T23:43:47.091Z",
-  "fetchedAt": "2026-09-30T23:43:47.086Z",
+  "generatedAt": "2026-10-01T05:44:45.586Z",
+  "fetchedAt": "2026-10-01T05:44:45.583Z",
   "sourceCount": 24,
-  "itemCount": 177,
+  "itemCount": 176,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research",
+      "title": "Merging LLMs and economics research",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We introduce an open-source workflow that enables an LLM to reproduce, improve, and extend an economics article using the article’s published replication package. First, the workflow attempts to reproduce the original calculations, checks for discrepancies with published findings, and performs automated sensitivity analysis. Across 4,452 published replication packages for five economics journals, the workflow flags […]",
+      "publishedAt": "2026-10-01T04:31:10.000Z",
+      "articleId": "52fe11ee3d836b14"
+    },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
       "title": "This Is What Fed Independence Looks Like",
@@ -418,17 +429,6 @@
       "summary": "At times we forget what an amazing wonder the Bundesrepublik Deutschland was. At the end of the World War II, Germany was one of the sickest and cruelest human societies in history, ever. Not too many years later, it was one of the best and most successful societies ever. By the 1980s, living standards had […]",
       "publishedAt": "2026-09-28T04:34:12.000Z",
       "articleId": "ef2b7e89f2c9afd6"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
-      "title": "AI in science",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of over 2,600 specialized AI models […]",
-      "publishedAt": "2026-09-27T19:03:12.000Z",
-      "articleId": "1d8c9b5ad3f298c8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-f80",
@@ -1976,17 +1976,6 @@
       "summary": "...",
       "publishedAt": "2026-09-01T07:37:05.000Z",
       "articleId": "b5ab24f6acc877ba"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-87-technology-bad",
-      "title": "Roundup #87: Technology BAD!!",
-      "url": "https://www.noahpinion.blog/p/roundup-87-technology-bad",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "The Hugging Face attack; TV and loneliness; Leftist antisemitism; Another Acemoglu paper; The Electric Revolution",
-      "publishedAt": "2026-09-01T02:26:19.000Z",
-      "articleId": "d7df509b6517d2fb"
     }
   ],
   "weather": {
@@ -1996,14 +1985,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Bubbly clouds of the day dissipate as high, thin clouds stream by during a pleasant evening with temperatures falling to near 70.",
+    "summary": "HAPPENING NOW: Bubbly clouds of the day dissipate as high, thin clouds stream by during a pleasant evening with temperatures falling into the 60s.",
     "publishedAt": "2026-09-30T09:00:06.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "Not too far off from an ideal fall day. Just a touch too warm and not super dry air.",
     "articleId": "0d98ba24fa6bfe35"
   },
-  "weatherGeneratedAt": "2026-09-30T23:43:47.091Z",
+  "weatherGeneratedAt": "2026-10-01T05:44:45.586Z",
   "weatherError": null,
   "sources": [
     {
@@ -2089,10 +2078,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
