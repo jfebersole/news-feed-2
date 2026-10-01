@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T18:51:06.589Z",
-  "fetchedAt": "2026-10-01T18:51:06.587Z",
+  "generatedAt": "2026-10-01T23:08:19.483Z",
+  "fetchedAt": "2026-10-01T23:08:19.480Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 805,
+  "itemCount": 176,
+  "totalItemCount": 803,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/alvin-roth-to-the-rescue-the-polity-that-is-singapore.html?utm_source=rss&utm_medium=rss&utm_campaign=alvin-roth-to-the-rescue-the-polity-that-is-singapore",
@@ -15,6 +15,17 @@
       "summary": "Singapore has launched a dating platform, the latest social-engineering experiment by the city-state’s government to tackle its fast-declining fertility rate. The initiative, known as FirstDate, opened under a pilot scheme this month for public sector employees aged 21-35 and uses a Nobel Economics Prize-winning matchmaking algorithm. An additional tool suggests date activities and allows users […]",
       "publishedAt": "2026-10-01T18:26:45.000Z",
       "articleId": "6bc03e9ca2390f81"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026-q3",
+      "title": "Films of 2026: Q3",
+      "url": "https://scottsumner.substack.com/p/films-of-2026-q3",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "And a few TV and book recommendations",
+      "publishedAt": "2026-10-01T18:25:06.000Z",
+      "articleId": "620076c9c7d0ed5a"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/9lio4jbgd4lrjcb5ou4p.html",
@@ -326,17 +337,6 @@
       "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
       "publishedAt": "2026-09-30T10:00:00.000Z",
       "articleId": "92cd0f65318c49c7"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/will-the-loser-point-wreck-the-nhl",
-      "title": "Will the Loser Point Wreck the NHL Standings Again?",
-      "url": "https://neilpaine.substack.com/p/will-the-loser-point-wreck-the-nhl",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The NHL handed out more 3-point games than ever last season — and there’s no reason to think the Loser Point won’t scramble another playoff race in 2026-27.",
-      "publishedAt": "2026-09-30T09:01:18.000Z",
-      "articleId": "c0a73de9cb85d66e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
@@ -1077,18 +1077,6 @@
       "summary": "Harbaugh on Dart's knee: \"The fact that it's not that ... the devastating outcome, is really good news.\"",
       "publishedAt": "2026-09-22T00:36:25.000Z",
       "articleId": "220bd5344b87f571"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-market-full-of-paradoxes",
-      "title": "A market full of paradoxes",
-      "url": "https://www.slowboring.com/p/a-market-full-of-paradoxes",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Buyers have leverage they can’t use, but developers have a socialist mayor they can. Americans love housing and hate data centers, but the country seems to feel the opposite. Everything’s weird.",
-      "publishedAt": "2026-09-21T22:01:26.000Z",
-      "articleId": "a8dabe3936c83ffa"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html",
@@ -1995,14 +1983,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny and a bit humid this afternoon as temperatures soar mainly into the mid-80s.",
+    "summary": "HAPPENING NOW: Evening temperatures fall into and through 70s. Skies remain mostly clear.",
     "publishedAt": "2026-10-01T09:00:35.000Z",
     "dailyDigit": 8,
     "dailyDigitLabel": "8/10",
     "dailyDigitSummary": "On the warm side, with highs well into the 80s. But we’re running low on warm days, so it's worth enjoying.",
     "articleId": "1b493c252c72248b"
   },
-  "weatherGeneratedAt": "2026-10-01T18:51:06.589Z",
+  "weatherGeneratedAt": "2026-10-01T23:08:19.483Z",
   "weatherError": null,
   "sources": [
     {
@@ -2089,7 +2077,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2113,7 +2101,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
