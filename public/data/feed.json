@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T18:22:08.674Z",
-  "fetchedAt": "2026-10-02T18:22:08.670Z",
+  "generatedAt": "2026-10-02T22:56:49.855Z",
+  "fetchedAt": "2026-10-02T22:56:49.852Z",
   "sourceCount": 24,
   "itemCount": 175,
   "totalItemCount": 803,
@@ -1555,8 +1555,7 @@
       "url": "https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
       "source": "Noahpinion",
       "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
+      "access": "open",
       "summary": "A manifesto.",
       "publishedAt": "2026-09-12T08:44:47.000Z",
       "articleId": "bad320b8ea1ac641"
@@ -1967,19 +1966,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-before-a-cooler-wetter-weekend/",
-    "title": "DC-area forecast: Hot and humid today before a cooler, wetter weekend",
+    "title": "DC-area forecast: Scattered evening showers before a cooler, wetter weekend",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-before-a-cooler-wetter-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny before increasing clouds mid- to late afternoon as highs reach the mid-80s to near 90 — probably our last real taste of summer warmth for the year. Scattered showers are likely this evening, maybe a few storms.",
+    "summary": "HAPPENING NOW: Clouds increase this evening and a first wave of hit-or-miss showers, maybe a random rumble, move from west to east about 5 to 10 p.m. Temperatures eventually drop from the 80s into the 70s.",
     "publishedAt": "2026-10-02T09:00:12.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Hot and humid, with increasing clouds and a late-day storm risk knocking the digit back from Thursday levels.",
     "articleId": "cab3ed14dcc96327"
   },
-  "weatherGeneratedAt": "2026-10-02T18:22:08.674Z",
+  "weatherGeneratedAt": "2026-10-02T22:56:49.855Z",
   "weatherError": null,
   "sources": [
     {
