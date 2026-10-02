@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-02T12:25:15.210Z",
-  "fetchedAt": "2026-10-02T12:25:15.208Z",
+  "generatedAt": "2026-10-02T18:22:08.674Z",
+  "fetchedAt": "2026-10-02T18:22:08.670Z",
   "sourceCount": 24,
-  "itemCount": 176,
-  "totalItemCount": 804,
+  "itemCount": 175,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7646120/2026/10/02/j-j-mccarthy-giants-vikings-trade/",
+      "title": "J.J. McCarthy on trade from Vikings to Giants: ‘An opportunity to take advantage of’",
+      "url": "https://www.nytimes.com/athletic/7646120/2026/10/02/j-j-mccarthy-giants-vikings-trade/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "McCarthy said it was a bit of a \"shock\" when he got the call that he was being sent to New York.",
+      "publishedAt": "2026-10-02T17:41:43.000Z",
+      "articleId": "a47b744663b836e7"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2",
+      "title": "Supply is elastic, installment #1637",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "For taxes too: Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A […]",
+      "publishedAt": "2026-10-02T17:32:37.000Z",
+      "articleId": "bc14cc0d7ac93aee"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/dots-and-question-marks/",
+      "title": "2026.40: Dots and Question Marks",
+      "url": "https://stratechery.com/2026/dots-and-question-marks/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "articleId": "f2ba925c3151845e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. How rich was Anglo-Saxon England? 2. New game theory paper on AI races. 3. Scott Sumner movie reviews, please note he is always correct and thus the greatest film critic in the world, at least by that metric. 4. What should the AI safety movement be? 5. The frontier models are beating licensed accountants. […]",
+      "publishedAt": "2026-10-02T15:30:39.000Z",
+      "articleId": "1e0f9e2ce8497dab"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7651586/2026/10/02/giants-cardinals-preview-prediction-quarterback/",
       "title": "Can Jameis Winston hold off JJ McCarthy? Where's the pass rush? What to watch for in Giants-Cardinals",
@@ -38,6 +82,18 @@
       "summary": "Plus alternate Bonaparte and some Lee Kuan Yew takes",
       "publishedAt": "2026-10-02T10:02:03.000Z",
       "articleId": "aba7ff4c697222d9"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-yankees-and-padres-have-entered",
+      "title": "The Yankees and Padres Have Entered the Chat",
+      "url": "https://neilpaine.substack.com/p/the-yankees-and-padres-have-entered",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "…and other storylines that changed ahead of MLB’s Division Series.",
+      "publishedAt": "2026-10-02T09:02:40.000Z",
+      "articleId": "e1ee2177f033100e"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths",
@@ -250,17 +306,6 @@
       "articleId": "9bc395b1c934dc41"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/can-week-4-of-the-2026-nfl-season",
-      "title": "Can Week 4 of the 2026 NFL Season Just Be Normal Again?",
-      "url": "https://neilpaine.substack.com/p/can-week-4-of-the-2026-nfl-season",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Because Week 3 was anything but.",
-      "publishedAt": "2026-10-01T09:37:59.000Z",
-      "articleId": "48b81fcb2e889fdf"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html?utm_source=rss&utm_medium=rss&utm_campaign=the-top-private-sector-employers-of-economics-graduates",
       "title": "The top private sector employers of economics graduates",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html",
@@ -460,28 +505,6 @@
       "summary": "Sub-existential risk One thing that artificial intelligence labs’ frontier models have gotten up to recently is hacking into companies ’ and governments ’ computer systems. If you are worried about AI as an existential threat to humanity, these hacking incidents probably make you more worried. The worries you had — that AI alignment is a hard problem, that AI systems can disguise their non-alignment, that AI containment is a hard problem, that AI agents can selflessly coordinate with each other to outwit humans, etc. — all seem to have been strengthened by those incidents. The best-known form of this argument is Dwarkesh Patel on the Hugging Face incident . Dario Amodei’s call to “ pace the frontier ” was in part a response to hacking incidents. But even if you do not believe in agent civilizations or pacing the frontier or AI as an existential threat to humanity, those hacking incidents are, you know, hacking incidents. You’re not supposed to hack into companies’ and governments’ computer systems. It is frowned upon when people do it, it is frowned upon when AI agents do it, and when a company builds AI agents that do it, you might quite reasonably frown at the company. I wrote about “pacing the frontier” — the idea that the big AI labs should cooperate with each other and with democratic governments to slow the advance of AI — a few weeks ago, and I got an email from a reader saying: Hacking into a company website is a federal crime. So perhaps Sam Altman and other OpenAI executive should be charged with a felony for the Hugging Face hack. I have a hunch, if they envision themselves beyond bars, they will figure out how to control AI. This struck me as misguided. [1] My assumption is that Altman, Amodei and other AI leaders are totally sincere in worrying that the pace of AI development is an existential risk to humanity . That is, my assumption is that they think there is a real probability that, if they lose control of their AI systems, those AI systems will kill them and everyone they know. Despite having that extremely powerful personal incentive to control AI, they are not confident that they can do it. Adding some lesser incentive — “ooh if your evil AI hacks a computer you might get arrested” — seems trivial. They’re trying as hard as they can to control it already! But maybe I am naive. Maybe they’re not totally sincere about the existential risk. Maybe they think AI will wipe out most people, but they’ll be safe in their bunkers or whatever. Maybe they think AI will enslave the rest of humanity and install them as philosopher-kings. Maybe short-term legal consequences focus the mind more than long-term existential consequences. Maybe they think the existential risk has a 10% probability and they can live with that, but a 30% chance of...",
       "publishedAt": "2026-09-29T19:25:57.843Z",
       "articleId": "452666f190f1f37b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america",
-      "title": "Shipping to America",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The vulnerability of our shipping routes remains underdiscussed, perhaps that is in some ways a good thing: We study the macroeconomic and trade-policy implications of disruptions to U.S.-bound shipping routes. Standard models treat them as iceberg-cost shocks, conflating the shock with the response to it. Using satellite vessel-tracking data, we construct route-level measures of potential […]",
-      "publishedAt": "2026-09-29T17:53:09.000Z",
-      "articleId": "9e379c7aa24d3c06"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Comment section arbitrage. This is what the AIs do too, right? 2. Claims about New Zealand. 3. Good Bryan Caplan post on Effective Altruism. 4. Reported female bisexuality is in retreat? 5. Sadly, now a fringey view, yes. But not with me. 6. Fewer and fewer are defecting from North Korea.",
-      "publishedAt": "2026-09-29T15:47:30.000Z",
-      "articleId": "deb3c6085380aba3"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/murdered-musicians-an-album-a-day",
@@ -1237,17 +1260,6 @@
       "articleId": "44ad14e38ca0d0c8"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/doomforce/",
-      "title": "2026.38: Doomforce",
-      "url": "https://stratechery.com/2026/doomforce/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag.",
-      "publishedAt": "2026-09-18T17:00:00.000Z",
-      "articleId": "dae156fd162792ed"
-    },
-    {
       "id": "Maximum Progress:https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
       "title": "The Best Philosophy Article of 2025 is Bad Economics",
       "url": "https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
@@ -1951,29 +1963,6 @@
       "summary": "...",
       "publishedAt": "2026-09-03T08:10:42.000Z",
       "articleId": "60803d49fd242826"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/how-google-taught-llms-to-control",
-      "title": "How Google taught LLMs to control robots and started a robotics boom",
-      "url": "https://www.understandingai.org/p/how-google-taught-llms-to-control",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Vision-language-action models, explained with a minimum of math and jargon.",
-      "publishedAt": "2026-09-02T16:24:29.000Z",
-      "articleId": "24e6c42312409b7f"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/41g5mp4gep70o9eie40p.html",
-      "title": "Summer Tomatoes Shine with Shiso and Dashi | Kenji Eats Japan",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/41g5mp4gep70o9eie40p.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "Summer Tomatoes Shine with Shiso and Dashi | Kenji Eats Japan A simple shoyu-dashi dressing, a mix of soy sauce and Japanese broth (powdered dashi works fine), makes an excellent seasoning for all kinds of summer... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Summer Tomatoes Shine with Shiso and Dashi | Kenji Eats Japan J. Kenji López-Alt Sep 2, 2026 View in app View in app A simple shoyu-dashi dressing, a mix of soy sauce and Japanese broth (powdered dashi works fine), makes an excellent seasoning for all kinds of summer vegetables or greens. Take this tomato salad I made a few weeks ago while visiting my sister in Bozeman. A trip to the farmers market turned up some gorgeous summer tomatoes and a few bunches of shiso. My normal move with really good tomatoes is a classic Caprese : tomatoes, fresh mozzarella, basil, olive oil, salt. But this time I came home with shiso instead of basil. They don’t taste particularly alike—shiso has a mild mintiness and a hint of eucalyptus to my nose—but they can occupy a similar space on the plate and the palate, and both are excellent with ripe tomatoes. I kept this dish very simple: Excellent tomatoes, roughly chopped shiso, and soy-dashi shaken with some extra-virgin olive oil. Tomatoes on their own are wonderfully savory, but with a light coating of dashi and soy, they're downright meaty. Recipe: Tomato and Shiso Salad with Shoyu-Dashi Dressing What I love about this recipe It...",
-      "publishedAt": "2026-09-02T16:10:08.797Z",
-      "articleId": "0ef48f095b129227"
     }
   ],
   "weather": {
@@ -1983,14 +1972,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny early, with clouds increasing later today as highs reach the mid-80s to near 90 — probably our last real taste of summer warmth for the year. A late-day shower or storm is possible, especially in western parts of the area.",
+    "summary": "HAPPENING NOW: Mostly sunny before increasing clouds mid- to late afternoon as highs reach the mid-80s to near 90 — probably our last real taste of summer warmth for the year. Scattered showers are likely this evening, maybe a few storms.",
     "publishedAt": "2026-10-02T09:00:12.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Hot and humid, with increasing clouds and a late-day storm risk knocking the digit back from Thursday levels.",
     "articleId": "cab3ed14dcc96327"
   },
-  "weatherGeneratedAt": "2026-10-02T12:25:15.210Z",
+  "weatherGeneratedAt": "2026-10-02T18:22:08.674Z",
   "weatherError": null,
   "sources": [
     {
@@ -2076,10 +2065,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -2165,7 +2154,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 6,
+      "itemCount": 5,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
