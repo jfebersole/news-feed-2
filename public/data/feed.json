@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T17:54:45.244Z",
-  "fetchedAt": "2026-10-03T17:54:45.241Z",
+  "generatedAt": "2026-10-03T21:09:56.215Z",
+  "fetchedAt": "2026-10-03T21:09:56.213Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 173,
   "totalItemCount": 804,
   "items": [
     {
@@ -1942,46 +1942,23 @@
       "summary": "Question topics include the team's offensive scheme and possible Week 1 inactive selections.",
       "publishedAt": "2026-09-04T10:00:30.000Z",
       "articleId": "ea65ab2f843c641b"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
-      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
-      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "This is my third and final essay looking at the 21st Century ROAD to Housing Act, and how it’s likely to affect housing supply.",
-      "publishedAt": "2026-09-03T19:20:13.000Z",
-      "articleId": "8facf845228cff10"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/robot-startups-are-trying-everything",
-      "title": "Robot startups are trying everything they can think of to get more data",
-      "url": "https://www.understandingai.org/p/robot-startups-are-trying-everything",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Free apartment cleanings, exoskeletons, 100 robots in a warehouse...",
-      "publishedAt": "2026-09-03T18:16:36.000Z",
-      "articleId": "89688d4818292e48"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
-    "title": "DC-area forecast: Showers stick around this weekend, then nice fall weather ahead",
+    "title": "DC-area forecast: A few evening showers. Light rain possible predawn into midday Sunday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly cloudy with occasional light showers remaining possible this afternoon, mainly across the southern half of the region, with highs in the 60s.",
+    "summary": "HAPPENING NOW: Late afternoon and evening temperatures hold in the 60s under mostly cloudy skies, with showers passing mainly south of the Beltway.",
     "publishedAt": "2026-10-03T09:00:29.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Not exactly the nice fall weather we would like to start the weekend, but some areas should see showers wane by afternoon.",
     "articleId": "8ef02ba78af9c706"
   },
-  "weatherGeneratedAt": "2026-10-03T17:54:45.244Z",
+  "weatherGeneratedAt": "2026-10-03T21:09:56.215Z",
   "weatherError": null,
   "sources": [
     {
