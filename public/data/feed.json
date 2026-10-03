@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-03T01:53:43.406Z",
-  "fetchedAt": "2026-10-03T01:53:43.403Z",
+  "generatedAt": "2026-10-03T08:01:05.156Z",
+  "fetchedAt": "2026-10-03T08:01:05.153Z",
   "sourceCount": 24,
   "itemCount": 175,
-  "totalItemCount": 794,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2",
+      "title": "Words to live by?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF […]",
+      "publishedAt": "2026-10-03T07:15:58.000Z",
+      "articleId": "8c9433003d20bf9e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html?utm_source=rss&utm_medium=rss&utm_campaign=new-issue-of-econ-journal-watch-17",
+      "title": "New issue of Econ Journal Watch",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Volume 23, Issue 2, September 2026 In this issue: “China shock” fragility: According to David Autor, David Dorn, and Gordon Hanson (2013), the “China shock” hit the United States from 1990 to 2007. When corrections by Kirill Borusyak et al. (2022) are fully applied, Joseph Francis argues, the harm of Chinese imports to unemployment, labor force […]",
+      "publishedAt": "2026-10-03T04:27:58.000Z",
+      "articleId": "cdc4d02bcb230cc7"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7646120/2026/10/02/j-j-mccarthy-giants-vikings-trade/",
       "title": "J.J. McCarthy on trade from Vikings to Giants: ‘An opportunity to take advantage of’",
@@ -460,28 +482,6 @@
       "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
       "publishedAt": "2026-09-30T10:00:00.000Z",
       "articleId": "92cd0f65318c49c7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
-      "title": "*Shade*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is Sam Bloch, and the subtitle is The Promise of a Forgotten Natural Resource. An interesting book on a neglected topic, here is one excerpt: Shade is not part of L.A.’s modern identity. In the 1930s, the city was rezoned to Federal Housing Administration design standards and banned high-density developments like row houses. […]",
-      "publishedAt": "2026-09-30T06:26:22.000Z",
-      "articleId": "d7807cf181909287"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber",
-      "title": "Don’t let AI make you dumber",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column, here is one excerpt: I do not think the skeptics would put it this way, but as I read Conti, I find he has a pretty bleak fundamental view of humanity. Are we all really just looking to veg out and abandon curiosity and inquiry, […]",
-      "publishedAt": "2026-09-30T04:17:47.000Z",
-      "articleId": "526dbf416df20b67"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
@@ -1966,19 +1966,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-before-a-cooler-wetter-weekend/",
-    "title": "DC-area forecast: Scattered evening showers before a cooler, wetter weekend",
+    "title": "DC-area forecast: Much cooler this weekend with rain at times",
     "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-before-a-cooler-wetter-weekend/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clouds increase this evening and a first wave of hit-or-miss showers, maybe a random rumble, move from west to east about 5 to 10 p.m. Temperatures eventually drop from the 80s into the 70s.",
+    "summary": "HAPPENING NOW: Occasional showers overnight with lows in the mid-50s to low 60s.",
     "publishedAt": "2026-10-02T09:00:12.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Hot and humid, with increasing clouds and a late-day storm risk knocking the digit back from Thursday levels.",
     "articleId": "cab3ed14dcc96327"
   },
-  "weatherGeneratedAt": "2026-10-03T01:53:43.406Z",
+  "weatherGeneratedAt": "2026-10-03T08:01:05.156Z",
   "weatherError": null,
   "sources": [
     {
@@ -1992,10 +1992,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
@@ -2064,10 +2064,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
