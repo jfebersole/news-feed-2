@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-10-03T08:01:05.156Z",
-  "fetchedAt": "2026-10-03T08:01:05.153Z",
+  "generatedAt": "2026-10-03T13:19:38.728Z",
+  "fetchedAt": "2026-10-03T13:19:38.725Z",
   "sourceCount": 24,
   "itemCount": 175,
   "totalItemCount": 803,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-2026-10-03",
+      "title": "Reading List 2026-10-03",
+      "url": "https://www.construction-physics.com/p/reading-list-2026-10-03",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A Senate permitting reform bill, the potential of Tesla’s Cybercab, the Navy’s $200 billion worth of shipyard renovations, returning a SR-71 to service, and more.",
+      "publishedAt": "2026-10-03T13:14:44.000Z",
+      "articleId": "6bb6142cf331a23e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/an-ai-legislator-running-a-cost-campaign",
+      "title": "An A.I. legislator running a cost campaign",
+      "url": "https://www.slowboring.com/p/an-ai-legislator-running-a-cost-campaign",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Manny Rutinel is one of the few politicians to have spent his career trying to govern A.I. In the race to represent Colorado’s swingiest district, he’s not talking about it much.",
+      "publishedAt": "2026-10-03T13:04:38.000Z",
+      "articleId": "93647a50de3d70de"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
+      "title": "The second Trump presidency is a world-historic failure",
+      "url": "https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "How did Trump fumble so badly?",
+      "publishedAt": "2026-10-03T08:47:17.000Z",
+      "articleId": "42b18b8b45733732"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2",
       "title": "Words to live by?",
@@ -981,17 +1017,6 @@
       "articleId": "41cbfe30270d1f7e"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-republican-urge-to-start-wars",
-      "title": "The Republican urge to start wars in the Middle East",
-      "url": "https://www.slowboring.com/p/the-republican-urge-to-start-wars",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "And other ways Trump has failed in his second term",
-      "publishedAt": "2026-09-23T10:02:13.000Z",
-      "articleId": "6b86725f6ccd8559"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
       "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
       "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
@@ -1940,45 +1965,23 @@
       "summary": "Daniel Parris weighs in on an age old debate",
       "publishedAt": "2026-09-03T17:31:09.000Z",
       "articleId": "d8a59eaaa65264d5"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
-      "title": "Why you won’t get a flying car",
-      "url": "https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A review of “Where is My Flying Car?”, by J. Storrs Hall, and some other thoughts on the future of technology.",
-      "publishedAt": "2026-09-03T09:55:22.000Z",
-      "articleId": "8b235d479ce6d7a3"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
-      "title": "College EA Meetups Everywhere: Times & Places",
-      "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-times",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-09-03T08:10:42.000Z",
-      "articleId": "60803d49fd242826"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-before-a-cooler-wetter-weekend/",
-    "title": "DC-area forecast: Much cooler this weekend with rain at times",
-    "url": "https://www.capitalweather.com/dc-area-forecast-hot-and-humid-today-before-a-cooler-wetter-weekend/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
+    "title": "DC-area forecast: Showers stick around this weekend, then nice fall weather ahead",
+    "url": "https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Occasional showers overnight with lows in the mid-50s to low 60s.",
-    "publishedAt": "2026-10-02T09:00:12.000Z",
+    "summary": "HAPPENING NOW: Widespread showers increasingly focus on the southern half of the region by late morning into the afternoon, with highs in the 60s.",
+    "publishedAt": "2026-10-03T09:00:29.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Hot and humid, with increasing clouds and a late-day storm risk knocking the digit back from Thursday levels.",
-    "articleId": "cab3ed14dcc96327"
+    "dailyDigitSummary": "Not exactly the nice fall weather we would like to start the weekend, but some areas should see showers wane by afternoon.",
+    "articleId": "8ef02ba78af9c706"
   },
-  "weatherGeneratedAt": "2026-10-03T08:01:05.156Z",
+  "weatherGeneratedAt": "2026-10-03T13:19:38.728Z",
   "weatherError": null,
   "sources": [
     {
