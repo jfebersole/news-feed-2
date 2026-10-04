@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-04T06:48:22.919Z",
-  "fetchedAt": "2026-10-04T06:48:22.915Z",
+  "generatedAt": "2026-10-04T13:09:49.657Z",
+  "fetchedAt": "2026-10-04T13:09:49.654Z",
   "sourceCount": 24,
-  "itemCount": 174,
+  "itemCount": 173,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer",
+      "title": "Does Costco Cause Cancer?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […]",
+      "publishedAt": "2026-10-04T11:18:58.000Z",
+      "articleId": "0163cefd92712b0d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race",
+      "title": "Marital sorting by class and race",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases […]",
+      "publishedAt": "2026-10-04T07:01:17.000Z",
+      "articleId": "9c5d5c8c29d64938"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care",
       "title": "Do the elderly prefer robotic care?",
@@ -442,17 +464,6 @@
       "articleId": "2d4f97f073d73d63"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research",
-      "title": "Merging LLMs and economics research",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We introduce an open-source workflow that enables an LLM to reproduce, improve, and extend an economics article using the article’s published replication package. First, the workflow attempts to reproduce the original calculations, checks for discrepancies with published findings, and performs automated sensitivity analysis. Across 4,452 published replication packages for five economics journals, the workflow flags […]",
-      "publishedAt": "2026-10-01T04:31:10.000Z",
-      "articleId": "52fe11ee3d836b14"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
       "title": "This Is What Fed Independence Looks Like",
       "url": "https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
@@ -496,17 +507,6 @@
       "summary": "Beckham did not make a catch in three games with the Giants.",
       "publishedAt": "2026-09-30T19:36:39.000Z",
       "articleId": "48a3add6b09ec62f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3",
-      "title": "The polity that is Singapore",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Police in Singapore have charged a man who is accused of posting an AI-generated image of a saltwater crocodile in a popular reservoir. Ye Lin was charged with communicating a false message and obstructing the course of justice for allegedly deleting the picture and the application he used. The fake image caused public concern, authorities […]",
-      "publishedAt": "2026-09-30T18:37:04.000Z",
-      "articleId": "aa962097cf51db05"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/quick-update",
@@ -1942,34 +1942,23 @@
       "summary": "Pho Thin, 13 Lo Duc, web site, 7263H Arlington Blvd., Falls Church, VA, Graham Park Plaza, (571) 746-8446 (Metro Trip Planner – opens in new window) [Google | Washingtonian | Reddit] Has there been anything new in the Pho arena … Continue reading →",
       "publishedAt": "2026-09-04T14:17:00.000Z",
       "articleId": "b012b10ddf21f7b0"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
-      "title": "Gauging John Harbaugh's impact and what to expect in Week 1",
-      "url": "https://www.nytimes.com/athletic/7564327/2026/09/04/new-york-giants-john-harbaugh-jaxson-dart/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Question topics include the team's offensive scheme and possible Week 1 inactive selections.",
-      "publishedAt": "2026-09-04T10:00:30.000Z",
-      "articleId": "ea65ab2f843c641b"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
-    "title": "DC-area forecast: A few showers tonight, then a little light rain tomorrow",
-    "url": "https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cloudy-with-afternoon-showers-today-a-fall-chill-early-week-2/",
+    "title": "DC-area forecast: Some sprinkles this morning, then a fabulous fall week ahead",
+    "url": "https://www.capitalweather.com/dc-area-forecast-cloudy-with-afternoon-showers-today-a-fall-chill-early-week-2/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A few light showers mostly south of the Beltway through the rest of the evening as temperatures hold in the upper 50s to low 60s.",
-    "publishedAt": "2026-10-03T09:00:29.000Z",
+    "summary": "HAPPENING NOW: A few passing raindrops this morning won't amount to much. Overcast skies stay through afternoon with highs in the mid-60s.",
+    "publishedAt": "2026-10-04T09:00:31.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Not exactly the nice fall weather we would like to start the weekend, but some areas should see showers wane by afternoon.",
-    "articleId": "8ef02ba78af9c706"
+    "dailyDigitSummary": "Sunday spirits may be dampened by some light morning showers and cloudy skies, but much of the day should end up decently dry.",
+    "articleId": "fb2e1b16b06f4ecb"
   },
-  "weatherGeneratedAt": "2026-10-04T06:48:22.919Z",
+  "weatherGeneratedAt": "2026-10-04T13:09:49.657Z",
   "weatherError": null,
   "sources": [
     {
