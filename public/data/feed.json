@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-04T00:33:45.234Z",
-  "fetchedAt": "2026-10-04T00:33:45.231Z",
+  "generatedAt": "2026-10-04T06:48:22.919Z",
+  "fetchedAt": "2026-10-04T06:48:22.915Z",
   "sourceCount": 24,
-  "itemCount": 173,
+  "itemCount": 174,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care",
+      "title": "Do the elderly prefer robotic care?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choose […]",
+      "publishedAt": "2026-10-04T05:17:41.000Z",
+      "articleId": "05550f41e3cac80b"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
+      "title": "The ‘God Gap’ Is Narrowing in Texas",
+      "url": "https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "It may not be enough for James Talarico to win. But might it also be a sign of a change to come?",
+      "publishedAt": "2026-10-04T05:00:21.000Z",
+      "articleId": "7336c5ab77937cf7"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-if-the-polls-are-wrong-again",
       "title": "What if the polls are wrong again?",
@@ -27,17 +49,6 @@
       "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea Cărtărescu. 4. It seems the expansion of remote work reduced births? 5. “Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up […]",
       "publishedAt": "2026-10-03T16:29:20.000Z",
       "articleId": "b738f1e8022dd5ac"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=florian-schneider-rip",
-      "title": "Florian Schneider, RIP",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "One of the titans, and yes from the BRD.",
-      "publishedAt": "2026-10-03T15:29:40.000Z",
-      "articleId": "46b561afdbdcab61"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-2026-10-03",
@@ -1946,19 +1957,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
-    "title": "DC-area forecast: A few evening showers. Light rain possible predawn into midday Sunday.",
+    "title": "DC-area forecast: A few showers tonight, then a little light rain tomorrow",
     "url": "https://www.capitalweather.com/dc-area-forecast-morning-showers-sunday-rain-possible-then-nice-fall-weather/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Evening temperatures hold in the low 60s to near 60 under mostly cloudy skies, with scattered light showers passing mainly south of the Beltway.",
+    "summary": "HAPPENING NOW: A few light showers mostly south of the Beltway through the rest of the evening as temperatures hold in the upper 50s to low 60s.",
     "publishedAt": "2026-10-03T09:00:29.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Not exactly the nice fall weather we would like to start the weekend, but some areas should see showers wane by afternoon.",
     "articleId": "8ef02ba78af9c706"
   },
-  "weatherGeneratedAt": "2026-10-04T00:33:45.234Z",
+  "weatherGeneratedAt": "2026-10-04T06:48:22.919Z",
   "weatherError": null,
   "sources": [
     {
