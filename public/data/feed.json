@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-04T18:07:52.430Z",
-  "fetchedAt": "2026-10-04T18:07:52.426Z",
+  "generatedAt": "2026-10-04T21:24:27.763Z",
+  "fetchedAt": "2026-10-04T21:24:27.760Z",
   "sourceCount": 24,
-  "itemCount": 171,
+  "itemCount": 172,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7659374/2026/10/04/cardinals-giants-nfl-2026-score-result-takeaways/",
+      "title": "Giants ride Jameis Winston roller coaster to beat Cardinals, but can erratic QB keep job?",
+      "url": "https://www.nytimes.com/athletic/7659374/2026/10/04/cardinals-giants-nfl-2026-score-result-takeaways/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "New York got the full Winston experience Sunday but lived to tell the tale in a 36-24 win against Arizona.",
+      "publishedAt": "2026-10-04T20:12:49.000Z",
+      "articleId": "5c7b7c7a23d6a1a0"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-062",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-062",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-10-04T19:02:42.000Z",
+      "articleId": "e6f099db24aaefff"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585",
       "title": "Sunday assorted links",
@@ -1909,34 +1932,23 @@
       "summary": "The U.S. is staying ahead, though the costs of that lead are still unknown.",
       "publishedAt": "2026-09-05T07:36:17.000Z",
       "articleId": "eba5e2d6af7ef14f"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
-      "title": "Your Book Review: The Tale Of Genji",
-      "url": "https://www.astralcodexten.com/p/your-book-review-the-tale-of-genji",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #8 in the Book Review Contest",
-      "publishedAt": "2026-09-04T19:34:24.000Z",
-      "articleId": "a45fa6dac81ac7dd"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cloudy-with-afternoon-showers-today-a-fall-chill-early-week-2/",
-    "title": "DC-area forecast: Showers south and east this afternoon. A fabulous fall week ahead.",
+    "title": "DC-area forecast: Cloudy tonight, then turning sunny and breezy to start a fabulous fall week",
     "url": "https://www.capitalweather.com/dc-area-forecast-cloudy-with-afternoon-showers-today-a-fall-chill-early-week-2/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers move through areas mainly south and east of DC through midafternoon. Remaining cloudy with highs in the mid-60s.",
+    "summary": "HAPPENING NOW: Late afternoon and evening temperatures in the 60s under cloudy skies. Any patchy mist or sprinkles fade early. Lows in the 50s.",
     "publishedAt": "2026-10-04T09:00:31.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Sunday spirits may be dampened by clouds, some mist, and showers in spots, but much of the day should end up decently dry.",
+    "dailyDigitSummary": "Sunday spirits may be dampened by clouds, some mist, and showers in spots.",
     "articleId": "fb2e1b16b06f4ecb"
   },
-  "weatherGeneratedAt": "2026-10-04T18:07:52.430Z",
+  "weatherGeneratedAt": "2026-10-04T21:24:27.763Z",
   "weatherError": null,
   "sources": [
     {
@@ -2047,7 +2059,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2111,7 +2123,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 5,
+      "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
