@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T21:09:56.215Z",
-  "fetchedAt": "2026-10-03T21:09:56.213Z",
+  "generatedAt": "2026-10-04T00:33:45.234Z",
+  "fetchedAt": "2026-10-04T00:33:45.231Z",
   "sourceCount": 24,
   "itemCount": 173,
   "totalItemCount": 804,
@@ -1951,14 +1951,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Late afternoon and evening temperatures hold in the 60s under mostly cloudy skies, with showers passing mainly south of the Beltway.",
+    "summary": "HAPPENING NOW: Evening temperatures hold in the low 60s to near 60 under mostly cloudy skies, with scattered light showers passing mainly south of the Beltway.",
     "publishedAt": "2026-10-03T09:00:29.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Not exactly the nice fall weather we would like to start the weekend, but some areas should see showers wane by afternoon.",
     "articleId": "8ef02ba78af9c706"
   },
-  "weatherGeneratedAt": "2026-10-03T21:09:56.215Z",
+  "weatherGeneratedAt": "2026-10-04T00:33:45.234Z",
   "weatherError": null,
   "sources": [
     {
