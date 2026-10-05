@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-10-05T15:56:18.206Z",
-  "fetchedAt": "2026-10-05T15:56:18.198Z",
+  "generatedAt": "2026-10-05T22:35:05.470Z",
+  "fetchedAt": "2026-10-05T22:35:05.467Z",
   "sourceCount": 24,
-  "itemCount": 172,
+  "itemCount": 175,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/with-a-new-agenda-the-build-america",
+      "title": "With a new agenda, the Build America Caucus gets ambitious with abundance",
+      "url": "https://www.slowboring.com/p/with-a-new-agenda-the-build-america",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The bipartisan House caucus hopes to apply housing momentum to energy, child care, and transportation, expanding the federal imagination of abundance.",
+      "publishedAt": "2026-10-05T22:01:41.000Z",
+      "articleId": "da2ed488e6e1a619"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/introducing-dan-kagan-kans",
+      "title": "Introducing Dan Kagan-Kans",
+      "url": "https://www.understandingai.org/p/introducing-dan-kagan-kans",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "Understanding AI has a new writer!",
+      "publishedAt": "2026-10-05T19:11:19.000Z",
+      "articleId": "11a09ed4b48b1ed7"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/some-of-the-best-ideas-are-wrong",
+      "title": "Some of the best ideas are wrong",
+      "url": "https://scottsumner.substack.com/p/some-of-the-best-ideas-are-wrong",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "How flawed models can be useful",
+      "publishedAt": "2026-10-05T18:38:38.000Z",
+      "articleId": "3451b93591698a0f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview.",
+      "publishedAt": "2026-10-05T17:23:07.000Z",
+      "articleId": "520c099b0def82ea"
+    },
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/why-agent-swarms-could-be-the-next",
+      "title": "Why agent swarms could be the next “scaling law”",
+      "url": "https://www.understandingai.org/p/why-agent-swarms-could-be-the-next",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "An OpenAI researcher called it “the most ‘feel the AGI’ moment that I had since reasoning models.”",
+      "publishedAt": "2026-10-05T17:19:00.000Z",
+      "articleId": "f829b8e98830b9c6"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html?utm_source=rss&utm_medium=rss&utm_campaign=authenticity-is-exactly-the-same-as-phoniness",
       "title": "“Authenticity is exactly the same as phoniness.”",
@@ -351,17 +407,6 @@
       "summary": "The 2-1 Giants host the Cardinals on Sunday as they look to continue to plot a path forwards at quarterback without Jaxson Dart.",
       "publishedAt": "2026-10-02T12:20:55.000Z",
       "articleId": "787223d6c1a0b28c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate",
-      "title": "A Normal Debate?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Computer scientists Arvind Narayanan & Sayash Kapoor wrote AI as Normal Technology The statement “AI is normal technology” is three things: a description of current AI, a prediction about the foreseeable future of AI, and a prescription about how we should treat it. We view AI as a tool that we can and should remain […]",
-      "publishedAt": "2026-10-02T11:18:05.000Z",
-      "articleId": "861d8a4c6288ecfb"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/how-blue-state-republicans-can-be",
@@ -1003,18 +1048,6 @@
       "summary": "It’s fair to be spooked by Jameis Winston’s rough performance Monday, but the Giants shouldn't consider dealing away precious draft capital.",
       "publishedAt": "2026-09-24T11:16:37.000Z",
       "articleId": "af70aeabbf206b7a"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-ai-apocalypse-canon-and-why-it",
-      "title": "The A.I. apocalypse canon and why it matters",
-      "url": "https://www.slowboring.com/p/the-ai-apocalypse-canon-and-why-it",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "We have always known that recursive self-improvement is dangerous.",
-      "publishedAt": "2026-09-24T10:02:49.000Z",
-      "articleId": "d3f0969f9819de64"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
@@ -1937,14 +1970,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mostly sunny and a bit breezy through afternoon, with highs in the upper 60s to low 70s.",
+    "summary": "HAPPENING NOW: Breezes diminish a little this evening as temperatures fall into and through the 60s.",
     "publishedAt": "2026-10-05T09:00:37.000Z",
     "dailyDigit": 7,
     "dailyDigitLabel": "7/10",
     "dailyDigitSummary": "After morning clouds burn off, a “sun”-sational 70-degree afternoon.",
     "articleId": "58b164bd1d85ebaa"
   },
-  "weatherGeneratedAt": "2026-10-05T15:56:18.206Z",
+  "weatherGeneratedAt": "2026-10-05T22:35:05.470Z",
   "weatherError": null,
   "sources": [
     {
