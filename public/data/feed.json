@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-04T21:24:27.763Z",
-  "fetchedAt": "2026-10-04T21:24:27.760Z",
+  "generatedAt": "2026-10-05T00:51:48.110Z",
+  "fetchedAt": "2026-10-05T00:51:48.107Z",
   "sourceCount": 24,
-  "itemCount": 172,
+  "itemCount": 173,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7661060/2026/10/04/new-york-giants-jameis-winston-experience-arizona-cardinals/",
+      "title": "Giants survive the full Jameis Winston experience, as QB says he's 'heating up'",
+      "url": "https://www.nytimes.com/athletic/7661060/2026/10/04/new-york-giants-jameis-winston-experience-arizona-cardinals/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Buckle up, Giants fans. The Jameis Winston roller coaster is a bumpy ride.",
+      "publishedAt": "2026-10-05T00:19:27.000Z",
+      "articleId": "42d896017557f9a4"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7659374/2026/10/04/cardinals-giants-nfl-2026-score-result-takeaways/",
       "title": "Giants ride Jameis Winston roller coaster to beat Cardinals, but can erratic QB keep job?",
@@ -1941,14 +1952,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Late afternoon and evening temperatures in the 60s under cloudy skies. Any patchy mist or sprinkles fade early. Lows in the 50s.",
+    "summary": "HAPPENING NOW: Overcast as low 60s to near 60 this evening slip to overnight lows in the mid-50s, with patchy fog or mist.",
     "publishedAt": "2026-10-04T09:00:31.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Sunday spirits may be dampened by clouds, some mist, and showers in spots.",
     "articleId": "fb2e1b16b06f4ecb"
   },
-  "weatherGeneratedAt": "2026-10-04T21:24:27.763Z",
+  "weatherGeneratedAt": "2026-10-05T00:51:48.110Z",
   "weatherError": null,
   "sources": [
     {
