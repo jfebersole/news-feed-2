@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-10-05T06:57:48.141Z",
-  "fetchedAt": "2026-10-05T06:57:48.138Z",
+  "generatedAt": "2026-10-05T15:56:18.206Z",
+  "fetchedAt": "2026-10-05T15:56:18.198Z",
   "sourceCount": 24,
   "itemCount": 172,
-  "totalItemCount": 803,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html?utm_source=rss&utm_medium=rss&utm_campaign=authenticity-is-exactly-the-same-as-phoniness",
+      "title": "“Authenticity is exactly the same as phoniness.”",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Authenticity doesn’t interest me. It’s a way of marketing subpar material: this might not be any good, but at least it’s sincere. You can always tell when a book is going to be dogshit because the blurb copy describes it as ‘raw’ or ‘unflinchingly honest.’ In my personal experience, the writers who make a big […]",
+      "publishedAt": "2026-10-05T15:45:12.000Z",
+      "articleId": "9689db84486e949a"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/you-can-just-eradicate-things",
+      "title": "Mosquitoes are a choice",
+      "url": "https://www.worksinprogress.news/p/you-can-just-eradicate-things",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "The technology to eradicate mosquito-borne disease already exists. We just have to be brave enough to use it.",
+      "publishedAt": "2026-10-05T11:25:20.000Z",
+      "articleId": "fdc63ef1564b074b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html?utm_source=rss&utm_medium=rss&utm_campaign=the-greg-clark-symposium",
+      "title": "The Greg Clark Symposium",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcoming book is very welcome. The symposium includes serious critics, most notably Stuhler and Benning, but I suspect even the critics would agree with Arden […]",
+      "publishedAt": "2026-10-05T11:21:04.000Z",
+      "articleId": "821adb91e9078505"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/trumps-new-student-loan-rule-is-fine",
+      "title": "Trump’s new student loan rule is fine",
+      "url": "https://www.slowboring.com/p/trumps-new-student-loan-rule-is-fine",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Normal programs at normal schools are safe. Don’t be a useful idiot for cosmetology scams.",
+      "publishedAt": "2026-10-05T10:03:38.000Z",
+      "articleId": "bd578d997d1a091b"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "title": "Apple and a Hacker’s Future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "I was happy for years in Apple's walled garden; with AI, however, their protections feel like limitations.",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "articleId": "44eed4c664260076"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/guardians-white-sox-is-octobers-battle",
+      "title": "Guardians-White Sox Is October’s Battle of the Kids",
+      "url": "https://neilpaine.substack.com/p/guardians-white-sox-is-octobers-battle",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The AL Central rivals are playing one of the youngest postseason series in recent history — and features the youngest pair of lineups to ever meet in a Division Series.",
+      "publishedAt": "2026-10-05T09:01:58.000Z",
+      "articleId": "ea90b3a62896afb8"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
+      "title": "What the AI boom is doing for Americans",
+      "url": "https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "It’s not just “of, by and for oligarchs”.",
+      "publishedAt": "2026-10-05T08:12:53.000Z",
+      "articleId": "01544e4a56375b93"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-82",
       "title": "China fact of the day",
@@ -187,17 +264,6 @@
       "articleId": "93647a50de3d70de"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-sept-28-oct-2-2026",
-      "title": "The Week That Was (Sept. 28-Oct. 2, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-sept-28-oct-2-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-10-03T09:00:56.000Z",
-      "articleId": "5da7954ff08004fa"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
       "title": "The second Trump presidency is a world-historic failure",
       "url": "https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
@@ -308,28 +374,6 @@
       "summary": "Plus alternate Bonaparte and some Lee Kuan Yew takes",
       "publishedAt": "2026-10-02T10:02:03.000Z",
       "articleId": "aba7ff4c697222d9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths",
-      "title": "What should I ask Tom Griffiths?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a Conversation with him. Looking at Wikipedia: Thomas L. Griffiths (born c. 1978) is an Australian academic who is the Henry R. Luce Professor of Information Technology, Consciousness, and Culture at Princeton University. He studies human decision-making and its connection to problem-solving methods in computation. His book with Brian Christian, Algorithms […]",
-      "publishedAt": "2026-10-02T08:29:57.000Z",
-      "articleId": "1459b2aacfa9278b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luis-garicano",
-      "title": "My excellent Conversation with Luis Garicano",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Luis start their conversation with Spain — housing, NIMBYism, and the productivity crisis; Spanish literature and why the Civil War still looms so large; and what Chicago taught Luis about party discipline in European politics. Then to the EU’s […]",
-      "publishedAt": "2026-10-02T05:06:16.000Z",
-      "articleId": "d71ad98c8136461d"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cpytpt2bnv9xjqbay7xw.html",
@@ -973,18 +1017,6 @@
       "articleId": "d3f0969f9819de64"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
-      "title": "“The Argument” podcast, ad free: Is the A.I. apocalypse coming for us all?",
-      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-is-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "This page is for podcast-feed delivery only.",
-      "publishedAt": "2026-09-24T10:02:47.000Z",
-      "articleId": "38caa0c0f1c31879"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
       "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
       "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
@@ -1237,17 +1269,6 @@
       "summary": "Alex Chalmers reviews Armies of Sand by Kenneth Pollack.",
       "publishedAt": "2026-09-21T13:26:44.000Z",
       "articleId": "d64504f2661af517"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/frontier-overhangs/",
-      "title": "Frontier Overhangs",
-      "url": "https://stratechery.com/2026/frontier-overhangs/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "articleId": "d1396182f341eca8"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7611622/2026/09/21/new-york-giants-rams-monday-night-football-jaxson-dart/",
@@ -1907,47 +1928,23 @@
       "summary": "The Strokes debut album turns 25, so Steven Hyden popped by to talk about it",
       "publishedAt": "2026-09-06T14:31:26.000Z",
       "articleId": "575dfd8c84df1e73"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09052026",
-      "title": "Reading List - 09/05/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-09052026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "SpaceX’s turbine blade factory, Fervo’s deal with Google, Delhi’s cheap metro, why recycling is overrated, and more.",
-      "publishedAt": "2026-09-05T12:03:33.000Z",
-      "articleId": "5f46217533f9a111"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/america-is-still-beating-china-in",
-      "title": "America is still beating China in the AI race",
-      "url": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The U.S. is staying ahead, though the costs of that lead are still unknown.",
-      "publishedAt": "2026-09-05T07:36:17.000Z",
-      "articleId": "eba5e2d6af7ef14f"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-cloudy-with-afternoon-showers-today-a-fall-chill-early-week-2/",
-    "title": "DC-area forecast: Cloudy tonight, then turning sunny and breezy to start a fabulous fall week",
-    "url": "https://www.capitalweather.com/dc-area-forecast-cloudy-with-afternoon-showers-today-a-fall-chill-early-week-2/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-4/",
+    "title": "DC-area forecast: The nicest week in months is here",
+    "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-4/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Overcast as low 60s to near 60 this evening slip to overnight lows in the mid-50s, with patchy fog or mist.",
-    "publishedAt": "2026-10-04T09:00:31.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Sunday spirits may be dampened by clouds, some mist, and showers in spots.",
-    "articleId": "fb2e1b16b06f4ecb"
+    "summary": "HAPPENING NOW: Mostly sunny and a bit breezy through afternoon, with highs in the upper 60s to low 70s.",
+    "publishedAt": "2026-10-05T09:00:37.000Z",
+    "dailyDigit": 7,
+    "dailyDigitLabel": "7/10",
+    "dailyDigitSummary": "After morning clouds burn off, a “sun”-sational 70-degree afternoon.",
+    "articleId": "58b164bd1d85ebaa"
   },
-  "weatherGeneratedAt": "2026-10-05T06:57:48.141Z",
+  "weatherGeneratedAt": "2026-10-05T15:56:18.206Z",
   "weatherError": null,
   "sources": [
     {
@@ -1970,7 +1967,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
