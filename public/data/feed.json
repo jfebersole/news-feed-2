@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-06T02:55:13.000Z",
-  "fetchedAt": "2026-10-06T02:55:12.996Z",
+  "generatedAt": "2026-10-06T10:10:03.058Z",
+  "fetchedAt": "2026-10-06T10:10:03.053Z",
   "sourceCount": 24,
-  "itemCount": 175,
-  "totalItemCount": 802,
+  "itemCount": 176,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "publishedAt": "2026-10-06T10:07:36.000Z",
+      "articleId": "947d7758346116e8"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-permitting-deal-is-good-and-should",
+      "title": "The permitting deal is good and should pass",
+      "url": "https://www.slowboring.com/p/the-permitting-deal-is-good-and-should",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Against the underpants gnome theory of climate action",
+      "publishedAt": "2026-10-06T10:03:15.000Z",
+      "articleId": "f763e6304c28d855"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression",
+      "title": "The Great Accretion and the Great Depression",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […]",
+      "publishedAt": "2026-10-06T07:06:24.000Z",
+      "articleId": "2a18dbb590444859"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/fjl0ovop5ss9lfqb279c2ial68c2qwqvmi5bhif3.html",
+      "title": "Money Stuff: Mergers and Acqui-hires",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/fjl0ovop5ss9lfqb279c2ial68c2qwqvmi5bhif3.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Reverse acqui-hire In recent years, the US technology industry invented a new kind of mergers-and-acquisitions transaction. Traditionally there were two main sorts of M&A transaction: The acquirer buys the target company , in a merger or stock purchase; the shareholders of the target company get something (cash, acquirer stock) in exchange for their shares of the target, and the acquirer ends up owning the target corporate entity. The acquirer buys the assets of the company, in an asset purchase; the target company gets something (cash, acquirer stock) in exchange for its business. If the target is selling all of its assets, it will be left as an empty shell, and will probably distribute the cash or stock to its shareholders and liquidate. These are both pretty normal transactions, and many rules are set up to treat them similarly. So, for instance, Delaware corporate law requires a shareholder vote for a merger , or for a sale of “all or substantially all” of a company’s assets. US antitrust law requires a “Hart-Scott-Rodino premerger notification report” — where the acquirer tells antitrust regulators about the deal and gives them the opportunity to object — for any acquisition of more than $133.9 million worth of stock or assets. You might get different accounting or tax treatment for different deal structures, but many of the big-picture effects are the same however you structure the deal. The antitrust part is important. The big tech companies are very big, there is a lot of political and regulatory worry that they are monopolists, and there is at least some winner-takes-all flavor to the AI race. Meta or Alphabet or Nvidia might really want to do a $20 billion AI acquisition here or there, but that might be risky from an antitrust perspective. So they’re in the market for ways to do acquisitions without, technically, doing acquisitions. Many early-stage artificial intelligence startups consist mostly of (1) people and (2) ideas. The startup has some AI researchers, and they’ve come up with some model or harness or chip design or robot or whatever, and it’s pretty promising. But the startup doesn’t have, like, a giant portfolio of data-center real estate, or a robot assembly line, or a bunch of customer contracts. If a big tech company wants to acquire a startup like that, it could buy it in a merger, or buy all of its assets. But the new structure is: The acquirer hires the target’s employees, or most of them, or at least the people who are critical to its valuable ideas. The acquirer gets a waiver, from the target’s board of directors, allowing it to do all that hiring. (California doesn’t enforce non-compete agreements, but if you are going to, like, have the chief executive officer of the target email all of the target’s employees from her...",
+      "publishedAt": "2026-10-06T04:32:53.065Z",
+      "articleId": "245c0d78586ac1b8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards",
+      "title": "Rising concentration for economics awards",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […]",
+      "publishedAt": "2026-10-06T04:24:14.000Z",
+      "articleId": "614c1aef570c26b2"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/with-a-new-agenda-the-build-america",
       "title": "With a new agenda, the Build America Caucus gets ambitious with abundance",
@@ -365,17 +420,6 @@
       "articleId": "a47b744663b836e7"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2",
-      "title": "Supply is elastic, installment #1637",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "For taxes too: Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A […]",
-      "publishedAt": "2026-10-02T17:32:37.000Z",
-      "articleId": "bc14cc0d7ac93aee"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/dots-and-question-marks/",
       "title": "2026.40: Dots and Question Marks",
       "url": "https://stratechery.com/2026/dots-and-question-marks/",
@@ -385,17 +429,6 @@
       "summary": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
       "publishedAt": "2026-10-02T17:00:00.000Z",
       "articleId": "f2ba925c3151845e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. How rich was Anglo-Saxon England? 2. New game theory paper on AI races. 3. Scott Sumner movie reviews, please note he is always correct and thus the greatest film critic in the world, at least by that metric. 4. What should the AI safety movement be? 5. The frontier models are beating licensed accountants. […]",
-      "publishedAt": "2026-10-02T15:30:39.000Z",
-      "articleId": "1e0f9e2ce8497dab"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7651586/2026/10/02/giants-cardinals-preview-prediction-quarterback/",
@@ -1106,17 +1139,6 @@
       "articleId": "958eb4a6ab599a36"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cmhzyayiwhoiz2ne78i4.html",
-      "title": "Money Stuff: Kalshi Levers the Predictions",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/cmhzyayiwhoiz2ne78i4.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Kalshi Klear Back in March, I wrote up a little flight of fancy about leveraged prediction markets. A prediction market like Kalshi or Polymarket mostly lists binary event contracts that pay out $1 if some event happens or $0 if it doesn’t. These contracts have some very nice properties for youngish startup-ish exchanges like Kalshi and Polymarket. The exchange can create an event contract by selling a package of one Yes bet and one No bet for a total of $1. The exchange’s books are always balanced; there is always exactly one No per Yes. When the contract resolves, the exchange always owes exactly $1 to the winner and always has exactly $1. [1] There is no risk and no leverage: The exchange just takes the bettors’ money, hangs onto it for them, and gives it to the winner at the end. This is completely different from regular commodity futures exchanges that list continuous futures contracts on the price of wheat or whatever. Those exchanges can’t take the full amount upfront, for two reasons: These are classically financial hedging instruments, and paying upfront for wheat to be delivered in a year is an inefficient use of capital for millers, farmers, hedge funds, etc. The prices of commodities are generally unbounded, so the short side of the trade — the person betting on wheat prices to go down — could never really put up “the full amount.” If wheat is trading at $7 per bushel, and you and I enter into a wheat futures contract, and I put down $7 on the long side and you put down $7 on the short side, and then wheat goes to $50 per bushel, I am owed $50 and the exchange has only $14. And so actual commodities futures exchanges have complicated margining systems in which they collect money (“margin” or “collateral”) from both sides of the trade, call additional margin from one side when the position moves against it, [2] set margin requirements to account for the likely volatility of the trade, and nonetheless occasionally have shortfalls where a customer owes additional money on a trade. And prediction markets have none of that: They just take the money upfront, the end. Their processes are simpler, they have less risk, and they can sign up customers on their websites with a minimum of fuss because they don’t need to worry about credit limits or margin calls. This is all very simple and attractive to retail gamblers, and in the first instance retail gamblers are the core audience for prediction markets. But eventually, if you want to get into the business of hedging business risks — if you want to sell event contracts to millers and farmers and hedge funds — you will want to make those contracts more capital-efficient. You will want to allow some trading on margin. If some hedge fund wants to own $50 million of “Ken Paxton wins the Texas Senate...",
-      "publishedAt": "2026-09-23T18:35:51.903Z",
-      "articleId": "ce6b79855b81d107"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/fc9l7ddpiq12uqbbuttq.html",
       "title": "Easy Weeknight Pasta with Mushrooms",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/fc9l7ddpiq12uqbbuttq.html",
@@ -1236,17 +1258,6 @@
       "summary": "We’ve invented microbes that can eat plastic, detect landmines, and extract rare metals. They’ve been swallowed by a black hole.",
       "publishedAt": "2026-09-22T11:05:09.000Z",
       "articleId": "baadcb6778541e7a"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
-      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
-      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
-      "publishedAt": "2026-09-22T10:00:00.000Z",
-      "articleId": "a5457bf5f304e893"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
@@ -1964,20 +1975,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-fill-in-headline-4/",
-    "title": "DC-area forecast: The nicest week in months is here",
-    "url": "https://www.capitalweather.com/dc-area-forecast-fill-in-headline-4/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-totally-terrific-tuesday-with-more-nice-days-ahead/",
+    "title": "DC-area forecast: Totally terrific Tuesday with more nice days ahead",
+    "url": "https://www.capitalweather.com/dc-area-forecast-totally-terrific-tuesday-with-more-nice-days-ahead/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Breezes diminish a little this evening as temperatures fall into and through the 60s.",
-    "publishedAt": "2026-10-05T09:00:37.000Z",
-    "dailyDigit": 7,
-    "dailyDigitLabel": "7/10",
-    "dailyDigitSummary": "After morning clouds burn off, a “sun”-sational 70-degree afternoon.",
-    "articleId": "58b164bd1d85ebaa"
+    "summary": "HAPPENING NOW: We start in the brisk 40s to near 50 early this morning. But sunshine dominates, sending morning readings quickly through the 50s, on the way to afternoon highs in the 60s.",
+    "publishedAt": "2026-10-06T09:00:25.000Z",
+    "dailyDigit": 9,
+    "dailyDigitLabel": "9/10",
+    "dailyDigitSummary": "A slightly cool but absolutely awesome autumn day. We can soak it in and enjoy, as we look forward to at least a few more sunny days ahead too!",
+    "articleId": "68e6e04b0fa9c1b4"
   },
-  "weatherGeneratedAt": "2026-10-06T02:55:13.000Z",
+  "weatherGeneratedAt": "2026-10-06T10:10:03.058Z",
   "weatherError": null,
   "sources": [
     {
@@ -2063,10 +2074,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
@@ -2088,7 +2099,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
