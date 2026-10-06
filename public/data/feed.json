@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-06T17:09:30.435Z",
-  "fetchedAt": "2026-10-06T17:09:30.426Z",
+  "generatedAt": "2026-10-06T22:37:09.349Z",
+  "fetchedAt": "2026-10-06T22:37:09.344Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 803,
+  "itemCount": 176,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+      "title": "An Open Letter To Steven Pinker On AI",
+      "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-10-06T21:23:06.000Z",
+      "articleId": "2a7bfacef2ce3251"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/the-democrats-ai-primary-is-heating",
+      "title": "The Democrats’ AI primary is heating up",
+      "url": "https://www.natesilver.net/p/the-democrats-ai-primary-is-heating",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "The 2028 nomination race begins as soon as the midterms are over. Some Democrats like Gavin Newsom are scrambling to reformulate their positions.",
+      "publishedAt": "2026-10-06T17:29:50.000Z",
+      "articleId": "5d5191077164ce6b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-589",
       "title": "Tuesday assorted links",
@@ -993,18 +1015,6 @@
       "articleId": "8186c4b4052bcae8"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/getting-to-yes-with-iran",
-      "title": "Getting to yes with Iran",
-      "url": "https://www.slowboring.com/p/getting-to-yes-with-iran",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus better local elections, banning online gambling, and F.D.R.’s legacy",
-      "publishedAt": "2026-09-25T10:01:28.000Z",
-      "articleId": "c8f8d797d5c2ef8f"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7628353/2026/09/25/giants-titans-john-harbaugh-jameis-winston/",
       "title": "Giants' season hinges on John Harbaugh after Jaxson Dart injury",
       "url": "https://www.nytimes.com/athletic/7628353/2026/09/25/giants-titans-john-harbaugh-jameis-winston/",
@@ -1852,17 +1862,6 @@
       "articleId": "3ed25ecbdd3b68e1"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/trump-vs-the-blue-wave",
-      "title": "Trump vs. the Blue Wave",
-      "url": "https://www.natesilver.net/p/trump-vs-the-blue-wave",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Still Counting EP1 is out!",
-      "publishedAt": "2026-09-10T14:26:52.000Z",
-      "articleId": "513e6c3d252b5f3f"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/royce-on-san-francisco",
       "title": "Royce On San Francisco",
       "url": "https://www.astralcodexten.com/p/royce-on-san-francisco",
@@ -1971,34 +1970,23 @@
       "summary": "Collapsing fertility in four easy steps",
       "publishedAt": "2026-09-07T00:18:40.000Z",
       "articleId": "746a2155afab6d0a"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7570831/2026/09/06/giants-jameis-winston-contract-extension/",
-      "title": "Giants agree to extensions with QB Jameis Winston, G Jon Runyan: Source",
-      "url": "https://www.nytimes.com/athletic/7570831/2026/09/06/giants-jameis-winston-contract-extension/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Winston is locked in as Jaxson Dart's backup for the second consecutive season, while Runyan will be in New York through 2028.",
-      "publishedAt": "2026-09-06T20:47:04.000Z",
-      "articleId": "2a7412a337a951dc"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-totally-terrific-tuesday-with-more-nice-days-ahead/",
-    "title": "DC-area forecast: Totally terrific Tuesday with more nice days ahead; weekend rain?",
+    "title": "DC-area forecast: More nice days ahead this week; weekend rain?",
     "url": "https://www.capitalweather.com/dc-area-forecast-totally-terrific-tuesday-with-more-nice-days-ahead/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Sunshine dominates, sending afternoon highs into the mid- to upper 60s with light winds and low humidity.",
+    "summary": "HAPPENING NOW: Clear and pleasantly cool this evening, with temperatures dipping into the 50s around sunset.",
     "publishedAt": "2026-10-06T09:00:25.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A slightly cool but absolutely awesome autumn day. We can soak it in and enjoy, as we look forward to at least a few more sunny days ahead too!",
     "articleId": "68e6e04b0fa9c1b4"
   },
-  "weatherGeneratedAt": "2026-10-06T17:09:30.435Z",
+  "weatherGeneratedAt": "2026-10-06T22:37:09.349Z",
   "weatherError": null,
   "sources": [
     {
@@ -2109,7 +2097,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
