@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-06T22:37:09.349Z",
-  "fetchedAt": "2026-10-06T22:37:09.344Z",
+  "generatedAt": "2026-10-07T02:18:54.750Z",
+  "fetchedAt": "2026-10-07T02:18:54.746Z",
   "sourceCount": 24,
-  "itemCount": 176,
+  "itemCount": 175,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email",
+      "title": "Brazil election notes (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 candidates who received the most votes for the Lower Chamber are under 40. The exception is 41. Their average age is 31.6. They’re all very […]",
+      "publishedAt": "2026-10-06T22:38:14.000Z",
+      "articleId": "6caa78641cc14b7e"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
       "title": "An Open Letter To Steven Pinker On AI",
@@ -404,17 +415,6 @@
       "summary": "Systematic polling errors are common. Polls might be biased against Republicans again. Or against Democrats.",
       "publishedAt": "2026-10-03T16:44:01.000Z",
       "articleId": "f763c02ea6b37ef9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea Cărtărescu. 4. It seems the expansion of remote work reduced births? 5. “Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up […]",
-      "publishedAt": "2026-10-03T16:29:20.000Z",
-      "articleId": "b738f1e8022dd5ac"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-2026-10-03",
@@ -1959,17 +1959,6 @@
       "summary": "Happy Labor Day!! Your labor is still valuable.",
       "publishedAt": "2026-09-07T08:13:49.000Z",
       "articleId": "1c3f1fdc068b65bb"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/its-the-fun",
-      "title": "It's the fun",
-      "url": "https://scottsumner.substack.com/p/its-the-fun",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "Collapsing fertility in four easy steps",
-      "publishedAt": "2026-09-07T00:18:40.000Z",
-      "articleId": "746a2155afab6d0a"
     }
   ],
   "weather": {
@@ -1979,14 +1968,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clear and pleasantly cool this evening, with temperatures dipping into the 50s around sunset.",
+    "summary": "HAPPENING NOW: Clear and seasonably cool this evening, with temperatures dipping through the 50s.",
     "publishedAt": "2026-10-06T09:00:25.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "A slightly cool but absolutely awesome autumn day. We can soak it in and enjoy, as we look forward to at least a few more sunny days ahead too!",
     "articleId": "68e6e04b0fa9c1b4"
   },
-  "weatherGeneratedAt": "2026-10-06T22:37:09.349Z",
+  "weatherGeneratedAt": "2026-10-07T02:18:54.750Z",
   "weatherError": null,
   "sources": [
     {
@@ -2072,10 +2061,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
