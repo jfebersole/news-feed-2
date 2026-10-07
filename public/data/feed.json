@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-10-07T02:18:54.750Z",
-  "fetchedAt": "2026-10-07T02:18:54.746Z",
+  "generatedAt": "2026-10-07T10:09:59.024Z",
+  "fetchedAt": "2026-10-07T10:09:59.017Z",
   "sourceCount": 24,
-  "itemCount": 175,
-  "totalItemCount": 802,
+  "itemCount": 178,
+  "totalItemCount": 804,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/there-arent-100-good-tv-shows",
+      "title": "There aren’t 100 good TV shows",
+      "url": "https://www.slowboring.com/p/there-arent-100-good-tv-shows",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The original slop medium doesn’t need a canon.",
+      "publishedAt": "2026-10-07T10:03:28.000Z",
+      "articleId": "bf3680a0b52b448b"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+      "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
+      "publishedAt": "2026-10-07T10:01:39.000Z",
+      "articleId": "a8542659e5c0f5d6"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/there-is-no-indian-question",
+      "title": "There is no “Indian Question”",
+      "url": "https://www.noahpinion.blog/p/there-is-no-indian-question",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The actual question is what kind of a nation America is going to be.",
+      "publishedAt": "2026-10-07T09:47:37.000Z",
+      "articleId": "52d7631e541680ec"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-yankees-dynasty-began-with-players",
+      "title": "The Yankees’ Dynasty Began With Players Who Wouldn’t Stick Around for Long",
+      "url": "https://neilpaine.substack.com/p/the-yankees-dynasty-began-with-players",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "The 1996 Yankees already had the makings of their famous core. But no other dynasty-starter leaned more heavily on players who were also about to leave the picture.",
+      "publishedAt": "2026-10-07T09:02:17.000Z",
+      "articleId": "5903847027cd2e0b"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/issue-26-chinas-growth-machines",
+      "title": "Issue 26: China’s growth machines",
+      "url": "https://www.worksinprogress.news/p/issue-26-chinas-growth-machines",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Featuring Dan Wang, Stephen Kotkin, Saloni Dattani, and more.",
+      "publishedAt": "2026-10-07T08:59:53.000Z",
+      "articleId": "537bc1a594a69ba2"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative",
+      "title": "Why most stereotypes are negative",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attributes that distinguish them […]",
+      "publishedAt": "2026-10-07T07:03:57.000Z",
+      "articleId": "0c8a7517878e9cf1"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin",
+      "title": "Effective altruism is useful at the margin",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […]",
+      "publishedAt": "2026-10-07T04:49:13.000Z",
+      "articleId": "6a2208602e4a534c"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email",
       "title": "Brazil election notes (from my email)",
@@ -381,28 +459,6 @@
       "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […]",
       "publishedAt": "2026-10-04T11:18:58.000Z",
       "articleId": "0163cefd92712b0d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race",
-      "title": "Marital sorting by class and race",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases […]",
-      "publishedAt": "2026-10-04T07:01:17.000Z",
-      "articleId": "9c5d5c8c29d64938"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care",
-      "title": "Do the elderly prefer robotic care?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals’ perceptions of such technologies, drawing on a custom-designed internet survey of 4,314 Japanese individuals aged 55 to 75. Respondents choose […]",
-      "publishedAt": "2026-10-04T05:17:41.000Z",
-      "articleId": "05550f41e3cac80b"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-if-the-polls-are-wrong-again",
@@ -1204,17 +1260,6 @@
       "articleId": "41cbfe30270d1f7e"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
-      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-      "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
-      "articleId": "836e43d312ea7666"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
       "title": "Mysteries Of AI Generalization",
       "url": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
@@ -1948,34 +1993,23 @@
       "summary": "...",
       "publishedAt": "2026-09-08T12:04:21.000Z",
       "articleId": "8e5ec382bed1cc11"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
-      "title": "AI keeps stubbornly refusing to take our jobs",
-      "url": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Happy Labor Day!! Your labor is still valuable.",
-      "publishedAt": "2026-09-07T08:13:49.000Z",
-      "articleId": "1c3f1fdc068b65bb"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-totally-terrific-tuesday-with-more-nice-days-ahead/",
-    "title": "DC-area forecast: More nice days ahead this week; weekend rain?",
-    "url": "https://www.capitalweather.com/dc-area-forecast-totally-terrific-tuesday-with-more-nice-days-ahead/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warmer-and-wonderful-through-at-least-friday-weekend-rain/",
+    "title": "DC-area forecast: Warmer and wonderful through at least Friday; weekend rain?",
+    "url": "https://www.capitalweather.com/dc-area-forecast-warmer-and-wonderful-through-at-least-friday-weekend-rain/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clear and seasonably cool this evening, with temperatures dipping through the 50s.",
-    "publishedAt": "2026-10-06T09:00:25.000Z",
-    "dailyDigit": 9,
-    "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "A slightly cool but absolutely awesome autumn day. We can soak it in and enjoy, as we look forward to at least a few more sunny days ahead too!",
-    "articleId": "68e6e04b0fa9c1b4"
+    "summary": "HAPPENING NOW: A morning chill once again as temperatures start in the 40s, then nothing but sun with delightful afternoon highs in the low to mid-70s.",
+    "publishedAt": "2026-10-07T09:00:45.000Z",
+    "dailyDigit": 10,
+    "dailyDigitLabel": "10/10",
+    "dailyDigitSummary": "Legit candidate for nicest day of the year! Sunshine and Goldilocks highs in the low 70s.",
+    "articleId": "081ecefa5c4d1789"
   },
-  "weatherGeneratedAt": "2026-10-07T02:18:54.750Z",
+  "weatherGeneratedAt": "2026-10-07T10:09:59.024Z",
   "weatherError": null,
   "sources": [
     {
@@ -2061,10 +2095,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss-proxy",
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -2086,7 +2120,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
