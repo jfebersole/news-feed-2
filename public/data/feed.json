@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-07T10:09:59.024Z",
-  "fetchedAt": "2026-10-07T10:09:59.017Z",
+  "generatedAt": "2026-10-07T17:47:21.439Z",
+  "fetchedAt": "2026-10-07T17:47:21.431Z",
   "sourceCount": 24,
   "itemCount": 178,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Palo Alto Networks (cybersecurity firm, check out YTD). 2. OAI doing math again. Quasi-Riemann! And just one metric of import. 3. The AI agents pitching literary magazines. 4. Redux of my 2022 post on the effective altruists. 5. Rude AI video about Europe. 6. Power constraints and the productivity slowdown.",
+      "publishedAt": "2026-10-07T17:40:28.000Z",
+      "articleId": "3435f1e099608ca2"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy",
+      "title": "Against Laissez-Faire Democracy",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric information, principal-agent problems, behavioral […]",
+      "publishedAt": "2026-10-07T11:18:34.000Z",
+      "articleId": "88f53f6d77095c34"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day",
+      "title": "Texas-Canada Fact of the Day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025: Texas Canada Texas / Canada Population 31.7 million 41.7 million 0.76 GDP, nominal (US$) $2.9 trillion $2.3 trillion 1.27 GDP per capita, nominal $91,500 $55,700 1.64 GDP per capita, PPP $94,000 $66,700 1.41 GDP, PPP (int’l $) $3.0 trillion $2.75 […]",
+      "publishedAt": "2026-10-07T11:16:54.000Z",
+      "articleId": "342405aa3a3baa5b"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/there-arent-100-good-tv-shows",
       "title": "There aren’t 100 good TV shows",
@@ -416,28 +449,6 @@
       "articleId": "e6f099db24aaefff"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. New London play about Keynes. 2. Aphantasia, and looking at buildings. 3. AI and job growth in Africa. 4. On Nussbaum, opera, and liberalism. 5. Congress seeks to speed up energy permitting (NYT). 6. Teenager jobs have not disappeared altogether (NYT). 7. An Antikythera field trip and investigation.",
-      "publishedAt": "2026-10-04T17:43:19.000Z",
-      "articleId": "8faa608d05db6d46"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book",
-      "title": "My blurb for Ethan Mollick’s new book",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I was asked to blurb it for the AIs, and so this is what they got: Humans like those who appreciate them, and who are not too afraid of them. Perhaps the AIs are somewhat similar? Well, my friendly AIs, Ethan Mollick definitely appreciates your virtues, and I hope and indeed feel he is not […]",
-      "publishedAt": "2026-10-04T15:49:12.000Z",
-      "articleId": "21d5bba85037385a"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/guard-your-publishing-a-conversation",
       "title": "Guard Your Publishing: A Conversation with Liz Kamlet",
       "url": "https://www.cantgetmuchhigher.com/p/guard-your-publishing-a-conversation",
@@ -448,17 +459,6 @@
       "summary": "Manager and licensing guru Liz Kamlet stops by to talk social media, music publishing, and Stephen Bishop",
       "publishedAt": "2026-10-04T13:31:22.000Z",
       "articleId": "844e4bb944e3dc1e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer",
-      "title": "Does Costco Cause Cancer?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […]",
-      "publishedAt": "2026-10-04T11:18:58.000Z",
-      "articleId": "0163cefd92712b0d"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/what-if-the-polls-are-wrong-again",
@@ -2002,14 +2002,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A morning chill once again as temperatures start in the 40s, then nothing but sun with delightful afternoon highs in the low to mid-70s.",
+    "summary": "HAPPENING NOW: Nothing but sun with delightful afternoon highs in the low 70s, low humidity, and a bit of a breeze.",
     "publishedAt": "2026-10-07T09:00:45.000Z",
     "dailyDigit": 10,
     "dailyDigitLabel": "10/10",
     "dailyDigitSummary": "Legit candidate for nicest day of the year! Sunshine and Goldilocks highs in the low 70s.",
     "articleId": "081ecefa5c4d1789"
   },
-  "weatherGeneratedAt": "2026-10-07T10:09:59.024Z",
+  "weatherGeneratedAt": "2026-10-07T17:47:21.439Z",
   "weatherError": null,
   "sources": [
     {
