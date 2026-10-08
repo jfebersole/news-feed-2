@@ -1,10 +1,67 @@
 {
-  "generatedAt": "2026-10-08T02:40:28.749Z",
-  "fetchedAt": "2026-10-08T02:40:28.746Z",
+  "generatedAt": "2026-10-08T10:27:43.710Z",
+  "fetchedAt": "2026-10-08T10:27:43.707Z",
   "sourceCount": 24,
   "itemCount": 180,
   "totalItemCount": 804,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/an-honest-framework-for-assessing",
+      "title": "An honest framework for assessing electoral performance",
+      "url": "https://www.slowboring.com/p/an-honest-framework-for-assessing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Spot tomorrow’s post-election bullshit today",
+      "publishedAt": "2026-10-08T10:05:06.000Z",
+      "articleId": "7afc58977118e413"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-jordan",
+      "title": "“The Argument” podcast, ad free: Jordan Schneider talks China’s AI hype",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-jordan",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-10-08T10:05:03.000Z",
+      "articleId": "99a6093fd805b953"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
+      "articleId": "8dfee69b67d0756e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed",
+      "title": "How and why did the Victorians succeed?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […]",
+      "publishedAt": "2026-10-08T07:02:17.000Z",
+      "articleId": "c4c6df9bd3b6ccc7"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-296",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters. A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended. 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story. Yes he is the WSJ […]",
+      "publishedAt": "2026-10-08T04:52:29.000Z",
+      "articleId": "db575e67002a7df4"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-blue-wave-is-building-as-the-gops",
       "title": "A blue wave is building as the G.O.P.’s numbers sink",
@@ -436,28 +493,6 @@
       "summary": "It’s not just “of, by and for oligarchs”.",
       "publishedAt": "2026-10-05T08:12:53.000Z",
       "articleId": "01544e4a56375b93"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-82",
-      "title": "China fact of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "With surrogacy illegal in China, an industry of agencies, consultants and fertility clinics has emerged to connect clients with women overseas willing to carry their children. While there is no data on the number of children born to Chinese parents via surrogacy, a recent study showed nearly a third of intended parents for surrogate babies […]",
-      "publishedAt": "2026-10-05T06:56:41.000Z",
-      "articleId": "0679b67c87d5bfc5"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-covid-times",
-      "title": "Crime in Covid Times",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "What caused the historically unique volatility in American homicides since 2019, driven by gun homicides? While there is no shortage of candidate explanations, a coherent understanding has been elusive because of the widely held view that gun violence, like other crimes, stems from a rational weighing of benefits and costs as in Becker (1968). This […]",
-      "publishedAt": "2026-10-05T04:52:02.000Z",
-      "articleId": "893783cf2dfb40fe"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7661060/2026/10/04/new-york-giants-jameis-winston-experience-arizona-cardinals/",
@@ -1003,29 +1038,6 @@
       "articleId": "1cbe862e6ba9c448"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/feed-the-lizard",
-      "title": "Feed the lizard",
-      "url": "https://www.slowboring.com/p/feed-the-lizard",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It’s a good idea to work hard and be helpful when you’re young and don’t have responsibilities.",
-      "publishedAt": "2026-09-28T10:02:15.000Z",
-      "articleId": "34e631b3e8e6ea6c"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-f80",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-f80",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-09-27T17:01:53.000Z",
-      "articleId": "dfab6761f650db6f"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
       "title": "The 10 Best Wedding Albums",
       "url": "https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
@@ -1191,17 +1203,6 @@
       "summary": "It’s fair to be spooked by Jameis Winston’s rough performance Monday, but the Giants shouldn't consider dealing away precious draft capital.",
       "publishedAt": "2026-09-24T11:16:37.000Z",
       "articleId": "af70aeabbf206b7a"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
-      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
-      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
-      "publishedAt": "2026-09-24T10:00:00.000Z",
-      "articleId": "ae6927f8c429134e"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
@@ -2018,20 +2019,20 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warmer-and-wonderful-through-at-least-friday-weekend-rain/",
-    "title": "DC-area forecast: Warmer and wonderful through at least Friday; weekend rain?",
-    "url": "https://www.capitalweather.com/dc-area-forecast-warmer-and-wonderful-through-at-least-friday-weekend-rain/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-pleasant-streak-lasts-until-sunday-rain/",
+    "title": "DC-area forecast: Pleasant streak lasts until Sunday rain",
+    "url": "https://www.capitalweather.com/dc-area-forecast-pleasant-streak-lasts-until-sunday-rain/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Clear through the night as temperatures fall to lows mainly in the 50s.",
-    "publishedAt": "2026-10-07T09:00:45.000Z",
-    "dailyDigit": 10,
-    "dailyDigitLabel": "10/10",
-    "dailyDigitSummary": "Legit candidate for nicest day of the year! Sunshine and Goldilocks highs in the low 70s.",
-    "articleId": "081ecefa5c4d1789"
+    "summary": "HAPPENING NOW: It’ll be hard to find a cloud in the sky as pleasantly cool morning temperatures climb toward above-average highs in the mid-70s to near 80.",
+    "publishedAt": "2026-10-08T09:00:33.000Z",
+    "dailyDigit": 9,
+    "dailyDigitLabel": "9/10",
+    "dailyDigitSummary": "Basically as awesome as yesterday, but a bit warmer and breezier.",
+    "articleId": "d37837a17c28e491"
   },
-  "weatherGeneratedAt": "2026-10-08T02:40:28.749Z",
+  "weatherGeneratedAt": "2026-10-08T10:27:43.710Z",
   "weatherError": null,
   "sources": [
     {
@@ -2117,10 +2118,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
