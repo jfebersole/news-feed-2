@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-08T17:51:05.604Z",
-  "fetchedAt": "2026-10-08T17:51:05.599Z",
+  "generatedAt": "2026-10-08T23:17:31.681Z",
+  "fetchedAt": "2026-10-08T23:17:31.678Z",
   "sourceCount": 24,
   "itemCount": 179,
-  "totalItemCount": 803,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673",
+      "title": "Ballots Everywhere: Times & Places",
+      "url": "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-10-08T22:00:52.000Z",
+      "articleId": "27d7f467d255b75e"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bxeb9rcugqiv9jljrv2oav7gdkb357fti8sn70y8.html",
+      "title": "Money Stuff: Pre-IPO Perpetual Futures Swap ETF",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bxeb9rcugqiv9jljrv2oav7gdkb357fti8sn70y8.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff MANGOS, prime, longshots, buffet. MANGOS What is the best way to get economic exposure to Anthropic stock right now? There are bad answers ( expensive SPVs , fake SPVs ). Here are two arguably good answers: Just own Anthropic stock. Own perpetual futures on Anthropic stock on Hyperliquid. The first answer is pretty self-explanatory. Anthropic has stock, and people own it, and owning it gives you economic exposure to Anthropic stock. There are problems. Not just anyone can own Anthropic stock. It is a private company, and its shares do not trade on an exchange. You more or less need to get the stock from Anthropic , so this approach requires you to be an employee or a venture capital investor in one of its funding rounds or an effective altruist hedge fund manager . For most of us, that rules out this approach entirely. But there is another problem, even if you can get the stock. The other problem is that Anthropic stock is fairly illiquid. [1] You can’t easily sell it, until it goes public. Owning the stock gives you economic exposure to the stock, but you don’t get to decide how long you keep that exposure. And you don’t really know its price . So you do have economic exposure to the stock — if it goes up, your stock is worth more — but you don’t necessarily know how much. The second answer is weirder. Hyperliquid Labs runs a leading platform for trading perpetual futures contracts. Traditionally perpetual futures are a crypto thing, a way to make levered bets on cryptocurrencies, they have expanded into stocks and commodities. Kalshi launched an S&P 500 futures contract and is working on perpetual futures for individual stocks. Perpetual futures contracts are basically bets on prices: One person goes long, one person goes short, the short pays the long if the stock goes up, and the long pays the short if it goes down. A perpetual futures contract on an individual public stock is just a levered bet on that stock, and by arbitrage it will closely track the price of the underlying stock. If SpaceX stock trades at $167.60, and SpaceX perpetual futures trade at $165, arbitrageurs will buy the futures and sell the stock until the prices are in line, etc. [2] But perpetual futures on private stock have no arbitrage mechanism to make the price correct. If Anthropic perpetual futures trade at $120, while Anthropic’s stock is at $100, arbitrageurs cannot sell the futures and buy the stock until the prices converge: They can sell the futures, but they can’t buy the stock. [3] Also, how do you even know that “Anthropic’s stock is at $100”? Anthropic doesn’t trade liquidly or publicly, so you don’t know its price from minute to minute, the way you know the price of the futures. [4] Also, these perps are pretty obviously illegal in the US: Under US...",
+      "publishedAt": "2026-10-08T19:23:13.004Z",
+      "articleId": "f3dd3ad00778543a"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
+      "title": "What Hegseth Is Hiding",
+      "url": "https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Soldiers want to tell their stories, and we need to hear them.",
+      "publishedAt": "2026-10-08T19:20:01.000Z",
+      "articleId": "5111a386b221d030"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/restoring-the-reputation-of-monetarism",
       "title": "Restoring the reputation of monetarism",
@@ -1016,18 +1049,6 @@
       "articleId": "7ea924271fd05800"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-housing-market-is-way-out-of",
-      "title": "The housing market is way out of whack",
-      "url": "https://www.slowboring.com/p/the-housing-market-is-way-out-of",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "With mortgage rates above 7 percent and stocks over-performing, some Americans are rethinking their investments. Meanwhile, Portland is having a rent mismatch.",
-      "publishedAt": "2026-09-28T22:01:55.000Z",
-      "articleId": "9ec9e55a9712f6ca"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
       "title": "Giants' trade for J.J. McCarthy was aggressive, but was it also reckless?",
       "url": "https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
@@ -1049,17 +1070,6 @@
       "summary": "It won’t shock you to learn that the Spurs and Thunder have the brightest futures. But what about the rest of the league after a crazy offseason?",
       "publishedAt": "2026-09-28T19:01:48.000Z",
       "articleId": "f0033a96173eb6a2"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/4dokdjtcfu3se4h9dx4i.html",
-      "title": "Money Stuff: Banks Recycle the Risk",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/4dokdjtcfu3se4h9dx4i.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Structured notes A traditional model might be: There are a lot of investors in the world and they each want to take some risks. Some big asset managers want to own the stock market and also buy some put options for insurance; others want to own corporate bonds and get some duration by owning Treasury futures ; some hedge funds want to make big levered bets on artificial intelligence ; others want to make big bets against GameStop . Some of these risks exist naturally in the world: Asset managers can buy stocks and bonds from the companies that issue them. Many don’t: If you want to buy put options or Treasury futures, someone has to take the other side of your bet. Traditionally, that is the job of an investment bank: If you are an asset manager looking to take a risk, you call an investment bank and say “will you sell me this risk,” and the bank will take the other side of the risk and charge you some money for it. The bank is skilled at pricing risk and selling it to you at a markup. Traditionally, there were many investors, each taking a few risks, and a few investment banks, each taking the other side of many risks. The banks just sort of naturally had more risks than the investors, because they were in the risk-manufacturing business. This required them, also, to be in the risk-balancing business. An investor might think really hard for a while, decide on like five risks to take, and then take them wholeheartedly. A bank would just take whatever risks came in the door, not because it wanted those exact risks but because it could sell them at a markup. It had to be good at finding offsetting risks, so that it didn’t end up taking too much risk in any one direction. If some investor showed up at a bank to buy puts, the bank was short puts, and it had to go out and find some puts to buy. If several investors showed up to buy puts, and no investors showed up to sell puts — because there are some risks that lots of investors want and others that they don’t — then the bank had to find some way to manufacture the puts, to buy some stuff that approximately offset the puts. (A classic approach: If lots of investors want to buy puts on the stock index, you can buy calls on individual stocks to kinda sorta offset those puts. Different stuff, with different risks, but partially offsetting. This is called “the dispersion trade .”) This all made banks into supermarkets of risk, with the skills and desire to go out and manufacture new and complicated risks. For instance, there is the structured notes business: A bank will go out and sell customers some complex package of derivatives that pays off if two stock indexes outperform a third on a majority of Tuesdays this year, but will lose money if the peso appreciates against the yen on Thursdays. Why do...",
-      "publishedAt": "2026-09-28T18:05:35.131Z",
-      "articleId": "b19e43266200143d"
     },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/september-2026-links",
@@ -1128,17 +1138,6 @@
       "summary": "ASML’s lack of European sales, a California distributed power plant, Starlink as a planetary barometer, and more.",
       "publishedAt": "2026-09-26T10:17:46.000Z",
       "articleId": "971ad104932b54e9"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
-      "title": "What Hegseth Is Hiding",
-      "url": "https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Soldiers want to tell their stories, and we need to hear them.",
-      "publishedAt": "2026-09-26T00:19:52.000Z",
-      "articleId": "5111a386b221d030"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
@@ -2016,14 +2015,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It’ll be hard to find a cloud in the sky as temperatures climb toward above-average highs in the mid-70s to near 80.",
+    "summary": "HAPPENING NOW: It’ll be hard to find a cloud in the sky this evening as temperatures settle through the 70s.",
     "publishedAt": "2026-10-08T09:00:33.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Basically as awesome as yesterday, but a bit warmer and breezier.",
     "articleId": "d37837a17c28e491"
   },
-  "weatherGeneratedAt": "2026-10-08T17:51:05.604Z",
+  "weatherGeneratedAt": "2026-10-08T23:17:31.681Z",
   "weatherError": null,
   "sources": [
     {
@@ -2046,7 +2045,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2134,7 +2133,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 16,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
@@ -2198,7 +2197,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 5,
+      "itemCount": 4,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
