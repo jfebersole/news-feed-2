@@ -1,10 +1,67 @@
 {
-  "generatedAt": "2026-10-09T06:01:19.649Z",
-  "fetchedAt": "2026-10-09T06:01:19.646Z",
+  "generatedAt": "2026-10-09T13:08:54.783Z",
+  "fetchedAt": "2026-10-09T13:08:54.779Z",
   "sourceCount": 24,
-  "itemCount": 179,
-  "totalItemCount": 802,
+  "itemCount": 181,
+  "totalItemCount": 803,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7673577/2026/10/09/giants-commanders-preview-harbaugh-nabers/",
+      "title": "John Harbaugh's meritocracy, Malik Nabers' involvement: Watch to watch for in Giants-Commanders",
+      "url": "https://www.nytimes.com/athletic/7673577/2026/10/09/giants-commanders-preview-harbaugh-nabers/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "\"So, what has got you here is not necessarily going to keep you here, and you've got to have daily deposits,\" Brandon Brown said.",
+      "publishedAt": "2026-10-09T11:00:38.000Z",
+      "articleId": "7d23f6049152e801"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-dream-of-blue-texas",
+      "title": "The dream of Blue Texas",
+      "url": "https://www.slowboring.com/p/the-dream-of-blue-texas",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus my “Moby Dick” limited series and the problem with primaries",
+      "publishedAt": "2026-10-09T10:02:08.000Z",
+      "articleId": "6350cbad1ee04fe6"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/maybe-the-rapture-is-already-here",
+      "title": "Maybe the Rapture is already here",
+      "url": "https://www.noahpinion.blog/p/maybe-the-rapture-is-already-here",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "In the future, we’re all heavenbanned.",
+      "publishedAt": "2026-10-09T09:18:32.000Z",
+      "articleId": "d6a3a3ad8ee5bf95"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/why-should-dodgers-brewers-part-ii",
+      "title": "Why Should Dodgers-Brewers Part II Be Any Different?",
+      "url": "https://neilpaine.substack.com/p/why-should-dodgers-brewers-part-ii",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Brewers have another statistically-compelling case that they can beat L.A. But after last October's historic humiliation, is there any reason to listen to it?",
+      "publishedAt": "2026-10-09T09:01:14.000Z",
+      "articleId": "92738b07a674d864"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman",
+      "title": "A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Supplied by Bryan Caplan, performed by ChatGPT, excerpt: So Cowen isn’t well described as either “positive” or “negative.” A much better description is: High appreciation + high concern + very low emotional agitation. He seems to think there is an astonishing amount of wonderful stuff in the world and an astonishing number of things worth […]",
+      "publishedAt": "2026-10-09T06:26:35.000Z",
+      "articleId": "5a2b30904c7eb93e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email",
       "title": "On *Stubborn Attachments* and religion (from my email)",
@@ -484,17 +541,6 @@
       "summary": "Reverse acqui-hire In recent years, the US technology industry invented a new kind of mergers-and-acquisitions transaction. Traditionally there were two main sorts of M&A transaction: The acquirer buys the target company , in a merger or stock purchase; the shareholders of the target company get something (cash, acquirer stock) in exchange for their shares of the target, and the acquirer ends up owning the target corporate entity. The acquirer buys the assets of the company, in an asset purchase; the target company gets something (cash, acquirer stock) in exchange for its business. If the target is selling all of its assets, it will be left as an empty shell, and will probably distribute the cash or stock to its shareholders and liquidate. These are both pretty normal transactions, and many rules are set up to treat them similarly. So, for instance, Delaware corporate law requires a shareholder vote for a merger , or for a sale of “all or substantially all” of a company’s assets. US antitrust law requires a “Hart-Scott-Rodino premerger notification report” — where the acquirer tells antitrust regulators about the deal and gives them the opportunity to object — for any acquisition of more than $133.9 million worth of stock or assets. You might get different accounting or tax treatment for different deal structures, but many of the big-picture effects are the same however you structure the deal. The antitrust part is important. The big tech companies are very big, there is a lot of political and regulatory worry that they are monopolists, and there is at least some winner-takes-all flavor to the AI race. Meta or Alphabet or Nvidia might really want to do a $20 billion AI acquisition here or there, but that might be risky from an antitrust perspective. So they’re in the market for ways to do acquisitions without, technically, doing acquisitions. Many early-stage artificial intelligence startups consist mostly of (1) people and (2) ideas. The startup has some AI researchers, and they’ve come up with some model or harness or chip design or robot or whatever, and it’s pretty promising. But the startup doesn’t have, like, a giant portfolio of data-center real estate, or a robot assembly line, or a bunch of customer contracts. If a big tech company wants to acquire a startup like that, it could buy it in a merger, or buy all of its assets. But the new structure is: The acquirer hires the target’s employees, or most of them, or at least the people who are critical to its valuable ideas. The acquirer gets a waiver, from the target’s board of directors, allowing it to do all that hiring. (California doesn’t enforce non-compete agreements, but if you are going to, like, have the chief executive officer of the target email all of the target’s employees from her...",
       "publishedAt": "2026-10-06T04:32:53.065Z",
       "articleId": "245c0d78586ac1b8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards",
-      "title": "Rising concentration for economics awards",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in […]",
-      "publishedAt": "2026-10-06T04:24:14.000Z",
-      "articleId": "614c1aef570c26b2"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/with-a-new-agenda-the-build-america",
@@ -1013,18 +1059,6 @@
       "summary": "Featuring Selena, Blaze Foley, Marvin Gaye, and others",
       "publishedAt": "2026-09-29T13:30:52.000Z",
       "articleId": "3cd1709bd515ed93"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-truth-about-rich-people-in-america",
-      "title": "The truth about rich people in America",
-      "url": "https://www.slowboring.com/p/the-truth-about-rich-people-in-america",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A new book reveals the vast wealth of America’s banal small-business owners.",
-      "publishedAt": "2026-09-29T10:03:46.000Z",
-      "articleId": "f574e906ec83bcae"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
@@ -1995,34 +2029,23 @@
       "summary": "The massively multiplayer online game was created in the 1980s.",
       "publishedAt": "2026-09-09T16:37:49.000Z",
       "articleId": "8aa4df1ab102036e"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
-      "title": "Liberalism needs a new philosophy of immigration",
-      "url": "https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "We need to make a principled stand instead of a tactical retreat.",
-      "publishedAt": "2026-09-09T08:39:04.000Z",
-      "articleId": "c6d1967593f95c65"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-pleasant-streak-lasts-until-sunday-rain/",
-    "title": "DC-area forecast: Pleasant streak lasts until Sunday rain",
-    "url": "https://www.capitalweather.com/dc-area-forecast-pleasant-streak-lasts-until-sunday-rain/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-then-rain-from-the-remnants-of-isaias-by-sunday/",
+    "title": "DC-area forecast: Nice today, then rain from the remnants of Isaias by Sunday",
+    "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-then-rain-from-the-remnants-of-isaias-by-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Mainly clear tonight as temperatures settle to a range of mid-40s to low 50s.",
-    "publishedAt": "2026-10-08T09:00:33.000Z",
+    "summary": "HAPPENING NOW: Comfortable and mainly bright, with just some high clouds filtering the sunshine at times. Cool morning temperatures head to afternoon highs in the mid-70s.",
+    "publishedAt": "2026-10-09T09:00:30.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "Basically as awesome as yesterday, but a bit warmer and breezier.",
-    "articleId": "d37837a17c28e491"
+    "dailyDigitSummary": "Bright skies despite some high clouds, light breezes, low humidity, and highs in the mid-70s. October, you’re doing great.",
+    "articleId": "d1ff2894a966190d"
   },
-  "weatherGeneratedAt": "2026-10-09T06:01:19.649Z",
+  "weatherGeneratedAt": "2026-10-09T13:08:54.783Z",
   "weatherError": null,
   "sources": [
     {
@@ -2109,7 +2132,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
