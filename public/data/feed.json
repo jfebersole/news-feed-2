@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-08T23:17:31.681Z",
-  "fetchedAt": "2026-10-08T23:17:31.678Z",
+  "generatedAt": "2026-10-09T06:01:19.649Z",
+  "fetchedAt": "2026-10-09T06:01:19.646Z",
   "sourceCount": 24,
   "itemCount": 179,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email",
+      "title": "On *Stubborn Attachments* and religion (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Hey Tyler I consider Stubborn Attachments your most dogmatic and religious book. Pondering on it, here are my Abrahamic readings of it: Jewish: Ten Commandments, obviously. While the bigger canon of Jewish laws tend to be overly conservative because people will fail following them anyway, the Ten Commandments are the laws the Jews should be […]",
+      "publishedAt": "2026-10-09T04:38:05.000Z",
+      "articleId": "1698d488ec4a6aea"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673",
       "title": "Ballots Everywhere: Times & Places",
@@ -518,17 +529,6 @@
       "summary": "How flawed models can be useful",
       "publishedAt": "2026-10-05T18:38:38.000Z",
       "articleId": "3451b93591698a0f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Jokic. And another angle. 2. Six questions for believers in AI consciousness. 3. Prediction markets do not seem to be politically biased. 4. “AI writing is absent before 2023, present in 29% of dissertations filed in 2026, and rapidly growing.” 5. Short Knausgaard documentary and interview.",
-      "publishedAt": "2026-10-05T17:23:07.000Z",
-      "articleId": "520c099b0def82ea"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/why-agent-swarms-could-be-the-next",
@@ -2015,14 +2015,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: It’ll be hard to find a cloud in the sky this evening as temperatures settle through the 70s.",
+    "summary": "HAPPENING NOW: Mainly clear tonight as temperatures settle to a range of mid-40s to low 50s.",
     "publishedAt": "2026-10-08T09:00:33.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Basically as awesome as yesterday, but a bit warmer and breezier.",
     "articleId": "d37837a17c28e491"
   },
-  "weatherGeneratedAt": "2026-10-08T23:17:31.681Z",
+  "weatherGeneratedAt": "2026-10-09T06:01:19.649Z",
   "weatherError": null,
   "sources": [
     {
