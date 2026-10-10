@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-10T05:44:01.466Z",
-  "fetchedAt": "2026-10-10T05:44:01.461Z",
+  "generatedAt": "2026-10-10T12:24:14.375Z",
+  "fetchedAt": "2026-10-10T12:24:14.370Z",
   "sourceCount": 24,
-  "itemCount": 181,
-  "totalItemCount": 802,
+  "itemCount": 179,
+  "totalItemCount": 800,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day",
+      "title": "Earth facts of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Global call center headcount is 5.3% below its December 2023 peak, ending more than a decade of growth. It has fallen year over year for eight straight quarters, a decline that started in high-income countries and coincided with the rise of AI chatbots. Call center support is falling behind other white-collar work in the same […]",
+      "publishedAt": "2026-10-10T07:31:46.000Z",
+      "articleId": "d74db8b087d09ceb"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration",
       "title": "California in-migration and out-migration",
@@ -487,17 +498,6 @@
       "summary": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attributes that distinguish them […]",
       "publishedAt": "2026-10-07T07:03:57.000Z",
       "articleId": "0c8a7517878e9cf1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin",
-      "title": "Effective altruism is useful at the margin",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the theme of my latest Free Press essay, here is one excerpt: I feel I am well aware of the limitations of effective altruism, and I have outlined many others in an hour-long dialogue I had with MacAskill, arguably the father of the movement, in 2022. Nonetheless, at the margin I think more […]",
-      "publishedAt": "2026-10-07T04:49:13.000Z",
-      "articleId": "6a2208602e4a534c"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
@@ -2008,45 +2008,23 @@
       "summary": "Am I a regional thinker?",
       "publishedAt": "2026-09-10T17:20:46.000Z",
       "articleId": "3ed25ecbdd3b68e1"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/royce-on-san-francisco",
-      "title": "Royce On San Francisco",
-      "url": "https://www.astralcodexten.com/p/royce-on-san-francisco",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-09-10T11:10:18.000Z",
-      "articleId": "50a5e559c8145651"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
-      "title": "How Giants are molding Jaxson Dart into savior they need him to be",
-      "url": "https://www.nytimes.com/athletic/7580256/2026/09/10/new-york-giants-jaxson-dart-year-2-leap-2026-season/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "To become what the Giants need him to be, Dart must master aspects of the quarterback position he's largely unfamiliar with.",
-      "publishedAt": "2026-09-10T10:00:48.000Z",
-      "articleId": "1dbcdd12a7deb3db"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-then-rain-from-the-remnants-of-isaias-by-sunday/",
-    "title": "DC-area forecast: Pleasant start to the weekend, then rain from Isaias Saturday night and Sunday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-then-rain-from-the-remnants-of-isaias-by-sunday/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
+    "title": "DC-area forecast: Clouds increase before remnants of Hurricane Isaias arrive tonight",
+    "url": "https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A good deal of clouds – mainly thin and high level – through tonight, with lows in the 50s.",
-    "publishedAt": "2026-10-09T09:00:30.000Z",
-    "dailyDigit": 9,
-    "dailyDigitLabel": "9/10",
-    "dailyDigitSummary": "Bright skies despite some high clouds, light breezes, low humidity, and highs in the mid-70s. October, you’re doing great.",
-    "articleId": "d1ff2894a966190d"
+    "summary": "HAPPENING NOW: Increasing clouds today with highs in the upper 60s to low 70s. Showers from the remnants of Isaias could arrive as early as 8 p.m.",
+    "publishedAt": "2026-10-10T09:00:00.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "More clouds than we'd like, but at least the rain holds off for daytime outdoor plans before showers move in tonight.",
+    "articleId": "8bea235823a24838"
   },
-  "weatherGeneratedAt": "2026-10-10T05:44:01.466Z",
+  "weatherGeneratedAt": "2026-10-10T12:24:14.375Z",
   "weatherError": null,
   "sources": [
     {
@@ -2100,10 +2078,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 8,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
