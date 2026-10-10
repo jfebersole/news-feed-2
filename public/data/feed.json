@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T19:30:49.277Z",
-  "fetchedAt": "2026-10-09T19:30:49.273Z",
+  "generatedAt": "2026-10-09T23:59:50.439Z",
+  "fetchedAt": "2026-10-09T23:59:50.437Z",
   "sourceCount": 24,
   "itemCount": 180,
   "totalItemCount": 802,
@@ -2023,19 +2023,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-nice-today-then-rain-from-the-remnants-of-isaias-by-sunday/",
-    "title": "DC-area forecast: Nice today, then rain from Isaias Saturday night and Sunday",
+    "title": "DC-area forecast: Pleasant start to the weekend, then rain from Isaias Saturday night and Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-nice-today-then-rain-from-the-remnants-of-isaias-by-sunday/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Comfortable and mainly bright, with just some high clouds filtering the sunshine at times. Afternoon highs in the mid-70s.",
+    "summary": "HAPPENING NOW: Temperatures fall from the 70s into the 60s around sunset. A good deal of clouds – mainly thin and high level – through tonight, with lows in the 50s.",
     "publishedAt": "2026-10-09T09:00:30.000Z",
     "dailyDigit": 9,
     "dailyDigitLabel": "9/10",
     "dailyDigitSummary": "Bright skies despite some high clouds, light breezes, low humidity, and highs in the mid-70s. October, you’re doing great.",
     "articleId": "d1ff2894a966190d"
   },
-  "weatherGeneratedAt": "2026-10-09T19:30:49.277Z",
+  "weatherGeneratedAt": "2026-10-09T23:59:50.439Z",
   "weatherError": null,
   "sources": [
     {
