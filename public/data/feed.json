@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-10T17:48:37.274Z",
-  "fetchedAt": "2026-10-10T17:48:37.270Z",
+  "generatedAt": "2026-10-10T21:36:58.220Z",
+  "fetchedAt": "2026-10-10T21:36:58.215Z",
   "sourceCount": 24,
-  "itemCount": 178,
+  "itemCount": 179,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
+      "title": "Integrated Circuits, AI, and Wallabies",
+      "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Two very different essays written while waiting for doctors",
+      "publishedAt": "2026-10-10T18:13:49.000Z",
+      "articleId": "99d18a4eb9be9028"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582",
       "title": "Saturday assorted links",
@@ -1982,7 +1993,8 @@
       "url": "https://walkingtheworld.substack.com/p/the-aboriginal-issue",
       "source": "Walking the World",
       "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Victimhood is corrosive",
       "publishedAt": "2026-09-11T01:26:44.000Z",
       "articleId": "a3cbed426de280c6"
@@ -2002,19 +2014,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
-    "title": "DC-area forecast: Clouds increase before remnants of Hurricane Isaias arrive tonight",
+    "title": "DC-area forecast: Spotty light showers gradually arriving. Soaking rain and breezy tonight into Sunday.",
     "url": "https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Increasing clouds today with highs in the upper 60s to low 70s. Showers from the remnants of Isaias could arrive as early as 8 p.m.",
+    "summary": "HAPPENING NOW: Spotty light showers are possible late this afternoon into early evening, especially south and west of DC, as temperatures slip from near 70 into the 60s. Soaking rain develops area-wide around or after midnight.",
     "publishedAt": "2026-10-10T09:00:00.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "More clouds than we'd like, but at least the rain holds off for daytime outdoor plans before showers move in tonight.",
     "articleId": "8bea235823a24838"
   },
-  "weatherGeneratedAt": "2026-10-10T17:48:37.274Z",
+  "weatherGeneratedAt": "2026-10-10T21:36:58.220Z",
   "weatherError": null,
   "sources": [
     {
