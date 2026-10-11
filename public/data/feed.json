@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T21:36:58.220Z",
-  "fetchedAt": "2026-10-10T21:36:58.215Z",
+  "generatedAt": "2026-10-11T00:57:01.867Z",
+  "fetchedAt": "2026-10-11T00:57:01.863Z",
   "sourceCount": 24,
-  "itemCount": 179,
+  "itemCount": 178,
   "totalItemCount": 802,
   "items": [
     {
@@ -1998,18 +1998,6 @@
       "summary": "Victimhood is corrosive",
       "publishedAt": "2026-09-11T01:26:44.000Z",
       "articleId": "a3cbed426de280c6"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/openai-spent-millions-to-solve-this",
-      "title": "OpenAI spent millions to solve this famous math problem — mathematicians are furious",
-      "url": "https://www.understandingai.org/p/openai-spent-millions-to-solve-this",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Mathematics relies on a community of experts openly sharing ideas.",
-      "publishedAt": "2026-09-10T22:40:39.000Z",
-      "articleId": "d4ce027f26909f7d"
     }
   ],
   "weather": {
@@ -2019,14 +2007,14 @@
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Spotty light showers are possible late this afternoon into early evening, especially south and west of DC, as temperatures slip from near 70 into the 60s. Soaking rain develops area-wide around or after midnight.",
+    "summary": "HAPPENING NOW: Spotty light showers are possible this evening with temperatures in the 60s. Soaking rain moves in from the south around or after midnight.",
     "publishedAt": "2026-10-10T09:00:00.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "More clouds than we'd like, but at least the rain holds off for daytime outdoor plans before showers move in tonight.",
     "articleId": "8bea235823a24838"
   },
-  "weatherGeneratedAt": "2026-10-10T21:36:58.220Z",
+  "weatherGeneratedAt": "2026-10-11T00:57:01.867Z",
   "weatherError": null,
   "sources": [
     {
