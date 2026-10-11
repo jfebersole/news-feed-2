@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-11T00:57:01.867Z",
-  "fetchedAt": "2026-10-11T00:57:01.863Z",
+  "generatedAt": "2026-10-11T07:07:10.519Z",
+  "fetchedAt": "2026-10-11T07:07:10.515Z",
   "sourceCount": 24,
-  "itemCount": 178,
-  "totalItemCount": 802,
+  "itemCount": 177,
+  "totalItemCount": 793,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents",
+      "title": "The economics of agents",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Patrick Collison: Assorted things I’ve been mulling over regarding agents in the economy: • Companies are in some sense the original superintelligence. It’s often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers: relative to the optimization capacity of companies, consumers can be inattentive, […]",
+      "publishedAt": "2026-10-11T04:56:43.000Z",
+      "articleId": "1c060c4d0aa23714"
+    },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
       "title": "Integrated Circuits, AI, and Wallabies",
@@ -477,17 +488,6 @@
       "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric information, principal-agent problems, behavioral […]",
       "publishedAt": "2026-10-07T11:18:34.000Z",
       "articleId": "88f53f6d77095c34"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day",
-      "title": "Texas-Canada Fact of the Day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025: Texas Canada Texas / Canada Population 31.7 million 41.7 million 0.76 GDP, nominal (US$) $2.9 trillion $2.3 trillion 1.27 GDP per capita, nominal $91,500 $55,700 1.64 GDP per capita, PPP $94,000 $66,700 1.41 GDP, PPP (int’l $) $3.0 trillion $2.75 […]",
-      "publishedAt": "2026-10-07T11:16:54.000Z",
-      "articleId": "342405aa3a3baa5b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/there-arent-100-good-tv-shows",
@@ -1986,35 +1986,23 @@
       "summary": "Construction is famously labor intensive: direct labor makes up close to 50% of the cost of constructing a new single-family home in the US, compared to around 6 to 8% of the cost of manufacturing a car.",
       "publishedAt": "2026-09-11T12:04:09.000Z",
       "articleId": "281deac49bdbfe4c"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/the-aboriginal-issue",
-      "title": "The Aboriginal Issue",
-      "url": "https://walkingtheworld.substack.com/p/the-aboriginal-issue",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Victimhood is corrosive",
-      "publishedAt": "2026-09-11T01:26:44.000Z",
-      "articleId": "a3cbed426de280c6"
     }
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
-    "title": "DC-area forecast: Spotty light showers gradually arriving. Soaking rain and breezy tonight into Sunday.",
+    "title": "DC-area forecast: Soaking rain and breezy tonight into Sunday",
     "url": "https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Spotty light showers are possible this evening with temperatures in the 60s. Soaking rain moves in from the south around or after midnight.",
+    "summary": "HAPPENING NOW: Soaking rain moves in from the south and west overnight.",
     "publishedAt": "2026-10-10T09:00:00.000Z",
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "More clouds than we'd like, but at least the rain holds off for daytime outdoor plans before showers move in tonight.",
     "articleId": "8bea235823a24838"
   },
-  "weatherGeneratedAt": "2026-10-11T00:57:01.867Z",
+  "weatherGeneratedAt": "2026-10-11T07:07:10.519Z",
   "weatherError": null,
   "sources": [
     {
@@ -2060,18 +2048,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 4,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 7,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
