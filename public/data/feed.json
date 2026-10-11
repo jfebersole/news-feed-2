@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-11T07:07:10.519Z",
-  "fetchedAt": "2026-10-11T07:07:10.515Z",
+  "generatedAt": "2026-10-11T14:02:32.328Z",
+  "fetchedAt": "2026-10-11T14:02:32.325Z",
   "sourceCount": 24,
   "itemCount": 177,
-  "totalItemCount": 793,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+      "title": "Four Hours and Three Minutes in Ithaca",
+      "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "On the most traumatic night in a young woman’s life, a good man could not be found.",
+      "publishedAt": "2026-10-11T12:05:44.000Z",
+      "articleId": "9b9983018531e0e8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba",
+      "title": "Sky Roomba!",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I bought a robot window cleaner. I have some high windows which need a ladder just to get the bottom and with this I can just start the robot at the bottom, it cleans the window and then returns to the start point. The bot cost me considerably less than it would have cost to […]",
+      "publishedAt": "2026-10-11T11:14:21.000Z",
+      "articleId": "48160061f8d07c36"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2",
+      "title": "What should I ask Fuchsia Dunlop?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my previous […]",
+      "publishedAt": "2026-10-11T08:52:47.000Z",
+      "articleId": "9f16fb7ae8c5bf79"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-donald-trump-won-in-2024",
+      "title": "Why Donald Trump won in 2024",
+      "url": "https://www.noahpinion.blog/p/why-donald-trump-won-in-2024",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Re-upping my election post-mortem, so that we don’t forget.",
+      "publishedAt": "2026-10-11T07:31:44.000Z",
+      "articleId": "fcefa65b6b86ef3d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents",
       "title": "The economics of agents",
@@ -466,28 +510,6 @@
       "summary": "Is ESG illegal? US securities laws have rules restricting activist shareholders. The main ones are: If you acquire more than 5% of a company’s stock, and you plan on “ changing or influencing the control ” of the company, you have to promptly file a disclosure on Schedule 13D setting out your plans, your source of funds, etc. If you are a passive investor without any interest in changing or influencing control of the company, you can file a shorter, less detailed Schedule 13G . So if you are an activist hedge fund looking to run a proxy fight, and you go over 5%, you have to file a 13D; if you’re a normal mutual fund, you probably file a 13G. The point of the 13D is to alert the company, and its shareholders, to the fact that an activist is involved in its stock. If you team up with another investor — “when two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer” — you are considered to be part of a “ group .” If you’re in a group, your shares are added together for securities-law purposes: If you own 3% of the company’s stock, and I own 3% of the company’s stock, and we agree to do an activist campaign together, then we form a group that owns 6% of the stock. So we need to file a joint Schedule 13D, disclosing that we are a group and own 6% of the shares. If you go over 10% of a company’s stock, you are restricted from trading the stock: If you buy stock and quickly sell it at a profit, you might have to give up those profits. (These are the “Section 16 short-swing profit rules .”) If your group goes over 10% of the stock, everyone in the group is subject to short-swing profit rules . This stuff is pretty vague. What does it mean to “change or influence the control” of a company? There are some obvious cases: If you are an activist hedge fund planning to run a proxy fight to replace the board of directors, or a potential buyer planning to launch a hostile takeover offer , you clearly want to change or influence the control of the company and you have to file a 13D. But if you are a regular old mutual fund that would never launch a proxy fight, you still might want to occasionally meet with the managers of the companies whose stock you own. In those meetings, you might ask questions and suggest ideas; you might say “hey I think you should expand the widget business and cut back on the sprockets,” or “man I did not like your last ad campaign,” or “what are you doing about climate change?” Are those efforts to “change or influence the control” of the company? Historically the answer has mostly been no; historically, everyone has assumed that 13D is for classic activists (who wage proxy fights), and that mutual funds can use 13G while still...",
       "publishedAt": "2026-10-07T18:21:21.683Z",
       "articleId": "a3c46f16c71082ac"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Palo Alto Networks (cybersecurity firm, check out YTD). 2. OAI doing math again. Quasi-Riemann! And just one metric of import. 3. The AI agents pitching literary magazines. 4. Redux of my 2022 post on the effective altruists. 5. Rude AI video about Europe. 6. Power constraints and the productivity slowdown.",
-      "publishedAt": "2026-10-07T17:40:28.000Z",
-      "articleId": "3435f1e099608ca2"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy",
-      "title": "Against Laissez-Faire Democracy",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric information, principal-agent problems, behavioral […]",
-      "publishedAt": "2026-10-07T11:18:34.000Z",
-      "articleId": "88f53f6d77095c34"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/there-arent-100-good-tv-shows",
@@ -1964,45 +1986,23 @@
       "summary": "Works in Progress issue 25 is out today",
       "publishedAt": "2026-09-11T15:15:38.000Z",
       "articleId": "01ae53dc010ee590"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7583640/2026/09/11/new-york-giants-john-harbaugh-cowboys-malik-nabers/",
-      "title": "Giants expectations are high, but can John Harbaugh lead an overnight turnaround?",
-      "url": "https://www.nytimes.com/athletic/7583640/2026/09/11/new-york-giants-john-harbaugh-cowboys-malik-nabers/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The Giants were \"competitive\" last season. That wasn’t good enough. The expectation should be for NY to win immediately under Harbaugh.",
-      "publishedAt": "2026-09-11T13:53:03.000Z",
-      "articleId": "8e95bcfdb9d5782a"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/where-has-construction-automation",
-      "title": "Where Has Construction Automation Been Successful?",
-      "url": "https://www.construction-physics.com/p/where-has-construction-automation",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "Construction is famously labor intensive: direct labor makes up close to 50% of the cost of constructing a new single-family home in the US, compared to around 6 to 8% of the cost of manufacturing a car.",
-      "publishedAt": "2026-09-11T12:04:09.000Z",
-      "articleId": "281deac49bdbfe4c"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
-    "title": "DC-area forecast: Soaking rain and breezy tonight into Sunday",
-    "url": "https://www.capitalweather.com/dc-area-forecast-clouds-increase-before-remnants-of-hurricane-isaias-arrive-tonight/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-rounds-of-rain-wind-and-thunder-today-drying-out-tomorrow/",
+    "title": "DC-area forecast: Rounds of rain, wind, and thunder today; drying out tomorrow",
+    "url": "https://www.capitalweather.com/dc-area-forecast-rounds-of-rain-wind-and-thunder-today-drying-out-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Soaking rain moves in from the south and west overnight.",
-    "publishedAt": "2026-10-10T09:00:00.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "More clouds than we'd like, but at least the rain holds off for daytime outdoor plans before showers move in tonight.",
-    "articleId": "8bea235823a24838"
+    "summary": "HAPPENING NOW: The remnants of Isaias produce wind-swept rain this morning and showers this afternoon with temperatures in the 60s. A few strong to severe thunderstorms and an isolated tornado are possible toward evening.",
+    "publishedAt": "2026-10-11T09:00:00.000Z",
+    "dailyDigit": 3,
+    "dailyDigitLabel": "3/10",
+    "dailyDigitSummary": "Isaias soaks our Sunday, even if rain lets up by afternoon, with gusty breezes and a rumble of thunder.",
+    "articleId": "f9ef25c35dce3e99"
   },
-  "weatherGeneratedAt": "2026-10-11T07:07:10.519Z",
+  "weatherGeneratedAt": "2026-10-11T14:02:32.328Z",
   "weatherError": null,
   "sources": [
     {
@@ -2048,18 +2048,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 4,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 7,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
