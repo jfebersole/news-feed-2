@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-12T02:19:03.444Z",
-  "fetchedAt": "2026-10-12T02:19:03.441Z",
+  "generatedAt": "2026-10-12T10:39:30.977Z",
+  "fetchedAt": "2026-10-12T10:39:30.972Z",
   "sourceCount": 24,
-  "itemCount": 177,
-  "totalItemCount": 801,
+  "itemCount": 176,
+  "totalItemCount": 794,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
+      "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "More soon!",
+      "publishedAt": "2026-10-12T10:06:32.000Z",
+      "articleId": "1c740c2a3c4c8bc8"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/live-your-values-and-adopt-values",
+      "title": "Live your values, and adopt values to live by",
+      "url": "https://www.slowboring.com/p/live-your-values-and-adopt-values",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Participate in public institutions and support making them pleasant and workable",
+      "publishedAt": "2026-10-12T10:02:15.000Z",
+      "articleId": "f3e414f0d753db2e"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/personal-day-4/",
+      "title": "Personal Day",
+      "url": "https://stratechery.com/2026/personal-day-4/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Personal Day — No Update",
+      "publishedAt": "2026-10-12T10:00:00.000Z",
+      "articleId": "26595a023095fd8c"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
+      "title": "Okie-dokie, Casey Handmer edition",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […]",
+      "publishedAt": "2026-10-12T04:20:47.000Z",
+      "articleId": "c8c42e703a0a97cf"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
       "title": "Not sure how to feel after Giants escaped with a tie vs. Commanders? You're not alone",
@@ -12,7 +56,7 @@
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
       "access": "paywalled",
-      "summary": "Giants coach John Harbaugh had mixed feelings after Sunday's tie: \"It’s a heck of a lot better than a loss, but it's not as good as a win.\"",
+      "summary": "Giants coach John Harbaugh had mixed feelings after Sunday's tie: \"It's a heck of a lot better than a loss, but it's not as good as a win.\"",
       "publishedAt": "2026-10-12T01:45:57.000Z",
       "articleId": "a597d7cf4924a982"
     },
@@ -410,17 +454,6 @@
       "articleId": "e20164a2fa124466"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-573",
-      "title": "Thursday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. War in space? 2. How the math breakthroughs might matter. 3. Short proof of quasi-Riemann. 4. App for finding art exhibitions. 5. Podcast on African economic growth. 6. New and very good book: The Madrid Model: How Freedom and Openness Created an Economic Powerhouse, by Diego Sánchez de la Cruz. 7. This is only the […]",
-      "publishedAt": "2026-10-08T17:14:37.000Z",
-      "articleId": "db6df246f5d6851b"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-lefts-fortunes-have-been-rising",
       "title": "The left’s fortunes have been rising. Will 2028 be AOC’s moment?",
       "url": "https://www.natesilver.net/p/the-lefts-fortunes-have-been-rising",
@@ -500,17 +533,6 @@
       "summary": "Only three years into his MLB career, the Dodgers ace already ranks among baseball’s most valuable postseason pitchers.",
       "publishedAt": "2026-10-08T09:02:26.000Z",
       "articleId": "e32899666848572e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed",
-      "title": "How and why did the Victorians succeed?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Samuel Hughes, in Works in Progress: The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. […]",
-      "publishedAt": "2026-10-08T07:02:17.000Z",
-      "articleId": "c4c6df9bd3b6ccc7"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-blue-wave-is-building-as-the-gops",
@@ -1052,17 +1074,6 @@
       "articleId": "a24f2718f838ba20"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/who-lost-afghanistan",
-      "title": "Who lost Afghanistan?",
-      "url": "https://www.slowboring.com/p/who-lost-afghanistan",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "George W. Bush blundered away a winnable war.",
-      "publishedAt": "2026-10-01T10:03:31.000Z",
-      "articleId": "4756689ce63e58b9"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
       "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
       "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
@@ -1240,17 +1251,6 @@
       "summary": "Historians like to blame drought, famine and invaders. But this can’t explain why the empires never came back.",
       "publishedAt": "2026-09-28T14:02:18.000Z",
       "articleId": "7d1c6901e5ff0665"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apps-agents-and-aggregation/",
-      "title": "Apps, Agents, and Aggregation",
-      "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech's biggest prize.",
-      "publishedAt": "2026-09-28T10:25:37.000Z",
-      "articleId": "1cbe862e6ba9c448"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
@@ -1976,34 +1976,23 @@
       "summary": "City permitting speeds, more efficient ground source heat pump drilling, an Amazon Air crash in Miami, cooling paint, and more.",
       "publishedAt": "2026-09-12T12:32:46.000Z",
       "articleId": "2b71c1de492759a9"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
-      "title": "Get the Middle East out of my politics!",
-      "url": "https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A manifesto.",
-      "publishedAt": "2026-09-12T08:44:47.000Z",
-      "articleId": "bad320b8ea1ac641"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-rounds-of-rain-wind-and-thunder-today-drying-out-tomorrow/",
-    "title": "DC-area forecast: Showers and downpours tonight; drying out and breezy for Columbus Day",
-    "url": "https://www.capitalweather.com/dc-area-forecast-rounds-of-rain-wind-and-thunder-today-drying-out-tomorrow/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-the-week-sharp-cooldown-ends-it/",
+    "title": "DC-area forecast: Warming trend starts the week, sharp cooldown ends it",
+    "url": "https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-the-week-sharp-cooldown-ends-it/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Scattered showers and a few downpours continue this evening with temperatures in the upper 50s to mid-60s.",
-    "publishedAt": "2026-10-11T09:00:00.000Z",
-    "dailyDigit": 3,
-    "dailyDigitLabel": "3/10",
-    "dailyDigitSummary": "Isaias soaks our Sunday, even if rain lets up by afternoon, with gusty breezes and a rumble of thunder.",
-    "articleId": "f9ef25c35dce3e99"
+    "summary": "HAPPENING NOW: Leftover showers exit early, with clouds and fog clearing not long afterward. Sunshine emerges by afternoon, with comfortable highs in the low to mid-70s.",
+    "publishedAt": "2026-10-12T09:00:00.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "A murky start but a winning finish as clouds clear and sunshine returns. Highs in the 70s are just right.",
+    "articleId": "2174d99b56697375"
   },
-  "weatherGeneratedAt": "2026-10-12T02:19:03.444Z",
+  "weatherGeneratedAt": "2026-10-12T10:39:30.977Z",
   "weatherError": null,
   "sources": [
     {
@@ -2049,10 +2038,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 3,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
