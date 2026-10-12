@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-11T22:49:52.324Z",
-  "fetchedAt": "2026-10-11T22:49:52.321Z",
+  "generatedAt": "2026-10-12T02:19:03.444Z",
+  "fetchedAt": "2026-10-12T02:19:03.441Z",
   "sourceCount": 24,
-  "itemCount": 176,
+  "itemCount": 177,
   "totalItemCount": 801,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
+      "title": "Not sure how to feel after Giants escaped with a tie vs. Commanders? You're not alone",
+      "url": "https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Giants coach John Harbaugh had mixed feelings after Sunday's tie: \"It’s a heck of a lot better than a loss, but it's not as good as a win.\"",
+      "publishedAt": "2026-10-12T01:45:57.000Z",
+      "articleId": "a597d7cf4924a982"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
       "title": "Four Hours and Three Minutes in Ithaca",
@@ -18,7 +29,7 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7681229/2026/10/11/giants-commanders-tie-nfl-week-5-result-takeaways/",
-      "title": "Commanders, Giants both commit gaffes in overtime, leading to bizarre tie. What just happened?",
+      "title": "Commanders, Giants commit gaffes in OT, leading to bizarre tie. What just happened?",
       "url": "https://www.nytimes.com/athletic/7681229/2026/10/11/giants-commanders-tie-nfl-week-5-result-takeaways/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
@@ -124,7 +135,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Chris Blattman’s practical AI for academics. 2. Platypus Economics on red diesel. 3. Those new service sector jobs, Indian cricket edition. 4. Will AI make us more technocratic? 5. What should a scientific paper look like? 6. Screening for twins? 7. Chris Wickham, RIP.",
+      "summary": "1. Claes Backman’s practical AI for academics. 2. Platypus Economics on red diesel. 3. Those new service sector jobs, Indian cricket edition. 4. Will AI make us more technocratic? 5. What should a scientific paper look like? 6. Screening for twins? 7. Chris Wickham, RIP.",
       "publishedAt": "2026-10-10T16:34:52.000Z",
       "articleId": "0882f7176267eef8"
     },
@@ -254,7 +265,7 @@
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7673577/2026/10/09/giants-commanders-preview-harbaugh-nabers/",
-      "title": "John Harbaugh's meritocracy, Malik Nabers' involvement: Watch to watch for in Giants-Commanders",
+      "title": "John Harbaugh's meritocracy, Malik Nabers' involvement: What to watch for in Giants-Commanders",
       "url": "https://www.nytimes.com/athletic/7673577/2026/10/09/giants-commanders-preview-harbaugh-nabers/",
       "source": "Dan Duggan (The Athletic)",
       "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
@@ -1980,19 +1991,19 @@
   ],
   "weather": {
     "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-rounds-of-rain-wind-and-thunder-today-drying-out-tomorrow/",
-    "title": "DC-area forecast: Rain and a few storms tonight; drying out and breezy for Columbus Day",
+    "title": "DC-area forecast: Showers and downpours tonight; drying out and breezy for Columbus Day",
     "url": "https://www.capitalweather.com/dc-area-forecast-rounds-of-rain-wind-and-thunder-today-drying-out-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Showers and a few storms continue. Temperatures in the 60s. After a possible lull near midnight, steadier rain returns in the predawn hours.",
+    "summary": "HAPPENING NOW: Scattered showers and a few downpours continue this evening with temperatures in the upper 50s to mid-60s.",
     "publishedAt": "2026-10-11T09:00:00.000Z",
     "dailyDigit": 3,
     "dailyDigitLabel": "3/10",
     "dailyDigitSummary": "Isaias soaks our Sunday, even if rain lets up by afternoon, with gusty breezes and a rumble of thunder.",
     "articleId": "f9ef25c35dce3e99"
   },
-  "weatherGeneratedAt": "2026-10-11T22:49:52.324Z",
+  "weatherGeneratedAt": "2026-10-12T02:19:03.444Z",
   "weatherError": null,
   "sources": [
     {
