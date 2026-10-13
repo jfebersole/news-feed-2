@@ -1,10 +1,77 @@
 {
-  "generatedAt": "2026-10-13T02:32:55.410Z",
-  "fetchedAt": "2026-10-13T02:32:55.405Z",
+  "generatedAt": "2026-10-13T10:27:11.231Z",
+  "fetchedAt": "2026-10-13T10:27:11.228Z",
   "sourceCount": 24,
-  "itemCount": 173,
-  "totalItemCount": 798,
+  "itemCount": 176,
+  "totalItemCount": 800,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/destroying-the-west-in-order-to-save",
+      "title": "Destroying the West in order to save it",
+      "url": "https://www.slowboring.com/p/destroying-the-west-in-order-to-save",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Our tradition is worth celebrating — but also genuinely upholding",
+      "publishedAt": "2026-10-13T10:02:01.000Z",
+      "articleId": "c7280e56ad32336b"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "articleId": "d4b3639bdc6573c7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/neither-won-the-nba-title-now-theyre",
+      "title": "Neither Won the NBA Title. Now They’re Historic Co-Favorites.",
+      "url": "https://neilpaine.substack.com/p/neither-won-the-nba-title-now-theyre",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Despite not winning in ‘26, the Spurs and Thunder are dead-even with each other now, historically far ahead of everyone else... and only one can escape the West.",
+      "publishedAt": "2026-10-13T09:02:43.000Z",
+      "articleId": "98e37c520e7a1a5a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&utm_medium=rss&utm_campaign=lost-worlds",
+      "title": "*Lost Worlds*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Patrick Wyman, and the subtitle is How Humans Tried, Failed, Succeeded, and Built Our World. An excellent book, it is a survey of (mostly) pre-Sumerian times, what we know about them, and how we have learned a lot lately. It is easy to read, yet the author properly stresses the complexity of […]",
+      "publishedAt": "2026-10-13T07:28:20.000Z",
+      "articleId": "27d96226c868fc03"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/a-nobel-for-new-keynesian-macro-at",
+      "title": "A Nobel for New Keynesian macro, at last!",
+      "url": "https://www.noahpinion.blog/p/a-nobel-for-new-keynesian-macro-at",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "It’s about time.",
+      "publishedAt": "2026-10-13T05:28:43.000Z",
+      "articleId": "2afe081aabf2dd40"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&utm_medium=rss&utm_campaign=i-have-no-mouth-and-i-must-scream",
+      "title": "“I have no mouth and I must scream”",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Worth a reread, here is a new report from the front: Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, like smart ovens and off-brand Android TV boxes. A replicator like this would be challenging to shut down, since there’s no centralized point […]",
+      "publishedAt": "2026-10-13T04:42:32.000Z",
+      "articleId": "9d8c076efa0c8f49"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/8ewygjt35t76334og2pj9ybq8fznq32pte05518r.html",
       "title": "Money Stuff: Don’t Bet Against the Sports Bets",
@@ -307,17 +374,6 @@
       "articleId": "bea2fb8d8febbd67"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk",
-      "title": "The origin of risk",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From the QJE, by Alexandr Kopytov, Mathieu Taschereau-Dumouchel, and Zebang Xu: We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other […]",
-      "publishedAt": "2026-10-09T18:20:57.000Z",
-      "articleId": "1f6deca6405b8804"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/could-minnesota-spoil-the-blue-wave",
       "title": "Could Minnesota spoil the blue wave?",
       "url": "https://www.natesilver.net/p/could-minnesota-spoil-the-blue-wave",
@@ -339,17 +395,6 @@
       "summary": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
       "publishedAt": "2026-10-09T17:00:00.000Z",
       "articleId": "cc6ee2a19992de87"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update",
-      "title": "Ethiopia update",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Ethiopia is the center of the world right now as it has returned to war. Ethiopian forces retook Mekelle from rebel forces, but the fighting has extended beyond Tigray. Eritrean forces allegedly entered Tigray, and Ethiopia responded with drone attacks. The war could go a number of ways. The war extends beyond Ethiopia. Sara Al-Saeed […]",
-      "publishedAt": "2026-10-09T16:24:04.000Z",
-      "articleId": "ff38eba4b7eecd6e"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-were-victorian-elites-so-effective",
@@ -1160,17 +1205,6 @@
       "articleId": "3cd1709bd515ed93"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
-      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
-      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "articleId": "20723d9e82af55a6"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/stop-spending-money-on-smaller-classes",
       "title": "Stop spending money on smaller classes",
       "url": "https://www.noahpinion.blog/p/stop-spending-money-on-smaller-classes",
@@ -1942,22 +1976,21 @@
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-the-week-sharp-cooldown-ends-it/",
-    "title": "DC-area forecast: Warming trend starts the week, sharp cooldown ends it",
-    "url": "https://www.capitalweather.com/dc-area-forecast-warming-trend-starts-the-week-sharp-cooldown-ends-it/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-near-record-warmth-wednesday-before-a-sharp-weekend-cooldown/",
+    "title": "DC-area forecast: 80s are back through Wednesday, but a weekend chill looms",
+    "url": "https://www.capitalweather.com/dc-area-forecast-near-record-warmth-wednesday-before-a-sharp-weekend-cooldown/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: Partly sunny with a breeze this afternoon as comfortable highs reach the low to mid-70s.",
-    "publishedAt": "2026-10-12T09:00:00.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "A murky start but a winning finish as clouds clear and sunshine returns. Highs in the 70s are just right.",
-    "articleId": "2174d99b56697375",
-    "stale": true
+    "summary": "HAPPENING NOW: Beautiful sunshine as temperatures climb through the 70s this morning, heading for highs in the low 80s this afternoon.",
+    "publishedAt": "2026-10-13T09:00:00.000Z",
+    "dailyDigit": 8,
+    "dailyDigitLabel": "8/10",
+    "dailyDigitSummary": "80 degrees won't be a hit with the pumpkin spice latte crowd, but this sunny day with comfortable humidity is still plenty nice!",
+    "articleId": "5eb9f64cab9ef3c3"
   },
-  "weatherGeneratedAt": "2026-10-13T02:32:55.410Z",
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherGeneratedAt": "2026-10-13T10:27:11.231Z",
+  "weatherError": null,
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2043,7 +2076,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2067,7 +2100,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
