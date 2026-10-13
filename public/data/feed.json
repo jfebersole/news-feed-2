@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-12T20:15:10.355Z",
-  "fetchedAt": "2026-10-12T20:15:10.350Z",
+  "generatedAt": "2026-10-13T02:32:55.410Z",
+  "fetchedAt": "2026-10-13T02:32:55.405Z",
   "sourceCount": 24,
-  "itemCount": 174,
-  "totalItemCount": 800,
+  "itemCount": 173,
+  "totalItemCount": 798,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/8ewygjt35t76334og2pj9ybq8fznq32pte05518r.html",
+      "title": "Money Stuff: Don’t Bet Against the Sports Bets",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/8ewygjt35t76334og2pj9ybq8fznq32pte05518r.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Money Stuff Swaps, chargers, BDCs, Hood, puzzles. Kalshi gaming regulation You know what’s funny? There is a real legal dispute about whether Kalshi and other prediction markets should be allowed to offer sports bets without complying with state gaming laws. Kalshi and the US Commodity Futures Trading Commission take the view that (1) Kalshi is federally regulated by the CFTC, (2) sports bets are “swaps” under federal regulation, (3) federal regulation preempts state gaming regulation, so (4) buzz off, states. Many states disagree, and there has been litigation around the country. (We have talked about this several times .) Two federal appellate courts have sided with the states, but another has sided with Kalshi. The state that lost that last case (New Jersey) is asking the Supreme Court to review it, and last week 39 states filed a brief supporting New Jersey’s request. So did the National Football League . I assume that the Supreme Court will take the case. I have no idea what it will decide. I think this is a tough question, courts have disagreed on the answer, it is all pretty politically charged, the Supreme Court can kind of do whatever it wants, and I have no real model of what it will want. I could not tell you the probability that Kalshi will win and get to continue offering sports bets. So, out of muscle memory, I fire up Kalshi to check that probability. “Supreme Court Will Rule Kalshi Sports Bets Are Legal, Yes/No,” where is it? But Kalshi doesn’t list that contract ! [1] Here’s “ A Kalshi Contract on the Legality of Kalshi Contracts ,” by Joseph Grundfest: This note proposes that Kalshi list a \"Kalshi Sports Legality\" contract indexed to the outcome of United States Supreme Court litigation addressing whether Kalshi's sports-indexed contracts are federally regulated in a manner that preempts state law. Kalshi has previously listed at least 16 contracts indexed to Supreme Court determinations. No rule or regulation prevents Kalshi from listing the proposed contract. The proposed contract would provide a market estimate of the probability that the Supreme Court rules that Kalshi's sports-indexed contracts are legal. The contract would thereby create valuable hedging opportunities for Kalshi investors. It would also create hedging value for Kalshi customers who might lose access to Kalshi markets. These hedging rationales are more substantial than rationales Kalshi presents to support other Kalshi contracts, such as contracts indexed to parlays or to specific in-game events, such as whether the first play in a football game leads to a touchdown. I mean, sure, of course. You and I and Joseph Grundfest can propose sarcastic Kalshi event contracts, but Kalshi doesn’t have to list them. Hypotheticals! If Kalshi listed this contract, and it...",
+      "publishedAt": "2026-10-12T21:40:15.179Z",
+      "articleId": "17103c8b284a0d37"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581",
       "title": "Monday assorted links",
@@ -961,17 +972,6 @@
       "articleId": "620076c9c7d0ed5a"
     },
     {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/9lio4jbgd4lrjcb5ou4p.html",
-      "title": "Money Stuff: Opening Private Markets to the Public",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/9lio4jbgd4lrjcb5ou4p.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Private markets are the new public markets: Performance fees A simple model is: Regular retail investors pay index fund managers fees of approximately 0.03% of assets. Sophisticated institutional investors pay hedge fund and private equity fund managers fees of approximately 2% of assets and 20% of returns, or sometimes much more. One possibility is that the retail investors are getting a much, much better deal. Another possibility is that the institutional investors are getting much, much better investment managers. Probably there is some truth to both theories. Of course this is a gross oversimplification. Institutional investors mostly don’t really pay 2-and-20 fees on their entire portfolios. Many of them put most of their money into regular stock index funds that charge very low fees, and some of their money into “alternatives” — hedge funds, private equity, venture capital — that charge high fees. But retail investors mostly don’t have any 2-and-20 investments at all. There are a lot of reasons for this difference, but one pretty simple one is that US securities rules generally don’t let retail investors pay 2-and-20 fees. US law generally prohibits registered fund managers from charging performance fees, that is, fees calculated as a percentage of returns. There are exceptions for fund managers whose clients are all “ qualified clients ,” meaning that they have net worth of at least $2.7 million or at least $1.4 million of assets under management at the fund company. [1] So a hedge fund that takes money only in large chunks from institutional investors and rich people can charge 20% of gains, but a mutual fund that takes money in $1,000 increments from anyone mostly can’t. Here is an intuitive story you might tell about the effects of this rule: If you’re very good at picking the stocks that will go up, you would rather do it for institutional investors in a hedge fund or private equity fund [2] (and get a cut of your winnings) than for retail investors in a mutual fund (and not get a cut). Over time, the best investors will work at hedge funds and private equity funds and the, uh, second-best will work at mutual funds. The hedge funds and private equity funds will outperform the market, while the mutual funds won’t. People will notice, and tell retail investors: “Hey, the mutual funds that you buy don’t outperform the market, but they charge like 1% management fees. You could just buy the whole market in an index fund, get similar or better performance, and pay much lower fees.” Eventually retail money will all migrate out of actively managed mutual funds that charge 1% fees and into index funds that charge like 0.03% fees. (This will push even more good investors out of mutual funds and into hedge funds or private equity.) The retail...",
-      "publishedAt": "2026-10-01T17:58:56.872Z",
-      "articleId": "ce217578a348a983"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/did-guitar-hero-change-classic-rock",
       "title": "Did Guitar Hero Change Classic Rock?",
       "url": "https://www.cantgetmuchhigher.com/p/did-guitar-hero-change-classic-rock",
@@ -1047,18 +1047,6 @@
       "summary": "Benefitting from the Bitter Lesson",
       "publishedAt": "2026-10-01T10:54:12.000Z",
       "articleId": "ee61659f96467b43"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-europes",
-      "title": "“The Argument” podcast, ad free: Europe’s liberals are losing on immigration",
-      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-europes",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
-      "publishedAt": "2026-10-01T10:03:38.000Z",
-      "articleId": "a24f2718f838ba20"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
@@ -1965,10 +1953,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "A murky start but a winning finish as clouds clear and sunshine returns. Highs in the 70s are just right.",
-    "articleId": "2174d99b56697375"
+    "articleId": "2174d99b56697375",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-10-12T20:15:10.355Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-10-13T02:32:55.410Z",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -1990,7 +1979,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2078,7 +2067,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
