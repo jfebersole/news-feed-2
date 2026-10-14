@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-14T20:10:05.821Z",
-  "fetchedAt": "2026-10-14T20:10:05.810Z",
+  "generatedAt": "2026-10-14T23:53:39.054Z",
+  "fetchedAt": "2026-10-14T23:53:39.050Z",
   "sourceCount": 24,
   "itemCount": 174,
-  "totalItemCount": 801,
+  "totalItemCount": 794,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/paying-whole-foods-prices-for-a-losing",
+      "title": "Paying Whole Foods prices for a losing basket",
+      "url": "https://www.slowboring.com/p/paying-whole-foods-prices-for-a-losing",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Republicans have more cash than Democrats, and they’re burning it faster — from a Kansas rescue mission to a Maine ad that ran in Oregon.",
+      "publishedAt": "2026-10-14T22:01:43.000Z",
+      "articleId": "79363d307b04435e"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-83",
       "title": "China fact (?) of the day",
@@ -1016,18 +1028,6 @@
       "articleId": "6bb6142cf331a23e"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/an-ai-legislator-running-a-cost-campaign",
-      "title": "An A.I. legislator running a cost campaign",
-      "url": "https://www.slowboring.com/p/an-ai-legislator-running-a-cost-campaign",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Manny Rutinel is one of the few politicians to have spent his career trying to govern A.I. In the race to represent Colorado’s swingiest district, he’s not talking about it much.",
-      "publishedAt": "2026-10-03T13:04:38.000Z",
-      "articleId": "93647a50de3d70de"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
       "title": "The second Trump presidency is a world-historic failure",
       "url": "https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
@@ -1968,7 +1968,7 @@
     "articleId": "82d5930860e38f35",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-10-14T20:10:05.821Z",
+  "weatherGeneratedAt": "2026-10-14T23:53:39.054Z",
   "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
@@ -2014,10 +2014,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 3,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
