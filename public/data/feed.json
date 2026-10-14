@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-14T10:06:46.192Z",
-  "fetchedAt": "2026-10-14T10:06:46.188Z",
+  "generatedAt": "2026-10-14T15:07:44.207Z",
+  "fetchedAt": "2026-10-14T15:07:44.204Z",
   "sourceCount": 24,
-  "itemCount": 174,
-  "totalItemCount": 800,
+  "itemCount": 175,
+  "totalItemCount": 801,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-china-became-rich",
+      "title": "How China became rich",
+      "url": "https://www.worksinprogress.news/p/how-china-became-rich",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "It’s secret is its cities, not central planning",
+      "publishedAt": "2026-10-14T12:41:38.000Z",
+      "articleId": "c23b9b9adce2dfce"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-right-wing-obsession-with-the",
+      "title": "The right-wing obsession with “The Indian Question”",
+      "url": "https://www.slowboring.com/p/the-right-wing-obsession-with-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "It’s not good!",
+      "publishedAt": "2026-10-14T10:05:03.000Z",
+      "articleId": "e662c4b63e084f79"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
       "title": "Apple HomeView, The New Apple TV, The App Story",
@@ -45,7 +68,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "That is the topic of free latest Free Press column, here is one excerpt: The good news is that African immigrants already have done well in the United States. For instance, 46 percent of African immigrants complete a college education, well above the immigrant average of 36 percent and the native-born American rate of 37 […]",
+      "summary": "That is the topic of my latest Free Press column, here is one excerpt: The good news is that African immigrants already have done well in the United States. For instance, 46 percent of African immigrants complete a college education, well above the immigrant average of 36 percent and the native-born American rate of 37 […]",
       "publishedAt": "2026-10-14T04:19:22.000Z",
       "articleId": "888881dde46e4db7"
     },
@@ -1940,17 +1963,6 @@
       "summary": "They are very different policy tools",
       "publishedAt": "2026-09-14T17:29:29.000Z",
       "articleId": "cbd6b6c61249acbf"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-      "title": "Most people prefer traditional architecture",
-      "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Taste is subjective. But when it comes to architecture, there is a surprising level of agreement.",
-      "publishedAt": "2026-09-14T13:06:22.000Z",
-      "articleId": "0c19917afeab709c"
     }
   ],
   "weather": {
@@ -1965,10 +1977,11 @@
     "dailyDigit": 6,
     "dailyDigitLabel": "6/10",
     "dailyDigitSummary": "Temperatures threaten record highs for the date. Fortunately, October warmth doesn't have the sizzle of midsummer heat.",
-    "articleId": "82d5930860e38f35"
+    "articleId": "82d5930860e38f35",
+    "stale": true
   },
-  "weatherGeneratedAt": "2026-10-14T10:06:46.192Z",
-  "weatherError": null,
+  "weatherGeneratedAt": "2026-10-14T15:07:44.207Z",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2078,7 +2091,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
