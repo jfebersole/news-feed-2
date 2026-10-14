@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-14T04:46:05.671Z",
-  "fetchedAt": "2026-10-14T04:46:05.667Z",
+  "generatedAt": "2026-10-14T10:06:46.192Z",
+  "fetchedAt": "2026-10-14T10:06:46.188Z",
   "sourceCount": 24,
-  "itemCount": 175,
+  "itemCount": 174,
   "totalItemCount": 800,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
+      "title": "Apple HomeView, The New Apple TV, The App Story",
+      "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "articleId": "190277f965bb8b29"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/before-tom-brady-was-great-he-was",
+      "title": "Before Tom Brady Was Great, He Was Good Enough To Win With",
+      "url": "https://neilpaine.substack.com/p/before-tom-brady-was-great-he-was",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Twenty-five years after his first NFL touchdown pass, a look back at how Brady helped the 2001 Patriots win a Super Bowl — not by raising his ceiling, but by raising his floor.",
+      "publishedAt": "2026-10-14T09:01:18.000Z",
+      "articleId": "f17a108594e902d2"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html?utm_source=rss&utm_medium=rss&utm_campaign=plunder-the-last-of-the-war-in-europe-1945",
+      "title": "*Plunder: The Last of the War in Europe, 1945*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "By Max Hastings, an excellent book, I benefited from every page. One recurring theme is simply how hard the Germans fought on the way down, and how unusual that behavior was. Here is one interesting passage of many: In World War I, 150 German soldiers were sentenced to death for serious crimes, of which a […]",
+      "publishedAt": "2026-10-14T07:02:57.000Z",
+      "articleId": "3759b44204dadef4"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/well-planned-african-immigration-to-america-will-go-fine.html?utm_source=rss&utm_medium=rss&utm_campaign=well-planned-african-immigration-to-america-will-go-fine",
       "title": "Well-planned African immigration to America will go fine",
@@ -261,17 +294,6 @@
       "articleId": "26595a023095fd8c"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/bills-rams-could-show-us-one-super",
-      "title": "Bills-Rams Could Show Us One Super Bowl Team. But Maybe Not Two.",
-      "url": "https://neilpaine.substack.com/p/bills-rams-could-show-us-one-super",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "The NFL’s strongest interconference games often feature an eventual Super Bowl squad, but seldom do they nail both teams in the actual Super Bowl matchup.",
-      "publishedAt": "2026-10-12T09:02:24.000Z",
-      "articleId": "6a96ac676274a290"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
       "title": "Okie-dokie, Casey Handmer edition",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html",
@@ -360,17 +382,6 @@
       "summary": "I bought a robot window cleaner. I have some high windows which need a ladder just to get the bottom and with this I can just start the robot at the bottom, it cleans the window and then returns to the start point. The bot cost me considerably less than it would have cost to […]",
       "publishedAt": "2026-10-11T11:14:21.000Z",
       "articleId": "48160061f8d07c36"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2",
-      "title": "What should I ask Fuchsia Dunlop?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my previous […]",
-      "publishedAt": "2026-10-11T08:52:47.000Z",
-      "articleId": "9f16fb7ae8c5bf79"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-donald-trump-won-in-2024",
@@ -1204,17 +1215,6 @@
       "articleId": "ec9b8391e5ce27b3"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-      "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
-      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
-      "publishedAt": "2026-09-30T10:00:00.000Z",
-      "articleId": "92cd0f65318c49c7"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
       "title": "Midterm waves are the rule, not the exception",
       "url": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
@@ -1951,34 +1951,23 @@
       "summary": "Taste is subjective. But when it comes to architecture, there is a surprising level of agreement.",
       "publishedAt": "2026-09-14T13:06:22.000Z",
       "articleId": "0c19917afeab709c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7593026/2026/09/14/jaxson-dart-giants-complete-quarterback-win-cowboys/",
-      "title": "Giants' Jaxson Dart aces first test, delivers flawless encore to promising rookie year",
-      "url": "https://www.nytimes.com/athletic/7593026/2026/09/14/jaxson-dart-giants-complete-quarterback-win-cowboys/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Giants offensive lineman Jermaine Eluemunor: \"He’s the heartbeat of this team. He’s a leader. We’ll go as far as he takes us.”",
-      "publishedAt": "2026-09-14T10:00:58.000Z",
-      "articleId": "1a0b838c57284ef8"
     }
   ],
   "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-near-record-warmth-wednesday-before-a-sharp-weekend-cooldown/",
-    "title": "DC-area forecast: 80s are back through Wednesday, but a weekend chill looms",
-    "url": "https://www.capitalweather.com/dc-area-forecast-near-record-warmth-wednesday-before-a-sharp-weekend-cooldown/",
+    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-record-warmth-possible-today-much-cooler-with-showers-likely-tomorrow/",
+    "title": "DC-area forecast: Record warmth possible today; much cooler with showers likely tomorrow",
+    "url": "https://www.capitalweather.com/dc-area-forecast-record-warmth-possible-today-much-cooler-with-showers-likely-tomorrow/",
     "source": "Capital Weather",
     "sourceUrl": "https://www.capitalweather.com/",
     "access": "open",
-    "summary": "HAPPENING NOW: A warm, pleasant evening as temperatures slowly dip into and through the 70s.",
-    "publishedAt": "2026-10-13T09:00:00.000Z",
-    "dailyDigit": 8,
-    "dailyDigitLabel": "8/10",
-    "dailyDigitSummary": "80 degrees won't be a hit with the pumpkin spice latte crowd, but this sunny day with comfortable humidity is still plenty nice!",
-    "articleId": "5eb9f64cab9ef3c3"
+    "summary": "HAPPENING NOW: A warm start as morning readings rise through the 60s and 70s with plenty of sun. Heating up this afternoon with near-record highs in the mid-80s to near 90, then an evening storm chance.",
+    "publishedAt": "2026-10-14T09:00:00.000Z",
+    "dailyDigit": 6,
+    "dailyDigitLabel": "6/10",
+    "dailyDigitSummary": "Temperatures threaten record highs for the date. Fortunately, October warmth doesn't have the sizzle of midsummer heat.",
+    "articleId": "82d5930860e38f35"
   },
-  "weatherGeneratedAt": "2026-10-14T04:46:05.671Z",
+  "weatherGeneratedAt": "2026-10-14T10:06:46.192Z",
   "weatherError": null,
   "sources": [
     {
