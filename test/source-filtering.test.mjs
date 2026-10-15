@@ -27,6 +27,17 @@ test("configures Maximum Progress as a Substack source", () => {
   });
 });
 
+test("configures The Lowe Post as a Substack source", () => {
+  const source = SOURCES.find((candidate) => candidate.name === "The Lowe Post");
+
+  assert.deepEqual(source, {
+    name: "The Lowe Post",
+    url: "https://zachlowe.substack.com/",
+    feedUrl: "https://zachlowe.substack.com/feed",
+    accessStrategy: "substack-rss",
+  });
+});
+
 test("removes items listed in an exclusion feed by canonical URL", () => {
   const source = {
     name: "Example",

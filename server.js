@@ -90,6 +90,12 @@ const SOURCES = [
     accessStrategy: "substack-rss",
   },
   {
+    name: "The Lowe Post",
+    url: "https://zachlowe.substack.com/",
+    feedUrl: "https://zachlowe.substack.com/feed",
+    accessStrategy: "substack-rss",
+  },
+  {
     name: "Neil Paine",
     url: "https://neilpaine.substack.com/",
     feedUrl: "https://neilpaine.substack.com/feed",
