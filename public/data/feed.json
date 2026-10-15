@@ -1,10 +1,79 @@
 {
-  "generatedAt": "2026-10-15T09:49:37.281Z",
-  "fetchedAt": "2026-10-15T09:49:37.278Z",
+  "generatedAt": "2026-10-15T14:56:56.437Z",
+  "fetchedAt": "2026-10-15T14:56:56.433Z",
   "sourceCount": 25,
   "itemCount": 176,
-  "totalItemCount": 791,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-to-train-your-robot",
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "The enormous advance in AI capabilities over the last several years has in large part been driven by the availability of vast amounts of training data.",
+      "publishedAt": "2026-10-15T14:23:58.000Z",
+      "articleId": "f0da17eb046cf700"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-2",
+      "title": "NBA League Pass Rankings: Part 2",
+      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-2",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "We demand more Benny the Bull. Our countdown continues.",
+      "publishedAt": "2026-10-15T14:11:03.000Z",
+      "articleId": "f725607cd017a500"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth",
+      "title": "Astra Held Its Ground (Truth)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "TheoPhysEval: We present a suite of 50 unpublished research-level theoretical physics problems with verifiable answers. Without AI assistance, a typical problem in our collection could be solved by a world expert in about a day or less but would take considerably longer for experts in adjacent specialties. We test the ability of off-the-shelf AI agents […]",
+      "publishedAt": "2026-10-15T11:18:46.000Z",
+      "articleId": "93da4786ba7dffe3"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/why-anti-israel-protestors-are-targeting",
+      "title": "Why anti-Israel protestors are targeting New York’s anti-Zionist mayor",
+      "url": "https://www.slowboring.com/p/why-anti-israel-protestors-are-targeting",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The perils of organizing chum",
+      "publishedAt": "2026-10-15T10:03:55.000Z",
+      "articleId": "319abcb25cdb0a29"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-who",
+      "title": "“The Argument” podcast, ad free: Who should history cancel?",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-who",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-10-15T10:03:25.000Z",
+      "articleId": "d908f3227e17c138"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+      "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "articleId": "7a37a0ad6c391dad"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
       "title": "Russia Was Losing. Enter President Trump.",
@@ -13,7 +82,7 @@
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
       "summary": "The commander in chief is Putin’s ace in the hole.",
-      "publishedAt": "2026-10-15T09:05:40.000Z",
+      "publishedAt": "2026-10-15T09:05:41.000Z",
       "articleId": "48ce0ccd34ed89dd"
     },
     {
@@ -105,6 +174,17 @@
       "summary": "1. Planets more habitable than Earth? (NYT) 2. Those new service sector jobs: “Cambiar de vida: cómo irte a contar pingüinos en la Antártida por hasta 2500 euros al mes.” 3. AI song about the China Shock debate. 4. “An amusing result of this new survey is that Democratic-voting workers had a startlingly high net-favorable […]",
       "publishedAt": "2026-10-14T16:07:03.000Z",
       "articleId": "935ea91b49f87111"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-1",
+      "title": "NBA League Pass Rankings: Part 1",
+      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-1",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "open",
+      "summary": "An annual tradition finds a new home. Let the countdown begin.",
+      "publishedAt": "2026-10-14T14:08:29.000Z",
+      "articleId": "ac8034383849205c"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-china-became-rich",
@@ -352,6 +432,17 @@
       "articleId": "5caa56e3212bb676"
     },
     {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/welcome-to-the-lowe-post",
+      "title": "The Lowe Post Is Back—and It’s a Newsletter Now",
+      "url": "https://zachlowe.substack.com/p/welcome-to-the-lowe-post",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "open",
+      "summary": "Why I’m writing again, and why I’d love for you to join me",
+      "publishedAt": "2026-10-12T14:35:04.000Z",
+      "articleId": "377fa5b7473e9df8"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
       "title": "Michael Woodford, Nobel Laureate",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html",
@@ -372,17 +463,6 @@
       "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob on scholar.google.com. […]",
       "publishedAt": "2026-10-12T11:59:30.000Z",
       "articleId": "3f0b0b25ac54b932"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
-      "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today’s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G […]",
-      "publishedAt": "2026-10-12T10:06:32.000Z",
-      "articleId": "1c740c2a3c4c8bc8"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/live-your-values-and-adopt-values",
@@ -948,17 +1028,6 @@
       "articleId": "fdc63ef1564b074b"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/trumps-new-student-loan-rule-is-fine",
-      "title": "Trump’s new student loan rule is fine",
-      "url": "https://www.slowboring.com/p/trumps-new-student-loan-rule-is-fine",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Normal programs at normal schools are safe. Don’t be a useful idiot for cosmetology scams.",
-      "publishedAt": "2026-10-05T10:03:38.000Z",
-      "articleId": "bd578d997d1a091b"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/apple-and-a-hackers-future/",
       "title": "Apple and a Hacker’s Future",
       "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
@@ -1001,18 +1070,6 @@
       "summary": "New York got the full Winston experience Sunday but lived to tell the tale in a 36-24 win against Arizona.",
       "publishedAt": "2026-10-04T20:12:49.000Z",
       "articleId": "5c7b7c7a23d6a1a0"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-062",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-062",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-10-04T19:02:42.000Z",
-      "articleId": "e6f099db24aaefff"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/guard-your-publishing-a-conversation",
@@ -1270,17 +1327,6 @@
       "summary": "Late Night Souped-Up Ramen Ramen hacks have been known to take the internet by storm—for good reason. Here are some quick tips to upgrading those instant noodle packets you have... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Late Night Souped-Up Ramen J. Kenji López-Alt Sep 30, 2026 View in app View in app Ramen hacks have been known to take the internet by storm—for good reason. Here are some quick tips to upgrading those instant noodle packets you have lying around. Way back in 2011, I posted an article on Serious Eats that went about as viral as things could go in those early days of Web 2.0. It was called Ramen Hacks: 30+ Easy Ways to Upgrade Your Instant Noodles , and its contents were as-advertised. I haven't re-read that article in at least a decade, but I was surprised to come across it and realize that I still follow most of the basic rules, even when I'm improvising. I did the same with this bowl of instant tonkotsu ramen that I gussied up with a quick condiment I made from onion scraps, beef jerky, and chili oil, along with a slice of American cheese stirred straight into the hot soup. (The cheese adds some flavor, but really it adds a nice body to the soup—it's especially good in instant tonkotsu-style broths, which are never as rich and creamy as the real deal.) I'm not going to give you a recipe for a thing I made specifically out of the random scraps I had lying around after karaoke night. But I...",
       "publishedAt": "2026-09-30T16:46:03.412Z",
       "articleId": "ec9b8391e5ce27b3"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-      "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
-      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
-      "publishedAt": "2026-09-30T10:00:00.000Z",
-      "articleId": "92cd0f65318c49c7"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
@@ -1930,50 +1976,6 @@
       "summary": "Bo French’s rightist movement is a dead end for our nation. Fortunately, it’s beatable.",
       "publishedAt": "2026-09-16T06:08:15.000Z",
       "articleId": "1a5b1d998312c61a"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
-      "title": "Who’s the Snowflake Now?",
-      "url": "https://www.nytimes.com/2026/09/03/opinion/trump-rubio-free-speech-judges.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Marco Rubio is taking the wrong approach to free speech.",
-      "publishedAt": "2026-09-15T14:48:47.000Z",
-      "articleId": "71160a20c153eee6"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/american-idol-disappointments-an",
-      "title": "American Idol Disappointments: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/american-idol-disappointments-an",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Lee DeWyze, Kris Allen, Taylor Hicks, and others",
-      "publishedAt": "2026-09-15T13:32:40.000Z",
-      "articleId": "9641e5539656f99a"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-alberta-doesnt-have-rats",
-      "title": "Why Alberta doesn’t have rats",
-      "url": "https://www.worksinprogress.news/p/why-alberta-doesnt-have-rats",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Rats have conquered nearly every place on earth where humans live. Only Alberta soldiers on.",
-      "publishedAt": "2026-09-15T11:02:06.000Z",
-      "articleId": "6ab2caea87033da8"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7595778/2026/09/15/new-york-giants-john-harbaugh-cowboys-signature-win/",
-      "title": "Why it was so important for Giants to secure signature win early in John Harbaugh's tenure",
-      "url": "https://www.nytimes.com/athletic/7595778/2026/09/15/new-york-giants-john-harbaugh-cowboys-signature-win/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The most encouraging aspect of Sunday’s win over the Cowboys was how much the game fit the vision Harbaugh has outlined since his arrival.",
-      "publishedAt": "2026-09-15T10:30:06.000Z",
-      "articleId": "db778a21c50dbfff"
     }
   ],
   "weather": {
@@ -1991,7 +1993,7 @@
     "articleId": "82d5930860e38f35",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-10-15T09:49:37.281Z",
+  "weatherGeneratedAt": "2026-10-15T14:56:56.437Z",
   "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
@@ -2037,18 +2039,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 6,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
@@ -2077,10 +2079,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss-proxy",
+      "itemCount": 3,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403"
+      "error": null
     },
     {
       "name": "Neil Paine",

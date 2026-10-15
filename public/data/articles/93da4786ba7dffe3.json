@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html",
+  "source": "Marginal Revolution",
+  "title": "Astra Held Its Ground (Truth)",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote><p><a href=\"https://arxiv.org/abs/2610.16733\" target=\"_blank\" rel=\"noopener noreferrer\">TheoPhysEval</a>: We present a suite of 50 unpublished research-level theoretical physics problems with verifiable answers. Without AI assistance, a typical problem in our collection could be solved by a world expert in about a day or less but would take considerably longer for experts in adjacent specialties. We test the ability of off-the-shelf AI agents to tackle these problems autonomously, without human hints. When given access to tools available in a realistic setting, including the ability to search the literature and write scripts for numerical and symbolic work, the best-performing agent, GPT-6-Astra harnessed in Codex, obtains the final answers with a near-perfect accuracy of 98% at an average cost under USD 3 per problem.</p>\n<p><strong>Example question</strong>: Consider one-dimensional class D fermionic systems, with no microscopic symmetries other than fermion parity. Restrict to the trivial phase and to free-fermion models. Using the suspension construction, construct a two-parameter Hamiltonian corresponding to a fermion parity pump. What is the central charge of the critical theory at the diabolical point? Under free-fermion perturbations, what does the diabolical point destabilize to?</p></blockquote>\n<p>But here is the most remarkable part <a href=\"https://x.com/Kaju_Nut/status/2110376532267196754?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">from one of the authors</a>, theoretical physicist <a href=\"https://en.wikipedia.org/wiki/Suvrat_Raju\" target=\"_blank\" rel=\"noopener noreferrer\">Suvrat Raju</a>:</p>\n<blockquote><p>Our initial evaluation suggested that GPT-6-Astra’s score was in the late eighties followed closely by Opus 5.5 But, as we started to investigate the mistakes that the models might have made, the models, especially Astra, insisted that they were right and that it was the expert-supplied answers that were erroneous. When we went back to the experts it turned out, in multiple instances, that the experts found some subtle errors buried deep inside their calculations. As they revised their answers, Astra’s score started to inch up and it finally ended up with 98% (49/50).</p></blockquote>\n<p>In other words, instead, as originally intended, of the human answers serving as ground truth to test the AI, the AI answers were ground truth for testing the experts. As I commented on twitter, we are at “the fuck” level.</p>\n<p><img src=\"https://pbs.twimg.com/media/HUm-ZmmWEAAVWO9?format=jpg&amp;name=medium\" alt=\"Image\" loading=\"lazy\" decoding=\"async\"></p>",
+  "wordCount": 326,
+  "imageCount": 1,
+  "linkCount": 3
+}
