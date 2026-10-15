@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-14T23:53:39.054Z",
-  "fetchedAt": "2026-10-14T23:53:39.050Z",
-  "sourceCount": 24,
+  "generatedAt": "2026-10-15T04:28:54.671Z",
+  "fetchedAt": "2026-10-15T04:28:54.667Z",
+  "sourceCount": 25,
   "itemCount": 174,
-  "totalItemCount": 794,
+  "totalItemCount": 791,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+      "title": "AI Safety Is Not A Corporate Plot",
+      "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-10-15T01:15:38.000Z",
+      "articleId": "e68b97f15be7b0e5"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/paying-whole-foods-prices-for-a-losing",
       "title": "Paying Whole Foods prices for a losing basket",
@@ -349,17 +360,6 @@
       "summary": "Participate in public institutions and support making them pleasant and workable",
       "publishedAt": "2026-10-12T10:02:15.000Z",
       "articleId": "f3e414f0d753db2e"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/personal-day-4/",
-      "title": "Personal Day",
-      "url": "https://stratechery.com/2026/personal-day-4/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Personal Day — No Update",
-      "publishedAt": "2026-10-12T10:00:00.000Z",
-      "articleId": "26595a023095fd8c"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
@@ -1249,6 +1249,17 @@
       "articleId": "ec9b8391e5ce27b3"
     },
     {
+      "id": "Stratechery:https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
+      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "articleId": "92cd0f65318c49c7"
+    },
+    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
       "title": "Midterm waves are the rule, not the exception",
       "url": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
@@ -1940,17 +1951,6 @@
       "summary": "The most encouraging aspect of Sunday’s win over the Cowboys was how much the game fit the vision Harbaugh has outlined since his arrival.",
       "publishedAt": "2026-09-15T10:30:06.000Z",
       "articleId": "db778a21c50dbfff"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/king-ludd",
-      "title": "King Ludd",
-      "url": "https://www.astralcodexten.com/p/king-ludd",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-09-14T23:56:40.000Z",
-      "articleId": "d49d53bfc29104b5"
     }
   ],
   "weather": {
@@ -1968,7 +1968,7 @@
     "articleId": "82d5930860e38f35",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-10-14T23:53:39.054Z",
+  "weatherGeneratedAt": "2026-10-15T04:28:54.671Z",
   "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
@@ -1991,7 +1991,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2022,10 +2022,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 6,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -2050,6 +2050,14 @@
       "itemCount": 20,
       "feedUrl": "https://www.maximum-progress.com/feed",
       "error": null
+    },
+    {
+      "name": "The Lowe Post",
+      "url": "https://zachlowe.substack.com/",
+      "mode": "failed",
+      "itemCount": 0,
+      "feedUrl": "https://zachlowe.substack.com/feed",
+      "error": "Status code 403"
     },
     {
       "name": "Neil Paine",
