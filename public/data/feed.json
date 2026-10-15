@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-15T19:04:55.968Z",
-  "fetchedAt": "2026-10-15T19:04:55.962Z",
+  "generatedAt": "2026-10-15T22:13:06.352Z",
+  "fetchedAt": "2026-10-15T22:13:06.349Z",
   "sourceCount": 25,
-  "itemCount": 175,
-  "totalItemCount": 803,
+  "itemCount": 174,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/welcome-to-midterm-silly-season",
+      "title": "Welcome to midterm silly season 🤡",
+      "url": "https://www.natesilver.net/p/welcome-to-midterm-silly-season",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Still Couting EP 5",
+      "publishedAt": "2026-10-15T19:13:51.000Z",
+      "articleId": "16c156c1f3619e50"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
       "title": "Russia Was Losing. Enter President Trump.",
@@ -139,6 +151,18 @@
       "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
       "publishedAt": "2026-10-15T10:00:00.000Z",
       "articleId": "7a37a0ad6c391dad"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/is-this-the-october-of-small-ball",
+      "title": "Is This the October of Small Ball? It’s Complicated.",
+      "url": "https://neilpaine.substack.com/p/is-this-the-october-of-small-ball",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The long-ball is out, manufacturing runs is in. At least, that’s the story of this postseason — but the numbers suggest things aren’t quite that simple.",
+      "publishedAt": "2026-10-15T09:02:42.000Z",
+      "articleId": "3987f62c031557df"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ai-vs-the-railroads",
@@ -418,18 +442,6 @@
       "summary": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
       "publishedAt": "2026-10-13T10:00:00.000Z",
       "articleId": "d4b3639bdc6573c7"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/neither-won-the-nba-title-now-theyre",
-      "title": "Neither Won the NBA Title. Now They’re Historic Co-Favorites.",
-      "url": "https://neilpaine.substack.com/p/neither-won-the-nba-title-now-theyre",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Despite not winning in ‘26, the Spurs and Thunder are dead-even with each other now, historically far ahead of everyone else... and only one can escape the West.",
-      "publishedAt": "2026-10-13T09:02:43.000Z",
-      "articleId": "98e37c520e7a1a5a"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&utm_medium=rss&utm_campaign=lost-worlds",
@@ -1016,18 +1028,6 @@
       "articleId": "245c0d78586ac1b8"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/with-a-new-agenda-the-build-america",
-      "title": "With a new agenda, the Build America Caucus gets ambitious with abundance",
-      "url": "https://www.slowboring.com/p/with-a-new-agenda-the-build-america",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The bipartisan House caucus hopes to apply housing momentum to energy, child care, and transportation, expanding the federal imagination of abundance.",
-      "publishedAt": "2026-10-05T22:01:41.000Z",
-      "articleId": "da2ed488e6e1a619"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/introducing-dan-kagan-kans",
       "title": "Introducing Dan Kagan-Kans",
       "url": "https://www.understandingai.org/p/introducing-dan-kagan-kans",
@@ -1565,17 +1565,6 @@
       "articleId": "77a0eb82d71ad79d"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-blue-wave-is-mostly-in-red-states",
-      "title": "The blue wave is mostly in red states. That’s a little weird.",
-      "url": "https://www.natesilver.net/p/the-blue-wave-is-mostly-in-red-states",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Still Counting EP3. Plus some quick thoughts on that NYT poll in Maine.",
-      "publishedAt": "2026-09-24T14:59:27.000Z",
-      "articleId": "2451192bcd774dd8"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7624976/2026/09/24/new-york-giants-jaxson-dart-trade-jameis-winston-jj-mccarthy/",
       "title": "Giants would be foolish to make desperate QB trade in wake of Jaxson Dart injury",
       "url": "https://www.nytimes.com/athletic/7624976/2026/09/24/new-york-giants-jaxson-dart-trade-jameis-winston-jj-mccarthy/",
@@ -1965,22 +1954,8 @@
       "articleId": "1a5b1d998312c61a"
     }
   ],
-  "weather": {
-    "id": "Capital Weather:https://www.capitalweather.com/dc-area-forecast-record-warmth-possible-today-much-cooler-with-showers-likely-tomorrow/",
-    "title": "DC-area forecast: Record warmth possible today; much cooler with showers likely tomorrow",
-    "url": "https://www.capitalweather.com/dc-area-forecast-record-warmth-possible-today-much-cooler-with-showers-likely-tomorrow/",
-    "source": "Capital Weather",
-    "sourceUrl": "https://www.capitalweather.com/",
-    "access": "open",
-    "summary": "HAPPENING NOW: A warm start as morning readings rise through the 60s and 70s with plenty of sun. Heating up this afternoon with near-record highs in the mid-80s to near 90, then an evening storm chance.",
-    "publishedAt": "2026-10-14T09:00:00.000Z",
-    "dailyDigit": 6,
-    "dailyDigitLabel": "6/10",
-    "dailyDigitSummary": "Temperatures threaten record highs for the date. Fortunately, October warmth doesn't have the sizzle of midsummer heat.",
-    "articleId": "82d5930860e38f35",
-    "stale": true
-  },
-  "weatherGeneratedAt": "2026-10-15T19:04:55.968Z",
+  "weather": null,
+  "weatherGeneratedAt": null,
   "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
@@ -2066,18 +2041,18 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 3,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -2099,7 +2074,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
