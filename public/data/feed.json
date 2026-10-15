@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-10-15T04:28:54.671Z",
-  "fetchedAt": "2026-10-15T04:28:54.667Z",
+  "generatedAt": "2026-10-15T09:49:37.281Z",
+  "fetchedAt": "2026-10-15T09:49:37.278Z",
   "sourceCount": 25,
-  "itemCount": 174,
+  "itemCount": 176,
   "totalItemCount": 791,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
+      "title": "Russia Was Losing. Enter President Trump.",
+      "url": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The commander in chief is Putin’s ace in the hole.",
+      "publishedAt": "2026-10-15T09:05:40.000Z",
+      "articleId": "48ce0ccd34ed89dd"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/ai-vs-the-railroads",
+      "title": "AI vs. the railroads",
+      "url": "https://www.noahpinion.blog/p/ai-vs-the-railroads",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Are we in 1872?",
+      "publishedAt": "2026-10-15T08:47:39.000Z",
+      "articleId": "23fbe524600af9b4"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&utm_medium=rss&utm_campaign=why-i-do-not-use-llms-more",
+      "title": "Why I do not use LLMs more",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "They are so very, very good at matching me to the books I wish to read and the music I wish to listen to. In this odd sense they are not very sticky. The LLMs are amazing, but the world is awesome too! Thus the LLMs keep on sending me away. There is quality travel […]",
+      "publishedAt": "2026-10-15T08:20:41.000Z",
+      "articleId": "b3b1e0901ae5c22f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-liaquat-ahamed",
+      "title": "My excellent Conversation with Liaquat Ahamed",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: They start with that puzzle before moving through Gladstone’s startlingly self-interested bet on Egyptian bonds, Bismarck’s role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain’s fateful decision […]",
+      "publishedAt": "2026-10-15T04:37:06.000Z",
+      "articleId": "49b0642d58320fce"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
       "title": "AI Safety Is Not A Corporate Plot",
@@ -340,17 +385,6 @@
       "articleId": "1c740c2a3c4c8bc8"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel",
-      "title": "Michael Woodford Wins Nobel",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford’s Interest and Prices (2003) has been called the central bankers’ bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even if his name […]",
-      "publishedAt": "2026-10-12T10:05:58.000Z",
-      "articleId": "c0abe24128ab27a1"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/live-your-values-and-adopt-values",
       "title": "Live your values, and adopt values to live by",
       "url": "https://www.slowboring.com/p/live-your-values-and-adopt-values",
@@ -360,17 +394,6 @@
       "summary": "Participate in public institutions and support making them pleasant and workable",
       "publishedAt": "2026-10-12T10:02:15.000Z",
       "articleId": "f3e414f0d753db2e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
-      "title": "Okie-dokie, Casey Handmer edition",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I’ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions. There are about 100m papers in the scientific corpus. Most are not important. Many […]",
-      "publishedAt": "2026-10-12T04:20:47.000Z",
-      "articleId": "c8c42e703a0a97cf"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
@@ -1968,7 +1991,7 @@
     "articleId": "82d5930860e38f35",
     "stale": true
   },
-  "weatherGeneratedAt": "2026-10-15T04:28:54.671Z",
+  "weatherGeneratedAt": "2026-10-15T09:49:37.281Z",
   "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
