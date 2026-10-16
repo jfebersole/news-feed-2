@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T17:21:52.296Z",
-  "fetchedAt": "2026-10-16T17:21:52.293Z",
+  "generatedAt": "2026-10-16T21:00:52.345Z",
+  "fetchedAt": "2026-10-16T21:00:52.339Z",
   "sourceCount": 25,
-  "itemCount": 175,
-  "totalItemCount": 801,
+  "itemCount": 176,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/home-at-last/",
+      "title": "2026.42: Home At Last",
+      "url": "https://stratechery.com/2026/home-at-last/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "publishedAt": "2026-10-16T17:42:42.000Z",
+      "articleId": "fd28bb513aca5fee"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595",
       "title": "Friday assorted links",
@@ -15,6 +26,18 @@
       "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite “get it”…? Here is some exposition. 3. “90% of Americans’ working hours are spent on tasks not covered well by AI benchmarks. That’s our best guess from a new project mapping frontier benchmarks […]",
       "publishedAt": "2026-10-16T16:42:18.000Z",
       "articleId": "bf076983a2e3d952"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-3",
+      "title": "NBA League Pass Rankings: Part 3",
+      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-3",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "I’m irrationally excited about the Memphis Grizzlies",
+      "publishedAt": "2026-10-16T14:29:16.000Z",
+      "articleId": "89f3b56cca76dac3"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/porcelain",
@@ -1319,17 +1342,6 @@
       "articleId": "ee61659f96467b43"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-      "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "articleId": "9bc395b1c934dc41"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-89-it-isnt-x-its-y",
       "title": "Roundup #89: It isn’t X, it’s Y",
       "url": "https://www.noahpinion.blog/p/roundup-89-it-isnt-x-its-y",
@@ -1968,7 +1980,7 @@
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2054,17 +2066,17 @@
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 4,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
