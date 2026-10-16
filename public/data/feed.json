@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-16T07:04:50.304Z",
-  "fetchedAt": "2026-10-16T07:04:50.300Z",
+  "generatedAt": "2026-10-16T12:22:11.092Z",
+  "fetchedAt": "2026-10-16T12:22:11.089Z",
   "sourceCount": 25,
-  "itemCount": 174,
-  "totalItemCount": 795,
+  "itemCount": 175,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany",
+      "title": "India has more Restrictive Labor Law than Germany",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In Premature Imitation and India’s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity–this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more amazing, however, is when a country like India […]",
+      "publishedAt": "2026-10-16T11:20:31.000Z",
+      "articleId": "ffc67d93c2928af5"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-lost-wisdom-of-the-old-moderates",
+      "title": "The lost wisdom of the Old Moderates",
+      "url": "https://www.slowboring.com/p/the-lost-wisdom-of-the-old-moderates",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus school closures, literary adaptations, and Olivia Rodrigo",
+      "publishedAt": "2026-10-16T10:02:37.000Z",
+      "articleId": "097026054a9b30bc"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7694728/2026/10/16/giants-improvement-coming-schedule/",
+      "title": "Giants-Saints prediction: Why New York can keep winning even with Jaxson Dart sidelined",
+      "url": "https://www.nytimes.com/athletic/7694728/2026/10/16/giants-improvement-coming-schedule/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "New York faces an uninspiring lineup of opponents in the near term and might be able to bank wins even if the team doesn't hit its ceiling.",
+      "publishedAt": "2026-10-16T09:30:25.000Z",
+      "articleId": "67f8f6aeaacbfe43"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona",
       "title": "On Bergman’s *Persona*",
@@ -508,17 +542,6 @@
       "summary": "It’s about time.",
       "publishedAt": "2026-10-13T05:28:43.000Z",
       "articleId": "2afe081aabf2dd40"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&utm_medium=rss&utm_campaign=i-have-no-mouth-and-i-must-scream",
-      "title": "“I have no mouth and I must scream”",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Worth a reread, here is a new report from the front: Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial IoT devices, like smart ovens and off-brand Android TV boxes. A replicator like this would be challenging to shut down, since there’s no centralized point […]",
-      "publishedAt": "2026-10-13T04:42:32.000Z",
-      "articleId": "9d8c076efa0c8f49"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/8ewygjt35t76334og2pj9ybq8fznq32pte05518r.html",
@@ -1026,17 +1049,6 @@
       "summary": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
       "publishedAt": "2026-10-06T10:07:36.000Z",
       "articleId": "947d7758346116e8"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-permitting-deal-is-good-and-should",
-      "title": "The permitting deal is good and should pass",
-      "url": "https://www.slowboring.com/p/the-permitting-deal-is-good-and-should",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Against the underpants gnome theory of climate action",
-      "publishedAt": "2026-10-06T10:03:15.000Z",
-      "articleId": "f763e6304c28d855"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/introducing-dan-kagan-kans",
@@ -2001,10 +2013,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 3,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
