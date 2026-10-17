@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-17T17:05:36.594Z",
-  "fetchedAt": "2026-10-17T17:05:36.590Z",
+  "generatedAt": "2026-10-17T19:21:58.319Z",
+  "fetchedAt": "2026-10-17T19:21:58.315Z",
   "sourceCount": 25,
-  "itemCount": 175,
-  "totalItemCount": 798,
+  "itemCount": 174,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
+      "title": "The good, bad and ugly outcomes in the Senate",
+      "url": "https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Can Democrats still win the Senate if the polls overestimate them? And how ugly could the map get for Republicans if the polls are wrong in the other direction?",
+      "publishedAt": "2026-10-17T18:01:13.000Z",
+      "articleId": "ee67491ffb82b391"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583",
       "title": "Saturday assorted links",
@@ -1475,18 +1487,6 @@
       "articleId": "0e3a687e4f7535af"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/nba-future-of-the-franchise-rankings-6cb",
-      "title": "NBA Future of the Franchise Rankings 4.0",
-      "url": "https://www.natesilver.net/p/nba-future-of-the-franchise-rankings-6cb",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "It won’t shock you to learn that the Spurs and Thunder have the brightest futures. But what about the rest of the league after a crazy offseason?",
-      "publishedAt": "2026-09-28T19:01:48.000Z",
-      "articleId": "f0033a96173eb6a2"
-    },
-    {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/september-2026-links",
       "title": "September 2026 links",
       "url": "https://scottsumner.substack.com/p/september-2026-links",
@@ -1954,17 +1954,6 @@
       "summary": "Most people think AI is risky, but they don’t agree what to do next.",
       "publishedAt": "2026-09-17T20:21:40.000Z",
       "articleId": "f20095b00a6a493d"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/american-idol-should-have-been-canceled",
-      "title": "American Idol Should Have Been Canceled After Season One",
-      "url": "https://www.cantgetmuchhigher.com/p/american-idol-should-have-been-canceled",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, why The Voice stinks",
-      "publishedAt": "2026-09-17T17:31:02.000Z",
-      "articleId": "6faaf62c53dfa20d"
     }
   ],
   "weather": null,
@@ -2022,10 +2011,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 6,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
