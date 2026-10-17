@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T19:21:58.319Z",
-  "fetchedAt": "2026-10-17T19:21:58.315Z",
+  "generatedAt": "2026-10-17T22:14:23.767Z",
+  "fetchedAt": "2026-10-17T22:14:23.765Z",
   "sourceCount": 25,
-  "itemCount": 174,
+  "itemCount": 173,
   "totalItemCount": 802,
   "items": [
     {
@@ -1942,18 +1942,6 @@
       "summary": "Pulmonary Embolism and long haul travel",
       "publishedAt": "2026-09-17T23:16:26.000Z",
       "articleId": "4d5e4bd7762b47b5"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/how-a-single-tweet-transformed-the",
-      "title": "How a single tweet transformed the AI safety debate",
-      "url": "https://www.understandingai.org/p/how-a-single-tweet-transformed-the",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Most people think AI is risky, but they don’t agree what to do next.",
-      "publishedAt": "2026-09-17T20:21:40.000Z",
-      "articleId": "f20095b00a6a493d"
     }
   ],
   "weather": null,
