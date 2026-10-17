@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-16T23:31:41.472Z",
-  "fetchedAt": "2026-10-16T23:31:41.469Z",
+  "generatedAt": "2026-10-17T04:17:20.749Z",
+  "fetchedAt": "2026-10-17T04:17:20.745Z",
   "sourceCount": 25,
   "itemCount": 176,
   "totalItemCount": 802,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-storm-of-steel",
+      "title": "Your Book Review: Storm Of Steel",
+      "url": "https://www.astralcodexten.com/p/your-book-review-storm-of-steel",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #12 in the Book Review Contest",
+      "publishedAt": "2026-10-16T23:39:56.000Z",
+      "articleId": "d1e74f6a24d25c43"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/home-at-last/",
       "title": "2026.42: Home At Last",
@@ -1965,22 +1976,11 @@
       "summary": "If you’re reading this, there’s a very good chance you’ve seen this famous image of three iterations of SpaceX’s Raptor rocket engine.",
       "publishedAt": "2026-09-17T12:02:08.000Z",
       "articleId": "cf65b761e6f3bf60"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
-      "title": "AI Superforecasting Should Transform The FDA",
-      "url": "https://www.astralcodexten.com/p/ai-superforecasting-should-transform",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "A guest post by Josh Morrison",
-      "publishedAt": "2026-09-16T23:33:42.000Z",
-      "articleId": "c5fba4ef4c2c28c8"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
