@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-10-18T05:49:49.698Z",
-  "fetchedAt": "2026-10-18T05:49:49.693Z",
+  "generatedAt": "2026-10-18T10:57:10.444Z",
+  "fetchedAt": "2026-10-18T10:57:10.440Z",
   "sourceCount": 25,
-  "itemCount": 172,
+  "itemCount": 173,
   "totalItemCount": 794,
   "items": [
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+      "title": "Would You Press This Button?",
+      "url": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "We may not want it to, but A.I. is asking us how to live.",
+      "publishedAt": "2026-10-18T10:00:21.000Z",
+      "articleId": "f60b5b02ad156875"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians",
+      "title": "Why are we ruled by barbarians?",
+      "url": "https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "America’s New Right believes that savagery is the key to victory.",
+      "publishedAt": "2026-10-18T06:34:00.000Z",
+      "articleId": "472d31d546243da0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637",
+      "title": "Our fascination with screens, demand curves slope downward installment #1637",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "What we find here is that the quality-adjusted screen time price index is down 39 per cent since 2000, but that change is overwhelmingly a function of improvements in quality, not declines in prices paid for devices, subscriptions and so on. So the steep rise in screen time over the past 20 years has led […]",
+      "publishedAt": "2026-10-18T06:28:18.000Z",
+      "articleId": "752e71a6eb70df26"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures",
       "title": "The archaeology tranche of Emergent Ventures",
@@ -522,17 +555,6 @@
       "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
       "publishedAt": "2026-10-14T10:00:00.000Z",
       "articleId": "190277f965bb8b29"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html?utm_source=rss&utm_medium=rss&utm_campaign=plunder-the-last-of-the-war-in-europe-1945",
-      "title": "*Plunder: The Last of the War in Europe, 1945*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "By Max Hastings, an excellent book, I benefited from every page. One recurring theme is simply how hard the Germans fought on the way down, and how unusual that behavior was. Here is one interesting passage of many: In World War I, 150 German soldiers were sentenced to death for serious crimes, of which a […]",
-      "publishedAt": "2026-10-14T07:02:57.000Z",
-      "articleId": "3759b44204dadef4"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kl7hj2zbbntko2wft2bbi2svj53anrsqaj2buyym.html",
@@ -1920,17 +1942,6 @@
       "summary": "Evan Behrle on Desert and Economic Interdependence",
       "publishedAt": "2026-09-18T12:04:18.000Z",
       "articleId": "4b68d9696ec4583d"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
-      "title": "Roundup #88: Is it time to panic yet?",
-      "url": "https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "AI risk; AI and growth; AI and Saas; Rich people; Christians vs. Nazis; Japanese culture; State capacity; City size",
-      "publishedAt": "2026-09-18T09:04:11.000Z",
-      "articleId": "c5f23cf39c1bf0cc"
     }
   ],
   "weather": null,
@@ -2028,10 +2039,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
