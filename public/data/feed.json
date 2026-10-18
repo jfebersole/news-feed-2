@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-18T20:35:41.035Z",
-  "fetchedAt": "2026-10-18T20:35:41.031Z",
+  "generatedAt": "2026-10-18T23:04:57.196Z",
+  "fetchedAt": "2026-10-18T23:04:57.193Z",
   "sourceCount": 25,
-  "itemCount": 172,
-  "totalItemCount": 790,
+  "itemCount": 171,
+  "totalItemCount": 802,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers",
+      "title": "*You Can See Everything* (no spoilers)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "An excellent and also original movie, you all should see it. There are different interpretations, but I read it as a story between two autistic people, and the bond they have but also the great difficulties they have in understanding each other, because they are so very different. I am not saying that is what […]",
+      "publishedAt": "2026-10-18T22:03:02.000Z",
+      "articleId": "3fc80e2bd16580f4"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7701950/2026/10/18/saints-giants-nfl-week-6-result-takeaways/",
       "title": "J.J. McCarthy-led comeback falls short as Giants face QB questions following loss to Saints",
@@ -523,17 +534,6 @@
       "summary": "Republicans have more cash than Democrats, and they’re burning it faster — from a Kansas rescue mission to a Maine ad that ran in Oregon.",
       "publishedAt": "2026-10-14T22:01:43.000Z",
       "articleId": "79363d307b04435e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-83",
-      "title": "China fact (?) of the day",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A monograph by Yi Fuxian, a University of Wisconsin-Madison demographer and longtime critic of China’s population policies, argues that China’s actual population may be closer to 1.27 billion—not the 1.4 billion officially reported. The gap would be as much as 130 million people, roughly the population of Mexico. And Yi argues the distortion has warped […]",
-      "publishedAt": "2026-10-14T18:56:23.000Z",
-      "articleId": "ee51553380784ffc"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/openais-ironic-credibility-problem",
@@ -1921,17 +1921,6 @@
       "summary": "AirBnB’s housing accelerator, rising steel prices, a resurgence of US coal power, low-head dams, and more.",
       "publishedAt": "2026-09-19T12:03:09.000Z",
       "articleId": "266a44d2d9d3fd86"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
-      "title": "Your Book Review: This Is Going To Hurt",
-      "url": "https://www.astralcodexten.com/p/your-book-review-this-is-going-to",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #9 in the Book Review Contest",
-      "publishedAt": "2026-09-18T20:53:58.000Z",
-      "articleId": "939eab5cd7c707d9"
     }
   ],
   "weather": null,
@@ -1981,18 +1970,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 2,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 6,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
