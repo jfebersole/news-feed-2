@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-18T10:57:10.444Z",
-  "fetchedAt": "2026-10-18T10:57:10.440Z",
+  "generatedAt": "2026-10-18T14:32:07.026Z",
+  "fetchedAt": "2026-10-18T14:32:07.024Z",
   "sourceCount": 25,
   "itemCount": 173,
   "totalItemCount": 794,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-indie-rock-explosion-a-conversation",
+      "title": "The Indie Rock Explosion: A Conversation with Chris DeVille",
+      "url": "https://www.cantgetmuchhigher.com/p/the-indie-rock-explosion-a-conversation",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Chris DeVille stops by to talk about his excellent history of indie rock",
+      "publishedAt": "2026-10-18T14:31:23.000Z",
+      "articleId": "a9f73f4e4237b0dd"
+    },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
       "title": "Would You Press This Button?",
@@ -1931,17 +1943,6 @@
       "summary": "Using your deep knowledge, wide knowledge, taste, and agency",
       "publishedAt": "2026-09-18T17:54:32.000Z",
       "articleId": "44ad14e38ca0d0c8"
-    },
-    {
-      "id": "Maximum Progress:https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
-      "title": "The Best Philosophy Article of 2025 is Bad Economics",
-      "url": "https://www.maximum-progress.com/p/the-best-philosophy-article-of-2025",
-      "source": "Maximum Progress",
-      "sourceUrl": "https://www.maximum-progress.com/",
-      "access": "open",
-      "summary": "Evan Behrle on Desert and Economic Interdependence",
-      "publishedAt": "2026-09-18T12:04:18.000Z",
-      "articleId": "4b68d9696ec4583d"
     }
   ],
   "weather": null,
