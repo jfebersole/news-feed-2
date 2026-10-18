@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-18T14:32:07.026Z",
-  "fetchedAt": "2026-10-18T14:32:07.024Z",
+  "generatedAt": "2026-10-18T18:03:18.662Z",
+  "fetchedAt": "2026-10-18T18:03:18.659Z",
   "sourceCount": 25,
-  "itemCount": 173,
+  "itemCount": 172,
   "totalItemCount": 794,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-02d",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-02d",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-10-18T17:01:04.000Z",
+      "articleId": "3f4cb33c67332665"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country",
+      "title": "*This Beautiful Country*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is Edward Cutler and the subtitle is How Italy’s Nature Shaped its Culture and Civilisation. This is an excellent book on how “the Italy you know” has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The book is good at […]",
+      "publishedAt": "2026-10-18T16:32:02.000Z",
+      "articleId": "ec810c2abf80b5f7"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+      "title": "This Is the Good Scenario?",
+      "url": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "We may not want it to, but A.I. is asking us how to live.",
+      "publishedAt": "2026-10-18T15:20:30.000Z",
+      "articleId": "f60b5b02ad156875"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-indie-rock-explosion-a-conversation",
       "title": "The Indie Rock Explosion: A Conversation with Chris DeVille",
@@ -16,17 +50,6 @@
       "summary": "Chris DeVille stops by to talk about his excellent history of indie rock",
       "publishedAt": "2026-10-18T14:31:23.000Z",
       "articleId": "a9f73f4e4237b0dd"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
-      "title": "Would You Press This Button?",
-      "url": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "We may not want it to, but A.I. is asking us how to live.",
-      "publishedAt": "2026-10-18T10:00:21.000Z",
-      "articleId": "f60b5b02ad156875"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians",
@@ -513,17 +536,6 @@
       "articleId": "a417b976261558ac"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-575",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-575.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Planets more habitable than Earth? (NYT) 2. Those new service sector jobs: “Cambiar de vida: cómo irte a contar pingüinos en la Antártida por hasta 2500 euros al mes.” 3. AI song about the China Shock debate. 4. “An amusing result of this new survey is that Democratic-voting workers had a startlingly high net-favorable […]",
-      "publishedAt": "2026-10-14T16:07:03.000Z",
-      "articleId": "935ea91b49f87111"
-    },
-    {
       "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-1",
       "title": "NBA League Pass Rankings: Part 1",
       "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-1",
@@ -1007,18 +1019,6 @@
       "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
       "publishedAt": "2026-10-08T10:00:00.000Z",
       "articleId": "8dfee69b67d0756e"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-blue-wave-is-building-as-the-gops",
-      "title": "A blue wave is building as the G.O.P.’s numbers sink",
-      "url": "https://www.slowboring.com/p/a-blue-wave-is-building-as-the-gops",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "With the war in Iran unpopular and prices rising, every Republican Senate candidate the Times polled is underwater. A Democratic majority is within reach but far from secure.",
-      "publishedAt": "2026-10-07T22:01:52.000Z",
-      "articleId": "c4892dfeda6b5d19"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/top-forecasters-on-the-plague",
@@ -1932,17 +1932,6 @@
       "summary": "The Wealth of Nations at 250",
       "publishedAt": "2026-09-18T18:55:01.000Z",
       "articleId": "414a8083ea2efc71"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-overhang",
-      "title": "The Overhang",
-      "url": "https://www.oneusefulthing.org/p/the-overhang",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "Using your deep knowledge, wide knowledge, taste, and agency",
-      "publishedAt": "2026-09-18T17:54:32.000Z",
-      "articleId": "44ad14e38ca0d0c8"
     }
   ],
   "weather": null,
