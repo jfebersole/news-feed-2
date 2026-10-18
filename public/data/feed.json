@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-18T00:57:42.635Z",
-  "fetchedAt": "2026-10-18T00:57:42.629Z",
+  "generatedAt": "2026-10-18T05:49:49.698Z",
+  "fetchedAt": "2026-10-18T05:49:49.693Z",
   "sourceCount": 25,
   "itemCount": 172,
-  "totalItemCount": 802,
+  "totalItemCount": 794,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures",
+      "title": "The archaeology tranche of Emergent Ventures",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Björn Öste is building Arkhub, an AI-powered platform that analyzes remote-sensing and other archaeological data to identify potential ancient sites in the Amazon and enable further investigation by citizen scientists. J. Cameron Monroe is leading the Allada Regional Archaeology Project, using lidar, remote sensing, and archaeological fieldwork to reconstruct the historical landscape of the Kingdom […]",
+      "publishedAt": "2026-10-18T04:57:12.000Z",
+      "articleId": "a830c753287270b6"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
       "title": "The good, bad and ugly outcomes in the Senate",
@@ -522,17 +533,6 @@
       "summary": "By Max Hastings, an excellent book, I benefited from every page. One recurring theme is simply how hard the Germans fought on the way down, and how unusual that behavior was. Here is one interesting passage of many: In World War I, 150 German soldiers were sentenced to death for serious crimes, of which a […]",
       "publishedAt": "2026-10-14T07:02:57.000Z",
       "articleId": "3759b44204dadef4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/well-planned-african-immigration-to-america-will-go-fine.html?utm_source=rss&utm_medium=rss&utm_campaign=well-planned-african-immigration-to-america-will-go-fine",
-      "title": "Well-planned African immigration to America will go fine",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/well-planned-african-immigration-to-america-will-go-fine.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column, here is one excerpt: The good news is that African immigrants already have done well in the United States. For instance, 46 percent of African immigrants complete a college education, well above the immigrant average of 36 percent and the native-born American rate of 37 […]",
-      "publishedAt": "2026-10-14T04:19:22.000Z",
-      "articleId": "888881dde46e4db7"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kl7hj2zbbntko2wft2bbi2svj53anrsqaj2buyym.html",
@@ -1980,10 +1980,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 2,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
