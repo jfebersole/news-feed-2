@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-18T18:03:18.662Z",
-  "fetchedAt": "2026-10-18T18:03:18.659Z",
+  "generatedAt": "2026-10-18T20:35:41.035Z",
+  "fetchedAt": "2026-10-18T20:35:41.031Z",
   "sourceCount": 25,
   "itemCount": 172,
-  "totalItemCount": 794,
+  "totalItemCount": 790,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7701950/2026/10/18/saints-giants-nfl-week-6-result-takeaways/",
+      "title": "J.J. McCarthy-led comeback falls short as Giants face QB questions following loss to Saints",
+      "url": "https://www.nytimes.com/athletic/7701950/2026/10/18/saints-giants-nfl-week-6-result-takeaways/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Jameis Winston threw two interceptions and backup McCarthy led New York to three scoring drives before ultimately losing to New Orleans.",
+      "publishedAt": "2026-10-18T20:28:39.000Z",
+      "articleId": "29d2e5fdc3861356"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-02d",
       "title": "Sunday Thread + Mailbag",
@@ -1921,17 +1932,6 @@
       "summary": "Finalist #9 in the Book Review Contest",
       "publishedAt": "2026-09-18T20:53:58.000Z",
       "articleId": "939eab5cd7c707d9"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/adam-smiths-greatest-insight",
-      "title": "Adam Smith’s greatest insight?",
-      "url": "https://scottsumner.substack.com/p/adam-smiths-greatest-insight",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "The Wealth of Nations at 250",
-      "publishedAt": "2026-09-18T18:55:01.000Z",
-      "articleId": "414a8083ea2efc71"
     }
   ],
   "weather": null,
@@ -1989,10 +1989,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 6,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
