@@ -1,10 +1,65 @@
 {
-  "generatedAt": "2026-10-19T07:42:02.723Z",
-  "fetchedAt": "2026-10-19T07:42:02.719Z",
+  "generatedAt": "2026-10-19T15:32:41.992Z",
+  "fetchedAt": "2026-10-19T15:32:41.989Z",
   "sourceCount": 25,
-  "itemCount": 172,
+  "itemCount": 173,
   "totalItemCount": 789,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
+      "title": "AI is ushering in an age of personal media",
+      "url": "https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "open",
+      "summary": "It may be AI slop, but it's my AI slop.",
+      "publishedAt": "2026-10-19T13:33:47.000Z",
+      "articleId": "ddec4386daa91412"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html?utm_source=rss&utm_medium=rss&utm_campaign=no-datacenters-are-not-crowding-out-other-investments",
+      "title": "No, DataCenters are Not Crowding-Out Other Investments",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Based on charts like the one at right, Paul Krugman and many others are arguing that: Massive spending on data centers is crowding out investment in everything else in the economy. Not so fast. Can you see one immediate problem? How is $51b in data center construction spending crowding out $120b in everything else! Indeed, […]",
+      "publishedAt": "2026-10-19T11:16:23.000Z",
+      "articleId": "1e8b559dcc500fb1"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/dont-get-complacent-but-also-dont",
+      "title": "Don’t get complacent but also don’t doom",
+      "url": "https://www.slowboring.com/p/dont-get-complacent-but-also-dont",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The glass is half full for a common sense Democrat revival",
+      "publishedAt": "2026-10-19T10:01:47.000Z",
+      "articleId": "752b94ff23cc52cc"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/do-you-trust-apple/",
+      "title": "Do You Trust Apple?",
+      "url": "https://stratechery.com/2026/do-you-trust-apple/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "articleId": "8ce80ca7675337c0"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7703064/2026/10/19/new-york-giants-sloppy-john-harbaugh-saints/",
+      "title": "The New York Giants can’t keep making this many mistakes and counting on a comeback",
+      "url": "https://www.nytimes.com/athletic/7703064/2026/10/19/new-york-giants-sloppy-john-harbaugh-saints/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Why did the Giants lose to the Saints? It's simple, John Harbaugh said. “We've got so many stretches where we're not playing good football.\"",
+      "publishedAt": "2026-10-19T09:22:43.000Z",
+      "articleId": "f4f70df31975da2c"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
       "title": "Can a Million AI Agents Create Superintelligence?",
@@ -513,17 +568,6 @@
       "articleId": "23fbe524600af9b4"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&utm_medium=rss&utm_campaign=why-i-do-not-use-llms-more",
-      "title": "Why I do not use LLMs more",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "They are so very, very good at matching me to the books I wish to read and the music I wish to listen to. In this odd sense they are not very sticky. The LLMs are amazing, but the world is awesome too! Thus the LLMs keep on sending me away. There is quality travel […]",
-      "publishedAt": "2026-10-15T08:20:41.000Z",
-      "articleId": "b3b1e0901ae5c22f"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
       "title": "AI Safety Is Not A Corporate Plot",
       "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
@@ -1020,18 +1064,6 @@
       "articleId": "7afc58977118e413"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-jordan",
-      "title": "“The Argument” podcast, ad free: Jordan Schneider talks China’s AI hype",
-      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-jordan",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
-      "publishedAt": "2026-10-08T10:05:03.000Z",
-      "articleId": "99a6093fd805b953"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
       "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
       "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
@@ -1309,17 +1341,6 @@
       "summary": "McCarthy said it was a bit of a \"shock\" when he got the call that he was being sent to New York.",
       "publishedAt": "2026-10-02T17:41:43.000Z",
       "articleId": "a47b744663b836e7"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/dots-and-question-marks/",
-      "title": "2026.40: Dots and Question Marks",
-      "url": "https://stratechery.com/2026/dots-and-question-marks/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "articleId": "f2ba925c3151845e"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7651586/2026/10/02/giants-cardinals-preview-prediction-quarterback/",
@@ -1920,18 +1941,6 @@
       "summary": "The trick is to let them beat themselves.",
       "publishedAt": "2026-09-20T09:51:30.000Z",
       "articleId": "3e898c2057b3377b"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-09192026",
-      "title": "Reading List 09/19/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-09192026",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "AirBnB’s housing accelerator, rising steel prices, a resurgence of US coal power, low-head dams, and more.",
-      "publishedAt": "2026-09-19T12:03:09.000Z",
-      "articleId": "266a44d2d9d3fd86"
     }
   ],
   "weather": null,
@@ -2021,10 +2030,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 4,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
