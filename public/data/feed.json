@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-19T01:12:56.604Z",
-  "fetchedAt": "2026-10-19T01:12:56.600Z",
+  "generatedAt": "2026-10-19T07:42:02.723Z",
+  "fetchedAt": "2026-10-19T07:42:02.719Z",
   "sourceCount": 25,
-  "itemCount": 171,
-  "totalItemCount": 802,
+  "itemCount": 172,
+  "totalItemCount": 789,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
+      "title": "Can a Million AI Agents Create Superintelligence?",
+      "url": "https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Ramez Naam gives a skeptic’s take on agent swarms.",
+      "publishedAt": "2026-10-19T04:33:30.000Z",
+      "articleId": "7fa43910f936bf61"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297",
+      "title": "What I’ve been reading",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […]",
+      "publishedAt": "2026-10-19T04:29:27.000Z",
+      "articleId": "aa341caaaaf2f4db"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers",
       "title": "*You Can See Everything* (no spoilers)",
@@ -500,17 +522,6 @@
       "summary": "They are so very, very good at matching me to the books I wish to read and the music I wish to listen to. In this odd sense they are not very sticky. The LLMs are amazing, but the world is awesome too! Thus the LLMs keep on sending me away. There is quality travel […]",
       "publishedAt": "2026-10-15T08:20:41.000Z",
       "articleId": "b3b1e0901ae5c22f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-liaquat-ahamed",
-      "title": "My excellent Conversation with Liaquat Ahamed",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: They start with that puzzle before moving through Gladstone’s startlingly self-interested bet on Egyptian bonds, Bismarck’s role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain’s fateful decision […]",
-      "publishedAt": "2026-10-15T04:37:06.000Z",
-      "articleId": "49b0642d58320fce"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
@@ -1970,18 +1981,18 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 2,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 5,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
