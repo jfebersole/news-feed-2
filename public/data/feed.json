@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-20T00:17:09.721Z",
-  "fetchedAt": "2026-10-20T00:17:09.718Z",
+  "generatedAt": "2026-10-20T05:58:15.033Z",
+  "fetchedAt": "2026-10-20T05:58:15.028Z",
   "sourceCount": 25,
   "itemCount": 173,
   "totalItemCount": 788,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade",
+      "title": "The net fiscal impact of immigration should include gains from trade",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Immigration affects natives through both labor markets and public budgets, yet these channels are usually studied separately. We combine them in a general-equilibrium model with search-and-matching frictions, skill-specific progressive labor taxes, capital taxation and public goods, calibrated to 17 OECD countries over 2015-2019. The welfare effect on natives of a one-percentage-point increase in immigrant inflows […]",
+      "publishedAt": "2026-10-20T04:47:19.000Z",
+      "articleId": "0791551ebc0a3026"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&utm_medium=rss&utm_campaign=on-brazilian-food",
+      "title": "On Brazilian food",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Every now and then I will write a piece on food for Works in Progress. Here is my piece on eating in Brazil: Brazil, like most large nations, also offers multiple cuisines. For instance you can go to Minas Gerais for pork and beans. Minas beans would be my favorite of what I have sampled, […]",
+      "publishedAt": "2026-10-20T04:08:38.000Z",
+      "articleId": "b673c781038fcc0e"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/housing-is-on-the-ballot",
       "title": "Housing is on the ballot",
@@ -409,28 +431,6 @@
       "summary": "New York faces an uninspiring lineup of opponents in the near term and might be able to bank wins even if the team doesn't hit its ceiling.",
       "publishedAt": "2026-10-16T09:30:25.000Z",
       "articleId": "67f8f6aeaacbfe43"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona",
-      "title": "On Bergman’s *Persona*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I first saw Ingmar Bergman’s Persona, his stone-cold classic of 1965, as a teenager, and God knows how many times I have seen it since. It has the greatest opening sequence in cinema: a percussive, rapid-fire montage that can never be wholly accommodated or understood. The film’s story is, however, a simple one (even if […]",
-      "publishedAt": "2026-10-16T06:53:12.000Z",
-      "articleId": "1ad4fb1ec6fc62dd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh",
-      "title": "I guest host the NYT podcast and interview Dwarkesh",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Excerpt: Cowen: Unreleased models — why are they important? Patel: As in the ones that are internal to the companies? Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they’re not safe yet, but the public doesn’t see them. Patel: […]",
-      "publishedAt": "2026-10-16T04:44:22.000Z",
-      "articleId": "cd1be891a06d1af0"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ixnpgg4703s7swbmrrbsqyt87xna2qhpfanhfgfg.html",
@@ -2038,10 +2038,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
