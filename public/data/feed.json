@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-20T05:58:15.033Z",
-  "fetchedAt": "2026-10-20T05:58:15.028Z",
+  "generatedAt": "2026-10-20T11:27:48.994Z",
+  "fetchedAt": "2026-10-20T11:27:48.989Z",
   "sourceCount": 25,
   "itemCount": 173,
-  "totalItemCount": 788,
+  "totalItemCount": 789,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/our-culture-is-way-too-eager-to-embrace",
+      "title": "Our culture is way too eager to embrace deception",
+      "url": "https://www.slowboring.com/p/our-culture-is-way-too-eager-to-embrace",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "We desperately need to rebuild an ethic of probity and integrity.",
+      "publishedAt": "2026-10-20T10:03:06.000Z",
+      "articleId": "38c8a9f136887fd2"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+      "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "articleId": "f691b33b16339eed"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade",
       "title": "The net fiscal impact of immigration should include gains from trade",
@@ -1252,17 +1275,6 @@
       "articleId": "fdc63ef1564b074b"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "title": "Apple and a Hacker’s Future",
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "I was happy for years in Apple's walled garden; with AI, however, their protections feel like limitations.",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "articleId": "44eed4c664260076"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
       "title": "What the AI boom is doing for Americans",
       "url": "https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
@@ -1929,18 +1941,6 @@
       "summary": "Ashley Kahn and I talk about his new book celebrating the 40th anniversary of Paul Simon’s Graceland",
       "publishedAt": "2026-09-20T13:30:56.000Z",
       "articleId": "6350418bd60e05f6"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/how-we-can-beat-china",
-      "title": "How we can beat China",
-      "url": "https://www.noahpinion.blog/p/how-we-can-beat-china",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The trick is to let them beat themselves.",
-      "publishedAt": "2026-09-20T09:51:30.000Z",
-      "articleId": "3e898c2057b3377b"
     }
   ],
   "weather": null,
@@ -2038,10 +2038,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
@@ -2063,7 +2063,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
