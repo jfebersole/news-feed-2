@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-19T21:00:56.189Z",
-  "fetchedAt": "2026-10-19T21:00:56.186Z",
+  "generatedAt": "2026-10-20T00:17:09.721Z",
+  "fetchedAt": "2026-10-20T00:17:09.718Z",
   "sourceCount": 25,
-  "itemCount": 174,
-  "totalItemCount": 794,
+  "itemCount": 173,
+  "totalItemCount": 788,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/housing-is-on-the-ballot",
+      "title": "Housing is on the ballot",
+      "url": "https://www.slowboring.com/p/housing-is-on-the-ballot",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Rates don’t look like they’re coming down any time soon. Can ballot measures across the country make housing more affordable for renters and homebuyers?",
+      "publishedAt": "2026-10-19T22:01:56.000Z",
+      "articleId": "18b25e5a8d16eeef"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
       "title": "Is Brock Purdy the NFL’s best quarterback?",
@@ -114,6 +126,18 @@
       "summary": "Why did the Giants lose to the Saints? It's simple, John Harbaugh said. “We've got so many stretches where we're not playing good football.\"",
       "publishedAt": "2026-10-19T09:22:43.000Z",
       "articleId": "f4f70df31975da2c"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-indiana-pacers-lost-a-season",
+      "title": "The Indiana Pacers Lost a Season. Did They Lose Their Moment?",
+      "url": "https://neilpaine.substack.com/p/the-indiana-pacers-lost-a-season",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Or, can you take a “championship gap year” before you win a championship?",
+      "publishedAt": "2026-10-19T09:00:53.000Z",
+      "articleId": "d1bf0fa0b16281bb"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
@@ -275,17 +299,6 @@
       "articleId": "ba61705babd6d17a"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-october-12-16-2026",
-      "title": "The Week That Was (October 12-16, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-october-12-16-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-10-17T09:02:05.000Z",
-      "articleId": "2f88d05fa9f214e3"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2",
       "title": "Solving for the equilibrium?",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html",
@@ -440,17 +453,6 @@
       "summary": "...",
       "publishedAt": "2026-10-16T04:04:26.000Z",
       "articleId": "efb94ba47d7aaa76"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-dodgers-broke-our-baseball-brains",
-      "title": "The Dodgers Broke Our Baseball Brains",
-      "url": "https://neilpaine.substack.com/p/the-dodgers-broke-our-baseball-brains",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Or, a diary of three seasons spent trying to make sense of the Dodgers — and sometimes forgetting how baseball works.",
-      "publishedAt": "2026-10-16T03:26:25.000Z",
-      "articleId": "7e714d95d992dbde"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
@@ -1072,18 +1074,6 @@
       "summary": "In 1960, a team at the University of Illinois released the first version of their PLATO “computerized instruction system,” a network of what would eventually be thousands of computer terminals connected to large mainframe computers.",
       "publishedAt": "2026-10-08T12:02:36.000Z",
       "articleId": "d7eedeb43129023b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/an-honest-framework-for-assessing",
-      "title": "An honest framework for assessing electoral performance",
-      "url": "https://www.slowboring.com/p/an-honest-framework-for-assessing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Spot tomorrow’s post-election bullshit today",
-      "publishedAt": "2026-10-08T10:05:06.000Z",
-      "articleId": "7afc58977118e413"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
@@ -2008,10 +1998,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "fallback-cache",
+      "itemCount": 5,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "One Useful Thing",
@@ -2048,10 +2038,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 2,
+      "mode": "rss-proxy",
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
