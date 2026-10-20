@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-20T16:55:15.615Z",
-  "fetchedAt": "2026-10-20T16:55:15.612Z",
+  "generatedAt": "2026-10-20T20:32:40.924Z",
+  "fetchedAt": "2026-10-20T20:32:40.920Z",
   "sourceCount": 25,
-  "itemCount": 177,
-  "totalItemCount": 794,
+  "itemCount": 179,
+  "totalItemCount": 804,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines",
+      "title": "Saving for the machines",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Jesús Fernández-Villaverde: When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital supply governs the size of the growth boom associated with automation, […]",
+      "publishedAt": "2026-10-20T18:38:49.000Z",
+      "articleId": "f74f8a922d8e8e27"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k7ib7x5etdhq52u8fit9n3zg03arp79uv240wwuo.html",
+      "title": "Money Stuff: Someone Has to Take the AI Risk",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k7ib7x5etdhq52u8fit9n3zg03arp79uv240wwuo.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "AI CDS My basic model of the data-center stuff is that there’s a kajillion dollars of systematic data-center credit risk, and someone has to own it. Or in more words: Companies are borrowing a kajillion dollars to build data centers for artificial intelligence. The loans will get paid out of cash flows from renting the data centers to AI companies. Therefore, the loans will get paid back if AI companies have a kajillion dollars of revenue over the next few decades, and if they need all those chips in all those data centers to earn that revenue. [1] If AI revenue is lower than expected, if demand for chips is lower than expected, or if chips become obsolete faster than expected, that’s bad for the data-center loans. This risk is basically all systematic, not idiosyncratic. You might lend money to one particular data-center owner (a neocloud, a hyperscaler) that leases its data center to one particular AI-business tenant (an AI lab, a hyperscaler), and you might care about the underlying credit profile of the owner or the tenant, but it doesn’t matter so much as long as there’s a real data center filled with real AI chips. If AI takes off, revenue is high and chips are in demand, but your data center’s tenant falls behind and goes bankrupt, that’s fine: The owner will lease the data center to some other AI company and never miss a payment. If the data center’s owner goes bankrupt for its own idiosyncratic reasons, again, fine: These loans are largely property-level loans against the data center, and someone will buy the data center as long as data centers are in demand. [2] (If it goes bankrupt before building the data center , that’s maybe worse.) But there is systematic risk: If the market for data centers in 2032 is softer than expected, the data-center loans aren’t getting paid back. “Ah but my loan is backed by an investment grade hyperscaler so it will get paid back even if the AI boom is a bust,” you say , but really? All the investment-grade hyperscalers are betting a lot of money on the AI boom; in a bust scenario, are they all still investment grade? Therefore, investors will own a kajillion dollars of loans that either will all get paid off, if the AI boom goes as expected, or will all be in bad trouble, if not. Many of those investors — not, like, Leopold Aschenbrenner , but many of them — will want some sort of insurance against that giant systematic risk. “Hmm,” they think. “My whole portfolio has this big systematic bet on the AI boom . That is risky. I’d like to buy some insurance against the risk that it will go poorly.” Lots of people want lots of things, though. Who is going to sell them that insurance? Like, five years ago, the world did not own very much AI data-center risk, so if for some reason you wanted insurance against AI...",
+      "publishedAt": "2026-10-20T18:32:52.683Z",
+      "articleId": "66efac22dc8ab48c"
+    },
     {
       "id": "One Useful Thing:https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
       "title": "30 Months on the Exponential (in Charts)",
@@ -39,6 +61,17 @@
       "articleId": "28fce9a50defbacf"
     },
     {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/democracy-in-america",
+      "title": "Democracy in America",
+      "url": "https://walkingtheworld.substack.com/p/democracy-in-america",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "A review of Volume one of de Tocqueville’s famous work",
+      "publishedAt": "2026-10-20T14:09:26.000Z",
+      "articleId": "7b6bd6ca8a6c47b3"
+    },
+    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/not-that-guy-an-album-a-day",
       "title": "Not That Guy: An Album a Day",
       "url": "https://www.cantgetmuchhigher.com/p/not-that-guy-an-album-a-day",
@@ -59,6 +92,18 @@
       "summary": "Tyler Cowen tries the world’s third best Italian food",
       "publishedAt": "2026-10-20T13:21:04.000Z",
       "articleId": "38276d152b4cd4f3"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-5",
+      "title": "NBA League Pass Rankings, Part 5",
+      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-5",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The best of the best",
+      "publishedAt": "2026-10-20T12:56:20.000Z",
+      "articleId": "7f2336118f4ef2fd"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7706840/2026/10/20/new-york-giants-j-j-mccarthy-saints-starter/",
@@ -93,6 +138,18 @@
       "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
       "publishedAt": "2026-10-20T10:00:00.000Z",
       "articleId": "f691b33b16339eed"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-eagles-are-often-saved-by-their",
+      "title": "The Eagles Are Often Saved by Their Backup QBs. Probably Not This Time.",
+      "url": "https://neilpaine.substack.com/p/the-eagles-are-often-saved-by-their",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "From Jeff Garcia to Nick Foles, Philly understudies have repeatedly rescued lost seasons. But Tanner McKee faces a much tougher assignment.",
+      "publishedAt": "2026-10-20T09:02:48.000Z",
+      "articleId": "ce0beed3928f684a"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade",
@@ -195,6 +252,18 @@
       "articleId": "ddec4386daa91412"
     },
     {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-4",
+      "title": "NBA League Pass Rankings: Part 4",
+      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-4",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The good, the grimy, and the gorgeous",
+      "publishedAt": "2026-10-19T13:31:47.000Z",
+      "articleId": "528dac807d3afb4e"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html?utm_source=rss&utm_medium=rss&utm_campaign=no-datacenters-are-not-crowding-out-other-investments",
       "title": "No, DataCenters are Not Crowding-Out Other Investments",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html",
@@ -237,18 +306,6 @@
       "summary": "Why did the Giants lose to the Saints? It's simple, John Harbaugh said. “We've got so many stretches where we're not playing good football.\"",
       "publishedAt": "2026-10-19T09:22:43.000Z",
       "articleId": "f4f70df31975da2c"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-indiana-pacers-lost-a-season",
-      "title": "The Indiana Pacers Lost a Season. Did They Lose Their Moment?",
-      "url": "https://neilpaine.substack.com/p/the-indiana-pacers-lost-a-season",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Or, can you take a “championship gap year” before you win a championship?",
-      "publishedAt": "2026-10-19T09:00:53.000Z",
-      "articleId": "d1bf0fa0b16281bb"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
@@ -452,17 +509,6 @@
       "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
       "publishedAt": "2026-10-16T17:42:42.000Z",
       "articleId": "fd28bb513aca5fee"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite “get it”…? Here is some exposition. 3. “90% of Americans’ working hours are spent on tasks not covered well by AI benchmarks. That’s our best guess from a new project mapping frontier benchmarks […]",
-      "publishedAt": "2026-10-16T16:42:18.000Z",
-      "articleId": "bf076983a2e3d952"
     },
     {
       "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-3",
@@ -1062,17 +1108,6 @@
       "summary": "...",
       "publishedAt": "2026-10-08T22:00:52.000Z",
       "articleId": "27d7f467d255b75e"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bxeb9rcugqiv9jljrv2oav7gdkb357fti8sn70y8.html",
-      "title": "Money Stuff: Pre-IPO Perpetual Futures Swap ETF",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/bxeb9rcugqiv9jljrv2oav7gdkb357fti8sn70y8.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Money Stuff MANGOS, prime, longshots, buffet. MANGOS What is the best way to get economic exposure to Anthropic stock right now? There are bad answers ( expensive SPVs , fake SPVs ). Here are two arguably good answers: Just own Anthropic stock. Own perpetual futures on Anthropic stock on Hyperliquid. The first answer is pretty self-explanatory. Anthropic has stock, and people own it, and owning it gives you economic exposure to Anthropic stock. There are problems. Not just anyone can own Anthropic stock. It is a private company, and its shares do not trade on an exchange. You more or less need to get the stock from Anthropic , so this approach requires you to be an employee or a venture capital investor in one of its funding rounds or an effective altruist hedge fund manager . For most of us, that rules out this approach entirely. But there is another problem, even if you can get the stock. The other problem is that Anthropic stock is fairly illiquid. [1] You can’t easily sell it, until it goes public. Owning the stock gives you economic exposure to the stock, but you don’t get to decide how long you keep that exposure. And you don’t really know its price . So you do have economic exposure to the stock — if it goes up, your stock is worth more — but you don’t necessarily know how much. The second answer is weirder. Hyperliquid Labs runs a leading platform for trading perpetual futures contracts. Traditionally perpetual futures are a crypto thing, a way to make levered bets on cryptocurrencies, they have expanded into stocks and commodities. Kalshi launched an S&P 500 futures contract and is working on perpetual futures for individual stocks. Perpetual futures contracts are basically bets on prices: One person goes long, one person goes short, the short pays the long if the stock goes up, and the long pays the short if it goes down. A perpetual futures contract on an individual public stock is just a levered bet on that stock, and by arbitrage it will closely track the price of the underlying stock. If SpaceX stock trades at $167.60, and SpaceX perpetual futures trade at $165, arbitrageurs will buy the futures and sell the stock until the prices are in line, etc. [2] But perpetual futures on private stock have no arbitrage mechanism to make the price correct. If Anthropic perpetual futures trade at $120, while Anthropic’s stock is at $100, arbitrageurs cannot sell the futures and buy the stock until the prices converge: They can sell the futures, but they can’t buy the stock. [3] Also, how do you even know that “Anthropic’s stock is at $100”? Anthropic doesn’t trade liquidly or publicly, so you don’t know its price from minute to minute, the way you know the price of the futures. [4] Also, these perps are pretty obviously illegal in the US: Under US...",
-      "publishedAt": "2026-10-08T19:23:13.004Z",
-      "articleId": "f3dd3ad00778543a"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html",
@@ -1973,17 +2008,6 @@
       "summary": "The hype will soar off the charts if the Giants improve to 2-0 with a win over the Super Bowl favorite Los Angeles Rams on Monday night.",
       "publishedAt": "2026-09-21T09:30:54.000Z",
       "articleId": "bc64e6ff0debcafe"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7613893/2026/09/20/ernie-accorsi-ny-giants-obituary/",
-      "title": "Ernie Accorsi, former Giants GM who traded for Eli Manning, dies at 84",
-      "url": "https://www.nytimes.com/athletic/7613893/2026/09/20/ernie-accorsi-ny-giants-obituary/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Accorsi led the franchise to two NFC East division titles, four postseason berths and a trip to Super Bowl XXXV during his nine-year tenure.",
-      "publishedAt": "2026-09-20T17:02:07.000Z",
-      "articleId": "e3f8481ee3c4d8bc"
     }
   ],
   "weather": null,
@@ -2033,10 +2057,10 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 2,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Scott Sumner",
@@ -2073,18 +2097,18 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 4,
+      "mode": "rss-proxy",
+      "itemCount": 6,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
