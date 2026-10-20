@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-20T20:32:40.924Z",
-  "fetchedAt": "2026-10-20T20:32:40.920Z",
+  "generatedAt": "2026-10-20T23:49:33.989Z",
+  "fetchedAt": "2026-10-20T23:49:33.986Z",
   "sourceCount": 25,
-  "itemCount": 179,
-  "totalItemCount": 804,
+  "itemCount": 180,
+  "totalItemCount": 805,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
+      "title": "My pet peeve about the polling error debate",
+      "url": "https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Polling error is hard to predict when pollsters are constantly tinkering with the recipe.",
+      "publishedAt": "2026-10-20T22:44:56.000Z",
+      "articleId": "53afc50642965a5b"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-against-handover",
+      "title": "Against Against Handover",
+      "url": "https://www.astralcodexten.com/p/against-against-handover",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-10-20T20:32:59.000Z",
+      "articleId": "a4d474d8b6e16976"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines",
       "title": "Saving for the machines",
@@ -67,7 +90,7 @@
       "source": "Walking the World",
       "sourceUrl": "https://walkingtheworld.substack.com/",
       "access": "open",
-      "summary": "A review of Volume one of de Tocqueville’s famous work",
+      "summary": "A review of Volume one of de Tocqueville’s famous work -- It’s the culture stupid!",
       "publishedAt": "2026-10-20T14:09:26.000Z",
       "articleId": "7b6bd6ca8a6c47b3"
     },
@@ -1076,18 +1099,6 @@
       "articleId": "7d23f6049152e801"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-dream-of-blue-texas",
-      "title": "The dream of Blue Texas",
-      "url": "https://www.slowboring.com/p/the-dream-of-blue-texas",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus my “Moby Dick” limited series and the problem with primaries",
-      "publishedAt": "2026-10-09T10:02:08.000Z",
-      "articleId": "6350cbad1ee04fe6"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/maybe-the-rapture-is-already-here",
       "title": "Maybe the Rapture is already here",
       "url": "https://www.noahpinion.blog/p/maybe-the-rapture-is-already-here",
@@ -2034,7 +2045,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2114,7 +2125,7 @@
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 10,
+      "itemCount": 11,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
@@ -2130,7 +2141,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
