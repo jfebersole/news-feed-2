@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-10-20T11:27:48.994Z",
-  "fetchedAt": "2026-10-20T11:27:48.989Z",
+  "generatedAt": "2026-10-20T16:55:15.615Z",
+  "fetchedAt": "2026-10-20T16:55:15.612Z",
   "sourceCount": 25,
-  "itemCount": 173,
-  "totalItemCount": 789,
+  "itemCount": 177,
+  "totalItemCount": 794,
   "items": [
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "title": "30 Months on the Exponential (in Charts)",
+      "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "My new book is out today... what happened since the last one",
+      "publishedAt": "2026-10-20T15:57:59.000Z",
+      "articleId": "dd8a8739a45d4ff8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Freddie as AI skeptic (and I have given my predictions in fact). 2. Claims about Shakespeare and Marlowe. 3. How did “artificial intelligence” get its name? 4. How is the econ job market this year? 5. AI can now ace econometric coding. 6. The quasi-Riemann proof is becoming intelligible pretty quickly. And new associated […]",
+      "publishedAt": "2026-10-20T15:56:57.000Z",
+      "articleId": "46206a328cfa94d5"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7707821/2026/10/20/new-york-giants-najee-harris-released-cam-skattebo/",
+      "title": "Giants release Najee Harris 2 days after RB started against Saints",
+      "url": "https://www.nytimes.com/athletic/7707821/2026/10/20/new-york-giants-najee-harris-released-cam-skattebo/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Harris expressed frustration with the Giants' running back rotation following Sunday's loss.",
+      "publishedAt": "2026-10-20T15:33:18.000Z",
+      "articleId": "28fce9a50defbacf"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/not-that-guy-an-album-a-day",
+      "title": "Not That Guy: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/not-that-guy-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring James Taylor, Ray Charles, Oasis, and others",
+      "publishedAt": "2026-10-20T13:31:31.000Z",
+      "articleId": "d454efbcff4cf734"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/the-case-for-brazil",
+      "title": "Come to Brazil",
+      "url": "https://www.worksinprogress.news/p/the-case-for-brazil",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Tyler Cowen tries the world’s third best Italian food",
+      "publishedAt": "2026-10-20T13:21:04.000Z",
+      "articleId": "38276d152b4cd4f3"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7706840/2026/10/20/new-york-giants-j-j-mccarthy-saints-starter/",
+      "title": "Were Giants QB J.J. McCarthy's late-game heroics real or a product of 'desperation time'?",
+      "url": "https://www.nytimes.com/athletic/7706840/2026/10/20/new-york-giants-j-j-mccarthy-saints-starter/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Entering a game trailing by 24 points removed some pressure from McCarthy, who saw a lot of soft coverages and few blitzes from the Saints.",
+      "publishedAt": "2026-10-20T11:48:05.000Z",
+      "articleId": "3641e9bb6b1bc3f6"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/our-culture-is-way-too-eager-to-embrace",
       "title": "Our culture is way too eager to embrace deception",
@@ -420,17 +486,6 @@
       "summary": "A pricey kitchen stove left Charles C Mann with a question: what on earth is Dekton?",
       "publishedAt": "2026-10-16T13:21:17.000Z",
       "articleId": "21e08c89b6765ef3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany",
-      "title": "India has more Restrictive Labor Law than Germany",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In Premature Imitation and India’s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity–this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more amazing, however, is when a country like India […]",
-      "publishedAt": "2026-10-16T11:20:31.000Z",
-      "articleId": "ffc67d93c2928af5"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-lost-wisdom-of-the-old-moderates",
@@ -1929,18 +1984,6 @@
       "summary": "Accorsi led the franchise to two NFC East division titles, four postseason berths and a trip to Super Bowl XXXV during his nine-year tenure.",
       "publishedAt": "2026-09-20T17:02:07.000Z",
       "articleId": "e3f8481ee3c4d8bc"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/going-to-graceland-a-conversation",
-      "title": "Going to Graceland: A Conversation with Ashley Kahn",
-      "url": "https://www.cantgetmuchhigher.com/p/going-to-graceland-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Ashley Kahn and I talk about his new book celebrating the 40th anniversary of Paul Simon’s Graceland",
-      "publishedAt": "2026-09-20T13:30:56.000Z",
-      "articleId": "6350418bd60e05f6"
     }
   ],
   "weather": null,
@@ -1998,10 +2041,10 @@
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 5,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "One Useful Thing",
@@ -2038,10 +2081,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
