@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-21T10:03:54.727Z",
-  "fetchedAt": "2026-10-21T10:03:54.721Z",
+  "generatedAt": "2026-10-21T15:11:52.696Z",
+  "fetchedAt": "2026-10-21T15:11:52.688Z",
   "sourceCount": 25,
   "itemCount": 181,
-  "totalItemCount": 806,
+  "totalItemCount": 807,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/americans-need-to-get-out-of-the",
+      "title": "Americans need to get out of the house",
+      "url": "https://www.slowboring.com/p/americans-need-to-get-out-of-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "I’m way more online than I should be, and you probably are too.",
+      "publishedAt": "2026-10-21T10:02:24.000Z",
+      "articleId": "992162e3904a737f"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
       "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
@@ -825,7 +837,7 @@
       "source": "Works in Progress",
       "sourceUrl": "https://www.worksinprogress.news/",
       "access": "open",
-      "summary": "It’s secret is its cities, not central planning",
+      "summary": "Its secret is its cities, not central planning",
       "publishedAt": "2026-10-14T12:41:38.000Z",
       "articleId": "c23b9b9adce2dfce"
     },
@@ -2021,17 +2033,6 @@
       "summary": "I am a “heritage American,” too. How should that guide my life?",
       "publishedAt": "2026-09-21T16:38:02.000Z",
       "articleId": "445c7e1dff1a64e0"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-arab-armies-dont-win-wars",
-      "title": "Why Arab armies don’t win wars",
-      "url": "https://www.worksinprogress.news/p/why-arab-armies-dont-win-wars",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Alex Chalmers reviews Armies of Sand by Kenneth Pollack.",
-      "publishedAt": "2026-09-21T13:26:44.000Z",
-      "articleId": "d64504f2661af517"
     }
   ],
   "weather": null,
@@ -2154,7 +2155,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
