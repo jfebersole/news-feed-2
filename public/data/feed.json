@@ -1,10 +1,67 @@
 {
-  "generatedAt": "2026-10-21T04:36:26.156Z",
-  "fetchedAt": "2026-10-21T04:36:26.151Z",
+  "generatedAt": "2026-10-21T10:03:54.727Z",
+  "fetchedAt": "2026-10-21T10:03:54.721Z",
   "sourceCount": 25,
-  "itemCount": 180,
-  "totalItemCount": 805,
+  "itemCount": 181,
+  "totalItemCount": 806,
   "items": [
+    {
+      "id": "Stratechery:https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+      "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+      "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+      "publishedAt": "2026-10-21T10:00:00.000Z",
+      "articleId": "c8a170de51e20202"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/screw-the-haters-brewers-rays-could",
+      "title": "Screw the Haters. Brewers-Rays Could Be an All-Time World Series.",
+      "url": "https://neilpaine.substack.com/p/screw-the-haters-brewers-rays-could",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Let the TV executives worry about the ratings. Both leagues’ best regular-season teams could give us a Series for the ages... if the games deliver the drama.",
+      "publishedAt": "2026-10-21T09:02:11.000Z",
+      "articleId": "a934618de3ccdaf4"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
+      "title": "“You Can See Everything” and the nature of liars",
+      "url": "https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A movie review, plus some thoughts on dishonesty, belief, and human communication.",
+      "publishedAt": "2026-10-21T08:45:19.000Z",
+      "articleId": "b232b5e666023866"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
+      "title": "One reason I do not love AI writing, or even AI-assisted writing",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […]",
+      "publishedAt": "2026-10-21T06:20:34.000Z",
+      "articleId": "39ea20dad2e0c691"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation",
+      "title": "The Causal Effect of Foreign Ideas on U.S. Innovation",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Globalization is once again better than many people realize: We study the role of foreign ideas in U.S. innovation by constructing a directed “genealogy” of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the founding patents of new ones, we recover a […]",
+      "publishedAt": "2026-10-21T05:00:58.000Z",
+      "articleId": "9083083063077bbb"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
       "title": "My pet peeve about the polling error debate",
@@ -488,28 +545,6 @@
       "summary": "Icon’s fundraising, employment in China’s solar industry, grid-scale battery reliability, Tesla’s flying roadster, and more.",
       "publishedAt": "2026-10-17T12:03:37.000Z",
       "articleId": "ba61705babd6d17a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2",
-      "title": "Solving for the equilibrium?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Sixteen AI agents were each ha‍nded 1,000 satoshi⁠s of real b‌itcoin and told nothing about how to use​ it. A hund‍red rounds l‌at‍er⁠, four of them had roughly doubled⁠ th‍eir money, tw‍o h‌a‍d​ been wiped out, and the‍ three richest a​gents held more than half‍ of all the bitco‌in in the room.⁠ Nobody wrote a […]",
-      "publishedAt": "2026-10-17T07:34:21.000Z",
-      "articleId": "ab12e883b4f01180"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf",
-      "title": "New Matt Faherty study of the NSF",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From the Executive Summary: Therefore, the NSF, NIH, and the federal government should put far more resources and effort into developing metascience. With proper metascience efforts, the NSF could run experiments on science funding reform proposals, such as shifting to a people-over-projects funding model or directly funding replication efforts, and determine which reforms will most […]",
-      "publishedAt": "2026-10-17T04:55:57.000Z",
-      "articleId": "a13189fb380d60b0"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-storm-of-steel",
@@ -1321,17 +1356,6 @@
       "articleId": "c024df2b6f5412cf"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
-      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
-      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
-      "publishedAt": "2026-10-06T10:07:36.000Z",
-      "articleId": "947d7758346116e8"
-    },
-    {
       "id": "Understanding AI:https://www.understandingai.org/p/introducing-dan-kagan-kans",
       "title": "Introducing Dan Kagan-Kans",
       "url": "https://www.understandingai.org/p/introducing-dan-kagan-kans",
@@ -2008,17 +2032,6 @@
       "summary": "Alex Chalmers reviews Armies of Sand by Kenneth Pollack.",
       "publishedAt": "2026-09-21T13:26:44.000Z",
       "articleId": "d64504f2661af517"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7611622/2026/09/21/new-york-giants-rams-monday-night-football-jaxson-dart/",
-      "title": "Are Giants for real? New York has prime chance to prove they're legit vs. Rams",
-      "url": "https://www.nytimes.com/athletic/7611622/2026/09/21/new-york-giants-rams-monday-night-football-jaxson-dart/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The hype will soar off the charts if the Giants improve to 2-0 with a win over the Super Bowl favorite Los Angeles Rams on Monday night.",
-      "publishedAt": "2026-09-21T09:30:54.000Z",
-      "articleId": "bc64e6ff0debcafe"
     }
   ],
   "weather": null,
@@ -2117,7 +2130,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
