@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-10-22T10:05:26.360Z",
-  "fetchedAt": "2026-10-22T10:05:26.356Z",
+  "generatedAt": "2026-10-22T15:14:46.740Z",
+  "fetchedAt": "2026-10-22T15:14:46.735Z",
   "sourceCount": 25,
-  "itemCount": 180,
-  "totalItemCount": 808,
+  "itemCount": 179,
+  "totalItemCount": 798,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
+      "title": "Russia Was Losing. Enter President Trump.",
+      "url": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The commander in chief is Putin’s ace in the hole.",
+      "publishedAt": "2026-10-22T14:34:15.000Z",
+      "articleId": "48ce0ccd34ed89dd"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "title": "Impeachment. It’s Not Just for Presidents.",
+      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
+      "publishedAt": "2026-10-22T14:08:38.000Z",
+      "articleId": "66b4f1b2497cd737"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/roman-love",
+      "title": "Roman love",
+      "url": "https://www.worksinprogress.news/p/roman-love",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Samuel Hughes reviews From Shame to Sin by Kyle Harper",
+      "publishedAt": "2026-10-22T13:20:29.000Z",
+      "articleId": "ef33904c09d2448f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3",
+      "title": "Modern Principles of Economics!",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "If you are teaching economics Modern Principles is the book to use! Great and original writing, over one hundred videos, iClicker, Achieve and lots of additional support. Contact Mike Krotine to get an examination copy. https://alextabarrok.com/video/modern-principles.mp4",
+      "publishedAt": "2026-10-22T11:18:12.000Z",
+      "articleId": "52ea89bc00977ebb"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7712677/2026/10/22/jj-mccarthy-new-york-giants-starter-texans/",
+      "title": "Why the Giants felt compelled to turn to J.J. McCarthy now",
+      "url": "https://www.nytimes.com/athletic/7712677/2026/10/22/jj-mccarthy-new-york-giants-starter-texans/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "That McCarthy is starting less than four weeks after arriving in New York isn’t a surprise. And this isn’t a decision made lightly.",
+      "publishedAt": "2026-10-22T10:30:53.000Z",
+      "articleId": "59a5ee35627d1440"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-can",
       "title": "“The Argument” podcast, ad free: Can Congress finally pass permitting reform?",
@@ -38,17 +94,6 @@
       "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
       "publishedAt": "2026-10-22T10:00:00.000Z",
       "articleId": "271b7ab26b21c588"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "title": "Impeachment. It’s Not Just for Presidents.",
-      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
-      "publishedAt": "2026-10-22T09:04:39.000Z",
-      "articleId": "66b4f1b2497cd737"
     },
     {
       "id": "Neil Paine:https://neilpaine.substack.com/p/where-do-the-rams-fit-in-the-nfls",
@@ -439,7 +484,8 @@
       "url": "https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
       "source": "Silver Bulletin",
       "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "“Mr. Irrelevant” has the NFL’s highest QBERT rating so far this season. It’s time to stop holding his draft position against him.",
       "publishedAt": "2026-10-19T20:45:41.000Z",
       "articleId": "1e8242f4469bf267"
@@ -576,17 +622,6 @@
       "summary": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […]",
       "publishedAt": "2026-10-19T04:29:27.000Z",
       "articleId": "aa341caaaaf2f4db"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers",
-      "title": "*You Can See Everything* (no spoilers)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "An excellent and also original movie, you all should see it. There are different interpretations, but I read it as a story between two autistic people, and the bond they have but also the great difficulties they have in understanding each other, because they are so very different. I am not saying that is what […]",
-      "publishedAt": "2026-10-18T22:03:02.000Z",
-      "articleId": "3fc80e2bd16580f4"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7701950/2026/10/18/saints-giants-nfl-week-6-result-takeaways/",
@@ -759,17 +794,6 @@
       "summary": "...",
       "publishedAt": "2026-10-16T04:04:26.000Z",
       "articleId": "efb94ba47d7aaa76"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
-      "title": "Russia Was Losing. Enter President Trump.",
-      "url": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-diesel-ukraine.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The commander in chief is Putin’s ace in the hole.",
-      "publishedAt": "2026-10-15T22:58:59.000Z",
-      "articleId": "48ce0ccd34ed89dd"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/welcome-to-midterm-silly-season",
@@ -1284,7 +1308,8 @@
       "url": "https://www.natesilver.net/p/the-lefts-fortunes-have-been-rising",
       "source": "Silver Bulletin",
       "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
+      "access": "paywalled",
+      "paywallType": "partial",
       "summary": "Still Counting EP5 is out! Here’s why I chose Ocasio-Cortez in our 2028 Democratic primary draft.",
       "publishedAt": "2026-10-08T13:48:12.000Z",
       "articleId": "35c3eff18bded9cc"
@@ -1989,39 +2014,6 @@
       "summary": "The 23-year-old Dart was forced to leave Monday night’s loss to the Rams after being jackknifed by a pair of Rams defenders.",
       "publishedAt": "2026-09-22T18:57:33.000Z",
       "articleId": "247af54285f89404"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/random-rolling-stone-an-album-a-day",
-      "title": "Random Rolling Stone: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/random-rolling-stone-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Tom Petty, Diana Ross, New Order, and others",
-      "publishedAt": "2026-09-22T13:30:51.000Z",
-      "articleId": "a7272b410ace629c"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7619394/2026/09/22/giants-extremes-loss-rams-monday-night-football/",
-      "title": "The Giants' major questions run deeper than injuries after blowout loss to Rams",
-      "url": "https://www.nytimes.com/athletic/7619394/2026/09/22/giants-extremes-loss-rams-monday-night-football/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "It didn't take long Monday night for the good vibes from the Giants' win over the Cowboys in Week 1 to disappear.",
-      "publishedAt": "2026-09-22T11:30:39.000Z",
-      "articleId": "f58cbdae524622cd"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/all-the-microbes-you-cant-have",
-      "title": "The 1970s law holding back modern biotechnology",
-      "url": "https://www.worksinprogress.news/p/all-the-microbes-you-cant-have",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "We’ve invented microbes that can eat plastic, detect landmines, and extract rare metals. They’ve been swallowed by a black hole.",
-      "publishedAt": "2026-09-22T11:05:09.000Z",
-      "articleId": "baadcb6778541e7a"
     }
   ],
   "weather": null,
@@ -2039,10 +2031,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
