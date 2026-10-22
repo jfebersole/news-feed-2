@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-10-22T04:35:03.218Z",
-  "fetchedAt": "2026-10-22T04:35:03.214Z",
+  "generatedAt": "2026-10-22T10:05:26.360Z",
+  "fetchedAt": "2026-10-22T10:05:26.356Z",
   "sourceCount": 25,
-  "itemCount": 178,
-  "totalItemCount": 807,
+  "itemCount": 180,
+  "totalItemCount": 808,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-can",
+      "title": "“The Argument” podcast, ad free: Can Congress finally pass permitting reform?",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-can",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-10-22T10:03:25.000Z",
+      "articleId": "f5d5d35ca5360a4b"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/your-favorite-cause-is-not-the-civil",
+      "title": "Your favorite cause is not the civil rights movement and neither is mine",
+      "url": "https://www.slowboring.com/p/your-favorite-cause-is-not-the-civil",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "It doesn’t make a lot of sense to imitate an extreme outlier event.",
+      "publishedAt": "2026-10-22T10:02:56.000Z",
+      "articleId": "abc91e8a2728c06c"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
+      "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+      "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "articleId": "271b7ab26b21c588"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "title": "Impeachment. It’s Not Just for Presidents.",
+      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
+      "publishedAt": "2026-10-22T09:04:39.000Z",
+      "articleId": "66b4f1b2497cd737"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/where-do-the-rams-fit-in-the-nfls",
+      "title": "Where Do the Rams Fit in the NFL’s History of Superteam Cautionary Tales?",
+      "url": "https://neilpaine.substack.com/p/where-do-the-rams-fit-in-the-nfls",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Loading up on stars has helped teams win championships — including the Rams. But this year’s version shows how quickly an NFL “Superteam” can also run out of margin for error.",
+      "publishedAt": "2026-10-22T09:02:09.000Z",
+      "articleId": "379169e2be2f8d53"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/france-and-the-limits-of-liberalism",
+      "title": "France and the limits of liberalism",
+      "url": "https://www.noahpinion.blog/p/france-and-the-limits-of-liberalism",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Immigration, the welfare state, and Keynesian economics are all showing signs of strain.",
+      "publishedAt": "2026-10-22T08:04:41.000Z",
+      "articleId": "cbba52c5b060975e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai",
+      "title": "A simple point about the intertemporal regulation of AI",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "At some point AI will be more regulated than it is today. Furthermore, I believe that most parts of the American economy, once they are regulated, end up overregulated. Thus it is likely that the AI sector will, at some point, end up overregulated. Given that reality, perhaps the AI sector should be underregulated today. […]",
+      "publishedAt": "2026-10-22T07:12:46.000Z",
+      "articleId": "d577f45b3e0d62d0"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects",
+      "title": "Do mass shootings in universities lead to permanent effects?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those […]",
+      "publishedAt": "2026-10-22T04:42:11.000Z",
+      "articleId": "fa7531bad72aa69e"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/u5ww2jwzifo13tgf6u8pyk2qpnmos2ylrd11a7r1.html",
       "title": "Money Stuff: Obviously SpaceX and Tesla Will Merge",
@@ -522,17 +612,6 @@
       "articleId": "3f4cb33c67332665"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country",
-      "title": "*This Beautiful Country*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is Edward Cutler and the subtitle is How Italy’s Nature Shaped its Culture and Civilisation. This is an excellent book on how “the Italy you know” has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The book is good at […]",
-      "publishedAt": "2026-10-18T16:32:02.000Z",
-      "articleId": "ec810c2abf80b5f7"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-indie-rock-explosion-a-conversation",
       "title": "The Indie Rock Explosion: A Conversation with Chris DeVille",
       "url": "https://www.cantgetmuchhigher.com/p/the-indie-rock-explosion-a-conversation",
@@ -554,17 +633,6 @@
       "summary": "America’s New Right believes that savagery is the key to victory.",
       "publishedAt": "2026-10-18T06:34:00.000Z",
       "articleId": "472d31d546243da0"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637",
-      "title": "Our fascination with screens, demand curves slope downward installment #1637",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "What we find here is that the quality-adjusted screen time price index is down 39 per cent since 2000, but that change is overwhelmingly a function of improvements in quality, not declines in prices paid for devices, subscriptions and so on. So the steep rise in screen time over the past 20 years has led […]",
-      "publishedAt": "2026-10-18T06:28:18.000Z",
-      "articleId": "752e71a6eb70df26"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
@@ -1009,17 +1077,6 @@
       "articleId": "377fa5b7473e9df8"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/live-your-values-and-adopt-values",
-      "title": "Live your values, and adopt values to live by",
-      "url": "https://www.slowboring.com/p/live-your-values-and-adopt-values",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Participate in public institutions and support making them pleasant and workable",
-      "publishedAt": "2026-10-12T10:02:15.000Z",
-      "articleId": "f3e414f0d753db2e"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
       "title": "Not sure how to feel after Giants escaped with a tie vs. Commanders? You're not alone",
       "url": "https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
@@ -1051,18 +1108,6 @@
       "summary": "Jayden Daniels scored twice, Jameis Winston rallied New York to OT, Cam Skattebo fumbled and Washington couldn't stop the clock at the end.",
       "publishedAt": "2026-10-11T21:00:08.000Z",
       "articleId": "c533ae3be96fe63d"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-6f6",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-6f6",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-10-11T17:01:09.000Z",
-      "articleId": "af6996e088150e81"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/heres-how-the-future-of-ai-and-music",
@@ -1266,17 +1311,6 @@
       "summary": "In 1960, a team at the University of Illinois released the first version of their PLATO “computerized instruction system,” a network of what would eventually be thousands of computer terminals connected to large mainframe computers.",
       "publishedAt": "2026-10-08T12:02:36.000Z",
       "articleId": "d7eedeb43129023b"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
-      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
-      "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "articleId": "8dfee69b67d0756e"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/top-forecasters-on-the-plague",
@@ -1988,17 +2022,6 @@
       "summary": "We’ve invented microbes that can eat plastic, detect landmines, and extract rare metals. They’ve been swallowed by a black hole.",
       "publishedAt": "2026-09-22T11:05:09.000Z",
       "articleId": "baadcb6778541e7a"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
-      "title": "The problem(s) with utilitarianism",
-      "url": "https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Our favorite moral philosophy is about to come under increasing strain.",
-      "publishedAt": "2026-09-22T08:53:46.000Z",
-      "articleId": "b2084f5e6d105206"
     }
   ],
   "weather": null,
@@ -2096,10 +2119,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss-proxy",
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
