@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-22T20:01:28.920Z",
-  "fetchedAt": "2026-10-22T20:01:28.917Z",
+  "generatedAt": "2026-10-22T23:17:40.722Z",
+  "fetchedAt": "2026-10-22T23:17:40.717Z",
   "sourceCount": 25,
-  "itemCount": 179,
+  "itemCount": 178,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "title": "The Real Trump Tower",
+      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
+      "publishedAt": "2026-10-22T21:23:19.000Z",
+      "articleId": "66b4f1b2497cd737"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k0g6iwagydho9i4byc62gngygs132ewztoo5hajh.html",
+      "title": "Money Stuff: Zuckerberg Wants to Keep His Votes",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k0g6iwagydho9i4byc62gngygs132ewztoo5hajh.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Class C The basic deal is that if you found a company, and you want to raise money, you will probably have to give up some ownership of it. When the company is just you and an idea in your garage, you own the whole company. But if the company needs money to build factories or what have you, the people who give you the money will want something in return. Often what they will want is stock. If you hire employees, they will want stock. By the time your company is a big thriving public company, you might own only 10% or 20% of it. By that point, you might never again need to sell stock to raise money to do the company’s business. It’s thriving, it’s bringing in money, and if it is like the typical big US public company over the last few decades, particularly in the tech industry, it is bringing in more money than it needs to spend on growth. Until very recently , your company was more likely to be buying back stock than selling it. On the other hand, you might want money, for yourself. Maybe your yacht is getting a bit dingy, or you want to buy all the mansions around your mansion so no one can get too close to you. Probably you don’t have much liquid wealth other than the stock. So if you need a few hundred million dollars for yachts or mansions, the natural thing to do is to sell stock. But if you sell stock, you will own less of your company. You might, after founding the company and running it for many years and having your identity bound up with it, not like that. Well, tough. The thing that you have that has economic value is ownership of the company, and if you want to turn that into money you have to give up ownership. (Fine: You can borrow against your stock, which is not quite giving up ownership, though it creates some risk that you might have to.) There is a traditional compromise, which is that you give up some ownership but not control. Normally this is done with dual-class stock: Your shares get 10 votes per share, everyone else’s shares get 1 vote per share, so you end up with, perhaps, about 13% of the economic ownership of the company but about 60% of the votes. That way, you can pick the board of directors and run the company how you want, even while raising money — for yourself and for the company — from outside investors. If you sell some of your high-vote stock, it converts into low-vote stock, so you get money without giving up much control. You have to get your investors to agree to this, of course, and generally before you go public , but there is a long tradition of tech investors being fine with, and in fact liking , giving founders extra votes. This more or less works, most of the time. If you own 13% of the company, but your shares all have 10 votes and everyone else’s shares have 1 vote, then (1) you have about 60% of the...",
+      "publishedAt": "2026-10-22T20:52:37.095Z",
+      "articleId": "7d4fb3f535771ebe"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday",
       "title": "San Francisco Meetup This Saturday",
@@ -81,17 +103,6 @@
       "summary": "The commander in chief is Putin’s ace in the hole.",
       "publishedAt": "2026-10-22T14:34:15.000Z",
       "articleId": "48ce0ccd34ed89dd"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "title": "Impeachment. It’s Not Just for Presidents.",
-      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
-      "publishedAt": "2026-10-22T14:08:38.000Z",
-      "articleId": "66b4f1b2497cd737"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/roman-love",
@@ -1031,17 +1042,6 @@
       "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
       "publishedAt": "2026-10-14T10:00:00.000Z",
       "articleId": "190277f965bb8b29"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kl7hj2zbbntko2wft2bbi2svj53anrsqaj2buyym.html",
-      "title": "Money Stuff: They Found Some Walter Victims",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/kl7hj2zbbntko2wft2bbi2svj53anrsqaj2buyym.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "“No victims” The basic story of Mark Walter and TWG Global, his holding company, is that TWG owns some insurance companies, and those insurance companies would raise money by selling annuities to customers, and Walter would control how that money was invested, and he would lend some of the money to himself to buy sports teams. Insurance regulators have pretty strict rules about related-party transactions, for reasons that are obvious if you think for a minute about the phrase “lend some of the money to himself to buy sports teams.” When an insurance company is lending its boss money to buy sports teams , it is taking different and spicier credit risk than it would be if it were just buying normal bonds of unaffiliated companies. But TWG’s insurance companies would make a lot of those loans through third parties, which would then turn around and lend the money back to TWG’s businesses. And the insurance companies’ financial statements would not count those loans as related-party loans. Eventually federal prosecutors and insurance regulators started asking questions. “After receiving subpoenas, those insurers disclosed more than $20 billion of loans that should have been labeled as affiliated transactions, but weren’t .” Bad. At the same time, though, owning sports teams has been a lucrative business in recent years, and as far as I can tell it has all worked out great? TWG put out a statement in August saying so: Affiliated transactions should be properly disclosed, but to state that they “generally” have the potential to “loot” the insurer is untrue. The reality is that Group 1001 [ the TWG insurance group ] has invested in real assets that are performing well; the insurance companies have recognized significant income from the investments and no policyholders have lost money because of these transactions. The statement also said: “There is no victim here. No one has been harmed, and no one has claimed they were harmed.” I have pondered that claim a few times . It can’t quite be true. If the world had known the true level of the insurance companies’ affiliated transactions, then … something. Something. Like: Insurance regulators would have demanded that the insurance companies have more capital to offset the increased risk of all those affiliate transactions. Ratings agencies would have given the assets lower ratings, and the insurance companies would have responded by having higher capital to preserve their own financial-strength ratings. Ratings agencies would have given the insurance companies lower ratings, and they would have had to pay higher interest rates on the annuities they sold. Financial advisers would have read the disclosures, said “hmm this sounds risky,” and recommended that their customers look elsewhere for annuities, again...",
-      "publishedAt": "2026-10-14T04:15:52.969Z",
-      "articleId": "c26ee664fddb4952"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/will-republican-gerrymanders-become",
@@ -2002,17 +2002,6 @@
       "summary": "While Dart is out for the regular season, Giants coach John Harbaugh left the door open for the QB to return if NY makes the playoffs.",
       "publishedAt": "2026-09-23T16:52:26.000Z",
       "articleId": "41cbfe30270d1f7e"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7621149/2026/09/22/new-york-giants-jaxson-dart-knee-injury-lost-season/",
-      "title": "Jaxson Dart injury doesn’t just doom Giants’ season, it clouds their future, too",
-      "url": "https://www.nytimes.com/athletic/7621149/2026/09/22/new-york-giants-jaxson-dart-knee-injury-lost-season/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "New York challenged Dart to mature into a more complete QB. That the early returns were promising makes the injury even harder to swallow.",
-      "publishedAt": "2026-09-22T21:32:39.000Z",
-      "articleId": "22c3df748193a7e1"
     }
   ],
   "weather": null,
