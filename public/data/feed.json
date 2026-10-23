@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-23T19:08:13.434Z",
-  "fetchedAt": "2026-10-23T19:08:13.429Z",
+  "generatedAt": "2026-10-23T23:05:37.036Z",
+  "fetchedAt": "2026-10-23T23:05:37.032Z",
   "sourceCount": 25,
   "itemCount": 176,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "title": "The Real Trump Tower",
+      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
+      "publishedAt": "2026-10-23T21:52:12.000Z",
+      "articleId": "66b4f1b2497cd737"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/philadelphia-76ers-first-impression-lebron-james-jaylen-brown-tyrese-maxey",
+      "title": "What We’ve Learned From Our First Looks at the Sixers",
+      "url": "https://zachlowe.substack.com/p/philadelphia-76ers-first-impression-lebron-james-jaylen-brown-tyrese-maxey",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "And why “one ball” hasn't been—and shouldn’t be—a problem",
+      "publishedAt": "2026-10-23T18:52:38.000Z",
+      "articleId": "a545d43ea0b86af5"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/rml1zbo34rhu62h1q3qjkhm0owr7gnlwv8yve36r.html",
       "title": "New Merch Shop!",
@@ -139,17 +162,6 @@
       "summary": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Building the AI transformation will require enormous investment. The only way to induce agents to save for that investment […]",
       "publishedAt": "2026-10-23T04:51:50.000Z",
       "articleId": "56f49e00630c91d8"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "title": "The Real Trump Tower",
-      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
-      "publishedAt": "2026-10-22T21:23:19.000Z",
-      "articleId": "66b4f1b2497cd737"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k0g6iwagydho9i4byc62gngygs132ewztoo5hajh.html",
@@ -1970,17 +1982,6 @@
       "summary": "A guest post by Lars Doucet",
       "publishedAt": "2026-09-24T03:16:49.000Z",
       "articleId": "78ecb1011f970c45"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/wanna-bet",
-      "title": "Wanna bet?",
-      "url": "https://scottsumner.substack.com/p/wanna-bet",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "And do we even have a choice?",
-      "publishedAt": "2026-09-23T19:18:28.000Z",
-      "articleId": "958eb4a6ab599a36"
     }
   ],
   "weather": null,
@@ -2071,7 +2072,7 @@
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 6,
+      "itemCount": 7,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
     },
@@ -2167,7 +2168,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 7,
+      "itemCount": 6,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
