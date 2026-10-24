@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-24T12:38:16.879Z",
-  "fetchedAt": "2026-10-24T12:38:16.876Z",
+  "generatedAt": "2026-10-24T16:33:28.009Z",
+  "fetchedAt": "2026-10-24T16:33:28.006Z",
   "sourceCount": 25,
-  "itemCount": 175,
-  "totalItemCount": 808,
+  "itemCount": 176,
+  "totalItemCount": 809,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse",
+      "title": "Why are cybersecurity losses not worse?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here’s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in the online criminal economy, 90% of them in scam […]",
+      "publishedAt": "2026-10-24T15:57:10.000Z",
+      "articleId": "cc49291a0a79c8bc"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-polls-were-fake-but-the-results",
+      "title": "The polls were fake, but the results were real",
+      "url": "https://www.slowboring.com/p/the-polls-were-fake-but-the-results",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Fraudulent polls are just more evidence of social media’s corruption of democracy.",
+      "publishedAt": "2026-10-24T13:01:16.000Z",
+      "articleId": "54c66393dd2832a7"
+    },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-102426",
       "title": "Reading List 10/24/26",
@@ -16,6 +39,17 @@
       "summary": "Minimum lot sizes, Boeing’s next 737 MAX, Fervo short sellers, Figure AI’s training data, and more.",
       "publishedAt": "2026-10-24T12:01:24.000Z",
       "articleId": "47722f7757ac3b71"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-october-19-23-2026",
+      "title": "The Week That Was (October 19-23, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-october-19-23-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-10-24T09:00:45.000Z",
+      "articleId": "dfc30ac2f1881ca3"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf",
@@ -509,17 +543,6 @@
       "summary": "A movie review, plus some thoughts on dishonesty, belief, and human communication.",
       "publishedAt": "2026-10-21T08:45:19.000Z",
       "articleId": "b232b5e666023866"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
-      "title": "One reason I do not love AI writing, or even AI-assisted writing",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […]",
-      "publishedAt": "2026-10-21T06:20:34.000Z",
-      "articleId": "39ea20dad2e0c691"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
@@ -1122,18 +1145,6 @@
       "summary": "Its secret is its cities, not central planning",
       "publishedAt": "2026-10-14T12:41:38.000Z",
       "articleId": "c23b9b9adce2dfce"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-right-wing-obsession-with-the",
-      "title": "The right-wing obsession with “The Indian Question”",
-      "url": "https://www.slowboring.com/p/the-right-wing-obsession-with-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "It’s not good!",
-      "publishedAt": "2026-10-14T10:05:03.000Z",
-      "articleId": "e662c4b63e084f79"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
@@ -2070,7 +2081,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
