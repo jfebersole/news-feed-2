@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-24T07:14:07.598Z",
-  "fetchedAt": "2026-10-24T07:14:07.594Z",
+  "generatedAt": "2026-10-24T12:38:16.879Z",
+  "fetchedAt": "2026-10-24T12:38:16.876Z",
   "sourceCount": 25,
-  "itemCount": 176,
+  "itemCount": 175,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-102426",
+      "title": "Reading List 10/24/26",
+      "url": "https://www.construction-physics.com/p/reading-list-102426",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Minimum lot sizes, Boeing’s next 737 MAX, Fervo short sellers, Figure AI’s training data, and more.",
+      "publishedAt": "2026-10-24T12:01:24.000Z",
+      "articleId": "47722f7757ac3b71"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf",
+      "title": "Cybersecurity ETF",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos”",
+      "publishedAt": "2026-10-24T08:46:22.000Z",
+      "articleId": "0a4ddf070d32ed01"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor",
       "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
@@ -497,17 +520,6 @@
       "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […]",
       "publishedAt": "2026-10-21T06:20:34.000Z",
       "articleId": "39ea20dad2e0c691"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation",
-      "title": "The Causal Effect of Foreign Ideas on U.S. Innovation",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Globalization is once again better than many people realize: We study the role of foreign ideas in U.S. innovation by constructing a directed “genealogy” of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the founding patents of new ones, we recover a […]",
-      "publishedAt": "2026-10-21T05:00:58.000Z",
-      "articleId": "9083083063077bbb"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
@@ -1960,28 +1972,6 @@
       "summary": "One-hit wonder math is more confusing than you think",
       "publishedAt": "2026-09-24T17:30:29.000Z",
       "articleId": "77a0eb82d71ad79d"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7624976/2026/09/24/new-york-giants-jaxson-dart-trade-jameis-winston-jj-mccarthy/",
-      "title": "Giants would be foolish to make desperate QB trade in wake of Jaxson Dart injury",
-      "url": "https://www.nytimes.com/athletic/7624976/2026/09/24/new-york-giants-jaxson-dart-trade-jameis-winston-jj-mccarthy/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "It’s fair to be spooked by Jameis Winston’s rough performance Monday, but the Giants shouldn't consider dealing away precious draft capital.",
-      "publishedAt": "2026-09-24T11:16:37.000Z",
-      "articleId": "af70aeabbf206b7a"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
-      "title": "No, you are not on Indigenous land",
-      "url": "https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "A repost from 2024.",
-      "publishedAt": "2026-09-24T07:44:38.000Z",
-      "articleId": "1b471172353d3754"
     }
   ],
   "weather": null,
