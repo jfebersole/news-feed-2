@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-24T01:33:32.028Z",
-  "fetchedAt": "2026-10-24T01:33:32.026Z",
+  "generatedAt": "2026-10-24T07:14:07.598Z",
+  "fetchedAt": "2026-10-24T07:14:07.594Z",
   "sourceCount": 25,
   "itemCount": 176,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor",
+      "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need […]",
+      "publishedAt": "2026-10-24T04:53:27.000Z",
+      "articleId": "f660c7f949d75881"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
       "title": "Your Book Review: The Ghost In My Brain",
@@ -520,17 +531,6 @@
       "summary": "...",
       "publishedAt": "2026-10-20T20:32:59.000Z",
       "articleId": "a4d474d8b6e16976"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines",
-      "title": "Saving for the machines",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Jesús Fernández-Villaverde: When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital supply governs the size of the growth boom associated with automation, […]",
-      "publishedAt": "2026-10-20T18:38:49.000Z",
-      "articleId": "f74f8a922d8e8e27"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k7ib7x5etdhq52u8fit9n3zg03arp79uv240wwuo.html",
@@ -1986,7 +1986,7 @@
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
