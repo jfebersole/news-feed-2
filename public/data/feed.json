@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-23T23:05:37.036Z",
-  "fetchedAt": "2026-10-23T23:05:37.032Z",
+  "generatedAt": "2026-10-24T01:33:32.028Z",
+  "fetchedAt": "2026-10-24T01:33:32.026Z",
   "sourceCount": 25,
   "itemCount": 176,
   "totalItemCount": 808,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
+      "title": "Your Book Review: The Ghost In My Brain",
+      "url": "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #13 in the Book Review Contest",
+      "publishedAt": "2026-10-23T23:45:42.000Z",
+      "articleId": "9955e8049eb7a0ac"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
       "title": "The Real Trump Tower",
@@ -1971,22 +1982,11 @@
       "summary": "A repost from 2024.",
       "publishedAt": "2026-09-24T07:44:38.000Z",
       "articleId": "1b471172353d3754"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "title": "Does Georgism Work? Five Years Later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "A guest post by Lars Doucet",
-      "publishedAt": "2026-09-24T03:16:49.000Z",
-      "articleId": "78ecb1011f970c45"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
