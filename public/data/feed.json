@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-25T16:06:49.826Z",
-  "fetchedAt": "2026-10-25T16:06:49.824Z",
+  "generatedAt": "2026-10-25T19:02:28.303Z",
+  "fetchedAt": "2026-10-25T19:02:28.299Z",
   "sourceCount": 25,
   "itemCount": 175,
   "totalItemCount": 809,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-ea9",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-ea9",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-10-25T17:01:37.000Z",
+      "articleId": "2f00703c05a43982"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
+      "title": "Netanyahu Won the Middle East and Lost the World",
+      "url": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm.",
+      "publishedAt": "2026-10-25T16:11:02.000Z",
+      "articleId": "5cee1c6054b399cd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587",
       "title": "Sunday assorted links",
@@ -49,17 +72,6 @@
       "summary": "The Panic Patrol, a division of the department of future corrections, reminds us of past panics. Here’s one case in point I wasn’t aware of:",
       "publishedAt": "2026-10-25T11:15:45.000Z",
       "articleId": "44de21b2a1f2115d"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-      "title": "Netanyahu Won the Middle East and Lost the World",
-      "url": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm.",
-      "publishedAt": "2026-10-25T10:00:17.000Z",
-      "articleId": "5cee1c6054b399cd"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/the-internet-breaks",
@@ -1157,18 +1169,6 @@
       "summary": "...",
       "publishedAt": "2026-10-15T01:15:38.000Z",
       "articleId": "e68b97f15be7b0e5"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/paying-whole-foods-prices-for-a-losing",
-      "title": "Paying Whole Foods prices for a losing basket",
-      "url": "https://www.slowboring.com/p/paying-whole-foods-prices-for-a-losing",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Republicans have more cash than Democrats, and they’re burning it faster — from a Kansas rescue mission to a Maine ad that ran in Oregon.",
-      "publishedAt": "2026-10-14T22:01:43.000Z",
-      "articleId": "79363d307b04435e"
     },
     {
       "id": "Understanding AI:https://www.understandingai.org/p/openais-ironic-credibility-problem",
