@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-25T19:02:28.303Z",
-  "fetchedAt": "2026-10-25T19:02:28.299Z",
+  "generatedAt": "2026-10-25T21:42:33.590Z",
+  "fetchedAt": "2026-10-25T21:42:33.584Z",
   "sourceCount": 25,
-  "itemCount": 175,
+  "itemCount": 176,
   "totalItemCount": 809,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7723295/2026/10/25/giants-texans-nfl-week-7-result-takeaways/",
+      "title": "J.J. McCarthy validates Giants' decision to turn to him in overtime win vs. Texans",
+      "url": "https://www.nytimes.com/athletic/7723295/2026/10/25/giants-texans-nfl-week-7-result-takeaways/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "McCarthy, in his first start for New York, led the Giants to a 27-21 overtime win by playing a consistent and mostly mistake-free game.",
+      "publishedAt": "2026-10-25T20:36:03.000Z",
+      "articleId": "e0d3c3853149962b"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/lets-talk-shop-about-every-senate",
+      "title": "Let’s talk shop about every Senate race",
+      "url": "https://www.natesilver.net/p/lets-talk-shop-about-every-senate",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "When FLIPR and prediction markets disagree, which has the better case?",
+      "publishedAt": "2026-10-25T20:31:55.000Z",
+      "articleId": "5f3f621c18f4c6b9"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-ea9",
       "title": "Sunday Thread + Mailbag",
@@ -1563,17 +1586,6 @@
       "articleId": "2a7bfacef2ce3251"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-democrats-ai-primary-is-heating",
-      "title": "The Democrats’ AI primary is heating up",
-      "url": "https://www.natesilver.net/p/the-democrats-ai-primary-is-heating",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "The 2028 nomination race begins as soon as the midterms are over. Some Democrats like Gavin Newsom are scrambling to reformulate their positions.",
-      "publishedAt": "2026-10-06T17:29:50.000Z",
-      "articleId": "5d5191077164ce6b"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
       "title": "The ‘God Gap’ Is Narrowing in Texas",
       "url": "https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
@@ -1977,7 +1989,7 @@
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
