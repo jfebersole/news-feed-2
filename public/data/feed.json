@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-25T01:04:35.033Z",
-  "fetchedAt": "2026-10-25T01:04:35.028Z",
+  "generatedAt": "2026-10-25T06:02:57.806Z",
+  "fetchedAt": "2026-10-25T06:02:57.804Z",
   "sourceCount": 25,
   "itemCount": 175,
   "totalItemCount": 809,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time",
+      "title": "How central bankers spend their time",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more […]",
+      "publishedAt": "2026-10-25T05:14:29.000Z",
+      "articleId": "50fcb5d60c3288ae"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort",
+      "title": "Emergent Ventures India, 20th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing, capital, and access. Dev Goyal received a grant for SCRIPT, exploring whether stylus-based drawing kinematics […]",
+      "publishedAt": "2026-10-25T04:42:24.000Z",
+      "articleId": "499d315fe9b31720"
+    },
     {
       "id": "Scott Sumner:https://scottsumner.substack.com/p/deficits-i-cried-wolf",
       "title": "Deficits: I cried wolf . . .",
@@ -443,17 +465,6 @@
       "articleId": "d577f45b3e0d62d0"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects",
-      "title": "Do mass shootings in universities lead to permanent effects?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those […]",
-      "publishedAt": "2026-10-22T04:42:11.000Z",
-      "articleId": "fa7531bad72aa69e"
-    },
-    {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/u5ww2jwzifo13tgf6u8pyk2qpnmos2ylrd11a7r1.html",
       "title": "Money Stuff: Obviously SpaceX and Tesla Will Merge",
       "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/u5ww2jwzifo13tgf6u8pyk2qpnmos2ylrd11a7r1.html",
@@ -486,17 +497,6 @@
       "summary": "...",
       "publishedAt": "2026-10-21T21:53:11.000Z",
       "articleId": "71cda09d15ef24be"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison",
-      "title": "More on Elizabeth Holmes and prison",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The Free Press asked me to expand upon my views of this matter, here is one excerpt from the piece: Third, fewer women in prison does not have to mean less deterrence overall, as arguably we should concentrate more of our legal resources on deterring violent men. Note that if we can release enough women […]",
-      "publishedAt": "2026-10-21T19:12:57.000Z",
-      "articleId": "f6da3c517b7a632b"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/presented-by-stripe/",
@@ -2061,10 +2061,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 7,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
