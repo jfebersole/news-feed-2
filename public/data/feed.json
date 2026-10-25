@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-24T22:26:15.336Z",
-  "fetchedAt": "2026-10-24T22:26:15.332Z",
+  "generatedAt": "2026-10-25T01:04:35.033Z",
+  "fetchedAt": "2026-10-25T01:04:35.028Z",
   "sourceCount": 25,
-  "itemCount": 174,
+  "itemCount": 175,
   "totalItemCount": 809,
   "items": [
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/deficits-i-cried-wolf",
+      "title": "Deficits: I cried wolf . . .",
+      "url": "https://scottsumner.substack.com/p/deficits-i-cried-wolf",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": ". . . and the wolf showed up",
+      "publishedAt": "2026-10-24T23:09:32.000Z",
+      "articleId": "3941e9e3de787966"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals",
       "title": "Econvitals",
@@ -2050,10 +2061,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
