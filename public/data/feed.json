@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T21:42:33.590Z",
-  "fetchedAt": "2026-10-25T21:42:33.584Z",
+  "generatedAt": "2026-10-26T00:15:55.540Z",
+  "fetchedAt": "2026-10-26T00:15:55.537Z",
   "sourceCount": 25,
-  "itemCount": 176,
+  "itemCount": 175,
   "totalItemCount": 809,
   "items": [
     {
@@ -1974,22 +1974,11 @@
       "summary": "ASML’s lack of European sales, a California distributed power plant, Starlink as a planetary barometer, and more.",
       "publishedAt": "2026-09-26T10:17:46.000Z",
       "articleId": "971ad104932b54e9"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
-      "title": "Your Book Review: Lee Kuan Yew's Memoirs",
-      "url": "https://www.astralcodexten.com/p/your-book-review-lee-kuan-yews-memoirs",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #10 in the Book Review Contest",
-      "publishedAt": "2026-09-25T22:26:10.000Z",
-      "articleId": "0c5b2af6c91412e5"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2074,10 +2063,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 7,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
