@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-26T00:15:55.540Z",
-  "fetchedAt": "2026-10-26T00:15:55.537Z",
+  "generatedAt": "2026-10-26T06:05:36.256Z",
+  "fetchedAt": "2026-10-26T06:05:36.251Z",
   "sourceCount": 25,
-  "itemCount": 175,
+  "itemCount": 176,
   "totalItemCount": 809,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections",
+      "title": "Frances Lee on American elections",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has not. Bright Line Watch, a research group, […]",
+      "publishedAt": "2026-10-26T04:51:28.000Z",
+      "articleId": "d03ad77e977b2ba7"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7725053/2026/10/25/giants-j-j-mccarthy-texans-playoffs/",
+      "title": "J.J. McCarthy seizes his moment, lifts Giants to 'pivotal' win and fuels hope for future",
+      "url": "https://www.nytimes.com/athletic/7725053/2026/10/25/giants-j-j-mccarthy-texans-playoffs/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "“He has scars. He's been wounded. He's been broken. He's been battered. But you heal stronger, and (he's) become better because of it.\"",
+      "publishedAt": "2026-10-26T01:06:32.000Z",
+      "articleId": "33a906eaf300a45f"
+    },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7723295/2026/10/25/giants-texans-nfl-week-7-result-takeaways/",
       "title": "J.J. McCarthy validates Giants' decision to turn to him in overtime win vs. Texans",
@@ -432,17 +454,6 @@
       "summary": "They’re nothing new, but they may be a growing threat. Plus, the story of the 2026 campaign through political ads in Still Counting EP7.",
       "publishedAt": "2026-10-22T19:04:17.000Z",
       "articleId": "10bf944030232e74"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026",
-      "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks. […]",
-      "publishedAt": "2026-10-22T18:36:11.000Z",
-      "articleId": "8f2f87ff5a9f62f6"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/can-music-change-how-we-speak",
@@ -2063,10 +2074,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 7,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
