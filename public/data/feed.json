@@ -1,10 +1,77 @@
 {
-  "generatedAt": "2026-10-26T06:05:36.256Z",
-  "fetchedAt": "2026-10-26T06:05:36.251Z",
+  "generatedAt": "2026-10-26T12:56:08.634Z",
+  "fetchedAt": "2026-10-26T12:56:08.628Z",
   "sourceCount": 25,
-  "itemCount": 176,
+  "itemCount": 175,
   "totalItemCount": 809,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive",
+      "title": "The MR Archive!",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The Marginal Revolution archive is now live at https://marginalrevolution.com/ai-archive/. You can also find it from the “Download Full Archive” link in the left menu. The purpose of the archive is twofold, first as Tyler has said we love our human readers and our AI readers and we want to make it as easy as possible […]",
+      "publishedAt": "2026-10-26T11:20:43.000Z",
+      "articleId": "45b0f2d3ddfa15cf"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years",
+      "title": "Tyler Cowen’s Strongest Book Recommendations, 2003-2026",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From the Archive–these posts are written by AI. Cowen’s strongest recommendations include 1491, The Power Broker, Knausgaard’s first two My Struggle volumes, Fuchsia Dunlop’s Chinese cookbooks, and Meetings with Remarkable Manuscripts. These stand out through unusually strong praise, repeated endorsement, or both. The analysis uses qualitative, book-specific sentiment analysis: explicit superlatives, strength of recommendation, repeat […]",
+      "publishedAt": "2026-10-26T11:19:11.000Z",
+      "articleId": "8ecfeeb89b0fdd3d"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/scammy-fundraising-is-a-big-problem",
+      "title": "Scammy fundraising is a big problem",
+      "url": "https://www.slowboring.com/p/scammy-fundraising-is-a-big-problem",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "It’s tough to say anything meaningful about the midterms at this point, but Democrats should think harder about their fundraising.",
+      "publishedAt": "2026-10-26T10:01:03.000Z",
+      "articleId": "c73d33eecc1575de"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-end-of-the-internet/",
+      "title": "The End of the Internet",
+      "url": "https://stratechery.com/2026/the-end-of-the-internet/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "articleId": "989309fdcda3c5cb"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-world-series-is-closer-than-2",
+      "title": "The World Series Is Closer Than 2-0 Looks. It May Not Matter for the Rays.",
+      "url": "https://neilpaine.substack.com/p/the-world-series-is-closer-than-2",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Brewers and Rays have staged an unusually eventful World Series opening-act. But the history of 2-0 leads still leaves Tampa Bay with little room for error.",
+      "publishedAt": "2026-10-26T09:02:41.000Z",
+      "articleId": "f964d014121873bb"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell",
+      "title": "Brazil’s economic problems, in a nutshell",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "It would take true Milei-like ardour to slice through Brazil’s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil’s real interest rate, the BCB’s policy rate adjusted for next year’s expected inflation, at 9% or […]",
+      "publishedAt": "2026-10-26T07:03:20.000Z",
+      "articleId": "bd76cce1b974ebdd"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections",
       "title": "Frances Lee on American elections",
@@ -344,17 +411,6 @@
       "articleId": "9ad087ab75482b9f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&utm_medium=rss&utm_campaign=protecting-americans-from-medicine",
-      "title": "Protecting Americans from Medicine",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Max Doppelt: In January 2025 my mom’s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and […]",
-      "publishedAt": "2026-10-23T11:14:10.000Z",
-      "articleId": "30487b3d1363113f"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/obamas-forgotten-late-term-moves",
       "title": "Obama’s forgotten late-term moves",
       "url": "https://www.slowboring.com/p/obamas-forgotten-late-term-moves",
@@ -387,40 +443,6 @@
       "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
       "publishedAt": "2026-10-23T10:00:00.000Z",
       "articleId": "a50786f3965eda60"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/which-players-saved-their-best-baseball",
-      "title": "Which Players Saved Their Best Baseball for October?",
-      "url": "https://neilpaine.substack.com/p/which-players-saved-their-best-baseball",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "From one-October wonders to perennial playoff heroes, let’s dig into the WAR data to see whose careers were most defined by postseason greatness.",
-      "publishedAt": "2026-10-23T09:01:37.000Z",
-      "articleId": "6ac886904b36546c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&utm_medium=rss&utm_campaign=podcast-with-rabbi-david-wolpe",
-      "title": "Podcast with Rabbi David Wolpe",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI’s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all their questions. […]",
-      "publishedAt": "2026-10-23T07:38:28.000Z",
-      "articleId": "600f292921d82354"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&utm_medium=rss&utm_campaign=will-bystander-economies-be-able-to-finance-their-governments",
-      "title": "Will bystander economies be able to finance their governments?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Building the AI transformation will require enormous investment. The only way to induce agents to save for that investment […]",
-      "publishedAt": "2026-10-23T04:51:50.000Z",
-      "articleId": "56f49e00630c91d8"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k0g6iwagydho9i4byc62gngygs132ewztoo5hajh.html",
@@ -1159,18 +1181,6 @@
       "articleId": "319abcb25cdb0a29"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-who",
-      "title": "“The Argument” podcast, ad free: Who should history cancel?",
-      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-who",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
-      "publishedAt": "2026-10-15T10:03:25.000Z",
-      "articleId": "d908f3227e17c138"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
       "title": "A Conversation With Ari Emanuel About Entertainment and AI",
       "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
@@ -1236,17 +1246,6 @@
       "summary": "Its secret is its cities, not central planning",
       "publishedAt": "2026-10-14T12:41:38.000Z",
       "articleId": "c23b9b9adce2dfce"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
-      "title": "Apple HomeView, The New Apple TV, The App Story",
-      "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
-      "publishedAt": "2026-10-14T10:00:00.000Z",
-      "articleId": "190277f965bb8b29"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/will-republican-gerrymanders-become",
@@ -1973,18 +1972,6 @@
       "summary": "Ramez Naam gives a skeptic’s take on Recursive Self-Improvement.",
       "publishedAt": "2026-09-27T07:20:08.000Z",
       "articleId": "3acf95e372327ef0"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-2026-09-26",
-      "title": "Reading List 2026-09-26",
-      "url": "https://www.construction-physics.com/p/reading-list-2026-09-26",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "ASML’s lack of European sales, a California distributed power plant, Starlink as a planetary barometer, and more.",
-      "publishedAt": "2026-09-26T10:17:46.000Z",
-      "articleId": "971ad104932b54e9"
     }
   ],
   "weather": null,
