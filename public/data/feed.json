@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-27T04:55:54.523Z",
-  "fetchedAt": "2026-10-27T04:55:54.520Z",
+  "generatedAt": "2026-10-27T10:28:42.697Z",
+  "fetchedAt": "2026-10-27T10:28:42.694Z",
   "sourceCount": 25,
-  "itemCount": 176,
-  "totalItemCount": 809,
+  "itemCount": 177,
+  "totalItemCount": 810,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/why-i-dont-write-about-ai-all-the",
+      "title": "Why I don’t write about A.I. all the time",
+      "url": "https://www.slowboring.com/p/why-i-dont-write-about-ai-all-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "It might be the most important issue right now, but I’m not history’s main character.",
+      "publishedAt": "2026-10-27T10:01:46.000Z",
+      "articleId": "ff62ce5b5cd6c2e9"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies",
+      "title": "NYT debate on the rules for AI companies",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Emily Bazelon was the moderator, there were five of us in the symposium. Excerpt from me: Bores: Do you think the federal government pre-empting the states is consistent with democracy? Cowen: Absolutely. We have federal laws that pre-empt state lawmaking in many other areas. Courts have upheld it many, many times. Bores: OK, but is […]",
+      "publishedAt": "2026-10-27T08:17:58.000Z",
+      "articleId": "c2f764ea650f14e4"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
+      "title": "Roundup #90: In which Noah joins a Japanese VC firm",
+      "url": "https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "The humanities; Data center crowd-out; Chinese local governments; AI and capitalism; How Japan builds; Phones bad; Chinese manufacturing; Rent control",
+      "publishedAt": "2026-10-27T07:17:34.000Z",
+      "articleId": "574ceade1ee8fb8f"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/xzdvn5wuzzagsymfsrogxhzilb8fythnpjxamp92.html",
       "title": "Money Stuff: Anthropic Raises Concerns",
@@ -364,17 +398,6 @@
       "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos”",
       "publishedAt": "2026-10-24T08:46:22.000Z",
       "articleId": "0a4ddf070d32ed01"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor",
-      "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need […]",
-      "publishedAt": "2026-10-24T04:53:27.000Z",
-      "articleId": "f660c7f949d75881"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
@@ -1972,17 +1995,6 @@
       "summary": "Matthew Campbell stops by to talk the wedding music canon",
       "publishedAt": "2026-09-27T14:31:16.000Z",
       "articleId": "7531d731e7d253e6"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
-      "title": "Where’s the “intelligence explosion”?",
-      "url": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Ramez Naam gives a skeptic’s take on Recursive Self-Improvement.",
-      "publishedAt": "2026-09-27T07:20:08.000Z",
-      "articleId": "3acf95e372327ef0"
     }
   ],
   "weather": null,
@@ -2105,7 +2117,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
