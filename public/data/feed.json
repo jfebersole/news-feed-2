@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-10-27T10:28:42.697Z",
-  "fetchedAt": "2026-10-27T10:28:42.694Z",
+  "generatedAt": "2026-10-27T16:32:13.318Z",
+  "fetchedAt": "2026-10-27T16:32:13.313Z",
   "sourceCount": 25,
   "itemCount": 177,
-  "totalItemCount": 810,
+  "totalItemCount": 809,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/artists-with-honorifics-an-album",
+      "title": "Artists with Honorifics: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/artists-with-honorifics-an-album",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Duke Ellington, Dr. Dre, Mr. Mister, and others",
+      "publishedAt": "2026-10-27T13:30:44.000Z",
+      "articleId": "c580a3e208819432"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7728215/2026/10/27/new-york-giants-john-harbaugh-masterclass/",
+      "title": "How John Harbaugh put on a coaching masterclass in lead-up to Giants' Week 7 win",
+      "url": "https://www.nytimes.com/athletic/7728215/2026/10/27/new-york-giants-john-harbaugh-masterclass/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Making the right read on which buttons to push is an intangible quality for a coach. Harbaugh demonstrated that ability last week.",
+      "publishedAt": "2026-10-27T11:42:38.000Z",
+      "articleId": "4c58295aca5bbf80"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok",
+      "title": "Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From the Archive–these posts are written by ChatGPT These selections emphasize the quality of the criticism: original interpretations, close attention to the work, and arguments worth considering even when you disagree. They are not a ranking of the films and television shows themselves. The list includes five reviews by Tyler Cowen and six by Alex […]",
+      "publishedAt": "2026-10-27T11:17:35.000Z",
+      "articleId": "1b00e7b8d6e98244"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+      "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "publishedAt": "2026-10-27T10:32:57.000Z",
+      "articleId": "ba8e4466d0fb808a"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/why-i-dont-write-about-ai-all-the",
       "title": "Why I don’t write about A.I. all the time",
@@ -16,6 +60,18 @@
       "summary": "It might be the most important issue right now, but I’m not history’s main character.",
       "publishedAt": "2026-10-27T10:01:46.000Z",
       "articleId": "ff62ce5b5cd6c2e9"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/before-you-win-the-world-series-you",
+      "title": "Before You Win the World Series, You Get to Wear It",
+      "url": "https://neilpaine.substack.com/p/before-you-win-the-world-series-you",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Championship patches make the biggest games feel special — though they’re a younger tradition, across all sports, than they seem.",
+      "publishedAt": "2026-10-27T09:01:14.000Z",
+      "articleId": "e366a986e1708d33"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies",
@@ -149,18 +205,6 @@
       "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
       "publishedAt": "2026-10-26T10:00:00.000Z",
       "articleId": "989309fdcda3c5cb"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-world-series-is-closer-than-2",
-      "title": "The World Series Is Closer Than 2-0 Looks. It May Not Matter for the Rays.",
-      "url": "https://neilpaine.substack.com/p/the-world-series-is-closer-than-2",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The Brewers and Rays have staged an unusually eventful World Series opening-act. But the history of 2-0 leads still leaves Tampa Bay with little room for error.",
-      "publishedAt": "2026-10-26T09:02:41.000Z",
-      "articleId": "f964d014121873bb"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell",
@@ -376,28 +420,6 @@
       "summary": "Minimum lot sizes, Boeing’s next 737 MAX, Fervo short sellers, Figure AI’s training data, and more.",
       "publishedAt": "2026-10-24T12:01:24.000Z",
       "articleId": "47722f7757ac3b71"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-october-19-23-2026",
-      "title": "The Week That Was (October 19-23, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-october-19-23-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-10-24T09:00:45.000Z",
-      "articleId": "dfc30ac2f1881ca3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf",
-      "title": "Cybersecurity ETF",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Joe Weisenthal: “The Red Line is the day that Anthropic introduced Mythos”",
-      "publishedAt": "2026-10-24T08:46:22.000Z",
-      "articleId": "0a4ddf070d32ed01"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
@@ -1215,17 +1237,6 @@
       "articleId": "f725607cd017a500"
     },
     {
-      "id": "Stratechery:https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
-      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
-      "url": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "articleId": "7a37a0ad6c391dad"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/ai-vs-the-railroads",
       "title": "AI vs. the railroads",
       "url": "https://www.noahpinion.blog/p/ai-vs-the-railroads",
@@ -1984,17 +1995,6 @@
       "summary": "Historians like to blame drought, famine and invaders. But this can’t explain why the empires never came back.",
       "publishedAt": "2026-09-28T14:02:18.000Z",
       "articleId": "7d1c6901e5ff0665"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
-      "title": "The 10 Best Wedding Albums",
-      "url": "https://www.cantgetmuchhigher.com/p/the-10-best-wedding-albums",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Matthew Campbell stops by to talk the wedding music canon",
-      "publishedAt": "2026-09-27T14:31:16.000Z",
-      "articleId": "7531d731e7d253e6"
     }
   ],
   "weather": null,
@@ -2093,7 +2093,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
