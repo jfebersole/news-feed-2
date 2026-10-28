@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html",
+  "source": "Marginal Revolution",
+  "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p><a href=\"https://saez-zucman-audit-replication.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\">AI issues its judgment</a>:</p>\n<blockquote><p>138 papers audited</p>\n<p>2,035 problems found</p>\n<p>147 serious enough to change a headline number</p>\n<p>69% of papers have at least one</p>\n<p>97% of major and moderate errors with a clear direction overstate the paper’s claim</p></blockquote>\n<p>And on the method:</p>\n<blockquote><p>Two independent audits of each paper. One by Claude Opus 5.5, one by OpenAI’s GPT-6 Astra, neither seeing the other’s work. Each obtained the paper, its appendices and its replication data, recomputed the headline numbers from the authors’ own files and, where possible, from the original sources (tax statistics, national accounts, Federal Reserve and survey data), checked that cited sources say what is claimed, and probed every assumption the conclusions rest on.</p>\n<p>Then an adjudicator. A third agent re-verified every claimed problem, tried to refute each one, discarded those that did not survive, searched for problems both auditors missed, and graded what remained by how far it undermines the paper’s own headline claim: <span>major</span> changes a core number materially, <span>moderate</span> affects secondary results or a core result modestly, <span>minor</span> is a presentation or arithmetic slip. Confidence is graded separately.</p></blockquote>\n<p>There is much, much more <a href=\"https://saez-zucman-audit-replication.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\">at the link</a>, which goes through the research paper by paper, and with further sustained analyses behind the links.&nbsp; The survey is both extensive and thorough.&nbsp; (And I thank an anonymous <strong>MR</strong> reader for this work.)</p>\n<p>I am not even sure what to say at this point.&nbsp; We need a radical revaluation of this work, and of the associated policy arguments.&nbsp; More generally, this is only a single step in the story of how AI is going to revise economic science, and indeed past research more generally.&nbsp; As I stress in many of my recent talks, there will be significant gains and losses in status, with the losses often outweighing the gains.&nbsp; I see this as one of those cases.</p>",
+  "wordCount": 307,
+  "imageCount": 0,
+  "linkCount": 2
+}

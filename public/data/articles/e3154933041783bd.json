@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html",
+  "source": "Marginal Revolution",
+  "title": "How is AI shaping economic research?",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote><p>Does generative AI narrow or widen productivity gaps in research? We study the distributional effects of AI on research productivity in economics using evidence from three sources: NBER working-paper and publication records, text-based measures of LLM-assisted writing, and an original survey of 227 academic economists measuring AI use across research tasks. We first show that productivity gaps among NBER authors narrowed following ChatGPT’s release: authors without research assistants (RAs) published a larger share of papers in top-tier journals, while authors from smaller teams gained in working-paper output and publication speed. We then use the survey to examine how individual AI use affects research productivity. We find weak evidence that AI affects working-paper output on average, but there is substantial heterogeneity. Triple-difference estimates show that greater AI exposure narrows the output gap between researchers with and without RAs but widens the gap between senior and junior researchers. Selection into AI use follows a different pattern: junior researchers use AI more intensively and are more likely to use agentic tools. Thus, these differential productivity effects reflect differences in the returns to AI rather than selection into AI use. A model with diminishing returns to execution, increasing returns to conceptual capacity, and complementarity between the two explains how AI can alleviate disadvantages in research support while amplifying the returns to accumulated expertise. Over time, however, early convergence may give way to divergence as execution constraints recede and AI’s conceptual capabilities improve.</p></blockquote>\n<p>That is from <a href=\"https://tianyu-jiang.com/research\" target=\"_blank\" rel=\"noopener noreferrer\">Tianyu Jiang</a>, who is this year a job market candidate from the University of Michigan.&nbsp; The paper is co-authored with Yuqing (Claire) Wang.</p>",
+  "wordCount": 264,
+  "imageCount": 0,
+  "linkCount": 1
+}
