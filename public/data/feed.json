@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-28T01:16:28.021Z",
-  "fetchedAt": "2026-10-28T01:16:28.018Z",
+  "generatedAt": "2026-10-28T08:21:48.073Z",
+  "fetchedAt": "2026-10-28T08:21:48.070Z",
   "sourceCount": 25,
   "itemCount": 179,
   "totalItemCount": 811,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks",
+      "title": "AI hacking risks",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key […]",
+      "publishedAt": "2026-10-28T04:38:22.000Z",
+      "articleId": "eceee63d7bedf7a2"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
       "title": "BADOP! Gochujang Michelada",
@@ -442,17 +453,6 @@
       "summary": ". . . and the wolf showed up",
       "publishedAt": "2026-10-24T23:09:32.000Z",
       "articleId": "3941e9e3de787966"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals",
-      "title": "Econvitals",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Jason Furman, it tracks economic indicators, mostly U.S. Here is the website. Subscribe here to briefings. Here is a thread on the site.",
-      "publishedAt": "2026-10-24T17:54:44.000Z",
-      "articleId": "2a211adc877fc4a1"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/the-polls-were-fake-but-the-results",
@@ -2106,18 +2106,18 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 8,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
