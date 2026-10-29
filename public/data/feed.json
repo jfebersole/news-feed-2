@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-10-29T06:59:58.966Z",
-  "fetchedAt": "2026-10-29T06:59:58.960Z",
+  "generatedAt": "2026-10-29T14:11:32.116Z",
+  "fetchedAt": "2026-10-29T14:11:32.113Z",
   "sourceCount": 25,
-  "itemCount": 180,
+  "itemCount": 182,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/join-us-at-building-abundance-how",
+      "title": "Join us at Building Abundance: How Britain can flourish in the age of AI",
+      "url": "https://www.worksinprogress.news/p/join-us-at-building-abundance-how",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "A Works in Progress conference on growth, state capacity and AI at the London School of Economics on December 3rd.",
+      "publishedAt": "2026-10-29T13:25:37.000Z",
+      "articleId": "0e9759b715678109"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai",
+      "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen emphasizes institutions, bottlenecks, and geopolitical competition. Tabarrok emphasizes inexpensive intelligence, scientific discovery, and—especially in his later […]",
+      "publishedAt": "2026-10-29T11:17:47.000Z",
+      "articleId": "36600cee16f94d1e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-the",
+      "title": "“The Argument” podcast, ad free: The human condition in the age of A.I.",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-the",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-10-29T10:03:20.000Z",
+      "articleId": "b9042e10fda438ca"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-i-would-fix-all-of-americas-major",
+      "title": "How I would fix all of America’s major problems",
+      "url": "https://www.slowboring.com/p/how-i-would-fix-all-of-americas-major",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Let’s stop being practical for once.",
+      "publishedAt": "2026-10-29T10:02:03.000Z",
+      "articleId": "a71e620ca2584d9d"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+      "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "articleId": "a9148380e01427aa"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming",
+      "title": "A golden age of science is coming",
+      "url": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "AI can do things humans researchers can’t, even in groups.",
+      "publishedAt": "2026-10-29T09:55:51.000Z",
+      "articleId": "8d27972a50132dc7"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
+      "title": "Suddenly, Empathy Isn’t So Toxic",
+      "url": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Deport immigrants? Oh yes. But not this guy.",
+      "publishedAt": "2026-10-29T09:03:25.000Z",
+      "articleId": "a5cc8f86d81a2c3d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews",
+      "title": "AI dominates human peer reviews",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as well as potential paths to […]",
+      "publishedAt": "2026-10-29T07:13:03.000Z",
+      "articleId": "802c0e627ff73ada"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
       "title": "My design Conversation with Roman Mars",
@@ -441,28 +531,6 @@
       "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
       "publishedAt": "2026-10-26T10:00:00.000Z",
       "articleId": "989309fdcda3c5cb"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell",
-      "title": "Brazil’s economic problems, in a nutshell",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "It would take true Milei-like ardour to slice through Brazil’s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil’s real interest rate, the BCB’s policy rate adjusted for next year’s expected inflation, at 9% or […]",
-      "publishedAt": "2026-10-26T07:03:20.000Z",
-      "articleId": "bd76cce1b974ebdd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections",
-      "title": "Frances Lee on American elections",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has not. Bright Line Watch, a research group, […]",
-      "publishedAt": "2026-10-26T04:51:28.000Z",
-      "articleId": "d03ad77e977b2ba7"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7725053/2026/10/25/giants-j-j-mccarthy-texans-playoffs/",
@@ -1101,28 +1169,6 @@
       "articleId": "528dac807d3afb4e"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/dont-get-complacent-but-also-dont",
-      "title": "Don’t get complacent but also don’t doom",
-      "url": "https://www.slowboring.com/p/dont-get-complacent-but-also-dont",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "The glass is half full for a common sense Democrat revival",
-      "publishedAt": "2026-10-19T10:01:47.000Z",
-      "articleId": "752b94ff23cc52cc"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/do-you-trust-apple/",
-      "title": "Do You Trust Apple?",
-      "url": "https://stratechery.com/2026/do-you-trust-apple/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
-      "publishedAt": "2026-10-19T10:00:00.000Z",
-      "articleId": "8ce80ca7675337c0"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7703064/2026/10/19/new-york-giants-sloppy-john-harbaugh-saints/",
       "title": "The New York Giants can’t keep making this many mistakes and counting on a comeback",
       "url": "https://www.nytimes.com/athletic/7703064/2026/10/19/new-york-giants-sloppy-john-harbaugh-saints/",
@@ -1154,18 +1200,6 @@
       "summary": "Jameis Winston threw two interceptions and backup McCarthy led New York to three scoring drives before ultimately losing to New Orleans.",
       "publishedAt": "2026-10-18T20:28:39.000Z",
       "articleId": "29d2e5fdc3861356"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-02d",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-02d",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-10-18T17:01:04.000Z",
-      "articleId": "3f4cb33c67332665"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-indie-rock-explosion-a-conversation",
@@ -2017,17 +2051,6 @@
       "summary": "Late Night Souped-Up Ramen Ramen hacks have been known to take the internet by storm—for good reason. Here are some quick tips to upgrading those instant noodle packets you have... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now Late Night Souped-Up Ramen J. Kenji López-Alt Sep 30, 2026 View in app View in app Ramen hacks have been known to take the internet by storm—for good reason. Here are some quick tips to upgrading those instant noodle packets you have lying around. Way back in 2011, I posted an article on Serious Eats that went about as viral as things could go in those early days of Web 2.0. It was called Ramen Hacks: 30+ Easy Ways to Upgrade Your Instant Noodles , and its contents were as-advertised. I haven't re-read that article in at least a decade, but I was surprised to come across it and realize that I still follow most of the basic rules, even when I'm improvising. I did the same with this bowl of instant tonkotsu ramen that I gussied up with a quick condiment I made from onion scraps, beef jerky, and chili oil, along with a slice of American cheese stirred straight into the hot soup. (The cheese adds some flavor, but really it adds a nice body to the soup—it's especially good in instant tonkotsu-style broths, which are never as rich and creamy as the real deal.) I'm not going to give you a recipe for a thing I made specifically out of the random scraps I had lying around after karaoke night. But I...",
       "publishedAt": "2026-09-30T16:46:03.412Z",
       "articleId": "ec9b8391e5ce27b3"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/murdered-musicians-an-album-a-day",
-      "title": "Murdered Musicians: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/murdered-musicians-an-album-a-day",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Selena, Blaze Foley, Marvin Gaye, and others",
-      "publishedAt": "2026-09-29T13:30:52.000Z",
-      "articleId": "3cd1709bd515ed93"
     }
   ],
   "weather": null,
@@ -2117,10 +2140,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
