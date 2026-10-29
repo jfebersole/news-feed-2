@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-28T20:59:47.305Z",
-  "fetchedAt": "2026-10-28T20:59:47.302Z",
+  "generatedAt": "2026-10-29T00:51:40.538Z",
+  "fetchedAt": "2026-10-29T00:51:40.534Z",
   "sourceCount": 25,
-  "itemCount": 180,
-  "totalItemCount": 812,
+  "itemCount": 178,
+  "totalItemCount": 335,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/a-pastor-a-tejano-singer-and-a-slew",
+      "title": "A pastor, a Tejano singer, and a slew of salmon and Sullivans walk into a midterm",
+      "url": "https://www.slowboring.com/p/a-pastor-a-tejano-singer-and-a-slew",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "With less than a week until Election Day, Democrats are feeling good. They’re also wary as key races remain neck and neck.",
+      "publishedAt": "2026-10-28T22:02:14.000Z",
+      "articleId": "90a60e7dc5e1a3f3"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
       "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
@@ -1156,18 +1168,6 @@
       "articleId": "ee67491ffb82b391"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-voice-of-a-generation",
-      "title": "The voice of a generation",
-      "url": "https://www.slowboring.com/p/the-voice-of-a-generation",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Gen Z already has its “Girls.” The generation’s dissatisfaction is with its own reflection.",
-      "publishedAt": "2026-10-17T13:03:23.000Z",
-      "articleId": "2f44b0dd2777d976"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-101726",
       "title": "Reading List 10/17/26",
       "url": "https://www.construction-physics.com/p/reading-list-101726",
@@ -2005,28 +2005,6 @@
       "summary": "Featuring Selena, Blaze Foley, Marvin Gaye, and others",
       "publishedAt": "2026-09-29T13:30:52.000Z",
       "articleId": "3cd1709bd515ed93"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/stop-spending-money-on-smaller-classes",
-      "title": "Stop spending money on smaller classes",
-      "url": "https://www.noahpinion.blog/p/stop-spending-money-on-smaller-classes",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "We’ve spent decades raising teacher quantity when we should have been raising quality.",
-      "publishedAt": "2026-09-28T22:27:25.000Z",
-      "articleId": "7ea924271fd05800"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
-      "title": "Giants' trade for J.J. McCarthy was aggressive, but was it also reckless?",
-      "url": "https://www.nytimes.com/athletic/7640753/2026/09/28/new-york-giants-jj-mccarthy-vikings-trade-reckless/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Giving up a mid-round draft pick for McCarthy, especially after now losing Brian Burns for the season, feels like a rash move.",
-      "publishedAt": "2026-09-28T21:00:36.000Z",
-      "articleId": "0e3a687e4f7535af"
     }
   ],
   "weather": null,
@@ -2116,10 +2094,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 8,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
@@ -2156,10 +2134,10 @@
     {
       "name": "Dan Duggan (The Athletic)",
       "url": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "mode": "rss",
-      "itemCount": 500,
+      "mode": "fallback-cache",
+      "itemCount": 23,
       "feedUrl": "https://www.nytimes.com/athletic/rss/author/dan-duggan/",
-      "error": null
+      "error": "Status code 504 Using previous snapshot data."
     },
     {
       "name": "Ross Douthat (NYT)",
