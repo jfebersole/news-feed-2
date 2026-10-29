@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html",
+  "source": "Marginal Revolution",
+  "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote><p>I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the relevant set of papers was released. First, LLM models extract forecasting questions from the pre-registrations or pre-analysis plans. These questions elicit forecasted treatment effects; not all resolve in the subsequent papers, but those that do can be used to consider forecast accuracy. Forecasts were elicited for 889 treatment effects from 39 papers with results disclosed in January 2026 or later, or 673 from 33 papers after screening. Forecasts were elicited in raw units but I focus on those that could be standardized and therefore compared across papers. Currently, the median absolute forecast error is 0.054 SD for the best model, the average absolute error is 0.093 SD, and the MSE is 0.0218. The AI forecasts perform substantially better than benchmarks forecasting 0 effect or forecasting the mean effect of other papers’ results in that time period. Overall, these results suggest considerable scope for forecasts to be of value in informing policy and research.</p></blockquote>\n<p><a href=\"https://evavivalt.com/papers/Can-AI-Forecast-Treatment-Effects-in-Economics.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">From the excellent Eva Vivalt</a>.&nbsp; As I have been predicting, so much of economics (and science) is going to change, and radically.&nbsp; Here is <a href=\"https://x.com/evavivalt/status/2115519456491511996\" target=\"_blank\" rel=\"noopener noreferrer\">Eva’s thread on the paper</a>.&nbsp; Perhaps we should dispense with many of the more mundane inquiries, and as Eva notes: “But can we not shift to working on those projects that have particularly high uncertainty and upside potential?”</p>\n<p>She is one of the best young economists in the world, and this stands some chance of being the most important paper of the year.</p>",
+  "wordCount": 287,
+  "imageCount": 0,
+  "linkCount": 2
+}
