@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-29T00:51:40.538Z",
-  "fetchedAt": "2026-10-29T00:51:40.534Z",
+  "generatedAt": "2026-10-29T06:59:58.966Z",
+  "fetchedAt": "2026-10-29T06:59:58.960Z",
   "sourceCount": 25,
-  "itemCount": 178,
-  "totalItemCount": 335,
+  "itemCount": 180,
+  "totalItemCount": 814,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
+      "title": "My design Conversation with Roman Mars",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Roman Mars has built one of podcasting’s great empires out of noticing things everyone else walks past. His show, 99% Invisible, has racked up over 500 million downloads telling stories about the unnoticed design choices that quietly shape how cities and […]",
+      "publishedAt": "2026-10-29T04:41:19.000Z",
+      "articleId": "b627cc7b0746108d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
+      "title": "The Brewers Kept Reinventing Themselves Until They Were Champions",
+      "url": "https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Milwaukee’s first World Series title finished off an 11-2 October — and years of replacing stars, developing new ones, and staying in contention through it all.",
+      "publishedAt": "2026-10-29T03:14:23.000Z",
+      "articleId": "3eaecd093e15d0f9"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
+      "title": "Some thoughts on South Carolina’s surprisingly close Senate race",
+      "url": "https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "What if Black voters turn out like it’s a presidential race? Democrats’ path to a Senate majority could become much more robust.",
+      "publishedAt": "2026-10-29T00:50:49.000Z",
+      "articleId": "83d9073dd6bc7529"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/a-pastor-a-tejano-singer-and-a-slew",
       "title": "A pastor, a Tejano singer, and a slew of salmon and Sullivans walk into a midterm",
@@ -16,6 +50,18 @@
       "summary": "With less than a week until Election Day, Democrats are feeling good. They’re also wary as key races remain neck and neck.",
       "publishedAt": "2026-10-28T22:02:14.000Z",
       "articleId": "90a60e7dc5e1a3f3"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/portland-trail-blazers-offense-ja-morant-damian-lillard",
+      "title": "Film Study: The New-Look Blazers Are a Blast",
+      "url": "https://zachlowe.substack.com/p/portland-trail-blazers-offense-ja-morant-damian-lillard",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "How Portland is tapping into a new offensive identity with Damian Lillard and Ja Morant",
+      "publishedAt": "2026-10-28T21:44:15.000Z",
+      "articleId": "efc18cf8a4483688"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
@@ -474,17 +520,6 @@
       "summary": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm.",
       "publishedAt": "2026-10-25T16:11:03.000Z",
       "articleId": "5cee1c6054b399cd"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. “In a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we find that the welfare gain from the estimated mortality decline is quantitatively significant relative to the welfare loss […]",
-      "publishedAt": "2026-10-25T15:42:58.000Z",
-      "articleId": "42a0c89aa5cfdd0e"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/physical-media-lives-a-conversation",
@@ -1517,18 +1552,6 @@
       "articleId": "bea2fb8d8febbd67"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/could-minnesota-spoil-the-blue-wave",
-      "title": "Could Minnesota spoil the blue wave?",
-      "url": "https://www.natesilver.net/p/could-minnesota-spoil-the-blue-wave",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "You’ve heard a lot about Michigan. But Democrats may have bigger problems in states where voters don’t trust their governance.",
-      "publishedAt": "2026-10-09T17:52:24.000Z",
-      "articleId": "43785781d1f44ba1"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/why-were-victorian-elites-so-effective",
       "title": "Victorian elites stayed in bed until the afternoon",
       "url": "https://www.worksinprogress.news/p/why-were-victorian-elites-so-effective",
@@ -2094,16 +2117,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 8,
+      "mode": "rss-proxy",
+      "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2134,10 +2157,10 @@
     {
       "name": "Dan Duggan (The Athletic)",
       "url": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "mode": "fallback-cache",
-      "itemCount": 23,
+      "mode": "rss",
+      "itemCount": 500,
       "feedUrl": "https://www.nytimes.com/athletic/rss/author/dan-duggan/",
-      "error": "Status code 504 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Ross Douthat (NYT)",
