@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-10-30T07:02:36.609Z",
-  "fetchedAt": "2026-10-30T07:02:36.605Z",
+  "generatedAt": "2026-10-30T14:03:28.222Z",
+  "fetchedAt": "2026-10-30T14:03:28.220Z",
   "sourceCount": 25,
   "itemCount": 187,
-  "totalItemCount": 814,
+  "totalItemCount": 813,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/the-cognitive-dissonance-election",
+      "title": "The cognitive dissonance election",
+      "url": "https://www.natesilver.net/p/the-cognitive-dissonance-election",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Democrats like what the polls say. They’re just not sure they believe them. Plus, Still Counting EP8 and our Election Night plans.",
+      "publishedAt": "2026-10-30T13:01:55.000Z",
+      "articleId": "b0e54e61168c3440"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&utm_medium=rss&utm_campaign=better-incentives-more-kidneys-more-lives",
+      "title": "Better Incentives, More Kidneys, More Lives",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The organ procurement system has long been a miasma of inefficient monopoly providers. In 2024 I quoted some shocking facts from a great Statecraft interview with Jennifer Erickson and Greg Segal: “Organs are literally lost and damaged in transit every single week. The OPTN contractor is 15 times more likely to lose or damage an organ in […]",
+      "publishedAt": "2026-10-30T11:18:21.000Z",
+      "articleId": "98cdfb526d6c6b11"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7736537/2026/10/30/new-york-giants-nfl-trade-deadline-preview/",
+      "title": "Giants trade deadline preview: 7 top targets to upgrade at RB and DT",
+      "url": "https://www.nytimes.com/athletic/7736537/2026/10/30/new-york-giants-nfl-trade-deadline-preview/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants' dream trade deadline acquisition? Jonathan Taylor. But who else could help the Giants stay in control of the NFC East?",
+      "publishedAt": "2026-10-30T10:20:08.000Z",
+      "articleId": "ae258c1a3f7b3c46"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-underrated-but-hated-insights",
+      "title": "The underrated — but hated — insights of Econ 101",
+      "url": "https://www.slowboring.com/p/the-underrated-but-hated-insights",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus remote work, ethnostates, and my interview with Mehdi Hasan",
+      "publishedAt": "2026-10-30T10:03:33.000Z",
+      "articleId": "9d829636e951d2f0"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "articleId": "105b68f121e9e5c7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
+      "title": "The Brewers Built a Small-Market Contender That Accidentally Became a Juggernaut",
+      "url": "https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Milwaukee tried to emulate the 2010s Royals’ running, fielding and bullpen advantages. But then they kept adding until they had the overall talent of a high-payroll champion.",
+      "publishedAt": "2026-10-30T09:02:10.000Z",
+      "articleId": "09df52fa4b251f06"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions",
+      "title": "Are there too many misdemeanor convictions?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Maybe so: Misdemeanors account for three-quarters of criminal cases filed annually in the United States, yet causal evidence on the impacts of misdemeanor conviction is scarce. We combine administrative and survey data to provide novel evidence of how misdemeanor conviction affects the socioeconomic outcomes of defendants and their families. Using data on nearly seven million […]",
+      "publishedAt": "2026-10-30T07:33:45.000Z",
+      "articleId": "a0a21624b82fe4d3"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
       "title": "Chronicle of Higher Education interviews me on AI and education",
@@ -229,17 +307,6 @@
       "articleId": "b627cc7b0746108d"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
-      "title": "The Brewers Kept Reinventing Themselves Until They Were Champions",
-      "url": "https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Milwaukee’s first World Series title finished off an 11-2 October — and years of replacing stars, developing new ones, and staying in contention through it all.",
-      "publishedAt": "2026-10-29T03:14:23.000Z",
-      "articleId": "3eaecd093e15d0f9"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
       "title": "Some thoughts on South Carolina’s surprisingly close Senate race",
       "url": "https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
@@ -373,18 +440,6 @@
       "summary": "Mamdani seems surprisingly moderate because mayors need to govern.",
       "publishedAt": "2026-10-28T10:03:29.000Z",
       "articleId": "3103babe76b0939b"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-vikings-are-winning-like-its",
-      "title": "The Vikings Are Winning Like It’s 1973",
-      "url": "https://neilpaine.substack.com/p/the-vikings-are-winning-like-its",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "But it’s not 1973. Can this keep working in 2026?",
-      "publishedAt": "2026-10-28T09:02:09.000Z",
-      "articleId": "ab05d544affb9b97"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks",
@@ -533,17 +588,6 @@
       "articleId": "ff62ce5b5cd6c2e9"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies",
-      "title": "NYT debate on the rules for AI companies",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Emily Bazelon was the moderator, there were five of us in the symposium. Excerpt from me: Bores: Do you think the federal government pre-empting the states is consistent with democracy? Cowen: Absolutely. We have federal laws that pre-empt state lawmaking in many other areas. Courts have upheld it many, many times. Bores: OK, but is […]",
-      "publishedAt": "2026-10-27T08:17:58.000Z",
-      "articleId": "c2f764ea650f14e4"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
       "title": "Roundup #90: In which Noah joins a Japanese VC firm",
       "url": "https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
@@ -564,17 +608,6 @@
       "summary": "Anthropic Raises Concerns Risks, governance, fake polls. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read in browser Happy Anthropic S-1 day Here’s the draft prospectus for Anthropic PBC’s initial public offering. In writing a prospectus for a frontier artificial intelligence IPO, you have to make choices about what to promise in your good vision of AI, and what to threaten in your bad vision. SpaceX went public this year promising “the largest actionable total addressable market (‘TAM’) in human history,” $28.5 trillion, which is a lot, sure, but still a finite number of dollars. OpenAI has raised money to build artificial general intelligence with the considerably more abstract promise that “it may be difficult to know what role money will play in a post-AGI world.” So the two benchmarks are something like “we will make more money than any company has ever made before” and “we will make money obsolete.” Anthropic is, by these standards, relatively sedate. From its founders’ letter: We encourage you, as a prospective owner of our stock, not to think of your purchase in purely transactional terms. We hope you will see it instead as an opportunity to be part of something greater. The advent of machine intelligence is one of the seminal moments in human history. As one of the companies at the very center of that moment, we have a rare opportunity to shape it for the better. Our aim is to help humankind chart a safe course through this technological evolution, open new frontiers of discovery, and bring forth an age of miracles. Everyone who owns our stock, whether an institution or an individual, becomes part of that effort. We hope you will share our ambition to see it through. “Buy our stock for miracles” is pretty modest as AI hype goes. But it wouldn’t be an AI prospectus without threats. I searched in vain for words like “extinction” or “kill everyone,” but there are a couple of mentions of “existential risks to humanity.” The prospectus does not quite say “our products pose an existential risk to humanity.” It attributes that belief to someone else; it says that some people think Anthropic might pose an existential risk to humanity: Concerns have been raised both within our organization and by other researchers, regulators, policymakers, and industry participants that sufficiently advanced AI...",
       "publishedAt": "2026-10-27T04:46:19.850Z",
       "articleId": "3d95b04546fc6f3a"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny",
-      "title": "Is “Who’s on First?” funny?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Well, no, it is not funny, it would be too easy to relieve the dramatic tension by having Abbott explain the actual situation to Costello. One is not wrong to call the whole thing stupid. Yet there is another reading of the skit which stands at least some chance of being funny, though it is […]",
-      "publishedAt": "2026-10-27T04:32:03.000Z",
-      "articleId": "568f8f36cddd1a7f"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/make-housing-affordable-again",
@@ -1166,29 +1199,6 @@
       "articleId": "3641e9bb6b1bc3f6"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/our-culture-is-way-too-eager-to-embrace",
-      "title": "Our culture is way too eager to embrace deception",
-      "url": "https://www.slowboring.com/p/our-culture-is-way-too-eager-to-embrace",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "We desperately need to rebuild an ethic of probity and integrity.",
-      "publishedAt": "2026-10-20T10:03:06.000Z",
-      "articleId": "38c8a9f136887fd2"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
-      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
-      "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "articleId": "f691b33b16339eed"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
       "title": "Is Brock Purdy the NFL’s best quarterback?",
       "url": "https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
@@ -1493,18 +1503,6 @@
       "summary": "Its secret is its cities, not central planning",
       "publishedAt": "2026-10-14T12:41:38.000Z",
       "articleId": "c23b9b9adce2dfce"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/will-republican-gerrymanders-become",
-      "title": "Will Republican gerrymanders become dummymanders?",
-      "url": "https://www.natesilver.net/p/will-republican-gerrymanders-become",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Democrats are poised to make big gains in the House. But will they be enough to make Republicans regret redistricting?",
-      "publishedAt": "2026-10-13T18:38:22.000Z",
-      "articleId": "e575de7c86314321"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/qao9b6uz621gsng57h3v2stl9w69soca3hy61g4b.html",
@@ -2195,16 +2193,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
