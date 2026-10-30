@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-30T00:53:11.138Z",
-  "fetchedAt": "2026-10-30T00:53:11.134Z",
+  "generatedAt": "2026-10-30T07:02:36.609Z",
+  "fetchedAt": "2026-10-30T07:02:36.605Z",
   "sourceCount": 25,
-  "itemCount": 186,
+  "itemCount": 187,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
+      "title": "Chronicle of Higher Education interviews me on AI and education",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Scott Carlson did the work (gated, but free with registration), here is one excerpt: Cowen: …Another proposal I’ve made is that schools should let people do one class, only one class, AI-only — no professor, except a professor grades at the end. The professor grades not answers to an exam but the workflow of how […]",
+      "publishedAt": "2026-10-30T04:32:28.000Z",
+      "articleId": "b397875e05ca0a07"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/character-select",
+      "title": "Character Select",
+      "url": "https://walkingtheworld.substack.com/p/character-select",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "open",
+      "summary": "Thoughts about fiction, and reviews of Stendhal, Nabokov, and others",
+      "publishedAt": "2026-10-29T23:43:14.000Z",
+      "articleId": "82ac39c1340e4249"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
       "title": "Deport Immigrants? Oh Yes. But Not This Guy.",
@@ -565,17 +587,6 @@
       "summary": "Trump makes an affordability play just before Election Day as California construction rises, Los Angeles tries to manage its homelessness response, and Bloomberg and Gen Z assert their own leadership.",
       "publishedAt": "2026-10-26T22:01:40.000Z",
       "articleId": "b5845c61ebf1698b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Why slow fields may determine the pace of discovery. 2. Touch screens on your jacket? 3. Astras performance on Bach bench. 4. More on regional productivity differences (and puzzles) in health care. 5. “Plans to allow US companies run entirely by AI “agents” have come under fire from powerful Republicans in Congress, who fear […]",
-      "publishedAt": "2026-10-26T16:23:21.000Z",
-      "articleId": "9bb50833751ecec4"
     },
     {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/xepy3p3g2nznqgucnz3jsw7vj7c47d7y1kevbeyo.html",
@@ -2184,10 +2195,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
