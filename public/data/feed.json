@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-30T19:17:37.437Z",
-  "fetchedAt": "2026-10-30T19:17:37.431Z",
+  "generatedAt": "2026-10-30T23:41:32.431Z",
+  "fetchedAt": "2026-10-30T23:41:32.427Z",
   "sourceCount": 25,
-  "itemCount": 186,
+  "itemCount": 183,
   "totalItemCount": 813,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
+      "title": "Deport Immigrants? Oh Yes. But Not This Guy.",
+      "url": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Suddenly, empathy isn’t so toxic.",
+      "publishedAt": "2026-10-30T19:46:27.000Z",
+      "articleId": "a5cc8f86d81a2c3d"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/at-long-last/",
       "title": "2026.44: At Long Last…",
@@ -37,17 +48,6 @@
       "summary": "1. Dwarkesh interviews Robert Caro (!). 2. New and pretty brutal results on CTE and football. 3. Interview with Dan Wang. 4. Updated version of the Saez-Zucman audit. Contestable and speculative assumptions are now separated from true defects. 5. Rosalind Arden interviews Greg Clark on social status. 6. GPTs vs. Claudes, in games. 7. The […]",
       "publishedAt": "2026-10-30T16:16:29.000Z",
       "articleId": "4fd54330b4c9941f"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
-      "title": "Deport Immigrants? Oh Yes. But Not This Guy.",
-      "url": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Suddenly, empathy isn’t so toxic.",
-      "publishedAt": "2026-10-30T14:42:37.000Z",
-      "articleId": "a5cc8f86d81a2c3d"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-cognitive-dissonance-election",
@@ -2060,44 +2060,11 @@
       "summary": "AI risk; Reindustrialization; The rent crisis; AI and jobs; Mass deportation; Chinese investment; Cyber risk",
       "publishedAt": "2026-10-01T06:14:51.000Z",
       "articleId": "2d4f97f073d73d63"
-    },
-    {
-      "id": "Josh Barro:https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
-      "title": "This Is What Fed Independence Looks Like",
-      "url": "https://www.joshbarro.com/p/this-is-what-fed-independence-looks",
-      "source": "Josh Barro",
-      "sourceUrl": "https://www.joshbarro.com/",
-      "access": "open",
-      "summary": "President Trump’s economic team is annoyed he hasn’t been able to reshape the Federal Reserve Board. But he’s not supposed to be able to.",
-      "publishedAt": "2026-09-30T22:42:58.000Z",
-      "articleId": "8e74f2c03b11ede3"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7646784/2026/09/30/jameis-winston-j-j-mccarthy-new-york-giants/",
-      "title": "Giants QB Jameis Winston excited to work with J.J. McCarthy",
-      "url": "https://www.nytimes.com/athletic/7646784/2026/09/30/jameis-winston-j-j-mccarthy-new-york-giants/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "\"Anybody who gets an opportunity to come to a new organization with a fresh start wants to make an impact,\" Winston said of McCarthy.",
-      "publishedAt": "2026-09-30T20:06:53.000Z",
-      "articleId": "6e1d2f0e1a72b137"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7643392/2026/09/30/new-york-giants-odell-beckham-jr-release/",
-      "title": "John Harbaugh on why Giants cut Odell Beckham Jr.: 'We weren't getting enough'",
-      "url": "https://www.nytimes.com/athletic/7643392/2026/09/30/new-york-giants-odell-beckham-jr-release/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Beckham did not make a catch in three games with the Giants.",
-      "publishedAt": "2026-09-30T19:36:39.000Z",
-      "articleId": "48a3add6b09ec62f"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
