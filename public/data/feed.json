@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-31T17:40:50.097Z",
-  "fetchedAt": "2026-10-31T17:40:50.094Z",
+  "generatedAt": "2026-10-31T21:27:34.349Z",
+  "fetchedAt": "2026-10-31T21:27:34.338Z",
   "sourceCount": 25,
-  "itemCount": 182,
+  "itemCount": 181,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip",
+      "title": "William Nordhaus, RIP",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is notice from Yale, and from Paul Krugman, he was one of the true greats. For the pointer I thank several MR readers.",
+      "publishedAt": "2026-10-31T18:33:58.000Z",
+      "articleId": "a284ae739254fa7e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2",
+      "title": "And so it begins…",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Researchers, I just uploaded a prominent QJE paper on climate change economics to @RefineDotInk and I loaded my critique of the paper. I asked the AI to offer an impartial verdict. I will make this report public. A new journal could collect these into “Special Issues”. That is from Matthew E. Kahn.",
+      "publishedAt": "2026-10-31T18:21:28.000Z",
+      "articleId": "43b9b2f5201c29f8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584",
       "title": "Saturday assorted links",
@@ -488,28 +510,6 @@
       "summary": "How Portland is tapping into a new offensive identity with Damian Lillard and Ja Morant",
       "publishedAt": "2026-10-28T21:44:15.000Z",
       "articleId": "efc18cf8a4483688"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
-      "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "AI issues its judgment: 138 papers audited 2,035 problems found 147 serious enough to change a headline number 69% of papers have at least one 97% of major and moderate errors with a clear direction overstate the paper’s claim And on the method: Two independent audits of each paper. One by Claude Opus 5.5, one […]",
-      "publishedAt": "2026-10-28T18:56:51.000Z",
-      "articleId": "d46c640f40bc4bac"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research",
-      "title": "How is AI shaping economic research?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Does generative AI narrow or widen productivity gaps in research? We study the distributional effects of AI on research productivity in economics using evidence from three sources: NBER working-paper and publication records, text-based measures of LLM-assisted writing, and an original survey of 227 academic economists measuring AI use across research tasks. We first show that […]",
-      "publishedAt": "2026-10-28T18:52:56.000Z",
-      "articleId": "e3154933041783bd"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ngwzs23tr2kk8idxi4a42gm157v4iqtho43wj0bx.html",
@@ -2040,17 +2040,6 @@
       "summary": "A guest post by Drew Housman",
       "publishedAt": "2026-10-02T01:08:13.000Z",
       "articleId": "7d102ed4173686ce"
-    },
-    {
-      "id": "Scott Sumner:https://scottsumner.substack.com/p/films-of-2026-q3",
-      "title": "Films of 2026: Q3",
-      "url": "https://scottsumner.substack.com/p/films-of-2026-q3",
-      "source": "Scott Sumner",
-      "sourceUrl": "https://scottsumner.substack.com/",
-      "access": "open",
-      "summary": "And a few TV and book recommendations",
-      "publishedAt": "2026-10-01T18:25:06.000Z",
-      "articleId": "620076c9c7d0ed5a"
     }
   ],
   "weather": null,
