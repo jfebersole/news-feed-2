@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-31T05:29:23.070Z",
-  "fetchedAt": "2026-10-31T05:29:23.067Z",
+  "generatedAt": "2026-10-31T12:15:56.932Z",
+  "fetchedAt": "2026-10-31T12:15:56.927Z",
   "sourceCount": 25,
-  "itemCount": 184,
+  "itemCount": 181,
   "totalItemCount": 813,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime",
+      "title": "The pass-through of retail crime",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not […]",
+      "publishedAt": "2026-10-31T06:44:07.000Z",
+      "articleId": "d13b1d5444d022ab"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&utm_medium=rss&utm_campaign=the-unintended-consequences-of-academic-leniency",
       "title": "The unintended consequences of academic leniency",
@@ -495,17 +506,6 @@
       "summary": "Mamdani seems surprisingly moderate because mayors need to govern.",
       "publishedAt": "2026-10-28T10:03:29.000Z",
       "articleId": "3103babe76b0939b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks",
-      "title": "AI hacking risks",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key […]",
-      "publishedAt": "2026-10-28T04:38:22.000Z",
-      "articleId": "eceee63d7bedf7a2"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
@@ -2038,39 +2038,6 @@
       "summary": "Burns is scheduled to undergo surgery to repair both injuries Wednesday at the Hospital for Special Surgery in New York City.",
       "publishedAt": "2026-10-01T12:58:50.000Z",
       "articleId": "85439ed678cd0cc0"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/understanding-the-ai-that-drives",
-      "title": "Understanding the AI That Drives Robots",
-      "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "An Explanation of Vision-Language-Action Models",
-      "publishedAt": "2026-10-01T12:04:36.000Z",
-      "articleId": "1c447382d1fd10a6"
-    },
-    {
-      "id": "One Useful Thing:https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "title": "The Dot and the Swarm",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/",
-      "access": "open",
-      "summary": "Benefitting from the Bitter Lesson",
-      "publishedAt": "2026-10-01T10:54:12.000Z",
-      "articleId": "ee61659f96467b43"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-89-it-isnt-x-its-y",
-      "title": "Roundup #89: It isn’t X, it’s Y",
-      "url": "https://www.noahpinion.blog/p/roundup-89-it-isnt-x-its-y",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "AI risk; Reindustrialization; The rent crisis; AI and jobs; Mass deportation; Chinese investment; Cyber risk",
-      "publishedAt": "2026-10-01T06:14:51.000Z",
-      "articleId": "2d4f97f073d73d63"
     }
   ],
   "weather": null,
@@ -2168,10 +2135,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
