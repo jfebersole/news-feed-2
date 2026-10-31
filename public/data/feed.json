@@ -1,10 +1,91 @@
 {
-  "generatedAt": "2026-10-31T12:15:56.932Z",
-  "fetchedAt": "2026-10-31T12:15:56.927Z",
+  "generatedAt": "2026-10-31T17:40:50.097Z",
+  "fetchedAt": "2026-10-31T17:40:50.094Z",
   "sourceCount": 25,
-  "itemCount": 181,
-  "totalItemCount": 813,
+  "itemCount": 182,
+  "totalItemCount": 814,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584",
+      "title": "Saturday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Organizing Intelligence. 2. World Bank African urbanization report. Building out African cities in a decent way could end up being the task of our coming era. 3. Summary of The Commanding Heights. 4. “Meanwhile in Armenia…” 5. “Female psychopathology has worsened despite increased resources and opportunities, suggesting it does not entirely reflect absolute deprivation, […]",
+      "publishedAt": "2026-10-31T16:16:45.000Z",
+      "articleId": "b2bb6d1a5a6e4814"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
+      "title": "SBSQ #32: SuperMegaJumboDeluxe Edition",
+      "url": "https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "It’s three days before the election: the perfect time for an SBSQ reboot.",
+      "publishedAt": "2026-10-31T16:07:41.000Z",
+      "articleId": "3efbff7d1a4d3ed7"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-scariest-song",
+      "title": "The Scariest Song",
+      "url": "https://www.cantgetmuchhigher.com/p/the-scariest-song",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Boo!",
+      "publishedAt": "2026-10-31T15:10:46.000Z",
+      "articleId": "39c01042043165b2"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk",
+      "title": "My Barcelona talk",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Wednesday, November 4, 18:30 Barcelona time, details here. I am honored to have won the Elinor Ostrom Prize from the Institut Ostrom Catalunya. Maybe see you there!",
+      "publishedAt": "2026-10-31T13:29:19.000Z",
+      "articleId": "2fe7ab6f75790d1a"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/supernatural-nimbys",
+      "title": "Supernatural NIMBYs",
+      "url": "https://www.slowboring.com/p/supernatural-nimbys",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "When magic spooks progress",
+      "publishedAt": "2026-10-31T13:02:52.000Z",
+      "articleId": "984ccc35bd7bc052"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-103126",
+      "title": "Reading List 10/31/26",
+      "url": "https://www.construction-physics.com/p/reading-list-103126",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Space fiber optic cable manufacturing, nuclear district heating, Spain’s high-speed rail crash, China’s spaceplane, and more.",
+      "publishedAt": "2026-10-31T12:34:23.000Z",
+      "articleId": "9c87eb38739640e0"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-october-26-30-2026",
+      "title": "The Week That Was (October 26-30, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-october-26-30-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-10-31T09:01:02.000Z",
+      "articleId": "a32d9d3ad6d4074a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime",
       "title": "The pass-through of retail crime",
@@ -442,17 +523,6 @@
       "articleId": "094e7d9db91630e7"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. A new taxonomy of work, for the AI era. Thread here. 2. On Morel’s Invention (NYT). 3. Iranian brick architecture. 4. How do non-profits use cash windfalls? 5. The roots of earlier German industrial success. 6. Susquehanna Hat Company skit.",
-      "publishedAt": "2026-10-28T15:55:58.000Z",
-      "articleId": "e83a16b15331c051"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/my-california-ballot-2026",
       "title": "My California Ballot, 2026",
       "url": "https://www.astralcodexten.com/p/my-california-ballot-2026",
@@ -462,17 +532,6 @@
       "summary": "...",
       "publishedAt": "2026-10-28T15:29:17.000Z",
       "articleId": "f2475fca6e525e17"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land",
-      "title": "Inequality in Equal Land",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just doesn’t seem fair at […]",
-      "publishedAt": "2026-10-28T11:18:28.000Z",
-      "articleId": "d3870107c59f2625"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/young-prudes",
@@ -1096,18 +1155,6 @@
       "articleId": "e050764071f463b6"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/americans-need-to-get-out-of-the",
-      "title": "Americans need to get out of the house",
-      "url": "https://www.slowboring.com/p/americans-need-to-get-out-of-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "I’m way more online than I should be, and you probably are too.",
-      "publishedAt": "2026-10-21T10:02:24.000Z",
-      "articleId": "992162e3904a737f"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
       "title": "“You Can See Everything” and the nature of liars",
       "url": "https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
@@ -1401,18 +1448,6 @@
       "summary": "...",
       "publishedAt": "2026-10-16T04:04:26.000Z",
       "articleId": "efb94ba47d7aaa76"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/welcome-to-midterm-silly-season",
-      "title": "Welcome to midterm silly season 🤡",
-      "url": "https://www.natesilver.net/p/welcome-to-midterm-silly-season",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Still Couting EP 5",
-      "publishedAt": "2026-10-15T19:13:51.000Z",
-      "articleId": "16c156c1f3619e50"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/a-song-for-every-place",
@@ -2016,28 +2051,6 @@
       "summary": "And a few TV and book recommendations",
       "publishedAt": "2026-10-01T18:25:06.000Z",
       "articleId": "620076c9c7d0ed5a"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/did-guitar-hero-change-classic-rock",
-      "title": "Did Guitar Hero Change Classic Rock?",
-      "url": "https://www.cantgetmuchhigher.com/p/did-guitar-hero-change-classic-rock",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, did it just make us really good at tapping buttons?",
-      "publishedAt": "2026-10-01T17:30:21.000Z",
-      "articleId": "d9cb9ef0b353d2ed"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7649073/2026/10/01/giants-brian-burns-meniscus-acl-injury/",
-      "title": "Giants star LB Brian Burns tore meniscus as well as ACL: Sources",
-      "url": "https://www.nytimes.com/athletic/7649073/2026/10/01/giants-brian-burns-meniscus-acl-injury/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Burns is scheduled to undergo surgery to repair both injuries Wednesday at the Hospital for Special Surgery in New York City.",
-      "publishedAt": "2026-10-01T12:58:50.000Z",
-      "articleId": "85439ed678cd0cc0"
     }
   ],
   "weather": null,
@@ -2135,10 +2148,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 1,
+      "mode": "rss-proxy",
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
