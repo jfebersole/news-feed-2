@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-01T19:36:15.032Z",
-  "fetchedAt": "2026-11-01T19:36:15.028Z",
+  "generatedAt": "2026-11-01T23:32:07.971Z",
+  "fetchedAt": "2026-11-01T23:32:07.966Z",
   "sourceCount": 25,
   "itemCount": 180,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/could-haley-stevens-cost-democrats",
+      "title": "Could Haley Stevens cost Democrats the Senate?",
+      "url": "https://www.natesilver.net/p/could-haley-stevens-cost-democrats",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "Probably not, but let’s run the numbers on a rare *November* Surprise. Plus, please join us for our Election Night coverage!",
+      "publishedAt": "2026-11-01T22:21:16.000Z",
+      "articleId": "b0d87516c8a1d73b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable",
+      "title": "As predicted, the ACA exchanges seem not to be stable",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The average price of health insurance in the Obamacare marketplaces will rise by 13 percent next year, according to an analysis on Friday by KFF, the health research group. The Trump administration on Friday published new prices for 2027 in 30 states with markets managed by the federal government. Using that data and state figures, […]",
+      "publishedAt": "2026-11-01T19:53:38.000Z",
+      "articleId": "bfed8865dc4255c4"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
       "title": "Trump Has Found the Attorney General of His Dreams",
@@ -398,17 +420,6 @@
       "summary": "What I learned reading all 421 pages of the Anthropic S-1",
       "publishedAt": "2026-10-29T19:10:41.000Z",
       "articleId": "f7d0f7defa946d5d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics",
-      "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the relevant set of papers was released. First, LLM […]",
-      "publishedAt": "2026-10-29T18:02:03.000Z",
-      "articleId": "b7e88cf23df038f6"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/9hj9met88um6a1k7t81hk6mlq3nj0zqj6n4n0ktx.html",
@@ -1301,18 +1312,6 @@
       "summary": "Entering a game trailing by 24 points removed some pressure from McCarthy, who saw a lot of soft coverages and few blitzes from the Saints.",
       "publishedAt": "2026-10-20T11:48:05.000Z",
       "articleId": "3641e9bb6b1bc3f6"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
-      "title": "Is Brock Purdy the NFL’s best quarterback?",
-      "url": "https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "“Mr. Irrelevant” has the NFL’s highest QBERT rating so far this season. It’s time to stop holding his draft position against him.",
-      "publishedAt": "2026-10-19T20:45:41.000Z",
-      "articleId": "1e8242f4469bf267"
     },
     {
       "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
