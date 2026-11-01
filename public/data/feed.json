@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T21:27:34.349Z",
-  "fetchedAt": "2026-10-31T21:27:34.338Z",
+  "generatedAt": "2026-11-01T01:04:32.189Z",
+  "fetchedAt": "2026-11-01T01:04:32.185Z",
   "sourceCount": 25,
   "itemCount": 181,
   "totalItemCount": 814,
@@ -2137,10 +2137,10 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
