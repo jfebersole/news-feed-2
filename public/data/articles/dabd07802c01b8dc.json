@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html",
+  "source": "Marginal Revolution",
+  "title": "Are LLMs good or bad Bayesians?",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote><p>Bryan Caplan:</p>\n<p>It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the speaker or just not change.</p>\n<p>ChatGPT:</p>\n<p>I think you’ve identified a genuine and important failure mode in AI reasoning: <strong>LLMs tend to treat a plausible counterargument as evidence in favor of its conclusion, rather than comparing the counterargument to what they should have expected to hear.</strong></p>\n<p>Your Bayesian point is correct, with one qualification: there’s no general theorem that updating toward and away from a speaker should happen with <em>equal</em> probability. But under appropriate calibration assumptions, both directions should occur, and an argument that’s weaker than expected should cause a negative update—even if the argument is perfectly valid as far as it goes.</p></blockquote>\n<p>Here is <a href=\"https://www.betonit.ai/p/chatgpt-knows-its-a-bad-bayesian?utm_source=post-email-title&amp;publication_id=820634&amp;post_id=222347086&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=3o9&amp;triedRedirect=true&amp;utm_medium=email\" target=\"_blank\" rel=\"noopener noreferrer\">the full dialogue</a>.&nbsp; But will they try to fix this?&nbsp; Should they try to fix this?&nbsp; Can you undo this with good enough prompting?&nbsp; The scope and limits of Bayesian are truly at stake here…</p>",
+  "wordCount": 189,
+  "imageCount": 0,
+  "linkCount": 1
+}

@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-01T01:04:32.189Z",
-  "fetchedAt": "2026-11-01T01:04:32.185Z",
+  "generatedAt": "2026-11-01T07:29:01.835Z",
+  "fetchedAt": "2026-11-01T07:29:01.831Z",
   "sourceCount": 25,
-  "itemCount": 181,
+  "itemCount": 180,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
+      "title": "Are LLMs good or bad Bayesians?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Bryan Caplan: It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the speaker or just not change. ChatGPT: […]",
+      "publishedAt": "2026-11-01T04:17:10.000Z",
+      "articleId": "dabd07802c01b8dc"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip",
       "title": "William Nordhaus, RIP",
@@ -463,17 +474,6 @@
       "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as well as potential paths to […]",
       "publishedAt": "2026-10-29T07:13:03.000Z",
       "articleId": "802c0e627ff73ada"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
-      "title": "My design Conversation with Roman Mars",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Roman Mars has built one of podcasting’s great empires out of noticing things everyone else walks past. His show, 99% Invisible, has racked up over 500 million downloads telling stories about the unnoticed design choices that quietly shape how cities and […]",
-      "publishedAt": "2026-10-29T04:41:19.000Z",
-      "articleId": "b627cc7b0746108d"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
@@ -2029,17 +2029,6 @@
       "summary": "The 2-1 Giants host the Cardinals on Sunday as they look to continue to plot a path forwards at quarterback without Jaxson Dart.",
       "publishedAt": "2026-10-02T12:20:55.000Z",
       "articleId": "787223d6c1a0b28c"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/our-ai-midwife",
-      "title": "Our AI Midwife",
-      "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "A guest post by Drew Housman",
-      "publishedAt": "2026-10-02T01:08:13.000Z",
-      "articleId": "7d102ed4173686ce"
     }
   ],
   "weather": null,
@@ -2129,18 +2118,18 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
