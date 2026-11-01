@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-11-01T07:29:01.835Z",
-  "fetchedAt": "2026-11-01T07:29:01.831Z",
+  "generatedAt": "2026-11-01T15:00:56.716Z",
+  "fetchedAt": "2026-11-01T15:00:56.712Z",
   "sourceCount": 25,
   "itemCount": 180,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
+      "title": "13 maps for the morning after the midterms",
+      "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "From the base case to the increasingly weird, let’s let FLIPR have some fun. 🐬",
+      "publishedAt": "2026-11-01T14:52:53.000Z",
+      "articleId": "76465bb5fa2078a3"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/what-are-the-worst-mr-posts.html?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-worst-mr-posts",
+      "title": "What are the Worst MR Posts?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-are-the-worst-mr-posts.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "What are the worst MR posts, most illogical, poorly reasoned, low value, inconsistent? From the Archives, written by ChatGPT: These are provisional candidates for weak reasoning, selected because there is a specific gap between the evidence and the conclusion. This is not an objective ranking of all 40,326 posts in the downloaded archive. Poor reasoning […]",
+      "publishedAt": "2026-11-01T12:18:51.000Z",
+      "articleId": "7f36eaf2afd11717"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
+      "title": "Trump Has Found the Attorney General of His Dreams",
+      "url": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The Department of Justice is in a state of moral collapse.",
+      "publishedAt": "2026-11-01T11:00:10.000Z",
+      "articleId": "f660de646ad83940"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18",
+      "title": "Those new service sector jobs?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A suburban Chicago man has been sentenced to two years in federal prison for conspiring to stage armed robberies so that the purported victims could apply for U.S. immigration visas reserved for crime victims. From 2022 to 2024, PARTH NAYI organized and participated in hundreds of staged armed robberies at coffee shops, restaurants, liquor stores, and gas […]",
+      "publishedAt": "2026-11-01T07:55:35.000Z",
+      "articleId": "fdfc237969c7a1cb"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
       "title": "Are LLMs good or bad Bayesians?",
@@ -408,17 +453,6 @@
       "articleId": "0e9759b715678109"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai",
-      "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen emphasizes institutions, bottlenecks, and geopolitical competition. Tabarrok emphasizes inexpensive intelligence, scientific discovery, and—especially in his later […]",
-      "publishedAt": "2026-10-29T11:17:47.000Z",
-      "articleId": "36600cee16f94d1e"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-the",
       "title": "“The Argument” podcast, ad free: The human condition in the age of A.I.",
       "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-the",
@@ -463,17 +497,6 @@
       "summary": "AI can do things humans researchers can’t, even in groups.",
       "publishedAt": "2026-10-29T09:55:51.000Z",
       "articleId": "8d27972a50132dc7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews",
-      "title": "AI dominates human peer reviews",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as well as potential paths to […]",
-      "publishedAt": "2026-10-29T07:13:03.000Z",
-      "articleId": "802c0e627ff73ada"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
@@ -1370,18 +1393,6 @@
       "articleId": "472d31d546243da0"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
-      "title": "The good, bad and ugly outcomes in the Senate",
-      "url": "https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Can Democrats still win the Senate if the polls overestimate them? And how ugly could the map get for Republicans if the polls are wrong in the other direction?",
-      "publishedAt": "2026-10-17T18:01:13.000Z",
-      "articleId": "ee67491ffb82b391"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-101726",
       "title": "Reading List 10/17/26",
       "url": "https://www.construction-physics.com/p/reading-list-101726",
@@ -2018,17 +2029,6 @@
       "summary": "McCarthy said it was a bit of a \"shock\" when he got the call that he was being sent to New York.",
       "publishedAt": "2026-10-02T17:41:43.000Z",
       "articleId": "a47b744663b836e7"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7651586/2026/10/02/giants-cardinals-preview-prediction-quarterback/",
-      "title": "Can Jameis Winston hold off JJ McCarthy? Where's the pass rush? What to watch for in Giants-Cardinals",
-      "url": "https://www.nytimes.com/athletic/7651586/2026/10/02/giants-cardinals-preview-prediction-quarterback/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The 2-1 Giants host the Cardinals on Sunday as they look to continue to plot a path forwards at quarterback without Jaxson Dart.",
-      "publishedAt": "2026-10-02T12:20:55.000Z",
-      "articleId": "787223d6c1a0b28c"
     }
   ],
   "weather": null,
@@ -2118,18 +2118,18 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Silver Bulletin",
