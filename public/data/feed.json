@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-11-01T23:32:07.971Z",
-  "fetchedAt": "2026-11-01T23:32:07.966Z",
+  "generatedAt": "2026-11-02T05:54:18.101Z",
+  "fetchedAt": "2026-11-02T05:54:18.098Z",
   "sourceCount": 25,
-  "itemCount": 180,
-  "totalItemCount": 814,
+  "itemCount": 179,
+  "totalItemCount": 812,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
+      "title": "Should you feel grief for the dead who go to heaven?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I am not myself religious, but let us consider the possible gulf between behavior and doctrine amongst those who are. It has long struck me as a kind of mini-puzzle why people feel so much grief for the departed, at least for the departed who are supposed to be headed for heaven (and yes there […]",
+      "publishedAt": "2026-11-02T05:24:47.000Z",
+      "articleId": "f0c1f2dfb127251c"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/the-nytsiena-polls-show-a-blue-tsunami",
+      "title": "The NYT/Siena polls show a blue tsunami",
+      "url": "https://www.natesilver.net/p/the-nytsiena-polls-show-a-blue-tsunami",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "They might be wrong again, but it’s getting hard to deny that polls point toward a really big year for Democrats.",
+      "publishedAt": "2026-11-02T05:15:41.000Z",
+      "articleId": "b9574a9397576bcb"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/could-haley-stevens-cost-democrats",
       "title": "Could Haley Stevens cost Democrats the Senate?",
@@ -355,17 +378,6 @@
       "articleId": "105b68f121e9e5c7"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
-      "title": "The Brewers Built a Small-Market Contender That Accidentally Became a Juggernaut",
-      "url": "https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Milwaukee tried to emulate the 2010s Royals’ running, fielding and bullpen advantages. But then they kept adding until they had the overall talent of a high-payroll champion.",
-      "publishedAt": "2026-10-30T09:02:10.000Z",
-      "articleId": "09df52fa4b251f06"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions",
       "title": "Are there too many misdemeanor convictions?",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html",
@@ -375,17 +387,6 @@
       "summary": "Maybe so: Misdemeanors account for three-quarters of criminal cases filed annually in the United States, yet causal evidence on the impacts of misdemeanor conviction is scarce. We combine administrative and survey data to provide novel evidence of how misdemeanor conviction affects the socioeconomic outcomes of defendants and their families. Using data on nearly seven million […]",
       "publishedAt": "2026-10-30T07:33:45.000Z",
       "articleId": "a0a21624b82fe4d3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
-      "title": "Chronicle of Higher Education interviews me on AI and education",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Scott Carlson did the work (gated, but free with registration), here is one excerpt: Cowen: …Another proposal I’ve made is that schools should let people do one class, only one class, AI-only — no professor, except a professor grades at the end. The professor grades not answers to an exam but the workflow of how […]",
-      "publishedAt": "2026-10-30T04:32:28.000Z",
-      "articleId": "b397875e05ca0a07"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/character-select",
@@ -1213,18 +1214,6 @@
       "articleId": "b232b5e666023866"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
-      "title": "My pet peeve about the polling error debate",
-      "url": "https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Polling error is hard to predict when pollsters are constantly tinkering with the recipe.",
-      "publishedAt": "2026-10-20T22:44:56.000Z",
-      "articleId": "53afc50642965a5b"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/against-against-handover",
       "title": "Against Against Handover",
       "url": "https://www.astralcodexten.com/p/against-against-handover",
@@ -2033,7 +2022,7 @@
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2055,7 +2044,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
@@ -2127,7 +2116,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
