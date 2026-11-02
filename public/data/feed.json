@@ -1,10 +1,68 @@
 {
-  "generatedAt": "2026-11-02T05:54:18.101Z",
-  "fetchedAt": "2026-11-02T05:54:18.098Z",
+  "generatedAt": "2026-11-02T15:39:21.945Z",
+  "fetchedAt": "2026-11-02T15:39:21.943Z",
   "sourceCount": 25,
-  "itemCount": 179,
-  "totalItemCount": 812,
+  "itemCount": 183,
+  "totalItemCount": 837,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases",
+      "title": "Expensive Pharmaceuticals for Targeted Diseases",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My latest paper, The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine, is in the Journal of Law, Medicine and Ethics. I discuss the economics of the pharmaceutical industry and the special issues that arise with targeted drugs that cure. We are going to get many more of these drugs in […]",
+      "publishedAt": "2026-11-02T12:16:34.000Z",
+      "articleId": "838479c0212d4f32"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/anthropics-moat-is-claude",
+      "title": "Anthropic’s moat is Claude",
+      "url": "https://www.noahpinion.blog/p/anthropics-moat-is-claude",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The bull case for Anthropic’s IPO.",
+      "publishedAt": "2026-11-02T11:03:51.000Z",
+      "articleId": "6c22097c05e17f76"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-seven-most-important-midterms",
+      "title": "The seven most important midterms of all time",
+      "url": "https://www.slowboring.com/p/the-seven-most-important-midterms",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A subjective — but objectively correct — list",
+      "publishedAt": "2026-11-02T11:03:35.000Z",
+      "articleId": "7ffc271d91843532"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+      "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
+      "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "articleId": "27ada6008e537bab"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-thunder-are-learning-just-how",
+      "title": "The Thunder Are Learning Just How Fragile a Would-Be Dynasty Can Be",
+      "url": "https://neilpaine.substack.com/p/the-thunder-are-learning-just-how",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Once poised to dominate the NBA for many years, Oklahoma City has already lost nearly half of the Wins Above Replacement from its championship roster to injuries and departures.",
+      "publishedAt": "2026-11-02T10:01:04.000Z",
+      "articleId": "3e35e4a353ed838b"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
       "title": "Should you feel grief for the dead who go to heaven?",
@@ -378,15 +436,15 @@
       "articleId": "105b68f121e9e5c7"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions",
-      "title": "Are there too many misdemeanor convictions?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
+      "title": "The Brewers Built a Small-Market Contender That Accidentally Became a Juggernaut",
+      "url": "https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
       "access": "open",
-      "summary": "Maybe so: Misdemeanors account for three-quarters of criminal cases filed annually in the United States, yet causal evidence on the impacts of misdemeanor conviction is scarce. We combine administrative and survey data to provide novel evidence of how misdemeanor conviction affects the socioeconomic outcomes of defendants and their families. Using data on nearly seven million […]",
-      "publishedAt": "2026-10-30T07:33:45.000Z",
-      "articleId": "a0a21624b82fe4d3"
+      "summary": "Milwaukee tried to emulate the 2010s Royals’ running, fielding and bullpen advantages. But then they kept adding until they had the overall talent of a high-payroll champion.",
+      "publishedAt": "2026-10-30T09:02:10.000Z",
+      "articleId": "09df52fa4b251f06"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/character-select",
@@ -535,6 +593,17 @@
       "articleId": "8d27972a50132dc7"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
+      "title": "The Brewers Kept Reinventing Themselves Until They Were Champions",
+      "url": "https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Milwaukee’s first World Series title finished off an 11-2 October — and years of replacing stars, developing new ones, and staying in contention through it all.",
+      "publishedAt": "2026-10-29T03:14:23.000Z",
+      "articleId": "3eaecd093e15d0f9"
+    },
+    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
       "title": "Some thoughts on South Carolina’s surprisingly close Senate race",
       "url": "https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
@@ -624,6 +693,18 @@
       "summary": "Mamdani seems surprisingly moderate because mayors need to govern.",
       "publishedAt": "2026-10-28T10:03:29.000Z",
       "articleId": "3103babe76b0939b"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-vikings-are-winning-like-its",
+      "title": "The Vikings Are Winning Like It’s 1973",
+      "url": "https://neilpaine.substack.com/p/the-vikings-are-winning-like-its",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "But it’s not 1973. Can this keep working in 2026?",
+      "publishedAt": "2026-10-28T09:02:09.000Z",
+      "articleId": "ab05d544affb9b97"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
@@ -737,6 +818,18 @@
       "summary": "It might be the most important issue right now, but I’m not history’s main character.",
       "publishedAt": "2026-10-27T10:01:46.000Z",
       "articleId": "ff62ce5b5cd6c2e9"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/before-you-win-the-world-series-you",
+      "title": "Before You Win the World Series, You Get to Wear It",
+      "url": "https://neilpaine.substack.com/p/before-you-win-the-world-series-you",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Championship patches make the biggest games feel special — though they’re a younger tradition, across all sports, than they seem.",
+      "publishedAt": "2026-10-27T09:01:14.000Z",
+      "articleId": "e366a986e1708d33"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
@@ -1125,17 +1218,6 @@
       "articleId": "f5d5d35ca5360a4b"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/your-favorite-cause-is-not-the-civil",
-      "title": "Your favorite cause is not the civil rights movement and neither is mine",
-      "url": "https://www.slowboring.com/p/your-favorite-cause-is-not-the-civil",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It doesn’t make a lot of sense to imitate an extreme outlier event.",
-      "publishedAt": "2026-10-22T10:02:56.000Z",
-      "articleId": "abc91e8a2728c06c"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
       "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
       "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
@@ -1178,17 +1260,6 @@
       "summary": "...",
       "publishedAt": "2026-10-21T21:53:11.000Z",
       "articleId": "71cda09d15ef24be"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/presented-by-stripe/",
-      "title": "Presented by Stripe",
-      "url": "https://stratechery.com/2026/presented-by-stripe/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
-      "publishedAt": "2026-10-21T17:35:31.000Z",
-      "articleId": "5918c4a7c98a66fe"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/d9y99cahpx7jeqb8zm71gls8tc9oz7j0pwbsfbb1.html",
@@ -1994,35 +2065,11 @@
       "summary": "Manager and licensing guru Liz Kamlet stops by to talk social media, music publishing, and Stephen Bishop",
       "publishedAt": "2026-10-04T13:31:22.000Z",
       "articleId": "844e4bb944e3dc1e"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-2026-10-03",
-      "title": "Reading List 2026-10-03",
-      "url": "https://www.construction-physics.com/p/reading-list-2026-10-03",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A Senate permitting reform bill, the potential of Tesla’s Cybercab, the Navy’s $200 billion worth of shipyard renovations, returning a SR-71 to service, and more.",
-      "publishedAt": "2026-10-03T13:14:44.000Z",
-      "articleId": "6bb6142cf331a23e"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
-      "title": "The second Trump presidency is a world-historic failure",
-      "url": "https://www.noahpinion.blog/p/the-second-trump-presidency-is-a",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "How did Trump fumble so badly?",
-      "publishedAt": "2026-10-03T08:47:17.000Z",
-      "articleId": "42b18b8b45733732"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2067,16 +2114,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2107,7 +2154,7 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "rss",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
@@ -2115,8 +2162,8 @@
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 1,
+      "mode": "rss",
+      "itemCount": 6,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
