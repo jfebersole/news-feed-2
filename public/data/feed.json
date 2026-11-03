@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-11-02T23:27:56.705Z",
-  "fetchedAt": "2026-11-02T23:27:56.699Z",
+  "generatedAt": "2026-11-03T06:39:09.889Z",
+  "fetchedAt": "2026-11-03T06:39:09.885Z",
   "sourceCount": 25,
-  "itemCount": 184,
-  "totalItemCount": 817,
+  "itemCount": 179,
+  "totalItemCount": 812,
   "items": [
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/its-judgment-day-for-trump-and-for",
+      "title": "It's Judgment Day for Trump (and for pollsters)",
+      "url": "https://www.natesilver.net/p/its-judgment-day-for-trump-and-for",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "FLIPR’s final forecast is in. Here’s why I buy it — mostly.",
+      "publishedAt": "2026-11-03T05:38:15.000Z",
+      "articleId": "185be02c4d506c17"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status",
+      "title": "Are economists declining in status?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the theme of my latest Free Press article. Excerpt, which offers the beginning of the story: If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert Solow, Kenneth Arrow (all three later Nobel laureates), Arthur Okun, Walter Heller, Gardner Ackley, Otto Eckstein, and Walt […]",
+      "publishedAt": "2026-11-03T05:22:51.000Z",
+      "articleId": "39cb8d642979c5fb"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/how-to-judge-an-election-model",
+      "title": "How to judge an election model",
+      "url": "https://www.natesilver.net/p/how-to-judge-an-election-model",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "What would it mean for FLIPR to have a bad night? Plus, more on Haley Stevens and those NYT polls in Still Counting EP9.",
+      "publishedAt": "2026-11-03T00:13:13.000Z",
+      "articleId": "e330bbe06172b284"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/election-night-live-with-silver-bulletin",
+      "title": "Election Night Live with Silver Bulletin and guests",
+      "url": "https://www.natesilver.net/p/election-night-live-with-silver-bulletin",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "A free livestream and a live blog for paid subscribers. Tuesday, November 3, from 5:30 p.m. ET.",
+      "publishedAt": "2026-11-02T23:51:19.000Z",
+      "articleId": "1cd912b6ea54d5b2"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/what-did-the-right-win-with-malfoid",
       "title": "What did the right win with Malfoid?",
@@ -127,7 +172,7 @@
       "sourceUrl": "https://neilpaine.substack.com/",
       "access": "paywalled",
       "paywallType": "partial",
-      "summary": "Once poised to dominate the NBA for many years, Oklahoma City has already lost nearly half of the Wins Above Replacement from its championship roster to injuries and departures.",
+      "summary": "Once poised to dominate the NBA for many years, Oklahoma City has already lost roughly half of the Wins Above Replacement from its championship roster to injuries and departures.",
       "publishedAt": "2026-11-02T10:01:04.000Z",
       "articleId": "3e35e4a353ed838b"
     },
@@ -360,17 +405,6 @@
       "articleId": "9c87eb38739640e0"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-october-26-30-2026",
-      "title": "The Week That Was (October 26-30, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-october-26-30-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-10-31T09:01:02.000Z",
-      "articleId": "a32d9d3ad6d4074a"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime",
       "title": "The pass-through of retail crime",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html",
@@ -380,17 +414,6 @@
       "summary": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not […]",
       "publishedAt": "2026-10-31T06:44:07.000Z",
       "articleId": "d13b1d5444d022ab"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&utm_medium=rss&utm_campaign=the-unintended-consequences-of-academic-leniency",
-      "title": "The unintended consequences of academic leniency",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Education is widely recognized as the primary driver of human capital accumulation. However, policies designed to promote educational attainment often overlook students’ endogenous responses. This paper provides empirical evidence of the causal impact of relaxed academic standards on student effort and achievement. We find that academic leniency results in mechanical GPA increases, but significant reductions […]",
-      "publishedAt": "2026-10-31T04:43:23.000Z",
-      "articleId": "cb93ec476bee58ca"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/farewell-my-captain",
@@ -480,17 +503,6 @@
       "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
       "publishedAt": "2026-10-30T10:00:00.000Z",
       "articleId": "105b68f121e9e5c7"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
-      "title": "The Brewers Built a Small-Market Contender That Accidentally Became a Juggernaut",
-      "url": "https://neilpaine.substack.com/p/the-brewers-built-a-small-market",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Milwaukee tried to emulate the 2010s Royals’ running, fielding and bullpen advantages. But then they kept adding until they had the overall talent of a high-payroll champion.",
-      "publishedAt": "2026-10-30T09:02:10.000Z",
-      "articleId": "09df52fa4b251f06"
     },
     {
       "id": "Walking the World:https://walkingtheworld.substack.com/p/character-select",
@@ -639,17 +651,6 @@
       "articleId": "8d27972a50132dc7"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
-      "title": "The Brewers Kept Reinventing Themselves Until They Were Champions",
-      "url": "https://neilpaine.substack.com/p/the-brewers-kept-reinventing-themselves",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "Milwaukee’s first World Series title finished off an 11-2 October — and years of replacing stars, developing new ones, and staying in contention through it all.",
-      "publishedAt": "2026-10-29T03:14:23.000Z",
-      "articleId": "3eaecd093e15d0f9"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
       "title": "Some thoughts on South Carolina’s surprisingly close Senate race",
       "url": "https://www.natesilver.net/p/some-thoughts-on-south-carolinas",
@@ -741,18 +742,6 @@
       "articleId": "3103babe76b0939b"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-vikings-are-winning-like-its",
-      "title": "The Vikings Are Winning Like It’s 1973",
-      "url": "https://neilpaine.substack.com/p/the-vikings-are-winning-like-its",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "But it’s not 1973. Can this keep working in 2026?",
-      "publishedAt": "2026-10-28T09:02:09.000Z",
-      "articleId": "ab05d544affb9b97"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
       "title": "BADOP! Gochujang Michelada",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
@@ -774,18 +763,6 @@
       "summary": "Plus, notes on the Wolves and Cavs after Monday night’s overtime thriller",
       "publishedAt": "2026-10-27T20:51:37.000Z",
       "articleId": "0a6ac3d130e108e5"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-83-remotely-competitive-house",
-      "title": "The 83 remotely competitive House races, according to FLIPR",
-      "url": "https://www.natesilver.net/p/the-83-remotely-competitive-house",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "If there’s a blue wave, how far could it reach?",
-      "publishedAt": "2026-10-27T20:01:55.000Z",
-      "articleId": "456f7df413b003f9"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/9qjegohzem1nwt1o53c7xnyv4r86doy652mmsxrc.html",
@@ -864,18 +841,6 @@
       "summary": "It might be the most important issue right now, but I’m not history’s main character.",
       "publishedAt": "2026-10-27T10:01:46.000Z",
       "articleId": "ff62ce5b5cd6c2e9"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/before-you-win-the-world-series-you",
-      "title": "Before You Win the World Series, You Get to Wear It",
-      "url": "https://neilpaine.substack.com/p/before-you-win-the-world-series-you",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Championship patches make the biggest games feel special — though they’re a younger tradition, across all sports, than they seem.",
-      "publishedAt": "2026-10-27T09:01:14.000Z",
-      "articleId": "e366a986e1708d33"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
@@ -965,18 +930,6 @@
       "summary": "McCarthy, in his first start for New York, led the Giants to a 27-21 overtime win by playing a consistent and mostly mistake-free game.",
       "publishedAt": "2026-10-25T20:36:03.000Z",
       "articleId": "e0d3c3853149962b"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/lets-talk-shop-about-every-senate",
-      "title": "Let’s talk shop about every Senate race",
-      "url": "https://www.natesilver.net/p/lets-talk-shop-about-every-senate",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "When FLIPR and prediction markets disagree, which has the better case?",
-      "publishedAt": "2026-10-25T20:31:55.000Z",
-      "articleId": "5f3f621c18f4c6b9"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-ea9",
@@ -1115,18 +1068,6 @@
       "summary": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
       "publishedAt": "2026-10-23T17:00:00.000Z",
       "articleId": "cf994644e0f354bf"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/do-these-senate-governor-splits-make",
-      "title": "Do these Senate-governor splits make sense?",
-      "url": "https://www.natesilver.net/p/do-these-senate-governor-splits-make",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "In Michigan, Jocelyn Benson is polling well ahead of Abdul El-Sayed. Do gaps like that tend to shrink on Election Day?",
-      "publishedAt": "2026-10-23T16:45:31.000Z",
-      "articleId": "1ff7c6e774f74c0b"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/obamas-forgotten-late-term-moves",
@@ -2166,18 +2107,18 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
+      "mode": "fallback-cache",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": null
+      "error": "Status code 403 Using previous snapshot data."
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "fallback-cache",
-      "itemCount": 6,
+      "mode": "rss-proxy",
+      "itemCount": 1,
       "feedUrl": "https://neilpaine.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Silver Bulletin",
