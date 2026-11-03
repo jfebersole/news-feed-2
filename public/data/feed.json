@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-03T15:02:11.755Z",
-  "fetchedAt": "2026-11-03T15:02:11.751Z",
+  "generatedAt": "2026-11-03T20:57:03.173Z",
+  "fetchedAt": "2026-11-03T20:57:03.169Z",
   "sourceCount": 25,
-  "itemCount": 183,
+  "itemCount": 182,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7edvuyfc8mzf12hz0elnqvkpdzrlyi2l0q7enzrd.html",
+      "title": "Money Stuff: How Much Should Anthropic Pop?",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/7edvuyfc8mzf12hz0elnqvkpdzrlyi2l0q7enzrd.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "How Much Should Anthropic Pop? Perps, losses, interviews. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read in browser Pre-IPO Here’s a question I have about equity capital markets. We have talked a few times about pre-IPO perpetual futures: Some offshore trading platforms, most notably Hyperliquid/Trade[XYZ], [1] list perpetual futures contracts on big private companies that are approaching their initial public offerings. These contracts are bets on the future price of the stock, and it is not at all obvious that the futures price would closely track the actual stock value: The perps do not represent any claim on the underlying stock, they are in theory off-limits to investors in the US, existing shareholders of the underlying companies are probably not allowed to sell the perps to hedge their exposure, big institutional investors who might want to buy shares in the IPO are probably not set up to buy the perps to anticipate their demand, etc. The perps are in a sense just a recreational prediction market on the price of the stock, not a derivative instrument tied to the price of the stock by arbitrage mechanisms. But a really important thing we have learned about finance in the last few years is that prediction markets are pretty accurate. That is: If you have a platform where people can make real-money bets on some outcome, their bets will tend to give a pretty accurate and well-calibrated estimate of the actual outcome. Kalshi event contracts are not tied to, like, election outcomes or football scores by arbitrage mechanisms, and in the abstract Kalshi could just be wrong about everything. But in fact Kalshi publishes research showing that its markets are good at predicting stuff. And on the Money Stuff podcast , Susquehanna International Group prediction market trader Jeremy Maletz made the same point, noting that prediction market odds are well calibrated even when the volumes are not enormous. The wisdom of the crowd largely works. And so in fact there is a track record of pre-IPO perpetual futures on Hyperliquid being quite accurate, that is, predicting the opening prices of IPOs. It’s quite a small sample — the main US examples are Cerebras and SpaceX — and, as I have written , kind of unsettling. But so far it seems to be empirically true, and it is consistent with the broader theme that...",
+      "publishedAt": "2026-11-03T19:32:52.056Z",
+      "articleId": "c69475ecb92ce513"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8",
+      "title": "Ireland fact of the day",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Almost half of Ireland’s corporation tax haul comes from just three companies: Apple, Eli Lilly and Microsoft. Here is much more from Jude Webber at the FT, on why Ireland does not always feel or operate like a wealthy country.",
+      "publishedAt": "2026-11-03T19:26:51.000Z",
+      "articleId": "a6543dc428fb390e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Jason Furman on AI and the CEA. 2. Matt Kahn uses Refine and gets results. 3. Cyril Hilsum, RIP (flat screen TV, NYT). 4. How much of the return to education is in fact a return to genes? 5. Essay contest on how AI will affect developing economies. 6. AI sanity from Nicholas Decker. […]",
+      "publishedAt": "2026-11-03T17:01:23.000Z",
+      "articleId": "9b0c5d5155993c3d"
+    },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/21st-century-covers-an-album-a-day",
       "title": "21st Century Covers: An Album a Day",
@@ -411,28 +444,6 @@
       "summary": "Here is notice from Yale, and from Paul Krugman, he was one of the true greats. For the pointer I thank several MR readers.",
       "publishedAt": "2026-10-31T18:33:58.000Z",
       "articleId": "a284ae739254fa7e"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2",
-      "title": "And so it begins…",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Researchers, I just uploaded a prominent QJE paper on climate change economics to @RefineDotInk and I loaded my critique of the paper. I asked the AI to offer an impartial verdict. I will make this report public. A new journal could collect these into “Special Issues”. That is from Matthew E. Kahn.",
-      "publishedAt": "2026-10-31T18:21:28.000Z",
-      "articleId": "43b9b2f5201c29f8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584",
-      "title": "Saturday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Organizing Intelligence. 2. World Bank African urbanization report. Building out African cities in a decent way could end up being the task of our coming era. 3. Summary of The Commanding Heights. 4. “Meanwhile in Armenia…” 5. “Female psychopathology has worsened despite increased resources and opportunities, suggesting it does not entirely reflect absolute deprivation, […]",
-      "publishedAt": "2026-10-31T16:16:45.000Z",
-      "articleId": "b2bb6d1a5a6e4814"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
@@ -1169,17 +1180,6 @@
       "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
       "publishedAt": "2026-10-23T10:00:00.000Z",
       "articleId": "a50786f3965eda60"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k0g6iwagydho9i4byc62gngygs132ewztoo5hajh.html",
-      "title": "Money Stuff: Zuckerberg Wants to Keep His Votes",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/k0g6iwagydho9i4byc62gngygs132ewztoo5hajh.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Class C The basic deal is that if you found a company, and you want to raise money, you will probably have to give up some ownership of it. When the company is just you and an idea in your garage, you own the whole company. But if the company needs money to build factories or what have you, the people who give you the money will want something in return. Often what they will want is stock. If you hire employees, they will want stock. By the time your company is a big thriving public company, you might own only 10% or 20% of it. By that point, you might never again need to sell stock to raise money to do the company’s business. It’s thriving, it’s bringing in money, and if it is like the typical big US public company over the last few decades, particularly in the tech industry, it is bringing in more money than it needs to spend on growth. Until very recently , your company was more likely to be buying back stock than selling it. On the other hand, you might want money, for yourself. Maybe your yacht is getting a bit dingy, or you want to buy all the mansions around your mansion so no one can get too close to you. Probably you don’t have much liquid wealth other than the stock. So if you need a few hundred million dollars for yachts or mansions, the natural thing to do is to sell stock. But if you sell stock, you will own less of your company. You might, after founding the company and running it for many years and having your identity bound up with it, not like that. Well, tough. The thing that you have that has economic value is ownership of the company, and if you want to turn that into money you have to give up ownership. (Fine: You can borrow against your stock, which is not quite giving up ownership, though it creates some risk that you might have to.) There is a traditional compromise, which is that you give up some ownership but not control. Normally this is done with dual-class stock: Your shares get 10 votes per share, everyone else’s shares get 1 vote per share, so you end up with, perhaps, about 13% of the economic ownership of the company but about 60% of the votes. That way, you can pick the board of directors and run the company how you want, even while raising money — for yourself and for the company — from outside investors. If you sell some of your high-vote stock, it converts into low-vote stock, so you get money without giving up much control. You have to get your investors to agree to this, of course, and generally before you go public , but there is a long tradition of tech investors being fine with, and in fact liking , giving founders extra votes. This more or less works, most of the time. If you own 13% of the company, but your shares all have 10 votes and everyone else’s shares have 1 vote, then (1) you have about 60% of the...",
-      "publishedAt": "2026-10-22T20:52:37.095Z",
-      "articleId": "7d4fb3f535771ebe"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday",
@@ -2051,17 +2051,6 @@
       "summary": "Buckle up, Giants fans. The Jameis Winston roller coaster is a bumpy ride.",
       "publishedAt": "2026-10-05T00:19:27.000Z",
       "articleId": "42d896017557f9a4"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7659374/2026/10/04/cardinals-giants-nfl-2026-score-result-takeaways/",
-      "title": "Giants ride Jameis Winston roller coaster to beat Cardinals, but can erratic QB keep job?",
-      "url": "https://www.nytimes.com/athletic/7659374/2026/10/04/cardinals-giants-nfl-2026-score-result-takeaways/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "New York got the full Winston experience Sunday but lived to tell the tale in a 36-24 win against Arizona.",
-      "publishedAt": "2026-10-04T20:12:49.000Z",
-      "articleId": "5c7b7c7a23d6a1a0"
     }
   ],
   "weather": null,
