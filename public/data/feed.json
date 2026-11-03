@@ -1,10 +1,99 @@
 {
-  "generatedAt": "2026-11-03T06:39:09.889Z",
-  "fetchedAt": "2026-11-03T06:39:09.885Z",
+  "generatedAt": "2026-11-03T15:02:11.755Z",
+  "fetchedAt": "2026-11-03T15:02:11.751Z",
   "sourceCount": 25,
-  "itemCount": 179,
-  "totalItemCount": 812,
+  "itemCount": 183,
+  "totalItemCount": 814,
   "items": [
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/21st-century-covers-an-album-a-day",
+      "title": "21st Century Covers: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/21st-century-covers-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Rihanna, Luke Combs, Disturbed, and others",
+      "publishedAt": "2026-11-03T14:30:38.000Z",
+      "articleId": "3ad1d18daccf016b"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7749655/2026/11/03/new-york-giants-nfl-trade-deadline-jonathan-taylor/",
+      "title": "Blockbuster incoming? All signs point to Giants making splash ahead of NFL trade deadline",
+      "url": "https://www.nytimes.com/athletic/7749655/2026/11/03/new-york-giants-nfl-trade-deadline-jonathan-taylor/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The state of the NFC East should only embolden the division-leading Giants to be aggressive before next Tuesday’s trade deadline.",
+      "publishedAt": "2026-11-03T12:35:27.000Z",
+      "articleId": "93e5394ba27e6029"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla",
+      "title": "Thoughts on Owning a Self-Driving Tesla",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "My Subaru was showing its years so I recently bought a Tesla. My thinking was I can buy a car or I can buy a car+driver for the same price. Simple choice. I’ve driven about 2000 miles including one long trip (6 hours) to North Carolina and back. FSD is incredible. I don’t mind driving […]",
+      "publishedAt": "2026-11-03T12:18:06.000Z",
+      "articleId": "ad59dd07861debec"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/against-supplements",
+      "title": "Against supplements",
+      "url": "https://www.worksinprogress.news/p/against-supplements",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "My methods and my madness",
+      "publishedAt": "2026-11-03T12:03:35.000Z",
+      "articleId": "55c56f512b108e3a"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-not-to-watch-tonight",
+      "title": "What not to watch tonight",
+      "url": "https://www.slowboring.com/p/what-not-to-watch-tonight",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Avoid the most common election night fallacies with these simple strategies",
+      "publishedAt": "2026-11-03T11:02:25.000Z",
+      "articleId": "5562d7420786d997"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/",
+      "title": "Apple Earnings, Memory Problems, The Hardware Company Regression",
+      "url": "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple's earnings suggest that the company's hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
+      "publishedAt": "2026-11-03T11:00:00.000Z",
+      "articleId": "9d0fb62e230627a4"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/lamar-jackson-is-becoming-a-what",
+      "title": "Lamar Jackson Is Becoming a “What-If”",
+      "url": "https://neilpaine.substack.com/p/lamar-jackson-is-becoming-a-what",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Yet another injury has left Jackson’s season in doubt, potentially keeping the Ravens’ greatest weapon off the field (again) when they need him most.",
+      "publishedAt": "2026-11-03T10:02:16.000Z",
+      "articleId": "d509d4802ad19e5e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips",
+      "title": "The economics of tips",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Tipping is large and growing, but we know little about its consequences for workers and firms. We link point-of-sale and payroll records at 20,000 U.S. firms, which lets us observe tips from customer payment to worker earnings. We find that tips are a nearly constant share of revenue, which means hourly pay moves with revenue. […]",
+      "publishedAt": "2026-11-03T07:58:10.000Z",
+      "articleId": "f861e2d3dfceecb1"
+    },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/its-judgment-day-for-trump-and-for",
       "title": "It's Judgment Day for Trump (and for pollsters)",
@@ -370,17 +459,6 @@
       "articleId": "39c01042043165b2"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk",
-      "title": "My Barcelona talk",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Wednesday, November 4, 18:30 Barcelona time, details here. I am honored to have won the Elinor Ostrom Prize from the Institut Ostrom Catalunya. Maybe see you there!",
-      "publishedAt": "2026-10-31T13:29:19.000Z",
-      "articleId": "2fe7ab6f75790d1a"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/supernatural-nimbys",
       "title": "Supernatural NIMBYs",
       "url": "https://www.slowboring.com/p/supernatural-nimbys",
@@ -403,17 +481,6 @@
       "summary": "Space fiber optic cable manufacturing, nuclear district heating, Spain’s high-speed rail crash, China’s spaceplane, and more.",
       "publishedAt": "2026-10-31T12:34:23.000Z",
       "articleId": "9c87eb38739640e0"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime",
-      "title": "The pass-through of retail crime",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7–1.8 percent price increase at victimized stores and nearby competitors. This rise is not […]",
-      "publishedAt": "2026-10-31T06:44:07.000Z",
-      "articleId": "d13b1d5444d022ab"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/farewell-my-captain",
@@ -1180,17 +1247,6 @@
       "summary": "That McCarthy is starting less than four weeks after arriving in New York isn’t a surprise. And this isn’t a decision made lightly.",
       "publishedAt": "2026-10-22T10:30:53.000Z",
       "articleId": "59a5ee35627d1440"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
-      "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
-      "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "articleId": "271b7ab26b21c588"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/france-and-the-limits-of-liberalism",
@@ -2006,18 +2062,6 @@
       "summary": "New York got the full Winston experience Sunday but lived to tell the tale in a 36-24 win against Arizona.",
       "publishedAt": "2026-10-04T20:12:49.000Z",
       "articleId": "5c7b7c7a23d6a1a0"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/guard-your-publishing-a-conversation",
-      "title": "Guard Your Publishing: A Conversation with Liz Kamlet",
-      "url": "https://www.cantgetmuchhigher.com/p/guard-your-publishing-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Manager and licensing guru Liz Kamlet stops by to talk social media, music publishing, and Stephen Bishop",
-      "publishedAt": "2026-10-04T13:31:22.000Z",
-      "articleId": "844e4bb944e3dc1e"
     }
   ],
   "weather": null,
@@ -2107,16 +2151,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 1,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2140,7 +2184,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
