@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-11-04T09:03:25.369Z",
-  "fetchedAt": "2026-11-04T09:03:25.366Z",
+  "generatedAt": "2026-11-04T17:10:08.381Z",
+  "fetchedAt": "2026-11-04T17:10:08.377Z",
   "sourceCount": 25,
-  "itemCount": 180,
-  "totalItemCount": 814,
+  "itemCount": 183,
+  "totalItemCount": 815,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578",
+      "title": "Wednesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Important people in the AI world. 2. Ted Nordhaus on Bill Nordhaus. 3. “That universities facilitate broader political mobilization can explain why governments often seek to restrict student activism.” 4. NYT obituary for William Nordhaus. 5. A new (job market) paper on how much does economic geography matter? 6. “Recent-graduate unemployment fell to 5.2%, […]",
+      "publishedAt": "2026-11-04T16:48:24.000Z",
+      "articleId": "c1d051b569903afa"
+    },
+    {
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/october-2026-links",
+      "title": "October 2026 links",
+      "url": "https://scottsumner.substack.com/p/october-2026-links",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus a few thoughts on East Asia",
+      "publishedAt": "2026-11-04T16:33:56.000Z",
+      "articleId": "d42a56e355aecb12"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/now-in-store-at-barnes-and-noble",
+      "title": "Now in store at Barnes & Noble and Hudson News stores across America",
+      "url": "https://www.worksinprogress.news/p/now-in-store-at-barnes-and-noble",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Get a free Works in Progress tote bag for showing us your copy outside a store.",
+      "publishedAt": "2026-11-04T16:18:39.000Z",
+      "articleId": "38b112ea2bc24fc3"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-way-forward",
+      "title": "The way forward",
+      "url": "https://www.slowboring.com/p/the-way-forward",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "How to build on commonsense gains and drive a stake through the heart of MAGA",
+      "publishedAt": "2026-11-04T16:02:14.000Z",
+      "articleId": "f60f81d1c3f6464c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/seventeen-thoughts-on-an-epic-repudiation",
+      "title": "Seventeen thoughts on an epic repudiation of Donald Trump",
+      "url": "https://www.slowboring.com/p/seventeen-thoughts-on-an-epic-repudiation",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "We did it!",
+      "publishedAt": "2026-11-04T11:02:16.000Z",
+      "articleId": "f5d6ff31b701eabb"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/ai-on-the-ballot/",
+      "title": "AI on the Ballot",
+      "url": "https://stratechery.com/2026/ai-on-the-ballot/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?",
+      "publishedAt": "2026-11-04T11:00:00.000Z",
+      "articleId": "0df6a628391f7d60"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/normal-americans-punished-maga",
+      "title": "Normal Americans punished MAGA",
+      "url": "https://www.noahpinion.blog/p/normal-americans-punished-maga",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Normies exist, and there’s only so far you can push them before they get mad.",
+      "publishedAt": "2026-11-04T10:33:58.000Z",
+      "articleId": "4576cb3027950414"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-nhls-most-productive-player-wants",
+      "title": "The NHL’s Most Productive Player Wants Out. When Has This Happened Before?",
+      "url": "https://neilpaine.substack.com/p/the-nhls-most-productive-player-wants",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Trading Nikita Kucherov would have few historical parallels — and leave an enormous hole in the Lightning’s dynastic story.",
+      "publishedAt": "2026-11-04T10:02:16.000Z",
+      "articleId": "f67304bee0d1bef3"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
       "title": "The election",
@@ -332,18 +422,6 @@
       "articleId": "27ada6008e537bab"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-thunder-are-learning-just-how",
-      "title": "The Thunder Are Learning Just How Fragile a Would-Be Dynasty Can Be",
-      "url": "https://neilpaine.substack.com/p/the-thunder-are-learning-just-how",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Once poised to dominate the NBA for many years, Oklahoma City has already lost roughly half of the Wins Above Replacement from its championship roster to injuries and departures.",
-      "publishedAt": "2026-11-02T10:01:04.000Z",
-      "articleId": "3e35e4a353ed838b"
-    },
-    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
       "title": "Should you feel grief for the dead who go to heaven?",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html",
@@ -456,17 +534,6 @@
       "summary": "What are the worst MR posts, most illogical, poorly reasoned, low value, inconsistent? From the Archives, written by ChatGPT: These are provisional candidates for weak reasoning, selected because there is a specific gap between the evidence and the conclusion. This is not an objective ranking of all 40,326 posts in the downloaded archive. Poor reasoning […]",
       "publishedAt": "2026-11-01T12:18:51.000Z",
       "articleId": "7f36eaf2afd11717"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18",
-      "title": "Those new service sector jobs?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A suburban Chicago man has been sentenced to two years in federal prison for conspiring to stage armed robberies so that the purported victims could apply for U.S. immigration visas reserved for crime victims. From 2022 to 2024, PARTH NAYI organized and participated in hundreds of staged armed robberies at coffee shops, restaurants, liquor stores, and gas […]",
-      "publishedAt": "2026-11-01T07:55:35.000Z",
-      "articleId": "fdfc237969c7a1cb"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
@@ -1079,18 +1146,6 @@
       "articleId": "3941e9e3de787966"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-polls-were-fake-but-the-results",
-      "title": "The polls were fake, but the results were real",
-      "url": "https://www.slowboring.com/p/the-polls-were-fake-but-the-results",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Fraudulent polls are just more evidence of social media’s corruption of democracy.",
-      "publishedAt": "2026-10-24T13:01:16.000Z",
-      "articleId": "54c66393dd2832a7"
-    },
-    {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-102426",
       "title": "Reading List 10/24/26",
       "url": "https://www.construction-physics.com/p/reading-list-102426",
@@ -1168,17 +1223,6 @@
       "summary": "New York cut players and coaches were explicit in their evaluation of players after last week's loss to the Saints.",
       "publishedAt": "2026-10-23T10:00:38.000Z",
       "articleId": "a5691237f61709de"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/",
-      "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
-      "url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
-      "publishedAt": "2026-10-23T10:00:00.000Z",
-      "articleId": "a50786f3965eda60"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday",
@@ -2017,17 +2061,6 @@
       "summary": "An OpenAI researcher called it “the most ‘feel the AGI’ moment that I had since reasoning models.”",
       "publishedAt": "2026-10-05T17:19:00.000Z",
       "articleId": "f829b8e98830b9c6"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/you-can-just-eradicate-things",
-      "title": "Mosquitoes are a choice",
-      "url": "https://www.worksinprogress.news/p/you-can-just-eradicate-things",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The technology to eradicate mosquito-borne disease already exists. We just have to be brave enough to use it.",
-      "publishedAt": "2026-10-05T11:25:20.000Z",
-      "articleId": "fdc63ef1564b074b"
     }
   ],
   "weather": null,
@@ -2150,7 +2183,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 16,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
