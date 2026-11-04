@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-04T01:17:14.793Z",
-  "fetchedAt": "2026-11-04T01:17:14.789Z",
+  "generatedAt": "2026-11-04T09:03:25.369Z",
+  "fetchedAt": "2026-11-04T09:03:25.366Z",
   "sourceCount": 25,
-  "itemCount": 181,
+  "itemCount": 180,
   "totalItemCount": 814,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
+      "title": "The election",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Procedurally it seems to have gone just fine, and the people predicting “the end of democracy in America” now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During this election cycle, democracy never was under threat and the United States has not been under risk of fascism. Rising in […]",
+      "publishedAt": "2026-11-04T07:41:25.000Z",
+      "articleId": "f7fd58ab8499afd5"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world",
+      "title": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and trade exist. Yet the composition of coin finds reveals information about monetized transactions, as coins gradually diffused along trade routes. To […]",
+      "publishedAt": "2026-11-04T05:54:16.000Z",
+      "articleId": "51cfffb7056be1bf"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/b3es1ukguobxtzrqsqetwjla4p7093m9yltdb8nt.html",
       "title": "Recipes from the River: Melon & Shiso Salad with Lime and Serrano",
@@ -445,28 +467,6 @@
       "summary": "A suburban Chicago man has been sentenced to two years in federal prison for conspiring to stage armed robberies so that the purported victims could apply for U.S. immigration visas reserved for crime victims. From 2022 to 2024, PARTH NAYI organized and participated in hundreds of staged armed robberies at coffee shops, restaurants, liquor stores, and gas […]",
       "publishedAt": "2026-11-01T07:55:35.000Z",
       "articleId": "fdfc237969c7a1cb"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
-      "title": "Are LLMs good or bad Bayesians?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Bryan Caplan: It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the speaker or just not change. ChatGPT: […]",
-      "publishedAt": "2026-11-01T04:17:10.000Z",
-      "articleId": "dabd07802c01b8dc"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip",
-      "title": "William Nordhaus, RIP",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is notice from Yale, and from Paul Krugman, he was one of the true greats. For the pointer I thank several MR readers.",
-      "publishedAt": "2026-10-31T18:33:58.000Z",
-      "articleId": "a284ae739254fa7e"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
@@ -2028,17 +2028,6 @@
       "summary": "The technology to eradicate mosquito-borne disease already exists. We just have to be brave enough to use it.",
       "publishedAt": "2026-10-05T11:25:20.000Z",
       "articleId": "fdc63ef1564b074b"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
-      "title": "What the AI boom is doing for Americans",
-      "url": "https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "It’s not just “of, by and for oligarchs”.",
-      "publishedAt": "2026-10-05T08:12:53.000Z",
-      "articleId": "01544e4a56375b93"
     }
   ],
   "weather": null,
@@ -2128,10 +2117,10 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "fallback-cache",
+      "mode": "rss-proxy",
       "itemCount": 9,
       "feedUrl": "https://zachlowe.substack.com/feed",
-      "error": "Status code 403 Using previous snapshot data."
+      "error": null
     },
     {
       "name": "Neil Paine",
