@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-04T23:36:31.227Z",
-  "fetchedAt": "2026-11-04T23:36:31.224Z",
+  "generatedAt": "2026-11-05T06:35:33.147Z",
+  "fetchedAt": "2026-11-05T06:35:33.144Z",
   "sourceCount": 25,
-  "itemCount": 181,
-  "totalItemCount": 816,
+  "itemCount": 182,
+  "totalItemCount": 817,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
+      "title": "My very good Conversation with Richard Hanania",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately scrambled timeline, the near-total absence of religion in Conrad’s universe, Nostromo’s own vanity and treatment of women, a close reading of […]",
+      "publishedAt": "2026-11-05T05:51:48.000Z",
+      "articleId": "03ca63ecf9a0734f"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-november-2026",
+      "title": "Links For November 2026",
+      "url": "https://www.astralcodexten.com/p/links-for-november-2026",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-11-05T02:01:33.000Z",
+      "articleId": "b0cd05100276ae9c"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/after-an-extraordinary-wave-what",
+      "title": "After an extraordinary wave, what comes next?",
+      "url": "https://www.natesilver.net/p/after-an-extraordinary-wave-what",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "The “smart” conventional wisdom is: midterms don’t predict future elections. I’m not sure about that for a profoundly unpopular lame duck.",
+      "publishedAt": "2026-11-04T23:52:46.000Z",
+      "articleId": "6027a855d55198b8"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/fugj99hb6dkfi2afdrw1rnjxrueqc17g4lpgx1zq.html",
       "title": "Recipes from the River: Stir-Fried Shrimp & Grits with Mushrooms and Sichuan Spices",
@@ -534,17 +567,6 @@
       "articleId": "7c33e53124f2020e"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-588",
-      "title": "Sunday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-588.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Jakob Davidsen, The Individual and the Entire Tissue (song cycle). It is good. 2. The Oilers Entertainment Group pushed prices too high and here is what happened. 3. The “endless cruise” has ended. 4. Should driverless vehicles replace school buses? 5. Art Nouveau and more in Mexico City. 6. How are potential mathematicians responding […]",
-      "publishedAt": "2026-11-01T16:31:04.000Z",
-      "articleId": "70dc87b435909864"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-the-best-rock-song-of-the-21st",
       "title": "What’s the Best Rock Song of the 21st Century? Mailbag",
       "url": "https://www.cantgetmuchhigher.com/p/whats-the-best-rock-song-of-the-21st",
@@ -659,17 +681,6 @@
       "summary": "Finalist #14 in the Book Review Contest",
       "publishedAt": "2026-10-30T16:30:33.000Z",
       "articleId": "17cc3eb2615bb5cf"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/the-cognitive-dissonance-election",
-      "title": "The cognitive dissonance election",
-      "url": "https://www.natesilver.net/p/the-cognitive-dissonance-election",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Democrats like what the polls say. They’re just not sure they believe them. Plus, Still Counting EP8 and our Election Night plans.",
-      "publishedAt": "2026-10-30T13:01:55.000Z",
-      "articleId": "b0e54e61168c3440"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7736537/2026/10/30/new-york-giants-nfl-trade-deadline-preview/",
@@ -2064,7 +2075,7 @@
       "name": "Astral Codex Ten",
       "url": "https://www.astralcodexten.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.astralcodexten.com/feed",
       "error": null
     },
