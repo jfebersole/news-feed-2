@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-11-05T06:35:33.147Z",
-  "fetchedAt": "2026-11-05T06:35:33.144Z",
+  "generatedAt": "2026-11-05T15:24:48.718Z",
+  "fetchedAt": "2026-11-05T15:24:48.716Z",
   "sourceCount": 25,
-  "itemCount": 182,
+  "itemCount": 181,
   "totalItemCount": 817,
   "items": [
+    {
+      "id": "Understanding AI:https://www.understandingai.org/p/this-robotics-concept-helps-explain",
+      "title": "This robotics concept helps explain the jaggedness of frontier capabilities",
+      "url": "https://www.understandingai.org/p/this-robotics-concept-helps-explain",
+      "source": "Understanding AI",
+      "sourceUrl": "https://www.understandingai.org/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Sim-to-real gaps are everywhere.",
+      "publishedAt": "2026-11-05T15:16:59.000Z",
+      "articleId": "ae2861cc0e2f824e"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/models-led-prediction-markets-in",
+      "title": "Models led prediction markets in forecasting the blue wave",
+      "url": "https://www.natesilver.net/p/models-led-prediction-markets-in",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "But who deserves the most credit? High-quality pollsters who nailed the result. Plus, Still Counting EP10.",
+      "publishedAt": "2026-11-05T14:03:18.000Z",
+      "articleId": "7dbc670f7f9bc56f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer",
+      "title": "Pollution as Growth Killer",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am interviewed; here is one bit: Q. Doesn’t the demographic dividend argue for growth first? The demographic dividend is people. […]",
+      "publishedAt": "2026-11-05T12:17:06.000Z",
+      "articleId": "99e61ac4e9976b5a"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/its-so-over-for-aipac",
+      "title": "It’s so over for AIPAC",
+      "url": "https://www.slowboring.com/p/its-so-over-for-aipac",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "The rapid demise of the bipartisan pro-Israel consensus",
+      "publishedAt": "2026-11-05T11:02:36.000Z",
+      "articleId": "07ece5c6a15cae8e"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-what",
+      "title": "“The Argument” podcast, ad free: What do we really know about Elizabeth Holmes?",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-what",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-11-05T11:02:24.000Z",
+      "articleId": "70b0ceb49183ce91"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+      "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "articleId": "96d28f451942d2f6"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/05/opinion/maga-trump-midterms.html",
+      "title": "MAGA Finally Gets What It Deserves",
+      "url": "https://www.nytimes.com/2026/11/05/opinion/maga-trump-midterms.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "The Ozymandias election.",
+      "publishedAt": "2026-11-05T10:05:08.000Z",
+      "articleId": "c6b1719217e2be6d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization",
+      "title": "Social media and political radicalization",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly moderate results, repudiations of both Trump and the extreme Democratic left. You may or may not like those results, […]",
+      "publishedAt": "2026-11-05T09:19:09.000Z",
+      "articleId": "a6f027acb72c59d0"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
       "title": "My very good Conversation with Richard Hanania",
@@ -499,17 +589,6 @@
       "articleId": "27ada6008e537bab"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
-      "title": "Should you feel grief for the dead who go to heaven?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I am not myself religious, but let us consider the possible gulf between behavior and doctrine amongst those who are. It has long struck me as a kind of mini-puzzle why people feel so much grief for the departed, at least for the departed who are supposed to be headed for heaven (and yes there […]",
-      "publishedAt": "2026-11-02T05:24:47.000Z",
-      "articleId": "f0c1f2dfb127251c"
-    },
-    {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-nytsiena-polls-show-a-blue-tsunami",
       "title": "The NYT/Siena polls show a blue tsunami",
       "url": "https://www.natesilver.net/p/the-nytsiena-polls-show-a-blue-tsunami",
@@ -531,17 +610,6 @@
       "summary": "Probably not, but let’s run the numbers on a rare *November* Surprise. Plus, please join us for our Election Night coverage!",
       "publishedAt": "2026-11-01T22:21:16.000Z",
       "articleId": "b0d87516c8a1d73b"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable",
-      "title": "As predicted, the ACA exchanges seem not to be stable",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The average price of health insurance in the Obamacare marketplaces will rise by 13 percent next year, according to an analysis on Friday by KFF, the health research group. The Trump administration on Friday published new prices for 2027 in 30 states with markets managed by the federal government. Using that data and state figures, […]",
-      "publishedAt": "2026-11-01T19:53:38.000Z",
-      "articleId": "bfed8865dc4255c4"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
@@ -589,18 +657,6 @@
       "summary": "From the base case to the increasingly weird, let’s let FLIPR have some fun. 🐬",
       "publishedAt": "2026-11-01T14:52:53.000Z",
       "articleId": "76465bb5fa2078a3"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
-      "title": "SBSQ #32: SuperMegaJumboDeluxe Edition",
-      "url": "https://www.natesilver.net/p/sbsq-32-supermegajumbodeluxe-edition",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "It’s three days before the election: the perfect time for an SBSQ reboot.",
-      "publishedAt": "2026-10-31T16:07:41.000Z",
-      "articleId": "3efbff7d1a4d3ed7"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-scariest-song",
@@ -1054,18 +1110,6 @@
       "articleId": "574ceade1ee8fb8f"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/make-housing-affordable-again",
-      "title": "Make housing affordable again",
-      "url": "https://www.slowboring.com/p/make-housing-affordable-again",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Trump makes an affordability play just before Election Day as California construction rises, Los Angeles tries to manage its homelessness response, and Bloomberg and Gen Z assert their own leadership.",
-      "publishedAt": "2026-10-26T22:01:40.000Z",
-      "articleId": "b5845c61ebf1698b"
-    },
-    {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/xepy3p3g2nznqgucnz3jsw7vj7c47d7y1kevbeyo.html",
       "title": "The Brew Shop Beer Advent Calendar (Pre-Order Only!)",
       "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/xepy3p3g2nznqgucnz3jsw7vj7c47d7y1kevbeyo.html",
@@ -1075,17 +1119,6 @@
       "summary": "The Brew Shop Beer Advent Calendar (Pre-Order Only!) It's time to pre-order your Brew Shop Beer Advent Calendar! ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-10-26T14:15:15.002Z",
       "articleId": "7c0633b10d7f550b"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/scammy-fundraising-is-a-big-problem",
-      "title": "Scammy fundraising is a big problem",
-      "url": "https://www.slowboring.com/p/scammy-fundraising-is-a-big-problem",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "It’s tough to say anything meaningful about the midterms at this point, but Democrats should think harder about their fundraising.",
-      "publishedAt": "2026-10-26T10:01:03.000Z",
-      "articleId": "c73d33eecc1575de"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/the-end-of-the-internet/",
@@ -1222,17 +1255,6 @@
       "summary": "New Merch Shop! Welcome to the one-stop shop for the food nerds in your life. Over the past few months, the team here at JKLA World HQ has been working on a special n... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ New Merch Shop! J. Kenji López-Alt Oct 23, 2026 View in app View in app Welcome to the one-stop shop for the food nerds in your life. Over the past few months, the team here at JKLA World HQ has been working on a special new project: a merchandise shop! You can explore the shop now at shop.kenjilopezalt.com . Explore the shop. What Can You Expect? We wanted this space to be the one-stop shop for the food nerds in your life (even—or especially—if that nerd is you). Direct from our own merchandise shop, you'll find tees, crewnecks, totes, hats, socks, and more. But to really work the kitchen, we know you need more than that. That's why the shop website also includes links to buy: All three of Kenji's books, which you can get signed and personalized 🔗 Collaboration products like the Kenji x Our Place Super Nitride Wok 🔗 Kenji's kitchen essentials—tools and ingredients that will make your time in the kitchen more joyful and delicious 🔗 And a guide to pantry and ingredient staples 🔗 Stay tuned for the holiday season—we'll have gift guides wrapped and ready for you, too! Special thank you to David Hudson of Cinesaurus for the incredible merchandise designs and Kari Ashley of Mainstay Design for putting together...",
       "publishedAt": "2026-10-23T17:32:37.638Z",
       "articleId": "c9080a07a305a382"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/a-new-era/",
-      "title": "2026.43: A New Era",
-      "url": "https://stratechery.com/2026/a-new-era/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
-      "articleId": "cf994644e0f354bf"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7716130/2026/10/23/new-york-giants-houston-texans-preview-lookahead/",
@@ -2016,39 +2038,6 @@
       "summary": "...",
       "publishedAt": "2026-10-06T21:23:06.000Z",
       "articleId": "2a7bfacef2ce3251"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
-      "title": "The ‘God Gap’ Is Narrowing in Texas",
-      "url": "https://www.nytimes.com/2026/10/04/opinion/talarico-paxton-texas-senate-evangelicals.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "It may not be enough for James Talarico to win. But might it also be a sign of a change to come?",
-      "publishedAt": "2026-10-06T13:40:34.000Z",
-      "articleId": "7336c5ab77937cf7"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-song-is-the-album-is-the-artist",
-      "title": "The Song is the Album is the Artist: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/the-song-is-the-album-is-the-artist",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Motörhead, Wilco, Bo Diddley, and others",
-      "publishedAt": "2026-10-06T13:31:30.000Z",
-      "articleId": "1cf518c5547ecc5b"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7664612/2026/10/06/new-york-giants-blitz-abdul-carter-brian-burns-cardinals/",
-      "title": "Giants on the attack: Without Brian Burns, NY dialed up aggression and let Abdul Carter feast",
-      "url": "https://www.nytimes.com/athletic/7664612/2026/10/06/new-york-giants-blitz-abdul-carter-brian-burns-cardinals/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Without Burns to lead the way, the Giants blitzed on more than half of the Cardinals' dropbacks on Sunday. The results were undeniable.",
-      "publishedAt": "2026-10-06T11:37:55.000Z",
-      "articleId": "c024df2b6f5412cf"
     }
   ],
   "weather": null,
