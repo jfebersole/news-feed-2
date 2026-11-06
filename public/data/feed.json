@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-11-06T17:55:15.058Z",
-  "fetchedAt": "2026-11-06T17:55:15.053Z",
+  "generatedAt": "2026-11-06T23:02:56.848Z",
+  "fetchedAt": "2026-11-06T23:02:56.845Z",
   "sourceCount": 25,
-  "itemCount": 186,
-  "totalItemCount": 820,
+  "itemCount": 185,
+  "totalItemCount": 819,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
+      "title": "Your Book Review: Orality and Literacy",
+      "url": "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "Finalist #15 in the Book Review contest",
+      "publishedAt": "2026-11-06T21:31:52.000Z",
+      "articleId": "088f605f083603ca"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/an-extremely-unofficial-first-look",
+      "title": "An extremely unofficial first look at the 2028 Senate map",
+      "url": "https://www.natesilver.net/p/an-extremely-unofficial-first-look",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Do Republicans have any chance of winning the Senate back? And could Democrats gain a filibuster-proof majority if they have another big night?",
+      "publishedAt": "2026-11-06T21:30:26.000Z",
+      "articleId": "671961db688c53f6"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/falling-leaves-and-stocks/",
+      "title": "2026.45: Falling Leaves (and Stocks)",
+      "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
+      "publishedAt": "2026-11-06T18:14:42.000Z",
+      "articleId": "3963d7395ce0c6f6"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598",
+      "title": "Friday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with relatively flat supply curves. 5. “According to Twenge, one of the great Cassandras […]",
+      "publishedAt": "2026-11-06T18:07:28.000Z",
+      "articleId": "a0b2f1b9608e440a"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
       "title": "Untethered AI agents in Delaware?",
@@ -543,17 +588,6 @@
       "articleId": "a6543dc428fb390e"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Jason Furman on AI and the CEA. 2. Matt Kahn uses Refine and gets results. 3. Cyril Hilsum, RIP (flat screen TV, NYT). 4. How much of the return to education is in fact a return to genes? 5. Essay contest on how AI will affect developing economies. 6. AI sanity from Nicholas Decker. […]",
-      "publishedAt": "2026-11-03T17:01:23.000Z",
-      "articleId": "9b0c5d5155993c3d"
-    },
-    {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/21st-century-covers-an-album-a-day",
       "title": "21st Century Covers: An Album a Day",
       "url": "https://www.cantgetmuchhigher.com/p/21st-century-covers-an-album-a-day",
@@ -780,18 +814,6 @@
       "summary": "Today’s newsletter is another mailbag edition of Can’t Get Much Higher, or the newsletter where I answer reader questions.",
       "publishedAt": "2026-11-01T15:31:09.000Z",
       "articleId": "9fcfc5d6a232ad3e"
-    },
-    {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
-      "title": "13 maps for the morning after the midterms",
-      "url": "https://www.natesilver.net/p/13-morning-after-the-midterm-maps",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "From the base case to the increasingly weird, let’s let FLIPR have some fun. 🐬",
-      "publishedAt": "2026-11-01T14:52:53.000Z",
-      "articleId": "76465bb5fa2078a3"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/the-scariest-song",
@@ -1198,17 +1220,6 @@
       "summary": "Making the right read on which buttons to push is an intangible quality for a coach. Harbaugh demonstrated that ability last week.",
       "publishedAt": "2026-10-27T11:42:38.000Z",
       "articleId": "4c58295aca5bbf80"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
-      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-      "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
-      "publishedAt": "2026-10-27T10:32:57.000Z",
-      "articleId": "ba8e4466d0fb808a"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
@@ -2073,28 +2084,6 @@
       "summary": "In 1960, a team at the University of Illinois released the first version of their PLATO “computerized instruction system,” a network of what would eventually be thousands of computer terminals connected to large mainframe computers.",
       "publishedAt": "2026-10-08T12:02:36.000Z",
       "articleId": "d7eedeb43129023b"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/top-forecasters-on-the-plague",
-      "title": "Top Forecasters On The Plague",
-      "url": "https://www.astralcodexten.com/p/top-forecasters-on-the-plague",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-10-07T21:13:16.000Z",
-      "articleId": "f930f872eb9a3240"
-    },
-    {
-      "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/ipwdvfe88bb6oeqab7ppax54unque7mn899dmsx4.html",
-      "title": "DIY Instant Soup Jars",
-      "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/ipwdvfe88bb6oeqab7ppax54unque7mn899dmsx4.html",
-      "source": "J. Kenji López-Alt",
-      "sourceUrl": "https://frienji.kenjilopezalt.com/",
-      "access": "open",
-      "summary": "DIY Instant Soup Jars This blueprint recipe for do-it-yourself soup jars is perfect for back-to-school season and the chilly autumn months. Just add water!Today’s recipe is... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Watch now DIY Instant Soup Jars J. Kenji López-Alt Oct 7, 2026 View in app View in app This blueprint recipe for do-it-yourself soup jars is perfect for back-to-school season and the chilly autumn months. Just add water! Today’s recipe is a true blueprint in the sense that I won’t be providing any specific ingredients whatsoever. After watching the video and reading the article, I hope that you can come up with your own recipes using the flavors and textures that you love! (And of course, you can still follow along with the video and make the Sichuan-style beef noodle soup, chicken and white bean soup, soba with tofu and egg, or chicken and hominy soup that I put together, or you can join our Cookbook Club to get these exact recipes later this week and test them yourself!) Cup Noodles, But Make it Fresh A little over a decade ago, I was poking through Hugh Fearnly Whittingstall’s excellent River Cottage Veg Everyday book and came across a recipe he called DIY Pot Noodles (“Pot Noodles” is is Brit-speak for instant ramen). The idea is simple: Fill up a mason jar with some pre-cooked noodles, aromatics, vegetables, and some sort of flavorful concentrated soup base, and you’ve got a fresh,...",
-      "publishedAt": "2026-10-07T18:33:07.519Z",
-      "articleId": "1056b3d3c94601bc"
     }
   ],
   "weather": null,
@@ -2281,7 +2270,7 @@
       "name": "J. Kenji López-Alt",
       "url": "https://frienji.kenjilopezalt.com/",
       "mode": "rss",
-      "itemCount": 11,
+      "itemCount": 10,
       "feedUrl": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk.xml",
       "error": null
     },
