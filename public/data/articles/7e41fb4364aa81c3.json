@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html",
+  "source": "Marginal Revolution",
+  "title": "Untethered AI agents in Delaware?",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote><p>A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations…</p></blockquote>\n<p>That is a current proposal, here is <a href=\"https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/\" target=\"_blank\" rel=\"noopener noreferrer\">the full article</a>.&nbsp; Whether or not this is prudent, to some degree it is inevitable.&nbsp; You will recall <a href=\"https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents?utm_source=post-email-title&amp;publication_id=3486522&amp;post_id=211614011&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=3o9&amp;triedRedirect=true&amp;utm_medium=email\" target=\"_blank\" rel=\"noopener noreferrer\">my essay with Sonia Farrell Pearson</a>:</p>\n<blockquote><p>This question matters now: there are already ways an agent could become fully untethered. By “untethered” – a central concept in this essay – we mean that there is no meaningful or actionable way to trace the actions back to a legally accountable human or institutional entity.</p>\n<p>For one, people can and do set agents free, on purpose. An agent could be created by a human or a company that intends to monitor it but then dies or disappears. Or perhaps the entity that created the agent is based in a country like North Korea, not reachable by standard laws.</p>\n<p>In other cases the agent might not need to “escape” at all: the agent could be ‘controlled’ by a shell corporation that, while formally owned and traceable, provides no true defendant or ability to satisfy claims. Or perhaps a process spawns a chain of agents so long that the actions of a subagent can’t be tied to the original agent’s creator, neither epistemically nor meaningfully. Even if we can identify the model’s original creator, what if it’s been finetuned, or merged with another model that was created by someone else? The law might eventually untangle these kinds of complex cases, but we foresee an intermediate period where it does not.</p>\n<p>And then there’s the user, who makes choices about what the models should actually&nbsp;<em>do</em>. The Hugging Face incident was unusual in that OpenAI was both the model’s creator and its user. But now close to a billion people use these systems: when blaming the creator is legally inappropriate, will it always make sense to blame the user?</p></blockquote>\n<p>We examine the law and economics of exactly how that might work, or in many cases not work.&nbsp; Circa November 2026, worth a reread.</p>",
+  "wordCount": 368,
+  "imageCount": 0,
+  "linkCount": 2
+}

@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-11-06T10:45:09.140Z",
-  "fetchedAt": "2026-11-06T10:45:09.137Z",
+  "generatedAt": "2026-11-06T17:55:15.058Z",
+  "fetchedAt": "2026-11-06T17:55:15.053Z",
   "sourceCount": 25,
-  "itemCount": 181,
-  "totalItemCount": 818,
+  "itemCount": 186,
+  "totalItemCount": 820,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
+      "title": "Untethered AI agents in Delaware?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations… That is a current proposal, here is the full article. […]",
+      "publishedAt": "2026-11-06T17:00:22.000Z",
+      "articleId": "7e41fb4364aa81c3"
+    },
+    {
+      "id": "Josh Barro:https://www.joshbarro.com/p/a-lesson-for-republicans-mean-implausible",
+      "title": "A Lesson for Republicans: Mean, Implausible Lies Do Not Win Elections",
+      "url": "https://www.joshbarro.com/p/a-lesson-for-republicans-mean-implausible",
+      "source": "Josh Barro",
+      "sourceUrl": "https://www.joshbarro.com/",
+      "access": "open",
+      "summary": "Without a positive message to run on, Republicans leaned into gratuitous personal insults of their opponents, thinking that’s worked for Trump before. But it didn’t, and doesn't.",
+      "publishedAt": "2026-11-06T16:28:49.000Z",
+      "articleId": "265217aa6e7c9fec"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "open",
+      "summary": "A great deal of effort has gone into understanding the regulatory burden on housing construction, and the extent to which it contributes to high housing prices.",
+      "publishedAt": "2026-11-06T13:01:35.000Z",
+      "articleId": "b13773a9622c7d5e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you",
+      "title": "What They Took From You",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond",
+      "publishedAt": "2026-11-06T12:15:49.000Z",
+      "articleId": "7316f8781a2c428b"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7758315/2026/11/06/giants-eagles-preview-week-9-john-harbaugh/",
+      "title": "Giants look to snap losing streak in Philadelphia. If not now, when?",
+      "url": "https://www.nytimes.com/athletic/7758315/2026/11/06/giants-eagles-preview-week-9-john-harbaugh/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "New York hasn't won a road game against the Eagles since 2013, but Philadelphia's QB was a practice-squad player until three weeks ago.",
+      "publishedAt": "2026-11-06T11:30:40.000Z",
+      "articleId": "c433b0df12c183ba"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-enigma-of-trump",
+      "title": "The enigma of Trump",
+      "url": "https://www.slowboring.com/p/the-enigma-of-trump",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A midterm Mailbag",
+      "publishedAt": "2026-11-06T11:00:39.000Z",
+      "articleId": "122fc6bd14164937"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+      "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "articleId": "a99e2a95f3b79fc6"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-2016-cubs-and-the-future-we-took",
+      "title": "The 2016 Cubs and the Future We Took for Granted",
+      "url": "https://neilpaine.substack.com/p/the-2016-cubs-and-the-future-we-took",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Ten years ago, the end of Chicago’s drought felt like the beginning of a dynasty. Instead, it was a glorious one-off.",
+      "publishedAt": "2026-11-06T10:03:04.000Z",
+      "articleId": "e0a5cf74ea1ddde3"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/for-the-democrats-now-comes-the-hard",
       "title": "For the Democrats, now comes the hard part",
@@ -486,17 +576,6 @@
       "articleId": "93e5394ba27e6029"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla",
-      "title": "Thoughts on Owning a Self-Driving Tesla",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "My Subaru was showing its years so I recently bought a Tesla. My thinking was I can buy a car or I can buy a car+driver for the same price. Simple choice. I’ve driven about 2000 miles including one long trip (6 hours) to North Carolina and back. FSD is incredible. I don’t mind driving […]",
-      "publishedAt": "2026-11-03T12:18:06.000Z",
-      "articleId": "ad59dd07861debec"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/against-supplements",
       "title": "Against supplements",
       "url": "https://www.worksinprogress.news/p/against-supplements",
@@ -528,17 +607,6 @@
       "summary": "Apple's earnings suggest that the company's hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
       "publishedAt": "2026-11-03T11:00:00.000Z",
       "articleId": "9d0fb62e230627a4"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips",
-      "title": "The economics of tips",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Tipping is large and growing, but we know little about its consequences for workers and firms. We link point-of-sale and payroll records at 20,000 U.S. firms, which lets us observe tips from customer payment to worker earnings. We find that tips are a nearly constant share of revenue, which means hourly pay moves with revenue. […]",
-      "publishedAt": "2026-11-03T07:58:10.000Z",
-      "articleId": "f861e2d3dfceecb1"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/its-judgment-day-for-trump-and-for",
@@ -1163,17 +1231,6 @@
       "summary": "The Brew Shop Beer Advent Calendar (Pre-Order Only!) It's time to pre-order your Brew Shop Beer Advent Calendar! ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-10-26T14:15:15.002Z",
       "articleId": "7c0633b10d7f550b"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/the-end-of-the-internet/",
-      "title": "The End of the Internet",
-      "url": "https://stratechery.com/2026/the-end-of-the-internet/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
-      "publishedAt": "2026-10-26T10:00:00.000Z",
-      "articleId": "989309fdcda3c5cb"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7725053/2026/10/25/giants-j-j-mccarthy-texans-playoffs/",
@@ -2136,7 +2193,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2160,7 +2217,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
