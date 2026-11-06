@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T21:57:23.312Z",
-  "fetchedAt": "2026-11-05T21:57:23.309Z",
+  "generatedAt": "2026-11-06T02:21:40.372Z",
+  "fetchedAt": "2026-11-06T02:21:40.368Z",
   "sourceCount": 25,
-  "itemCount": 183,
-  "totalItemCount": 819,
+  "itemCount": 182,
+  "totalItemCount": 818,
   "items": [
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo",
@@ -1132,18 +1132,6 @@
       "articleId": "ba8e4466d0fb808a"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/why-i-dont-write-about-ai-all-the",
-      "title": "Why I don’t write about A.I. all the time",
-      "url": "https://www.slowboring.com/p/why-i-dont-write-about-ai-all-the",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "It might be the most important issue right now, but I’m not history’s main character.",
-      "publishedAt": "2026-10-27T10:01:46.000Z",
-      "articleId": "ff62ce5b5cd6c2e9"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
       "title": "Roundup #90: In which Noah joins a Japanese VC firm",
       "url": "https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
@@ -2183,7 +2171,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
