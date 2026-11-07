@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T23:02:56.848Z",
-  "fetchedAt": "2026-11-06T23:02:56.845Z",
+  "generatedAt": "2026-11-07T02:44:42.355Z",
+  "fetchedAt": "2026-11-07T02:44:42.351Z",
   "sourceCount": 25,
-  "itemCount": 185,
-  "totalItemCount": 819,
+  "itemCount": 184,
+  "totalItemCount": 818,
   "items": [
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
@@ -1144,17 +1144,6 @@
       "articleId": "8ba9767bae988606"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/those-who-work-and-those-who-post",
-      "title": "Those who work and those who post",
-      "url": "https://www.slowboring.com/p/those-who-work-and-those-who-post",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Mamdani seems surprisingly moderate because mayors need to govern.",
-      "publishedAt": "2026-10-28T10:03:29.000Z",
-      "articleId": "3103babe76b0939b"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
       "title": "BADOP! Gochujang Michelada",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/l0qqrcpil482ts0tixnr52jv8eml8ofxh9fs4t7k.html",
@@ -2206,7 +2195,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
