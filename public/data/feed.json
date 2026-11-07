@@ -1,10 +1,45 @@
 {
-  "generatedAt": "2026-11-07T09:58:03.028Z",
-  "fetchedAt": "2026-11-07T09:58:03.025Z",
+  "generatedAt": "2026-11-07T16:22:26.952Z",
+  "fetchedAt": "2026-11-07T16:22:26.948Z",
   "sourceCount": 25,
-  "itemCount": 184,
-  "totalItemCount": 818,
+  "itemCount": 183,
+  "totalItemCount": 817,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-end-of-purple-colorado",
+      "title": "The end of purple Colorado?",
+      "url": "https://www.slowboring.com/p/the-end-of-purple-colorado",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Colorado Democrats won supermajorities in the state legislature — is it a blue state now or just a blue wave?",
+      "publishedAt": "2026-11-07T14:02:40.000Z",
+      "articleId": "ebddc25d95cc7ad5"
+    },
+    {
+      "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-1172026",
+      "title": "Reading List 11/7/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-1172026",
+      "source": "Construction Physics",
+      "sourceUrl": "https://www.construction-physics.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Florida’s property tax rollback, projected PCB shortages, the end of Tesla’s Cybertruck, the lack of progress in carbon storage, and more.",
+      "publishedAt": "2026-11-07T13:23:36.000Z",
+      "articleId": "b64314dbda1b9db7"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power",
+      "title": "What are the Best MR Posts?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The selection […]",
+      "publishedAt": "2026-11-07T12:17:10.000Z",
+      "articleId": "e00cc20f84337665"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan",
       "title": "The Anthropic succession plan?",
@@ -93,6 +128,18 @@
       "summary": "Without a positive message to run on, Republicans leaned into gratuitous personal insults of their opponents, thinking that’s worked for Trump before. But it didn’t, and doesn't.",
       "publishedAt": "2026-11-06T16:28:49.000Z",
       "articleId": "265217aa6e7c9fec"
+    },
+    {
+      "id": "Walking the World:https://walkingtheworld.substack.com/p/the-very-democratic-end-of-maga",
+      "title": "The Very Democratic End of MAGA?",
+      "url": "https://walkingtheworld.substack.com/p/the-very-democratic-end-of-maga",
+      "source": "Walking the World",
+      "sourceUrl": "https://walkingtheworld.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "A normal election of note",
+      "publishedAt": "2026-11-06T13:46:47.000Z",
+      "articleId": "8f31ad15f8d7bf07"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/how-do-building-codes-affect-the",
@@ -529,29 +576,6 @@
       "summary": "Normies exist, and there’s only so far you can push them before they get mad.",
       "publishedAt": "2026-11-04T10:33:58.000Z",
       "articleId": "4576cb3027950414"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-nhls-most-productive-player-wants",
-      "title": "The NHL’s Most Productive Player Wants Out. When Has This Happened Before?",
-      "url": "https://neilpaine.substack.com/p/the-nhls-most-productive-player-wants",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Trading Nikita Kucherov would have few historical parallels — and leave an enormous hole in the Lightning’s dynastic story.",
-      "publishedAt": "2026-11-04T10:02:16.000Z",
-      "articleId": "f67304bee0d1bef3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
-      "title": "The election",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Procedurally it seems to have gone just fine, and the people predicting “the end of democracy in America” now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During this election cycle, democracy never was under threat and the United States has not been under risk of fascism. Rising in […]",
-      "publishedAt": "2026-11-04T07:41:25.000Z",
-      "articleId": "f7fd58ab8499afd5"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/b3es1ukguobxtzrqsqetwjla4p7093m9yltdb8nt.html",
@@ -1074,18 +1098,6 @@
       "summary": "AI can do things humans researchers can’t, even in groups.",
       "publishedAt": "2026-10-29T09:55:51.000Z",
       "articleId": "8d27972a50132dc7"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/a-pastor-a-tejano-singer-and-a-slew",
-      "title": "A pastor, a Tejano singer, and a slew of salmon and Sullivans walk into a midterm",
-      "url": "https://www.slowboring.com/p/a-pastor-a-tejano-singer-and-a-slew",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "With less than a week until Election Day, Democrats are feeling good. They’re also wary as key races remain neck and neck.",
-      "publishedAt": "2026-10-28T22:02:14.000Z",
-      "articleId": "90a60e7dc5e1a3f3"
     },
     {
       "id": "The Lowe Post:https://zachlowe.substack.com/p/portland-trail-blazers-offense-ja-morant-damian-lillard",
@@ -2050,29 +2062,6 @@
       "summary": "How autobiography took over the world",
       "publishedAt": "2026-10-08T17:32:23.000Z",
       "articleId": "7862bc3dd619fb43"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/understanding-jev-the-new-model-everyone",
-      "title": "Understanding Jev, the new model everyone is talking about",
-      "url": "https://www.understandingai.org/p/understanding-jev-the-new-model-everyone",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "OpenAI, CloudFlare, and Amazon have all copied this tiny startup.",
-      "publishedAt": "2026-10-08T13:14:53.000Z",
-      "articleId": "bb54d056581a3c35"
-    },
-    {
-      "id": "Construction Physics:https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "title": "The Rise and Fall of the Plasma Screen",
-      "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "source": "Construction Physics",
-      "sourceUrl": "https://www.construction-physics.com/",
-      "access": "open",
-      "summary": "In 1960, a team at the University of Illinois released the first version of their PLATO “computerized instruction system,” a network of what would eventually be thousands of computer terminals connected to large mainframe computers.",
-      "publishedAt": "2026-10-08T12:02:36.000Z",
-      "articleId": "d7eedeb43129023b"
     }
   ],
   "weather": null,
@@ -2171,7 +2160,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 3,
+      "itemCount": 2,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
