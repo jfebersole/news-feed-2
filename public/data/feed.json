@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-08T07:15:19.157Z",
-  "fetchedAt": "2026-11-08T07:15:19.152Z",
+  "generatedAt": "2026-11-08T15:05:20.593Z",
+  "fetchedAt": "2026-11-08T15:05:20.591Z",
   "sourceCount": 25,
   "itemCount": 181,
-  "totalItemCount": 817,
+  "totalItemCount": 818,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
+      "title": "Republicans Don’t Understand Men, Either",
+      "url": "https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "For the most part, young men want to be good men.",
+      "publishedAt": "2026-11-08T11:02:28.000Z",
+      "articleId": "75e7b8b927ca628b"
+    },
+    {
+      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
+      "title": "A Stake Through the Heart of Trump’s Red Map",
+      "url": "https://www.nytimes.com/2026/11/08/opinion/midterms-democrats-schumer.html",
+      "source": "Ezra Klein (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
+      "access": "paywalled",
+      "summary": "Realignment is so 2024.",
+      "publishedAt": "2026-11-08T11:00:21.000Z",
+      "articleId": "6b85ccb12e86d065"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song",
+      "title": "The Pope probably knows this song",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "",
+      "publishedAt": "2026-11-08T07:30:49.000Z",
+      "articleId": "773444830b950516"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
       "title": "What I’ve been reading",
@@ -84,6 +117,17 @@
       "summary": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The selection […]",
       "publishedAt": "2026-11-07T12:17:10.000Z",
       "articleId": "e00cc20f84337665"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
+      "title": "The Week That Was (November 2-6, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-11-07T10:01:49.000Z",
+      "articleId": "c9d95ebaf987f92a"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan",
@@ -454,17 +498,6 @@
       "summary": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly moderate results, repudiations of both Trump and the extreme Democratic left. You may or may not like those results, […]",
       "publishedAt": "2026-11-05T09:19:09.000Z",
       "articleId": "a6f027acb72c59d0"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
-      "title": "My very good Conversation with Richard Hanania",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately scrambled timeline, the near-total absence of religion in Conrad’s universe, Nostromo’s own vanity and treatment of women, a close reading of […]",
-      "publishedAt": "2026-11-05T05:51:48.000Z",
-      "articleId": "03ca63ecf9a0734f"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-november-2026",
@@ -2007,39 +2040,6 @@
       "summary": "Finalist #11 in the Book Review Contest",
       "publishedAt": "2026-10-10T01:05:13.000Z",
       "articleId": "bea2fb8d8febbd67"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/why-were-victorian-elites-so-effective",
-      "title": "Victorian elites stayed in bed until the afternoon",
-      "url": "https://www.worksinprogress.news/p/why-were-victorian-elites-so-effective",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "There’s more than one way to rule the world",
-      "publishedAt": "2026-10-09T14:49:17.000Z",
-      "articleId": "afe4032aee972ba4"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7673577/2026/10/09/giants-commanders-preview-harbaugh-nabers/",
-      "title": "John Harbaugh's meritocracy, Malik Nabers' involvement: What to watch for in Giants-Commanders",
-      "url": "https://www.nytimes.com/athletic/7673577/2026/10/09/giants-commanders-preview-harbaugh-nabers/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "\"So, what has got you here is not necessarily going to keep you here, and you've got to have daily deposits,\" Brandon Brown said.",
-      "publishedAt": "2026-10-09T11:00:38.000Z",
-      "articleId": "7d23f6049152e801"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/maybe-the-rapture-is-already-here",
-      "title": "Maybe the Rapture is already here",
-      "url": "https://www.noahpinion.blog/p/maybe-the-rapture-is-already-here",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "In the future, we’re all heavenbanned.",
-      "publishedAt": "2026-10-09T09:18:32.000Z",
-      "articleId": "d6a3a3ad8ee5bf95"
     }
   ],
   "weather": null,
@@ -2138,7 +2138,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
