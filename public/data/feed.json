@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-11-07T20:50:52.954Z",
-  "fetchedAt": "2026-11-07T20:50:52.952Z",
+  "generatedAt": "2026-11-08T00:30:08.674Z",
+  "fetchedAt": "2026-11-08T00:30:08.671Z",
   "sourceCount": 25,
   "itemCount": 180,
   "totalItemCount": 817,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/why-im-becoming-a-china-bear",
+      "title": "Why I’m becoming a China bear",
+      "url": "https://www.noahpinion.blog/p/why-im-becoming-a-china-bear",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The country was perfectly positioned to win in a world that no longer exists.",
+      "publishedAt": "2026-11-07T21:11:43.000Z",
+      "articleId": "7250551c35be30c9"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585",
       "title": "Saturday assorted links",
@@ -2017,17 +2029,6 @@
       "summary": "In the future, we’re all heavenbanned.",
       "publishedAt": "2026-10-09T09:18:32.000Z",
       "articleId": "d6a3a3ad8ee5bf95"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673",
-      "title": "Ballots Everywhere: Times & Places",
-      "url": "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-10-08T22:00:52.000Z",
-      "articleId": "27d7f467d255b75e"
     }
   ],
   "weather": null,
