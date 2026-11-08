@@ -1,10 +1,45 @@
 {
-  "generatedAt": "2026-11-08T15:05:20.593Z",
-  "fetchedAt": "2026-11-08T15:05:20.591Z",
+  "generatedAt": "2026-11-08T19:39:24.498Z",
+  "fetchedAt": "2026-11-08T19:39:24.494Z",
   "sourceCount": 25,
-  "itemCount": 181,
+  "itemCount": 182,
   "totalItemCount": 818,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-2bb",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-2bb",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-11-08T18:02:16.000Z",
+      "articleId": "00739e176136001b"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Among the Wagner fanatics. 2. Does AI instead commodify jobs? 3. The digital world is making Islam more diverse (The Economist). 4. “An affair with an economist exposed the calculus of modern dating.” (New Yorker) 5. “How Much Economic Value Do AI Systems Produce per Unit of Energy?” 6. John Gray will be writing […]",
+      "publishedAt": "2026-11-08T17:06:45.000Z",
+      "articleId": "90526dd6079de3f2"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/sonic-youth-yesterday-and-today-a",
+      "title": "Sonic Youth, Yesterday and Today: A Conversation with Steve Shelley",
+      "url": "https://www.cantgetmuchhigher.com/p/sonic-youth-yesterday-and-today-a",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The drummer in Sonic Youth, punk legend Steve Shelly, stops by to talk about his famed band and the record label he runs.",
+      "publishedAt": "2026-11-08T15:31:09.000Z",
+      "articleId": "1f5dbd524ea5e9e6"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
       "title": "Republicans Don’t Understand Men, Either",
@@ -487,17 +522,6 @@
       "summary": "The moments that made Jeter immortal weren’t necessarily the ones that made him great.",
       "publishedAt": "2026-11-05T10:00:41.000Z",
       "articleId": "ebb74beddfbb5a13"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization",
-      "title": "Social media and political radicalization",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly moderate results, repudiations of both Trump and the extreme Democratic left. You may or may not like those results, […]",
-      "publishedAt": "2026-11-05T09:19:09.000Z",
-      "articleId": "a6f027acb72c59d0"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-november-2026",
@@ -1120,18 +1144,6 @@
       "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
       "publishedAt": "2026-10-29T10:03:20.000Z",
       "articleId": "b9042e10fda438ca"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/how-i-would-fix-all-of-americas-major",
-      "title": "How I would fix all of America’s major problems",
-      "url": "https://www.slowboring.com/p/how-i-would-fix-all-of-americas-major",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Let’s stop being practical for once.",
-      "publishedAt": "2026-10-29T10:02:03.000Z",
-      "articleId": "a71e620ca2584d9d"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
