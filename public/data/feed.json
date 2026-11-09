@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-08T23:40:25.575Z",
-  "fetchedAt": "2026-11-08T23:40:25.572Z",
+  "generatedAt": "2026-11-09T06:12:18.221Z",
+  "fetchedAt": "2026-11-09T06:12:18.218Z",
   "sourceCount": 25,
   "itemCount": 182,
   "totalItemCount": 818,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story",
+      "title": "The Paraguayan bank story",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Despite its weaknesses, Paraguay’s young democracy was still able to deliver under stress. Its free, boisterous press was the first to sound the alarm about Peña’s shenanigans. The Central Bank’s supervision chief did his job: he examined ueno’s numbers and recommended blocking the sale of its bad loans to a related company (Peña had appointed […]",
+      "publishedAt": "2026-11-09T05:27:57.000Z",
+      "articleId": "d50f6e1dd6874b03"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7765898/2026/11/08/j-j-mccarthy-new-york-giants-eagles-gritty/",
+      "title": "J.J. McCarthy, Giants gut out win vs. Eagles in a season being defined by their grit",
+      "url": "https://www.nytimes.com/athletic/7765898/2026/11/08/j-j-mccarthy-new-york-giants-eagles-gritty/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "McCarthy's gutsy effort was emblematic of a Giants team that doesn't care about style points but simply finds ways to win.",
+      "publishedAt": "2026-11-09T01:28:45.000Z",
+      "articleId": "c05274d57233f131"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-2bb",
       "title": "Sunday Thread + Mailbag",
@@ -465,17 +487,6 @@
       "summary": "But who deserves the most credit? High-quality pollsters who nailed the result. Plus, Still Counting EP10.",
       "publishedAt": "2026-11-05T14:03:18.000Z",
       "articleId": "7dbc670f7f9bc56f"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer",
-      "title": "Pollution as Growth Killer",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am interviewed; here is one bit: Q. Doesn’t the demographic dividend argue for growth first? The demographic dividend is people. […]",
-      "publishedAt": "2026-11-05T12:17:06.000Z",
-      "articleId": "99e61ac4e9976b5a"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/its-so-over-for-aipac",
@@ -2041,17 +2052,6 @@
       "summary": "Propane in air conditioners, Anduril making submarine parts, nuclear reactors on the moon, the robotic hand landscape, and more.",
       "publishedAt": "2026-10-10T14:55:48.000Z",
       "articleId": "a194fc57376be325"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-we-present-television",
-      "title": "Your Book Review: We Present Television",
-      "url": "https://www.astralcodexten.com/p/your-book-review-we-present-television",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #11 in the Book Review Contest",
-      "publishedAt": "2026-10-10T01:05:13.000Z",
-      "articleId": "bea2fb8d8febbd67"
     }
   ],
   "weather": null,
