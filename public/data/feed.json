@@ -1,10 +1,77 @@
 {
-  "generatedAt": "2026-11-09T17:25:15.469Z",
-  "fetchedAt": "2026-11-09T17:25:15.465Z",
+  "generatedAt": "2026-11-10T01:28:27.600Z",
+  "fetchedAt": "2026-11-10T01:28:27.595Z",
   "sourceCount": 25,
-  "itemCount": 184,
-  "totalItemCount": 818,
+  "itemCount": 186,
+  "totalItemCount": 819,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/voters-went-for-yimby-candidates",
+      "title": "Voters went for YIMBY candidates — but not their ballot initiatives",
+      "url": "https://www.slowboring.com/p/voters-went-for-yimby-candidates",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The electorate supported YIMBY- and abundance-pilled candidates but rejected the kind of measure that would make their promises possible.",
+      "publishedAt": "2026-11-09T23:02:00.000Z",
+      "articleId": "d0d1a0975ef0dc72"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
+      "title": "Noah Smith and Azeem Azhar discuss the AI boom",
+      "url": "https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "A bonus podcast!",
+      "publishedAt": "2026-11-09T23:01:29.000Z",
+      "articleId": "75dbfa8264a4d4a6"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/the-most-valuable-nomination-of-all",
+      "title": "The most valuable nomination of all time?",
+      "url": "https://www.natesilver.net/p/the-most-valuable-nomination-of-all",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "On Still Counting EP11, we talked about Jon Ossoff and the bright but uncertain future for Democrats.",
+      "publishedAt": "2026-11-09T21:14:59.000Z",
+      "articleId": "33012db210c081fd"
+    },
+    {
+      "id": "One Useful Thing:https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "title": "Fable 5.2 and Jagged AGI",
+      "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/",
+      "access": "open",
+      "summary": "General, often expert, and sometimes jagged",
+      "publishedAt": "2026-11-09T19:04:26.000Z",
+      "articleId": "98d5b7ce1047f962"
+    },
+    {
+      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/6mj9di4ij16obesztryjbdwm2hc0qq2eik8dah2p.html",
+      "title": "Money Stuff: Is the Nvidia Affair Securities Fraud?",
+      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/6mj9di4ij16obesztryjbdwm2hc0qq2eik8dah2p.html",
+      "source": "Money Stuff (Bloomberg)",
+      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
+      "access": "open",
+      "summary": "Is the Nvidia Affair Securities Fraud? Financing, oopsies, lawsuits, standup. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read in browser Oh Jensen Here’s one way to think about things. In about five years, people and companies will be spending about $4 trillion a year on artificial intelligence. [1] Give or take! Perhaps it will be $3 trillion, or $5 trillion. Perhaps it will take six years to get to that level, or four. Obviously there are weirder possibilities: Maybe in two years AI will cause the extinction of humanity, or at least render money obsolete; maybe we’ll all decide that AI is bad and stop building it, and in five years the annual spending on AI will be $0. But the center of the distribution might be something like “in five years, $4 trillion a year on AI, give or take.” And then on crude simple assumptions a cash flow of $4 trillion a year is worth something like $40 trillion in present-value terms, [2] which is on the order of half of the value of the US stock market today. [3] This is just a big deal relative to, you know, whatever else you’ve got going on, financially. In some sense the basic job of an investor in 2026 is: You need a model of what the future cash flows of AI will actually be, and when they will arrive. You need a model of who will get them: Okay, companies will spend $4 trillion on AI, but where will that money end up? Will a lot of it be captured as profits at frontier AI labs? As profits at application developers downstream of the AI labs? By chipmakers? By electric utilities? By the neoclouds and other data-center operators that sit between the chipmakers and AI labs? At each level, will the companies make enough to pay off the debt that they take on to build all this AI capacity? Will they make enough to make their shareholders rich? There is some complicated waterfall of cash flows from all of this AI money, one that is partially baked into the financing documents for the AI data center projects but that is largely based on your assumptions about industry structure, capacity, demand, bargaining power, etc., in the future. And this waterfall will be full of nonlinearities: There’s some neocloud that goes bankrupt and defaults on its bonds in the state of the world where AI generates $4 trillion of revenue, but that pays off those bonds and returns 1,000% for its...",
+      "publishedAt": "2026-11-09T19:03:51.216Z",
+      "articleId": "8beb15aaff505a4d"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585",
+      "title": "Monday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could the CEA manage? 6. Douthat! 7. Andrew Maxfield, Stations of the Cross, vocal music.",
+      "publishedAt": "2026-11-09T17:42:35.000Z",
+      "articleId": "a415f6eb33ae1317"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/w1tz3ojelv2hqoc4jnbsat04mo05bfo3bzsmit0p.html",
       "title": "Recipes from the River: Cucumber & Red Onion Salad with Black Vinegar and Dill",
@@ -469,17 +536,6 @@
       "articleId": "39f4f087e302d339"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office",
-      "title": "The Global Office",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing much faster. A heatmap of trade in intermediates shows that the Factory is bloc-shaped and dominated by China, whereas the Office […]",
-      "publishedAt": "2026-11-06T06:18:58.000Z",
-      "articleId": "00078c64e1642b64"
-    },
-    {
       "id": "Brew Shop:https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/tw9v7bf76vsiml32wnjt6cioht00k4yalvo6m9e0.html",
       "title": "The Brew Shop - Weekly Email Update",
       "url": "https://kill-the-newsletter.com/feeds/qj2dfk4wwkor5zxttuy5/entries/tw9v7bf76vsiml32wnjt6cioht00k4yalvo6m9e0.html",
@@ -942,17 +998,6 @@
       "articleId": "b9574a9397576bcb"
     },
     {
-      "id": "Silver Bulletin:https://www.natesilver.net/p/could-haley-stevens-cost-democrats",
-      "title": "Could Haley Stevens cost Democrats the Senate?",
-      "url": "https://www.natesilver.net/p/could-haley-stevens-cost-democrats",
-      "source": "Silver Bulletin",
-      "sourceUrl": "https://www.natesilver.net/",
-      "access": "open",
-      "summary": "Probably not, but let’s run the numbers on a rare *November* Surprise. Plus, please join us for our Election Night coverage!",
-      "publishedAt": "2026-11-01T22:21:16.000Z",
-      "articleId": "b0d87516c8a1d73b"
-    },
-    {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
       "title": "Trump Has Found the Attorney General of His Dreams",
       "url": "https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html",
@@ -1234,17 +1279,6 @@
       "summary": "How Portland is tapping into a new offensive identity with Damian Lillard and Ja Morant",
       "publishedAt": "2026-10-28T21:44:15.000Z",
       "articleId": "efc18cf8a4483688"
-    },
-    {
-      "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ngwzs23tr2kk8idxi4a42gm157v4iqtho43wj0bx.html",
-      "title": "Money Stuff: Not Your Keys, Not Your DAT",
-      "url": "https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/ngwzs23tr2kk8idxi4a42gm157v4iqtho43wj0bx.html",
-      "source": "Money Stuff (Bloomberg)",
-      "sourceUrl": "https://www.bloomberg.com/account/newsletters/money-stuff",
-      "access": "open",
-      "summary": "Not Your Keys, Not Your DAT Non-GAAP, buy borrow die, sports bets. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read in browser Programming note: We want to hear from you. Please take our quick reader survey . Bitcoin oopsie For a while last year, the US stock market would pay $2 for $1 of Bitcoin . It is hard to convey now how weird that time was. If you ran a tiny public company in mid-2025, the very best thing you could do was acquire $100 million of Bitcoin to add $200 million to your market capitalization. If you happened to have $100 million worth of Bitcoin in mid-2025, the very best thing you could do was to plop it into a tiny public company in exchange for $200 million worth of stock. These companies were called “digital asset treasury companies,” or DATs. Everyone kind of knew this couldn’t last ( it didn’t ), so there was a mad rush to get these trades done before the party ended. In September 2025, a company called Datavault AI Inc. got into this game. Sort of. Datavault was a small public company, “a leader in AI-driven data visualization, valuation and monetization.” In mid-September, it had about 116.7 million shares outstanding , trading at around $0.30 per share, for a market capitalization in the ballpark of $35 million. On Sept. 25, it announced that it was selling 278.9 million shares, at a price of $0.5378 per share, to Scilex Holding Co., another public company focused on “acquiring, developing and commercializing non-opioid pain management products for the treatment of acute and chronic pain and neurodegenerative and cardiometabolic disease.” [1] Scilex was paying the purchase price in Bitcoin, valued at $112,915.52 per Bitcoin , meaning that Datavault got about 1,309 Bitcoin for its stock. [2] The stock promptly shot up, hitting a high of $3.118 in October, for a market capitalization of about $973 million. Datavault did not, as far as I can tell, call itself a “Bitcoin treasury company” or DAT, and the announcement of the deal focused on its strategic goals, not the Bitcoin stuff. A sample: “We believe the investment is particularly significant for biotech, strengthening the company’s high-performance computing capabilities and supporting partnerships with the U.S. Department of Energy’s Brookhaven National Laboratory and IBM WatsonX,” said Nathaniel Bradley, CEO of Datavault...",
-      "publishedAt": "2026-10-28T18:01:12.887Z",
-      "articleId": "094e7d9db91630e7"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/my-california-ballot-2026",
@@ -2063,17 +2097,6 @@
       "summary": "Re-upping my election post-mortem, so that we don’t forget.",
       "publishedAt": "2026-10-11T07:31:44.000Z",
       "articleId": "fcefa65b6b86ef3d"
-    },
-    {
-      "id": "Walking the World:https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
-      "title": "Integrated Circuits, AI, and Wallabies",
-      "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
-      "source": "Walking the World",
-      "sourceUrl": "https://walkingtheworld.substack.com/",
-      "access": "open",
-      "summary": "Two very different essays written while waiting for doctors",
-      "publishedAt": "2026-10-10T18:13:49.000Z",
-      "articleId": "99d18a4eb9be9028"
     }
   ],
   "weather": null,
@@ -2196,7 +2219,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
