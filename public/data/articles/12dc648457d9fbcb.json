@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html",
+  "source": "Marginal Revolution",
+  "title": "Are RCTs underpowered?",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p>Maybe so:</p>\n<blockquote><p>We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values associated with p-hacking. This suggests many RCTs are underpowered. Estimating an empirical Bayes mixture model that accounts for selective publication, we find that approximately 30 percent of published rejections are false discoveries, with average directional power at only 40 percent. At conventional significance thresholds, the posterior probability of a false discovery reaches 66 percent. Doubling original sample sizes lowers the average false discovery rate by five percentage points, whereas tightening the significance threshold to 0.005 yields a larger reduction at the cost of total discoveries. Finally, we characterize a funder’s optimal replication policy under a fixed budget and an evidence standard. Under standard regularity conditions, replications concentrate in an intermediate interval of original test statistics, and the optimal replication sample size is single-peaked in the original t-statistic. Illustrative calibrations show that successful replications reduce aggregate false discovery rates to 1.8–7.8 percent, depending on the evidence standard.</p></blockquote>\n<p>That is from <a href=\"https://www.nber.org/papers/w35999\" target=\"_blank\" rel=\"noopener noreferrer\">a new paper</a>&nbsp;by <span><a href=\"https://www.nber.org/people/qingyuan_chai\" target=\"_blank\" rel=\"noopener noreferrer\">Qingyuan Chai</a>, </span><span><a href=\"https://www.nber.org/people/kevin_lang\" target=\"_blank\" rel=\"noopener noreferrer\">Kevin Lang</a> </span><span>&amp; <a href=\"https://www.nber.org/people/samzl\" target=\"_blank\" rel=\"noopener noreferrer\">Liang Zhong</a>.</span></p>",
+  "wordCount": 215,
+  "imageCount": 0,
+  "linkCount": 4
+}
