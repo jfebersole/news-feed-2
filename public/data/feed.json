@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-11-10T01:28:27.600Z",
-  "fetchedAt": "2026-11-10T01:28:27.595Z",
+  "generatedAt": "2026-11-10T09:41:22.422Z",
+  "fetchedAt": "2026-11-10T09:41:22.419Z",
   "sourceCount": 25,
   "itemCount": 186,
   "totalItemCount": 819,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
+      "title": "*Godzilla: Minus Zero* (no spoilers)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary on American-Japanese relations, and how the Japanese view them. Not for everyone, but I am glad I went.",
+      "publishedAt": "2026-11-10T08:24:18.000Z",
+      "articleId": "4072d3025f725629"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets",
+      "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the new and forthcoming book from Bryan Caplan, University of Chicago Press. Excerpt: Real-world free markets deliver one broad benefit that flies under the radar of economic theory: They shield humanity from its own Social Desirability Bias. Markets do the good things that sounds bad. Good things like driving incompetent, unresponsive, and obsolete […]",
+      "publishedAt": "2026-11-10T05:39:10.000Z",
+      "articleId": "34defeb1308b5367"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
+      "title": "Republicans Don’t Understand Men, Either",
+      "url": "https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "For the most part, young men want to be good men.",
+      "publishedAt": "2026-11-10T04:39:47.000Z",
+      "articleId": "75e7b8b927ca628b"
+    },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/voters-went-for-yimby-candidates",
       "title": "Voters went for YIMBY candidates — but not their ballot initiatives",
@@ -27,6 +60,18 @@
       "summary": "A bonus podcast!",
       "publishedAt": "2026-11-09T23:01:29.000Z",
       "articleId": "75dbfa8264a4d4a6"
+    },
+    {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/celtics-vs-sixers-jaylen-brown-jayson-tatum",
+      "title": "Celtics-Sixers Is Can’t-Miss Theater. Here’s What I’m Looking For.",
+      "url": "https://zachlowe.substack.com/p/celtics-vs-sixers-jaylen-brown-jayson-tatum",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The plots and subplots that will define the juiciest clash of the NBA season",
+      "publishedAt": "2026-11-09T22:48:22.000Z",
+      "articleId": "a0a0b26be32ef5d1"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/the-most-valuable-nomination-of-all",
@@ -84,15 +129,16 @@
       "articleId": "09516016d967ff38"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
-      "title": "Republicans Don’t Understand Men, Either",
-      "url": "https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/robert-halls-1983-proposal-to-index",
+      "title": "Robert Hall’s 1983 proposal to index IOR",
+      "url": "https://scottsumner.substack.com/p/robert-halls-1983-proposal-to-index",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
       "access": "paywalled",
-      "summary": "For the most part, young men want to be good men.",
-      "publishedAt": "2026-11-09T16:36:27.000Z",
-      "articleId": "75e7b8b927ca628b"
+      "paywallType": "partial",
+      "summary": "And its non-obvious links to market monetarism",
+      "publishedAt": "2026-11-09T14:19:56.000Z",
+      "articleId": "12ec589b16d97691"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&utm_medium=rss&utm_campaign=end-the-state-veto-on-power-lines",
@@ -150,6 +196,18 @@
       "summary": "Nvidia CEO Jensen Huang admitted to an affair with a Chinese spy, and that might not be the end of his troubles. I hope he survives, but his influence will never be the same.",
       "publishedAt": "2026-11-09T11:00:00.000Z",
       "articleId": "25d2a875418502cd"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
+      "title": "Joe Buck, Troy Aikman and the End of the NFL’s Greatest Broadcasting Dynasty",
+      "url": "https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "After 25 years together, the longest-running broadcast duo in NFL history looks like it’s headed for an ugly divorce. Here’s how their partnership stacks up against the all-time greats.",
+      "publishedAt": "2026-11-09T10:02:01.000Z",
+      "articleId": "fd70b32db2404edc"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
@@ -423,17 +481,6 @@
       "articleId": "a0b2f1b9608e440a"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
-      "title": "Untethered AI agents in Delaware?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations… That is a current proposal, here is the full article. […]",
-      "publishedAt": "2026-11-06T17:00:22.000Z",
-      "articleId": "7e41fb4364aa81c3"
-    },
-    {
       "id": "Josh Barro:https://www.joshbarro.com/p/a-lesson-for-republicans-mean-implausible",
       "title": "A Lesson for Republicans: Mean, Implausible Lies Do Not Win Elections",
       "url": "https://www.joshbarro.com/p/a-lesson-for-republicans-mean-implausible",
@@ -468,17 +515,6 @@
       "articleId": "b13773a9622c7d5e"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you",
-      "title": "What They Took From You",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond",
-      "publishedAt": "2026-11-06T12:15:49.000Z",
-      "articleId": "7316f8781a2c428b"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7758315/2026/11/06/giants-eagles-preview-week-9-john-harbaugh/",
       "title": "Giants look to snap losing streak in Philadelphia. If not now, when?",
       "url": "https://www.nytimes.com/athletic/7758315/2026/11/06/giants-eagles-preview-week-9-john-harbaugh/",
@@ -511,18 +547,6 @@
       "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
       "publishedAt": "2026-11-06T11:00:00.000Z",
       "articleId": "a99e2a95f3b79fc6"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-2016-cubs-and-the-future-we-took",
-      "title": "The 2016 Cubs and the Future We Took for Granted",
-      "url": "https://neilpaine.substack.com/p/the-2016-cubs-and-the-future-we-took",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Ten years ago, the end of Chicago’s drought felt like the beginning of a dynasty. Instead, it was a glorious one-off.",
-      "publishedAt": "2026-11-06T10:03:04.000Z",
-      "articleId": "e0a5cf74ea1ddde3"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/for-the-democrats-now-comes-the-hard",
@@ -2032,17 +2056,6 @@
       "articleId": "2afe081aabf2dd40"
     },
     {
-      "id": "The Lowe Post:https://zachlowe.substack.com/p/welcome-to-the-lowe-post",
-      "title": "The Lowe Post Is Back—and It’s a Newsletter Now",
-      "url": "https://zachlowe.substack.com/p/welcome-to-the-lowe-post",
-      "source": "The Lowe Post",
-      "sourceUrl": "https://zachlowe.substack.com/",
-      "access": "open",
-      "summary": "Why I’m writing again, and why I’d love for you to join me",
-      "publishedAt": "2026-10-12T14:35:04.000Z",
-      "articleId": "377fa5b7473e9df8"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
       "title": "Not sure how to feel after Giants escaped with a tie vs. Commanders? You're not alone",
       "url": "https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
@@ -2086,17 +2099,6 @@
       "summary": "Creed breaks Instagram, Billy Joel shocks me, and Lucian Grainge’s lack of fear",
       "publishedAt": "2026-10-11T14:30:24.000Z",
       "articleId": "ccda41f4c5968d80"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-donald-trump-won-in-2024",
-      "title": "Why Donald Trump won in 2024",
-      "url": "https://www.noahpinion.blog/p/why-donald-trump-won-in-2024",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Re-upping my election post-mortem, so that we don’t forget.",
-      "publishedAt": "2026-10-11T07:31:44.000Z",
-      "articleId": "fcefa65b6b86ef3d"
     }
   ],
   "weather": null,
