@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html",
+  "source": "Marginal Revolution",
+  "title": "Experimentally validated digital twins",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p>There is <a href=\"https://opportunityinsights.org/wp-content/uploads/2026/09/DigitalTwins_FullPaper.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">a new paper</a> by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger:</p>\n<blockquote><p>Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior research found that observational estimates of program impacts often diverge substantially from experimental benchmarks. We revisit this finding — which was based on small survey datasets — in the era of large-scale administrative data. Using anonymized income tax records covering all American adults between 1999 and 2025, we estimate the effects of workforce training programs on earnings by using machine learning models to predict counterfactuals from rich data on prior work histories, demographics, and residential locations. Rather than testing whether our observational estimates are unbiased, we use 37 RCTs to estimate the distribution of their bias. We find that our machine learning estimates closely match the RCT estimates, with root mean squared error (RMSE) comparable to that of the RCTs themselves. Our method reduces RMSE by 60% relative to parametric estimators used in prior work because our larger samples and richer covariates permit more flexible, higher-dimensional models of the counterfactual. Applying our method to a broader set of sites and enrollment years beyond the experimental sample, we find that treatment effects on earnings vary substantially across locations and over time, even within a given program. Programs that place more participants into target-sector jobs generate the largest earnings gains, with impacts that persist even after participants leave their initial jobs. These findings provide guidance for improving job training programs and, more broadly, illustrate a scalable approach to program evaluation that uses observational data to construct experimentally validated “digital twins.”</p></blockquote>\n<p>Work of this sort is going to revolutionize economic method.</p>",
+  "wordCount": 280,
+  "imageCount": 0,
+  "linkCount": 1
+}
