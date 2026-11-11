@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-10T23:13:44.859Z",
-  "fetchedAt": "2026-11-10T23:13:44.856Z",
+  "generatedAt": "2026-11-11T06:01:34.249Z",
+  "fetchedAt": "2026-11-11T06:01:34.246Z",
   "sourceCount": 25,
-  "itemCount": 186,
+  "itemCount": 185,
   "totalItemCount": 820,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback",
+      "title": "Spying makes a comeback",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger of the erosion of privacy today, as well as the acceleration of espionage and the […]",
+      "publishedAt": "2026-11-11T05:55:45.000Z",
+      "articleId": "d3bd54a0cb9ba426"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/atzyxeajtw62uxebjno0ernsuttahlzz04sdvjsc.html",
       "title": "Money Stuff: Anthropic Has Some Anchor Investors",
@@ -103,6 +114,18 @@
       "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
       "publishedAt": "2026-11-10T11:00:00.000Z",
       "articleId": "a1393a77bc91e08d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
+      "title": "Jaylen Brown Gave Up Shots to Make the Sixers an Offensive Superteam. So Why Is Defense Carrying Them?",
+      "url": "https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Before his first reunion with Boston, Brown has sacrificed more of his old offensive role than any other 76er. But Philly’s 9-2 start is built on defense — and may not be as impressive as it looks.",
+      "publishedAt": "2026-11-10T10:16:54.000Z",
+      "articleId": "dc1014fa420f6e96"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
@@ -489,28 +512,6 @@
       "summary": "Florida’s property tax rollback, projected PCB shortages, the end of Tesla’s Cybertruck, the lack of progress in carbon storage, and more.",
       "publishedAt": "2026-11-07T13:23:36.000Z",
       "articleId": "b64314dbda1b9db7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power",
-      "title": "What are the Best MR Posts?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality includes an unusually illuminating application of an existing idea. Provocation earns credit when it exposes a real problem; unsupported certainty still counts against a post. The selection […]",
-      "publishedAt": "2026-11-07T12:17:10.000Z",
-      "articleId": "e00cc20f84337665"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
-      "title": "The Week That Was (November 2-6, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-11-07T10:01:49.000Z",
-      "articleId": "c9d95ebaf987f92a"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
@@ -2086,17 +2087,6 @@
       "summary": "It’s about time.",
       "publishedAt": "2026-10-13T05:28:43.000Z",
       "articleId": "2afe081aabf2dd40"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
-      "title": "Not sure how to feel after Giants escaped with a tie vs. Commanders? You're not alone",
-      "url": "https://www.nytimes.com/athletic/7682759/2026/10/11/new-york-giants-commanders-tie-escape-mixed-feelings/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Giants coach John Harbaugh had mixed feelings after Sunday's tie: \"It's a heck of a lot better than a loss, but it's not as good as a win.\"",
-      "publishedAt": "2026-10-12T01:45:57.000Z",
-      "articleId": "a597d7cf4924a982"
     }
   ],
   "weather": null,
