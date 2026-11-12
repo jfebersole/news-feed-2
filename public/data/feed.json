@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-11T21:53:12.032Z",
-  "fetchedAt": "2026-11-11T21:53:12.028Z",
+  "generatedAt": "2026-11-12T02:55:08.604Z",
+  "fetchedAt": "2026-11-12T02:55:08.601Z",
   "sourceCount": 25,
-  "itemCount": 188,
-  "totalItemCount": 821,
+  "itemCount": 187,
+  "totalItemCount": 820,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip",
+      "title": "Richard Posner, RIP…",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "One of the greats.",
+      "publishedAt": "2026-11-11T22:57:43.000Z",
+      "articleId": "c9d1e18c98203fee"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins",
       "title": "Experimentally validated digital twins",
@@ -50,6 +61,18 @@
       "articleId": "c882010817185efa"
     },
     {
+      "id": "The Lowe Post:https://zachlowe.substack.com/p/san-antonio-spurs-stephon-castle-victor-wembanyama",
+      "title": "So You Want to Put a Center on Stephon Castle",
+      "url": "https://zachlowe.substack.com/p/san-antonio-spurs-stephon-castle-victor-wembanyama",
+      "source": "The Lowe Post",
+      "sourceUrl": "https://zachlowe.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Breaking down the tape on the NBA’s most interesting tactical battle",
+      "publishedAt": "2026-11-11T13:14:17.000Z",
+      "articleId": "2c7577b85a52b9ae"
+    },
+    {
       "id": "Slow Boring:https://www.slowboring.com/p/twenty-three-points-on-the-midterms",
       "title": "Twenty-three points on the midterms and the narrative",
       "url": "https://www.slowboring.com/p/twenty-three-points-on-the-midterms",
@@ -71,6 +94,18 @@
       "summary": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
       "publishedAt": "2026-11-11T11:00:00.000Z",
       "articleId": "ccb5a1ec7db5a1f1"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/its-been-41-years-since-baseball",
+      "title": "It’s Been 41 Years Since Baseball Has Seen a Pair of Cy Young Winners Like This",
+      "url": "https://neilpaine.substack.com/p/its-been-41-years-since-baseball",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Cam Schlittler and Jacob Misiorowski could do something not seen since 1985. What does such early success tell us about their careers ahead — and the current state of MLB pitching?",
+      "publishedAt": "2026-11-11T10:02:46.000Z",
+      "articleId": "1dd1fde0d5377ab4"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/india-is-quietly-doing-great",
@@ -420,18 +455,6 @@
       "articleId": "25d2a875418502cd"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
-      "title": "Joe Buck, Troy Aikman and the End of the NFL’s Greatest Broadcasting Dynasty",
-      "url": "https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "After 25 years together, the longest-running broadcast duo in NFL history looks like it’s headed for an ugly divorce. Here’s how their partnership stacks up against the all-time greats.",
-      "publishedAt": "2026-11-09T10:02:01.000Z",
-      "articleId": "fd70b32db2404edc"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
       "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
       "url": "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
@@ -452,17 +475,6 @@
       "summary": "Here is the initial post. In the comments Michael Wiebe notes: “So progress per R&D dollar fell by 63%, even while progress per year doubled.” File under: David Ricardo, underrated.",
       "publishedAt": "2026-11-09T07:21:09.000Z",
       "articleId": "73fc2ffde4a3790c"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story",
-      "title": "The Paraguayan bank story",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Despite its weaknesses, Paraguay’s young democracy was still able to deliver under stress. Its free, boisterous press was the first to sound the alarm about Peña’s shenanigans. The Central Bank’s supervision chief did his job: he examined ueno’s numbers and recommended blocking the sale of its bad loans to a related company (Peña had appointed […]",
-      "publishedAt": "2026-11-09T05:27:57.000Z",
-      "articleId": "d50f6e1dd6874b03"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7765898/2026/11/08/j-j-mccarthy-new-york-giants-eagles-gritty/",
@@ -1154,18 +1166,6 @@
       "summary": "The Department of Justice is in a state of moral collapse.",
       "publishedAt": "2026-11-01T18:50:38.000Z",
       "articleId": "f660de646ad83940"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-d12",
-      "title": "Sunday Thread",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-d12",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-11-01T18:01:13.000Z",
-      "articleId": "7c33e53124f2020e"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/whats-the-best-rock-song-of-the-21st",
@@ -2056,17 +2056,6 @@
       "articleId": "a417b976261558ac"
     },
     {
-      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-1",
-      "title": "NBA League Pass Rankings: Part 1",
-      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-1",
-      "source": "The Lowe Post",
-      "sourceUrl": "https://zachlowe.substack.com/",
-      "access": "open",
-      "summary": "An annual tradition finds a new home. Let the countdown begin.",
-      "publishedAt": "2026-10-14T14:08:29.000Z",
-      "articleId": "ac8034383849205c"
-    },
-    {
       "id": "Works in Progress:https://www.worksinprogress.news/p/how-china-became-rich",
       "title": "How China became rich",
       "url": "https://www.worksinprogress.news/p/how-china-became-rich",
@@ -2242,7 +2231,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 15,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
