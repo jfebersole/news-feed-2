@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-12T18:51:36.969Z",
-  "fetchedAt": "2026-11-12T18:51:36.966Z",
+  "generatedAt": "2026-11-13T00:14:39.493Z",
+  "fetchedAt": "2026-11-13T00:14:39.489Z",
   "sourceCount": 25,
-  "itemCount": 187,
-  "totalItemCount": 819,
+  "itemCount": 188,
+  "totalItemCount": 818,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "title": "AI Company Employees Should Unionize",
+      "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-11-12T23:09:15.000Z",
+      "articleId": "5539e4974bdcd6e9"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/12/opinion/pete-hegseth-impeach-congress.html",
+      "title": "Impeach Pete Hegseth Before More Damage Is Done",
+      "url": "https://www.nytimes.com/2026/11/12/opinion/pete-hegseth-impeach-congress.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "We cannot give up on holding the secretary of defense to account.",
+      "publishedAt": "2026-11-12T19:34:36.000Z",
+      "articleId": "54a5d1723835f917"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk-on-ai",
       "title": "My Barcelona talk on AI",
@@ -72,15 +94,15 @@
       "articleId": "dd86c92eb7d710f0"
     },
     {
-      "id": "David French (NYT):https://www.nytimes.com/2026/11/12/opinion/pete-hegseth-impeach-congress.html",
-      "title": "Impeach Pete Hegseth Before More Damage Is Done",
-      "url": "https://www.nytimes.com/2026/11/12/opinion/pete-hegseth-impeach-congress.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "We cannot give up on holding the secretary of defense to account.",
-      "publishedAt": "2026-11-12T16:48:54.000Z",
-      "articleId": "54a5d1723835f917"
+      "id": "Scott Sumner:https://scottsumner.substack.com/p/vote-the-person-not-the-issues",
+      "title": "Vote the person, not the issues",
+      "url": "https://scottsumner.substack.com/p/vote-the-person-not-the-issues",
+      "source": "Scott Sumner",
+      "sourceUrl": "https://scottsumner.substack.com/",
+      "access": "open",
+      "summary": "Plus a few thoughts on spy scandals",
+      "publishedAt": "2026-11-12T15:50:27.000Z",
+      "articleId": "f3f8df4473064767"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/jd-vance-and-the-vp-curse",
@@ -159,6 +181,18 @@
       "summary": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
       "publishedAt": "2026-11-12T11:00:00.000Z",
       "articleId": "6385324d791c2a17"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-jaguars-are-partying-like-its",
+      "title": "The Jaguars Are Partying Like It’s 1999",
+      "url": "https://neilpaine.substack.com/p/the-jaguars-are-partying-like-its",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Jacksonville hasn’t been this good since its original golden era. So after years of frustration, the Jags just spent big to make sure this championship opportunity doesn’t slip away.",
+      "publishedAt": "2026-11-12T10:00:39.000Z",
+      "articleId": "f393d2081f1f26bf"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought",
@@ -426,18 +460,6 @@
       "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
       "publishedAt": "2026-11-10T11:00:00.000Z",
       "articleId": "a1393a77bc91e08d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
-      "title": "Jaylen Brown Gave Up Shots to Make the Sixers an Offensive Superteam. So Why Is Defense Carrying Them?",
-      "url": "https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Before his first reunion with Boston, Brown has sacrificed more of his old offensive role than any other 76er. But Philly’s 9-2 start is built on defense — and may not be as impressive as it looks.",
-      "publishedAt": "2026-11-10T10:16:54.000Z",
-      "articleId": "dc1014fa420f6e96"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
@@ -1128,17 +1150,6 @@
       "summary": "My methods and my madness",
       "publishedAt": "2026-11-03T12:03:35.000Z",
       "articleId": "55c56f512b108e3a"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-not-to-watch-tonight",
-      "title": "What not to watch tonight",
-      "url": "https://www.slowboring.com/p/what-not-to-watch-tonight",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Avoid the most common election night fallacies with these simple strategies",
-      "publishedAt": "2026-11-03T11:02:25.000Z",
-      "articleId": "5562d7420786d997"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/",
@@ -2111,7 +2122,7 @@
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Feed not recognized as RSS 1 or 2.",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2229,7 +2240,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
