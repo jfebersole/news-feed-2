@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-11-13T07:52:17.136Z",
-  "fetchedAt": "2026-11-13T07:52:17.129Z",
+  "generatedAt": "2026-11-13T16:13:58.953Z",
+  "fetchedAt": "2026-11-13T16:13:58.949Z",
   "sourceCount": 25,
-  "itemCount": 190,
-  "totalItemCount": 818,
+  "itemCount": 191,
+  "totalItemCount": 819,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls",
+      "title": "The Economics of Rent Controls",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited slightly to remove some ums for reading and to fix a date I got wrong from memory): RB: […]",
+      "publishedAt": "2026-11-13T12:18:11.000Z",
+      "articleId": "ff3322bcd11c3efa"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/outlook-email-is-still-down.html?utm_source=rss&utm_medium=rss&utm_campaign=outlook-email-is-still-down",
+      "title": "Outlook email is still down",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/outlook-email-is-still-down.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems my Outlook system just opened up, albeit with an incomplete email delivery so far!?)",
+      "publishedAt": "2026-11-13T11:46:39.000Z",
+      "articleId": "d817e718c7175430"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-a-moderate-looks-like",
+      "title": "What a moderate looks like",
+      "url": "https://www.slowboring.com/p/what-a-moderate-looks-like",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus the trouble with working with Trump, Florida’s blue vibes and red politics, and more",
+      "publishedAt": "2026-11-13T11:02:59.000Z",
+      "articleId": "71543f41d0f93d2d"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7778326/2026/11/13/giants-mccarthy-skattebo-harbaugh-tnf-commanders/",
+      "title": "The Giants stumble and let one slip. 'It’s a missed opportunity'",
+      "url": "https://www.nytimes.com/athletic/7778326/2026/11/13/giants-mccarthy-skattebo-harbaugh-tnf-commanders/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "New York missed a golden chance to extend its lead in the NFC East after a late 24-21 loss to Washington Thursday night.",
+      "publishedAt": "2026-11-13T10:30:21.000Z",
+      "articleId": "3ef970a62cb36fd8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory",
+      "title": "The U.S. Federal AI Observatory",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site.",
+      "publishedAt": "2026-11-13T08:32:05.000Z",
+      "articleId": "332792db4b78b855"
+    },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/brad-and-noah-discuss-the-reindustrialization",
       "title": "Brad and Noah discuss the reindustrialization of America",
@@ -418,17 +474,6 @@
       "articleId": "9ce954dcd266c595"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered",
-      "title": "Are RCTs underpowered?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190 articles in leading economics journals, we find that actual t-statistics peak well below the theoretical benchmark of 2.8 expected under 80 percent power, though above values […]",
-      "publishedAt": "2026-11-10T20:05:26.000Z",
-      "articleId": "12dc648457d9fbcb"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/iau39pgzrxu5mo74q5c2rmyz3zwlsjby66mhdk6l.html",
       "title": "Recipes from the River: Chopped Red Cabbage & Dill Slaw",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/iau39pgzrxu5mo74q5c2rmyz3zwlsjby66mhdk6l.html",
@@ -438,17 +483,6 @@
       "summary": "Recipes from the River: Chopped Red Cabbage & Dill Slaw This chopped red cabbage slaw comes together quickly using pantry staples. It's a pretty big dill.If you've been paying attention to this series shari... ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ Recipes from the River: Chopped Red Cabbage & Dill Slaw J. Kenji López-Alt Nov 10, 2026 View in app View in app This chopped red cabbage slaw comes together quickly using pantry staples. It's a pretty big dill. If you've been paying attention to this series sharing our recipes from the Moab Music Festival (see the full Cooking on the River series here ), you may have noticed a trend for each night's menu: Heavy, hearty, rich main course + Light, tangy side salads. ... And we're not here to argue with what works! Having a variety of side salads at your disposal helps you get some varied veg into your diet and keeps your plates interesting. It was also particularly helpful for meal planning when we only had a few coolers at our disposal for the duration of our trip. We served this Chopped Red Cabbage Slaw on the third and final night of our journey alongside Oklahoma Onion Burgers (recipe coming tomorrow) and an in-the-moment take on this Japanese Potato Salad with our leftover ingredients. Recipe: Chopped Red Cabbage & Dill Slaw Every recipe I publish here is personally tested, tasted, and approved. Serves: 6 Ingredients 1 small head of red cabbage, finely shredded or...",
       "publishedAt": "2026-11-10T17:07:27.935Z",
       "articleId": "63b76269547a51ca"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594",
-      "title": "Tuesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe they teach the permanent income hypothesis there? 5. Ethan Mollick on Fable 5.2. 6. John Cochrane […]",
-      "publishedAt": "2026-11-10T16:50:08.000Z",
-      "articleId": "eb0b2ede6348154b"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/random-debut-an-albuma-day",
@@ -471,17 +505,6 @@
       "summary": "The Giants have been working the phones for weeks. Will all of their effort lead to a big splash on trade deadline day?",
       "publishedAt": "2026-11-10T12:40:49.000Z",
       "articleId": "9a890752e5929ac3"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research",
-      "title": "Checking the AI audit of Saez and Zucman’s research.",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From SaneCite: We checked the anonymous AI audit of Emmanuel Saez and Gabriel Zucman’s research that Marginal Revolution featured on 28 Oct: all 147 problems it calls serious enough to change a headline number, against the papers, their sources and the authors’ own data. The audit’s facts hold up: for 131 of the 147, every […]",
-      "publishedAt": "2026-11-10T11:32:14.000Z",
-      "articleId": "a271d621774e7a60"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/bernie-sanders-did-not-invent-populist",
@@ -2129,22 +2152,11 @@
       "summary": "How do we know the company’s stated reasons for firing three safety researchers are its actual reasons?",
       "publishedAt": "2026-10-14T18:41:56.000Z",
       "articleId": "a417b976261558ac"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/how-china-became-rich",
-      "title": "How China became rich",
-      "url": "https://www.worksinprogress.news/p/how-china-became-rich",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "Its secret is its cities, not central planning",
-      "publishedAt": "2026-10-14T12:41:38.000Z",
-      "articleId": "c23b9b9adce2dfce"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2262,7 +2274,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 13,
+      "itemCount": 14,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
