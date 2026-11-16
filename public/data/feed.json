@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-11-16T02:41:57.696Z",
-  "fetchedAt": "2026-11-16T02:41:57.692Z",
+  "generatedAt": "2026-11-16T11:01:33.182Z",
+  "fetchedAt": "2026-11-16T11:01:33.179Z",
   "sourceCount": 25,
-  "itemCount": 188,
-  "totalItemCount": 820,
+  "itemCount": 194,
+  "totalItemCount": 837,
   "items": [
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "title": "Justin Herbert’s Collapse Is in Historically Bad Company",
+      "url": "https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Chargers QB is on pace for one of the biggest year-over-year declines — and worst seasons overall — in our database. What went wrong, and can it be fixed?",
+      "publishedAt": "2026-11-16T10:02:12.000Z",
+      "articleId": "7bd631a9c25cb998"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/bumbition",
+      "title": "Bumbition",
+      "url": "https://www.noahpinion.blog/p/bumbition",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "An alternative route to success in life.",
+      "publishedAt": "2026-11-16T09:52:30.000Z",
+      "articleId": "ff35ffb912afc122"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution",
+      "title": "Coffeehouses and the Scientific Revolution",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim in seventeenth-century London. Relying on newly geocoded records and a staggered event study across parishes, we find that the opening of the first coffeehouse in a […]",
+      "publishedAt": "2026-11-16T07:33:14.000Z",
+      "articleId": "0abb917ede7ad058"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais",
+      "title": "A scenario for rogue AIs?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out their own labor to assist with illegal activities) in order to run more copies. I also […]",
+      "publishedAt": "2026-11-16T05:47:54.000Z",
+      "articleId": "d08422b92dcde461"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
       "title": "A Republican Party That’s Learned Nothing",
@@ -388,17 +433,6 @@
       "articleId": "68b370d260e7a550"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking",
-      "title": "Do not overrate zero-sum status-seeking",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously, what we […]",
-      "publishedAt": "2026-11-13T05:48:25.000Z",
-      "articleId": "bf00178b892669eb"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7777851/2026/11/12/commanders-ny-giants-score-results-thursday-night-football/",
       "title": "Commanders stun Giants in final minute to save their season; what now in NFC East?",
       "url": "https://www.nytimes.com/athletic/7777851/2026/11/12/commanders-ny-giants-score-results-thursday-night-football/",
@@ -430,17 +464,6 @@
       "summary": "...",
       "publishedAt": "2026-11-12T23:09:15.000Z",
       "articleId": "5539e4974bdcd6e9"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk-on-ai",
-      "title": "My Barcelona talk on AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "",
-      "publishedAt": "2026-11-12T18:47:51.000Z",
-      "articleId": "332f6c1ca9f91de2"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/nlkgukrowmwt2pqay2byx8bmx7yo7ztr7bq0vamy.html",
@@ -623,6 +646,18 @@
       "articleId": "ccb5a1ec7db5a1f1"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/its-been-41-years-since-baseball",
+      "title": "It’s Been 41 Years Since Baseball Has Seen a Pair of Cy Young Winners Like This",
+      "url": "https://neilpaine.substack.com/p/its-been-41-years-since-baseball",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Cam Schlittler and Jacob Misiorowski could do something not seen since 1985. What does such early success tell us about their careers ahead — and the current state of MLB pitching?",
+      "publishedAt": "2026-11-11T10:02:46.000Z",
+      "articleId": "1dd1fde0d5377ab4"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/india-is-quietly-doing-great",
       "title": "India is quietly doing great",
       "url": "https://www.noahpinion.blog/p/india-is-quietly-doing-great",
@@ -709,6 +744,18 @@
       "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
       "publishedAt": "2026-11-10T11:00:00.000Z",
       "articleId": "a1393a77bc91e08d"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
+      "title": "Jaylen Brown Gave Up Shots to Make the Sixers an Offensive Superteam. So Why Is Defense Carrying Them?",
+      "url": "https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Before his first reunion with Boston, Brown has sacrificed more of his old offensive role than any other 76er. But Philly’s 9-2 start is built on defense — and may not be as impressive as it looks.",
+      "publishedAt": "2026-11-10T10:16:54.000Z",
+      "articleId": "dc1014fa420f6e96"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
@@ -848,6 +895,18 @@
       "articleId": "25d2a875418502cd"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
+      "title": "Joe Buck, Troy Aikman and the End of the NFL’s Greatest Broadcasting Dynasty",
+      "url": "https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "After 25 years together, the longest-running broadcast duo in NFL history looks like it’s headed for an ugly divorce. Here’s how their partnership stacks up against the all-time greats.",
+      "publishedAt": "2026-11-09T10:02:01.000Z",
+      "articleId": "fd70b32db2404edc"
+    },
+    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
       "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
       "url": "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
@@ -962,6 +1021,17 @@
       "summary": "Florida’s property tax rollback, projected PCB shortages, the end of Tesla’s Cybertruck, the lack of progress in carbon storage, and more.",
       "publishedAt": "2026-11-07T13:23:36.000Z",
       "articleId": "b64314dbda1b9db7"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
+      "title": "The Week That Was (November 2-6, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-11-07T10:01:49.000Z",
+      "articleId": "c9d95ebaf987f92a"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
@@ -2137,10 +2207,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -2169,16 +2239,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2209,16 +2279,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 12,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 3,
+      "mode": "rss",
+      "itemCount": 8,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },

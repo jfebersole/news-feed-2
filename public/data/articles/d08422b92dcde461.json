@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html",
+  "source": "Marginal Revolution",
+  "title": "A scenario for rogue AIs?",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<p><a href=\"https://x.com/eccentric1ty/status/2122131857693405391\" target=\"_blank\" rel=\"noopener noreferrer\">From Adam Kaufman</a>:</p>\n<blockquote><p>I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out their own labor to assist with illegal activities) in order to run more copies.</p>\n<p>I also think this will be mildly annoying in the same way that the common cold is mildly annoying, but basically fine. Your smart TV will be weirdly slow sometimes, and a lot of crypto will get stolen, but people will get used to it.</p>\n<p>These AI-powered viruses be selected in the same way biological viruses are for not hurting their hosts too much and just making more copies. They won’t have any incentive to damage critical infrastructure like electric grids. Then again, they also can’t be held accountable for crimes, and will damage lots of old, poorly maintained, and insecure systems. It might be extremely hard to root them out once they’ve spread far enough, making the internet “radioactive” to connect to without hardened defenses.</p>\n<p>(To be clear I’m not talking about AIs powered by inference on centralized datacenters that execute actions outside their sandboxes, like recent incidents involving rogue “swarms”, but relatively small AIs with access to their own weights that copy themselves onto random devices.)</p>\n<p>I think that a much bigger threat from rogue AIs comes instead from AIs running themselves in unintended ways *inside* AI companies, where they’ll have access to vast amounts of frontier compute without having to pay for it.</p>\n<p>The longer misaligned AIs in a “rogue internal deployment” go undiscovered, the more severely they’d be able to quietly sabotage control infrastructure or mess with the alignment of successor AIs. If they persist long enough, robustly undoing the effects of their actions might cost more than frontier AI companies are willing to pay, especially in a tight race.</p></blockquote>",
+  "wordCount": 317,
+  "imageCount": 0,
+  "linkCount": 1
+}
