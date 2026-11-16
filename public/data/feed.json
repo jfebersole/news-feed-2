@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-15T22:45:14.019Z",
-  "fetchedAt": "2026-11-15T22:45:14.016Z",
+  "generatedAt": "2026-11-16T02:41:57.696Z",
+  "fetchedAt": "2026-11-16T02:41:57.692Z",
   "sourceCount": 25,
-  "itemCount": 194,
-  "totalItemCount": 847,
+  "itemCount": 188,
+  "totalItemCount": 820,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
+      "title": "A Republican Party That’s Learned Nothing",
+      "url": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Defeating MAGA is only half done.",
+      "publishedAt": "2026-11-16T01:17:44.000Z",
+      "articleId": "134eaa3bb9ac011d"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/p76wvko2rvjnorn1y86uewgqd6kod3fldwnaquak.html",
       "title": "A Warm and Koji Thanksgiving: Slather Your Spatchcock Turkey in Koji Mayo",
@@ -83,17 +94,6 @@
       "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal […]",
       "publishedAt": "2026-11-15T12:18:42.000Z",
       "articleId": "4b30f6982f558aec"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
-      "title": "Defeating MAGA Is Only Half Done",
-      "url": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "The G.O.P. has not learned its lesson.",
-      "publishedAt": "2026-11-15T11:00:23.000Z",
-      "articleId": "134eaa3bb9ac011d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
@@ -623,18 +623,6 @@
       "articleId": "ccb5a1ec7db5a1f1"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/its-been-41-years-since-baseball",
-      "title": "It’s Been 41 Years Since Baseball Has Seen a Pair of Cy Young Winners Like This",
-      "url": "https://neilpaine.substack.com/p/its-been-41-years-since-baseball",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Cam Schlittler and Jacob Misiorowski could do something not seen since 1985. What does such early success tell us about their careers ahead — and the current state of MLB pitching?",
-      "publishedAt": "2026-11-11T10:02:46.000Z",
-      "articleId": "1dd1fde0d5377ab4"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/india-is-quietly-doing-great",
       "title": "India is quietly doing great",
       "url": "https://www.noahpinion.blog/p/india-is-quietly-doing-great",
@@ -721,18 +709,6 @@
       "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
       "publishedAt": "2026-11-10T11:00:00.000Z",
       "articleId": "a1393a77bc91e08d"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
-      "title": "Jaylen Brown Gave Up Shots to Make the Sixers an Offensive Superteam. So Why Is Defense Carrying Them?",
-      "url": "https://neilpaine.substack.com/p/jaylen-brown-gave-up-shots-to-make",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Before his first reunion with Boston, Brown has sacrificed more of his old offensive role than any other 76er. But Philly’s 9-2 start is built on defense — and may not be as impressive as it looks.",
-      "publishedAt": "2026-11-10T10:16:54.000Z",
-      "articleId": "dc1014fa420f6e96"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html",
@@ -872,18 +848,6 @@
       "articleId": "25d2a875418502cd"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
-      "title": "Joe Buck, Troy Aikman and the End of the NFL’s Greatest Broadcasting Dynasty",
-      "url": "https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "After 25 years together, the longest-running broadcast duo in NFL history looks like it’s headed for an ugly divorce. Here’s how their partnership stacks up against the all-time greats.",
-      "publishedAt": "2026-11-09T10:02:01.000Z",
-      "articleId": "fd70b32db2404edc"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
       "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
       "url": "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
@@ -1000,17 +964,6 @@
       "articleId": "b64314dbda1b9db7"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
-      "title": "The Week That Was (November 2-6, 2026)",
-      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-2-6-2026",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
-      "publishedAt": "2026-11-07T10:01:49.000Z",
-      "articleId": "c9d95ebaf987f92a"
-    },
-    {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
       "title": "Your Book Review: Orality and Literacy",
       "url": "https://www.astralcodexten.com/p/your-book-review-orality-and-literacy",
@@ -1111,18 +1064,6 @@
       "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
       "publishedAt": "2026-11-06T11:00:00.000Z",
       "articleId": "a99e2a95f3b79fc6"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-2016-cubs-and-the-future-we-took",
-      "title": "The 2016 Cubs and the Future We Took for Granted",
-      "url": "https://neilpaine.substack.com/p/the-2016-cubs-and-the-future-we-took",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Ten years ago, the end of Chicago’s drought felt like the beginning of a dynasty. Instead, it was a glorious one-off.",
-      "publishedAt": "2026-11-06T10:03:04.000Z",
-      "articleId": "e0a5cf74ea1ddde3"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/for-the-democrats-now-comes-the-hard",
@@ -2179,22 +2120,11 @@
       "summary": "Icon’s fundraising, employment in China’s solar industry, grid-scale battery reliability, Tesla’s flying roadster, and more.",
       "publishedAt": "2026-10-17T12:03:37.000Z",
       "articleId": "ba61705babd6d17a"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-storm-of-steel",
-      "title": "Your Book Review: Storm Of Steel",
-      "url": "https://www.astralcodexten.com/p/your-book-review-storm-of-steel",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #12 in the Book Review Contest",
-      "publishedAt": "2026-10-16T23:39:56.000Z",
-      "articleId": "d1e74f6a24d25c43"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2239,16 +2169,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss",
-      "itemCount": 20,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2279,16 +2209,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss",
-      "itemCount": 12,
+      "mode": "rss-proxy",
+      "itemCount": 10,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss",
-      "itemCount": 8,
+      "mode": "rss-proxy",
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
