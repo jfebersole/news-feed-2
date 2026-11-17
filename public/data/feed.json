@@ -1,10 +1,54 @@
 {
-  "generatedAt": "2026-11-17T03:45:38.618Z",
-  "fetchedAt": "2026-11-17T03:45:38.614Z",
+  "generatedAt": "2026-11-17T13:13:44.933Z",
+  "fetchedAt": "2026-11-17T13:13:44.929Z",
   "sourceCount": 25,
   "itemCount": 189,
-  "totalItemCount": 820,
+  "totalItemCount": 821,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-biggest-myth-about-american-immigration",
+      "title": "The biggest myth about American immigration policy",
+      "url": "https://www.slowboring.com/p/the-biggest-myth-about-american-immigration",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "Surging Hispanic migration had nothing to do with the 1965 immigration law.",
+      "publishedAt": "2026-11-17T11:03:20.000Z",
+      "articleId": "3e917391e4d67582"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+      "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+      "url": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
+      "publishedAt": "2026-11-17T11:00:00.000Z",
+      "articleId": "7acb13e49768aa20"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany",
+      "title": "Adlerlicht, reporting on crime in Germany",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here.",
+      "publishedAt": "2026-11-17T07:12:17.000Z",
+      "articleId": "a21f29880fb6b0f8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang",
+      "title": "The economics of Jensen Huang",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […]",
+      "publishedAt": "2026-11-17T05:44:15.000Z",
+      "articleId": "d8a26a098b046340"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/8nvnmls27ksbxsqsrju6wrrokbe0a39bqqu02rhd.html",
       "title": "Turkey & Gravy Recipe Roundup",
@@ -128,6 +172,18 @@
       "summary": "Complications avoided, a big turnout advantage, and some candidates I underrated",
       "publishedAt": "2026-11-16T11:00:44.000Z",
       "articleId": "422773a90332eade"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "title": "Justin Herbert’s Collapse Is in Historically Bad Company",
+      "url": "https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Chargers QB is on pace for one of the biggest year-over-year declines — and worst seasons overall — in our database. What went wrong, and can it be fixed?",
+      "publishedAt": "2026-11-16T10:02:12.000Z",
+      "articleId": "7bd631a9c25cb998"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/bumbition",
@@ -378,17 +434,6 @@
       "articleId": "a12ed35c4d7f1deb"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion",
-      "title": "Are we witnessing an intelligence explosion?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From Luis Garicano and Alex Imas: Hence AI capabilities improved 1.91 times faster after October 2025, but R&D spending grew 6.19 times and the technical workforce 3.10 times. So measured capability gains per dollar fell by approximately 69%, and measured gains per technical employee-year decreased by 38%. These figures are accounting; nothing causal can be […]",
-      "publishedAt": "2026-11-13T18:39:00.000Z",
-      "articleId": "7b08d15c0dde0985"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/the-end-of-jensen/",
       "title": "2026.46: The End of Jensen",
       "url": "https://stratechery.com/2026/the-end-of-jensen/",
@@ -420,17 +465,6 @@
       "summary": "The Brew Shop 12 Wines of Christmas (pre-order only!) It's time to pre-order your Brew Shop 12 Wines of Christmas! ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­...",
       "publishedAt": "2026-11-13T17:17:13.919Z",
       "articleId": "9b9b98d657f44700"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599",
-      "title": "Friday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan’s best songs. 5. “Hobby dogging”? 6. Argentina worries and updates. 7. Jon Hartley podcast with James Heckman. 8. The world without Jensen? Good piece.",
-      "publishedAt": "2026-11-13T16:28:33.000Z",
-      "articleId": "1614c7f498c08c91"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/12/opinion/pete-hegseth-impeach-congress.html",
@@ -654,18 +688,6 @@
       "summary": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
       "publishedAt": "2026-11-12T11:00:00.000Z",
       "articleId": "6385324d791c2a17"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/the-jaguars-are-partying-like-its",
-      "title": "The Jaguars Are Partying Like It’s 1999",
-      "url": "https://neilpaine.substack.com/p/the-jaguars-are-partying-like-its",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Jacksonville hasn’t been this good since its original golden era. So after years of frustration, the Jags just spent big to make sure this championship opportunity doesn’t slip away.",
-      "publishedAt": "2026-11-12T10:00:39.000Z",
-      "articleId": "f393d2081f1f26bf"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/4f8cu9m5camgjrlwta1l8fiwwrfxpowpumsuzr2o.html",
@@ -1244,17 +1266,6 @@
       "summary": "But who deserves the most credit? High-quality pollsters who nailed the result. Plus, Still Counting EP10.",
       "publishedAt": "2026-11-05T14:03:18.000Z",
       "articleId": "7dbc670f7f9bc56f"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-      "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "articleId": "96d28f451942d2f6"
     },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/links-for-november-2026",
@@ -2121,17 +2132,6 @@
       "summary": "Chris DeVille stops by to talk about his excellent history of indie rock",
       "publishedAt": "2026-10-18T14:31:23.000Z",
       "articleId": "a9f73f4e4237b0dd"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians",
-      "title": "Why are we ruled by barbarians?",
-      "url": "https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "America’s New Right believes that savagery is the key to victory.",
-      "publishedAt": "2026-10-18T06:34:00.000Z",
-      "articleId": "472d31d546243da0"
     }
   ],
   "weather": null,
@@ -2254,7 +2254,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
