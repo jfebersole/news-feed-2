@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-11-18T04:13:23.472Z",
-  "fetchedAt": "2026-11-18T04:13:23.470Z",
+  "generatedAt": "2026-11-18T13:53:16.536Z",
+  "fetchedAt": "2026-11-18T13:53:16.534Z",
   "sourceCount": 25,
   "itemCount": 196,
-  "totalItemCount": 839,
+  "totalItemCount": 840,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7790941/2026/11/18/new-york-giants-john-harbaugh-aggressive-fourth-downs/",
+      "title": "Why John Harbaugh may need to dial up the aggression to keep Giants out front in the NFC East",
+      "url": "https://www.nytimes.com/athletic/7790941/2026/11/18/new-york-giants-john-harbaugh-aggressive-fourth-downs/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Harbaugh has been among the most conservative coaches in the NFL on fourth downs this season. But that hasn't always been his style.",
+      "publishedAt": "2026-11-18T12:29:25.000Z",
+      "articleId": "6a505a8179ba9e2e"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious",
+      "title": "Was Achilles Conscious?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing […]",
+      "publishedAt": "2026-11-18T12:18:00.000Z",
+      "articleId": "82489cabb68e660d"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/what-does-it-mean-to-be-laser-focused",
+      "title": "What does it mean to be “laser-focused on affordability”?",
+      "url": "https://www.slowboring.com/p/what-does-it-mean-to-be-laser-focused",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Policy consensus is harder than agreeing on a slogan.",
+      "publishedAt": "2026-11-18T11:03:10.000Z",
+      "articleId": "bc33c40349da17b9"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "publishedAt": "2026-11-18T11:00:00.000Z",
+      "articleId": "4618f5d2a963fdad"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/what-happened-to-home-field-advantage",
+      "title": "What Happened to Home-Field Advantage?",
+      "url": "https://neilpaine.substack.com/p/what-happened-to-home-field-advantage",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Playing at home used to be one of sports’ great equalizers. But decades of data suggest that the edge has been shrinking — and in recent years, dramatically so.",
+      "publishedAt": "2026-11-18T10:02:05.000Z",
+      "articleId": "a66edf40e03225be"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-91-rocketing-into-the-technofuture",
+      "title": "Roundup #91: Rocketing into the technofuture",
+      "url": "https://www.noahpinion.blog/p/roundup-91-rocketing-into-the-technofuture",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Teen happiness; AI capabilities; Inflation; Inclusionary zoning; Cloud laws; Pronatalism; The Democrats",
+      "publishedAt": "2026-11-18T09:50:29.000Z",
+      "articleId": "f7a6bc6fbc7098c4"
+    },
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/varieties-of-discourseposting",
+      "title": "Varieties Of Discourseposting",
+      "url": "https://www.astralcodexten.com/p/varieties-of-discourseposting",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-11-18T07:47:03.000Z",
+      "articleId": "9cc7d5644584c546"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks",
+      "title": "Me on the cyberattacks",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than it used to be. Due to progress in AI systems, cyber offense has outraced cyber defense. […]",
+      "publishedAt": "2026-11-18T06:10:57.000Z",
+      "articleId": "d22e9fc772c00f84"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/p7uet0a1756rymsi97konosx3cf7b8nkgq8t2ucr.html",
       "title": "Why I’ll Keep Using Maldon Salt.",
@@ -454,28 +544,6 @@
       "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted links rather than music posts. This selection draws on the Marginal […]",
       "publishedAt": "2026-11-15T12:18:42.000Z",
       "articleId": "4b30f6982f558aec"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
-      "title": "AI and complements",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […]",
-      "publishedAt": "2026-11-15T10:03:58.000Z",
-      "articleId": "a9bc1d6aaf97e2ae"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-films-of-2026",
-      "title": "Best films of 2026",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I thought this was a splendid and highly innovative year. Here is my list, in the order I saw them, noting that a link typically brings you to my review: Resurrection Testament of Ann Lee 28 Years Later Wuthering Heights Sirat Project Hail Mary A Man on the Run The Drama The Blue Trail Silent […]",
-      "publishedAt": "2026-11-15T05:38:13.000Z",
-      "articleId": "1cdb8f2c6294e135"
     },
     {
       "id": "Construction Physics:https://www.construction-physics.com/p/reading-list-11142026",
@@ -1111,18 +1179,6 @@
       "articleId": "25d2a875418502cd"
     },
     {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
-      "title": "Joe Buck, Troy Aikman and the End of the NFL’s Greatest Broadcasting Dynasty",
-      "url": "https://neilpaine.substack.com/p/joe-buck-troy-aikman-and-the-end",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "After 25 years together, the longest-running broadcast duo in NFL history looks like it’s headed for an ugly divorce. Here’s how their partnership stacks up against the all-time greats.",
-      "publishedAt": "2026-11-09T10:02:01.000Z",
-      "articleId": "fd70b32db2404edc"
-    },
-    {
       "id": "Noahpinion:https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
       "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
       "url": "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
@@ -1316,17 +1372,6 @@
       "summary": "New York hasn't won a road game against the Eagles since 2013, but Philadelphia's QB was a practice-squad player until three weeks ago.",
       "publishedAt": "2026-11-06T11:30:40.000Z",
       "articleId": "c433b0df12c183ba"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
-      "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
-      "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "publishedAt": "2026-11-06T11:00:00.000Z",
-      "articleId": "a99e2a95f3b79fc6"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/for-the-democrats-now-comes-the-hard",
@@ -2170,51 +2215,6 @@
       "summary": "We may not want it to, but A.I. is asking us how to live.",
       "publishedAt": "2026-10-19T19:15:04.000Z",
       "articleId": "f60b5b02ad156875"
-    },
-    {
-      "id": "Understanding AI:https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
-      "title": "AI is ushering in an age of personal media",
-      "url": "https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
-      "source": "Understanding AI",
-      "sourceUrl": "https://www.understandingai.org/",
-      "access": "open",
-      "summary": "It may be AI slop, but it's my AI slop.",
-      "publishedAt": "2026-10-19T13:33:47.000Z",
-      "articleId": "ddec4386daa91412"
-    },
-    {
-      "id": "The Lowe Post:https://zachlowe.substack.com/p/nba-league-pass-rankings-part-4",
-      "title": "NBA League Pass Rankings: Part 4",
-      "url": "https://zachlowe.substack.com/p/nba-league-pass-rankings-part-4",
-      "source": "The Lowe Post",
-      "sourceUrl": "https://zachlowe.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The good, the grimy, and the gorgeous",
-      "publishedAt": "2026-10-19T13:31:47.000Z",
-      "articleId": "528dac807d3afb4e"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7703064/2026/10/19/new-york-giants-sloppy-john-harbaugh-saints/",
-      "title": "The New York Giants can’t keep making this many mistakes and counting on a comeback",
-      "url": "https://www.nytimes.com/athletic/7703064/2026/10/19/new-york-giants-sloppy-john-harbaugh-saints/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Why did the Giants lose to the Saints? It's simple, John Harbaugh said. “We've got so many stretches where we're not playing good football.\"",
-      "publishedAt": "2026-10-19T09:22:43.000Z",
-      "articleId": "f4f70df31975da2c"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
-      "title": "Can a Million AI Agents Create Superintelligence?",
-      "url": "https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Ramez Naam gives a skeptic’s take on agent swarms.",
-      "publishedAt": "2026-10-19T04:33:30.000Z",
-      "articleId": "7fa43910f936bf61"
     }
   ],
   "weather": null,
@@ -2337,7 +2337,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 15,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
