@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-11-19T03:18:51.438Z",
-  "fetchedAt": "2026-11-19T03:18:51.435Z",
+  "generatedAt": "2026-11-19T12:55:05.854Z",
+  "fetchedAt": "2026-11-19T12:55:05.852Z",
   "sourceCount": 25,
-  "itemCount": 188,
+  "itemCount": 187,
   "totalItemCount": 819,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/how-to-fight-monopoly",
+      "title": "How to fight monopoly",
+      "url": "https://www.slowboring.com/p/how-to-fight-monopoly",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "open",
+      "summary": "It’s the barriers to entry, stupid.",
+      "publishedAt": "2026-11-19T11:02:36.000Z",
+      "articleId": "77b069b7d61a27ba"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-why-b47",
+      "title": "“The Argument” podcast, ad free: Why is Gen Z so mad?",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-why-b47",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-11-19T11:02:02.000Z",
+      "articleId": "090d1f26fac7206a"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+      "title": "An Interview With Eric Seufert About Agentic Commerce",
+      "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "articleId": "1810ca1f74cea5bd"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo",
+      "title": "The Anthropic IPO",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […]",
+      "publishedAt": "2026-11-19T06:40:05.000Z",
+      "articleId": "fea47fc0302153c8"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email",
+      "title": "Will Baird, book maven (from my email)",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […]",
+      "publishedAt": "2026-11-19T06:02:15.000Z",
+      "articleId": "38e88cf3cbdd9aff"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/kumvalzu18zb4srgcheyhitn2rhel14ek6z7hmbr.html",
       "title": "Stuffing, Breads, & Potatoes Recipe Roundup",
@@ -455,17 +511,6 @@
       "articleId": "e671d25c65b847b3"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship",
-      "title": "Starship",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/starship.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C. Clarke (1965). Yesterday, this became vividly real to me. Hat tip: @amdreaesposito Addendum: Good post on why catching […]",
-      "publishedAt": "2026-11-16T12:18:54.000Z",
-      "articleId": "c609f3196fcc053f"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/obituaries/",
       "title": "Obituaries",
       "url": "https://stratechery.com/2026/obituaries/",
@@ -498,17 +543,6 @@
       "summary": "An alternative route to success in life.",
       "publishedAt": "2026-11-16T09:52:30.000Z",
       "articleId": "ff35ffb912afc122"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution",
-      "title": "Coffeehouses and the Scientific Revolution",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim in seventeenth-century London. Relying on newly geocoded records and a staggered event study across parishes, we find that the opening of the first coffeehouse in a […]",
-      "publishedAt": "2026-11-16T07:33:14.000Z",
-      "articleId": "0abb917ede7ad058"
     },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html",
@@ -1108,18 +1142,6 @@
       "articleId": "de272b21489cb806"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-rise-of-the-hispanic-moderate",
-      "title": "The rise of the Hispanic moderate",
-      "url": "https://www.slowboring.com/p/the-rise-of-the-hispanic-moderate",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "New leadership can help a new majority finally emerge.",
-      "publishedAt": "2026-11-09T11:01:18.000Z",
-      "articleId": "329806d7c9750e54"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
       "title": "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness",
       "url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
@@ -1163,18 +1185,6 @@
       "summary": "Let’s read about 500 years of Western Cultural Life together",
       "publishedAt": "2026-11-09T00:42:51.000Z",
       "articleId": "485d1e02015a008a"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-2bb",
-      "title": "Sunday Thread + Mailbag",
-      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-2bb",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "full",
-      "summary": "Ask your questions below.",
-      "publishedAt": "2026-11-08T18:02:16.000Z",
-      "articleId": "00739e176136001b"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/sonic-youth-yesterday-and-today-a",
@@ -1256,17 +1266,6 @@
       "summary": "Do Republicans have any chance of winning the Senate back? And could Democrats gain a filibuster-proof majority if they have another big night?",
       "publishedAt": "2026-11-06T21:30:26.000Z",
       "articleId": "671961db688c53f6"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/falling-leaves-and-stocks/",
-      "title": "2026.45: Falling Leaves (and Stocks)",
-      "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
-      "publishedAt": "2026-11-06T18:14:42.000Z",
-      "articleId": "3963d7395ce0c6f6"
     },
     {
       "id": "Josh Barro:https://www.joshbarro.com/p/a-lesson-for-republicans-mean-implausible",
@@ -2111,17 +2110,6 @@
       "summary": "The best of the best",
       "publishedAt": "2026-10-20T12:56:20.000Z",
       "articleId": "7f2336118f4ef2fd"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7706840/2026/10/20/new-york-giants-j-j-mccarthy-saints-starter/",
-      "title": "Were Giants QB J.J. McCarthy's late-game heroics real or a product of 'desperation time'?",
-      "url": "https://www.nytimes.com/athletic/7706840/2026/10/20/new-york-giants-j-j-mccarthy-saints-starter/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Entering a game trailing by 24 points removed some pressure from McCarthy, who saw a lot of soft coverages and few blitzes from the Saints.",
-      "publishedAt": "2026-10-20T11:48:05.000Z",
-      "articleId": "3641e9bb6b1bc3f6"
     }
   ],
   "weather": null,
