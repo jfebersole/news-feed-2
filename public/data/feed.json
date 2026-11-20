@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-11-20T03:05:07.382Z",
-  "fetchedAt": "2026-11-20T03:05:07.379Z",
+  "generatedAt": "2026-11-20T11:29:03.276Z",
+  "fetchedAt": "2026-11-20T11:29:03.273Z",
   "sourceCount": 25,
-  "itemCount": 183,
-  "totalItemCount": 818,
+  "itemCount": 190,
+  "totalItemCount": 848,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-health-insurance-premium-fix",
+      "title": "The health insurance premium fix that everyone hates",
+      "url": "https://www.slowboring.com/p/the-health-insurance-premium-fix",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus dad books, future stars, Flock cameras, and more",
+      "publishedAt": "2026-11-20T11:01:58.000Z",
+      "articleId": "54cc77f8b7fcfe0e"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7796615/2026/11/20/giants-jaguars-preview-week-11-harbaugh-skattebo/",
+      "title": "Giants' schedule ramps up in difficulty with Sunday's game against Jaguars",
+      "url": "https://www.nytimes.com/athletic/7796615/2026/11/20/giants-jaguars-preview-week-11-harbaugh-skattebo/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The coming games will reveal whether the Giants are for real or just beneficiaries of the easiest schedule in the league through 10 weeks.",
+      "publishedAt": "2026-11-20T11:00:31.000Z",
+      "articleId": "a948510344c274b4"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "publishedAt": "2026-11-20T11:00:00.000Z",
+      "articleId": "31ab2adcd8d3aed1"
+    },
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/does-it-really-matter-if-theres-an",
+      "title": "Does it really matter if there’s an intelligence explosion?",
+      "url": "https://www.noahpinion.blog/p/does-it-really-matter-if-theres-an",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "open",
+      "summary": "Maybe this is the wrong frame for the AI safety discussion.",
+      "publishedAt": "2026-11-20T10:13:06.000Z",
+      "articleId": "5eaa9c7e7b032f26"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/dusty-bakers-greatness-followed-him",
+      "title": "Dusty Baker’s Greatness Followed Him Everywhere",
+      "url": "https://neilpaine.substack.com/p/dusty-bakers-greatness-followed-him",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "As Cooperstown considers his Hall of Fame case, Baker’s ability to get the most out of five very different teams matters as much as the World Series ring he finally won.",
+      "publishedAt": "2026-11-20T10:02:24.000Z",
+      "articleId": "82cc0c88299f846f"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement",
+      "title": "Phonics-based Instruction and Student Achievement",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy debate for decades. Recently, phonics-based approaches […]",
+      "publishedAt": "2026-11-20T08:00:04.000Z",
+      "articleId": "6b7c48427fb0bf37"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers",
+      "title": "AIs vs. humans in economics papers",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating headline results. To see roughly how Ape stacks up against human primates, The Economist teamed up with Refine, the research-verification firm […]",
+      "publishedAt": "2026-11-20T05:53:10.000Z",
+      "articleId": "8381e53e13dd2cc0"
+    },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/1v5rmcxb6g9gewr6gdeys2m22o1lail9tqhryo1p.html",
       "title": "Money Stuff: Anthropic Pops",
@@ -510,6 +588,18 @@
       "articleId": "7acb13e49768aa20"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/connor-mcdavid-is-actually-making",
+      "title": "Connor McDavid Is Making 200 Points Seem Possible Again",
+      "url": "https://neilpaine.substack.com/p/connor-mcdavid-is-actually-making",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Four decades after Wayne Gretzky last reached one of hockey’s most elusive milestones, McDavid has a shot — and two extra games on the schedule might make all the difference.",
+      "publishedAt": "2026-11-17T10:02:18.000Z",
+      "articleId": "0685209aa7d86824"
+    },
+    {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany",
       "title": "Adlerlicht, reporting on crime in Germany",
       "url": "https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html",
@@ -519,17 +609,6 @@
       "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here.",
       "publishedAt": "2026-11-17T07:12:17.000Z",
       "articleId": "a21f29880fb6b0f8"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang",
-      "title": "The economics of Jensen Huang",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever […]",
-      "publishedAt": "2026-11-17T05:44:15.000Z",
-      "articleId": "d8a26a098b046340"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/8nvnmls27ksbxsqsrju6wrrokbe0a39bqqu02rhd.html",
@@ -564,17 +643,6 @@
       "summary": "People Miss Jensen Huang Already Antitrust, procurement, Frankenstein. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read in browser Oh Jensen Some hypotheticals. What if Dario Amodei got caught having an affair with a spy, and another affair with his subordinate at Anthropic PBC? Well. The spy stuff could be bad for Anthropic: Anthropic’s products have serious national security consequences, and there might be regulatory repercussions; its business might be restricted to prevent its models from falling into the wrong hands. I don’t know about the subordinate stuff; I assume a lot of people working in AI live in polyamorous group houses with their coworkers so maybe that’s no big deal. What would happen to Amodei? I don’t know. But the flowchart is something like this: Anthropic’s board of directors would meet and decide what to do with him, weighing what various stakeholders — employees, suppliers, customers, governments, shareholders, etc. — want and their own sense of what would be best for the company and for the safe development of advanced artificial intelligence. Anthropic’s board has seven members, two of whom are Dario Amodei and his sister Daniela Amodei, so that might be awkward. The board ultimately answers to a higher authority . Actually two higher authorities, or two and a half. Three of the seven board members are appointed by a “long-term benefit trust” made up of disinterested trustees whose job is to make sure that Anthropic builds AI safely for the benefit of humanity. Three are appointed by Anthropic’s seven co-founders. The seventh is appointed by the trust, but subject to the approval of the rest of the board, with Anthropic’s shareholders breaking any deadlocks. So the board would probably put more weight on the views of Anthropic’s co-founders and employees than would a normal public company board. I don’t know what those views would be, in this hypothetical. Maybe all the (other) co-founders and employees feel betrayed by Amodei and want him to go, so he goes. Maybe they all circle the wagons around him and think it is all the more essential that he stay to build safe advanced AI, so he stays. Maybe the founders and employees are ambivalent but the disinterested trustees, who care only about making AI safe for humanity, think that he is [essential/detrimental] to that goal and...",
       "publishedAt": "2026-11-16T19:38:51.112Z",
       "articleId": "e7ce094d17759170"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 percent, a figure that was particularly […]",
-      "publishedAt": "2026-11-16T19:17:13.000Z",
-      "articleId": "04272b97026ea3aa"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/gsfdqbhr7rsapsek7iaro0503k8nevlyssxyj8f8.html",
@@ -632,6 +700,18 @@
       "summary": "Complications avoided, a big turnout advantage, and some candidates I underrated",
       "publishedAt": "2026-11-16T11:00:44.000Z",
       "articleId": "422773a90332eade"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "title": "Justin Herbert’s Collapse Is in Historically Bad Company",
+      "url": "https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Chargers QB is on pace for one of the biggest year-over-year declines — and worst seasons overall — in our database. What went wrong, and can it be fixed?",
+      "publishedAt": "2026-11-16T10:02:12.000Z",
+      "articleId": "7bd631a9c25cb998"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/bumbition",
@@ -724,6 +804,17 @@
       "summary": "After a win built on authenticity, the new majority has to resist the pull of Capitol jargon, or they risk further alienating the voters who just took a chance on them.",
       "publishedAt": "2026-11-14T14:03:50.000Z",
       "articleId": "9652638729917a14"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-9-13-2026",
+      "title": "The Week That Was (November 9-13, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-9-13-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-11-14T10:02:17.000Z",
+      "articleId": "046f85e5072d1e02"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/im-feeling-more-optimistic-about",
@@ -837,6 +928,18 @@
       "summary": "New York missed a golden chance to extend its lead in the NFC East after a late 24-21 loss to Washington Thursday night.",
       "publishedAt": "2026-11-13T10:30:21.000Z",
       "articleId": "3ef970a62cb36fd8"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-playoff-industrial-complex-is",
+      "title": "The Playoff-Industrial Complex Is Eating Sports Alive",
+      "url": "https://neilpaine.substack.com/p/the-playoff-industrial-complex-is",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "When everything is playoffs, nothing is playoffs.",
+      "publishedAt": "2026-11-13T10:02:42.000Z",
+      "articleId": "98b02324e27ccf5a"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/brad-and-noah-discuss-the-reindustrialization",
@@ -1005,6 +1108,18 @@
       "articleId": "6385324d791c2a17"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-jaguars-are-partying-like-its",
+      "title": "The Jaguars Are Partying Like It’s 1999",
+      "url": "https://neilpaine.substack.com/p/the-jaguars-are-partying-like-its",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Jacksonville hasn’t been this good since its original golden era. So after years of frustration, the Jags just spent big to make sure this championship opportunity doesn’t slip away.",
+      "publishedAt": "2026-11-12T10:00:39.000Z",
+      "articleId": "f393d2081f1f26bf"
+    },
+    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/4f8cu9m5camgjrlwta1l8fiwwrfxpowpumsuzr2o.html",
       "title": "Recipes from the River: Oklahoma Onion Burgers",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/4f8cu9m5camgjrlwta1l8fiwwrfxpowpumsuzr2o.html",
@@ -1106,17 +1221,6 @@
       "articleId": "9a890752e5929ac3"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/bernie-sanders-did-not-invent-populist",
-      "title": "Bernie Sanders did not invent populist rhetoric",
-      "url": "https://www.slowboring.com/p/bernie-sanders-did-not-invent-populist",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "All Democrats can (and do) have a little class warfare as a treat.",
-      "publishedAt": "2026-11-10T11:22:35.000Z",
-      "articleId": "8af6800958c5492c"
-    },
-    {
       "id": "Stratechery:https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
       "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
       "url": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
@@ -1206,17 +1310,6 @@
       "summary": "Thinking like a Party elite.",
       "publishedAt": "2026-11-09T11:24:10.000Z",
       "articleId": "de272b21489cb806"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
-      "title": "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness",
-      "url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "Nvidia CEO Jensen Huang admitted to an affair with a Chinese spy, and that might not be the end of his troubles. I hope he survives, but his influence will never be the same.",
-      "publishedAt": "2026-11-09T11:00:00.000Z",
-      "articleId": "25d2a875418502cd"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
@@ -2053,18 +2146,6 @@
       "summary": "...",
       "publishedAt": "2026-10-21T21:53:11.000Z",
       "articleId": "71cda09d15ef24be"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
-      "title": "“You Can See Everything” and the nature of liars",
-      "url": "https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A movie review, plus some thoughts on dishonesty, belief, and human communication.",
-      "publishedAt": "2026-10-21T08:45:19.000Z",
-      "articleId": "b232b5e666023866"
     }
   ],
   "weather": null,
@@ -2114,16 +2195,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2154,16 +2235,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 14,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 2,
+      "mode": "rss",
+      "itemCount": 8,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
