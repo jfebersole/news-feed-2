@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-11-21T01:26:54.486Z",
-  "fetchedAt": "2026-11-21T01:26:54.483Z",
+  "generatedAt": "2026-11-21T09:40:25.984Z",
+  "fetchedAt": "2026-11-21T09:40:25.977Z",
   "sourceCount": 25,
-  "itemCount": 183,
+  "itemCount": 182,
   "totalItemCount": 818,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment",
+      "title": "*The Great Enrichment*",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […]",
+      "publishedAt": "2026-11-21T07:25:41.000Z",
+      "articleId": "1f1eff0c6b79b74a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/emergent-ventures-60th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-60th-cohort",
+      "title": "Emergent Ventures, 60th cohort",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/emergent-ventures-60th-cohort.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Faris Allafi, Abu Dhabi, 13, train AI models. Eliel Selin, Helsinki, 18, AI agents. Robert Boswall, London area, energy information for the UK. Alex Yang, Harvard, genetics for better organ transplants. Stanislaw Tomaszewski, Warsaw area, AI agents and the organization of trucking. Jonas Dolezal, London, nuclear fusion. Shawnak Shivakumar, Stanford, longevity research. Ruzgar Albayrak, Izmir, […]",
+      "publishedAt": "2026-11-21T06:13:27.000Z",
+      "articleId": "7ebcbdfc18b65294"
+    },
     {
       "id": "Stratechery:https://stratechery.com/2026/down-in-dc/",
       "title": "2026.47: Down in DC",
@@ -530,28 +552,6 @@
       "summary": "The Agents Will Trade the Bonds MEV, SBF, Martha Stewart, Pokemon. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Read in browser Agent bond traders Here is one way to do a trade: Me: I will pay $98 for your thing. You: I will sell it to you for $100. Me: I can pay $98.50. You: I can go to $99.50. Me: I could do $98.75 You: I could do $99.25. Me: What if I paid $98.90? You: What if you paid $99.10? Me: $98.95? You: $99.05? Me: Okay $98.97, final bid. You: $99.03, final offer. Me: If you can go to $98.99 we’re done. You: If you can get up to $99.01 we’re done. Me: $98.995. You: $99.005. Me: $98.999. You: $99.001. Me: $98.9997. You: $99.0003. I could keep doing this all day, but you got the idea quite some time ago. Is this an efficient use of your or my time? No. Is it an efficient use of an artificial intelligence agent’s time? Also no. But in like three years, the way bond portfolios will work is that some human portfolio manager will call up a robot and briefly describe, in plain English, the characteristics — duration and yield and sector and credit quality and whatever — that she wants in a bond portfolio, and the robot will go out and do the tedious work of finding the right bonds and deciding what to pay for them and negotiating their purchase. And arguably the first step on the path to that future is for the portfolio manager to get an AI agent, and for a dealer bank to get an AI agent, and for the portfolio manager’s bot to connect with the dealer bank’s bot, and for the two bots to negotiate one discrete bond trade within parameters set by humans. What will that negotiation look like? Oh, you could imagine lots of things! PM bot: I know this bond last traded at $100, but that was 20 minutes ago, and since then stocks in this sector have gone down by 0.14%, and my regression model suggests that has reduced credit quality such that the bond should be worth $99.85. Bank bot: No, actually, BBB bonds in other sectors but with similar credit metrics have traded slightly tighter in the last 20 minutes, so my model says you should pay $100.15. Or: PM bot: I need some exposure to this sector and would buy this bond if I could get it for $99.85, but there are plenty of other possible bonds for me, and I don’t need it urgently. But I suspect that you have more of this bond in inventory than you want, so why...",
       "publishedAt": "2026-11-17T19:30:53.839Z",
       "articleId": "ea0139ab63bdab74"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze",
-      "title": "What should I ask Alexander Mikaberidze?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period. From Wikipedia: Alexander Mikaberidze […]",
-      "publishedAt": "2026-11-17T19:17:25.000Z",
-      "articleId": "670e3b4d6f318773"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai",
-      "title": "Alex Imas and I podcast on the economics of AI",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE",
-      "publishedAt": "2026-11-17T16:53:31.000Z",
-      "articleId": "f3f7aaea992b555f"
     },
     {
       "id": "Silver Bulletin:https://www.natesilver.net/p/silver-bulletin-is-hiring-an-editor",
@@ -2053,17 +2053,6 @@
       "summary": "That McCarthy is starting less than four weeks after arriving in New York isn’t a surprise. And this isn’t a decision made lightly.",
       "publishedAt": "2026-10-22T10:30:53.000Z",
       "articleId": "59a5ee35627d1440"
-    },
-    {
-      "id": "Noahpinion:https://www.noahpinion.blog/p/france-and-the-limits-of-liberalism",
-      "title": "France and the limits of liberalism",
-      "url": "https://www.noahpinion.blog/p/france-and-the-limits-of-liberalism",
-      "source": "Noahpinion",
-      "sourceUrl": "https://www.noahpinion.blog/",
-      "access": "open",
-      "summary": "Immigration, the welfare state, and Keynesian economics are all showing signs of strain.",
-      "publishedAt": "2026-10-22T08:04:41.000Z",
-      "articleId": "cbba52c5b060975e"
     }
   ],
   "weather": null,
