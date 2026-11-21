@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T20:03:39.324Z",
-  "fetchedAt": "2026-11-20T20:03:39.320Z",
+  "generatedAt": "2026-11-21T01:26:54.486Z",
+  "fetchedAt": "2026-11-21T01:26:54.483Z",
   "sourceCount": 25,
-  "itemCount": 185,
-  "totalItemCount": 819,
+  "itemCount": 183,
+  "totalItemCount": 818,
   "items": [
     {
       "id": "Stratechery:https://stratechery.com/2026/down-in-dc/",
@@ -105,6 +105,17 @@
       "summary": "Maybe this is the wrong frame for the AI safety discussion.",
       "publishedAt": "2026-11-20T10:13:06.000Z",
       "articleId": "5eaa9c7e7b032f26"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/dusty-bakers-greatness-followed-him",
+      "title": "Dusty Baker’s Greatness Followed Him Everywhere",
+      "url": "https://neilpaine.substack.com/p/dusty-bakers-greatness-followed-him",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "As Cooperstown considers his Hall of Fame case, Baker’s ability to get the most out of five very different teams matters as much as the World Series ring he finally won.",
+      "publishedAt": "2026-11-20T10:02:24.000Z",
+      "articleId": "82cc0c88299f846f"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement",
@@ -418,18 +429,6 @@
       "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
       "publishedAt": "2026-11-18T11:00:00.000Z",
       "articleId": "4618f5d2a963fdad"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/what-happened-to-home-field-advantage",
-      "title": "What Happened to Home-Field Advantage?",
-      "url": "https://neilpaine.substack.com/p/what-happened-to-home-field-advantage",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Playing at home used to be one of sports’ great equalizers. But decades of data suggest that the edge has been shrinking — and in recent years, dramatically so.",
-      "publishedAt": "2026-11-18T10:02:05.000Z",
-      "articleId": "a66edf40e03225be"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-91-rocketing-into-the-technofuture",
@@ -1094,18 +1093,6 @@
       "summary": "Breaking down the tape on the NBA’s most interesting tactical battle",
       "publishedAt": "2026-11-11T13:14:17.000Z",
       "articleId": "2c7577b85a52b9ae"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/twenty-three-points-on-the-midterms",
-      "title": "Twenty-three points on the midterms and the narrative",
-      "url": "https://www.slowboring.com/p/twenty-three-points-on-the-midterms",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "A sweep that, in retrospect, could have been even bigger",
-      "publishedAt": "2026-11-11T11:03:25.000Z",
-      "articleId": "864caf13de8b0370"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
@@ -2077,17 +2064,6 @@
       "summary": "Immigration, the welfare state, and Keynesian economics are all showing signs of strain.",
       "publishedAt": "2026-10-22T08:04:41.000Z",
       "articleId": "cbba52c5b060975e"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/why-global-trepanation",
-      "title": "Why Global Trepanation?",
-      "url": "https://www.astralcodexten.com/p/why-global-trepanation",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-10-21T21:53:11.000Z",
-      "articleId": "71cda09d15ef24be"
     }
   ],
   "weather": null,
@@ -2210,7 +2186,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
