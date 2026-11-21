@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-21T17:24:58.818Z",
-  "fetchedAt": "2026-11-21T17:24:58.815Z",
+  "generatedAt": "2026-11-21T23:07:26.546Z",
+  "fetchedAt": "2026-11-21T23:07:26.544Z",
   "sourceCount": 25,
   "itemCount": 181,
-  "totalItemCount": 819,
+  "totalItemCount": 820,
   "items": [
+    {
+      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
+      "title": "Suggest Questions For The 2027 ACX/Metaculus Prediction Contest",
+      "url": "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
+      "source": "Astral Codex Ten",
+      "sourceUrl": "https://www.astralcodexten.com/",
+      "access": "open",
+      "summary": "...",
+      "publishedAt": "2026-11-21T19:00:45.000Z",
+      "articleId": "f9cf2a534d807301"
+    },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/sc3ip1rigol6d2wejez2lxnj4j8q70jungmmubgt.html",
       "title": "A Warm and Koji Thanksgiving: Miso Caramel Apple Tarte Tatin",
@@ -23,7 +34,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. What Venus looks like. 6. Good AI policy ideas from Joshua Saxe. 7. Podcast with SBF from prison, have not […]",
+      "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. Good AI policy ideas from Joshua Saxe. 6. Podcast with SBF from prison, have not had a chance to listen, […]",
       "publishedAt": "2026-11-21T16:41:52.000Z",
       "articleId": "5c8a29eae432446a"
     },
@@ -72,6 +83,17 @@
       "summary": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea.",
       "publishedAt": "2026-11-21T11:58:56.000Z",
       "articleId": "1b0c61699dbafc33"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-16-20",
+      "title": "The Week That Was (November 16-20, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-16-20",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-11-21T10:01:38.000Z",
+      "articleId": "0eccd30334326bd7"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment",
@@ -2021,28 +2043,6 @@
       "summary": "New York cut players and coaches were explicit in their evaluation of players after last week's loss to the Saints.",
       "publishedAt": "2026-10-23T10:00:38.000Z",
       "articleId": "a5691237f61709de"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday",
-      "title": "San Francisco Meetup This Saturday",
-      "url": "https://www.astralcodexten.com/p/san-francisco-meetup-this-saturday",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "...",
-      "publishedAt": "2026-10-22T19:42:57.000Z",
-      "articleId": "99e58f09db1b38d7"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/can-music-change-how-we-speak",
-      "title": "Can Music Change How We Speak?",
-      "url": "https://www.cantgetmuchhigher.com/p/can-music-change-how-we-speak",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Or, when the dictionary listens",
-      "publishedAt": "2026-10-22T17:30:52.000Z",
-      "articleId": "8195dc725b3e253e"
     }
   ],
   "weather": null,
@@ -2141,7 +2141,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
