@@ -1,20 +1,54 @@
 {
-  "generatedAt": "2026-11-22T15:14:19.757Z",
-  "fetchedAt": "2026-11-22T15:14:19.755Z",
+  "generatedAt": "2026-11-22T21:43:26.067Z",
+  "fetchedAt": "2026-11-22T21:43:26.064Z",
   "sourceCount": 25,
-  "itemCount": 183,
-  "totalItemCount": 820,
+  "itemCount": 187,
+  "totalItemCount": 849,
   "items": [
     {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
+      "title": "Increasing pay for lower wage workers",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […]",
+      "publishedAt": "2026-11-22T19:24:24.000Z",
+      "articleId": "ff9d7b568f9228cd"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-48b",
+      "title": "Sunday Thread + Mailbag",
+      "url": "https://www.slowboring.com/p/sunday-thread-mailbag-48b",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "full",
+      "summary": "Ask your questions below.",
+      "publishedAt": "2026-11-22T18:02:11.000Z",
+      "articleId": "e201f382573c6372"
+    },
+    {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
-      "title": "Would You Buy a Used Civilization From This Man?",
+      "title": "Why Are We at the Mercy of the World’s Weirdest Men?",
       "url": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
       "source": "David French (NYT)",
       "sourceUrl": "https://www.nytimes.com/by/david-french",
       "access": "paywalled",
-      "summary": "We are at the mercy of the world’s weirdest men.",
-      "publishedAt": "2026-11-22T11:00:23.000Z",
+      "summary": "No kings isn’t just about Trump.",
+      "publishedAt": "2026-11-22T17:40:26.000Z",
       "articleId": "99c02c36be61ab68"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591",
+      "title": "Sunday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data.",
+      "publishedAt": "2026-11-22T17:31:05.000Z",
+      "articleId": "afc5d63528eb19ab"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
@@ -464,17 +498,6 @@
       "articleId": "fea47fc0302153c8"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email",
-      "title": "Will Baird, book maven (from my email)",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, […]",
-      "publishedAt": "2026-11-19T06:02:15.000Z",
-      "articleId": "38e88cf3cbdd9aff"
-    },
-    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/kumvalzu18zb4srgcheyhitn2rhel14ek6z7hmbr.html",
       "title": "Stuffing, Breads, & Potatoes Recipe Roundup",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/kumvalzu18zb4srgcheyhitn2rhel14ek6z7hmbr.html",
@@ -508,17 +531,6 @@
       "summary": "The AI boom is getting a little crazy.",
       "publishedAt": "2026-11-18T21:34:00.000Z",
       "articleId": "befe78ea6a681010"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update",
-      "title": "UK productivity update",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by 2.0% in Quarter 3 2026 compared with the same quarter a year ago. This was […]",
-      "publishedAt": "2026-11-18T18:53:56.000Z",
-      "articleId": "64c2fbdbd00eeea7"
     },
     {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/bigbxox1bag4ghzv5h6ilycngofsisfwmbe2s9ka.html",
@@ -564,6 +576,18 @@
       "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
       "publishedAt": "2026-11-18T11:00:00.000Z",
       "articleId": "4618f5d2a963fdad"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/what-happened-to-home-field-advantage",
+      "title": "What Happened to Home-Field Advantage?",
+      "url": "https://neilpaine.substack.com/p/what-happened-to-home-field-advantage",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Playing at home used to be one of sports’ great equalizers. But decades of data suggest that the edge has been shrinking — and in recent years, dramatically so.",
+      "publishedAt": "2026-11-18T10:02:05.000Z",
+      "articleId": "a66edf40e03225be"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/roundup-91-rocketing-into-the-technofuture",
@@ -712,6 +736,18 @@
       "articleId": "7acb13e49768aa20"
     },
     {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/connor-mcdavid-is-actually-making",
+      "title": "Connor McDavid Is Making 200 Points Seem Possible Again",
+      "url": "https://neilpaine.substack.com/p/connor-mcdavid-is-actually-making",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Four decades after Wayne Gretzky last reached one of hockey’s most elusive milestones, McDavid has a shot — and two extra games on the schedule might make all the difference.",
+      "publishedAt": "2026-11-17T10:02:18.000Z",
+      "articleId": "0685209aa7d86824"
+    },
+    {
       "id": "J. Kenji López-Alt:https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/8nvnmls27ksbxsqsrju6wrrokbe0a39bqqu02rhd.html",
       "title": "Turkey & Gravy Recipe Roundup",
       "url": "https://kill-the-newsletter.com/feeds/1f43x14oa0jh1nq3ojfk/entries/8nvnmls27ksbxsqsrju6wrrokbe0a39bqqu02rhd.html",
@@ -801,6 +837,18 @@
       "summary": "Complications avoided, a big turnout advantage, and some candidates I underrated",
       "publishedAt": "2026-11-16T11:00:44.000Z",
       "articleId": "422773a90332eade"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "title": "Justin Herbert’s Collapse Is in Historically Bad Company",
+      "url": "https://neilpaine.substack.com/p/justin-herberts-collapse-is-in-historically",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "The Chargers QB is on pace for one of the biggest year-over-year declines — and worst seasons overall — in our database. What went wrong, and can it be fixed?",
+      "publishedAt": "2026-11-16T10:02:12.000Z",
+      "articleId": "7bd631a9c25cb998"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/bumbition",
@@ -893,6 +941,17 @@
       "summary": "After a win built on authenticity, the new majority has to resist the pull of Capitol jargon, or they risk further alienating the voters who just took a chance on them.",
       "publishedAt": "2026-11-14T14:03:50.000Z",
       "articleId": "9652638729917a14"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-9-13-2026",
+      "title": "The Week That Was (November 9-13, 2026)",
+      "url": "https://neilpaine.substack.com/p/the-week-that-was-november-9-13-2026",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
+      "publishedAt": "2026-11-14T10:02:17.000Z",
+      "articleId": "046f85e5072d1e02"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/im-feeling-more-optimistic-about",
@@ -1006,6 +1065,18 @@
       "summary": "New York missed a golden chance to extend its lead in the NFC East after a late 24-21 loss to Washington Thursday night.",
       "publishedAt": "2026-11-13T10:30:21.000Z",
       "articleId": "3ef970a62cb36fd8"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-playoff-industrial-complex-is",
+      "title": "The Playoff-Industrial Complex Is Eating Sports Alive",
+      "url": "https://neilpaine.substack.com/p/the-playoff-industrial-complex-is",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "When everything is playoffs, nothing is playoffs.",
+      "publishedAt": "2026-11-13T10:02:42.000Z",
+      "articleId": "98b02324e27ccf5a"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/brad-and-noah-discuss-the-reindustrialization",
@@ -1138,18 +1209,6 @@
       "summary": "The “betrayal” theory of voter rage about the cost of living",
       "publishedAt": "2026-11-12T11:01:11.000Z",
       "articleId": "34ea5662a89a2914"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-are",
-      "title": "“The Argument” podcast, ad free: Are politicians actually listening to voters?",
-      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-are",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
-      "publishedAt": "2026-11-12T11:01:04.000Z",
-      "articleId": "d150ce4087ecc7f9"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
@@ -2054,23 +2113,11 @@
       "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
       "publishedAt": "2026-10-23T21:52:12.000Z",
       "articleId": "66b4f1b2497cd737"
-    },
-    {
-      "id": "The Lowe Post:https://zachlowe.substack.com/p/philadelphia-76ers-first-impression-lebron-james-jaylen-brown-tyrese-maxey",
-      "title": "What We’ve Learned From Our First Looks at the Sixers",
-      "url": "https://zachlowe.substack.com/p/philadelphia-76ers-first-impression-lebron-james-jaylen-brown-tyrese-maxey",
-      "source": "The Lowe Post",
-      "sourceUrl": "https://zachlowe.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "And why “one ball” hasn't been—and shouldn’t be—a problem",
-      "publishedAt": "2026-10-23T18:52:38.000Z",
-      "articleId": "a545d43ea0b86af5"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
+  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
   "sources": [
     {
       "name": "Marginal Revolution",
@@ -2115,16 +2162,16 @@
     {
       "name": "Walking the World",
       "url": "https://walkingtheworld.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://walkingtheworld.substack.com/feed",
       "error": null
     },
     {
       "name": "Scott Sumner",
       "url": "https://scottsumner.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 20,
       "feedUrl": "https://scottsumner.substack.com/feed",
       "error": null
     },
@@ -2155,16 +2202,16 @@
     {
       "name": "The Lowe Post",
       "url": "https://zachlowe.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 10,
+      "mode": "rss",
+      "itemCount": 14,
       "feedUrl": "https://zachlowe.substack.com/feed",
       "error": null
     },
     {
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
-      "mode": "rss-proxy",
-      "itemCount": 3,
+      "mode": "rss",
+      "itemCount": 8,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
