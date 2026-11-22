@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-11-21T23:07:26.546Z",
-  "fetchedAt": "2026-11-21T23:07:26.544Z",
+  "generatedAt": "2026-11-22T06:36:47.343Z",
+  "fetchedAt": "2026-11-22T06:36:47.340Z",
   "sourceCount": 25,
-  "itemCount": 181,
+  "itemCount": 182,
   "totalItemCount": 820,
   "items": [
+    {
+      "id": "Noahpinion:https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
+      "title": "AI people are very, very, very, very rich",
+      "url": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
+      "source": "Noahpinion",
+      "sourceUrl": "https://www.noahpinion.blog/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "What should we think about that?",
+      "publishedAt": "2026-11-22T06:27:25.000Z",
+      "articleId": "fcdd58de04d485df"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world",
+      "title": "Will AI Growth Reach the Developing World?",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and […]",
+      "publishedAt": "2026-11-22T06:14:28.000Z",
+      "articleId": "2726624bb9c10c00"
+    },
     {
       "id": "Astral Codex Ten:https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
       "title": "Suggest Questions For The 2027 ACX/Metaculus Prediction Contest",
@@ -485,17 +508,6 @@
       "summary": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with collateral constraints and nonrefundable tax deductions. When matched to U.S. tax-return and Compustat moments, the model yields three findings. First, permanent expensing raises long-run […]",
       "publishedAt": "2026-11-18T18:17:04.000Z",
       "articleId": "f044a9ffe78d12a1"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580",
-      "title": "Wednesday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on the Christiano interview. The whole dialogue over this interview is a good example of why […]",
-      "publishedAt": "2026-11-18T16:41:46.000Z",
-      "articleId": "2723050947ac6884"
     },
     {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7790941/2026/11/18/new-york-giants-john-harbaugh-aggressive-fourth-downs/",
