@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-22T21:43:26.067Z",
-  "fetchedAt": "2026-11-22T21:43:26.064Z",
+  "generatedAt": "2026-11-23T02:39:37.402Z",
+  "fetchedAt": "2026-11-23T02:39:37.397Z",
   "sourceCount": 25,
-  "itemCount": 187,
+  "itemCount": 185,
   "totalItemCount": 849,
   "items": [
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
+      "title": "Giants defense torments Jaguars en route to signature win: Is NY a real contender?",
+      "url": "https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "The Giants tormented Jacksonville QB Trevor Lawrence, sacking him three times and intercepting him twice.",
+      "publishedAt": "2026-11-23T00:04:04.000Z",
+      "articleId": "7ab237531076ff4d"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
       "title": "Increasing pay for lower wage workers",
@@ -49,17 +60,6 @@
       "summary": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes on user data vs. curated data.",
       "publishedAt": "2026-11-22T17:31:05.000Z",
       "articleId": "afc5d63528eb19ab"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
-      "title": "Giants vs. Jaguars score predictions: Can NY bolster contender status vs. one of AFC's best?",
-      "url": "https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "The Giants are about to be tested like they haven't been tested before.",
-      "publishedAt": "2026-11-22T08:00:04.000Z",
-      "articleId": "7ab237531076ff4d"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters",
@@ -2091,33 +2091,11 @@
       "summary": "Minimum lot sizes, Boeing’s next 737 MAX, Fervo short sellers, Figure AI’s training data, and more.",
       "publishedAt": "2026-10-24T12:01:24.000Z",
       "articleId": "47722f7757ac3b71"
-    },
-    {
-      "id": "Astral Codex Ten:https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
-      "title": "Your Book Review: The Ghost In My Brain",
-      "url": "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
-      "source": "Astral Codex Ten",
-      "sourceUrl": "https://www.astralcodexten.com/",
-      "access": "open",
-      "summary": "Finalist #13 in the Book Review Contest",
-      "publishedAt": "2026-10-23T23:45:42.000Z",
-      "articleId": "9955e8049eb7a0ac"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "title": "The Real Trump Tower",
-      "url": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
-      "publishedAt": "2026-10-23T21:52:12.000Z",
-      "articleId": "66b4f1b2497cd737"
     }
   ],
   "weather": null,
   "weatherGeneratedAt": null,
-  "weatherError": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+  "weatherError": "Capital Weather RSS did not include a DC-area forecast with a daily digit.",
   "sources": [
     {
       "name": "Marginal Revolution",
