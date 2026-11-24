@@ -1,10 +1,111 @@
 {
-  "generatedAt": "2026-11-24T10:51:38.301Z",
-  "fetchedAt": "2026-11-24T10:51:38.296Z",
+  "generatedAt": "2026-11-24T21:07:08.391Z",
+  "fetchedAt": "2026-11-24T21:07:08.387Z",
   "sourceCount": 25,
-  "itemCount": 182,
-  "totalItemCount": 821,
+  "itemCount": 183,
+  "totalItemCount": 822,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals",
+      "title": "Gambling for Goals",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage seem out of reach, individuals turn to financial gambles. We test this theory […]",
+      "publishedAt": "2026-11-24T19:33:13.000Z",
+      "articleId": "862ae4b89a9c5c52"
+    },
+    {
+      "id": "Silver Bulletin:https://www.natesilver.net/p/ai-is-moving-way-too-fast",
+      "title": "AI is moving way too fast",
+      "url": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
+      "source": "Silver Bulletin",
+      "sourceUrl": "https://www.natesilver.net/",
+      "access": "open",
+      "summary": "I think AI coding tools are miraculous. So why do I feel so unsettled?",
+      "publishedAt": "2026-11-24T18:24:31.000Z",
+      "articleId": "42fa149b9bf9957a"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596",
+      "title": "Tuesday assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. On language models writing their own weights. 2. “The Banksy of NBA media”? 3. Astra solves a historical mystery. 4. Some new Indian architecture. And more from Bloomberg. 5. The Icelandic tradition of liberty. 6. “Surprisingly though, data on real-world impacts of cyber attacks tells a less dire story.“",
+      "publishedAt": "2026-11-24T16:26:55.000Z",
+      "articleId": "6319fa0957b9f820"
+    },
+    {
+      "id": "Works in Progress:https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "title": "How to make a lovable city",
+      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "source": "Works in Progress",
+      "sourceUrl": "https://www.worksinprogress.news/",
+      "access": "open",
+      "summary": "Camillo Sitte made the blueprint for beautiful cities. Here are his five principles.",
+      "publishedAt": "2026-11-24T16:10:36.000Z",
+      "articleId": "f7bb07f538cbbaab"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/days-of-the-week-an-album-a-day",
+      "title": "Days of the Week: An Album a Day",
+      "url": "https://www.cantgetmuchhigher.com/p/days-of-the-week-an-album-a-day",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Featuring Deftones, Bill Evans, Nicki Minaj, and others",
+      "publishedAt": "2026-11-24T14:31:40.000Z",
+      "articleId": "709bcbfa4b5ae42e"
+    },
+    {
+      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7808233/2026/11/24/new-york-giants-paulson-adebo-greg-newsome-jaguars-dennard-wilson/",
+      "title": "After riding bench most of the season, Paulson Adebo stepped up when Giants needed him most",
+      "url": "https://www.nytimes.com/athletic/7808233/2026/11/24/new-york-giants-paulson-adebo-greg-newsome-jaguars-dennard-wilson/",
+      "source": "Dan Duggan (The Athletic)",
+      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
+      "access": "paywalled",
+      "summary": "Cutting Adebo in the offseason felt like a no-brainer, but the veteran could force the Giants to reassess if he keeps playing this well.",
+      "publishedAt": "2026-11-24T12:39:06.000Z",
+      "articleId": "cd6d15cf2df6b20c"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/nepa-is-not-an-environmental-protection",
+      "title": "NEPA is not an environmental protection law",
+      "url": "https://www.slowboring.com/p/nepa-is-not-an-environmental-protection",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Pure process and status quo bias does not reduce pollution.",
+      "publishedAt": "2026-11-24T11:02:56.000Z",
+      "articleId": "468d307705c1238c"
+    },
+    {
+      "id": "Stratechery:https://stratechery.com/2026/the-individual-exception/",
+      "title": "The Individual Exception",
+      "url": "https://stratechery.com/2026/the-individual-exception/",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/",
+      "access": "paywalled",
+      "summary": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last.",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "articleId": "a4a70966ff708941"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-mets-are-baseballs-ultimate-salary",
+      "title": "The Mets Are Baseball’s Ultimate Salary-Cap Rorschach Test",
+      "url": "https://neilpaine.substack.com/p/the-mets-are-baseballs-ultimate-salary",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Do moves like the $450 million Steve Cohen just dropped for Tarik Skubal mean MLB should or shouldn’t have a cap? Yes.",
+      "publishedAt": "2026-11-24T10:01:58.000Z",
+      "articleId": "39c09fb9ce297c4f"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026",
       "title": "Best fiction 2026",
@@ -12,7 +113,7 @@
       "source": "Marginal Revolution",
       "sourceUrl": "https://marginalrevolution.com/",
       "access": "open",
-      "summary": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa [new translation] Claudia Piñeiro, Cathedrals. Christian Kracht, Eurotrash [2025], and Air [2026]. Munir Hachemi, The Mulai. Olga Grjasnowa, My […]",
+      "summary": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa [new translation] Claudia Piñeiro, Cathedrals. Christian Kracht, Eurotrash [2025], and Air [2026]. Munir Hachemi, The Mulai. Egana Djabbarova, My […]",
       "publishedAt": "2026-11-24T07:33:57.000Z",
       "articleId": "19aeaa1baef7e4fe"
     },
@@ -376,17 +477,6 @@
       "articleId": "1f06122ff64f993f"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
-      "title": "Paul Litvak’s Evidence Guide",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea.",
-      "publishedAt": "2026-11-21T11:58:56.000Z",
-      "articleId": "1b0c61699dbafc33"
-    },
-    {
       "id": "Neil Paine:https://neilpaine.substack.com/p/the-week-that-was-november-16-20",
       "title": "The Week That Was (November 16-20, 2026)",
       "url": "https://neilpaine.substack.com/p/the-week-that-was-november-16-20",
@@ -396,17 +486,6 @@
       "summary": "A roundup of what I wrote, read, watched, etc. over the past week.",
       "publishedAt": "2026-11-21T10:01:38.000Z",
       "articleId": "0eccd30334326bd7"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment",
-      "title": "*The Great Enrichment*",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: …regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much improvement there truly was. From 1870 to […]",
-      "publishedAt": "2026-11-21T07:25:41.000Z",
-      "articleId": "1f1eff0c6b79b74a"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/down-in-dc/",
@@ -486,17 +565,6 @@
       "summary": "Maybe this is the wrong frame for the AI safety discussion.",
       "publishedAt": "2026-11-20T10:13:06.000Z",
       "articleId": "5eaa9c7e7b032f26"
-    },
-    {
-      "id": "Neil Paine:https://neilpaine.substack.com/p/dusty-bakers-greatness-followed-him",
-      "title": "Dusty Baker’s Greatness Followed Him Everywhere",
-      "url": "https://neilpaine.substack.com/p/dusty-bakers-greatness-followed-him",
-      "source": "Neil Paine",
-      "sourceUrl": "https://neilpaine.substack.com/",
-      "access": "open",
-      "summary": "As Cooperstown considers his Hall of Fame case, Baker’s ability to get the most out of five very different teams matters as much as the World Series ring he finally won.",
-      "publishedAt": "2026-11-20T10:02:24.000Z",
-      "articleId": "82cc0c88299f846f"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/1v5rmcxb6g9gewr6gdeys2m22o1lail9tqhryo1p.html",
@@ -1098,18 +1166,6 @@
       "articleId": "53280d96e93bf5b0"
     },
     {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-a-moderate-looks-like",
-      "title": "What a moderate looks like",
-      "url": "https://www.slowboring.com/p/what-a-moderate-looks-like",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus the trouble with working with Trump, Florida’s blue vibes and red politics, and more",
-      "publishedAt": "2026-11-13T11:02:59.000Z",
-      "articleId": "71543f41d0f93d2d"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7778326/2026/11/13/giants-mccarthy-skattebo-harbaugh-tnf-commanders/",
       "title": "The Giants stumble and let one slip. 'It’s a missed opportunity'",
       "url": "https://www.nytimes.com/athletic/7778326/2026/11/13/giants-mccarthy-skattebo-harbaugh-tnf-commanders/",
@@ -1240,17 +1296,6 @@
       "summary": "After Week 5's first meeting ended in a now infamous tie, the two teams meet again Thursday night at MetLife Stadium.",
       "publishedAt": "2026-11-12T12:56:15.000Z",
       "articleId": "53f7ed743b789d12"
-    },
-    {
-      "id": "Stratechery:https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
-      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
-      "url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/",
-      "access": "paywalled",
-      "summary": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
-      "publishedAt": "2026-11-12T11:00:00.000Z",
-      "articleId": "6385324d791c2a17"
     },
     {
       "id": "The Lowe Post:https://zachlowe.substack.com/p/san-antonio-spurs-stephon-castle-victor-wembanyama",
@@ -2020,40 +2065,6 @@
       "summary": "“He has scars. He's been wounded. He's been broken. He's been battered. But you heal stronger, and (he's) become better because of it.\"",
       "publishedAt": "2026-10-26T01:06:32.000Z",
       "articleId": "33a906eaf300a45f"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7723295/2026/10/25/giants-texans-nfl-week-7-result-takeaways/",
-      "title": "J.J. McCarthy validates Giants' decision to turn to him in overtime win vs. Texans",
-      "url": "https://www.nytimes.com/athletic/7723295/2026/10/25/giants-texans-nfl-week-7-result-takeaways/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "McCarthy, in his first start for New York, led the Giants to a 27-21 overtime win by playing a consistent and mostly mistake-free game.",
-      "publishedAt": "2026-10-25T20:36:03.000Z",
-      "articleId": "e0d3c3853149962b"
-    },
-    {
-      "id": "Ezra Klein (NYT):https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-      "title": "Netanyahu Won the Middle East and Lost the World",
-      "url": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
-      "source": "Ezra Klein (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/ezra-klein",
-      "access": "paywalled",
-      "summary": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm.",
-      "publishedAt": "2026-10-25T16:11:03.000Z",
-      "articleId": "5cee1c6054b399cd"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/physical-media-lives-a-conversation",
-      "title": "Physical Media Lives: A Conversation with Jeff Walker",
-      "url": "https://www.cantgetmuchhigher.com/p/physical-media-lives-a-conversation",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "The CEO of Alliance Entertainment stopped by to talk about the surge in vinyl and CDs",
-      "publishedAt": "2026-10-25T14:30:49.000Z",
-      "articleId": "e876241a008081ad"
     }
   ],
   "weather": null,
@@ -2160,7 +2171,7 @@
       "name": "Silver Bulletin",
       "url": "https://www.natesilver.net/",
       "mode": "rss",
-      "itemCount": 12,
+      "itemCount": 13,
       "feedUrl": "https://www.natesilver.net/feed",
       "error": null
     },
