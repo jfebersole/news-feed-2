@@ -1,10 +1,88 @@
 {
-  "generatedAt": "2026-11-26T09:27:27.624Z",
-  "fetchedAt": "2026-11-26T09:27:27.621Z",
+  "generatedAt": "2026-11-26T19:34:12.892Z",
+  "fetchedAt": "2026-11-26T19:34:12.889Z",
   "sourceCount": 25,
-  "itemCount": 185,
+  "itemCount": 184,
   "totalItemCount": 821,
   "items": [
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game",
+      "title": "HumanFish — Predicting Who Actually Wins a Human Chess Game",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "The eval bar on a chess broadcast answers the wrong question. It tells you what happens if two 3600-Elo engines play perfectly with infinite time. What you actually want to know while watching humans play is: who is going to win from here, how likely is a draw, and why? HumanFish is an open hybrid […]",
+      "publishedAt": "2026-11-26T19:29:17.000Z",
+      "articleId": "a24362016d26fc55"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6",
+      "title": "Thanksgiving assorted links",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "1. What is Rockabilly? (short video) 2. What is the plan to grow Chicago? 3. On Chinese clinical trials. 4. The economy is booming. 5. Seb Krier, on Pinker. 6. At least one attempt at asteroid deflection succeeded. 7. Progress in green cement production?",
+      "publishedAt": "2026-11-26T16:45:28.000Z",
+      "articleId": "4b3f51afe191917b"
+    },
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
+      "title": "Donate This Holiday Season: CURE Epilepsy Needs Your Help",
+      "url": "https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Unlikely friends, a common cause.",
+      "publishedAt": "2026-11-26T14:03:39.000Z",
+      "articleId": "baced0437e7e7c79"
+    },
+    {
+      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/does-thanksgiving-music-exist-c1e",
+      "title": "Does Thanksgiving Music Exist?",
+      "url": "https://www.cantgetmuchhigher.com/p/does-thanksgiving-music-exist-c1e",
+      "source": "Can't Get Much Higher",
+      "sourceUrl": "https://www.cantgetmuchhigher.com/",
+      "access": "open",
+      "summary": "Revisiting a classic for the holiday",
+      "publishedAt": "2026-11-26T14:03:38.000Z",
+      "articleId": "43516e3e4ec43c98"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for",
+      "title": "What we are grateful for",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Here is The Free Press symposium. Here is an excerpt from my piece, which has a chance of turning out to be prescient by a day: Since I was born in 1962, what has been the biggest fundamental theoretical breakthrough? We put a man on the moon and built the internet, but what about on […]",
+      "publishedAt": "2026-11-26T12:14:54.000Z",
+      "articleId": "c0e7b81f35ebf4e5"
+    },
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/the-argument-podcast-ad-free-revisiting",
+      "title": "“The Argument” podcast, ad free: Revisiting the affirmative action debate",
+      "url": "https://www.slowboring.com/p/the-argument-podcast-ad-free-revisiting",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Stream this week’s episode without ads and get the transcript and show notes.",
+      "publishedAt": "2026-11-26T11:01:59.000Z",
+      "articleId": "55bf6364962d3705"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins",
+      "title": "Five Facts About Stablecoins",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across […]",
+      "publishedAt": "2026-11-26T10:50:37.000Z",
+      "articleId": "0f25ea3006fb43f8"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal",
       "title": "My excellent Conversation with Moxie Marlinspike of Signal",
@@ -432,28 +510,6 @@
       "articleId": "b271bad6a863dc20"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel",
-      "title": "Still Unproven: Can Britain Build a Tunnel?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn’t built. Hat tip: Alex Rich",
-      "publishedAt": "2026-11-23T12:20:34.000Z",
-      "articleId": "3fb080decfbfb848"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&utm_medium=rss&utm_campaign=94257",
-      "title": "The Tyranny of the Alphabet 2",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/94257.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric Society, and even win Nobel prizes (let’s see, […]",
-      "publishedAt": "2026-11-23T12:17:39.000Z",
-      "articleId": "4d8b008aea74c782"
-    },
-    {
       "id": "Slow Boring:https://www.slowboring.com/p/people-who-just-won-tough-races-should",
       "title": "People who just won tough races should try to win again — and hold Trump accountable",
       "url": "https://www.slowboring.com/p/people-who-just-won-tough-races-should",
@@ -487,17 +543,6 @@
       "articleId": "084ac8aec48a1178"
     },
     {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026",
-      "title": "Best non-fiction books of 2026",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan: A Life. Brendan Greeley, The Almighty Dollar: 500 Years of the World’s Most Powerful […]",
-      "publishedAt": "2026-11-23T06:10:57.000Z",
-      "articleId": "1f8288e0f0363bd2"
-    },
-    {
       "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
       "title": "Giants defense torments Jaguars en route to signature win: Is NY a real contender?",
       "url": "https://www.nytimes.com/athletic/7793452/2026/11/22/new-york-giants-jacksonville-jaguars-result-score/",
@@ -507,17 +552,6 @@
       "summary": "The Giants tormented Jacksonville QB Trevor Lawrence, sacking him three times and intercepting him twice.",
       "publishedAt": "2026-11-23T00:04:04.000Z",
       "articleId": "7ab237531076ff4d"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
-      "title": "Increasing pay for lower wage workers",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external […]",
-      "publishedAt": "2026-11-22T19:24:24.000Z",
-      "articleId": "ff9d7b568f9228cd"
     },
     {
       "id": "Slow Boring:https://www.slowboring.com/p/sunday-thread-mailbag-48b",
@@ -1072,18 +1106,6 @@
       "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
       "publishedAt": "2026-11-16T11:02:49.000Z",
       "articleId": "d2d6bb6549730325"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/what-i-got-wrong-about-the-midterms",
-      "title": "What I got wrong about the midterms",
-      "url": "https://www.slowboring.com/p/what-i-got-wrong-about-the-midterms",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Complications avoided, a big turnout advantage, and some candidates I underrated",
-      "publishedAt": "2026-11-16T11:00:44.000Z",
-      "articleId": "422773a90332eade"
     },
     {
       "id": "Noahpinion:https://www.noahpinion.blog/p/bumbition",
@@ -2055,39 +2077,6 @@
       "summary": "Plus, notes on the Wolves and Cavs after Monday night’s overtime thriller",
       "publishedAt": "2026-10-27T20:51:37.000Z",
       "articleId": "0a6ac3d130e108e5"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
-      "title": "‘Despicable’ Doesn’t Begin to Cover It",
-      "url": "https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Trump’s culture of cruelty spreads.",
-      "publishedAt": "2026-10-27T18:21:03.000Z",
-      "articleId": "2cafe679e7fbbc01"
-    },
-    {
-      "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/artists-with-honorifics-an-album",
-      "title": "Artists with Honorifics: An Album a Day",
-      "url": "https://www.cantgetmuchhigher.com/p/artists-with-honorifics-an-album",
-      "source": "Can't Get Much Higher",
-      "sourceUrl": "https://www.cantgetmuchhigher.com/",
-      "access": "open",
-      "summary": "Featuring Duke Ellington, Dr. Dre, Mr. Mister, and others",
-      "publishedAt": "2026-10-27T13:30:44.000Z",
-      "articleId": "c580a3e208819432"
-    },
-    {
-      "id": "Dan Duggan (The Athletic):https://www.nytimes.com/athletic/7728215/2026/10/27/new-york-giants-john-harbaugh-masterclass/",
-      "title": "How John Harbaugh put on a coaching masterclass in lead-up to Giants' Week 7 win",
-      "url": "https://www.nytimes.com/athletic/7728215/2026/10/27/new-york-giants-john-harbaugh-masterclass/",
-      "source": "Dan Duggan (The Athletic)",
-      "sourceUrl": "https://www.nytimes.com/athletic/author/dan-duggan/",
-      "access": "paywalled",
-      "summary": "Making the right read on which buttons to push is an intangible quality for a coach. Harbaugh demonstrated that ability last week.",
-      "publishedAt": "2026-10-27T11:42:38.000Z",
-      "articleId": "4c58295aca5bbf80"
     }
   ],
   "weather": null,

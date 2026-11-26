@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html",
+  "source": "Marginal Revolution",
+  "title": "Five Facts About Stablecoins",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote><p>We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across the Americas, Europe, and Asia and fewer cross-regional flows than the standard method implies. Third, we estimate a structural cash-management model on the holdings data and find that the costs of accessing stablecoin wallets have fallen since 2023. Fourth, stablecoins are becoming the settlement currency of a fast-growing onchain credit market, and their growth appears to reallocate rather than destroy credit. Fifth, smart contracts are involved in about a third of Ethereum stablecoin transactions and over two thirds of volume, and protocols such as x402 demonstrate sub-cent machine-to-machine payments. Stablecoins behave as tokenized money, with implications for financial markets and regulation.</p></blockquote>\n<p>That is from <a href=\"https://www.nber.org/papers/w36038#fromrss\" target=\"_blank\" rel=\"noopener noreferrer\">a recent NBER working paper</a> by <span><a href=\"https://www.nber.org/people/william_cong\" target=\"_blank\" rel=\"noopener noreferrer\">Lin William Cong</a>, </span><span><a href=\"https://www.nber.org/people/gordon_y_liao\" target=\"_blank\" rel=\"noopener noreferrer\">Gordon Y. Liao</a>, </span><span><a href=\"https://www.nber.org/people/eswar_prasad\" target=\"_blank\" rel=\"noopener noreferrer\">Eswar S. Prasad</a> </span><span>&amp; <a href=\"https://www.nber.org/people/tony_zhang\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Zhang</a>.</span></p>",
+  "wordCount": 177,
+  "imageCount": 0,
+  "linkCount": 5
+}

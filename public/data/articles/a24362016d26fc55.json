@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "paywalled": false,
+  "access": "open",
+  "url": "https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html",
+  "source": "Marginal Revolution",
+  "title": "HumanFish — Predicting Who Actually Wins a Human Chess Game",
+  "subtitle": null,
+  "byline": null,
+  "publishedAt": null,
+  "contentHtml": "<blockquote>\n<p>The eval bar on a chess broadcast answers the wrong question. It tells you what happens if two 3600-Elo engines play perfectly with infinite time. What you actually want to know while watching humans play is: <strong>who is going to win from here, how likely is a draw, and why?</strong></p>\n<p><strong>HumanFish</strong> is an open hybrid model trained on <strong>550,001 tournament positions (91,720 human 2400–2900 games)</strong> combining <strong>Stockfish 19</strong>, <strong>Leela Chess Zero</strong>, a grandmaster move predictor (<strong>DSC-150M</strong>), and <strong>live tournament clocks</strong>. It outputs calibrated <code>White Win / Draw / Black Win</code> odds—and shows the concrete moves behind every disagreement right on the board.</p></blockquote>\n<p>I have long wanted such a thing, here is <a href=\"https://humanfish.vercel.app/methodology\" target=\"_blank\" rel=\"noopener noreferrer\">the link</a>.&nbsp; Built by the well-known <a href=\"https://chatgpt.com/s/t_6b088852d0288191be4244b86326777b\" target=\"_blank\" rel=\"noopener noreferrer\">book reviewer Patrick Collison</a>.</p>",
+  "wordCount": 121,
+  "imageCount": 0,
+  "linkCount": 2
+}
