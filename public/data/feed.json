@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-11-27T02:47:33.308Z",
-  "fetchedAt": "2026-11-27T02:47:33.305Z",
+  "generatedAt": "2026-11-27T12:03:57.057Z",
+  "fetchedAt": "2026-11-27T12:03:57.052Z",
   "sourceCount": 25,
-  "itemCount": 183,
-  "totalItemCount": 811,
+  "itemCount": 182,
+  "totalItemCount": 821,
   "items": [
+    {
+      "id": "Slow Boring:https://www.slowboring.com/p/we-need-to-understand-health-care",
+      "title": "We need to understand “health care costs” better",
+      "url": "https://www.slowboring.com/p/we-need-to-understand-health-care",
+      "source": "Slow Boring",
+      "sourceUrl": "https://www.slowboring.com/",
+      "access": "paywalled",
+      "paywallType": "partial",
+      "summary": "Plus multiparty America, a long-lived Lenin, and much more",
+      "publishedAt": "2026-11-27T11:03:11.000Z",
+      "articleId": "316d9396276980f4"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated",
+      "title": "The mental illness theory of politics is modestly underrated",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Using a large national panel dataset, we find that receiving counseling from mental health professionals decreases the likelihood of protesting in subsequent weeks by 34%–39%. Experimental results are broadly consistent with observational findings. In a field experiment, mental health outreach reduces anxiety by an average of 11% (d = 0.41), with mediation analyses showing decreased […]",
+      "publishedAt": "2026-11-27T09:01:02.000Z",
+      "articleId": "8696e80f3d25f3b6"
+    },
+    {
+      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan",
+      "title": "My podcast with Hasan",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html",
+      "source": "Marginal Revolution",
+      "sourceUrl": "https://marginalrevolution.com/",
+      "access": "open",
+      "summary": "Excellent questions, mostly fresh material, and interesting throughout. Here is the basic info: Watch on Substack or YouTube Listen on Apple Podcasts or Spotify Read the full transcript on Substack Here is one excerpt: Hazn: I’ve been thinking a lot of how to categorize your thinking. And I think, I naturally think in religious frames of mind. And I’ve been trying to […]",
+      "publishedAt": "2026-11-27T05:58:24.000Z",
+      "articleId": "ebce85d8698c98f4"
+    },
     {
       "id": "David French (NYT):https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
       "title": "Donate This Holiday Season: CURE Epilepsy Needs Your Help",
@@ -486,28 +520,6 @@
       "summary": "No kings isn’t just about Trump.",
       "publishedAt": "2026-11-23T19:12:29.000Z",
       "articleId": "99c02c36be61ab68"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses",
-      "title": "The AI gains that gdp misses",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is not captured […]",
-      "publishedAt": "2026-11-23T18:44:20.000Z",
-      "articleId": "fa7a0706f85f6c21"
-    },
-    {
-      "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-587",
-      "title": "Monday assorted links",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html",
-      "source": "Marginal Revolution",
-      "sourceUrl": "https://marginalrevolution.com/",
-      "access": "open",
-      "summary": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard […]",
-      "publishedAt": "2026-11-23T17:01:36.000Z",
-      "articleId": "533129df78f80ba9"
     },
     {
       "id": "Works in Progress:https://www.worksinprogress.news/p/the-unfair-edge-of-biotech-hedge",
@@ -1038,17 +1050,6 @@
       "summary": "Featuring Fiona Apple, Chumbawamba, Jason Mraz, and others",
       "publishedAt": "2026-11-17T14:31:51.000Z",
       "articleId": "b638930b7b369cdb"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-biggest-myth-about-american-immigration",
-      "title": "The biggest myth about American immigration policy",
-      "url": "https://www.slowboring.com/p/the-biggest-myth-about-american-immigration",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "open",
-      "summary": "Surging Hispanic migration had nothing to do with the 1965 immigration law.",
-      "publishedAt": "2026-11-17T11:03:20.000Z",
-      "articleId": "3e917391e4d67582"
     },
     {
       "id": "Stratechery:https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
@@ -2053,17 +2054,6 @@
       "summary": "...",
       "publishedAt": "2026-10-28T15:29:17.000Z",
       "articleId": "f2475fca6e525e17"
-    },
-    {
-      "id": "Works in Progress:https://www.worksinprogress.news/p/young-prudes",
-      "title": "Young prudes",
-      "url": "https://www.worksinprogress.news/p/young-prudes",
-      "source": "Works in Progress",
-      "sourceUrl": "https://www.worksinprogress.news/",
-      "access": "open",
-      "summary": "The end of casual sex",
-      "publishedAt": "2026-10-28T10:47:16.000Z",
-      "articleId": "be8aba821edafa31"
     }
   ],
   "weather": null,
@@ -2081,10 +2071,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "failed",
-      "itemCount": 0,
+      "mode": "rss",
+      "itemCount": 10,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": "Status code 415"
+      "error": null
     },
     {
       "name": "Astral Codex Ten",
