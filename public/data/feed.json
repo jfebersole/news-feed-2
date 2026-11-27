@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-11-26T19:34:12.892Z",
-  "fetchedAt": "2026-11-26T19:34:12.889Z",
+  "generatedAt": "2026-11-27T02:47:33.308Z",
+  "fetchedAt": "2026-11-27T02:47:33.305Z",
   "sourceCount": 25,
-  "itemCount": 184,
-  "totalItemCount": 821,
+  "itemCount": 183,
+  "totalItemCount": 811,
   "items": [
+    {
+      "id": "David French (NYT):https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
+      "title": "Donate This Holiday Season: CURE Epilepsy Needs Your Help",
+      "url": "https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
+      "source": "David French (NYT)",
+      "sourceUrl": "https://www.nytimes.com/by/david-french",
+      "access": "paywalled",
+      "summary": "Unlikely friends, a common cause.",
+      "publishedAt": "2026-11-26T19:48:16.000Z",
+      "articleId": "baced0437e7e7c79"
+    },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game",
       "title": "HumanFish — Predicting Who Actually Wins a Human Chess Game",
@@ -26,17 +37,6 @@
       "summary": "1. What is Rockabilly? (short video) 2. What is the plan to grow Chicago? 3. On Chinese clinical trials. 4. The economy is booming. 5. Seb Krier, on Pinker. 6. At least one attempt at asteroid deflection succeeded. 7. Progress in green cement production?",
       "publishedAt": "2026-11-26T16:45:28.000Z",
       "articleId": "4b3f51afe191917b"
-    },
-    {
-      "id": "David French (NYT):https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
-      "title": "Donate This Holiday Season: CURE Epilepsy Needs Your Help",
-      "url": "https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html",
-      "source": "David French (NYT)",
-      "sourceUrl": "https://www.nytimes.com/by/david-french",
-      "access": "paywalled",
-      "summary": "Unlikely friends, a common cause.",
-      "publishedAt": "2026-11-26T14:03:39.000Z",
-      "articleId": "baced0437e7e7c79"
     },
     {
       "id": "Can't Get Much Higher:https://www.cantgetmuchhigher.com/p/does-thanksgiving-music-exist-c1e",
@@ -82,6 +82,17 @@
       "summary": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across […]",
       "publishedAt": "2026-11-26T10:50:37.000Z",
       "articleId": "0f25ea3006fb43f8"
+    },
+    {
+      "id": "Neil Paine:https://neilpaine.substack.com/p/the-college-football-playoffs-perfect",
+      "title": "The College Football Playoff’s Perfect Thanksgiving Chaos Recipes",
+      "url": "https://neilpaine.substack.com/p/the-college-football-playoffs-perfect",
+      "source": "Neil Paine",
+      "sourceUrl": "https://neilpaine.substack.com/",
+      "access": "open",
+      "summary": "Which rivalry-weekend results would leave the selection committee with the biggest mess on its plate?",
+      "publishedAt": "2026-11-26T10:01:24.000Z",
+      "articleId": "b6db3cfed90ffe88"
     },
     {
       "id": "Marginal Revolution:https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal",
@@ -1049,18 +1060,6 @@
       "summary": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
       "publishedAt": "2026-11-17T11:00:00.000Z",
       "articleId": "7acb13e49768aa20"
-    },
-    {
-      "id": "Slow Boring:https://www.slowboring.com/p/the-yimby-mayor-trying-to-prepare",
-      "title": "The YIMBY mayor trying to prepare Cincinnati for a wave of climate migration",
-      "url": "https://www.slowboring.com/p/the-yimby-mayor-trying-to-prepare",
-      "source": "Slow Boring",
-      "sourceUrl": "https://www.slowboring.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Mayor Aftab Pureval is building transit and housing for today’s residents. He says it’s also how the city is preparing for climate migrants.",
-      "publishedAt": "2026-11-16T23:01:41.000Z",
-      "articleId": "84d259779f627fd0"
     },
     {
       "id": "Money Stuff (Bloomberg):https://kill-the-newsletter.com/feeds/gny0ji85cmjhbsuwjspj/entries/wg5e4fic8ndfft9gc3mjzr1mzdpf7g9tv5y2i3pg.html",
@@ -2065,18 +2064,6 @@
       "summary": "The end of casual sex",
       "publishedAt": "2026-10-28T10:47:16.000Z",
       "articleId": "be8aba821edafa31"
-    },
-    {
-      "id": "The Lowe Post:https://zachlowe.substack.com/p/denver-nuggets-troubling-start-plus-notes-on-wolves-cavs",
-      "title": "The Nuggets’ Troubling Start",
-      "url": "https://zachlowe.substack.com/p/denver-nuggets-troubling-start-plus-notes-on-wolves-cavs",
-      "source": "The Lowe Post",
-      "sourceUrl": "https://zachlowe.substack.com/",
-      "access": "paywalled",
-      "paywallType": "partial",
-      "summary": "Plus, notes on the Wolves and Cavs after Monday night’s overtime thriller",
-      "publishedAt": "2026-10-27T20:51:37.000Z",
-      "articleId": "0a6ac3d130e108e5"
     }
   ],
   "weather": null,
@@ -2094,10 +2081,10 @@
     {
       "name": "Tyler Cowen's Ethnic Dining Guide",
       "url": "https://tylercowensethnicdiningguide.com/",
-      "mode": "rss",
-      "itemCount": 10,
+      "mode": "failed",
+      "itemCount": 0,
       "feedUrl": "https://tylercowensethnicdiningguide.com/index.php/feed/",
-      "error": null
+      "error": "Status code 415"
     },
     {
       "name": "Astral Codex Ten",
@@ -2175,7 +2162,7 @@
       "name": "Neil Paine",
       "url": "https://neilpaine.substack.com/",
       "mode": "rss-proxy",
-      "itemCount": 2,
+      "itemCount": 3,
       "feedUrl": "https://neilpaine.substack.com/feed",
       "error": null
     },
@@ -2199,7 +2186,7 @@
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/",
       "mode": "rss",
-      "itemCount": 14,
+      "itemCount": 13,
       "feedUrl": "https://www.slowboring.com/feed",
       "error": null
     },
